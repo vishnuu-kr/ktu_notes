@@ -179,7 +179,7 @@ def fetch_notes(topic_title, course_info, module_info, api_key):
 class KeyPool:
     """Round-robin key distributor with per-key concurrency limiting."""
     
-    def __init__(self, keys, max_per_key=3):
+    def __init__(self, keys, max_per_key=1):
         self.keys = keys
         self.max_per_key = max_per_key
         self.semaphores = {k: threading.Semaphore(max_per_key) for k in keys}
@@ -188,7 +188,6 @@ class KeyPool:
     
     def acquire(self):
         """Get a key and acquire its semaphore. Returns (key, release_fn)."""
-        # Try each key in round-robin until one is available
         attempts = 0
         while attempts < len(self.keys) * 2:
             with self._lock:
@@ -255,6 +254,7 @@ def process_file(file_path, key_pool, max_workers):
     
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {}
+        submitted = 0
         
         for (topic, course_name, module_name) in tasks:
             if is_time_up():
@@ -264,11 +264,17 @@ def process_file(file_path, key_pool, max_workers):
             # Acquire a key from the pool
             key, release_fn = key_pool.acquire()
             
+            # Stagger submissions: 1 second between each thread start
+            # to avoid cold-start burst on the API
+            if submitted > 0 and submitted < max_workers:
+                time.sleep(1)
+            
             future = executor.submit(
                 _generate_with_release,
                 topic['title'], course_name, module_name, key, release_fn
             )
             futures[future] = topic
+            submitted += 1
         
         # Collect results
         for future in as_completed(futures):
@@ -362,8 +368,8 @@ def main():
     
     # Initialize key pool with per-key concurrency limit
     key_pool = KeyPool(my_keys, max_per_key=args.max_per_key)
-    max_workers = len(my_keys) * args.max_per_key
-    print(f"Max concurrent requests: {max_workers} ({len(my_keys)} keys × {args.max_per_key}/key)", flush=True)
+    max_workers = min(len(my_keys) * args.max_per_key, 10)  # Cap at 10 concurrent per runner
+    print(f"Max concurrent requests: {max_workers} (capped to avoid API overload)", flush=True)
     
     # Find data directory
     data_dir = "src/data/subjects"
