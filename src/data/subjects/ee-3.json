@@ -1,0 +1,2179 @@
+[
+  {
+    "id": "gnest305-ee-s3",
+    "code": "GNEST305",
+    "name": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+    "branchId": "ee",
+    "semester": 3,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Basics of Machine Learning",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Types of Machine Learning Systems - Challenges in ML - Supervised Learning Model Example",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Regression Models",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "Classification Model Example",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Logistic Regression",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Unsupervised Model Example - K-Means Clustering, Artificial Neural Network",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Perceptron",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_8",
+            "title": "Universal Approximation Theorem (Statement Only) - Multi-Layer Perceptron",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_9",
+            "title": "Deep Neural Network",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_10",
+            "title": "Demonstration of Regression and Classification Problems Using MLP",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Role of Linear Algebra in Data Representation and Analysis",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Matrix Decomposition",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Singular Value Decomposition (SVD)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Spectral Decomposition",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Dimensionality Reduction Techniques",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Principal Component Analysis (PCA)",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Basics of Probability - Random Variables and Statistical Measures",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Rules in Probability - Bayes Theorem and Its Applications - Statistical Estimation - Maximum Likelihood Estimator (MLE)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Statistical Summaries - Correlation Analysis - Linear Correlation (Direct Problems Only) - Regression Analysis - Linear Regression (Using Least Square Method)",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pbeet304-ee-s3",
+    "code": "PBEET304",
+    "name": "ANALOG ELECTRONICS",
+    "branchId": "ee",
+    "semester": 3,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Review of Bipolar Junction Transistor and Introduction to DC Biasing",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Base Bias",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Voltage Divider Bias and Common Emitter Amplifier",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "AC Concepts",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Role of Coupling Capacitors and Emitter Bypass Capacitor, Common Emitter AC Equivalent Circuit, Amplifier Gain",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Calculation of Amplifier Gains and Impedances Using h-Parameter Equivalent Circuit",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Emitter Follower Amplifier",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_8",
+            "title": "Power Amplifiers and AC Load Line",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_9",
+            "title": "RC Coupled Amplifiers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_10",
+            "title": "Transformer Coupled Class A Amplifiers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_11",
+            "title": "Class B Amplifiers and Derivation of Efficiency",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_12",
+            "title": "Class AB Amplifiers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_13",
+            "title": "Class C and Class D Amplifiers",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Introduction to JFET",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "JFET Biasing Circuits",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Common Source Amplifier",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Introduction to MOSFET",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "MOSFET Construction",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "D-MOSFET and E-MOSFET",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Complementary MOSFET Amplifier",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "Frequency Response",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_9",
+            "title": "Basic Concepts",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_10",
+            "title": "BJT Amplifier Frequency Response",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_11",
+            "title": "FET Amplifier Frequency Response",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_12",
+            "title": "Feedback and Oscillator Circuits",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_13",
+            "title": "Feedback Concepts",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_14",
+            "title": "Feedback Connection Types",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_15",
+            "title": "Practical Feedback Circuits",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_16",
+            "title": "Oscillators",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_17",
+            "title": "Phase Shift Oscillator and Expression of Frequency Oscillation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_18",
+            "title": "Wien Bridge Oscillator",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_19",
+            "title": "Tuned Oscillator Circuits",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_20",
+            "title": "Crystal Oscillator",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Zero Crossing and Voltage Level Detectors",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Schmitt Trigger",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "Square, Triangular and Ramp Generator Circuits Using Op-Amp",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Effect of Slew Rate on Waveform Generation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Timer 555 IC: Internal Diagram, Astable and Monostable Multivibrators",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Project Based Learning Approach and Project Topic Suggestions for Analog Electronics",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pbeot304-ee-s3",
+    "code": "PBEOT304",
+    "name": "DIGITAL ELECTRONICS AND LOGIC SYSTEM DESIGN",
+    "branchId": "ee",
+    "semester": 3,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Number Systems and Codes - Binary",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Octal and Hexadecimal - Conversions - ASCII Code",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Excess-3 Code",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "Gray Code",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "BCD Code",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Signed Numbers - 1's Complement and 2's Complement - Addition and Subtraction",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Basic Logic Gates - Universal Gates",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_8",
+            "title": "TTL and CMOS - Internal Diagram of TTL NAND Gate and CMOS NOR Gate - Comparison of CMOS and TTL Performance",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_9",
+            "title": "Boolean Laws and Theorems - Sum of Products and Product of Sums Forms - K Map Representation and Simplification (Up to Four Variables) - Pairs",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_10",
+            "title": "Quads",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_11",
+            "title": "Octets - Don't Care Conditions",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Combinational Circuits",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Half Adder and Full Adder, Half Subtractor and Full Subtractor",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "4-Bit Parallel Binary Adder/Subtractor, Comparators",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Parity Generators and Checkers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Encoders",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Decoders",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "BCD to Seven Segment Decoder, Multiplexers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "Implementation of Boolean Expressions Using Multiplexers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_9",
+            "title": "Demultiplexers",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Flip-Flops - SR, D and T Flip-Flops - Characteristic Table and Excitation Table",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "JK Master Slave Flip-Flop - Conversion of Flip-Flops - SR to JK and JK to SR",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Up/Down Counters - Asynchronous Counters - Mod-6 and Mod-10 Counters",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "Synchronous Counters - Design of Synchronous Counters - Ring Counter - Johnson Counter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_5",
+            "title": "Shift Registers - SISO, SIPO, PISO, PIPO",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "State Machines - State Transition Diagram - Moore and Mealy Machines",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Digital to Analog Converter - Weighted Resistor Type",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "R-2R Ladder Type",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Analog to Digital Converter - Flash Type",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_5",
+            "title": "Successive Approximation Type",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_6",
+            "title": "Introduction to Verilog - Implementation of AND, Half Adder and Full Adder",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_7",
+            "title": "Suggestion on Project Topics",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_8",
+            "title": "Project-Based Learning in Digital Electronics",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pceel307-ee-s3",
+    "code": "PCEEL307",
+    "name": "CIRCUITS AND MEASUREMENTS LAB",
+    "branchId": "ee",
+    "semester": 3,
+    "modules": [
+      {
+        "id": "mExperiment 2",
+        "title": "Module Experiment 2",
+        "topics": [
+          {
+            "id": "tExperiment 2_1",
+            "title": "Verification of Superposition theorem",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_2",
+            "title": "Verification of Thevenin's theorem and Maximum Power Transfer theorem; Calculation of Norton's equivalent circuit",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_3",
+            "title": "Determination of impedance, admittance, and power factor in RLC series/parallel circuit and study the effect of reactive components on power factor",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_4",
+            "title": "Measurement of two port network parameters",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_5",
+            "title": "Step response of RLC circuit (suggested to use DSO)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_6",
+            "title": "3-phase power measurement using one-wattmeter and two-wattmeter methods and determination of reactive/apparent power drawn",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_7",
+            "title": "Resistance measurement using Wheatstone's bridge and extension of range of voltmeters",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_8",
+            "title": "Extension of instrument range using instrument transformers (CT and PT)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_9",
+            "title": "Calibration of 1-phase Energy meter at various power factors and phantom loading",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_10",
+            "title": "Calibration of 3-phase Energy meter using standard wattmeter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_11",
+            "title": "Determination of B-H curve, μ-H curve, and μ-B curve of a magnetic specimen",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_12",
+            "title": "Measurement of self inductance, mutual inductance, and coupling coefficient of a 1-phase transformer",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_13",
+            "title": "Measurement of capacitance, inductance, and frequency using AC bridges",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_14",
+            "title": "Determination of characteristics of thermal sensors: thermistor, thermocouple, and RTD",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_15",
+            "title": "Determination of P-V characteristics of solar PV array and determination of fill factor (study of partial shading may be included)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_16",
+            "title": "Determination of insulation resistance and earth resistance",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_17",
+            "title": "Calibration of meters (ammeter/voltmeter) using potentiometers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_18",
+            "title": "Determination of characteristics of transducers: LVDT, strain gauge, and load-cell",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_19",
+            "title": "Simulation of circuits using software platforms like PSpice/LT spice/MATLAB/Multisim",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_20",
+            "title": "Implementation of IoT-based data acquisition system",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_21",
+            "title": "Demo experiments: measurement of energy using TOD meter/digital meters/bidirectional meter; measurement of electrical variables and frequency using CRO and DSO; harmonic analysers; instrumentation systems for gas/fire/smoke detection systems; virtual instrumentation experiments using LABVIEW",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pceet302-ee-s3",
+    "code": "PCEET302",
+    "name": "CIRCUITS & NETWORKS",
+    "branchId": "ee",
+    "semester": 3,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Mesh Analysis and Nodal Analysis (Review Only) - Super Mesh and Super Node",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Superposition Principle",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Source Transformation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "Analysis with DC and AC (Sinusoidal) Excitation - Thevenin's Theorem",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Norton's Theorem",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Maximum Power Transfer Theorem",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Analysis with DC and AC (Sinusoidal) Excitation with Independent and Dependent Sources - Reciprocity Theorem",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_8",
+            "title": "Application to the Analysis of DC Circuits",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Resonance",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Series Resonance",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Resonant Frequency",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Variations of Impedance and Current with Frequency",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Bandwidth",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Quality Factor",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Parallel Resonance (Series RL in Parallel with C)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "Calculation of Resonant Frequency - Power in 3-Phase Circuits",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_9",
+            "title": "Complex Power",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_10",
+            "title": "Active, Reactive and Apparent Power in Balanced Load",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_11",
+            "title": "Steady State Analysis of 3-Wire Unbalanced Delta Connected Circuit",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_12",
+            "title": "Steady State Analysis of 3-Phase 4-Wire and 3-Wire (Using Millman's Theorem Only) Unbalanced Star Connected Circuit",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_13",
+            "title": "Neutral Shift",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Laplace Transforms (Review Only) - Transient Response of Simple Series and Parallel RL and RC Circuits with DC Excitation and Initial Conditions",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Natural Response and Forced Response",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Time Constant",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "Solution Using Laplace Transforms",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_5",
+            "title": "Transformed Circuits in S-Domain",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_6",
+            "title": "Solution Using Mesh Analysis and Nodal Analysis - Transient Response of Series RLC Circuit with DC Excitation and Initial Conditions",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_7",
+            "title": "Damping",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_8",
+            "title": "Overdamped, Underdamped, Critically Damped and Undamped",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_9",
+            "title": "Solution Using Laplace Transforms - Transient Response of Simple Series and Parallel RL and RC Circuits with Sinusoidal Excitation and Zero Initial Conditions",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_10",
+            "title": "Solution Using Laplace Transforms",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "Two Port Networks - Z",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "T Parameters - Conditions for Symmetry and Reciprocity - Relationship Between Parameters - Interconnection of Two Port Networks - Series",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Parallel and Cascade Coupled Circuit - Dot Convention - Fixing of Dots - Coefficient of Coupling - Conductively Coupled Equivalent Circuit - Sinusoidal Steady State Analysis of Coupled Circuits",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pceet303-ee-s3",
+    "code": "PCEET303",
+    "name": "DC MACHINES & TRANSFORMERS",
+    "branchId": "ee",
+    "semester": 3,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Constructional Details of DC Machines - Armature Winding (Lap and Wave) - Simplex Progressive Winding Diagrams: Lap Wound Double Layer 12-Slot 4-Pole DC Armature with 12 Commutator Segments, Simplex Wave Wound Double Layer 16-Slot 6-Pole DC Armature with 12 Commutator Segments (Winding Diagram not for Evaluation)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "DC Generator - Principle of Operation - EMF Equation and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Classification of DC Generators - Steady-State Equations and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "DC Shunt Generator - No-Load Characteristics - Critical Field Resistance and Critical Speed - Voltage Build-up - Load Characteristics and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Armature Reaction - Cross Magnetising and Demagnetising Effect (Computation of Ampere-Turns not Required) - Compensating Winding - Interpoles - Commutation (Concept only) and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Power Flow Diagram - Losses and Efficiency - Maximum Efficiency and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Parallel Operation of DC Shunt Generators - Load Sharing and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "DC Motor - Back EMF - Torque Equation and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Classification of DC Motors - Steady-State Equations and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Characteristics of DC Motors and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Starting of DC Motors - 3-Point Starter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Braking - Regenerative Braking, Dynamic Braking and Plugging (Concepts only)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Speed Control of DC Shunt and Series Motors - Field Control and Armature Control and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Power Flow Diagram - Losses and Efficiency and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "Testing - Swinburne's Test, Hopkinson's Test, Retardation Test - Separation of Rotational Losses and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Single Phase Transformers - Constructional Details - Principle of Operation - EMF Equation - Ideal and Practical Transformer and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Operation on No Load and on Load - Phasor Diagram at Different Load Conditions - Equivalent Circuit - Voltage Regulation and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Losses and Efficiency - Condition for Maximum Efficiency and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "Testing of Transformers - Polarity Test - OC Test, SC Test, Sumpner's Test - Separation of Losses and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "Autotransformer - Saving of Copper and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "3-Phase Transformer - Construction - Different Connections of 3-Phase Transformers (Yy, Dy) and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Difference Between Power Transformer and Distribution Transformer - All-Day Efficiency and Numerical Problems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Scott Connection for 3-Phase to 2-Phase Conversion",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_5",
+            "title": "Vector Groupings - Yy0, Yd11, Dy11",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_6",
+            "title": "Parallel Operation of 1-Phase and 3-Phase Transformers - Essential and Desirable Conditions",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_7",
+            "title": "On-Load and Off-Load Tap-Changers",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pceol307-ee-s3",
+    "code": "PCEOL307",
+    "name": "ANALOG AND DIGITAL ELECTRONICS LAB",
+    "branchId": "ee",
+    "semester": 3,
+    "modules": [
+      {
+        "id": "mExperiment 0",
+        "title": "Module Experiment 0",
+        "topics": []
+      },
+      {
+        "id": "mExperiment 2",
+        "title": "Module Experiment 2",
+        "topics": [
+          {
+            "id": "tExperiment 2_1",
+            "title": "Pre-lab Assignment: Measurement of Current, Voltage, Frequency and Phase Shift of Signal in a RC Network Using Oscilloscope",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_2",
+            "title": "Introduction to Circuit Simulation Using Any Circuit Simulation Software and PCB Layout Software",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_3",
+            "title": "Clipping and Clamping Circuits Using Diodes",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_4",
+            "title": "Design and Testing of Series Voltage Regulator Using Zener Diode",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_5",
+            "title": "RC Coupled Amplifier Using BJT in CE Configuration - Measurement of Gain, BW and Plotting of Frequency Response",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_6",
+            "title": "Op-amp Circuits - Design and Set Up of Inverting and Non-inverting Amplifier, Adder Circuits",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_7",
+            "title": "Op-amp Circuits - Design and Set Up of Integrator and Differentiator",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_8",
+            "title": "Basic Comparator and Schmitt Trigger Circuits Using Op-amp",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_9",
+            "title": "Waveform Generation - Square, Triangular and Saw Tooth Waveform Generation Using OPAMPs",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_10",
+            "title": "Astable and Monostable Circuit Using 555 Timer IC",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_11",
+            "title": "Pre-lab Assignment: Familiarisation of Logic Gates, Identification of Typical Logic ICs, Interpreting IC Datasheets",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_12",
+            "title": "Verification and Realisation of De Morgan's Theorem",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_13",
+            "title": "Half Adder and Full Adder Using Gates",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_14",
+            "title": "4-bit Adder/Subtractor and BCD Adder Using IC 7483",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_15",
+            "title": "Study of Multiplexer IC and Realization of Combinational Circuits Using Multiplexers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_16",
+            "title": "Realization of RS, D and JK Flip Flops",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_17",
+            "title": "Realisation of Ripple Up and Down Counters and Modulo-N Counter Using Flip-flops",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_18",
+            "title": "Design of Synchronous Up, Down and Modulo-N Counters",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_19",
+            "title": "Realization of 4-bit Serial IN Serial OUT Registers Using Flip Flops",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tExperiment 2_20",
+            "title": "Study of Shift Register IC 7495, Ring Counter and Johnsons Counter",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pceot303-ee-s3",
+    "code": "PCEOT303",
+    "name": "DATA STRUCTURES AND ALGORITHMS",
+    "branchId": "ee",
+    "semester": 3,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Algorithms",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Performance Analysis",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Space Complexity",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "Time Complexity",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Asymptotic Notations",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Arrays - Linear Search and Binary Search",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Stacks",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_8",
+            "title": "Queues and Circular Queues",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_9",
+            "title": "Priority Queues",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_10",
+            "title": "Double Ended Queues",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_11",
+            "title": "Evaluation of Expressions",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Self-Referential Structures",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Dynamic Memory Allocation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Singly Linked List and Operations",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Doubly Linked List",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Circular Linked List",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Stacks and Queues Using Linked List",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Polynomial Representation Using Linked List",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Trees",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Binary Trees and Tree Operations",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Binary Tree Representation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "Tree Traversals",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_5",
+            "title": "Binary Search Trees and Operations",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_6",
+            "title": "Graphs",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_7",
+            "title": "Representation of Graphs",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_8",
+            "title": "Depth First Search and Breadth First Search on Graphs",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_9",
+            "title": "Applications of Graphs",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "Sorting Techniques - Selection Sort",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Insertion Sort",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Quick Sort",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Merge Sort and Heap Sort",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_5",
+            "title": "Hashing Techniques",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_6",
+            "title": "Collision Resolution",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_7",
+            "title": "Overflow Handling",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_8",
+            "title": "Hashing Functions - Mid Square",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_9",
+            "title": "Division",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_10",
+            "title": "Folding",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_11",
+            "title": "Digit Analysis",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "peeet419-ee-s3",
+    "code": "PEEET419",
+    "name": "OBJECT ORIENTED PROGRAMMING",
+    "branchId": "ee",
+    "semester": 3,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Approaches to Software Design - Functional Oriented Design",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Object Oriented Design",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Case Study of Automated Fire Alarm System. Object Modeling Using Unified Modeling Language (UML) - Basic Object-Oriented Concepts",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "UML Diagrams",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Use Case Diagram",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Class Diagram. Introduction to Java - Java Buzzwords",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Java Program Structure",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_8",
+            "title": "Java Compiler",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_9",
+            "title": "Bytecode",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_10",
+            "title": "Java Virtual Machine (JVM)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_11",
+            "title": "Comments",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_12",
+            "title": "Lexical Issues",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Primitive Data Types - Integers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Floating Point Types",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Characters",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Boolean. Type Conversion and Casting",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Variables",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Arrays",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Strings. Operators - Arithmetic Operators",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "Bitwise Operators",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_9",
+            "title": "Relational Operators",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_10",
+            "title": "Boolean Logical Operators",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_11",
+            "title": "Assignment Operator",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_12",
+            "title": "Conditional (Ternary) Operator",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_13",
+            "title": "Operator Precedence. Control Statements - Selection Statements",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_14",
+            "title": "Iteration Statements and Jump Statements. Object Oriented Programming in Java - Class Fundamentals",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_15",
+            "title": "Declaring Objects",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_16",
+            "title": "Object Reference",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_17",
+            "title": "Introduction to Methods",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_18",
+            "title": "Constructors",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_19",
+            "title": "this Keyword",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_20",
+            "title": "Method Overloading. Inheritance - Super Class",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_21",
+            "title": "Sub Class",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_22",
+            "title": "Method Overriding - super Keyword. Input/Output - I/O Basics",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_23",
+            "title": "Reading Console Input",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_24",
+            "title": "Writing Console Output",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Packages - Defining Package",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Importing Packages. Access Control - public",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "private",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "protected. Exception Handling - Checked Exceptions",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_5",
+            "title": "Unchecked Exceptions",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_6",
+            "title": "try Block and catch Clause",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_7",
+            "title": "Multiple catch Clauses",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_8",
+            "title": "Nested try Statements",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_9",
+            "title": "throw",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_10",
+            "title": "throws and finally. Multithreaded Programming - Thread Model",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_11",
+            "title": "Creating Threads",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_12",
+            "title": "Creating Multiple Threads",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_13",
+            "title": "Thread Synchronization",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "Swings Fundamentals - Swing Key Features",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Model View Controller (MVC)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Components and Containers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Swing Packages",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_5",
+            "title": "Swing Layout Managers. Event Handling in Swings - Delegation Event Model",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_6",
+            "title": "Event Handling Using Swing Components - JFrame",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_7",
+            "title": "JLabel",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_8",
+            "title": "JButton",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_9",
+            "title": "JTextField. Java Database Connectivity (JDBC) - JDBC Architecture",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_10",
+            "title": "Creating and Executing Queries - Create Table",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_11",
+            "title": "Delete",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_12",
+            "title": "Insert",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_13",
+            "title": "Select",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "peeot411-ee-s3",
+    "code": "PEEOT411",
+    "name": "ELECTRICAL MEASUREMENT AND MEASURING INSTRUMENTS",
+    "branchId": "ee",
+    "semester": 3,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Functional Elements of Measurement Systems - Block Schematic and Brief Operation of Building Blocks. Standards of Measurements - Static Characteristics (Accuracy, Precision, Linearity, Resolution), Need for Calibration, Types of Errors. Instruments - Classification",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Operating Forces and Torques: Deflecting, Controlling and Damping Torques - Gravity and Spring Control",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Air, Fluid Friction and Eddy Current Damping. Measurement of Voltage and Current - Moving Coil and Moving Iron Types. Range Extension - Shunts and Multipliers (Include Simple Problems of Range Extension)",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Magnetic Measurement - Flux Meter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Determination of BH Curve - Hysteresis Loop (Method of Reversal). Measurement of Resistance",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Wheatstone's Bridge",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Kelvin's Double Bridge (Simple Problems)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Loss of Charge Method",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Measurement of Earth Resistance. Measurement of Inductance - Maxwell's Inductance Bridge",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Measurement of Capacitance - Schering's Bridge",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "Measurement of Frequency - Wien Bridge (Include Simple Problems). Q-Meter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_9",
+            "title": "LCR Meters (Description Only)",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Measurement of Power Using Dynamometer Type Wattmeter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Three Phase Power Measurement Using Two Wattmeter Method (Include Phasor Diagrams and Expressions)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Include Simple Problems of Two Wattmeter Method. Measurement of Energy Using Induction Type Energy Meter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "Two Element Energy Meter. Instrument Transformers - CT and PT - Principle of Operation - Range Extension (Description Only). Basic Principles of Electronic Multimeter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_5",
+            "title": "Digital Voltmeter. Digital Energy Meter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_6",
+            "title": "TOD Meter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_7",
+            "title": "Smart Metering",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_8",
+            "title": "Bidirectional Meters (Description Only)",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "Basic Working Principle, Types and Applications",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Measurement of Angular Speed and Luminous Intensity - Principles of Digital Data Acquisition Systems - Role of Signal Conditioning Systems (Basic Principles Only) - Phasor Measurement Unit (Block Schematic and Description Only). CRO, DSO and Harmonic Analysers: Block Diagram, Basic Principles and Applications Only. Virtual Instrumentation Systems: Block Schematic and Description Only. IoT and Data Analytics for Industrial Process - Case Study on Smart Grid",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  }
+]

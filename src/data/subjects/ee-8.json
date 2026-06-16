@@ -1,0 +1,2183 @@
+[
+  {
+    "id": "oeeet723-ee-s8",
+    "code": "OEEET723",
+    "name": "INTRODUCTION TO ENERGY STORAGE SYSTEMS",
+    "branchId": "ee",
+    "semester": 8,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Need and role of energy storage systems in power system",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "General considerations",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Energy and power balance in a storage unit",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "Mathematical model of storage system: modelling of power transformation system (PTS) - Central store (CS) and charge - discharge control system (CDCS)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Econometric model of storage system. Thermal energy: General considerations - Storage media - Containment - Thermal energy storage in a power plant",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Potential energy: Pumped hydro - Compressed Air",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Mechanical - Flywheel",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Power to Gas: Hydrogen - Synthetic methane. Electrochemical energy: Batteries - Battery parameters: C-rating - SoC - DoD - Specific Energy - Specific power (numerical examples)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Fuel cells",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Electrostatic energy (Super Capacitors)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Electromagnetic energy (Superconducting Magnetic Energy Storage)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Comparative analysis",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Environmental impacts of different technologies",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Wave",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Wind",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Tidal",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "Hydroelectric - Solar thermal technologies and Photovoltaics, Storage role in isolated power systems with renewable power sources, Storage role in an integrated power system with grid-connected renewable power sources",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "Electric vehicles - Grid to Vehicle (G2V) - Vehicle to Grid (V2G)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Management and control hierarchy of storage systems. Aggregating energy storage systems and distributed generation (Virtual Power Plant Energy Management with storage systems)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Battery SCADA",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Hybrid energy storage systems: configurations and applications",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oeeet831-ee-s8",
+    "code": "OEEET831",
+    "name": "INTRODUCTION TO ROBOTICS",
+    "branchId": "ee",
+    "semester": 8,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Definitions - Robots, Robotics",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Types of Robots - Manipulators, Mobile Robots - Wheeled & Legged Robots, Aerial Robots",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Anatomy of a Robotic Manipulator - Links, Joints, Actuators, Sensors, Controller",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "Open Kinematic vs Closed Kinematic Chain",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Degrees of Freedom",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Robot Considerations for an Application - Number of Axes, Work Volume, Capacity & Speed, Stroke & Reach, Repeatability, Precision and Accuracy, Operating Environment, Point to Point Control or Continuous Path Control",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Sensors and Actuators - Sensor Classification: Touch, Force, Proximity, Vision Sensors. Internal Sensors: Position Sensors, Velocity Sensors, Acceleration Sensors, Force Sensors",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "External Sensors: Contact Type, Non-contact Type. Actuators for Robots - Classification: Electric, Hydraulic, Pneumatic Actuators",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Their Advantages and Disadvantages",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Electric Actuators - Stepper Motors, DC Motors, DC Servo Motors and Their Drivers, AC Motors, Linear Actuators, Selection of Motors",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Robotic Configurations and End Effectors - Robot Configurations: PPP, RPP, RRP, RRR",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Features of SCARA and PUMA Robots",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Classification of Robots Based on Motion Control Methods and Drive Technologies",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "3R Concurrent Wrist",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_9",
+            "title": "Classification of End Effectors: Mechanical Grippers, Special Tools, Magnetic Grippers, Vacuum Grippers, Adhesive Grippers, Active and Passive Grippers, Selection and Design Considerations of Grippers in Robot",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Kinematics and Motion Planning - Robot Coordinate Systems: Fundamental and Composite Rotations, Homogeneous Co-ordinates and Transformations, Kinematic Parameters, D-H Representation, Direct Kinematics. The Arm Equation: Forward Kinematic Analysis of a Typical Robot up to 3 DOF. Motion Planning: Joint Space Trajectory Planning - Cubic Polynomial, Linear Trajectory with Parabolic Blends",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Cartesian Space Planning, Point to Point vs Continuous Path Planning",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "Dynamics and Control of Robots - Building of a Servo Controlled Robot: 1R Two Link Chain, Construction of Link and Joint and Mounting of Encoder, Actuator, etc. Dynamics: Dynamic Model of a Robot Using Lagrange's Equation, Dynamic Modelling of 1DOF Robot, Including Motor and Gearbox, 2R Planar Manipulator. Control Techniques: Transfer Function and State Space Representation, Performance and Stability of Feedback Control, PID Control of a Single Link Manipulator, Selection of PID Controller Gains",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Nonlinear Nature of Manipulators and Need for Nonlinear Control Techniques",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oeeet832-ee-s8",
+    "code": "OEEET832",
+    "name": "PLC AND AUTOMATION",
+    "branchId": "ee",
+    "semester": 8,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Introduction, Evolution, Relay vs PLC vs Computer",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "PLC Hardware and Internal Architecture, Input-Output Devices, Basics of Ladder Programming",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "On/Off Instructions",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Internal Relay",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Jump Instructions",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Data Handling Instruction",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Data Manipulation Instructions",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Arithmetic and Comparison",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "PID and Other Important Instructions",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Timers and Counters in PLC: Problems, Design, Development, and Simulation of PLC Programs for Temperature Control and Valve Sequencing",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Conveyor Belt Control and Control of a Process, PLC Installation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Trouble Shooting and Maintenance",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "Design of Alarms and Interlocks",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_5",
+            "title": "Networks of PLC: Distributed Control System (DCS) - Evolution, Various Architectures, Comparison, Local Control Unit",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "DCS - LCU Languages, Process Interfacing Issues, Communication Facilities, Operator Interface, Low Level and High Level Operator Interface, Displays, Engineering Interfaces",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Low Level and High Level Engineering Interfaces",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Factors to be Considered in Selecting DCS",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Other Key Issues in DCS",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_5",
+            "title": "Packaging and Power System Issues",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oeeet833-ee-s8",
+    "code": "OEEET833",
+    "name": "MECHATRONIC SYSTEMS AND CONTROL",
+    "branchId": "ee",
+    "semester": 8,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Introduction",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Examples of Mechatronic systems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Electric circuits and components",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "Semiconductor electronics",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Transistor applications sensors and transducers: performance terminology of sensors",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Displacement",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Position and proximity sensors-I",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_8",
+            "title": "Displacement",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_9",
+            "title": "Position and proximity sensors-II",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_10",
+            "title": "Force",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_11",
+            "title": "Fluid pressure",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_12",
+            "title": "Liquid flow sensors",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_13",
+            "title": "Temperature",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_14",
+            "title": "Light sensor",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_15",
+            "title": "Acceleration and vibration measurement",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_16",
+            "title": "Semiconductor sensor and MEMS",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Mechanical actuation system",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Hydraulic and pneumatic actuation system",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Electrical actuation system-I",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Electrical actuation system-II",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Data presentation system signal conditioning: introduction to signal processing and Op-Amp",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Op-Amp as signal conditioner",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Analogue to digital converter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "Digital to analogue converter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_9",
+            "title": "Artificial intelligence",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Digital circuits-I",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Digital circuits-II",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Microprocessor micro controller",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "Programming of microcontrollers modeling and system response: mechanical system model",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_5",
+            "title": "Electrical system model",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_6",
+            "title": "Fluid system model",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_7",
+            "title": "Dynamic response of systems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_8",
+            "title": "Transfer function and frequency response",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "PID controllers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Digital controllers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Program logic controllers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Input/output and communication systems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_5",
+            "title": "Fault findings mechatronics designs and case studies",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "peeet861-ee-s8",
+    "code": "PEEET861",
+    "name": "SMART GRID TECHNOLOGIES",
+    "branchId": "ee",
+    "semester": 8,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Evolution of Electric Grid",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Definitions",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Need for Smart Grid",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "Smart Grid Drivers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Functions of Smart Grid",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Opportunities and Barriers of Smart Grid",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Difference Between Conventional Grid and Smart Grid",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_8",
+            "title": "Concept of Resilient and Self-Healing Grid: Components and Architecture",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_9",
+            "title": "Interoperability",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_10",
+            "title": "Impacts of Smart Grid on System Reliability",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_11",
+            "title": "Present Development and International Policies in Smart Grid",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_12",
+            "title": "Smart Grid Standards",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_13",
+            "title": "Information and Communication Technology in Smart Grid: Wired and Wireless Communication, Radio Mesh",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_14",
+            "title": "Zigbee",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_15",
+            "title": "4G and 5G",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_16",
+            "title": "Digital PLC",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_17",
+            "title": "WiMAX",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_18",
+            "title": "Wi-Fi",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_19",
+            "title": "Bluetooth",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_20",
+            "title": "Bluetooth Low Energy (BLE)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_21",
+            "title": "Li-Fi",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_22",
+            "title": "Communication Protocols in Smart Grid",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_23",
+            "title": "Introduction to IEC 61850 Standard and Benefits",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_24",
+            "title": "IEC Generic Object-Oriented Substation Event (GOOSE)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_25",
+            "title": "Substation Model",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Introduction to Smart Meters",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Electricity Tariff",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Real Time Pricing, Automatic Meter Reading (AMR) System",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Services and Functions",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Components of AMR Systems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Advanced Metering Infrastructure (AMI)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Plug-in Hybrid Electric Vehicles (PHEV)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "Vehicle to Grid (V2G)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_9",
+            "title": "Grid to Vehicle (G2V)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_10",
+            "title": "Smart Sensors",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_11",
+            "title": "Smart Energy Efficient End Use Devices",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_12",
+            "title": "Home and Building Automation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_13",
+            "title": "Intelligent Electronic Devices (IED) and Their Application for Monitoring and Protection: Digital Fault Recorder (DFR)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_14",
+            "title": "Digital Protective Relay (DPR)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_15",
+            "title": "Circuit Breaker Monitor (CBM)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_16",
+            "title": "Phasor Measurement Unit (PMU)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_17",
+            "title": "Standards for PMU",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_18",
+            "title": "Time Synchronization Techniques",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_19",
+            "title": "Wide Area Monitoring System (WAMS)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_20",
+            "title": "Control and Protection Systems (Architecture)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_21",
+            "title": "Components of WAMS",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_22",
+            "title": "Applications: Voltage Stability Assessment",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_23",
+            "title": "Frequency Stability Assessment",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_24",
+            "title": "Power Oscillation Assessment",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_25",
+            "title": "Communication Needs of WAMS",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_26",
+            "title": "Remedial Action Scheme",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Smart Substations",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Substation Automation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Feeder Automation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "Fault Detection, Isolation, and Service Restoration (FDISR)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_5",
+            "title": "Geographic Information System (GIS)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_6",
+            "title": "Outage Management System (OMS)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_7",
+            "title": "Introduction to Smart Distributed Energy Resources and Their Grid Integration",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_8",
+            "title": "Smart Inverters",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_9",
+            "title": "Concepts of Microgrid",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_10",
+            "title": "Need and Application of Microgrid, Energy Management, Role of Technology in Demand Response, Demand Side Management",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_11",
+            "title": "Demand Side Ancillary Services",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_12",
+            "title": "Dynamic Line Rating",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "Private, Public, and Hybrid Cloud",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Types of Cloud Computing Services: Software as a Service (SaaS)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Platform as a Service (PaaS)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Infrastructure as a Service (IaaS)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_5",
+            "title": "Data as a Service (DaaS)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_6",
+            "title": "Cloud Architecture for Smart Grid",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_7",
+            "title": "Cyber Security Challenges and Solutions in Smart Grid",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_8",
+            "title": "Cybersecurity Risk Assessment",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_9",
+            "title": "Security Index Computation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_10",
+            "title": "Power Quality Management in Smart Grid: Fundamentals",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_11",
+            "title": "Power Quality (PQ) and Electromagnetic Compatibility (EMC) in Smart Grid",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_12",
+            "title": "Power Quality Conditioners for Smart Grid",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_13",
+            "title": "Case Study of Smart Grid",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "peeet862-ee-s8",
+    "code": "PEEET862",
+    "name": "HVDC AND FACTS",
+    "branchId": "ee",
+    "semester": 8,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Comparison of AC and DC Transmission - Types of HVDC System",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Current Source Converters",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Analysis Without and With Overlap Period, Voltage Source Converters (VSC)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "VSC with AC Current Control and VSC with AC Voltage Control, HVDC Controls",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Functions of HVDC Controls",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Equivalent Circuit for a Two Terminal DC Link",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Control Basics for a Two Terminal DC Link",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_8",
+            "title": "Current Margin Control Method",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_9",
+            "title": "Current Control at the Rectifier",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_10",
+            "title": "Inverter Extinction Angle Control",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_11",
+            "title": "Hierarchy of Controls",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Power Flow in Power Systems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Voltage Regulation and Reactive Power Flow Control in Power Systems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Power Flow Control - Constraints of Maximum Transmission Line Loading",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Needs and Emergence of FACTS",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Types of FACTS Controllers - Advantages and Disadvantages, Transmission Line Compensation - Uncompensated Line, Shunt Compensation, Series Compensation, Phase Angle Control",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Static Shunt Compensator - Objectives of Shunt Compensations - Variable Impedance Type VAR Generators - TCR",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "FC-TCR (Principle of Operation and Schematic) and STATCOM (Principle of Operation and Schematic), Static Series Compensator - Objectives of Series Compensations - Variable Impedance Type Series Compensators - GCSC, TCSC",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "TSSC (Principle of Operation and Schematic), Switching Converter Type Series Compensators - SSSC (Principle of Operation and Schematic)",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "Unified Power Flow Controller: Circuit Arrangement, Operation of UPFC",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Basic Principle of P and Q Control",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Independent Real and Reactive Power Flow Control",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Applications, Introduction to Interline Power Flow Controller (IPFC) (Principle of Operation and Schematic), Thyristor Controlled Voltage and Phase Angle Regulators (Principle of Operation and Schematic)",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "peeet863-ee-s8",
+    "code": "PEEET863",
+    "name": "MECHATRONIC SYSTEMS",
+    "branchId": "ee",
+    "semester": 8,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Introduction",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Examples of Mechatronic Systems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Electric Circuits and Components",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "Semiconductor Electronics",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Transistor Applications",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Sensors and Transducers: Performance Terminology of Sensors",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Displacement, Position and Proximity Sensors - I",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_8",
+            "title": "Displacement, Position and Proximity Sensors - II",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_9",
+            "title": "Force",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_10",
+            "title": "Fluid Pressure",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_11",
+            "title": "Liquid Flow Sensors",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_12",
+            "title": "Temperature Sensors",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_13",
+            "title": "Light Sensor",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_14",
+            "title": "Acceleration and Vibration Measurement",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_15",
+            "title": "Semiconductor Sensors and MEMS",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Mechanical Actuation System",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Hydraulic and Pneumatic Actuation System",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Electrical Actuation System - I",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Electrical Actuation System - II",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Data Presentation System",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Signal Conditioning: Introduction to Signal Processing and Op-Amp",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Op-Amp as Signal Conditioner",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "Analogue to Digital Converter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_9",
+            "title": "Digital to Analogue Converter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_10",
+            "title": "Artificial Intelligence",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Digital Circuits - I",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Digital Circuits - II",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Microprocessor and Microcontroller",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "Programming of Microcontrollers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_5",
+            "title": "Modeling and System Response: Mechanical System Model",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_6",
+            "title": "Electrical System Model",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_7",
+            "title": "Fluid System Model",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_8",
+            "title": "Dynamic Response of Systems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_9",
+            "title": "Transfer Function and Frequency Response",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "PID Controllers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Digital Controllers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Programmable Logic Controllers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Input/Output and Communication Systems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_5",
+            "title": "Fault Findings",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_6",
+            "title": "Mechatronics Designs",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_7",
+            "title": "Examples and Case Studies",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "peeet864-ee-s8",
+    "code": "PEEET864",
+    "name": "ELECTRONIC COMMUNICATION",
+    "branchId": "ee",
+    "semester": 8,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Introduction to Communication Systems",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Classification of Channels",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Need for Modulation. Amplitude Modulation: Equation and Frequency Spectrum of AM Signal",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "Double-Side Band Suppressed Carrier (DSB-SC) Modulation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Single Sideband Modulation (SSB)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Comparison of Spectrum",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Power and Efficiency of All the Three Variants",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_8",
+            "title": "Amplitude Modulator Circuits - Balanced Modulator",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_9",
+            "title": "AM Demodulators - Envelope Detector",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Frequency and Phase Modulation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Narrow and Wide Band FM and their Spectra",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Modulation and Demodulation Techniques for FM",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Pre-emphasis and De-emphasis",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "FM Transmitter and Receiver",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Noise in Receivers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Noise Figures",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "Performance of Analog Modulation Schemes in AWGN: SNR and Figure of Merit for Different Schemes",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Elements of Digital Communication System. Sources",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Channels and Receivers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Sampling and Reconstruction of Analog Signals: Nyquist Sampling Theorem",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "Ideal Reconstruction Filter",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_5",
+            "title": "Pulse Amplitude Modulation (PAM)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_6",
+            "title": "Time Division Multiplexing with PAM",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_7",
+            "title": "Pulse Code Modulation (PCM)",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_8",
+            "title": "A-law and Mu-law Quantization",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "Digital Bandpass Communication System",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Bandpass Modulation Techniques: Amplitude Shift Keying",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Phase Shift Keying",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Frequency Shift Keying",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_5",
+            "title": "Methods of Generation and Detection",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_6",
+            "title": "Signal Constellations",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_7",
+            "title": "M-ary Digital Modulation Schemes",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_8",
+            "title": "Quadrature Phase Shift Keying",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_9",
+            "title": "Minimum Shift Keying",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_10",
+            "title": "Quadrature Amplitude Modulation",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uehut803-ee-s8",
+    "code": "UEHUT803",
+    "name": "ORGANIZATIONAL BEHAVIOUR AND BUSINESS COMMUNICATION",
+    "branchId": "ee",
+    "semester": 8,
+    "modules": [
+      {
+        "id": "mModule 1",
+        "title": "Module Module 1",
+        "topics": [
+          {
+            "id": "tModule 1_1",
+            "title": "Definition",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_2",
+            "title": "Evolution of the Concept of OB",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_3",
+            "title": "Contributions to OB by Major Behavioural Science Disciplines",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_4",
+            "title": "Challenge and Opportunities for OB Managers",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_5",
+            "title": "Models of OB Study",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_6",
+            "title": "Custodial Model",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_7",
+            "title": "Supportive Model",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_8",
+            "title": "Collegial Model",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 1_9",
+            "title": "Human Value Model",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 2",
+        "title": "Module Module 2",
+        "topics": [
+          {
+            "id": "tModule 2_1",
+            "title": "Individual Behaviour – Attitudes and Job Satisfaction",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_2",
+            "title": "Components of Attitude",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_3",
+            "title": "Personality and Values",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_4",
+            "title": "Personality Determinants",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_5",
+            "title": "Types of Values",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_6",
+            "title": "Perception",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_7",
+            "title": "Factors Influencing Perception",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_8",
+            "title": "Group Behaviour",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_9",
+            "title": "Formation of Group",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_10",
+            "title": "Group Decision Making",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_11",
+            "title": "Creating Effective Teams",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_12",
+            "title": "Culture",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 2_13",
+            "title": "Culture's Function",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 3",
+        "title": "Module Module 3",
+        "topics": [
+          {
+            "id": "tModule 3_1",
+            "title": "Motivation and Leadership",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_2",
+            "title": "Concept of Motivation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_3",
+            "title": "Definition",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_4",
+            "title": "Theories of Motivation",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_5",
+            "title": "Maslow's Need Theory",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_6",
+            "title": "Theory X and Theory Y",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_7",
+            "title": "Two Factor Theory",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_8",
+            "title": "Vroom's Expectancy Theory",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_9",
+            "title": "Concept of Leadership",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_10",
+            "title": "Theories of Leadership",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_11",
+            "title": "Traits of Good Leader",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 3_12",
+            "title": "Difference Between Leader and Manager",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      },
+      {
+        "id": "mModule 4",
+        "title": "Module Module 4",
+        "topics": [
+          {
+            "id": "tModule 4_1",
+            "title": "Business Communication",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_2",
+            "title": "Functions, Types and Process of Communication",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_3",
+            "title": "Downward, Upward Communication",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_4",
+            "title": "Interpersonal and Group Communication",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_5",
+            "title": "Choices of Communication Channel – Cross Functional Communication",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_6",
+            "title": "Conflict Management Communication",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_7",
+            "title": "Modern Forms of Business Communication",
+            "content": "",
+            "pyqs": []
+          },
+          {
+            "id": "tModule 4_8",
+            "title": "Global Communication",
+            "content": "",
+            "pyqs": []
+          }
+        ]
+      }
+    ]
+  }
+]
