@@ -53,13 +53,24 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Create a unique branch for this matrix job (e.g., auto-notes-sem-3)
           BRANCH_NAME="auto-notes-sem-${{ matrix.semester }}"
           
-          # Check if branch exists on remote, fetch it if so, otherwise checkout new branch
-          git fetch origin $BRANCH_NAME || true
-          git checkout -B $BRANCH_NAME origin/$BRANCH_NAME || git checkout -b $BRANCH_NAME
+          # Save the newly generated files to a temp directory
+          mkdir -p /tmp/updated_data
+          cp src/data/subjects/*-${{ matrix.semester }}.json /tmp/updated_data/
           
-          git add -A
-          # Commit and push, allowing failure if nothing to commit
+          # Fetch origin and switch to the target branch
+          git fetch origin
+          if git show-ref --verify --quiet refs/remotes/origin/$BRANCH_NAME; then
+            git checkout $BRANCH_NAME
+            git pull origin $BRANCH_NAME
+          else
+            git checkout -b $BRANCH_NAME
+          fi
+          
+          # Copy the updated data back to the workspace
+          cp /tmp/updated_data/* src/data/subjects/
+          
+          # Commit and push changes
+          git add src/data/subjects/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Automated Generation: Semester ${{ matrix.semester }}" && git push -u origin $BRANCH_NAME)
