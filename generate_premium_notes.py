@@ -100,11 +100,20 @@ def fetch_notes_from_minimax(topic, course, module, api_key):
         "temperature": 0.1
     }
 
-    resp = requests.post("https://api.tokenrouter.com/v1/chat/completions", headers=headers, json=payload, timeout=60)
-    resp.raise_for_status()
-    content = resp.json()["choices"][0]["message"]["content"]
-    content = re.sub(r'<think>.*?</think>', '', content, flags=re.DOTALL).strip()
-    return content
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            resp = requests.post("https://api.tokenrouter.com/v1/chat/completions", headers=headers, json=payload, timeout=300)
+            resp.raise_for_status()
+            content = resp.json()["choices"][0]["message"]["content"]
+            content = re.sub(r'<think>.*?</think>', '', content, flags=re.DOTALL).strip()
+            return content
+        except Exception as e:
+            if attempt == max_retries - 1:
+                raise e
+            wait_time = (attempt + 1) * 10
+            print(f"[RETRY] '{topic}' failed due to: {str(e)}. Retrying in {wait_time}s... (Attempt {attempt + 1}/{max_retries})", flush=True)
+            time.sleep(wait_time)
 
 def process_file(file_path, keys):
     print(f"Processing file: {file_path}")
