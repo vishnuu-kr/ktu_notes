@@ -181,9 +181,10 @@ if __name__ == "__main__":
         all_keys = [k.strip() for k in f.read().split(",") if k.strip()]
         
     sem_id = int(args.semester)
-    # Slice keys: 5 matrix jobs, 6 keys each
-    start_idx = (sem_id - 1) * 6
-    end_idx = min(sem_id * 6, len(all_keys))
+    total_vms = 5
+    keys_per_vm = max(1, len(all_keys) // total_vms)
+    start_idx = (sem_id - 1) * keys_per_vm
+    end_idx = len(all_keys) if sem_id == total_vms else sem_id * keys_per_vm
     keys = all_keys[start_idx:end_idx]
     
     if not keys:
