@@ -114,7 +114,7 @@ def process_file(file_path, keys):
     updated = False
     
     with ThreadPoolExecutor(max_workers=len(keys)) as executor:
-        futures = []
+        futures_dict = {}
         key_idx = 0
         
         for subject in data:
@@ -124,7 +124,7 @@ def process_file(file_path, keys):
                 for topic in module.get('topics', []):
                     # Graceful shutdown check
                     if time.time() - START_TIME > MAX_RUNTIME_SECONDS:
-                        print("MAX RUNTIME REACHED (5.5 Hours). Gracefully halting task scheduling to allow saving...")
+                        print("MAX RUNTIME REACHED (5.5 Hours). Gracefully halting task scheduling to allow saving...", flush=True)
                         break
                         
                     # Skip if already has content that isn't a placeholder
@@ -135,7 +135,7 @@ def process_file(file_path, keys):
                         fetch_notes_from_minimax, 
                         topic['title'], course_name, module_name, keys[key_idx % len(keys)]
                     )
-                    futures.append((future, topic))
+                    futures_dict[future] = topic
                     key_idx += 1
                 
                 if time.time() - START_TIME > MAX_RUNTIME_SECONDS:
@@ -143,15 +143,17 @@ def process_file(file_path, keys):
             if time.time() - START_TIME > MAX_RUNTIME_SECONDS:
                 break
                     
-        for future, topic in futures:
+        from concurrent.futures import as_completed
+        for future in as_completed(futures_dict):
+            topic = futures_dict[future]
             try:
                 content = future.result()
                 if content:
                     topic['content'] = content
                     updated = True
-                    print(f"[OK] Generated: {topic['title']}")
+                    print(f"[OK] Generated: {topic['title']}", flush=True)
             except Exception as e:
-                print(f"[FAIL] {topic['title']}: {str(e)}")
+                print(f"[FAIL] {topic['title']}: {str(e)}", flush=True)
                 
     if updated:
         # Atomic saving

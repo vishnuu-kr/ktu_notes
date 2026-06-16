@@ -45,8 +45,10 @@ jobs:
           echo "${{ secrets.MINIMAX_API_KEYS }}" > miniall.txt
           
       - name: Run Notes Generation Engine
+        env:
+          PYTHONUNBUFFERED: "1"
         run: |
-          python generate_premium_notes.py --branch "${{ github.event.inputs.branches }}" --semester "${{ matrix.semester }}"
+          python -u generate_premium_notes.py --branch "${{ github.event.inputs.branches }}" --semester "${{ matrix.semester }}"
           
       - name: Commit and Push to Isolated Branch
         run: |
