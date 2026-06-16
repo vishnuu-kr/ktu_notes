@@ -103,7 +103,7 @@ def fetch_notes_from_minimax(topic, course, module, api_key):
     max_retries = 3
     for attempt in range(max_retries):
         try:
-            resp = requests.post("https://api.tokenrouter.com/v1/chat/completions", headers=headers, json=payload, timeout=300)
+            resp = requests.post("https://api.tokenrouter.com/v1/chat/completions", headers=headers, json=payload, timeout=600)
             resp.raise_for_status()
             content = resp.json()["choices"][0]["message"]["content"]
             content = re.sub(r'<think>.*?</think>', '', content, flags=re.DOTALL).strip()
