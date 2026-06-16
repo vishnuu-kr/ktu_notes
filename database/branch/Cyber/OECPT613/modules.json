@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Network hardware, Network software, OSI, TCP/IP Reference models,\nExample Networks: ARPANET,\nInternet. Physical Layer: Guided Transmission media: twisted pairs, coaxial\ncable, fiber optics, Wireless transmission. Data link layer: Design issues,\nframing, Error detection and correction.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Elementary data link protocols:\nSimplex protocol, A simplex stop and wait protocol for an error-free\nchannel, A simplex stop and wait protocol for noisy channel. Sliding\nWindow protocols: A one-bit sliding window protocol, A protocol using Go-\nBack-N, A protocol using Selective Repeat, Example data link protocols.\nMedium Access sub layer: The channel allocation problem, Multiple access\nprotocols: ALOHA, Carrier sense multiple access protocols, collision free\nprotocols. Wireless LANs, Data link layer switching.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Network Layer: Design issues, Routing algorithms: shortest path routing,\nFlooding, Hierarchical routing, Broadcast, Multicast, distance vector routing,\nCongestion Control Algorithms, Quality of Service\nInternetworking, The Network layer in the internet.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Transport Layer: Transport Services, Elements of Transport protocols,\nConnection management, TCP and UDP protocols.\nApplication Layer –Domain name system, SNMP, Electronic Mail; the\nWorld WEB, HTTP, Streaming audio and video.",
+    "contact_hours": "9"
+  }
+]

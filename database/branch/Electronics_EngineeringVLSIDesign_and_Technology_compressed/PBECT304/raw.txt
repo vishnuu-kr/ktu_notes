@@ -1,0 +1,457 @@
+Course Code 
+PBECT304 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GYEST104  
+Introduction to 
+Electrical & 
+Electronics 
+Engineering
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the number systems in digital systems. 
+2. To introduce the basic postulates of Boolean algebra, digital logic gates and Boolean 
+expressions 
+3. To design and implement combinational and sequential circuits. 
+4. To design and implement digital circuits using Hardware Descriptive Language like 
+Verilog on FPGA. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to digital circuits: Review of number systems representation-
+conversions, Arithmetic of Binary number systems, Signed and unsigned 
+numbers, BCD.  
+Boolean algebra: Theorems, sum of product and product of sum - 
+simplification, canonical forms- min term and max term, Simplification of 
+Boolean expressions - Karnaugh map (upto 4 variables), Implementation of 
+Boolean expressions using universal gates. 
+9 
+2 
+Combinational logic circuits- Half adder and Full adders, Subtractors, BCD 
+adder, Ripple carry and carry look ahead adders, Decoders, Encoders, Code 
+converters, Comparators, Parity generator, Multiplexers, De-multiplexers, 
+Implementation of Boolean algebra using MUX.  
+Introduction to Verilog HDL – Basic language elements, Basic 
+implementation of logic gates and combinational circuits. 
+9 
+
+ 
+ 
+3 
+Sequential Circuits: SR Latch, Flip flops - SR, JK, Master-Slave JK, D and 
+T Flip flops. Conversion of Flip flops, Excitation table and characteristic 
+equation. Shift registers-SIPO, SISO, PISO, PIPO and Universal shift 
+registers.  Ring and Johnsons counters. Design of Asynchronous, 
+Synchronous and Mod N counters. 
+9 
+4 
+Finite state machines - Mealy and Moore models, State graphs, State 
+assignment, State table, State reduction.  
+Logic Families: -Electrical characteristics of logic gates (Noise margin, Fan-
+in, Fan-out, Propagation delay, Transition time, Power -delay product) -TTL, 
+ECL, CMOS. 
+Circuit description and working of TTL and CMOS inverter, CMOS NAND 
+and CMOS NOR gates. 
+9 
+ 
+Suggestion on Project Topics 
+● 
+A random sequence generator 
+● 
+Traffic light controller 
+● 
+Multiplexer based person priority check in system at airport 
+● 
+Waveform generator 
+● 
+Object/Visitor counter 
+● 
+Fast adders 
+● 
+Hamming code-based parity checker 
+● 
+Arithmetic Logic Unit using FPGA 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project  
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 2 marks 
+ 
+(8x2 =16marks) 
+ 
+Each question carries 6 marks.  
+ 
+Two questions will be given from each module, 
+out of which 1 question should be answered.  
+ 
+Each question can have a maximum of 2 sub 
+divisions.  
+(4x6 = 24 marks) 
+40 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply the knowledge of digital representation of information and 
+Boolean algebra to deduce optimal digital circuits. 
+K3 
+CO2 
+Design and implement combinational logic circuits, sequential logic 
+circuits and finite state machines. 
+K5 
+CO3 
+Design and implement digital circuits on FPGA using hardware 
+description language (HDL).  
+K5 
+CO4 
+Outline the performance of logic families with respect to different 
+parameters.  
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+CO4 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Fundamentals 
+ 
+Thomas L. Floyd 
+Pearson Education 
+11th 
+Edition, 
+2017 
+2 
+Fundamentals of Digital Logic 
+with Verilog Design 
+Stephen Brown 
+McGraw Hill 
+Education 
+2nd  Edition 
+3 
+Fundamentals of Logic Design 
+Roth C.H 
+Jaico Publishers. V 
+Ed., 2009. 
+6th Edition, 
+2009 
+4 
+Modern digital Electronics 
+R.P. Jain 
+Tata McGraw Hill, 
+2009 
+4th Edition, 
+2009 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Design: With an 
+Introduction to the Verilog 
+HDL, VHDL, and System 
+Verilog 
+M Morris Mano, Michael 
+D. Ciletti 
+Pearson India 
+ 
+6th  Edition, 
+2018 
+2 
+Fundamentals of Digital 
+Circuits 
+A. Ananthakumar 
+PHI 
+4th  Edition, 
+2016 
+3 
+Introduction to Logic Circuits 
+& Logic Design with Verilog 
+Brock J. LaMeres 
+Springer 
+2nd Edition, 
+2019 
+4 
+Digital Design Verilog HDL 
+and Fundamentals 
+Joseph Cavanagh 
+CRC Press 
+1st Edition, 
+2008 
+5 
+Digital Circuits and Systems 
+D.V. Hall 
+Tata McGraw Hill 
+1989 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/117/106/117106086/
+https://archive.nptel.ac.in/courses/106/105/106105185/
+2 
+https://archive.nptel.ac.in/courses/117/106/117106086/
+https://archive.nptel.ac.in/courses/106/105/106105185/ 
+3 
+https://archive.nptel.ac.in/courses/117/106/117106086/
+https://archive.nptel.ac.in/courses/106/105/106105185/ 
+4 
+https://archive.nptel.ac.in/courses/117/106/117106086/
+https://archive.nptel.ac.in/courses/106/105/106105185/ 
+ 
+ 
+ 
+
+ 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery 
+Project 
+identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops
+Presentation 
+(Progress and Final 
+Presentations) 
+Group discussion 
+Project Analysis 
+Data Collection 
+Evaluation 
+Question answer 
+Sessions/ 
+Brainstorming 
+Sessions
+Analytical thinking 
+and self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project reformation (If 
+required)
+Guest Speakers 
+(Industry Experts) 
+Case Study/ Field 
+Survey Report 
+Prototyping 
+Poster Presentation / Video 
+Presentation: Students present 
+their results in a 2 to 5 minutes 
+video
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+Project Assessment and Evaluation criteria (30 Marks) 
+1. Project Planning and Proposal (5 Marks) 
+ Clarity and feasibility of the project plan  
+ Research and background understanding  
+ Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ Individual contribution to the presentation  
+ Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+ Active participation and individual contribution  
+
+ 
+ 
+ Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+ Adherence to the project timeline and milestones  
+ Application of theoretical knowledge and problem-solving  
+ Final Result 
+5. Final Presentation (5 Marks) 
+ Quality and clarity of the overall presentation  
+ Individual contribution to the presentation  
+ Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ Overall quality and technical excellence of the project  
+ Innovation and originality in the project  
+ Creativity in solutions and approaches  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S3 
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE AND DATA 
+SCIENCE

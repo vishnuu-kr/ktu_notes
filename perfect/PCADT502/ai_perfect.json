@@ -1,0 +1,54 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Robotics - Degrees of Freedom",
+            "Robot Types - Manipulators",
+            "Anatomy of a Robotic Manipulator - Links, Joints, Actuators, Sensors, Controllers",
+            "Robot Configurations - PPP, RRR",
+            "Mobile Robots - Wheeled, Legged, Aerial, Underwater, Surface Water Robots",
+            "Dynamic Characteristics - Speed of Motion, Load Carrying Capacity, Speed of Response",
+            "End Effectors - Mechanical, Special Tools, Magnetic, Vacuum, Adhesive, Active and Passive Grippers",
+            "Ethics in Robotics - Three Laws and Applications of Robots"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sensor Classification - Touch, Force, Proximity, Vision Sensors",
+            "Internal Sensors - Position, Velocity, Acceleration, Force Sensors",
+            "External Sensors - Contact Type, Non-Contact Type",
+            "Digital Cameras - CCD, CMOS, Omnidirectional",
+            "Sensor Characteristics",
+            "Actuators - DC Motors, H-Bridge, Pulse Width Modulation, Stepper Motors, Servos",
+            "Hydraulic and Pneumatic Actuators"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Image Processing - Sensing, Pre-processing, Segmentation, Description, Recognition, Interpretation, Feature Extraction",
+            "Camera Sensor Hardware Interfacing",
+            "Representation of Transformations - Pure Translation, Pure Rotation about an Axis, Combined Transformations, Transformations Relative to the Rotating Frame",
+            "Differential-Drive Wheeled Mobile Robots",
+            "Degree of Mobility - Wheel Configurations, Holonomic and Nonholonomic Robots",
+            "Omnidirectional Wheeled Mobile Robots"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Position and Orientation - Representing Robot Position",
+            "Basics of Reactive Navigation",
+            "Robot Localization",
+            "Challenges in Localization - Continuous Representations, Decomposition Strategies, Map Representation",
+            "Probabilistic Map-Based Localization (Kalman Method)",
+            "Autonomous Map Building",
+            "Simultaneous Localization and Mapping (SLAM) - Mathematical Definition and Types",
+            "Path Planning - Graph Search, Breadth First Search, Depth First Search, Dijkstra's Algorithm, A*, D*",
+            "Potential Field Based Path Planning",
+            "Obstacle Avoidance - Bug Algorithm, Vector Field Histogram, Dynamic Window Approaches",
+            "Navigation Architectures - Modularity for Code Reuse and Sharing, Control Localization"
+        ]
+    }
+]

@@ -1,0 +1,303 @@
+Course Code 
+PCITT302 
+CIE Marks 
+40 
+Teaching Hours/Week
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GXEST203: Foundations of Computing 
+- From Hardware Essentials to Web 
+Design 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Students will be able to gain a comprehensive understanding of the fundamental principles 
+and operational concepts of computer architecture. 
+2. Students will be able to learn about the key elements and mechanisms of pipelining and its 
+implementation in modern processors. 
+3. Students will be able to acquire knowledge of cache memory and DRAM systems, focusing 
+on their organisation, performance, and optimisation techniques. 
+4. Students can explore and differentiate various parallel processing architectures and multicore 
+processors. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours  
+1 
+Fundamentals: Basic operational concepts, memory locations and 
+addresses, instructions and instruction sequencing, instruction set principles 
+modes, classifying instruction set architectures, memory addressing, type and 
+size of operands, operations in the instruction set, instructions for control 
+flow, encoding an instruction set, RISC architecture. 
+11 
+2 
+Pipelining: Introduction to single cycle and multi cycle processors. 
+Pipelining- Basic and intermediate concepts, Introduction to pipelining, 
+pipeline hazards, structural hazards, data hazards, control hazards, pipelining 
+implementation, RISC V integer pipeline to handle multicycle operations.  
+12 
+3 
+Memory Organization: Introduction to cache memory, cache mapping, 
+block replacement techniques, cache performance, six basic cache 
+optimizations. DRAM memory system organization, basic nomenclature, 
+12 
+
+ 
+ 
+memory modules, basic DRAM memory access protocol, basic DRAM 
+commands, DRAM controller architecture, row buffer management policy, 
+open page row buffer management policy, close page row buffer 
+management policy.  
+4 
+Introduction to Parallel Processors:  SISD, MIMD, SIMD, SPMD, and 
+vector hardware multithreading, multicore and other shared memory 
+multiprocessors, Case Study: Intel Core i7. 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 
+Questions 
+from 
+each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply the fundamental concepts of computer operations, memory 
+organization, and instruction set architectures. 
+K3 
+CO2 
+Describe and apply the concepts of pipelining, including pipeline 
+hazards and their implementation in RISC-V architecture. 
+K3 
+CO3 
+Apply the principles and performance optimization techniques of cache 
+memory and the organization and protocols of DRAM systems. 
+K2 
+CO4 
+Understand different parallel processor architectures and multicore 
+processors, with a case study on Intel Core i7. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Organization and 
+Design 
+Patterson D.A. and J. L. 
+Hennessey 
+Morgan Kauffmann 
+Publishers 
+5th Edition 
+2014 
+2 
+Computer Organization 
+Hamacher C., Z. 
+Vranesic and S. Zaky 
+McGraw Hill 
+5th edition 
+2012 
+3 
+Memory Systems: Cache, 
+DRAM, Disk 
+Bruce Jacob, David T. 
+Wang, and Spencer Ng 
+Morgan Kauffmann 
+Publishers 
+1st Edition 
+2007 
+4 
+Computer Organization- A 
+Quantitative Approach 
+Patterson D.A. and J. L. 
+Hennessey 
+Morgan Kauffmann 
+Publishers 
+6th Edition 
+2019 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO2 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO3 
+3 
+2 
+3 
+- 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO4 
+3 
+2 
+2 
+- 
+3 
+- 
+- 
+- 
+- 
+2 
+2 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Computer Organization and 
+Architecture: Designing for 
+Performance 
+William Stallings 
+Pearson 
+9th edition 
+2013 
+2 
+Parallel Computers- 
+Architecture and Programming 
+V Rajaraman, C Siva 
+Ram Murthy 
+PHI learning 
+2nd Edition 
+2016 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc19_cs62/preview 
+2 
+https://archive.nptel.ac.in/noc/courses/noc21/SEM1/noc21-cs47/ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S3  
+DATA STRUCTURES

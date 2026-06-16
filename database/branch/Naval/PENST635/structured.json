@@ -1,0 +1,68 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Computational Fluid Dynamics",
+      "CFD applications",
+      "numerical vs analytical vs experimental",
+      "modelling vs experimentation",
+      "fundamental principles of conservation",
+      "Reynolds transport theorem",
+      "conservation equations for mass",
+      "momentum and energy",
+      "convective forms of the equations and general description"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Numerical methods for solving CFD problems",
+      "classification and overview of numerical methods",
+      "classification into various types of equations such as parabolic",
+      "elliptic and hyperbolic",
+      "boundary and initial conditions",
+      "overview of numerical methods",
+      "Finite Difference Method",
+      "Finite Element Method and Finite Volume Method"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "The basic structure of a CFD code",
+      "pre-processor",
+      "solver and postprocessor",
+      "user-defined subroutines",
+      "numerical grid generation",
+      "transformation and mapping",
+      "solution to some basic problems in fluid flow - free surface flows and N-S equations around a body in water",
+      "numerical flow simulation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Features of turbulent flow",
+      "vorticity transport equation",
+      "general properties of turbulent quantities",
+      "Reynolds Average Navier Stokes (RANS) equation",
+      "closure problem in turbulence",
+      "types of turbulence models like eddy viscosity models",
+      "mixing length model",
+      "turbulent kinetic energy and dissipation",
+      "κ-ε model",
+      "RNG κ-ε model and κ-ω model",
+      "Reynolds Stress Model (RSM",
+      "Large Eddy Simulation (LES",
+      "Direct Numerical Simulation (DNS). A minor CFD project in ship hydrodynamics using any commercial or open-source CFD package"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

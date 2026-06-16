@@ -1,0 +1,683 @@
+Course Code 
+PERAT755 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs.30 Min. 
+Prerequisites (if any) 
+Digital Electronics 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Apply hardware description languages (HDLs) to design digital circuits and verify the 
+functionality using test benches   
+2. Understand FPGA architecture, logic blocks, and programmable interconnect principles. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction: Digital system design options and tradeoffs, Design 
+methodology and technology overview. 
+High Level System Architecture and Specification: Behavioral 
+modelling and simulation, Hardware description languages (emphasis on 
+Verilog), combinational and sequential design, state machine design, test 
+benches. 
+9 
+2 
+Programmable logic Devices: ROM, PLA, PAL, CPLD, FPGA Features, 
+Limitations, Architectures and Programming. Implementation of MSI 
+circuits using Programmable logic Devices. 
+9 
+3 
+FPGA architecture: FPGA Architectural options, granularity of function 
+and wiring resources, coarse V/s fine grained, vendor specific issues 
+(emphasis on Xilinx and Altera), Logic block architecture: FPGA logic 
+cells, timing models, power dissipation I/O block architecture: Input and 
+Output cell characteristics, clock input, Timing, Power dissipation. 
+9 
+4 
+Placement and Routing: Programmable interconnect - Partitioning and 
+Placement, Routing resources, delays; Applications -Embedded system 
+9 
+
+ 
+ 
+design using FPGAs, DSP using FPGAs.
+Commercial FPGAs: Xilinx, Altera, Actel (Different series description 
+only). 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal 
+Exam 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Evaluation Methods: 
+ 
+1. Simulation Assignments Using FPGA Design and Development Tools: (10 marks) 
+. 
+Each assignment can focus on developing Verilog modules of digital circuits, 
+Simulate the design and implement the design on FPGA boards.  
+ 
+2. Course Project: 
+ 
+Comprehensive project involving design and implementation of digital circuits. 
+ (10 marks) 
+Project phases: Proposal, Design, Implementation, Testing, Final Report. 
+Presentations and Viva Voce: 
+Students present their projects explaining design choices, methodologies, and results. 
+Viva voce to assess understanding and ability to answer related questions. 
+ 
+Example topics for Experiments/ Miniproject 
+
+ 
+ 
+ 
+1. Design and Verilog modeling of simple Combinational Logic circuits.  
+2. Design and Verilog modeling of various data path elements – Adders, Multipliers 
+etc. 
+3.  Design and Verilog modeling of simple sequential circuits like Counters and Shift 
+registers  
+4. 
+Implementation of combinational/ sequential circuits on FPGA evaluation Boards. 
+5. 
+Implementation of digital clock on FPGA 
+6. 
+Implementation of basic calculator on FPGA 
+ 
+Criteria for Evaluation: Experiments (10 marks) 
+1. Understanding of Concepts (3 marks) 
+ 
+Demonstrates a clear understanding of the theoretical concepts related to the 
+experiment. 
+2. Implementation and Accuracy (3 marks) 
+ 
+Correctly implements the design using appropriate tools. 
+ 
+The design functions as expected without errors. 
+3. Analysis and Problem-Solving (2 marks) 
+ 
+Effectively analyse the design to identify and resolve issues. 
+ 
+Demonstrates problem-solving skills in addressing any encountered 
+challenges. 
+4. Documentation and Reporting (1 mark) 
+ 
+Provides clear and concise documentation of the steps and processes followed. 
+ 
+The report includes diagrams, code snippets, and simulation results. 
+5. Presentation and Communication (1 mark) 
+ 
+Clearly presents the experiment and its results. 
+ 
+Able to answer questions and explain the design choices. 
+ 
+Criteria for Evaluation: Course Project (10 marks) 
+ 
+1. Project Proposal and Planning (2 marks) 
+ 
+Submits a well-defined project proposal outlining objectives, methodology, 
+and expected outcomes. 
+ 
+Demonstrates thorough planning and a clear timeline for the project. 
+
+ 
+ 
+2. Design and Implementation (3 marks) 
+ 
+Implements the project design accurately using appropriate tools and 
+techniques. 
+ 
+The design is functional and meets the project objectives. 
+3. Innovation and Creativity (2 marks) 
+ 
+Introduces innovative ideas or unique approaches in the design and 
+implementation. 
+ 
+Demonstrates creativity in solving problems or optimizing designs. 
+4. Analysis and Testing (2 marks) 
+ 
+Effectively analyzes the project design to identify and address any issues. 
+ 
+Conducts thorough testing to verify the functionality and performance of the 
+design. 
+5. Final Report and Presentation (1 mark) 
+ 
+Submits a comprehensive final report detailing the project, including 
+objectives, design, methodology, analysis, and results. 
+ 
+Clearly presents the project and its outcomes, and effectively communicates 
+the key points. 
+ 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose 
+any one full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+(8x3 =24marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each 
+question can have a maximum of 3 sub divisions. 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply hardware description languages (HDLs) to design digital 
+circuits and verify the functionality using test benches   
+K3 
+CO2 
+Design simple digital systems with programmable logic devices 
+K3 
+CO3 
+Understand FPGA architecture, logic blocks, and programmable 
+interconnect principles. 
+K2 
+CO4 
+Understand the design considerations of FPGA 
+K2 
+CO5 
+Analyse combinational and sequential circuits using FPGA 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+FPGA-Based System 
+Design 
+Wayne Wolf 
+Prentice Hall 
+2004 
+2 
+Field-Programmable Gate 
+Arrays 
+Stephen D. Brown, Robert J. 
+Francis, Jonathan Rose, 
+Zvonko G. Vranesic 
+Springer 
+1992 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Modern VLSI Design: System-
+on-Chip Design  
+Wayne Wolf 
+ 
+Prentice Hall 
+2002 
+2 
+ Verilog HDL 
+Samir Palnitkar 
+Prentice Hall India 
+2003 
+3 
+ The Design Warrior’s Guide to 
+FPGAs 
+Clive Maxfield 
+Elsevier 
+ 
+2000. 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://www.youtube.com/playlist?list=PLbMVogVj5nJSY-1XxFHgwgtj2F7mB7NuV 
+2 
+https://www.youtube.com/playlist?list=PLbMVogVj5nJSY-1XxFHgwgtj2F7mB7NuV 
+3 
+https://www.youtube.com/playlist?list=PLbMVogVj5nJSY-1XxFHgwgtj2F7mB7NuV 
+4 
+https://www.youtube.com/playlist?list=PLbMVogVj5nJSY-1XxFHgwgtj2F7mB7NuV 
+
+ 
+ 
+SEMESTER S7 
+ARTIFICIAL INTELLIGENCE FOR ROBOTICS  
+Course Code 
+OERAT 721 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Understand the Fundamentals of Robotics and AI: 
+ 
+2. Utilize supervised and unsupervised learning techniques for robotic perception and action. 
+3. Develop and evaluate novel AI algorithms for specific robotic applications through projects 
+and case studies. 
+4. Analyze recent advancements and research trends in AI and robotics. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Artificial intelligence : Introduction, its importance, The Turing test, 
+Foundations of artificial intelligence, A brief historical overview, 
+Intelligent Agents-Agents and Environments, Good behaviour- The concept 
+of rationality, nature of Environments, structure of Agents, Expert systems -
+basic overview, Application areas of AI - vision and speech processing, 
+robotics. 
+9  
+2 
+Learning - Forms of learning: Supervised Learning Algorithms- Decision 
+Trees,Logistic 
+Regression,Support 
+vector 
+Machines, 
+Unsupervised 
+Learning Algorithms: K-means clustering k-Nearest Neighbors, Principle 
+Component Analysis, Reinforcement based learning 
+9  
+3 
+Deep Feedforward Networks: Perceptrons – Single layer & Multi-layer, 
+Learning XOR ,Convolutional Neural Networks -basic outline and 
+functions of each layers only, Sequence Modeling-Need for sequence 
+9  
+
+ 
+ 
+models, basic RNN architecture and types 
+4 
+Robotics - Robotic perception, Localization and mapping, 
+Machine learning in robot Perception, Application domains.Mobile Robot 
+Navigation-Path planning ,Path Planning and obstacle avoidance-A* 
+algorithm 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Analyze the role of AI in solving problems in different domains and its 
+evolution. 
+K3 
+CO2 
+Explain the different learning techniques used in Machine learning 
+K2 
+CO3 
+Identify the need for multilayer neural network for solving complex 
+tasks 
+K2 
+CO4 
+Identify suitable neural network architectures for different types of data 
+and tasks. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and Year 
+1 
+Deep Learning 
+Ian Goodfellow, Yoshua 
+Bengio, Aaron Courville 
+MIT Press 
+2016 
+2 
+Artificial Intelligence - A 
+Modern Approach 
+ 
+Stuart J. Russell and Peter 
+Norvig, 
+Pearson 
+Third Edition, 
+2016 
+3 
+Pattern Recognition and 
+Machine Learning,  
+Bishop, C. ,M., 
+Springer 
+2006. 
+4 
+A survey of deep learning 
+techniques for autonomous 
+driving.  
+Grigorescu, Sorin, et al 
+ 
+Journal of Field 
+Robotics 37.3 
+(2020): 362-386. 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to AI Robotics,  
+Robin R. Murphy 
+The MIT Press 
+Second 
+Edition: 
+2019 
+2 
+Artificial Intelligence and 
+Machine Learning,  
+Chandra S.S.V, Anand 
+Hareendran S 
+PHI 
+2021 
+3 
+ Models, Learning and 
+Inference 
+Simon J. D. Prince 
+Cambridge 
+University Press 
+2012 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc22_cs56/preview 
+2 
+https://archive.nptel.ac.in/courses/106/106/106106139/ 
+3 
+https://archive.nptel.ac.in/courses/106/106/106106184/ 
+4 
+https://archive.nptel.ac.in/courses/112/106/112106298/ 
+
+ 
+ 
+SEMESTER S7 
+INTRODUCTION TO ROBOT OPERATING SYSTEM

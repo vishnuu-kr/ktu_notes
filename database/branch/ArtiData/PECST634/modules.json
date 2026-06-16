@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Query Processing and Optimization - Measures of query cost, Algorithms for\nSelection with cost analysis, Algorithms for Join with cost analysis, Evaluation\nof expressions; Heuristics in Query Optimization - Optimization of Relational\nAlgebra expressions; Physical Database Design and Tuning - Introduction to\nPhysical Database Design, Overview of Database Tuning, Tuning the\nConceptual Schema, Tuning Queries and Views; Impact of Concurrency.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Distributed Databases - Distributed Systems, Introduction, Architecture,\nDistributed Database Concepts, Distributed Data Storage, Distributed\nTransactions, Commit Protocols, Concurrency Control; Query Processing and\nDecomposition - Query Processing Objectives, Characterization of Query\nProcessors, Layers of Query Processing, Query Decomposition, Localization\nof Distributed Data.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "XML and Non Relational Databases - Introduction to Semi Structured Data\nand XML Databases, XML Data Model – XSD, XML: DTD and XML\nSchema, XML Presentation, XPath Queries, XQuery; NoSQL Databases -\nCAP Theorem, Document based; MongoDB Operation - Insert, Update,\nDelete, Query, Indexing, Application, Replication, Sharding, Deployment;\nCassandra - Data Model, Key Space, Table Operations, CRUD Operations.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Graph database - Introduction, Data Modelling with Graphs, Building a Graph\nDatabase application, Data Modeling, Predictive Analysis with Graph Theory;\nDepth and Breadth First Search; Path-Finding with Dijkstra’s Algorithm;\nGraph Theory and Predictive Modeling",
+    "contact_hours": "9"
+  }
+]

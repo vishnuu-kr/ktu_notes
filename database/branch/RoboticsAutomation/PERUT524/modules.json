@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Elementary Signals, Classification and representation of continuous time and\ndiscrete time signals, Signal operations. Continuous time and discrete time\nsystems – Classification. Representation of systems: Differential equation\nrepresentation\nof\ncontinuous\ntime\nsystems.\nDifference\nequation\nrepresentation of discrete systems.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Sampling of continuous time signals, Sampling theorem for low pass signals,\naliasing. Z transform, ROC, Inverse transform, properties, Unilateral\ntransform. Frequency domain representation of discrete time signals,\nDiscrete time Fourier series and its properties. Discrete time Fourier\ntransform (DTFT) and its properties.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "The\nDiscrete\nFourier\nTransform-IDFT-Properties\nof\nDFT-Circular\nconvolution – Linear Filtering methods based on the DFT- linear convolution\nusing circular convolution, overlap save and overlap add methods.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Computation of DFT: Radix-2 Decimation in Time and Decimation in\nFrequency FFT -Algorithms - IDFT computation using Radix-2 FFT\nAlgorithms. FIR and IIR Filters. - FIR Filter Structures: Direct Form,\nCascade Form IIR Filter Structures: Direct Form, Transposed Form, Cascade\nForm and Parallel Form (Design is not required).",
+    "contact_hours": "9"
+  }
+]

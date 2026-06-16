@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Signals and Signal Processing-Characterization and Classification of\nSignals, Typical signal Processing Operations, Examples of Biomedical\nSignals and Analog-to-Digital Conversion (block diagram only)\nDiscrete-Time Signals -Typical Sequences and Sequence. Representation,\nDiscrete-Time Systems-Classification of Discrete-Time Systems",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Discrete-Time Fourier Transform (DTFT)-Definition, Properties,\nDiscrete Fourier Transform-Definition, Properties, FFT-Decimation-in-\nTime, Decimation-in-Frequency.\nThe z- Transform-Properties of the z-Transform, Poles and Zeros,\nInversion of the z-Transform- Using partial fraction expansion, Analysis of\nLinear Time-Invariant Systems in the z-Domain- Transfer function,\nFrequency response",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "LTI systems as frequency selective filters-Ideal filter characteristics-\nSimple Digital Filter Design-Preliminary Considerations, Design of linear-\nphase FIR Filter using windows (Bartlett, hamming, Hanning, Kaiser) and\nfrequency sampling method-Applications of FIR filters in Biomedical\nsystems - pre-processing of bio signals.\nIIR Filter Design-Approximation of Derivatives, Impulse invariance, IIR\ndigital filters for ECG analysis",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Periodogram-Averaged\nperiodogram,\nBlackman-Tukey\nSpectral\nestimation, QRS detection in ECG, Analysis of Heart Rate Variability\nusing periodogram\nAdaptive Filters-Principle of Wiener Filters, Principle of adaptive\nfiltering, Principle of adaptive noise cancellation, Cancellation of 50-Hz\ninterference in ECG\nSuggestion on Project Topics\n\nThe objective of Project based learning is to strengthen the understanding of student’s\nfundamentals through effective application of theoretical concepts.  Projects can help to boost\nstudent’s skills and widen the horizon of their thinking.\n\nThe ultimate aim of an engineering student is to resolve a problem by applying theoretical\nknowledge.\n\nIn the first class, students shall be given an awareness and/or guideline on how to implement\nand learn this course through a project and form groups.\n\nEach group should identify a project relevant to the subject of study.\n\nDevelop the block diagram and present before the jury within first month after the\ncommencement of classes.\n\nImplement necessary hardware and software to develop the prototype.\n\nPrepare a report and present before the jury for final evaluation.",
+    "contact_hours": "9"
+  }
+]

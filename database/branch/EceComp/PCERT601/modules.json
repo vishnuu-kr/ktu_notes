@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Operating system overview – Operations, Functions,\nService – System calls, Types – Operating System structure - Simple\nstructure, Layered approach, Microkernel, Modules– System boot\nprocess.\nProcesses - Process states, Process control block, threads, scheduling,\nOperations on processes - process creation and termination – Inter-\nprocess communication - shared memory systems, Message passing\nsystems.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Process Scheduling – Basic concepts- Scheduling criteria -scheduling\nalgorithms- First come First Served, Shortest Job First, Priority\nscheduling, Round robin scheduling.\nDeadlocks: Necessary\nconditions,\nResource allocation graphs,\nDeadlock prevention, Deadlock avoidance – Banker’s algorithms,\nDeadlock detection, Recovery from deadlock.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Process synchronization- Race conditions – Critical section problem –\nPeterson’s\nsolution,\nSynchronization\nhardware,\nMutex\nLocks,\nSemaphores, Classic Synchronization problems - Producer Consumer,\nDining Philosophers and Readers-Writers.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Memory Management: Concept of address spaces, Swapping,\nContiguous memory\nallocation, fixed and variable partitions,\nSegmentation, Paging. Virtual memory, Demand paging, Page\nreplacement algorithms.\nFile System: File concept - Attributes, Operations, types, structure –\nAccess methods, Protection. File-system implementation, Directory\nimplementation. Allocation methods.\nStorage Management: Magnetic disks,\nSolid-state disks,\nDisk\nStructure, Disk scheduling, Disk formatting.",
+    "contact_hours": "12"
+  }
+]

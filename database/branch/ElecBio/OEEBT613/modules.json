@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Cell Potentials: Excitable cells - cell membrane - structure. Nernst potential-\nResting membrane potential - Goldman Hodgkin Katz equation. Specialized\nexcitatory and conductive system of heart - rhythmicity- ionic basis of\ncardiac action potentials – plateau region – pacemaker. Nerve action\npotentials – ionic basis of generation, properties and refractory period.\nSynapse  -Neurotransmitters – types",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "ECG: Generation – ECG – waves – duration – intervals – segments - Lead\nsystems-unipolar & bipolar. EEG - Brain rhythms &waves - characteristics\nof signal - Electrode system. EMG: Membrane potentials & Action\npotentials in smooth muscles –Characteristics of EMG signal. Heart sounds –\nPhonocardiography. PPG – characteristics - dicrotic notch. Introduction to\nother biopotentials – ENG& EGG (Instrumentation not needed for ECG,\nEEG & EMG)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Event detection in ECG - QRS detection -Derivative based method-Pan\nTompkins algorithm. Detection of P Wave. Dicrotic notch detection. EEG\nrhythm detection -Correlation based method. Detection of S1 &S2 heart\nsound. EMG envelop extraction\nNoise: Random Noise -structured noise-physiologic interference, Time\ndomain filters: synchronised averaging- moving averaging-derivative based\noperators. Noise removal in ECG: random noise removal -baseline drift\nremoval. Frequency domain filters: Butterworth low pass &low filter.\nAdaptive filters – cancellation of 50 Hz signal in ECG",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Power spectrum analysis: Estimation of power density spectrum, non-\nparametric method-Periodogram &modified periodogram. Parametric\nmethods -ARMA model-based PSD estimation. Spectrum analysis of bio\nsignals- spectrum estimation of ECG-Power spectrum estimation of Heart\nrate variability data. Spectrum estimation of EEG",
+    "contact_hours": "9"
+  }
+]

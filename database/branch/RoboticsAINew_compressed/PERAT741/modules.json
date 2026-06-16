@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Building blocks of navigation: Definitions - perception, localization,\ncognition, motion control\nPerception:  Sensors for Perception - Schematic representation of the\nsensing unit, Obstacle Sensor (Bumper), the odometry sensor, Heading\nsensors - Gyroscopes, IMUs, Distance sensors -  ToF, Phase shift,\ntriangulation, ultrasonic rangefinders, Ground based beacons, GPS, Motion\nfield and optical flow, Color tracking sensors, Feature Extraction - Feature\nDefinition, Target Environment, Environment representation",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Localization: General schematic for mobile robot localization, Challenge\nof Localization - Sensor noise and Sensor aliasing, Effector noise, Error\nmodel for odometric position estimation\nLocalization-Based Navigation versus Programmed Solutions,  Belief\nRepresentation, Map Representation\n- Continuous Representation,\nDecomposition Strategies, current challenges in map representation,\nProbabilistic Map-Based Localization - Markov localization, Kalman filter\nlocalization, Application to mobile robots: Kalman filter localization -\nschematic,\nRobot\nposition\nprediction,\nObservation,\nMeasurement\nprediction, Matching, Estimation, Landmark-based navigation, Globally\nunique localization, Positioning beacon systems, Route-based localization,\nAutonomous Map Building - stochastic map technique, Challenges - Cyclic\nenvironments, Dynamic environments",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Motion in Potential Field and Navigation Function\nProblem Statement, configuration space, free configuration space, Gradient\nDescent Method of Optimization, Gradient Descent without and with\nConstraints, Minkowski Sum, Potential Field, Navigation Function - in\nStatic Deterministic Environment, in Static Uncertain Environment,\nNavigation Function and Potential Fields in Dynamic Environment -\nEstimation, Prediction, Optimization",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Satellite Navigation\nIntroduction to Satellite Navigation, Trilateration, Position Calculation -\nMultipath Signals, GNSS Accuracy Analysis, Dilution of Precision,\nCoordinate Systems, UTM Projection, Local Cartesian Coordinates,\nVelocity Calculation, Urban Navigation - Urban Canyon Navigation, Map\nMatching, Dead Reckoning – Inertial Sensors, Incorporating GNSS Data\nwith INS - Modified Particle Filter, Estimating Velocity by Combining\nGNSS and INS, A-GPS, DGPS Systems, RTK Navigation, GNSS Threats",
+    "contact_hours": "9"
+  }
+]

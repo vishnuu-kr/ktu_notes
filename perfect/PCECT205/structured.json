@@ -1,0 +1,59 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Concept of networks and circuits",
+            "Circuit variables",
+            "Ideal and practical sources",
+            "Independent and dependent sources",
+            "Source transformation",
+            "Kirchhoff’s laws. Mesh analysis",
+            "Node analysis",
+            "Super-mesh analysis and super-node analysis applied to both DC and AC networks containing independent and dependent sources. 11 B.Tech 2024 - S1/S2 APJ Abdul Kalam Technological University"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Superposition theorem",
+            "Reciprocity theorem",
+            "Thevenin’s theorem",
+            "Norton’s theorem",
+            "Millman’s theorem and Maximum power transfer theorem for the analysis of DC and AC networks having independent and dependent sources"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Laplace transforms of standard signals and common functions",
+            "Laplace transform theorems (proof not required",
+            "Inverse Laplace transforms",
+            "Solution of differential equations. Transformation of basic signals and circuits to s - domain with and without initial conditions. Transient analysis of RL",
+            "RC and RLC networks with DC",
+            "impulse",
+            "step and sinusoidal inputs. Analysis of low pass and high pass RC circuits using Laplace transforms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Network functions for single-port and two-port networks",
+            "Properties of driving point and transfer functions",
+            "Significance of poles and zeros of network functions",
+            "Pole-zero plot. Impedance",
+            "Admittance",
+            "Hybrid and Transmission parameters of two-port networks",
+            "Reciprocity and symmetry conditions (derivation not required",
+            "Inter-relationships between parameters",
+            "Series and parallel connections of two-port networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

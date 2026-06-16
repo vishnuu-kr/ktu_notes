@@ -1,0 +1,32 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Motivation and introduction to optimization in engineering practice\n1\nProperties of single variable functions and optimality criteria, Region\nelimination methods, Polynomial estimation methods - quadratic\nestimation, Bisection method, Newton raphson method, Secant method,\nCubic search method\n5\nFunctions of several variables, optimality criteria, Direct search method,\nHooke-Jeeves pattern search method, Powell’s method, Gradient search\nmethods - Cauchy’s method, Newton’s method\n5",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Formulation of linear programming models, Graphical solution in two\nvariables, Standard form",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Simplex method, Duality, Dual simplex method - Karmarkar’s method\n6\n9\n3\nEquality constrained problems - Lagrange multipliers - Kuhn Tucker\nconditions - Kuhn Tucker theorems - Saddlepoint conditions - Second\norder optimality conditions - Generalized Lagrangian multiplier method\n7\nTransformation methods - Concept of penalty - penalty functions -\nMethod of Multipliers\n3",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Constrained direct search - simple direct search method - Complex\nmethod - Random search methods\nLinearization methods for constrained Problems - Successive linear\nproblems - Separable programming - Method of feasible directions -\nSimplex extensions for linearly constrained problems - Generalized\nreduced gradient method",
+    "contact_hours": "4"
+  },
+  {
+    "type": "module",
+    "title": "Module 5",
+    "content": "PS: Demonstrations of various techniques can be done using softwares like Scilab / Matlab /\nOctave or lower end softwares like Maxima",
+    "contact_hours": "9"
+  }
+]

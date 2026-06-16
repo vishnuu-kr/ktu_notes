@@ -1,0 +1,44 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic Elements of Discrete Data Control Systems, Advantages of Discrete Data Control Systems, Examples. Signal Conversion & Processing: Digital Signals & Coding, Data Conversion & Quantization, Sample and Hold Devices, Mathematical Modelling of the Sampling Process",
+            "Data Reconstruction and Filtering of Sampled Signals: Zero Order Hold, First Order Hold and Polygonal Hold"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Digital Control Systems - Pulse Transfer Function. Z Transform Analysis of Closed Loop and Open Loop Systems - Modified Z-Transfer Function, Difference Equation. Solution by Recursion and Z Transform. Steady State Error Analysis",
+            "Examples on Static Error Coefficients. Bilinear Transformation",
+            "Mapping from S-Plane to Z-Plane"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Stability of Linear Digital Control Systems - Routh Hurwitz Criteria, Jury's Test. Root Loci of Digital Control Systems",
+            "Rules for Construction of Root Locus. Frequency Domain Analysis",
+            "Bode Plots - Gain Margin and Phase Margin"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Review of State Space Techniques to Continuous Data Systems, State Space Representation of Discrete Time Systems - Transfer Function from State Space Model",
+            "Various Canonical Forms",
+            "Conversion of Transfer Function Model to State Space Model",
+            "Characteristics Equation",
+            "Solution to Discrete State Equations. Controllability and Observability",
+            "Response between Sampling Instants Using State Variable Approach"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

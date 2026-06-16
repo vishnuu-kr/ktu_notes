@@ -1,0 +1,73 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Generalized co-ordinates",
+            "Generalized Forces",
+            "Equation of Motions",
+            "Static Forces in Manipulators",
+            "Jacobian matrix",
+            "Jacobians in The Force Domain -Cartesian Transformation of Velocities and Static Forces",
+            "Acceleration of A Rigid Body",
+            "Mass Distribution",
+            "Non-rigid Body Effects",
+            "Newton's Equation",
+            "Euler's Equation",
+            "Langrage Equation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "ROBOT DYNAMICS General Expressions for Kinetic and Potential Energy",
+            "Kinetic Energy for an n-Link Robot",
+            "Potential Energy for an n-Link Robot",
+            "Equations of Motion",
+            "Lagrangean Multiplier",
+            "Langrage’s Equation",
+            "Hamilton Equation",
+            "Hamilton vector Field- Euler",
+            "Langrage Equation",
+            "State Vector and Equation Formulation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "PID control scheme - Position and force control schemes. Robotic sensors and its classification",
+            "Internal sensors - Position",
+            "velocity",
+            "acceleration and force information",
+            "External Sensors - Contact sensors-Limit switches",
+            "piezoelectric",
+            "pressure pads",
+            "Non-contact sensors - Range sensors",
+            "Vision sensor- robotic vision system",
+            "Description of components of vision system"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "The Frobenius Theorem",
+            "Single-Input Systems. Introduction to nonlinear system",
+            "time varying systems",
+            "multi-input, multi-output control systems",
+            "the control problem for manipulators",
+            "practical considerations -current industrial-robot control systems",
+            "Lyapunov stability analysis",
+            "Cartesian",
+            "based control systems",
+            "adaptive control",
+            "Limit Cycle -Describing Function"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

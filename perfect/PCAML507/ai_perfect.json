@@ -1,0 +1,18 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Research and explain three real-world IoT applications using the components available in the IoT Trainer kit. Set up the IoT Trainer kit and understand its modules.",
+            "Use the temperature and humidity sensor module in the IoT Trainer kit to collect environmental data. Write a script to display the readings on the provided interface.",
+            "Interface the light and sound sensors from the IoT Trainer kit. Write a script to capture data and trigger actions, such as lighting an LED when the sound level exceeds a threshold.",
+            "Use the IoT Trainer kit to set up an MQTT communication system. Publish sensor data to a topic and subscribe to another topic to receive control signals.",
+            "Use the IoT Trainer kit to send sensor data to a local server via HTTP. Create a simple web interface to display the data.",
+            "Write a script to control an LED and relay module in the IoT Trainer kit. Implement a scenario where the relay controls a fan based on temperature readings.",
+            "Utilize the PWM functionality in the IoT Trainer kit to control the speed of a motor. Implement a system where motor speed adjusts based on sensor input, such as light intensity.",
+            "Configure the IoT Trainer kit to send sensor data to a local server for storage and visualization. Use basic analytics to process the data.",
+            "Write a script to analyze sensor data from the IoT Trainer kit, such as calculating averages or identifying trends. Visualize the results.",
+            "Implement basic encryption techniques using the IoT Trainer kit to secure data transmission. Demonstrate how data can be encrypted and decrypted.",
+            "Project: Design and implement a project that uses multiple components of the IoT Trainer kit to create a functional IoT system, such as a smart home system."
+        ]
+    }
+]

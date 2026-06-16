@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basic concepts: Alphabet, Strings, Languages, Grammar, Automata\nDeterministic Finite Automata/Accepter (DFA), Language of a DFA, Regular\nlanguages, Nondeterministic Finite Automata/Accepter (NFA), NFA with\nepsilon transitions, Language of an NFA, eliminating epsilon transitions\n(Proof not expected), Equivalence of NFAs and DFAs (Proof not expected) -\nThe Subset Construction. DFA State Minimization, Applications of finite\nautomata.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Regular expression, Language of a Regular Expression, Equivalence with\nfinite automata (Proof not expected) - Converting FA to Regular Expressions,\nConverting Regular Expressions to FA, Regular grammar – examples.\nClosure Properties of Regular Languages (Proof not expected), Pumping\nLemma for Regular Languages (Proof not expected), Pumping Lemma as a\ntool to prove nonregularity of languages.\nContext Free Language (CFL) and Context-Free Grammar (CFG), Designing\nCFGs for CFLs, Leftmost and Rightmost Derivations, Parse Trees, Ambiguity\nin CFGs and CFLs",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Simplification of Context-Free Grammars - Eliminating useless symbols and\nproductions, Eliminating epsilon productions, Eliminating unit productions,\nChomsky Normal Form (CNF), Converting CFGs into CNF, Greibach Normal\nForm (definition only).\nPushdown Automata (PDA), Language of a PDA, DPDA and NPDA,\nDesigning PDAs for CFLs. Equivalence NPDAs and CFGs (Proof not\nexpected)\nPumping Lemma for Context-Free Languages (Proof not expected), Pumping\nLemma as a tool to identify Non-Context-Free Languages. Closure Properties\nof CFLs (Proof not expected), Context Sensitive Grammar and Languages\n(introduction only)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Turing Machines (TMs) - Turing Machines as language acceptors, Language\nof a TM, Turing Machines as transducers, Nondeterministic Turing Machines\n(definition only), Recursive and Recursively Enumerable languages,\nUnrestricted Grammar (definition only), Chomsky hierarchy, Linear Bounded\nAutomaton as a restricted TM (introduction only).\nChurch-Turing thesis, Encoding of TMs, Universal Turing Machine,\nExistence of Languages that are not Recursively Enumerable, and Recursive\nbut not Recursively Enumerable, Decidable and Undecidable Problems, The\nTM Halting Problem.",
+    "contact_hours": "9"
+  }
+]

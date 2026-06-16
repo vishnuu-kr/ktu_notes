@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "System On Chip Design Process: A canonical SoC Design, SoC Design\nflow - Waterfall vs spiral, Top-down vs Bottom up, Specification\nrequirement, Types of specification, System design process, System level\ndesign issues- Soft IP vs Hard IP.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Macro Design Process: Contents of a design specification, Top level\nMacro Design,Top level Macro Design Process, Activities and tools,\nSubblock design, Macro integration, Soft macro productization.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "RTL coding guidelines: Overview of coding guidelines, Guidelines for\nclocks and resets - Mixed clock edges, Clock buffers, Gated clocks,\nInternally generated clocks, Gated clocks, Internally generated resets.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Developing hard macros: Design issues for hard macros – Design for test,\nClock and reset, Aspect ratio, Porosity, Pin placement, Power distribution.\nThe hard macro design process, Block integration for hard macros,\nProductization for hard macros, Model development for hard macros, Soft\nmacro deliverables, Hard macro deliverables.",
+    "contact_hours": "9"
+  }
+]

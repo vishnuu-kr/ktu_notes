@@ -1,0 +1,66 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "The Front End",
+            "The Optimizer",
+            "The Back End",
+            "Scanners - Recognizing Words",
+            "Regular Expressions",
+            "From Regular Expression to Scanner: FSA",
+            "Implementing Scanners"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Eliminating Left Recursion",
+            "Backtrack-free Parsing",
+            "Left-Factoring to Eliminate Backtracking",
+            "Recursive Descent Parsers",
+            "Table-Driven LL(1) Parsers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "IR Taxonomy",
+            "Graphical IRs - Syntax-Related Trees",
+            "Graphs",
+            "Linear IRs - Stack-Machine Code",
+            "Three-Address Code",
+            "Representing Linear Codes",
+            "Syntax-Driven Translation: Introduction",
+            "Translating Expressions",
+            "Translating Control-Flow Statements"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Code Shape - Arithmetic Operators",
+            "Boolean and Relational Operators",
+            "Control-Flow Constructs - Conditional Execution",
+            "Loops and Iteration",
+            "Case Statements",
+            "Procedure Calls",
+            "Code Optimization - Introduction",
+            "Opportunities for Optimization",
+            "Scope of Optimization",
+            "Local Optimization: Local Value Numbering",
+            "Tree-Height Balancing",
+            "Regional Optimization: Superlocal Value Numbering",
+            "Loop Unrolling",
+            "Global Optimization: Finding Uninitialized Variables with Live Sets",
+            "Global Code Placement"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

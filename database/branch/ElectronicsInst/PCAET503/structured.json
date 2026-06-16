@@ -1,0 +1,52 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Overview of power electronics applications",
+      "Power diodes and Bipolar power transistors - static and dynamic characteristics",
+      "Power MOSFET",
+      "IGBT",
+      "SCR and GTO. Protection circuits and Rectifiers: BJT and MOSFET driver circuits",
+      "Snubber circuits",
+      "Single phase and three phase diode bridge rectifiers",
+      "Single phase and three phase controlled rectifiers"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Buck",
+      "Boost and Buck-Boost converters under Continuous conduction mode. Isolated Converters - Forward",
+      "Push-Pull",
+      "Half bridge",
+      "Full bridge and Flyback configurations. Switched Mode Power Supply"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Inverter topologies",
+      "Driven Inverters - Push-Pull",
+      "Half bridge and Full bridge configurations",
+      "Three phase Inverter",
+      "Basic concept of pulse width modulator"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "DC Motor Drives",
+      "Induction Motor Drives",
+      "Residential and Industrial applications",
+      "Electric utility applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,323 @@
+Course Code 
+PECAT595 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+none 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide the fundamental security principles including cryptography, authentication, and 
+access control. 
+2. To enable the learners to Identify and mitigate threats and vulnerabilities in software, 
+networks, and operating systems. 
+3. To provide practical skills in securing computing systems and managing security policies and 
+incidents. 
+ 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Modular Arithmetic:- Integer arithmetic - Integer division, Divisibility, 
+Greatest Common Divisor (GCD), Euclid's algorithm for GCD, Extended 
+Euclid’s algorithm[Text 1/Text 2] 
+Prime Numbers and Factorization:-Prime numbers - Prime numbers and 
+prime-power factorization, Fermat and Mersenne primes, Fermat’s theorem, 
+Applications, Euler’s theorem, Euler’s totient function, Applications. 
+Factorization - Fermat’s factorization, Pollard p-1 method. [Text 2] 
+9 
+2 
+Symmetric Cipher Models:- Substitution techniques - Caesar Cipher, 
+Monoalphabetic Cipher, Playfair Cipher, Hill Cipher, Polyalphabetic Cipher, 
+One Time Pad. Transposition techniques, Block Cipher principles- The Data 
+Encryption Standard(DES), Strength of DES, Block Cipher Operation-
+Electronic Code Book, Cipher Block Chaining Mode, Cipher Feedback 
+Mode, Output Feedback Mode, Counter Mode. Advanced Encryption 
+Standard (AES)- Basic Structure, Transformation Functions, Key Expansion 
+[Text 1] 
+9 
+
+ 
+ 
+3 
+Public key Cryptography: - Principles of Public key Cryptosystems, RSA 
+Algorithms- Description of the Algorithm, Computational Aspects, The 
+security of RSA, Diffie Hellman Key Exchange-The Algorithm, Key 
+Exchange Protocols, Man-in –the- Middle Attack, Elliptic Curve 
+Cryptography-Analog of Diffie Hellman Key Exchange, Elliptic Curve 
+Encryption/Decryption, Security of Elliptic Curve Cryptography[Text 1] 
+9 
+4 
+Operating system security: – security in the operating system, Security in 
+the design of the operating system.  
+Database security: – Security requirements of databases, Reliability, and 
+integrity, Database disclosure. 
+Cloud Security:-Clod Computing Concepts, Moving to the Cloud, Cloud 
+Security Tools and Techniques, Cloud Identity Management.[Text 3] 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Do a project based on the algorithms studied and analyse the performance of the algorithms 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, 
+each carrying 3 marks 
+           (8x3 =24 marks) 
+ 
+2 questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+ 
+Each question can have a maximum of 3 
+subdivisions. 
+ 
+Each question carries 9 marks. 
+                               (4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge Level 
+(KL) 
+CO1 
+Apply concepts of modular arithmetic, including integer 
+division, divisibility, GCD, and prime numbers. 
+ 
+K3 
+CO2 
+Apply mathematical concepts related to factorization methods, 
+including Fermat's and Pollard's methods, to solve cryptographic 
+problems. 
+ 
+K3 
+CO3 
+Assess various symmetric cipher models, including substitution 
+and transposition techniques, as well as block ciphers like DES 
+and AES. 
+ 
+K5 
+CO4 
+List the principles of public key cryptography, including RSA 
+and Diffie-Hellman, and evaluate their security aspects. 
+K4 
+CO5 
+Model the security requirements in operating systems and 
+databases, and analyze cloud security concepts, tools, and 
+identity management techniques. 
+ 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Cryptography and Network 
+Security Principles and Practice 
+William Stallings 
+Pearson Ed. 
+4/E,2005 
+2 
+Cryptography and Network 
+Security 
+Behrouz A Forouzan 
+Tata McGraw-Hill. 
+3/E,2015 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Elementary Number Theory 
+G.A. Jones & J.M. Jones 
+Springer UTM  
+1/E, 2007 
+2 
+The Complete Reference: 
+Information Security 
+Mark Rhodes-Ousley 
+McGraw-Hill 
+2/E,2012 
+3 
+Principles of Computer 
+Security: CompTIA Security+ 
+and Beyond 
+Wm.Arthur Conklin, 
+Greg White 
+McGraw-Hill 
+2/E,2011 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://youtu.be/ZMDTndFMgks?si=c0ZpKrBTGljcD6Zy 
+https://youtu.be/XBnUWjo3TgM?si=hZz0EsUeQd3XV_lu 
+2 
+https://youtu.be/QbczPuEphUY?si=4SuxgwFAAarvfN5x 
+3 
+https://youtu.be/7eI4YTjqO30?si=bn9tKAWuifgRae7I 
+4 
+https://youtu.be/i_7ofp7fK_E?si=qYAkK4YtqgXrKJ1S 
+https://youtu.be/q_4VErC7bwA?si=6qfVdNHjYWYGnsru 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S5 
+AI ALGORITHM LAB 
+(Common to CA/AI)

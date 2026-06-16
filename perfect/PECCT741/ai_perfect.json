@@ -1,0 +1,86 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Malware",
+            "Malware Threats",
+            "Evolution of Malware",
+            "Malware Types",
+            "Types of Malware Analysis - Static Analysis",
+            "Dynamic Analysis",
+            "Malware Analysis Techniques - Obfuscated",
+            "Deobfuscated",
+            "Malware Analysis Tools - Static Analysis Tools",
+            "Dynamic Analysis Tools",
+            "Static Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Live Malware Analysis",
+            "Dead Malware Analysis",
+            "Analyzing Traces of Malware",
+            "System Calls",
+            "API Calls",
+            "Registries",
+            "Network Activities",
+            "Anti-Dynamic Analysis Techniques - Anti-VM",
+            "Runtime Evasion Techniques",
+            "Malware Sandbox",
+            "Monitoring with Process Monitor",
+            "Packet Sniffing with Wireshark",
+            "Kernel vs. User-Mode",
+            "Debugging - OllyDbg",
+            "Breakpoints",
+            "Tracing",
+            "Exception Handling",
+            "Patching",
+            "Malware Detection Techniques: Signature-Based Techniques: Malware Signatures",
+            "Packed Malware Signature",
+            "Metamorphic and Polymorphic Signature",
+            "Non-Signature Based Techniques: Similarity-Based Techniques",
+            "Machine Learning Methods"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Volatile Data Collection and Examination on a Live Windows System",
+            "Volatile Data Collection Methodology from Windows Systems",
+            "Preservation of Volatile Data",
+            "Collecting Subject System Details",
+            "Identifying Users Logged into the System",
+            "Inspect Network Connections and Activity",
+            "Current and Recent Network Connections",
+            "Collecting Process Information",
+            "Correlate Open Ports with Running Processes and Programs",
+            "Identifying Services and Drivers",
+            "Determining Scheduled Tasks",
+            "Collecting Clipboard Contents",
+            "Non-Volatile Data Collection from a Live Windows System",
+            "Volatile Data Collection Methodology from Linux Systems",
+            "Non-Volatile Data Collection from a Live Linux System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Post-Mortem Forensics",
+            "Malware Discovery and Extraction from a Windows and Linux System",
+            "Examine Windows and Linux File System",
+            "Examine Application Traces",
+            "Examine Windows Registry",
+            "Keyword Searching from Windows and Linux Systems",
+            "Forensic Reconstruction of Compromised Linux and Windows System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definitions- Robots, Robotics",
+            "Types of Robots- Manipulators, Mobile Robots-wheeled & Legged Robots, Aerial Robots",
+            "Anatomy of a robotic manipulator-links, joints, actuators, sensors, controller",
+            "open kinematic vs closed kinematic chain",
+            "degrees of freedom",
+            "Robot configurations-PPP, RPP, RRP, RRR",
+            "features of SCARA, PUMA Robots. Classification of End effectors - mechanical grippers, special tools, Magnetic grippers, Vacuum grippers, adhesive grippers, Active and passive grippers, selection and design considerations of grippers in the robot"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Direct Kinematics- Rotations-Fundamental and composite Rotations",
+            "Homogeneous coordinates",
+            "Translations and rotations",
+            "Composite homogeneous transformations",
+            "Screw transformations",
+            "Kinematic parameters",
+            "The Denavit-Hartenberg (D-H) representation",
+            "The arm equation",
+            "direct kinematics problems (up to 3DOF). Inverse kinematics-general properties of solutions and problems (up to 3DOF). Inverse kinematics of 3DOF manipulator with concurrent wrist (demo/assignment only). Tool configuration Jacobian",
+            "relation between joint and end effector velocities"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Lagrange’s formulation - Kinetic Energy expression",
+            "velocity Jacobian and Potential Energy expression",
+            "Generalised force",
+            "Euler-Lagrange equation",
+            "Dynamic model of planar and spatial serial robots up to 2 DOF",
+            "modelling including motor and gearbox"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "The control problem",
+            "Single axis PID control-its disadvantages",
+            "PD gravity control",
+            "computed torque control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

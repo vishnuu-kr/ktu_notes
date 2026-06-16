@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction and Standards\nConcepts of instrument design, functional requirements and specifications.\nStandards – Military, Industrial, and Commercial standards. BIS standards,\nANSI standards, NEMA standards, DIN standards.\nPiping and Instrumentation Diagram\nP & I D Symbols, line numbering, line schedule, overview of  various stages\nin P&I D development, P&I D for pumps, compressors process vessels,\nabsorber and evaporator.\nDesign of signal conditioning circuits\nDesign of V/I Converter and I/V Converter, Signal conditioning circuit for\npH electrodes, Design of Air-purge Level Measurement, Signal conditioning\ncircuit for Thermocouple, RTD and Thermistor, Overview of Cold Junction\nCompensation and Linearization – software and Hardware approaches.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Design of Transmitters – Overview of 2 wire and 4 wire transmitters,\nDesign of RTD based Temperature Transmitter, Thermocouple based\nTemperature Transmitter and Smart Transmitters.\nControl Valves - Characteristics, valve equation, types of valves- Globe\nvalve, ball valve, gate valve, butterfly valve, needle valve, valve positioner,\nvalve selection criteria.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Orifice and Control valve sizing - Orifice, Venturi and flow nozzle sizing\n- Liquid, Gas and steam services.\nControl valve sizing – Liquid, Gas and steam services.\nOverview of Rotameter Design\nDesign of Data logger and PID controller\nDesign of ON/OFF Controller using Linear Integrated Circuits, Electronic\nPID Controller, Basics of Microcontroller based digital two-degree of\nfreedom PID Controller, Microcontroller based Data Logger, Basic\narchitecture of PC based Data Acquisition Cards.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Control Panel Design\nBasics of operating console and control room panel design. Control room\nenvironment for electronic equipment - heat dissipation, forced air\ncirculation and humidity considerations.\nGrounding and shielding- protection against electrostatic discharge.\nDesign of Alarm and Annunciation circuit - Alarm and Annunciation\nCircuits using Analog and Digital Circuits – Design of Programmable Logic\nController for any two simple applications",
+    "contact_hours": "9"
+  }
+]

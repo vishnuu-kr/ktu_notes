@@ -1,0 +1,78 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Building an architecture",
+            "Main design principles and needed capabilities",
+            "An IoT architecture outline",
+            "standards considerations. M2M and IoT Technology Fundamentals- Devices and gateways",
+            "Local and wide area networking",
+            "Data management",
+            "Business processes in IoT",
+            "Everything as a Service (XaaS",
+            "M2M and IoT Analytics",
+            "Knowledge Management"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "State of the Art - Introduction",
+            "State of the art",
+            "Reference Model and architecture",
+            "IoT reference Model - IoT Reference Architecture-Introduction",
+            "Functional View",
+            "Information View",
+            "Deployment and Operational View",
+            "Other Relevant architectural views. Real-World Design Constraints-Introduction",
+            "Technical Design constraints- Data representation and visualization",
+            "Interaction and remote control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "PHY/MAC Layer (3GPP MTC",
+            "IEEE 802.11",
+            "IEEE 802.15",
+            "Wireless HART",
+            "Z-Wave",
+            "Bluetooth Low Energy",
+            "Zigbee Smart Energy",
+            "DASH7 - Network Layer-IPv4",
+            "IPv6",
+            "6LoWPAN",
+            "6TiSCH",
+            "DHCP",
+            "ICMP",
+            "CORPL",
+            "CARP"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Transport Layer (TCP",
+            "MPTCP",
+            "DCCP",
+            "SCTP)-(TLS",
+            "DTLS) - Session Layer HTTP",
+            "CoAP",
+            "XMPP",
+            "AMQP",
+            "MQTT Service Layer Protocols & Security: Service Layer -oneM2M",
+            "ETSI M2M",
+            "BBF - Security in IoT Protocols - MAC 802.15.4",
+            "6LoWPAN",
+            "Application Layer"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Finite Element Methods-Areas of Application-General steps\nin Finite Element Methods- Geometric modelling techniques. Derivation of\nthe stiffness matrix using displacement technique- Spring, Bar, and truss\nelements – Assembly of global stiffness matrix, boundary conditions.\nDevelopment of Euler beam equations- Finite element formulations.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Coordinate transformation- Global and local coordinate system, Interpolation\nfunctions for general element formulation. Stiffness Matrix of Isoparametric\nElements.\nPatch test, Mesh convergence – Basic concept only. Different type of\nrefinements (h, p and r).\nRayleigh’s- Ritz Method (Variational method) and weighted residual method.\nNumerical integration using Gaussian quadrature.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Development of the Plane Stress and Plane Strain Stiffness Equations: -\nDevelopment of the CST, Linear-Strain Triangle (Shape functions and\nequations only), Galerkin weighted residual Techniques, Types of Boundary\nconditions (Neumann, Dirichlet and Robin)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to plate bending– finite element analysis of thin plate – finite\nelement analysis of thick plate –\nStructural Dynamics, Mass matrix computation, Evaluation of eigen\nvalues and eigen vectors, Transient analysis: Euler’s method, Central\ndifference technique, Critical time step, Rigid body modes.",
+    "contact_hours": "9"
+  }
+]

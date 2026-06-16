@@ -1,0 +1,63 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Operational amplifiers Introduction of op-amp - block diagram of op-amp - Basic information of op-amp (741 op-amp) - Power supply requirements. Characteristics of Operational Amplifiers Ideal op amp characteristics - DC characteristics -input bias current",
+      "input offset current",
+      "input offset voltage",
+      "thermal drift",
+      "CMRR",
+      "PSRR - AC characteristics - frequency response",
+      "slew rate. Basic applications-inverting amplifier",
+      "non-inverting amplifier"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Applications of Operational amplifiers Differential amplifier",
+      "summing amplifier",
+      "scale changer",
+      "voltage follower",
+      "V-I converter (grounded load type and floating load type",
+      "I-V converter. Instrumentation amplifier (3 op amp) - op amp integrator - op amp differentiator",
+      "precision rectifier (half and full wave",
+      "peak detector",
+      "sample and hold circuit",
+      "Comparator (inverting and non-inverting type) - applications of comparator - zero crossing detector",
+      "Schmitt trigger",
+      "window detector"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Waveform generators and Oscillators Timer IC 555- Functional block diagram",
+      "Waveform generators",
+      "Astable and mono stable",
+      "Design and working (using 555 and 741). Triangular and sawtooth",
+      "RC phase shift and Wien bridge oscillators (No analysis required) Voltage regulator",
+      "Introduction, series op amp regulator -IC regulators -78XX and 79XX characteristics",
+      "voltage regulator as current source using 7805, Low voltage and high voltage regulators using 723 general purpose IC"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Digital to Analog converters",
+      "Specifications",
+      "Weighted resistor type and R-2R Ladder type. Analog to Digital Converters: Specifications",
+      "ADC - Direct type - Flash type",
+      "counter type",
+      "successive approximation type - Integrating type ADC - Single slope type. Suggestion on Project Topics"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

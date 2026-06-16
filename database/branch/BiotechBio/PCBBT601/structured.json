@@ -1,0 +1,69 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Definition of the Laplace transform. Laplace transforms of some basic forcing functions - step",
+      "exponential",
+      "ramp",
+      "sinusoidal",
+      "cosine",
+      "pulse",
+      "impulse and translated functions",
+      "Laplace transform of derivatives and integrals",
+      "initial value theorem and final value theorem. Numerical problems Example- Theoretical model development of tank heater system - input-output model and its solution"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Transfer functions and their general characteristics - Transfer functions of SISO systems - A general first order and second order systems. Development of transfer function models for first order systems - First order systems and its general characteristics",
+      "Development of transfer function models for first order systems- a continuous single tank (mass storage) system and a mercury in glass thermometer system (only linear systems). Dynamics of a first order system for step and impulse input. Development of transfer function models for second order systems - multi-capacity systems - two tanks connected in series",
+      "inherently second order systems - damped vibrator",
+      "first order system in the presence of a controller. Dynamics of second order systems - General characteristics of under damped",
+      "over damped and critically damped systems. Numerical problems - Numerical Problems on overshoot",
+      "decay ratio",
+      "period of oscillation",
+      "ultimate value and maximum value. Numerical problems on transfer functions and dynamic response of first and second order systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Hardware elements of a control system- Explanation with the help of an example temperature control set up for a bioreactor. Instrumentation - Final control elements",
+      "Measuring devices for flow",
+      "temperature",
+      "pressure",
+      "level",
+      "Dissolved Oxygen Transfer function of components of feedback loop - Transfer functions of measuring devices",
+      "transmission lines and final control elements (pneumatic control valves and control valve characteristics). Dead time processes. Types of feedback controllers. Control laws and transfer functions of P",
+      "PI and PID controllers. Dynamic behaviour of feedback-controlled processes. Difference between open loop and closed loop control system. Closed loop transfer function for feedback (positive and negative) processes. Servo and regulatory responses due to the presence of proportional control",
+      "integral control",
+      "derivative control action and composite control on the response of a feedback-controlled process"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Notion of stability",
+      "Stable and unstable systems",
+      "BIBO stability",
+      "Prediction of stability of transfer function for open loop and closed loop systems based on transfer function analysis. The characteristic equation",
+      "Routh Hurwitz criterion for stability. Cross over frequency",
+      "Gain and Phase margin. Bode stability criterion",
+      "Nyquist stability criterion. Numerical examples on Routh analysis",
+      "Cross over frequency",
+      "PM. Design of feedback controllers: Semi empirical tuning techniques -CC and ZN Tuning. Numerical problems based on semi empirical tuning rules. Introduction to other methods of Controller tuning- Internal Model Control (IMC) Tuning",
+      "Model Predictive Control (MPC",
+      "Fuzzy Logic PID Tuning",
+      "Adaptive PID Control (No detailed study is required on these topics. A basic overview would be sufficient"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

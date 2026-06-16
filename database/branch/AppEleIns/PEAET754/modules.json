@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Operating Systems\nObjectives and Functions of Operating Systems, Types of OS, concept of the\nkernel within an operating system.\nProcess Management - Process States, Process Control Block and\nOperations on process.\nProcess Scheduling - Scheduling Algorithms – First Come First-Served\n(FCFS), Shortest Job First (SJF), Priority Scheduling, Round Robin (RR).\nAdvanced Scheduling Techniques (Basics only) - Multilevel Queue\nScheduling, Multilevel Feedback Queue Scheduling.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Real Time Operating Systems (RTOS) - Structure and characteristics of\nRTOS.\nTask Management - Task states and Task synchronization.\nSemaphores - Type, usage of semaphores for synchronization.\nInter task communication mechanisms (Basics only) - message queues,\npipes, event registers and signals.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Real-Time Task Scheduling and Constraints - Task Constraints.\nTask Scheduling - Aperiodic Task Scheduling (Jackson’s Algorithm and\nHorn’s Algorithm).\nScheduling with Precedence Constraints - LDF and EDF.\nPeriodic Task Scheduling (Basics only) - Rate Monotonic Scheduling\n(RMS), Deadline Monotonic Scheduling (DMS).\nReal-Time Kernel - Structure, State transition diagram and Kernel\nprimitives.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Real-Time Operating Systems in Practice\nFeature and applications of FreeRTOS and Linux.\nOverview of commercial real-time operating systems - PSOS, VRTX and\nRT.\nCase Study - MicroC/OS-II (Features, threads and task scheduling basics\nonly).\nReal-Life Applications - Adaptive cruise control - practical implementation\nchallenges and solution.",
+    "contact_hours": "9"
+  }
+]

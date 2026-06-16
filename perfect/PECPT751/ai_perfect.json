@@ -1,0 +1,40 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Embedded Systems",
+            "ASICs and ASIPs",
+            "Designing Single Purpose Processors and Optimization",
+            "Introduction to FPGA",
+            "Behavioural Synthesis of FPGA using VHDL"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sensors and Signals",
+            "Discretization of Signals and A/D Converters",
+            "Quantization Noise",
+            "SNR and D/A Converters",
+            "Arduino Uno",
+            "Serial Communication and Timer",
+            "Controller Design Using Arduino"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Power Aware Embedded Systems",
+            "SD and DD Algorithms",
+            "Parallel Operations and VLIW",
+            "Code Efficiency DSP Application and Address Generation Unit",
+            "RMS Algorithm"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "EDF Algorithm and Resource Constraint Issue, Priority Inversion and Priority Inheritance Protocol, Priority Ceiling Protocol"
+        ]
+    }
+]

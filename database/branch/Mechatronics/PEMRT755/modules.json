@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Digital Image Fundamentals:\nSteps in Digital Image Processing – Components – Elements of Visual\nPerception – simple image formation model. Relationships between pixels –\nColour image fundamentals – RGB, HSI models, Review of matrix theory:\nrow and column ordering- Toeplitz, Circulant matrices.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Image Enhancement:\nSpatial domain methods: point processing- intensity transformations,\nhistogram processing. Spatial filtering- smoothing filters, sharpening\nfilters.\nFrequency domain methods: low pass filtering, high pass filtering,\nhomomorphic filter",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Image Restoration:\nDegradation model, Unconstraint restoration and constraint restoration.\nInverse filtering, Weiner filtering.\nImage Compression:\nNeed for compression, Basics of lossless compression and lossy\ncompression. Concept of transform coding, JPEG Image compression\nstandard.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Image segmentation: Classification of Image segmentation techniques,\nRegion approach - Region Growing, Region Split & Merge. Segmentation\nbased on thresholding. Edge based segmentation-edge detection, Hough\ntransform.",
+    "contact_hours": "9"
+  }
+]

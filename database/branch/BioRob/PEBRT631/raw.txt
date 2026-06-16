@@ -1,0 +1,353 @@
+Course Code 
+PEBRT631 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCBRT502 
+Course Type 
+THEORY 
+ 
+Course Objectives: 
+1. Inverse kinematic transformation of position. 
+2. To understand the basics of industrial manipulator, manipulator kinematics and mechanics of robot 
+motion, forward and inverse kinematic transformation of position. 
+3. To understand forward and inverse kinematic transformation of velocity, end effectors force 
+transformations. 
+4. To understand about manipulator dynamics 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Robot Subsystems -Classification of Robots -Industrial Applications 
+Robotic configurations- robot motion- joint notation schemes-End effectors- 
+types- mechanical, vacuum, magnetic grippers- power transmission systems- 
+modelling and control of single joint robot. 
+Industrial robot- manipulator structures 
+Kinematics-: Position definitions- Coordinate frames - Different orientation 
+descriptions - Free vectors- Translations, rotations and relative motion - 
+Position and Orientation of a Rigid Body- Rotation Matrix- Elementary 
+Rotations- Representation and rotation of a Vector - Composition of Rotation 
+Matrices-Euler Angles- YZY angles- Roll-Pitch-Yaw Angles-Angle and axis 
+9 
+
+ 
+ 
+2 
+Introduction to manipulator kinematics- position representation -forward and 
+reverse transformations of the 2-DOF arm—adding dimensions – 
+Homogeneous transformation and robot kinematics. 
+Direct Kinematics: Kinematic Chains - Denavit Hartenberg Representation- 
+Kinematics of manipulator structures- Three link planar arm- parallelogram 
+arm- spherical arm - anthropomorphic arm- spherical arm – Stanford 
+manipulator. 
+Manipulator Kinematics-2 
+Inverse Kinematics- The General Inverse Kinematics Problem- kinematic 
+decoupling - inverse position – inverse orientation- joint space and 
+operational space -workspace. 
+9 
+3 
+Differential Kinematics and Statics:- Geometric Jacobian- Derivative of a 
+Rotation Matrix - Link Velocity -Jacobian Computation.-Jacobian of Typical 
+Manipulator Structures- Three- link Planar Arm - Anthropomorphic Arm- 
+Stanford Manipulator - Kinematic Singularities- Singularity Decoupling - 
+Wrist Singularities- Arm Singularities -Analysis of Redundancy - 
+Differential Kinematics Inversion -Redundant Manipulators - Kinematic 
+Singularities -  
+9 
+4 
+Manipulator Dynamics-1 
+Lagrange Formulation -Properties of Dynamic Model -Dynamic Model of 
+Simple Manipulator Structures - Two-link Cartesian Arm- Two-link Planar 
+Arm.- Parallelogram Arm - Dynamic Parameter Identification-Newton-
+Euler Formulation- Link Acceleration 
+Manipulator Dynamics-2 
+Trajectory Planning - Path and Trajectory -Joint Space Trajectories-Point-to-
+point Motion Path Motion- Operational Space Trajectories-Path Primitives -
+position -Orientation - Dynamic Scaling of Trajectories - Motion Control:
+Joint Space Control- Independent Joint Control- Feedback Control- 
+Decentralized Feedforward Compensation 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the basics of industrial manipulator, manipulator 
+kinematics and mechanics of robot motion, forward and inverse 
+kinematic transformation of position 
+K2 
+CO2 
+Understand forward and inverse kinematic transformation of velocity, 
+end effectors force transformations 
+K2 
+CO3 
+Understand about manipulator dynamics 
+K2 
+CO4 
+Understand robot control schemes 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and Year 
+1 
+Introduction to Robotics  
+S K Saha 
+MC GRAW HILL 
+INDIA 
+ 
+2 
+Industrial Robotics 
+Groover Mikell 
+P., M. Weiss, 
+R.N. Nagel, N.G. 
+Odrey 
+McGrawHill 
+1986, ISBN-13: 978-
+0070249899 ISBN-10: 
+007024989X 
+3 
+Modelling & Control 
+of Robot Manipulators  
+Sciavicco, L., B. 
+Siciliano 
+Springer Verlag 
+   2nd Edition, 2000 
+4 
+Robot Dynamics and 
+Control 
+Mark W. Spong & 
+M. Vidyasagar 
+  John Wiley &  
+Sons 
+1989, ISBN: 978-0-
+471-61243-8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5
+3 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and Year
+1 
+Calibration of Industrial 
+Robot Manipulators 
+Patrick Maurine 
+Wiley 
+ISTE, 2015, 
+ISBN-10: 
+1848212542 
+ISBN-13: 978-
+1848212541 
+2 
+Advanced Robotics & 
+Intelligent machines,  
+Gray J.O., D.G. 
+Caldwell(Ed) 
+The Institution of 
+Electrical Engineers, 
+UK 
+1996, ISBN-13: 
+978-0852968536 
+ISBN-10: 
+0852968531 
+3 
+Introduction to Robotics: 
+Mechanics & Control 
+Craig, John J. 
+Pearson Education 
+2nd Edition, 1989, 
+ISBN 0131236296 
+4 
+Chaouki T.Abdallah Robot 
+Manipulator Control Theory 
+and Practice 
+Frank L.Lewis, 
+Darren M.Dawson 
+Marcel Dekker Inc 
+2006, ISBN: 0-
+8247-4072-6 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://www.youtube.com/watch?v=B9jDCj581Os, 
+https://archive.nptel.ac.in/courses/112/104/112104308/, 
+https://www.youtube.com/watch?v=X7iBT5l599c 
+2 
+https://www.youtube.com/watch?v=nAwVfwSHAP0, 
+https://www.youtube.com/watch?v=f5GMjGRsKi4, 
+https://www.youtube.com/watch?v=KHJdSfcck78 
+3 
+http://acl.digimat.in/nptel/courses/video/112106304/L19.html 
+4 
+https://www.youtube.com/watch?v=QN-Awth50aA 
+
+ 
+ 
+SEMESTER S6 
+ROBOT MOTION PLANNING

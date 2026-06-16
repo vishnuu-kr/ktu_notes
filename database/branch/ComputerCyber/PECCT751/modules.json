@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Fundamentals of Data Communication\nIntroduction to Data Communication: Basic components: transmitters,\nreceivers, transmission media, Data flow types: simplex, half-duplex, full-\nduplex.\nTransmission Media: Guided media: twisted pair, coaxial, fiber optics,\nUnguided media: radio waves, microwaves, infrared.\nData Encoding and Modulation: Digital-to-digital conversion, Analog-to-\ndigital conversion, Digital-to-analog modulation (ASK, FSK, PSK), Analog-\nto-analog modulation (AM, FM, PM).",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Network Models and Topologies\nNetwork Models: OSI reference model: layers and functions, TCP/IP model:\nlayers and functions, Addressing schemes: MAC addresses, IP addresses\nNetwork Topologies: Bus, star, ring, mesh topologies: structure, advantages,\ndisadvantages\nBasic Networking Devices: Routers, switches, hubs, bridges, and their roles\nin a network.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Data Link Layer and Network Layer Protocols\nData Link Layer Protocols: Error detection and correction: CRC, Hamming\ncode, Flow control mechanisms: stop-and-wait, sliding window, MAC\nprotocols: CSMA/CD, CSMA/CA, Ethernet.\nNetwork Layer Protocols: IPv4 and IPv6 addressing, subnetting, Routing\nalgorithms: distance vector, link state Routing protocols: RIP, OSPF, BGP.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Transport and Application Layer Protocols\nTransport Layer Protocols :  TCP , UDP\nApplication Layer Protocols: DNS, DHCP, HTTP, FTP, SMTP, SNMP\nNetwork Design: LAN and WAN planning, VLANs, wireless technologies\n(Wi-Fi, Bluetooth)\nEmerging Technologies and Future Trends in Networking:  Cloud\nComputing and Data Centers ,  Internet of Things (IoT) , Edge computing, fog\ncomputing, blockchain, quantum networking  (Basic concepts only).",
+    "contact_hours": "11"
+  }
+]

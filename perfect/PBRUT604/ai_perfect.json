@@ -1,0 +1,37 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definition and significance of soft computing",
+            "Differences between hard and soft computing",
+            "Fuzzy Logic: Fuzzy Sets and Membership Functions, Fuzzy Rules and Inference Systems",
+            "Genetic Algorithms: Working Principle and Operators (Selection, Crossover, and Mutation)",
+            "Neural Networks: Learning rules and Activation functions, Single Layer Perceptrons, Multilayer Perceptrons, Backpropagation Algorithm, Architecture"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Open-source libraries: TensorFlow, Keras (simple programs only)"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Industrial Machine Vision: Basic concepts of image formation, Radiometry and geometric transformations, Geometric Camera Models",
+            "Pinhole camera model, Perspective projection and camera parameters",
+            "Techniques for 3D reconstruction",
+            "Spatial domain and Frequency domain methods for image enhancement",
+            "Image Segmentation: Thresholding, Region-based segmentation"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "K-Means, Mixture of Gaussians, Classification: Discriminant Function (Supervised, Un-supervised, Semi-supervised)",
+            "Classifiers: Bayes, KNN, ANN models",
+            "Dimensionality Reduction: PCA, LDA, ICA",
+            "Vision algorithms for identifying end wires: Binary vision algorithm, Grey-scale vision algorithm, Active ranging using structured light technique in industrial vision"
+        ]
+    }
+]

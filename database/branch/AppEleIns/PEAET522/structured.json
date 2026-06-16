@@ -1,0 +1,58 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to computer architecture Classes of computers",
+      "defining computer architecture",
+      "Introduction to RISC and CISC architectures",
+      "Classification of instruction set architectures",
+      "basics of performance measurements. Basic parallel processing techniques - instruction level",
+      "thread level and process level. Classification of parallel architectures. Introduction to Graphical Processing Unit (GPU"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Pipelined Processors and Super Scalar Organization Pipelining fundamentals - Pipelined design",
+      "concept of Arithmetic pipelining and Instruction pipelining. Basic concept of Deeply pipelined processors. Super Scalar Organization - Limitations of Scalar pipelines",
+      "Basics concepts of parallel",
+      "diversified and dynamic pipelines. Superscalar pipeline overview - instruction fetch",
+      "decode",
+      "dispatch",
+      "execute",
+      "completion and retiring"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Memory Hierarchy Computer system overview",
+      "Concept of latency and bandwidth. Memory Hierarchy - Introduction",
+      "levels in modern Memory hierarchy",
+      "concept of temporal and spatial locality",
+      "DRAM Technology. Cache memories - cache hit",
+      "cache miss and hit ratio",
+      "types of cache mapping - direct",
+      "associative and set associative. Virtual Memory systems - Demand paging",
+      "memory protection. Overview of memory hierarchy implementations"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Thread-Level Parallelism Introduction to thread level parallelism and Multiprocessor Systems",
+      "Basic architecture of Centralised Shared Memory multiprocessor and distributed memory multiprocessor",
+      "concept of Cache coherence problem",
+      "basic schemes for enforcing coherence - Snooping coherence protocol. Introduction to Distributed Shared Memory and Directory-Based Coherence",
+      "directory-Based cache Coherence protocol"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

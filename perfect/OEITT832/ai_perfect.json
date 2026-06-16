@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Traditional Machine Learning to Deep Learning",
+            "Neural Networks - Feedforward Neural Networks",
+            "Activation Functions - Sigmoid",
+            "ReLU",
+            "Tanh",
+            "Softmax",
+            "Training Neural Networks - Forward and Backward Propagation Algorithm",
+            "Optimization Algorithms - Gradient Descent",
+            "Stochastic Gradient Descent",
+            "Adam"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "CNN Basics - Convolutional Layers",
+            "Pooling Layers",
+            "CNN Architectures - LeNet",
+            "AlexNet",
+            "ResNet",
+            "Applications of CNNs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "RNN Basics - RNN Structure",
+            "Backpropagation Through Time (BPTT)",
+            "Vanishing and Exploding Gradients",
+            "Advanced RNN Architectures - Long Short-Term Memory (LSTM)",
+            "Gated Recurrent Units (GRU)",
+            "Transformers and Attention Mechanisms - Attention Mechanism Basics",
+            "Transformer Architecture (BERT)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Generative Adversarial Networks (GANs) - GAN Basics",
+            "Applications of GANs",
+            "Autoencoders - Architecture",
+            "Transfer Learning and Fine-Tuning - Pre-trained Models",
+            "Fine-Tuning Strategies"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

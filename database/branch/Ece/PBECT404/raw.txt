@@ -1,0 +1,1013 @@
+Course Code 
+PBECT404 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBECT304-Logic 
+Circuit Design 
+Course Type 
+Theory 
+Course Objectives: 
+1. To learn Microcontroller architecture and its programming 
+2. To learn embedded system design to develop a product.  
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours
+1 
+Microcontroller Architecture – General internal architecture, Address 
+bus, Data bus, control bus.  
+The Microcontroller 8051: Features of 8051 microcontroller, Block 
+diagram of 8051- program status word (PSW), accumulator, program 
+counter. Memory organization – RAM & ROM, register banks and stack, 
+Special Function Registers (SFRs), I/O port organization, Interrupts. 
+ 
+      9 
+2 
+Instruction Set of 8051 & Addressing modes: Classification of 
+instruction set - Data transfer group, arithmetic group, logical group, 
+branching group.  
+Addressing modes - Types. Accessing the data from internal and external 
+memory.  
+ 
+       9 
+3 
+Programming 8051 Using Assembly Language: Introduction to 8051 
+assembly language programming. Data types & directives, Concept of 
+subroutine. Software delay programming. 
+Programming 8051 Using Embedded C Language: Introduction to 
+embedded C – advantages. 
+9 
+4 
+Timer / Counter in 8051: Timer registers - Timer0, Timer1. 
+Configuration of timer registers. Timer mode programming. Counter 
+mode. 
+ 
+9 
+
+ 
+ 
+Serial Communication in 8051: Serial communication – modes and 
+protocols, RS-232 pin configuration and connection. Serial port 
+programming – transmitting and receiving.  
+Programming the interrupts: Use external, timer and serial port 
+interrupts. Interrupt priority settings.  
+ 
+Suggestion on Project Topics 
+ 
+1. Interface any known ADC chip to 8051 uC. Read the variation in voltage from a potentiometer 
+and display it on an LCD module.  
+2. Interface any known DAC chip to 8051 uC. Generate a Sine waveform of 1KHz at any port  pin. 
+3. DC motor interface for speed and direction control. 
+4. Stepper motor interface - Unit step control, Rotation angle control, Speed control, Direction 
+control 
+5. Read the Temperature sensor and display it on LCD. 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+ 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from 
+each module.  
+ 
+Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+ 
+2 questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 2 sub 
+divisions. 
+ 
+ Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Outline Architecture of Microcontroller 
+K2 
+CO2 
+Develop Microcontroller programs 
+K5 
+CO3 
+Design various interfaces to Microcontroller 
+K5 
+CO4 
+Design and implement an Embedded System 
+K6 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The 8051 Microcontroller and 
+Embedded Systems Using 
+Assembly and C 
+Muhammad Ali Mazidi 
+Janice Gillispie Mazidi  
+Rolin D. McKinlay 
+Prentice Hall -Inc 
+Second, 
+2007 
+2 
+The 8051 Microcontroller 
+Architecture, Programming and 
+Applications 
+Kenneth J Ayala 
+Dhananjay V Gadre 
+ 
+Cengage Learning 
+2010 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+8051 hardware Description 
+Datasheet 
+Intel Corporation 
+1992 
+2 
+Microprocessors and 
+Microcontrollers 
+ 
+Lyla B. Das 
+Pearson Education 
+2011 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+3 
+2 
+3 
+ 
+ 
+2 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+2 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+Microprocessors and Microcontrollers - https://nptel.ac.in/courses/106108100 
+2 
+Microcontrollers and Applications - https://nptel.ac.in/courses/117104072 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture 
+delivery 
+Project identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group 
+discussion
+Project Analysis 
+Data Collection 
+Evaluation  
+Question 
+answer 
+ Sessions/ 
+Brainstorming 
+Sessions
+Analytical 
+thinking 
+and 
+ self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project 
+reformation 
+(If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case 
+Study/ 
+Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 
+5 minutes video
+ 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions
+4 
+3 
+Involvement in the project work and Team Work
+3 
+4 
+Execution and Implementation
+10 
+5 
+Final Presentations
+5 
+6 
+Project Quality, Innovation and Creativity
+3 
+Total 
+30 
+ 
+ 
+ 
+ 
+
+ 
+ 
+1. Project Planning and Proposal (5 Marks) 
+ Clarity and feasibility of the project plan  
+ Research and background understanding  
+ Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ Individual contribution to the presentation  
+ Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+ Active participation and individual contribution  
+ Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+ Adherence to the project timeline and milestones  
+ Application of theoretical knowledge and problem-solving  
+ Final Result 
+5. Final Presentation (5 Marks) 
+ Quality and clarity of the overall presentation  
+ Individual contribution to the presentation  
+ Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ Overall quality and technical excellence of the project  
+ Innovation and originality in the project  
+ Creativity in solutions and approaches 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+INSTRUMENTATION 
+Course Code 
+PEECT 411 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None/ 
+(Course code) 
+Course Type 
+Theory 
+Course Objectives: 
+1. This course aims to introduce the basic concepts of electronic measuring instruments. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours
+1 
+Introduction to measuring instruments 
+Generalized Configurations and Functional elements of Instrumentation 
+systems, Need for Measurement Systems, Classification of Types of 
+Measuring instruments. Static and Dynamic characteristics of measuring 
+instruments.  
+ 
+9  
+2 
+Sensors and Transducers 
+Classification and selection criteria of Transducers 
+Principles of operation, construction, theory, advantages and 
+disadvantages, applications of 
+Resistive Transducers: Potentiometers, strain gauges, (metallic and 
+semi-conductor type), Resistance Thermometer, Thermistors. 
+Inductive 
+Transducers: 
+LVDT 
+(Linear 
+variable 
+differential 
+transformer). 
+Capacitive Transducers: various capacitive transducers based upon 
+familiar equation of capacitance (capacitive microphone) 
+ 
+ 
+9  
+3 
+Electronic Measuring Instruments 
+Digital storage oscilloscope, Working principle and applications of 
+waveform analyser, digital frequency meter, harmonic distortion meter, 
+harmonic analyser, spectrum analyser and logic state analyser IEEE - 
+9  
+
+ 
+ 
+488 General Purpose Interface Bus (GPIB) Instruments with application. 
+EMI, 
+Grounding and Shielding 
+4 
+PLC Programming 
+Basic PLC Programming: Programming ON/OFF Inputs, Creating 
+Ladder diagrams, Register Basics, PLC Timers and Counters, PLC 
+Arithmetic functions, Number comparison functions, Data handling 
+Functions: Skip function and applications; master control relay function 
+and applications; jump with non-return and return; data table, register 
+and other move functions, PLC functions with BITS. 
+ 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Micro project 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Interpret the basic concepts of measuring instruments, its 
+classification, and selection criteria.  
+K2 
+CO2 
+Outline the principle, construction and working of transducers for 
+measuring physical variables.  
+K2 
+CO3 
+Comprehend the principle, construction and working of various 
+electronic measuring instruments.  
+K2 
+CO4 
+Apply PLC programming for selected industrial processes. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+ Doebelin's 
+Measurement 
+Systems 
+Ernest Doebelin, 
+Dhanesh N. Manik 
+Tata McGraw   Hill 
+6/e, 2011 
+2 
+Electronic Instrumentation 
+Kalsi H S 
+ Tata McGraw Hill 
+4/e, 2019 
+3 
+Programmable 
+Logic 
+controllers 
+Programming 
+Methods and Applications 
+John R Hackworth, 
+Frederick D Hackworth 
+Pearson Education 
+3/e, 2022 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+ “Electrical and Electronics 
+Measurements and 
+Instrumentation,” 
+Sawhney AK, 
+Dhanpat Rai and Sons 
+2023 
+ 
+2 
+ “Programmable Logic 
+Controllers- Principles and 
+applications 
+John W Webb, Ronald 
+A. Reis, 
+Pearson 
+5/e, 2015 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/108/105/108105064/ 
+2 
+https://archive.nptel.ac.in/courses/108/105/108105153/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+POWER ELECTRONICS 
+Course Code 
+PEECT 412 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Analog Circuits  
+(PCECT303) 
+Course Type 
+Theory 
+Course Objectives: 
+1. To study the characteristics of power electronic devices. 
+2. To study different power converter circuits. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction: Scope and applications of Power Electronics, Properties 
+of ideal switch. 
+Structure and static characteristics: Power diodes, Power BJT, Power 
+MOSFET & IGBT – comparison.  Basic principles of wide band gap 
+devices – SiC & GaN.  
+Safe Operating Area: Power BJT, Power MOSFET & IGBT. Drive 
+Circuits: Power BJT and Power MOSFET (any two example circuits – 
+no analysis).  
+ 
+9  
+2 
+SCR: Structure, two transistor analogy, static characteristics.  
+Rectifiers:  Three phase diode bridge rectifiers, Single phase half-
+controlled rectifier with R load – Single phase fully controlled bridge 
+rectifier (continuous conduction) – output voltage equation. Principle of 
+three phase half wave controlled rectifier– (average output voltage 
+equation for continuous load current) – related simple problems (1-phase 
+& 3-phase).  
+ 
+9  
+3 
+DC – DC Switch Mode Converters: Buck, Boost and Buck-boost DC-
+DC converters. Waveforms and expression of DC-DC converters for 
+output voltage, voltage and current ripple under continuous conduction 
+mode. 
+9  
+
+ 
+ 
+Isolated converters: Flyback, Forward, Push Pull, Half bridge and Full 
+bridge converters – Waveforms and governing equations. 
+4 
+DC-AC Switch Mode Inverters: Inverter topologies, Driven 
+Inverters: Push-Pull, Half bridge and Full bridge configurations, Single 
+phase PWM inverters (Single pulse width and sinusoidal pulse width 
+modulation) – rms output voltage equation and output voltage 
+waveforms. 
+ 
+9  
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Micro project 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Outline the operation of power semiconductor devices and its 
+characteristics. 
+K2 
+CO2 
+Design and analyze various rectifier circuits for power devices 
+K3 
+CO3 
+Analyze different power converter circuits 
+K3 
+CO4 
+Illustrate different types of inverter circuits 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Power Electronics Essentials & 
+Applications 
+L Umanand  
+Wiley India 
+Reprint 
+Edition 
+2014 
+2 
+Power 
+Electronics 
+Circuits, 
+Devices, and Applications 
+Muhammad H Rashid 
+Pearson India 
+Third 
+Edition 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO1
+0 
+PO1
+1 
+PO1
+2 
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+ 
+3 
+ 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+ 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+ 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Power Electronics Converters, 
+Applications, and Design 
+Ned Mohan, Tore M 
+Undeland, William P. 
+Robbins
+Wiley India 
+Third 
+Edition 
+2 
+Power Electronics Principles 
+and Applications 
+Joseph Vithayathil 
+Tata McGraw-HILL 
+Second 
+Reprint 
+2010
+3
+Power Electronics
+Daniel W Hart
+McGraw-HILL
+2011
+4 
+SiC and GaN Wide Bandgap 
+Device Technology Overview,  
+Milligan, J. W., 
+Sheppard, S., Pribble, 
+W., Wu, Y.-F., Muller, 
+G., &Palmour, J. W
+2007 IEEE Radar 
+Conference.  
+doi:10.110
+9/radar.200
+7.374395. 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No.
+Link ID 
+1 
+ 
+2 
+https://www.youtube.com/watch?v=fOZ8bUrFJGk 
+3 
+https://archive.nptel.ac.in/courses/117/108/117108124/ 
+4 
+https://www.youtube.com/watch?v=Dg5AIy0bY1A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+MACHINE LEARNING

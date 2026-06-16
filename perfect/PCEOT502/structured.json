@@ -1,0 +1,67 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Power Diodes - Types- Characteristics (Static and Dynamic) - Effects of Reverse Recovery Transient- Ratings- Schottky Diodes-Features & Applications [] Semi-controlled switch: SCR (Thyristor) - Symbol",
+            "Structure",
+            "Characteristics (Static and dynamic) - Turn-on and Turn-off phenomena - Ratings- Gate control of SCR - Gate pulse magnitude and duration requirements- Typical gate drive circuits - Gate synchronisation - Isolated gate drives [] Fully-controlled switches: MOSFETS and IGBTs: Symbol",
+            "Structure",
+            "Characteristics (Static and dynamic) - Device ratings- Gate drive requirements - Typical gate drive circuits [] Modern power devices: Introduction to Wide Bandgap Devices - SiC MOSFET and GaN HEMT - Features and advantages [] 4. Power Electronics- Essentials and Applications by L. Umanand",
+            "John Wiley",
+            "2009"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Controlled Rectifiers (Single Phase) - Fully controlled and half-controlled rectifiers (semi-converter) with RL and RLE loads- Rectifier and inverter modes of operation- waveforms (continuous & discontinuous conduction) - Output voltage",
+            "Input line current",
+            "Real Power",
+            "Power factor and THD (Continuous conduction",
+            "ripple free current) - Effect of source inductance (Full converter in continuous conduction",
+            "ripple free current) [] Controlled Rectifiers (3-Phase) - Fully controlled & Half-controlled bridge converter with RLE load (continuous conduction",
+            "ripple free current) - Waveforms- Output voltage equation [] DC-DC Switching Regulators- Buck",
+            "Boost & Buck-Boost - Operation with Continuous conduction Waveforms - Effect of non-idealities such as capacitor ESR and inductor resistance (qualitative treatment only)- Design of filter inductance and capacitance- Selection of power devices"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "AC voltage controllers (ACVC",
+            "1-phase full-wave ACVC with R & RL loads",
+            "waveforms",
+            "RMS output voltage",
+            "applications [] Switch mode DC-AC Voltage Source Inverters (VSI)- Single phase Half-Bridge and Full-Bridge configurations- Sinusoidal Pulse Width Modulation (PWM",
+            "Control of Fundamental output voltage- Harmonic spectrum-Bipolar and Unipolar PWM- Linear, Over Modulation and Square wave modes -Merits and demerits- Need for blanking time (dead-time) [] Three-Phase Pulse Width Modulated VSI",
+            "Fundamental Output voltage-Linear, Over Modulation and Square wave modes",
+            "Third harmonic Injection PWM [] Single phase IGBT based current source Inverter(CSI)- Comparison between VSI and CSI [] Need for improved utility interface- Generation of current harmonics- Power factor- Harmonics and IEEE 519 standard- Active shaping of the input line current"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Electric Drives",
+            "Advantages of adjustable speed electric drives",
+            "Block diagram, Types of loads",
+            "Classification of load torque-Motor torque-load combination: characteristics and dynamic equation-Steady state stability [] DC Drives- Chopper control of Separately Excited DC drives (SEDC",
+            "One quadrant, Two quadrant and four quadrant Chopper fed drives (Continuous conduction only)- Motoring and Regenerative braking",
+            "Speed-Torque characteristics",
+            "Speed control- Controlled rectifier fed separately excited DC motor drive- Single phase and three phase (Continuous conduction only)- Speed-Torque characteristics- Speed control",
+            "Dual converter drives (single phase",
+            "Circulating current Type and Non-circulating current",
+            "Static four-quadrant operation with SEDC [] Three-phase VSI fed induction motor drives: Stator Voltage control",
+            "V/F speed control",
+            "Speed-Torque characteristics- Speed control",
+            "operation below and above base speed",
+            "Braking: dynamic and regenerative"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

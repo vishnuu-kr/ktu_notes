@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "INTRODUCTION TO OR & LINEAR PROGRAMMING Origin of OR and its definition - Types of OR problems - Deterministic vs stochastic optimization",
+            "Phases of OR - Problem formulation - Building mathematical model - Deriving solutions",
+            "Validating model",
+            "Controlling and implementing solution. Linear programming - Example from industrial cases",
+            "Formulation of LPP - Implicit assumptions of LPP. Solution of LPP - Graphical method",
+            "Simplex method - Artificial variables - Big M method - Identification & resolution of special cases - Infeasibility",
+            "Unboundedness",
+            "Redundancy & Degeneracy - Sensitivity analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "TRANSPORTATION & ASSIGNMENT PROBLEMS Transportation problem",
+            "Introduction",
+            "Mathematical formulation",
+            "Balanced & Unbalanced Transportation Problems",
+            "Initial basic feasible solution",
+            "North-west corner rule",
+            "Lest cost method",
+            "Vogel’s approximation method",
+            "Test for optimality",
+            "MODI method",
+            "Degeneracy & its solution. Assignment problem",
+            "Introduction",
+            "Mathematical formulation",
+            "Balanced & Unbalanced Assignment Problem. Solution method",
+            "Hungarian algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "INVENTORY CONTROL Functions of inventory and its disadvantages",
+            "ABC analysis",
+            "Concept of inventory costs",
+            "Basics of inventory policy - Order",
+            "lead time. Fixed Order Quantity",
+            "Economic Order Quantity (EOQ",
+            "Production Order Quantity (POQ).EOQ models (manufacturing and purchase) with shortages and without shortages"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Definition and steps of simulation",
+            "random number",
+            "random number generator",
+            "Application in scheduling",
+            "Queuing systems and inventory systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

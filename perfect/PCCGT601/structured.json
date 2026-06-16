@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Blockchain",
+            "objective",
+            "Blockchain terminologies",
+            "Distinction between databases and blockchain",
+            "Understanding Blockchain ecosystem and structure",
+            "Types of blockchain",
+            "Architecture",
+            "Benefits and limitations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Consensus- definition",
+            "types",
+            "Consensus interaction with architectural layers",
+            "Consensus Algorithms",
+            "Crash fault tolerance (CFT) algorithms - Paxos",
+            "Raft. Byzantine fault tolerance (BFT) algorithms - Practical Byzantine Fault Tolerance (PBFT",
+            "Proof of work (PoW",
+            "Proof of stake (PoS",
+            "Types of PoS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Smart Contracts - Definition",
+            "Smart contract templates",
+            "Oracles",
+            "Types of oracles",
+            "Deploying smart contracts. Decentralization terminology Decentralized applications",
+            "Decentralized Autonomous Organizations. Use cases of Blockchain technology - Government",
+            "Health care",
+            "Finance",
+            "Supply chain management. Blockchain and allied technologies - Blockchain and Cloud Computing",
+            "Blockchain and Artificial Intelligence"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Bitcoin - Definition",
+            "Challenges and solutions",
+            "Cryptographic keys - Private keys",
+            "public keys",
+            "addresses. Transactions - Lifecycle",
+            "coinbase transactions",
+            "transaction validation. Bitcoin Mining-Purpose",
+            "algorithm",
+            "Mining hardware",
+            "Bitcoin mining pools",
+            "Security and Centralization Ethereum - The Ethereum network. Components of the Ethereum ecosystem - Keys and addresses",
+            "Accounts",
+            "Transactions and messages. The Ethereum Virtual Machine"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

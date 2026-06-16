@@ -1,0 +1,44 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Basic Elements of discrete data control systems, advantages of discrete data control systems, examples. Signal conversion & processing: Digital signals & coding, data conversion & quantization, sample and hold devices, Mathematical modelling of the sampling process",
+      "Data reconstruction and filtering of sampled signals: Zero order hold, first order Hold and polygonal hold"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Digital control systems- Pulse transfer function. z transform analysis of closed loop open loop systems-Modified z- transfer function Difference equation. Solution by recursion and z transform. Steady state error analysis",
+      "Examples on static error coefficients. Bilinear transformation",
+      "mapping from s-plane to z-plane"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Stability of linear digital control systems- Routh Hurwitz criteria, Jury’s test. Root loci of digital control systems",
+      "rules for construction of root locus. Frequency domain analysis",
+      "Bode Plots-Gain margin and Phase margin"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Review of state space techniques to continuous data systems, state space representation of discrete time systems- Transfer function from state space model",
+      "various canonical forms",
+      "conversion of transfer function model to state space model",
+      "characteristics equation",
+      "solution to discrete state equations. Controllability and Observability",
+      "Response between sampling instants using state variable approach"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

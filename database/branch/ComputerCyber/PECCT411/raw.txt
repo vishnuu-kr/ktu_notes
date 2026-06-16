@@ -1,0 +1,330 @@
+Course Code 
+PECCT411 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course objectives: 
+1. Identify the models and frameworks best suited to various workloads. 
+2. Constructing parallel and distributed applications, including testing, debugging and performance 
+evaluation 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Distributed System: Definition, Relation to computer system components, 
+Motivation, Primitives for distributed communication, Design issues, 
+Challenges and applications. 
+Leader election algorithm- Bully algorithm, Ring algorithm. Termination 
+detection- Spanning tree-based algorithm. 
+ 
+9  
+2 
+Distributed mutual exclusion algorithms- System model, Requirements of 
+mutual exclusion algorithm. Lamport’s algorithm, Ricart- Agrawala 
+algorithm, Quorum based mutual exclusion algorithms- Maekawa’s 
+algorithm. 
+Token based algorithm- Suzuki-Kasami’s broadcast algorithm. 
+ 
+9  
+3 
+Parallel Computing: Principles of Parallel Algorithm Design Decomposition 
+Techniques, Characteristics of Tasks and interactions, Mapping techniques 
+for load balancing. 
+Basic Communication operations: One to All Broadcast and All to One 
+Reduction, All to All Broadcast and Reduction, All Reduce  
+11 
+
+ 
+ 
+And Prefix Sum operations, Scatter and Gather, All to All Personalized 
+communication, Circular Shift, Improving the speed of some communication 
+operation. 
+4 
+Principles of Message Passing Programming, The building blocks: Send 
+and Receive Operations, MPI: The Message Passing Interface, Overlapping 
+Communication with Computation, Collective Communication and 
+Computation Operations, Groups and Communicators. 
+ 
+7  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Illustrate election algorithm and termination detection algorithm. 
+K2 
+CO2 
+Compare token based, non-token based and quorum based mutual 
+exclusion algorithms 
+K2 
+CO3 
+Appreciate the communication models for parallel algorithm 
+development 
+K2 
+CO4 
+Develop parallel algorithms using message passing paradigms. 
+K3 
+CO5 
+Demonstrate the fundamentals skills of heterogenous computing with 
+shared memory architecture. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+2 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+2 
+ 
+ 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Parallel Computing 
+AnanthGrama, Anshul 
+Gupta, George Karypis, 
+Vipin Kumar 
+ 
+Second 
+edition,200
+3 
+2 
+Distributed Computing Principles, 
+Algorithms, and Systems 
+Ajay D. Kshemkalyani 
+University of Illinois at 
+Chicago, Chicago and 
+Mukesh Singhal 
+University of Kentucky, 
+Lexington 
+Cambridge 
+University Press  
+First 
+Edition,200
+8 
+3 
+Distributed system 
+Maarten van Steen 
+Andrew S Tanebaum 
+Pearson 
+Education,Inc. 
+Third 
+edition 
+,2017 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The Art of Multiprocessor Programming
+Maurice Herlihy 
+and NirShavit 
+Morgan 
+Kaufmann 
+Publishers 
+2008 
+2 
+Principles of Parallel Programming 
+C. Lin, L. Snyder, 
+Addison-Wesley 
+ 
+2009 
+3 
+Distributed Systems: Concepts and 
+Design 
+George Coulouris, 
+Jean Dollimore, 
+Tim Kindberg and 
+Gordon Blair 
+Addison Wesley 
+Fifth 
+edition 
+4 
+An Introduction to Distributed 
+Algorithms 
+Valmir C. Barbosa 
+MIT Press 
+2003 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://www.youtube.com/watch?v=R1FfoED7OGo&t=13s&pp=ygUqYnVsbHkgYWxnb3Jpd
+GhtIGluIGRpc3RyaWJ1dGVkIHN5c3RlbSBjb2Rl 
+2 
+https://www.youtube.com/watch?v=yduKTBqVAH8&pp=ygUvdG9rZW4gYmFzZWQgYWx
+nb3JpdGhtcyBpbiBkaXN0cmlidXRlZCBjb21wdXRpbmc%3D 
+3 
+https://www.youtube.com/watch?v=huwsVa6wXRM&pp=ygUeYmFzaWMgY29tbXVuaWNh
+dGlvbiBvcGVyYXRpb25z 
+4 
+https://www.youtube.com/watch?v=QkV_5lNF1Lw&pp=ygUZTVBJIElOIFBBUkFMTEVMI
+ENPTVBVVElORw%3D%3D 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+INTRODUCTION TO BLOCK-CHAIN TECHNOLOGIES

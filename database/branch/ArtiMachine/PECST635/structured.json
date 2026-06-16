@@ -1,0 +1,43 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction - Limitations of Traditional Computing & solution, Three Layers of Computing, Factors behind Cloud Service Adoption",
+      "Evolution and Enabling Technologies of Cloud",
+      "Benefits and Challenges",
+      "Fundamental Concepts and Models - Roles and Boundaries, Cloud Characteristics, Cloud Delivery Models, Cloud Deployment Models",
+      "Introduction to Cloud Providers (AWS, Azure, Google Cloud). Handson - Cloud Account Setup and Virtual Machine Deployment - Create accounts on a cloud provider and deploy virtual machine instances, and document the process and inferences"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Cloud-Enabling Technology - Networks and Internet Architecture, Cloud Data Center Technology, Modern Virtualization, Multitenant Technology, Service Technology and Service APIs",
+      "Understanding Containerization -Influencers, Fundamental Virtualization and Containerization, Understanding Containers, Understanding Container Images, Multi-Container Types. Handson - Hypervisor and Containers installation - Install hypervisors and deploy VMs on local machines. Install any container platform and deploy applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Resource Management - Resource Pooling, Sharing, Provisioning",
+      "Scaling in Cloud and the Strategies",
+      "Capacity Planning in Cloud Computing",
+      "Storage and File System - Challenges",
+      "Cloud Native File System, Deployment models, Storage Types, Popular Cloud Storages. High performance Computing Models. Handson - Use Map-reduce to implement basic big data applications such as word count"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Identify possible attacks of any selected cloud applications and suggest/implement solutions/policies for mitigation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

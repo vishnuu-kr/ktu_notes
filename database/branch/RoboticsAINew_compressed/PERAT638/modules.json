@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Stepper Motors and Drives: Types -Variable reluctance, permanent magnet\nand hybrid motors - Constructional features - principle of operation - modes\nof excitation.\nTorque production in variable reluctance stepping motor:  Static torque\ncharacteristics - position error due to low torque; Performance parameters -\nresolution - single step response and accuracy; Pull-in and pull-out\ncharacteristics – Resonance issues.\nUnipolar and bipolar drive schemes – Bifilar drives – Open loop position\ncontrol - starting/stopping rate – Velocity profiling -Closed loop control of\nstepper motors (Assignment)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Permanent Magnet Synchronous Motor (PMSM) Drives: Permanent magnet\nmaterials and characteristics, PMSM – Principle of operation, SPM and IPM\nmachines, Torque equation, Phasor diagram, Machine modeling, Switching\nschemes, Motor control - Field oriented control, Flux weakening, Sensorless\ncontrol,  Power controllers.\nBrushless DC Motor (BLDC) Drives: BLDC motors- constructional details –\nprinciple of operation; Speed-Torque characteristics -Torque Pulsation,\nMachine modeling.\nSwitching schemes for BLDC operation,  Motor control - Power controllers\n– full wave and half wave converters – regeneration – Hall sensor based\ncontrol,  Phase advance angle control, Sensorless control",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Switched Reluctance Motors (SRM) and Drives: SRM – Principle of\noperation, Inductance profile, torque equation, Motoring and regeneration.\nLow speed and high speed operation – Characteristics, Energy conversion\nloop - Energy effectiveness.\nPower controllers, Control schemes – Six switch converter – Split DC supply\nconverter – R dump, C dump converters.\nSoft switching converter topologies, Torque ripple minimization",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Advanced Magnetless Motor Drives: Synchronous reluctance motors,\nPermanent magnet synchronous reluctance motors –- Constructional details,\nPrinciple of operation, Different topologies, Vernier reluctance motors,\nApplications.\nField oriented control principles, Direct torque and flux control.\nVernier permanent magnet motors: Constructional details, Principle of\noperation, Modelling.\nInverters for Vernier PM motors, Vernier PM Motor control, Applications",
+    "contact_hours": "9"
+  }
+]

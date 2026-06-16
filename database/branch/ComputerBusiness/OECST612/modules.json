@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Communication model - Simplex, Half duplex, Full duplex transmission.\nPeriodic analog signals - Sine wave, Amplitude, Phase, Wavelength, Time and\nfrequency domain, Bandwidth. Analog & digital data and signals.\nTransmission impairments - Attenuation, Delay distortion, Noise. Data rate\nlimits - Noiseless channel, Nyquist bandwidth, Noisy channel, Shannon's\ncapacity formula.\nGuided transmission media - Twisted pair, Coaxial cable, Optical fiber.\nUnguided media - Radio waves, Terrestrial microwave, Satellite microwave,\nInfrared. Wireless propagation - Ground wave propagation, Sky wave\npropagation, Line-of-Sight (LoS) propagation.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Digital data to digital signal – Non-Return-to-Zero (NRZ), Return-to-Zero\n(RZ), Multilevel binary, Biphase. Analog data to digital signal - Sampling\ntheorem, Pulse Code Modulation (PCM), Delta Modulation (DM). Digital data\nto analog signal - Amplitude Shift Keying (ASK), Frequency Shift Keying\n(FSK), Phase Shift Keying (PSK). Analog data to analog signal - Amplitude\nModulation (AM), Frequency Modulation (FM), Phase Modulation (PM).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Multiplexing - Frequency Division Multiplexing (FDM), Wavelength\nDivision Multiplexing (WDM), Time Division Multiplexing (TDM),\nCharacteristics, Synchronous TDM, Statistical TDM. Spread spectrum\ntechniques - Direct Sequence Spread Spectrum (DSSS), Frequency Hopping\nSpread Spectrum (FHSS), Code Division Multiplexing, Code Division\nMultiple Access (CDMA).",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Digital data communication techniques - Asynchronous transmission,\nSynchronous transmission. Detecting and correcting errors - Types of errors,\nParity check, Checksum, Cyclic Redundancy Check (CRC), Forward Error\nCorrection (FEC), Hamming distance, Hamming code. Basic principles of\nswitching - Circuit switching, Packet switching, Message switching.",
+    "contact_hours": "9"
+  }
+]

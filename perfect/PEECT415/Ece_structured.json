@@ -1,0 +1,69 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Clocked Synchronous Networks",
+            "Analysis of Clocked Synchronous Sequential Networks (CSSN",
+            "Mealy machine",
+            "Moore machine",
+            "Modelling of CSSN",
+            "State assignment and reduction",
+            "Design of CSSN",
+            "ASM Chart and its realization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Asynchronous Sequential Circuits",
+            "Analysis of Asynchronous Sequential Circuits (ASC",
+            "Flow table reduction",
+            "Races in ASC",
+            "State assignment problem and the transition table",
+            "Design of Asynchronous Sequential Circuits",
+            "Design of ALU"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Hazards - static and dynamic hazards in combinational networks",
+            "Essential Hazards",
+            "Design of Hazard free circuits",
+            "Data synchronizers",
+            "Mixed operating mode asynchronous circuits",
+            "Practical issues- clock skew and jitter",
+            "Synchronous and asynchronous inputs",
+            "Flip-Flops and Simple Flip-Flop Applications",
+            "switch debouncer. Faults",
+            "Fault table method - path sensitization method - Boolean difference method",
+            "Kohavi algorithm",
+            "Automatic test pattern generation - Built in Self-Test (BIST"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Design entry: Schematic",
+            "FSM & HDL",
+            "VHDL Hardware Description Language",
+            "VHDL Modules",
+            "VHDL Processes",
+            "Different modeling styles in VHDL",
+            "Data types and operators",
+            "Objects",
+            "Dataflow",
+            "Behavioral and Structural Modeling",
+            "Synthesis",
+            "Simulation. VHDL constructs and codes for combinational and sequential circuits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

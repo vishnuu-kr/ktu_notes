@@ -1,0 +1,54 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of Security and Traditional Cryptosystems: OSI Security Architecture - Security Attacks",
+            "Services",
+            "Mechanisms. Cryptography vs Cryptanalysis. Classical Encryption Techniques - Symmetric Cipher Model. Substitution Ciphers - Monoalphabetic vs Polyalphabetic Ciphers",
+            "Caesar Cipher",
+            "Affine Cipher",
+            "Playfair Cipher",
+            "Vigenere Cipher",
+            "Hill Cipher. Transposition Ciphers - Keyless, Keyed, Double Transposition"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Modern Symmetric Key Cryptosystems: Symmetric Key Ciphers - Block vs Stream Ciphers",
+            "Block Cipher Components",
+            "Product Ciphers",
+            "Feistel and Non-Feistel Ciphers. Data Encryption Standard (DES) - Structure, Key Generation, Design Criteria, Weaknesses",
+            "Double DES, Triple DES",
+            "Advanced Encryption Standard (AES) - Structure, Key Expansion",
+            "Block Cipher Modes of Operation - Electronic Codebook Mode (ECB), Cipher Block Chaining Mode (CBC), Cipher Feedback Mode (CFB), Output Feedback Mode (OFB), Counter Mode (CTR). Stream Ciphers - Structure"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Public Key Cryptosystems: Introduction to Public Key Cryptosystems - Principles, Applications, Requirements",
+            "Conventional vs Public Key Cryptosystems. RSA Cryptosystem - Algorithm, Security, Attacks",
+            "ElGamal Cryptosystem - Algorithm. Diffie-Hellman Key Exchange - Algorithm, Man-in-the-Middle Attack",
+            "Elliptic Curve Cryptography (ECC) - ElGamal ECC, Key Exchange Using ECC"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Access Control Principles - Subjects, Objects, and Access Rights",
+            "Unix File Access Control, Role-Based Access Control, Attribute-Based Access Control",
+            "System Security: Intruders, Intrusion Detection Techniques, Password Management",
+            "Malicious Software - Viruses, Related Threats, Countermeasures",
+            "Distributed Denial of Service (DDoS) Attacks - Types, Countermeasures"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

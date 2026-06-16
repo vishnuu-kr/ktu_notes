@@ -1,0 +1,49 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Evolution from 1G to 5G: Analog Voice Systems in 1G",
+            "Digital Radio Systems in 2G, Voice and Messaging Services, TDMA-Based GSM, CDMA, 2.5G (GPRS), 2.75G (EDGE)",
+            "IMT-2000: 3G UMTS, W-CDMA, HSPA, HSPA+, 3G Services and Data Rates",
+            "IMT-Advanced: 4G, LTE, VoLTE, OFDM, MIMO, LTE-Advanced Pro (3GPP Release 13)",
+            "IMT-2020: 5G, Enhancements in Comparison to IMT-Advanced, Evolution of LTE Technology to 5G Roadmap"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Basics of 5G: 5G Potential and Applications",
+            "Usage Scenarios: Enhanced Mobile Broadband (eMBB), Ultra Reliable Low Latency Communications (URLLC), Massive Machine Type Communications (MMTC), D2D Communications, V2X Communications",
+            "Spectrum for 5G, Spectrum Access/Sharing",
+            "Millimeter Wave Communication, Channels and Signals/Waveforms in 5G, Carrier Aggregation, Small Cells, Dual Connectivity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "PHY API Specification, Flexible Frame Structure, Service Data Adaptation Protocol (SDAP)",
+            "Centralized RAN, Open RAN",
+            "Multi-Access Edge Computing (MEC)",
+            "Software Defined Networking (SDN), Network Function Virtualization (NFV)",
+            "Network Slicing",
+            "RESTful API for Service-Based Interface",
+            "Private Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "LMLC",
+            "Possible Solutions for Connectivity in Rural Areas (BharatNet, TVWS, Long-Range WiFi, FSO)",
+            "Non-Terrestrial Fronthaul/Backhaul Solutions: LEOs, HAP/UAV"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

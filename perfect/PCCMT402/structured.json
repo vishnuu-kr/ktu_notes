@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Artificial Intelligence:-Introduction, Foundation and history of AI Agents and Environments",
+            "The concept of rationality",
+            "The nature of environments, Structure of agents. Problem solving Agents Well-defined problems and solutions, Formulating problems",
+            "Example problems- vacuum world, 8-puzzle, 8-queens"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Blind Search strategies:-Depth First Search, Breadth First Search, Iterative Deepening Search. Heuristic Search strategies - Heuristic functions, The effect of heuristic accuracy on performance",
+            "Generate and test, Greedy best first search, A* algorithm, Constraint satisfaction problems, Cryptarithmetic problems, Means-end analysis",
+            "Local search strategies - Simple Hill Climbing, Simulated Annealing",
+            "Adversarial search - Games, Optimal Decision in games, The minimax algorithm, Alpha - beta pruning"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Knowledge-Based Agents :-The Wumpus World",
+            "Logic",
+            "Propositional Logic",
+            "Reasoning Patterns in Propositional Logic",
+            "First order logic",
+            "Inference in first order logic",
+            "propositional vs. first order inference",
+            "unification & lifts forward chaining",
+            "Backward chaining"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Planning:-Classical planning - Algorithms for Classical Planning",
+            "Forward state-space search for planning",
+            "Backward search for planning",
+            "Planning as Boolean satisfiability",
+            "Heuristics for Planning",
+            "Domain-independent pruning",
+            "State abstraction in planning",
+            "Hierarchical Planning",
+            "High-level actions",
+            "Searching for primitive solutions",
+            "Searching for abstract solutions",
+            "Planning and Acting in Nondeterministic Domains",
+            "Time",
+            "Schedules",
+            "and Resources"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Overview of stochastic processes and their relevance. Discrete-Time Stochastic Processes: Markov chains: States, transition matrices, steady-state analysis. Examples and practical applications Continuous-Time Stochastic Processes: Poisson processes continuous-time Markov chains. Basic properties and applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Introduction to MDPs- Components of MDPs: States",
+      "actions",
+      "rewards",
+      "and policies. Bellman equations and value functions. Solution Methods for MDPs- Dynamic programming methods: Value iteration",
+      "policy iteration. Advanced Topics in MDPs- Approximate solutions for large MDPs Policy gradients and actor-critic methods"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Introduction to Stochastic Optimization",
+      "Formulations and types of stochastic optimization problems. Basic principles and illustrative examples Stochastic Gradient Descent : Algorithmic details, convergence, practical considerations. Comparison with deterministic optimization methods"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Real-world applications: Finance",
+      "robotics. Analysis of practical challenges and case studies Applications in AI and Robotics- Stochastic decision-making in AI: Natural language processing",
+      "autonomous systems. Case studies in robotics: Path planning",
+      "adaptive control Applications in Finance and Operations Research Financial modeling: Risk management",
+      "portfolio optimization Operations research applications: Inventory management",
+      "queuing systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

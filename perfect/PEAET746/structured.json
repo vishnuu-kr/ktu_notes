@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Cryptography Introduction to cryptography",
+            "Need for cryptography",
+            "Kirchhoff’s principle. Symmetric Cipher Models - Substitution techniques",
+            "Transposition techniques",
+            "Rotor machines",
+            "Steganography. Block Cipher - Design principles and modes of operation. The Data Encryption Standard",
+            "Strength of DES. Differential and linear Cryptanalysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "IDEA - Primitive operations",
+            "Key expansions",
+            "One round",
+            "odd round",
+            "Even Round",
+            "Inverse keys for decryption. AES - Basic Structure",
+            "Primitive operation",
+            "Inverse Cipher- Key Expansion",
+            "Rounds",
+            "Inverse Rounds. Stream Cipher - RC4"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Number theory - Fundamental Theorem of arithmetic",
+            "Fermat’s Theorem",
+            "Euler’s Theorem",
+            "Euler’s Totient Function",
+            "Extended Euclid’s Algorithm",
+            "Modular arithmetic. Public key Cryptography - Principles of Public key Cryptography Systems",
+            "RSA algorithm. Key Management - Diffie-Hellman Key Exchange"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Basics of Elliptic curve cryptography Authentication - Authentication functions",
+            "Message authentication codes",
+            "Hash functions- SHA -1",
+            "Security of Hash functions and MACs. Introduction to Digital signatures - Digital signature standards"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

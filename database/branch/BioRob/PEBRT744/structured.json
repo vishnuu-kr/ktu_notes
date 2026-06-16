@@ -1,0 +1,52 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Numerical Algorithms and Errors Approximations - Accuracy and precision",
+      "definitions of round off and truncation errors-Taylor series",
+      "error propagation. Algebraic equations - Formulation and solution of linear algebraic equations",
+      "Gauss elimination method Gauss elimination",
+      "Gauss-Jordan reduction Iterative Approach for Solution of Linear Systems Jacobi and Gauss-Seidel methods"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "General Form of Nonlinear Equations Examples of Nonlinear Equations in Biomedical Engineering The Method of Successive Substitution. The Method of False Position (Linear Interpolation) The Newton",
+      "Raphson Method Newton's Method for Simultaneous Nonlinear Equations. Applications: Friction factor in a catheter, Ventricular pressure measurements"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Interpolation",
+      "Differentiation",
+      "and Integration Backward",
+      "Forward",
+      "and Central Differences- Interpolating of Equally Spaced Points Gregory-Newton",
+      "Stirling's interpolation Interpolating Polynomials-Interpolation of Equally Spaced Points- Gregory-Newton interpolation",
+      "Interpolation of Unequally Spaced Points Lagrange and spline",
+      "Integration Formulas-Newton-Cotes Formulas of Integration Dynamic Systems: Examples of Ordinary differential equations in Biomedical Engineering",
+      "Solution of Nonlinear Ordinary Differential Equations- Euler",
+      "Runge-Kutta methods",
+      "Solution of Linear Ordinary Differential Equations-Eigenvalue methods. Applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Glycolysis pathways of living cells, Dynamics of membrane and nerve cell potentials. Solution of Partial Differential Equations: elliptic, parabolic, hyperbolic equations. Applications: Dynamics of the basilar membrane, Drug diffusion Computational Modelling of Biosystems: Numerical Modelling of bioengineering Systems using numerical tools PhysioNet, PhysioBank, and Physio Toolkit, Python packages to simulate neuronal activity. Applications: ECG simulation",
+      "EEG simulation",
+      "Model of glucose regulation, Diabetes and insulin regulation",
+      "Renal clearance"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

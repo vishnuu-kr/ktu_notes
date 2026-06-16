@@ -1,0 +1,84 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Security:-Security Goals - Security services (Confidentiality",
+      "Integrity",
+      "Authentication",
+      "Non-repudiation",
+      "Access control) - Security Mechanisms (Encipherment",
+      "Data Integrity",
+      "Digital Signature",
+      "Authentication Exchange",
+      "Traffic Padding",
+      "Routing Control",
+      "Notarization",
+      "Access control",
+      "Security Principles. Basics of Algebra and Number Theory:- Integer Arithmetic- Modular Arithmetic- Algebraic structures - Prime Numbers - Fermat’s and Euler’s Theorem - Factorization - Chinese Remainder Theorem - Linear and Quadratic Congruence - Discrete Logarithms"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Introduction to Cryptography:- Kerckhoff's Principle -Classification of Cryptosystems- Cryptanalytic attacks- Cipher Properties (Confusion",
+      "Diffusion). Traditional Secret Key Ciphers:- Substitution Ciphers - (Mono alphabetic ciphers-Ceaser",
+      "Affine",
+      "Poly alphabetic ciphers-Autokey",
+      "Playfair",
+      "Vigenere and Hill)- Transposition Ciphers - (Rail Fence",
+      "Keyed transposition ciphers) - Stream and Block Ciphers. Modern Secret Key Ciphers:- Substitution Box-Permutation Box-Product Ciphers",
+      "Data Encryption Standard (DES) (Fiestel and Non-Fiestel Ciphers",
+      "Structure of DES",
+      "DES Attacks",
+      "2-DES",
+      "3-DES) - Advanced Encryption Standard (AES) (Structure",
+      "Analysis"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Cryptographic Hash Functions: - Properties - Secure Hash Algorithm-(SHA-512 Logic",
+      "Round Function",
+      "Message Authentication Code (MAC). Public Key Cryptosystems (PKC):- Types of PKC - Trapdoor - one way functions -RSA Cryptosystem (Integer Factorisation Trapdoor",
+      "Key Generation",
+      "Encryption",
+      "Decryption) - El Gamal Cryptosystem (Discrete Logarithm Trapdoor",
+      "Key Generation",
+      "Encryption",
+      "Decryption) - Diffie-Hellman Key Exchange Protocol",
+      "Man in the Middle attack on Diffie-Hellman Protocol. Digital Signature:- Signing - Verification - Digital signature forgery (Existential forgery",
+      "Selective forgery",
+      "Universal forgery) - RSA Digital Signature Scheme - ElGamal Signature Scheme - Elliptic Curve Digital Signature Scheme(ECDSS"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Network Security:- Electronic Mail Security -Pretty Good Privacy- PGP message format - Transmission and Reception of PGP Messages",
+      "S/MIME. IP Security Overview",
+      "IP Security Architecture",
+      "Authentication Header",
+      "Encapsulating Security Payload- Intruders",
+      "Intrusion Detection",
+      "Distributed Denial of Service attacks- Secure Electronic Transaction - Payment Processing - Dual Signature",
+      "Firewalls - Firewall Design Principles. Application of Cryptography:-Blockchain fundamentals(Blockchain defined",
+      "Blockchain architecture",
+      "Generic elements of a blockchain",
+      "Benefits",
+      "features",
+      "and limitations of blockchain",
+      "Types of blockchain) - Secure Multiparty Computation(Outsourced Computation",
+      "Multi-Party Computation",
+      "Applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

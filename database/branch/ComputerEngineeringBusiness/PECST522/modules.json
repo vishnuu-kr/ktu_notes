@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Artificial Intelligence:-\nIntroduction, Foundation and history of AI Agents and Environments; The\nconcept of rationality; The nature of environments, Structure of agents.\nProblem solving Agents Well-defined problems and solutions, Formulating\nproblems; Example problems- vacuum world, 8-puzzle, 8-queens.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Searching:-\nDepth First Search, Breadth First Search, Iterative Deepening Search.\nHeuristic Search   strategies - Heuristic functions, The effect of heuristic\naccuracy on performance; Generate and test, Greedy best first search, A*\nalgorithm, Constraint satisfaction problems, Adversarial search - Games,\nOptimal Decision in games, The minimax algorithm, Alpha–beta pruning.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Knowledge-Based Agents :-\nThe Wumpus World, Logic, Propositional Logic, Reasoning Patterns in\nPropositional Logic, First order logic, Inference in first order logic,\npropositional vs. first order inference, unification & lifts forward chaining,\nBackward chaining.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Reinforcement Learning :- Learning from Rewards, Passive Reinforcement\nLearning, Active Reinforcement Learning, Generalization in Reinforcement\nLearning, Policy Search, Apprenticeship and Inverse Reinforcement\nLearning, Applications of Reinforcement Learning",
+    "contact_hours": "10"
+  }
+]

@@ -1,0 +1,354 @@
+Course Code 
+PEEET413 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+NIL 
+Course Type 
+Theory 
+ 
+Course objectives: 
+ 
+1. The purpose of this course is to introduce mathematical foundations of basic Machine 
+Learning concepts among learners, on which Machine Learning systems are built. 
+2. Concepts in this course help the learners to understand the mathematical principles in 
+Machine Learning and aid in the creation of new Machine Learning solutions, 
+understand and debug existing ones, and learn about the inherent assumptions and 
+limitations of the current methodologies. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+LINEAR ALGEBRA: Systems of Linear Equations – Matrices, Solving 
+Systems of Linear Equations. Vector Spaces –Vector Spaces, Linear 
+Independence, Basis and Rank. Linear Mappings – Matrix Representation of 
+Linear Mappings, Basis Change, Image and Kernel. 
+ 
+9 
+2 
+ANALYTIC GEOMETRY, MATRIX DECOMPOSITIONS: Norms, Inner  
+
+ 
+ 
+ 
+ 
+ 
+Products, Lengths and Distances, Angles and Orthogonality, Orthonormal Basis, 
+Orthogonal Complement, Orthogonal Projections – Projection into One 
+Dimensional Subspaces, Projection onto General Subspaces, Gram-Schmidt 
+Orthogonalization. 
+Determinant 
+and 
+Trace, 
+Eigenvalues 
+and 
+Eigenvectors, 
+Cholesky 
+Decomposition, Eigen decomposition and Diagonalization, Singular Value 
+Decomposition, Matrix Approximation. 
+9 
+3 
+VECTOR CALCULUS: Differentiation of Univariate Functions - Partial 
+Differentiation and Gradients, Gradients of Vector Valued Functions, Gradients 
+of Matrices, Useful Identities for Computing Gradients. Back propagation and 
+Automatic Differentiation – Gradients in Deep Network, Automatic 
+Differentiation. Higher Order Derivatives- Linearization and Multivariate 
+Taylor Series. 
+9 
+4 
+Probability and Distributions : Construction of a Probability Space - Discrete 
+and Continuous Probabilities, Bayes’ Theorem. Summary Statistics and 
+Independence – Gaussian Distribution - Conjugacy and the Exponential Family - 
+Change of Variables/Inverse Transform. 
+ 
+Optimization : Optimization Using Gradient Descent - Gradient Descent With 
+Momentum. Constrained Optimization and Lagrange Multipliers - Convex 
+Optimization - Linear Programming - Quadratic Programming. 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out of 
+which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1
+Make use of the concepts, rules and results about linear equations, matrix 
+algebra, vector spaces, eigenvalues & eigenvectors and orthogonality & 
+diagonalization to solve computational problems  
+K3
+CO2
+Perform calculus operations on functions of several variables and matrices, 
+including partial derivatives and gradients  
+K3
+CO3
+Utilize the concepts, rules and results about probability, random variables, 
+additive & multiplicative rules, conditional probability, probability 
+distributions and Bayes’ theorem to find solutions of computational 
+problems  
+K3
+CO4
+Train Machine Learning Models using unconstrained and constrained 
+optimization methods  
+K3
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+ 
+PO1
+PO2
+PO3
+PO4 
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10 
+PO11
+PO12
+CO1
+3
+2
+1
+ 
+2
+CO2
+3
+2
+ 
+2
+CO3
+3
+2
+1
+2
+CO4
+3
+2
+2
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+
+ 
+ 
+ 
+ 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the Publisher 
+Edition 
+and Year 
+1 
+Mathematics for 
+Machine Learning  
+Marc Peter Deisenroth, A. 
+Aldo Faisal, and Cheng 
+Soon Ong 
+Cambridge University Press 
+(freely available at https:// mml - 
+book.github.io) 
+ 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Linear Algebra and Its Applications,  
+Gilbert Strang 
+ 
+4th 
+Edition 
+2
+Linear Algebra Done Right 
+Axler, Sheldon 
+Springer 
+2015 
+3 
+Introduction to Applied Linear 
+Algebra 
+Stephen Boyd and 
+Lieven Vandenberghe 
+Cambridge 
+University 
+Press 
+2018 
+4 
+Pattern Recognition and Machine 
+Learning 
+Christopher M Bishop 
+Springer 
+2006 
+5 
+Convex Optimization 
+Stephen Boyd and 
+Lieven Vandenberghe 
+Cambridge 
+University 
+Press 
+2004 
+6 
+Learning with Kernels – Support 
+Vector Machines, Regularization, 
+Optimization, and Beyond  
+Bernhard Scholkopf and 
+Smola, Alexander J 
+Smola 
+MIT Press 
+2002 
+7 
+Information Theory, Inference, and 
+Learning Algorithms 
+David J. C MacKay 
+Cambridge 
+University 
+Press 
+2003 
+8 
+Machine Learning: A Probabilistic 
+Perspective  
+Kevin P Murphy 
+MIT Press 
+2012 
+9 
+The Nature of Statistical Learning 
+Theory 
+Vladimir N Vapnik 
+Springer  
+2000 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID 
+1 
+archive.nptel.ac.in/courses/111/107/111107137 
+onlinecourses.nptel.ac.in/noc24_cs38/ 
+2 
+archive.nptel.ac.in/courses/111/107/111107137 
+onlinecourses.nptel.ac.in/noc24_cs38/ 
+3 
+archive.nptel.ac.in/courses/111/107/111107137 
+onlinecourses.nptel.ac.in/noc24_cs38/ 
+4 
+archive.nptel.ac.in/courses/111/107/111107137 
+onlinecourses.nptel.ac.in/noc24_cs38/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+SEMESTER S4 
+THEORY OF COMPUTATION

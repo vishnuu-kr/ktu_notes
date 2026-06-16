@@ -1,0 +1,43 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Root Finding Methods (Derivation or proof not required) Bisection method",
+            "Newton-Raphson method",
+            "Secant method",
+            "False Position Method",
+            "Fixed-point iteration",
+            "Convergence and error analysis of root-finding methods. Solving nonlinear equations using the above methods in Python"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Newton's finite and backward difference interpolation methods. Polynomial Interpolation: Lagrange interpolation and Newton’s divided difference interpolation. Spline Interpolation: Cubic splines and B-splines. Error analysis in interpolation. Implementing interpolation methods in Python"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Finite difference methods",
+            "Error analysis in numerical differentiation. Numerical Integration: Trapezoidal rule, Simpson’s rule, Gaussian quadrature, Adaptive quadrature methods. Writing Python programs to perform numerical differentiation and integration"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Euler’s method",
+            "Runge-Kutta methods",
+            "Multistep methods (Adams-Bashforth and Adams-Moulton methods). Boundary Value Problems: Shooting method",
+            "Finite difference method. Solving ODEs using Python"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

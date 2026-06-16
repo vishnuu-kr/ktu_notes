@@ -1,0 +1,61 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Uses of Computer Networks",
+            "Network Hardware",
+            "Network Software",
+            "Reference Models - The OSI Reference Model",
+            "TCP/IP Reference Model",
+            "Comparison of the OSI and TCP/IP Reference Models",
+            "Physical Layer: Guided Transmission Media (Twisted Pair, Coaxial Cable, Fiber Cables)",
+            "Wireless Transmission (Radio Transmission, Microwave Transmission, Infrared Transmission)",
+            "Communication Satellites (GEO, MEO)",
+            "Interfacing Devices: Repeaters, Hubs, Bridges, Switches, Routers, and Gateways"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Data Link Layer Design Issues",
+            "Error Detection and Correction - Error Correcting Codes (Hamming Codes, Reed-Solomon Codes, Low-Density Parity Check Codes)",
+            "Error-Detecting Codes (Parity, Checksums, Cyclic Redundancy Checks)",
+            "A Simplex Stop-and-Wait Protocol for a Noisy Channel",
+            "Sliding Window Protocols",
+            "Medium Access Control (MAC) Sublayer: Channel Allocation Problem",
+            "Multiple Access Protocols (ALOHA, Slotted ALOHA, Carrier Sense Multiple Access Protocols)",
+            "Collision-Free Protocols - Bit Map Protocol, Token Passing, Binary Countdown, Wireless LAN Protocols",
+            "Ethernet: Frame Format, Types - Fast Ethernet, Gigabit Ethernet, 10-Gigabit Ethernet"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Network Layer Design Issues",
+            "Routing Algorithms - The Optimality Principle, Shortest Path Routing, Flooding, Distance Vector Routing, Link State Routing, Multicast Routing, Routing for Mobile Hosts",
+            "Congestion Control Algorithms: Approaches to Congestion Control - Choke Packets, Random Early Detection",
+            "Quality of Service - Application Requirements, Traffic Shaping - Leaky and Token Buckets",
+            "The Network Layer in the Internet: Internet Protocol, IP Version 4 Protocol, IP Addresses, IP Version 6"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Transport Service - Services Provided to the Upper Layers, Transport Service Primitives",
+            "Socket Programming",
+            "User Datagram Protocol (UDP) - User Datagram, Checksum",
+            "Real-Time Transport Protocols (RTP, RTCP)",
+            "Transmission Control Protocol (TCP) - TCP Service Model, TCP Protocol, TCP Segment Header, TCP Connection Establishment, TCP Connection Release, TCP Sliding Window, TCP Congestion Control",
+            "Application Layer: Domain Name System (DNS) - Electronic Mail",
+            "World Wide Web - Architectural Overview, HTTP - The Hypertext Transfer Protocol"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

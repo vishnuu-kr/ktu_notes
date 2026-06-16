@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Definitions- Robots, Robotics; Types of Robots- Manipulators, Mobile Ro-\nbots-wheeled & Legged Robots, Aerial Robots; Anatomy of a robotic ma-\nnipulator-links, joints, actuators, sensors, controller; open kinematic vs\nclosed kinematic chain; degrees of freedom; Robot considerations for an ap-\nplication- number of axes, work volume, capacity & speed, stroke &reach,\nRepeatability, Precision and Accuracy, Operating environment, point to\npoint control or continuous path control",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Sensors and Actuators\nSensor classification- touch, force, proximity, vision sensors.\nInternal sensors-Position sensors, velocity sensors, acceleration sensors,\nForce sensors; External sensors-contact type, noncontact type\nActuators for robots- classification-Electric, Hydraulic, Pneumatic actuators;\ntheir advantages and disadvantages; Electric actuators- Stepper motors, DC\nmotors, DC servo motors and their drivers, AC motors, Linear actuators, se-\nlection of motors\nRobotic configurations and end effectors Robot configurations-PPP, RPP,\nRRP, RRR; features of SCARA, PUMA Robots; Classification of robots\nbased on motion control methods and drive technologies; 3R concurrent\nwrist;\nClassification of End effectors - mechanical grippers, special tools, Magnetic\ngrippers, Vacuum grippers, adhesive grippers, Active and passive grippers,\nselection and design considerations of grippers in robot.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Kinematics and Motion Planning\nRobot Coordinate Systems- Fundamental and composite rotations, homoge-\nneous co-ordinates and transformations, Kinematic parameters, D-H repre-\nsentation, Direct Kinematics. The Arm equation- forward Kinematic analysis\nof a typical robots upto 3 DOF.\nMotion Planning- joint space trajectory planning-cubic polynomial, linear\ntrajectory with parabolic blends; Cartesian space planning, Point to point vs\ncontinuous path planning.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Dynamics and Control of Robots\nBuilding of a servo controlled robot – 1R two link chain, construction of link\nand joint and mounting of encoder, actuator, etc.\nDynamics- Dynamic model of a robot using Lagrange’s equation, dynamic\nmodelling of 1DOF robot, including motor and gearbox, 2R planar manipu-\nlator.\nControl Techniques- Transfer function and state space representation, Per-\nformance and stability of feedback control, PID control of a single link ma-\nnipulator, selection of PID controller gains; nonlinear nature of manipulators,\nand need for nonlinear control techniques.",
+    "contact_hours": "9"
+  }
+]

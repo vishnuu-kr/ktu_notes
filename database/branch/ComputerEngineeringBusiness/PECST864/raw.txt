@@ -1,0 +1,333 @@
+Course Code 
+PECST864 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCCST302, 
+PCCST502 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To develop an understanding of various computational models, including deterministic and 
+nondeterministic models, Turing machines, and other computational models, and analyze 
+their capabilities and limitations, focusing on how these models influence the classification of 
+problems into complexity classes. 
+2. To explore key complexity classes such as P, NP, and PSPACE, and apply polynomial-time 
+reductions to prove the NP-completeness of various problems, and also investigate space 
+complexity, polynomial hierarchy, and advanced topics. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Complexity Theory - Basic concepts and motivations, 
+Deterministic and nondeterministic models, Turing machines, and 
+computational models. (Text 2 - Ch 7) 
+Complexity Classes P and NP - Definitions and examples of P and NP, 
+Polynomial-time algorithms, NP-completeness and the Cook-Levin theorem. 
+(Text 2 - Ch 7, 8) 
+Reductions and Completeness - Polynomial-time reductions, NP-complete 
+problems, and their significance, Examples of NP-complete problems (Text 
+1 - Ch 2) 
+9 
+
+ 
+ 
+2 
+Space Complexity - Space complexity classes: L, NL, PSPACE, Savitch's 
+theorem and NL-completeness, PSPACE-completeness. (Text  2 - Ch 8) 
+Polynomial Hierarchy and Alternation - Definition of the polynomial 
+hierarchy (PH), Complete problems for each level of PH, Relationship 
+between PH and other classes. (Text 1 - Ch 5) 
+9 
+3 
+Interactive Proofs - Definition and examples of interactive proofs, IP = 
+PSPACE theorem, Zero-knowledge proofs. (Text 1 - Ch 8) 
+Probabilistically Checkable Proofs (PCPs) - Introduction to PCPs, PCP 
+theorem and implications, Applications in hardness of approximation. (Text 
+1 - Ch 9) 
+9 
+4 
+Circuit Complexity - Boolean circuits and circuit complexity, Circuit lower 
+bounds, Complexity of specific functions. (Text 2 - Ch 9) 
+Quantum Complexity - Basics of quantum computation, Quantum 
+complexity classes: BQP, QMA, Quantum algorithms and their complexity. 
+(Text 3 - Ch 10, 11) 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe and interpret different computational models, including 
+deterministic and nondeterministic Turing machines. 
+K2 
+CO2 
+Recall and categorize complexity classes such as P, NP, and PSPACE, 
+and explain their fundamental properties. 
+K2 
+CO3 
+Use polynomial-time reductions to demonstrate problem completeness 
+and analyze the computational difficulty of problems. 
+K3 
+CO4 
+Evaluate problems based on their space complexity and apply theories 
+like Savitch's theorem to assess space-bounded algorithms. 
+K4 
+CO5 
+Examine advanced topics in complexity theory, including interactive 
+proofs, PCPs, and quantum complexity, and their implications for 
+computational theory. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computational Complexity: A Modern 
+Approach 
+Sanjeev Arora, 
+Boaz Barak 
+Cambridge 
+University Press 
+1/e, 2019 
+2 
+Introduction to the Theory of Computation 
+Michael Sipser 
+Cengage 
+3/e,  2014 
+3 
+Quantum Computing: A Gentle 
+Introduction 
+Eleanor Rieffel, 
+Wolfgang Polak 
+MIT Press 
+1/e, 2014 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Randomized Algorithms 
+Rajeev Motwani and 
+Prabhakar Raghavan 
+Cambridge 
+University Press 
+1/e, 2004 
+2 
+Probability and Computing: 
+Randomization and Probabilistic 
+Techniques in Algorithms and 
+Data Analysis 
+Michael Mitzenmacher and 
+Eli Upfal 
+Cambridge 
+University Press 
+3/e, 2017 
+3 
+Introduction to Algorithms 
+Thomas H. Cormen, Charles 
+E. Leiserson, Ronald L. 
+Rivest and Clifford Stein 
+The MIT Press 
+Cambridge 
+4/e, 2023 
+4 
+The Probabilistic Method 
+Noga Alon and Joel H. 
+Spencer 
+Wiley-Blackwell 
+4/e, 2016 
+5 
+Approximation Algorithms 
+Vijay V. Vazirani 
+Springer 
+4/e, 2013 
+6 
+Theory of Computation : Classical 
+And Contemporary Approaches 
+Dexter C Kozen 
+Springer 
+6/e, 2006 
+7 
+Computational Complexity: A 
+Conceptual Perspective, 
+Oded Goldreich 
+Cambridge 
+University Press 
+1/e, 2008 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc21_cs90/preview 
+https://onlinecourses.nptel.ac.in/noc21_cs49/preview 
+2 
+https://onlinecourses.nptel.ac.in/noc21_cs90/preview 
+https://onlinecourses.nptel.ac.in/noc21_cs49/preview 
+3 
+https://onlinecourses.nptel.ac.in/noc21_cs90/preview 
+https://onlinecourses.nptel.ac.in/noc21_cs49/preview 
+4 
+https://onlinecourses.nptel.ac.in/noc21_cs90/preview 
+https://onlinecourses.nptel.ac.in/noc21_cs49/preview 
+https://archive.nptel.ac.in/courses/106/104/106104241/ 
+
+ 
+ 
+SEMESTER S8 
+BEHAVIOURAL ECONOMICS

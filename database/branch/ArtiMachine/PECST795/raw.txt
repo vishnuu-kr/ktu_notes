@@ -1,0 +1,389 @@
+Course Code 
+PECST795 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCCST303 
+PCCST502 
+Course Type 
+Theory 
+Course Objectives: 
+1. To understand and apply spectral graph theory techniques to analyze and solve complex graph 
+problems, such as community detection and network design, through detailed study and hands-
+on assignments. 
+2. To develop and evaluate LP- and SDP-based approximation algorithms for NP-hard problems, 
+including real-world applications like scheduling and optimization, by implementing these 
+algorithms and assessing their performance in practical scenarios 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Spectral Graph Theory - Introduction to Spectral Graph Theory, Graph 
+Laplacians: Definition and Properties, Eigenvalues and Eigenvectors of 
+Laplacian matrices, Cheeger’s Inequality, Graph Partitioning.  
+Assignments: 
+1. Implement Cheeger’s inequality for a set of sample graphs. Compare 
+the theoretical results with empirical data to analyze the effectiveness 
+of different partitioning algorithms. Use a set of sample graphs such as 
+Erdős-Rényi Random Graphs, Barabási-Albert Model: Known for 
+scale-free properties, and Regular Graphs. Compare theoretical results 
+with empirical data using different partitioning algorithms such as 
+Spectral Clustering - Uses the eigenvectors of the Laplacian matrix, K-
+means Clustering - Applied to spectral embeddings of the graph, 
+Normalized Cut - Minimizes the normalized cut criterion. Measure 
+how close the empirical conductance is to the theoretical lower bound 
+9 
+
+ 
+ 
+provided by Cheeger's inequality. Analyze which algorithms produce 
+cuts with conductance values closer to the theoretical bounds.  
+Real-world Application: Apply Cheeger's inequality to social network 
+analysis to detect community structures. 
+2. Analyze the properties of the Laplacian matrix of a given graph 
+(Erdős-Rényi Random Graphs). Compute its eigenvalues and 
+eigenvectors and discuss the implications for graph partitioning. 
+Examine the use of graph Laplacians in network community detection.
+2 
+Spectral Clustering - Introduction to Clustering and Spectral Clustering, 
+Normalized Cut, Eigenvalue Techniques for Clustering, Spectral Clustering 
+Algorithm, Applications of Spectral Clustering. 
+Assignment: 
+1. Implement a spectral clustering algorithm and apply it to a real-world 
+dataset (Iris dataset). After running the spectral clustering algorithm, 
+evaluate the results using metrics such as Silhouette Score and 
+Adjusted Rand Index (ARI). Plot the data points colored by their 
+cluster assignments to visually inspect the clustering. 
+Compare spectral clustering with other clustering techniques (e.g., k-
+means, hierarchical clustering) on the three types of datasets - 
+Synthetic Data, Real-World Data (Iris Dataset), and High-Dimensional 
+Data (Text Data (Use TF-IDF features)). Discuss the advantages and 
+limitations of spectral clustering in different scenarios. 
+Real-world Application: Use clustering results for anomaly detection 
+in network security. 
+9 
+3 
+Expanders - Introduction to Expander Graphs, Properties and Construction of 
+Expanders, edge-expanders, vertex-expanders, spectral-expanders, Expander 
+Mixing Lemma, Random walks on expanders graphs, Applications of 
+Expander Graphs:  Error-Correcting Codes. 
+Assignments: 
+1. Study the construction and properties of expander graphs such as 
+Erdős-Rényi graphs, Ramanujan graphs and Cayley graphs. 
+Implement algorithms for generating expander graphs and analyze 
+their properties based on spectral gap and expansion property. 
+2. Apply expander graphs to error-correcting codes. Design and test 
+codes based on expanders, and evaluate their performance in terms of 
+error correction capabilities. Simulate a communication channel with 
+added noise and measure the performance of the expander code in 
+9 
+
+ 
+ 
+correcting errors. Evaluate the BER, code rate, and error correction 
+capability by comparing the number of errors corrected versus the total 
+number of errors introduced. 
+4 
+LP- and SDP-based Approximation Algorithms for NP-Hard Problems - Linear 
+Programming (LP) Relaxations and their Use in Approximation: Vertex Cover 
+and Set Cover, Semidefinite Programming (SDP) and its Applications: Max-
+Cut Problem. 
+Assignments: 
+1. Implement and evaluate LP relaxations for vertex cover and set cover 
+problems (use Erdős-Rényi Graphs). Compare the results with exact 
+solutions and analyze the quality of the approximations. 
+2. Develop and test approximation algorithms for Max-cut problem using 
+SDP relaxations. Assess the performance and efficiency of your 
+algorithms on various datasets. To assess the performance and 
+efficiency of the SDP-based Max-Cut approximation, test the 
+algorithm on various types of graphs, including: Erdős-Rényi Graphs, 
+Barabási-Albert Graphs, and Real-world Graphs. Compare the cut 
+values obtained from the SDP relaxation and rounding with known or 
+exact solutions if available. For large graphs, use heuristics or bounds 
+for comparison. Measure the time taken to solve the SDP relaxation 
+and perform the rounding. This includes the time for solving the SDP 
+problem and the time for eigen-decomposition. 
+9 
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Criteria for Evaluation(Evaluate and Analyse): 20 marks 
+Assignment evaluation pattern: 
+● Theoretical Understanding (25%) - Evaluate the clarity and accuracy with which theoretical 
+concepts such as spectral graph theory, clustering algorithms, expanders, and approximation 
+methods are explained and applied. 
+● 
+Application of Theory (25%) - Assess how well the theoretical methods are applied to address 
+assignment problems. Check if solutions are relevant, accurate, and demonstrate a good grasp 
+of the theoretical background. 
+● 
+Depth of Analysis (25%) - Analyze the depth of the problem analysis, including how well the 
+assignment tackles complex aspects and nuances of the problem. 
+● 
+Interpretation of Results (25%) - Evaluate the meaningfulness and relevance of the conclusions 
+drawn from the analysis. Check if the results provide significant insights into the problem. 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, 
+each carrying 3 marks 
+ 
+ 
+(8x3 =24 marks) 
+ 
+2 questions will be given from each module, 
+out of which 1 question should be answered. 
+ 
+Each question can have a maximum of 3 
+subdivisions. 
+ 
+ Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand and explain fundamental concepts of Spectral Graph 
+Theory, including Laplacian matrices and their applications. 
+K2 
+CO2 
+Apply spectral clustering techniques to real-world data and evaluate 
+clustering performance using appropriate metrics. 
+K5 
+CO3 
+Construct and analyze expander graphs, and assess their applications in 
+network design and error-correcting codes. 
+K4 
+CO4 
+Develop and implement LP- and SDP-based approximation algorithms 
+for solving NP-Hard problems, and compare their performance. 
+K5 
+CO5 
+Demonstrate the ability to solve complex theoretical problems using 
+advanced algorithms and techniques covered in the course. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Spectral Graph Theory (CBMS 
+Regional Conference Series) 
+ Fan R. K. Chung 
+American 
+Mathematical Society 
+1/e, 1997 
+2 
+Algebraic Graph Theory 
+Norman Biggs 
+Cambridge India 
+2/e, 2016 
+3 
+Approximation Algorithms 
+Vijay V. Vazirani 
+Springer Nature  
+2/e, 2013 
+4 
+Convex Optimization 
+Stephen Boyd, Lieven 
+Vandenberghe 
+Cambridge University 
+Press 
+1/e, 2004 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Algebraic Graph Theory 
+C. Godsil, G.F. Royle 
+Springer Nature 
+1/e, 2009 
+2 
+The design of approximation algorithms 
+David Williamson,  
+David Shmoys 
+Cambridge 
+University Press 
+1/e, 2011 
+3 
+Randomized Algorithms 
+Rajeev Motwani, 
+Prabhakar Raghavan 
+Cambridge 
+University Press 
+1/e, 2004 
+4 
+Probability and Computing: Randomization 
+and Probabilistic Techniques in Algorithms 
+and Data Analysis 
+Michael 
+Mitzenmacher, Eli 
+Upfal 
+Cambridge 
+University Press 
+3/e, 2017 
+5 
+Graph Theory and Complex Networks: An 
+Introduction 
+Maarten Van Steen 
+Maarten Van 
+Steen 
+1/e, 2010 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/128/106/128106001/ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+SEMESTER S7 
+CYBER SECURITY

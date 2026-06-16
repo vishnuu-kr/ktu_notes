@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Data Warehousing :-\nOverview of Data Warehousing - Need, Definition, Characteristics, Benefits,\nOperational vs. Analytical Systems, Applications in Industry; Architecture of\nData Warehousing - Data Sources, Staging Area, Data Marts, ETL (Extract,\nTransform, Load) Processes, Components of a Data Warehouse (Data Models,\nOLAP, Metadata); Data Warehouse Models - Enterprise Data Warehouse,\nVirtual Warehouse, Data Mart [Text 1 : Ch 1 -3]",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Dimensional Modeling & Design :-\nDimensional Modeling Basics - Facts, Dimensions, Star Schema, Snowflake\nSchema; Steps in Dimensional Modeling; Fact Tables, Dimension Tables; Data\nWarehouse Design - Top-Down & Bottom-Up, Fact Table Granularity; Slowly\nChanging Dimensions; Advances in Dimensional Modeling - Aggregates &\nRoll-Up, Time Dimension, Junk Dimensions, Degenerate Dimensions. [Text 2 :\nCh 1-5]",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "ETL Processes & Tools :-\nETL Concepts and Process - Extracting Data from Multiple Sources, Data\nTransformation and Cleansing, Loading Data; ETL Tools and Platforms -\nCommon ETL Tools (Informatica, Talend, Microsoft SSIS), Scheduling and\nAutomation of ETL Processes; Data Quality and Data Governance in ETL -\nHandling Incomplete and Inconsistent Data, Ensuring Data Accuracy,\nConsistency, and Integrity. [Text 1 : Ch 4-7]",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Data Warehouse Optimization & OLAP :-\nQuery Optimization in Data Warehouses - Indexing Strategies, Partitioning,\nPerformance Tuning;  OLAP - Architectures: MOLAP, ROLAP, HOLAP;\nOperations: Drill-Down, Roll-Up, Slicing, Dicing; Data Warehouse Maintenance\n- Data Loading Automation, Backup, and Recovery, Data Warehouse Evolution\nand Scalability. [Text 1 : Ch 8-10, Text 2 : Ch 7-9]",
+    "contact_hours": "9"
+  }
+]

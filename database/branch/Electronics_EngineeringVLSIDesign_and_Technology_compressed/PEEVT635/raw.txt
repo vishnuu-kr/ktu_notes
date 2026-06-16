@@ -1,0 +1,462 @@
+Course Code 
+PEEVT635 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCEVT402 Digital 
+System Design 
+Course Type 
+5 Credit Elective 
+ 
+Course Objectives: 
+1. To understand the complexity of verification and build SoC verification environments. 
+2. To use UVM to develop scalable, reusable, and efficient verification environments for 
+complex designs. 
+3. To gain proficiency in System Verilog for designing and verifying complex digital systems 
+4. To design and implement effective test strategies to detect and diagnose faults in VLSI 
+circuits. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction: Scope of testing and verification in VLSI design process; 
+Issues in testing and verification of complex chips; embedded cores and 
+SOCs, Functional verification, Timing verification.  
+System Level Verification: Test Plan-Block Level Verification-Interface 
+Verification. Application Based Verification-Canonical SoC Design-
+Testbench for the Canonical Design. Fast Prototype vs. 100 Percent Testing - 
+FPGA Prototyping, Emulation Based Testing, Silicon Prototyping. Gate 
+Level Verification-Sign Off Simulation, Gate Level Simulation with Unit-
+Delay Timing , Gate Level Simulation with Full Timing. Formal 
+Verification. Choosing Simulation Tools. 
+9 
+
+ 
+ 
+ 
+2 
+Specialized Hardware for System Verification - Accelerated Verification 
+Overview, RTL Acceleration-Software Driven Verification, Traditional In 
+Circuit Verification, Intellectual Property, Design Guidelines for Accelerated 
+Verification.  
+UVM:  Introduction, Verification Planning and Coverage-Driven 
+Verification, Multi-Language and Methodologies, UVM Overview, UVM 
+Testbench and Environments, Interface UVCs, System and Module UVCs, 
+Software UVCs, The SystemVerilog UVM Class Library, UVM Utilities. 
+UVM Library basics, Interface UVCs, Automating UVC Creation, Simple 
+Testbench Integration, Register and Memory Package, System UVCs and 
+Testbench Integration. 
+9 
+3 
+SystemVerilog: Basic circuits design using SystemVerilog. Procedural 
+Statements and Functions, Implementation of OOPs Concepts in System 
+Verilog, SystemVerilog DPI (Direct Programming Interface), Example, 
+Enum Cast, Code library, SystemVerilog TestBench-SystemVerilog 
+TestBench and Its components, combinational circuit – TestBench Example, 
+Memory Model – TestBench Example. Connecting the testbench and design. 
+4 port ATM Router- Case study. 
+9 
+4 
+Testing: VLSI testing process and test equipment, Automatic Test 
+Equipment, SCOAP Controllability and Observability, High-Level 
+Testability Measures, Combinational circuit test generation-Redundancy 
+Identification (RID)-Combinational ATPG Algorithms-Test Generation 
+Systems-Test Compaction, Sequential circuit test generation-ATPG for 
+Single-Clock Synchronous Circuits-Simulation-Based Sequential Circuit 
+ATPG, Memory Test, Delay Test, IDDQ test, Design for testability-DFT 
+and Scan Design-Partial-Scan Design. Built-In-Self-Test (BIST)- Random 
+Logic BIST, Memory BIST, Boundary Scan Standard, Analog Test Bus 
+Standard.  
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+1. Literature Review and Report (10 Marks) 
+ 
+Assessment Method: 
+● 
+Students select recent publications on a specific topic related to the course (eg. BIST). 
+● 
+Preparation of a report summarizing the findings, discussing the significance, and proposing 
+future research directions. 
+ 
+Criteria: 
+● 
+Relevance of Chosen Publications (2 Marks): Selection of up-to-date and significant research 
+papers. 
+● 
+Depth of Analysis (4 Marks): Thorough understanding and critical analysis of the literature. 
+● 
+Clarity and Organization (2 Marks): Well-structured report with clear arguments. 
+● 
+Originality (2 Marks): Innovative insights or perspectives. 
+ 
+2. UVM for verification and Report (5 Marks) 
+ 
+Assessment Method: 
+ 
+●  
+Use UVM for verification of digital circuits(eg. ALU Verification with UVM, Asynchronous 
+FIFO) using ModelSim Questa/ Synopsys VCS/ Cadence Incisive Enterprise Simulator/ 
+Xilinx Simulator (XSIM) or any other FOSS tools. 
+● 
+Preparation of a detailed report. 
+ 
+ 
+ 
+
+ 
+ 
+Criteria: 
+ 
+● 
+Comprehensiveness (2 Marks): Detailed explanation of the design and the tool used. 
+● 
+Application Understanding (1 Mark): Insight into how the designing relate to the theoretical 
+concepts covered in class. 
+● 
+Report Quality (1 Mark): Clear and concise presentation of information. 
+● 
+Reflective Analysis (1 Mark): Personal reflections and insights gained from the realization. 
+ 
+3. Simulation Tool Familiarization for SystemVerilog and Report (5 Marks) 
+ 
+Assessment Method: 
+ 
+● 
+Students use/study simulation tools (e.g., using ModelSim Questa/ Synopsys VCS/ Cadence 
+Incisive Enterprise Simulator/ Xilinx Simulator (XSIM) or any other FOSS tools) to model 
+digital designs discussed in the course. 
+● 
+They prepare a report on the simulations, including the methodology, results, and 
+interpretations. 
+Criteria: 
+ 
+● 
+Tool Knowledge (2 Marks): Understand the features of the simulation tool. 
+● 
+Familiarisation of Simulations (1 Mark): Representation of design characteristics. 
+● 
+Report Quality (2 Mark): Well-organized and clearly written report. 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out of 
+which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Gain proficiency  in industry standards and methodologies for design and 
+verification for VLSI 
+K2 
+CO2 
+Create, configure and customize reusable, scalable, and robust UVM 
+Verification Components (UVCs) 
+K3 
+CO3 
+Analyse the use of procedural statements and routines in testbench design 
+with system verilog. 
+K4 
+CO4 
+Apply OOP concepts in designing testbench with system verilog 
+K3 
+CO5 
+Effectively test VLSI systems using existing test methodologies, 
+equipments and tools. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+ 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+ 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+ 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+SystemVerilog for Verification 
+Chris Spears 
+Springer 
+ 
+2nd 
+Edition, 
+2008 
+2 
+Digital Systems Testing and         
+ 
+Testable Design 
+M. Abramovici, M. A. 
+Breuer, A. D. Friedman 
+Piscataway, New 
+Jersey: IEEE Press, 
+1994 
+3 
+Reuse Methodology Manual for 
+System-on-a-Chip Designs 
+Micheal Keating & 
+Pierre Bricaud 
+Springer 
+2002 
+4 
+A Practical Guide to Adopting 
+Universal Verification 
+Methodology (UVM)  
+Sharon Rosenberg & 
+Kathleen A Meade 
+Lulu publishers 
+(Lulu.com) 
+2nd 
+Edition, 
+2012 
+5 
+The UVM Primer: A Step-by-
+Step Introduction to the 
+Universal Verification 
+Methodology 
+Ray Salemi 
+Boston Light Press 
+2013 
+6 
+Essentials of Electronic Testing 
+for Digital,                  Memory 
+and Mixed-Signal VLSI 
+Circuits 
+M. Bushnell and V. D. 
+Agarwal 
+Kluwer Academic 
+Publishers 
+2000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+IEEE Standard for 
+SystemVerilog—Unified 
+Hardware Design, Specification, 
+and Verification Language, 
+10.1109/IEEESTD.2018.829959
+5 
+IEEE 
+IEEE 
+2018 
+2 
+Introduction to Formal 
+Hardware Verification 
+T.Kropf 
+Springer 
+2000 
+3 
+System-on-a-Chip Verification-    
+Methodology and Techniques 
+P. Rashinkar, 
+Paterson and L. 
+Singh 
+Kluwer Academic 
+Publishers 
+2001 
+4 
+Principles of Testing Electronic 
+Systems 
+Samiha Mourad 
+and Yervant Zorian 
+Wiley 
+2000 
+5 
+SoC Verification Methodology 
+and Techniques 
+Prakash Rashinkar 
+& Peter Paterson 
+Springer 
+2007 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1, 2, 4 
+Design Verification and Test of Digital VLSI Circuits, 
+https://archive.nptel.ac.in/courses/106/103/106103116/ 
+2, 3 
+Unleashing SystemVerilog and UVM Video Series, Synopsys 
+https://m.youtube.com/playlist?list=PLEgCreVKPx5AP61Pu36QQE0Pkni2Vv-HD 
+
+ 
+ 
+SEMESTER S6 
+DIGITAL SIGNALS AND PROCESSING

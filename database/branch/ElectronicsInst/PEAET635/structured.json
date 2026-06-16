@@ -1,0 +1,61 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Digital Image Fundamentals - Image representation",
+      "basic relationship between pixels",
+      "elements of DIP system",
+      "elements of visual perception-simple image formation model. Digital Camera working principles Brightness",
+      "Contrast",
+      "Saturation. Colour image fundamentals - RGB",
+      "HIS models",
+      "2D sampling",
+      "Quantization. Review of matrix theory - Row and column ordering - Toeplitz",
+      "Circulant and block matrix"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "2D Image transforms - DFT and its properties",
+      "KL transform and Singular Value Decomposition. Image Enhancement - Spatial domain methods - point processing- intensity transformations",
+      "histogram processing",
+      "image subtraction",
+      "image averaging. Spatial filtering- smoothing filters",
+      "sharpening filters. Frequency domain methods - low pass filtering and high pass filtering"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Image Restoration",
+      "Degradation model, Unconstrained restoration-Lagrange multiplier and constraint restoration Inverse filtering",
+      "removal of blur caused by uniform linear motion. Feature Extraction",
+      "Introduction to feature extraction techniques-Harris corner detection, SIFT"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Feature descriptors - Histogram of Oriented Gradients (HOG",
+      "Scale Invariant Features Image Classification - Support Vector Machine",
+      "Decision Trees",
+      "Object Detection using HOG",
+      "Object Detection using Viola-Jones Algorithm. Image Segmentation - Thresholding",
+      "Region-based segmentation",
+      "Clustering techniques (k-means). Morphological Operations - Dilation and Erosion",
+      "Opening and Closing",
+      "Hit-or-Miss transformation",
+      "Boundary Extraction",
+      "Region filling"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

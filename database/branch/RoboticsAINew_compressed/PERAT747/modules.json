@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Reinforcement Learning (RL):\nIntroduction, Example applications of RL, Elements of Reinforcement\nLearning\nFinite Markov Decision Processes:\nThe Agent–Environment Interface, Examples - Pick-and-Place Robot,\nRecycling Robot; Goals and Rewards, Returns and Episodes, Example –\nPole Balancing, Unified Notation for Episodic and Continuing Tasks,\nPolicies and Value Functions, Example – Grid world, Optimal Policies and\nOptimal Value Functions, Bellman optimality equation, Example - Bellman\nOptimality Equations for the Recycling Robot",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Dynamic Programming:\nIntroduction, Policy Evaluation (Prediction), Iterative Policy Evaluation,\nExample – 4x4 grid world, Policy Improvement, Policy Iteration, Value\nIteration\nMonte Carlo Methods:\nMonte Carlo Prediction, Monte Carlo Estimation of Action Values, Monte\nCarlo Control, Monte Carlo Control without Exploring Starts, Off-policy\nPrediction via Importance Sampling, Incremental Implementation, Off-\npolicy Monte Carlo Control",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Temporal-Difference Learning:\nTD Prediction, Advantages of TD Prediction Methods, Optimality of\nTD(0), Sarsa: On-policy TD Control,   Q-learning: Off-policy TD Control,\nExpected Sarsa\nn-step Bootstrapping:\nn-step TD Prediction,  n-step Sarsa, n-step Off-policy Learning, Off-policy\nLearning Without ImportanceSampling: The n-step Tree Backup Algorithm",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "On-policy Prediction with Approximation:\nValue-function Approximation, The Prediction Objective, Stochastic-\ngradient and Semi-gradient Methods, Linear Methods\nEligibility Traces:\nThe λ-return, TD( λ ), n-step Truncated  λ -return Methods,  Sarsa( λ )\nPolicy Gradient Methods:\nPolicy Approximation and its Advantages, The Policy Gradient Theorem,\nREINFORCE: Monte Carlo Policy Gradient, REINFORCE with Baseline,\nActor–Critic Methods",
+    "contact_hours": "9"
+  }
+]

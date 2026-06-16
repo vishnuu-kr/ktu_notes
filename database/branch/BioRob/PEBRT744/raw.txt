@@ -1,0 +1,283 @@
+Course Code 
+PEBRT744 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCBRT 205 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. This course gives an Introduction to practical computational methods for data analysis, 
+modelling and simulation of biomedical systems and instrumentation. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Scientific Computing in Biomedical engineering: 
+Numerical Algorithms and Errors Approximations - Accuracy and precision, 
+definitions of round off and truncation errors-Taylor series, error 
+propagation. Algebraic equations - Formulation and solution of linear 
+algebraic equations, Gauss elimination method Gauss elimination, Gauss-
+Jordan reduction Iterative Approach for Solution of Linear Systems Jacobi 
+and Gauss-Seidel methods.  
+9 
+2 
+Non-Linear Models of Biological Systems: General Form of Nonlinear 
+Equations Examples of Nonlinear Equations in Biomedical Engineering The 
+Method of Successive Substitution. The Method of False Position (Linear 
+Interpolation) The Newton-Raphson Method Newton's Method for 
+Simultaneous Nonlinear Equations. Applications: Friction factor in a 
+catheter, Ventricular pressure measurements 
+9 
+3 
+Finite Difference Methods: Interpolation, Differentiation, and Integration 
+Backward, Forward, and Central Differences- Interpolating of Equally 
+Spaced Points Gregory-Newton, Stirling's interpolation Interpolating 
+Polynomials-Interpolation of Equally Spaced Points- Gregory-Newton 
+9 
+
+ 
+ 
+interpolation, Interpolation of Unequally Spaced Points Lagrange and spline, 
+Integration Formulas-Newton-Cotes Formulas of Integration 
+Dynamic Systems: Examples of Ordinary differential equations in 
+Biomedical Engineering, Solution of Nonlinear Ordinary Differential 
+Equations- Euler, Runge-Kutta methods, Solution of Linear Ordinary 
+Differential Equations-Eigenvalue methods. Applications 
+4 
+Glycolysis pathways of living cells, Dynamics of membrane and nerve cell 
+potentials. Solution of Partial Differential Equations: elliptic, parabolic, 
+hyperbolic equations. Applications: Dynamics of the basilar membrane, 
+Drug diffusion 
+Computational Modelling of Biosystems: Numerical Modelling of 
+bioengineering Systems using numerical tools PhysioNet, PhysioBank, and 
+Physio Toolkit, Python packages to simulate neuronal activity. Applications: 
+ECG simulation; EEG simulation; Model of glucose regulation, Diabetes and 
+insulin regulation; Renal clearance 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Analyze the principles related to physiological problems 
+K4 
+CO2 
+Solve linear, nonlinear differential equations and partial differential 
+equations using numerical methods. 
+K5 
+CO3 
+Analyze Biomedical Engineering databases using numerical packages 
+K4 
+CO4 
+Apply numerical methods using modern scientific computing tools in 
+Biomedical Engineering 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+1 
+1 
+1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+2 
+1 
+1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+2 
+2 
+1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+2 
+2 
+1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Numerical methods in biomedical 
+engineering.  
+Dunn, Stanley, Alkis 
+Constantinides, and 
+Prabhas V. Moghe 
+Elsevier 
+2005 
+2 
+Numerical Methods for Engineers 
+Steven C. Chapra and 
+Raymond P Canale 
+5 th edition, 
+TataMcgraw Hill, 
+New Delhi 
+2007 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computational methods in 
+biomedical research.  
+Khattree, Ravindra, and 
+Dayanand Naik 
+CRC Press 
+2007 
+2 
+Numerical and statistical 
+methods for bioengineering: 
+applications in MATLAB.  
+King, Michael R., and 
+Nipa A. Mody 
+Cambridge University 
+Press 
+2010 
+3 
+Computational Methods in 
+Engineering 
+S. P. Venkatesan, 
+Ane Books India, New 
+Delhi 
+2014 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+2 
+https://youtu.be/vxOMd-1NZH8?si=hWMEiiNjFSlf0lYK 
+3 
+https://youtu.be/zSVo_klJ6HM?si=HyC92D0w5JgZWNbk 
+4 
+https://youtu.be/ABLwh3auDrk?si=ZMbmKZdDpPlm-6ki 
+
+ 
+ 
+SEMESTER S7 
+ASSISTIVE MEDICAL DEVICES

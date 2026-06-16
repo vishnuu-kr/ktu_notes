@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Data Mining: Introduction, What is Data Mining,\nDefinition, KDD, Challenges, Data Mining life cycle, Data Pre-processing\nconcepts Association Rule Mining: - Efficient and Scalable Frequent Item\nset Mining Methods – Mining Various Kinds of Association Rules –\nAssociation Mining to Correlation Analysis – Constraint-Based Association\nMining.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Cluster Analysis: - Types of Data in Cluster Analysis – A Categorization of\nMajor Clustering Methods – Partitioning Methods – Hierarchical methods –\nDensity-Based Methods – Grid-Based Methods – Model-Based Clustering\nMethods – Clustering High-Dimensional Data – Constraint-Based Cluster\nAnalysis – Outlier Analysis.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Classification and Prediction: - Issues Regarding Classification and\nPrediction – Classification by Decision Tree Introduction – Bayesian\nClassification – Rule Based Classification – Classification by Back\npropagation – Support Vector Machines – Associative Classification – Lazy\nLearners – Other Classification Methods – Prediction – Accuracy and Error\nMeasures – Evaluating the Accuracy of a Classifier or Predictor – Ensemble\nMethods – Model Section.",
+    "contact_hours": "15"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction To Data Warehousing.- Evolution of Decision Support\nSystems- Data warehousing Components –Building a Data warehouse, Data\nWarehouse and DBMS, Data marts, Metadata, Multidimensional data model,\nOLAP\nvs\nOLTP,\nOLAP\noperations,\nData\ncubes,\nSchemas\nfor\nMultidimensional Database: Stars, Snowflakes and Fact constellations.\nSuggestion on Project Topics\nStudents can implement various data related projects, from any domain, using the techniques\nstudied in the syllabus. It may contain sections for data storage, data pre-processing and small\nlevels of data mining to recognize patterns in the data. Socially relevant project domains are highly\nappreciated. Check the datasets available at  https://www.kaggle.com/datasets/ and perform data\npre-processing operations such as data cleaning, missing value management and mine useful\ninformation from the dataset.\nA suggestive list of projects are added here. Similar projects could be added by concerned\nfaculty:\n1.  Perform association technique on customer data set/ agriculture data set\n2. Create the data warehouse for any medical shop having 2 or more branches\n3. Predict traffic conditions for allocating more buses on various routes by bus controller\n3. Predict Job opportunities Computer/IT field looking into the work generated last year.",
+    "contact_hours": "10"
+  }
+]

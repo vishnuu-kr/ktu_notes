@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction",
+            "Deep Feed Forward Network",
+            "Activation Functions (Sigmoid, Tanh, ReLU, Leaky ReLU, Hard Tanh, Softmax)",
+            "Loss Function",
+            "Training a Neural Network with Backpropagation",
+            "Practical Issues in Neural Network Training (Overfitting, Underfitting)",
+            "Hyperparameters and Validation Sets",
+            "Estimators - Bias and Variance"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction, Setup and Initialization",
+            "Weight Initialization (Kaiming, Xavier)",
+            "Vanishing and Exploding Gradient Problems",
+            "Optimization Techniques (Gradient Descent, Stochastic GD, GD with Momentum, GD with Nesterov Momentum)",
+            "Parameter-Specific Learning Rates (AdaGrad, RMSProp, Adam)",
+            "Regularization Techniques (L1 and L2 Regularization, Early Stopping, Dataset Augmentation, Parameter Tying and Sharing, Ensemble Methods, Dropout, Batch Normalization)"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Basic Structure of a CNN",
+            "Basic Layers and Operations in CNN (Convolution Operation, Effect of Stride and Padding, Fully Connected Layers)",
+            "Building and Training a CNN Model",
+            "Estimation of Tensor Size and Number of Features in CNN Layers",
+            "Transfer Learning (Size Similarity Matrix)",
+            "Pre-trained Architectures (AlexNet, ResNet-50, GoogleNet)"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Recurrent Neural Network Architecture",
+            "Variants of RNN Architectures (Deep RNN, Recursive Neural Network, Bidirectional RNN, Encoder-Decoder Architecture, LSTM, GRU)",
+            "Autoencoders and Generative Models",
+            "Types of Autoencoders (Variational Autoencoder, Undercomplete Autoencoder, Stochastic Encoder, Denoising Encoder)",
+            "Applications of Autoencoders",
+            "Generative Models (Boltzmann Machines, Deep Belief Networks, Generative Adversarial Networks)"
+        ]
+    }
+]

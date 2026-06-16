@@ -1,0 +1,74 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Javascript: How javascript makes web pages more interactive, Examples of\njavascript in the browser, How html, css & javascript fit together,  creating a basic\njavascript, placing the script in the page, where to place your scripts, basic\nJavascript instructions: statements, comments, variables, data types, arrays,\nexpressions, operators; functions methods and objects: function, anonymous\nfunction, variable scope, object, this keyword, arrays of objects and objects in\narrays built-in objects, browser object model, document object model, Global\nobjects: string, number, math, date\nDOM: Document Object Model (DOM), working with DOM tree, accessing\nelements, nodelists, selecting elements: using class attribute, tag name, css\nselectors; repeating actions for an entire nodelist, looping through a nodelist,\ntraversing the DOM, previous & next sibling, first & last child, textcontent, adding\nor removing html content, update text and markup, adding/removing elements,\ncreating attributes and changing their values, removing attributes\nEvent handling: different event types, three ways to bind an event to an element,\nusing DOM event handlers, using event listeners, using parameters with event\nlisteners, the event object, event bubbling, user interface events",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "ECMA Script: ECMA Script versions, ES5 Features, ES6 introduction,\nvar declarations and hoisting, let declaration, constant declaration, function\nwith default parameter values, default parameter expressions, unnamed\nparameters, the spread operator, arrow functions, object destructuring, array\ndestructuring, sets and maps, Array.find, Array.findIndex, template strings,\njavascript classes, callbacks, promises, async/await\nAJAX: What is Ajax?, why use ajax?, How ajax works?, Handling ajax request\nand response, data formats: XML, JSON; Working with JSON data, Loading\nHTML with Ajax, Loading JSON with ajax, working with data from other servers\nJQUERY: A basic jquery example, Why use Jquery?, finding elements, jquery\nselection, getting element content, updating elements, changing content, inserting\nelements, adding new content, getting and setting attributes, getting and setting css\nproperties, using .each(), events, event object, effects, animating css properties,\nusing animation, traversing the dom, working with forms, jquery and ajax",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Node.js: What is Node.js?, installing Node.js, creating first server, request and\nresponse, responding with HTML, installing custom packages with NPM,\nintroduction to express, handling request with express, serving other html files,\nserving static files with express, automatic server restart with nodemon, public\nfolder for serving static files, creating page routes, templating engines\nMongoDB: Architecture of MongoDB, installing MongoDB, mongoose, defining\na model, CRUD operations with Mongoose models, reading data from MongoDB\nusing Mongoose, updating record, deleting a single record, saving to the database,\ndynamic data with templating engines, adding fields to the schema, uploading\nimage with express, saving uploaded images to database",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Refactoring to MVC: Express middleware, custom middleware, registering\nvalidation middleware, refactoring to MVC, refactoring validation layer, mongoose\nvalidation, password encryption, user login process, user authentication with\nexpress sessions, authentication middleware, user logout, handling non-existent\nroutes, displaying validation errors in templates, duplicate entry error, flushing\nerror messages from session, customising error message, persist request data on\nform, adding a WYSIWYG editor\nDeployment: setting up MongoDB atlas, deploying web apps on Heroku,\ndeployment\n7\nSuggestions on Project Topics:\nNo.\nProject Topics\n1\nCountdown clock (javascript)\n2\nTo do list (javascript)\n3\nRock paper scissors game (javascript)\nShopping cart page (javascript)",
+    "contact_hours": "4"
+  },
+  {
+    "type": "module",
+    "title": "Module 5",
+    "content": "Calculator app (javascript)",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 6",
+    "content": "Memory game (javascript)",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 7",
+    "content": "Movie app (Node.js, Express, MongoDB)",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 8",
+    "content": "Chat app (Node.js, Express, MongoDB)",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 9",
+    "content": "Hotel booking app (Node.js, Express, MongoDB)",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 10",
+    "content": "Library app (Node.js, Express, MongoDB)",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 11",
+    "content": "Job search app (Node.js, Express, MongoDB)",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 12",
+    "content": "E-commerce website (Node.js, Express, MongoDB)",
+    "contact_hours": "unknown"
+  }
+]

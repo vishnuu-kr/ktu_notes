@@ -1,0 +1,54 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic components of a Control System",
+            "Open-Loop Control Systems and Closed-Loop Control Systems",
+            "Examples of control system",
+            "Transfer functions",
+            "Block diagram reduction",
+            "Signal flow graph and Mason’s gain formula. Differential equations for mass",
+            "spring and dashpot elements",
+            "Mathematical modelling of control systems - Electrical Systems",
+            "Translational and Rotational Mechanical systems",
+            "Analogous systems-force voltage & force-current analogy - toque-voltage & torque-current analogy"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Continuous systems -standard test signals - step",
+            "ramp",
+            "parabolic",
+            "impulse - transient and steady state response - first order systems - second order systems",
+            "step responses of first order systems and second order systems - under damped and over damped systems - time domain specifications - steady state error - static position",
+            "velocity & acceleration error constants"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Concept of stability",
+            "stability & location of the poles in S-plane",
+            "Routh-Hurwitz stability criterion-Root Locus Method, Construction of root locus-Effect of poles and zeros and their location on the root locus. Frequency Response representation- Polar Plot- Relative stability: gain margin and phase margin, Stability analysis with Bode plot"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Need for Cascade compensation",
+            "Cascade Compensation- PI",
+            "PD and PID controllers - tuning of PID Controller- Lead",
+            "Lag and Lead- Lag compensation- Role of control system in mechatronics-case studies Automatic temperature control",
+            "automatic traffic light control-Automatic street light control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

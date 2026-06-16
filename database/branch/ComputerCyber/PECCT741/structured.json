@@ -1,0 +1,78 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to malware",
+      "malware threats",
+      "evolution of malware",
+      "malware types. Types of malware Analysis - Static Analysis",
+      "Dynamic Analysis",
+      "Malware Analysis Techniques - Obfuscated",
+      "Deobfuscated",
+      "Malware Analysis Tools - Static Analysis Tools",
+      "Dynamic Analysis Tools. Static Analysis"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Live malware analysis",
+      "dead malware analysis",
+      "analyzing traces of malware",
+      "system-calls",
+      "api-calls",
+      "registries",
+      "network activities. Anti-dynamic analysis techniques anti-vm",
+      "runtime-evasion techniques",
+      "Malware Sandbox",
+      "Monitoring with Process Monitor",
+      "Packet Sniffing with Wireshark",
+      "Kernel vs. User-Mode",
+      "Debugging-OllyDbg",
+      "Breakpoints",
+      "Tracing",
+      "Exception Handling",
+      "Patching. Malware Detection Techniques: Signature-based techniques: malware signatures",
+      "packed malware signature",
+      "metamorphic and polymorphic signature. Non-signature based techniques: similarity-based techniques",
+      "machine-learning methods"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Volatile Data Collection and Examination on a Live Windows Systems - Volatile Data collection methodology from Windows systems- Preservation of Volatile data",
+      "Collecting Subject System details",
+      "Identifying users Logged into the System",
+      "Inspect Network Connections and Activity",
+      "Current and Recent Network Connections",
+      "Collecting Process Information",
+      "Correlate Open Ports with Running Processes and Programs",
+      "Identifying Services and Drivers",
+      "Determining Scheduled Tasks",
+      "Collecting Clipboard Contents",
+      "Non-Volatile Data Collection from a Live Windows System",
+      "Volatile Data collection methodology from Linux systems",
+      "Non volatile Data collection from a live Linux system"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Post-Mortem Forensics - Malware Discovery and Extraction from a Windows and Linux system",
+      "Examine Windows and Linux file system",
+      "Examine application traces",
+      "Examine Windows registry",
+      "keyword searching from Windows and Linux systems",
+      "Forensic reconstruction of compromised Linux and Windows system"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

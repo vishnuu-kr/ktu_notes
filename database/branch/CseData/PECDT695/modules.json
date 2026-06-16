@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Deep Learning -The Basic Architecture of Neural\nNetworks - Single Computational Layer: The Perceptron, Multilayer Neural\nNetworks. Activation functions – Sign, Sigmoid, Tanh, ReLU, leaky ReLU,\nHard Tanh, Softmax. Loss function. Training a Neural Network with\nBackpropagation. Practical issues in neural network training. Overfitting,\nUnderfitting, Hyper parameters and Validation sets, Estimators -Bias and\nVariance. Introduction to deep learning, Deep feed forward network.\nIntroduction to pytorch /tensorflow. Implementing image classification\nalgorithms on CIFAR10 dataset using pytorch",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Optimization Techniques -Introduction, setup and initialization- Kaiming,\nXavier weight initializations, Vanishing and exploding gradient problems,\nOptimization techniques - Gradient Descent (GD), Stochastic GD, GD with\nmomentum, GD with Nesterov momentum, AdaGrad, RMSProp, Adam.,\nRegularization Techniques - L1 and L2 regularization, Early stopping,\nDataset augmentation, Parameter tying and sharing, Ensemble methods,\nDropout, Batch normalization.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Convolutional Neural Networks –Architecture, Convolution operation,\nMotivation, pooling.Variants of convolution functions, Structured outputs,\nData types, Efficient convolution algorithms, Applications of Convolutional\nNetworks, Pre-trained convolutional Architectures : AlexNet, VGGnet-19,\nResNet 50,YOLO\nImplementing object classification and detection using CNN networks in\npython using any of deep libraries like Tensorflow, Keras, Caffe.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Recurrent neural networks And Generative models – Computational\ngraphs. RNN design. Encoder – decoder sequence to sequence architectures.\nLanguage modeling example of Deep recurrent networks. Recursive neural\nnetworks. Challenges of training Recurrent Networks. Gated RNNs LSTM\nand GRU.\nAttention Mechanisms and Transformers: Transformer Architecture Self-\nAttention and Positional Encoding\nAutoencoders Variational Auto-Encoder-under complete Auto-encoder,\nstochastic encoder, denoising encoder, Applications of Autoencoders.\nGenerative models : Generative Adversarial Networks.\nCase study: BERT, Social Media Sentiment Analysis.",
+    "contact_hours": "9"
+  }
+]

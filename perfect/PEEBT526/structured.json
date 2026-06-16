@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic fabrication steps- Wafer preparation",
+            "Oxidation",
+            "Diffusion",
+            "Etching process",
+            "Ion implantation techniques",
+            "Isolation techniques. Comparison and performance evaluation of bipolar and MOS technology. Fabrication process of MOS devices: NMOS and PMOS IC technology",
+            "CMOS n-well and p-well process"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Structure of MOSFET",
+            "Operation of MOSFET",
+            "current - voltage characteristics",
+            "channel length modulation",
+            "short channel effects",
+            "narrow channel effects",
+            "scaling factors for device parameters. Analogy of MOSFET capacitance. MOS inverters: Basic circuit of NMOS inverter-voltage transfer characteristics",
+            "inverters with n- type MOSFET load. CMOS inverter - voltage transfer characteristics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Circuit operation of NMOS NOR & NAND gates",
+            "CMOS NOR & NAND gates",
+            "compound circuits using CMOS logic. Basic circuit concepts: sheet resistance",
+            "area capacitance",
+            "delay unit",
+            "inverter delays - driving large capacitive loads",
+            "super buffers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Stick Diagram",
+            "Layout design rules for MOS circuits - Lamda based rules",
+            "Layout examples of Inverter",
+            "NAND and NOR. Review of power dissipation in CMOS Circuits: Sources of power dissipation- static",
+            "dynamic and leakage power dissipation. Dynamic power reduction techniques - Supply voltage scaling approaches-parallelism",
+            "pipelining (Basic Concepts"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

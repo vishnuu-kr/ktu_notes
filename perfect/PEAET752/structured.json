@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Sources of power dissipation in CMOS circuits Dynamic Power Dissipation - Charging and Discharging capacitance power dissipation. Short Circuit Power dissipation - Short Circuit Current of Inverter",
+            "Short circuit current dependency with input and output load",
+            "Glitching Power. Static Power Dissipation - Leakage Power Dissipation. Gate level power analysis - Capacitive",
+            "internal",
+            "and Static power dissipation of gate level circuit"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Power Reduction Techniques Supply voltage Scaling Approaches - Multi VDD and Dynamic VDD Leakage power reduction Techniques - Transistor stacking",
+            "VTCMOS",
+            "MTCMOS",
+            "DTCMOS",
+            "Dynamic power dissipation - Power gating",
+            "Clock gating",
+            "Transistor and Gate Sizing for Dynamic and Leakage Power Reduction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Circuit design styles Clocked design style - Basic concept",
+            "Domino logic (domino NAND gate",
+            "Differential Current Switch Logic. Non-clocked circuit design style - fully complementary logic",
+            "NMOS and pseudo - NMOS logic",
+            "differential cascade voltage switch logic (DCVS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Adiabatic switching Adiabatic charging",
+            "adiabatic amplification",
+            "One stage and two stage adiabatic buffer",
+            "Adiabatic logic gates",
+            "pulsed power supplies",
+            "Reversible logic basic concepts"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definition of Reliability",
+            "Reliability vs. Quality",
+            "Reliability Function",
+            "MTTF",
+            "Hazard Rate Function",
+            "Bathtub Curve",
+            "Derivation of the Reliability Function",
+            "Failure and Failure Modes",
+            "Causes of Failures and Unreliability",
+            "Reliability Models: Constant Failure Rate Model",
+            "Time Dependent Failure Models",
+            "Weibull Distribution",
+            "Normal Distribution",
+            "Lognormal Distribution",
+            "Serial Configuration",
+            "Parallel Configuration",
+            "Combined Series Parallel Systems",
+            "K-out-of-M Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Component vs. Unit Redundancy",
+            "Weakest-Link Technique",
+            "Mixed Redundancy",
+            "Standby Redundancy",
+            "Redundancy Optimization",
+            "Double Failures and Redundancy",
+            "Markov Analysis",
+            "Load Sharing Systems",
+            "Standby Systems",
+            "Degraded Systems",
+            "Three State Devices",
+            "Covariate Models"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Reliability in Design Process",
+            "System Effectiveness",
+            "Economic Analysis and Life Cycle Cost",
+            "Reliability Allocation - Optimal Allocations",
+            "ARINC and AGREE Methods",
+            "System Safety and Fault Tree Analysis - Tieset and Cut-Set Methods",
+            "Use of Boolean Algebra in Reliability Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Definitions and Basic Concepts",
+            "Relationship Between Reliability",
+            "Availability and Maintainability",
+            "Inherent Availability",
+            "Achieved Availability",
+            "Operational Availability",
+            "Economics of Reliability: Economic Issues",
+            "Manufacturer's Cost",
+            "Customer's Cost",
+            "Reliability Achievement Cost Models",
+            "Reliability Utility Cost Models",
+            "Depreciation Cost Models",
+            "Availability Cost Model for Parallel Systems",
+            "Reliability Management and Reliability Management by Objectives"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

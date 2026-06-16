@@ -1,0 +1,290 @@
+Course Code 
+PCCGT501 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To explore various algorithms to offer confidentiality, integrity, authentication &non-
+repudiation services and different attacks on system security with their countermeasures. 
+2. To use cryptographic algorithms and appropriate countermeasures for securing real life 
+applications. 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+OSI security architecture – Security attacks, Services, Mechanisms. 
+Cryptography vs Cryptanalysis. Classical encryption techniques – Symmetric 
+cipher model. Substitution ciphers – Monoalphabetic vs Polyalphabetic 
+ciphers, Caesar cipher, Affine cipher, Playfair cipher, Vigenere cipher, Hill 
+cipher. Transposition ciphers – Keyless, Keyed, Double transposition. 
+6 
+2 
+Symmetric key ciphers – Block vs Stream ciphers, Product ciphers, Feistel 
+and Non-Feistel ciphers. Data Encryption Standard (DES) – Structure, Key 
+generation, Design criteria, 6 Weaknesses, Double DES, Triple DES. 
+Advanced Encryption Standard (AES) – Structure, Key expansion. Blow 
+Fish, Block cipher modes of operation – Electronic Codebook Mode (ECB), 
+Cipher Block Chaining Mode (CBC), Cipher Feedback Mode (CFB), Output 
+Feedback Mode (OFB), Counter Mode (CTR). Stream ciphers – Structure, 
+RC4. 
+9 
+3 
+Introduction to public key cryptosystems – Principles, Applications, 
+Requirements, 
+Conventional 
+vs 
+Public 
+key 
+cryptosystems. 
+RSA 
+cryptosystem – Algorithm, Security, Attacks. ElGamal cryptosystem – 
+7 
+
+ 
+ 
+Algorithm. Diffie-Hellman key exchange – Algorithm, Man-in-the middle 
+attack. Elliptic Curve Cryptography (ECC) – ElGamal ECC, Key exchange 
+using ECC. 
+4 
+Hash functions – Security requirements, Secure Hash Algorithm (SHA-512). 
+Message Authentication Code (MAC) – Requirements, Uses, Hash-based 
+MAC (HMAC), Cipherbased MAC (CMAC). Digital signatures – Attacks, 
+Forgeries, Requirements, Direct vs Arbitrated digital signatures, RSA digital 
+signature, ElGamal digital signature, Digital Signature Standard (DSS). 
+7 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Identify the security services and mechanisms provided against 
+different types of security attacks. 
+K2 
+CO2 
+Explain message integrity and authentication methods in a secure 
+communication.  
+K2 
+CO3 
+Explain Elliptic Curve Cryptography and key exchange using Elgamal 
+ECC. 
+K2 
+CO4 
+Illustrate classical encryption techniques for information hiding. 
+K3 
+CO5 
+Illustrate symmetric/asymmetric key cryptosystems for secure 
+communication. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Cryptography 
+and 
+Network 
+Security 
+Behrouz A Forouzan 
+Tata McGraw-Hill. 
+3/e,2015 
+2 
+Cryptography 
+and 
+Network 
+Security Principles and Practice 
+William Stallings 
+Pearson Ed 
+8/e,2023 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Security in Computing 
+Charles P Pfleeger, Shari 
+Lawrence Pfleeger, 
+Jonathan Margulies
+Prentice Hall 
+5/e,2018 
+2
+Elementary Number Theory
+G.A. Jones & J.M. Jones
+Springer UTM 
+2007
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.swayam2.ac.in/cec24_cs16/preview 
+ 
+
+ 
+ 
+SEMESTER S5 
+DESIGN AND ANALYSIS OF ALGORITHMS 
+(Common to CS/CD/CM/AM/CB/CN/CU/CG)

@@ -1,0 +1,309 @@
+Course Code 
+PECPT522 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To summarize about various computer transmission modes, network models and network 
+switching. 
+2. To apply knowledge of OSI layers to real-world networking scenarios. 
+3. To compare and Contrast the OSI model with other network models (eg: TCP/IP). 
+4. To understand the concepts, protocols, and security measures of computer networks. 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Introduction to computer communication: Transmission modes - serial 
+and parallel transmission, asynchronous, synchronous, simplex, half duplex, 
+full duplex communication. 
+Switching: circuit switching and packet switching Networks: Network 
+criteria, physical structures, network models, categories of networks, 
+Interconnection of Networks: Internetwork 
+Network models: Layered tasks, OSI model, Layers in OSI model, 
+TCP/IP protocol suite. 
+9 
+2 
+Physical Layer: Guided and unguided transmission media 
+(Coaxial cable, UTP,STP, Fiber optic cable) 
+Data Link Layer: Framing, Flow control (stop and wait , sliding 
+window flow control) 
+Error control, Error detection( check sum, CRC), Bit stuffing,HDLC 
+Media access control: Ethernet (802.3), CSMA/CD, Logical link 
+control, Wireless LAN (802.11), CSMA/CA. 
+9 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+3 
+Network Layer Logical addressing : IPv4 & IPV6 Address Resolution 
+protocols (ARP, RARP) Subnetting, Classless Routing(CIDR), ICMP, 
+IGMP, DHCPVirtual LAN, Networking devices ( Hubs, Bridges & 
+Switches) 
+Transport Layer –UDP, TCP Congestion Control & Quality  of Service –
+Data traffic,Congestion, Congestion Control, QoS and Flow Characteristics. 
+9 
+4 
+Application Layer – DNS, Remote Logging (Telnet), SMTP, FTP, WWW, 
+HTTP, POP3, MIME, SNMP 
+Security at Application Layer (E-MAIL, PGP and S/MIME),Security at 
+Transport Layer (SSL and TLS),Security at Network Layer (IPSec). 
+Routing: Routing and Forwarding, Static routing  and Dynamic routing 
+Routing Algorithms: Distance vector routing algorithm, Link state routing 
+(Dijkstra’s algorithm),Routing Protocols: Routing Information protocol 
+(RIP), Open Shortest Path First (OSPF), Border 
+Gateway Protocol (BGP),MPLS. 
+9 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge Level 
+(KL)
+CO1 
+Understand the Different types of network topologies and protocols. 
+K2 
+CO2 
+Summarize different layers of the OSI model and TCP/IP with their 
+functions. 
+K2 
+CO3 
+Identify the basic protocols of computer networks, and how they can 
+be used to assist in network design and implementation 
+K3 
+CO4 
+Understand OSI reference model and it's significance in computer 
+communication. 
+K2 
+CO5 
+Explain the concept of subnetting and Routing mechanisms. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ CO-PO Mapping Table: 
+1: Slight (Low), 2: Moderate (Medium),3: Substantial (High), : No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Communication A 
+Top -Down Approach  
+James F.Kurose and 
+Keith W.Ross 
+Addison-Wesly 
+7/e, 2017 
+2 
+Computer Networks: A 
+Systems Approach 
+Larry L.Peterson and 
+BruceS.Davie 
+McGraw-Hill 
+5/e, 2016 
+3 
+Data Communications and 
+Networking  
+Behrouz A. Forouzan 
+McGraw-Hill 
+5/e, 2016 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+2 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+3 
+3 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+3 
+3 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher
+Edition and 
+Year
+1 
+Computer Communication 
+Systems 
+R.J Evans 
+Wiley 
+1/e, 2017 
+2 
+Computer Communication: 
+Principles and Protocols  
+R.S Salaria 
+I.K International 
+Publishing House 
+2/e, 2018 
+3 
+Computer Communication and 
+Networks 
+A.K Singh 
+SK kataria & sons 
+1/e, 2018 
+4 
+Computer Networks and 
+Protocols: A Practical 
+Approach 
+N.C. Pabrai 
+McGraw-Hill 
+1/e, 2017 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/106/105/106105183/ 
+2 
+https://nptel.ac.in/courses/106105183 
+3 
+https://onlinecourses.nptel.ac.in/noc22_ee61/preview 
+4 
+https://onlinecourses.nptel.ac.in/noc22_cs19/preview 
+ 
+
+ 
+ 
+SEMESTER S5 
+CRYPTOGRAPHY FOR CPS

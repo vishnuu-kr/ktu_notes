@@ -1,0 +1,78 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction and Classic Encryption Techniques: OSI Security Architecture",
+            "Security Attacks - Passive Attacks",
+            "Active Attacks",
+            "Security Services - Authentication",
+            "Access Control",
+            "Data Confidentiality",
+            "Data Integrity",
+            "Non-repudiation",
+            "Availability Service",
+            "Model for Network Security",
+            "Symmetric Cipher Model",
+            "Cryptography",
+            "Substitution Techniques - Hill Cipher",
+            "Transposition Techniques",
+            "Finite Fields - Groups",
+            "Rings and Fields",
+            "Modular Arithmetic",
+            "Euclidean Algorithm",
+            "Finite Fields of the Form GF(p)",
+            "Polynomial Arithmetic"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Block Ciphers: Data Encryption Standard",
+            "Block Cipher Principles - Stream Ciphers and Block Ciphers",
+            "Feistel Cipher",
+            "Feistel Decryption Algorithm",
+            "The Data Encryption Standard",
+            "DES Decryption",
+            "The AES Cipher",
+            "Substitute Bytes Transformation",
+            "Shift Row Transformation",
+            "Mix Column Transformation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Public Key Cryptography: RSA and Key Management",
+            "Principles of Public Key Cryptosystems - Public Key Cryptosystems",
+            "Application for Public Key Cryptosystem Requirements",
+            "Fermat's Theorem",
+            "Euler's Totient Function",
+            "Euler's Theorem",
+            "RSA Algorithm",
+            "Key Management",
+            "Distribution of Public Keys",
+            "Publicly Available Directory",
+            "Public Key Authority",
+            "Public Key Certificates",
+            "Distribution of Secret Keys Using Public Key Cryptography"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Message Authentication and Hash Function: Authentication Requirements",
+            "Authentication Functions - Message Encryption",
+            "Public Key Encryption",
+            "Message Authentication Code",
+            "Hash Function"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

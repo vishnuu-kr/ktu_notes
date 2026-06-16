@@ -1,0 +1,94 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Concept & Overview of Database Management Systems (DBMS) -Characteristics of Database system",
+      "Structured",
+      "semi-structured and unstructured data. Data Models and Schema - Three Schema architecture. Database Languages. ER model - Basic concepts",
+      "entity set & attributes",
+      "notations",
+      "Relationships and constraints",
+      "cardinality",
+      "participation",
+      "notations",
+      "weak entities",
+      "relationships of degree 3. Physical Data Organization - Review of terms: physical and logical records",
+      "blocking factor",
+      "pinned and unpinned organization. Heap files",
+      "Indexing",
+      "Singe level indices",
+      "numerical examples",
+      "Multi-level-indices",
+      "numerical examples"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Structure of Relational Databases - Integrity Constraints",
+      "Synthesizing ER diagram to relational schema Structured Query Language (SQL",
+      "Data Definition Language (DDL",
+      "Table definitions and operations - CREATE",
+      "DROP",
+      "ALTER",
+      "INSERT",
+      "DELETE",
+      "UPDATE.SQL DML (Data Manipulation Language) - SQL queries on single and multiple tables",
+      "Nested queries (correlated and non-correlated",
+      "Aggregation and grouping",
+      "Views",
+      "assertions",
+      "Triggers",
+      "SQL data types",
+      "Recursive queries",
+      "Accessing SQL from a Programming Language"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Different anomalies in designing a database",
+      "The idea of normalization",
+      "Functional dependency",
+      "Armstrong’s Axioms (proofs not required",
+      "Closures and their computation",
+      "Equivalence of Functional Dependencies (FD",
+      "Minimal Cover (proofs not required). First Normal Form (1NF",
+      "Second Normal Form (2NF",
+      "Third Normal Form (3NF",
+      "Boyce Codd Normal Form (BCNF",
+      "Lossless join and dependency preserving decomposition",
+      "Algorithms for checking Lossless Join (LJ) and Dependency Preserving (DP) properties"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Transaction Processing Concepts - overview of concurrency control",
+      "Transaction Model",
+      "Significance of concurrency Control & Recovery",
+      "Transaction States",
+      "System Log",
+      "Desirable Properties of transactions. Serial schedules",
+      "Concurrent and Serializable Schedules",
+      "Conflict equivalence and conflict serializability",
+      "Recoverable and cascade-less schedules",
+      "Locking",
+      "Two-phase locking",
+      "and its variations. Log-based recovery",
+      "Deferred database modification",
+      "check-pointing. Introduction to NoSQL Databases",
+      "Main characteristics of Key-value DB (examples from Redis",
+      "Document DB (examples from MongoDB) Main characteristics of Column-Family DB (examples from Cassandra",
+      "and Graph DB (examples from ArangoDB"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

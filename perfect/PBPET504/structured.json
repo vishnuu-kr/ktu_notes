@@ -1,0 +1,91 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Sequential and concurrent engineering",
+            "manufacturing planning and control",
+            "manufacturing models",
+            "elements of CAD and CAM",
+            "CAD/CAM integration",
+            "CAD/CAM data bases and system architecture",
+            "requirements of CAD/CAM Packages. Transformations: Geometric and viewing transformation",
+            "basic transformation matrices- translation",
+            "rotation",
+            "scaling etc. Geometric modelling: Mathematical representation of curves",
+            "parametric representation of analytical and synthetic curves",
+            "parametric equations-circle",
+            "ellipse",
+            "parabola",
+            "synthetic curves",
+            "geometric construction of curves",
+            "control point and weights"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to transformation of geometric models",
+            "visual realism",
+            "surface modelling- Bezier and B-spline surfaces. solid modelling techniques: Boundary representation",
+            "constructive solid geometry",
+            "analytical solid modelling",
+            "design and engineering applications. Standards for computer graphics: Standards for exchange images",
+            "data exchange standards- DFX",
+            "IGES",
+            "STEP",
+            "digital imaging and communication in medicine",
+            "STL conversion for additive manufacturing",
+            "introduction to reverse Engineering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Machine axis and coordinate system",
+            "CNC machine tools",
+            "principle of operation CNC. CNC Part programming: fundamentals",
+            "machine origin",
+            "program origin",
+            "part origin",
+            "setting up of origin- absolute and incremental programming",
+            "preparatory codes and miscellaneous codes",
+            "detailed manual part programming for turning & milling operations using G codes and M codes",
+            "canned cycles and subroutines",
+            "cutting cycles",
+            "loops",
+            "sub program and macros",
+            "tool radius compensation CNC programming with interactive graphics",
+            "introduction of CAM packages"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Use of CAE in product development",
+            "discretization methods- FEM",
+            "FDM and FVM",
+            "CAE tools",
+            "basic steps in CAE. Element shapes: Nodes",
+            "nodal unknowns",
+            "coordinates systems",
+            "global coordinates",
+            "local coordinates: natural coordinates",
+            "shape functions",
+            "convergence requirement of shape functions",
+            "derivation of the shape functions using polynomials",
+            "numerical enumeration using 2 noded spring and bar elements Computer aided design optimization: Introduction to topology optimization",
+            "role of AI and ML in design optimization",
+            "generative design -overview of popular CAE software used in industry . Suggestion on Project Topics: ● Solid modelling of consumer products using commercial CAD software. ● Experiment on CAD Customization (E.g",
+            "modelling of a customizable phone case). ● Familiarise with the reverse engineering procedures to develop required CAD models. ● Obtain 3D printable STL files from the DICOM model. ● Develop a CAM program to manufacture a complex part using CNC machining (E.g",
+            "a turbine blade). ● Evaluate the structural and mechanical integrity using CAE software. ● Compare the thermal performance of two different heat sinks using CAE software. ● Weight reduction of an existing design of an engineering component"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

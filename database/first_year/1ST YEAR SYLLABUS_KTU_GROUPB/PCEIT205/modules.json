@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Digital systems - Binary and hexadecimal number systems, Methods of base\nconversions, Binary and hexadecimal arithmetic, Representation of signed\nnumbers(1’s\ncomplement,\n2’s\ncomplement,9’s\ncomplement,\n10’s\ncomplement forms). Fixed and floating point numbers, decimal codes –\nBCD, Gray codes, Excess 3 code, ASCII code.\nBoolean Algebra - Basic definitions and axiomatic definition of\nBoolean algebra, Basic theorems and properties of Boolean algebra,\n11\nB.Tech 2024 –S1/S2\nAPJ Abdul Kalam Technological University\nDe-Morgan’s Theorems, Boolean functions, canonical and standard forms,\nDigital logic gates and their truth table.\nMinimization of Boolean expressions, Sum of Products (SOP), Product\nof Sums (POS), Karnaugh map Minimization.",
+    "contact_hours": "157"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Combinational Logic Systems – Half and full adders, 4 bit ripple carry\nadder, Subtractors, BCD Adder, Magnitude Comparators, Decoders and\nEncoders, Multiplexers and Demultiplexer.\nBasic Introduction to Programmable logic devices (PLD) and FPGA. Verilog\nHDL – Basic language elements, identifiers and operators. Verilog\nimplementation of logic gates and combinational circuits.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Latches and Flipflops – SR Latch, SR Flipflop, JK, D and T flipflops, Master\nslave JK FF, Excitation table and characteristic equation, conversion of\nflipflops.\nRegisters - Shift registers-SIPO, SISO, PISO, PIPO, Bidirectional. Verilog\nmodeling of flipflops",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Counters- Ripple counter, Mod 10 Counter, Ring counter and Johnsons-\nDesign of Asynchronous and Synchronous counters, Mod N counter,\nsequence generator.\nVerilog modelling of asynchronous and synchronous counters. Verilog\nimplementation of sequence generator.\nElectrical characteristics of TTL and CMOS logic families – logic levels and\nnoise margins, fan-out, propagation delay, transition time, power\nconsumption and power delay product. TTL inverter - circuit description and\noperation, CMOS inverter - circuit description and operation, CMOS\nNAND, CMOS NOR.\n11\nB.Tech 2024 –S1/S2\nAPJ Abdul Kalam Technological University",
+    "contact_hours": "158"
+  }
+]

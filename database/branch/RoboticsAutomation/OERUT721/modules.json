@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Types of Mobile Robots:\nIntroduction, key issues for locomotion, Wheeled Mobile Robots, Wheeled\nlocomotion: The design space, Wheeled locomotion: Case studies, Legged\nMobile Robots - Leg configurations and stability, Examples of legged robot\nlocomotion, aerial robots, underwater robots and surface water robots",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Sensors for mobile robot navigation:\nSensor classification, Characterizing sensor performance, Wheel /motor\nsensors, Heading sensors, Accelerometers, IMUs, Ground-based beacons,\nActive ranging, Motion/speed sensors, Robot Vision: Sensing, Pre-\nprocessing, Segmentation, Description, Recognition, Interpretation, Feature\nextraction",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Mobile Robot Kinematics:\nIntroduction, Kinematic Models and Constraints -  Representing robot\nposition, Forward kinematic models, Wheel kinematic constraints for Fixed\nstandard wheel, Steered standard wheel and Castor wheel only, Robot\nkinematic constraints\nExample of Robot kinematic models and constraints: Differential-drive robot\nonly\nMobile Robot Maneuverability - Degree of mobility, Degree of steerability,\nRobot maneuverability, Mobile Robot Workspace - Degrees of freedom,\nHolonomic robots",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Robot Navigation:\nRobot Localization: Challenges in localization, An error model for\nodometric position estimation, Localization-Based Navigation versus\nProgrammed Solutions, Belief Representation - Single-hypothesis belief,\nMultiple-hypothesis belief, Markov versus Kalman Localization (basics\nonly)\nPath Planning: Local vs global path planning, Joint space versus Cartesian\nSpace Trajectory Planning, Cubic Polynomial and LSPB methods of joint\nspace trajectory planning, Graph search,  Dijkstra’ s algorithm, A*, D*\nalgorithms, Potential field based path planning,  Bug algorithm",
+    "contact_hours": "9"
+  }
+]

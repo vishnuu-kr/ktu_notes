@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Mobile App Development - Overview of Mobile\nApplication Development: History, Trends, and Importance, Mobile\nPlatforms: Android, iOS, and Cross-Platform Development, Development\nEnvironments: Android Studio, Xcode, and Visual Studio Code, Basic App\nDevelopment Lifecycle: Design, Development, Testing, and Deployment,\nIntroduction to Programming Languages: Java, Kotlin, Swift, and Dart.\nLab: Setting up development environments (Android Studio, Xcode,\nVisual Studio Code), Building a simple \"Hello World\" app using Java\n(Android) and Swift (iOS), Exploring cross-platform development with\nFlutter",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "UI/UX Design for Mobile Apps - UI/UX Design Principles: Visual Design,\nInformation\nArchitecture,\nInteraction Design\n- Wireframing\nand\nPrototyping Tools: Figma, Sketch, Adobe XD - Responsive Design for\nMultiple Devices and Screen Sizes - Material Design Guidelines for\nAndroid and Human Interface Guidelines for iOS - Accessibility in Mobile\nApp Design\nLab: Creating wireframes and prototypes using Figma or Sketch -\nImplementing responsive design in Android and iOS apps - Applying\nMaterial Design and Human Interface Guidelines in simple UI components\n-Testing app accessibility features on various devices",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Backend Integration and APIs- Connecting Mobile Apps to Backend\nServices: RESTful APIs, GraphQL-Cloud Services for Mobile Apps:\nFirebase, AWS Amplify, Google Cloud-Working with Databases: SQLite,\nRealm, Firebase Realtime Database-Data Storage and Management in\nMobile Apps-Implementing Push Notifications and In-App Messaging\nLab: Setting up and integrating a Firebase backend with a mobile app-\nImplementing RESTful API calls in an app using Retrofit (Android) and\nURLSession (iOS)-Storing and retrieving data using SQLite and Firebase\nRealtime Database-Configuring push notifications and sending in-app\nmessages",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Advanced Topics in Mobile App Development-Performance Optimization:\nProfiling, Memory Management, and Battery Efficiency-Mobile App\nSecurity: Secure Coding Practices, Encryption, and Authentication-Cross-\nPlatform Development: React Native, Flutter, Xamarin-App Store\nDeployment: Google Play Store, Apple App Store.\nLab: Profiling and optimizing app performance using Android Studio and\nXcode tools, Implementing secure coding practices and encryption in\nmobile apps, Developing and deploying a cross-platform app using Flutter,\nPreparing and submitting apps to the Google Play Store and Apple App\nStore.",
+    "contact_hours": "11"
+  }
+]

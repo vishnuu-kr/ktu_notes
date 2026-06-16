@@ -1,0 +1,73 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Alphabet",
+      "Strings",
+      "Languages",
+      "Grammar",
+      "Automata Deterministic Finite Automata/Accepter (DFA",
+      "Language of a DFA",
+      "Regular languages",
+      "Nondeterministic Finite Automata/Accepter (NFA",
+      "NFA with epsilon transitions",
+      "Language of an NFA",
+      "eliminating epsilon transitions (Proof not expected",
+      "Equivalence of NFAs and DFAs (Proof not expected) -The Subset Construction. DFA State Minimization",
+      "Applications of finite automata"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Regular expression",
+      "Language of a Regular Expression",
+      "Equivalence with finite automata (Proof not expected) - Converting FA to Regular Expressions",
+      "Converting Regular Expressions to FA",
+      "Regular grammar - examples. Closure Properties of Regular Languages (Proof not expected",
+      "Pumping Lemma for Regular Languages (Proof not expected",
+      "Pumping Lemma as a tool to prove nonregularity of languages. Context Free Language (CFL) and Context-Free Grammar (CFG",
+      "Designing CFGs for CFLs",
+      "Leftmost and Rightmost Derivations",
+      "Parse Trees",
+      "Ambiguity in CFGs and CFLs"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Simplification of Context-Free Grammars - Eliminating useless symbols and productions",
+      "Eliminating epsilon productions",
+      "Eliminating unit productions",
+      "Chomsky Normal Form (CNF",
+      "Converting CFGs into CNF",
+      "Greibach Normal Form (definition only). Pushdown Automata (PDA",
+      "Language of a PDA",
+      "DPDA and NPDA",
+      "Designing PDAs for CFLs. Equivalence NPDAs and CFGs (Proof not expected"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Pumping Lemma for Context-Free Languages (Proof not expected",
+      "Pumping Lemma as a tool to identify Non-Context-Free Languages. Closure Properties of CFLs (Proof not expected",
+      "Context Sensitive Grammar and Languages (introduction only) Turing Machines (TMs) - Turing Machines as language acceptors",
+      "Language of a TM",
+      "Turing Machines as transducers",
+      "Nondeterministic Turing Machines (definition only",
+      "Recursive and Recursively Enumerable languages",
+      "Unrestricted Grammar (definition only",
+      "Chomsky hierarchy",
+      "Linear Bounded Automaton as a restricted TM (introduction only"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Vehicle Network Systems - Introduction",
+            "Network Architecture - Types",
+            "Network Communication",
+            "Vehicle Networks - CAN, LIN, MOST, FlexRay Protocol",
+            "Vehicle Network Diagnosis",
+            "Real-Time Operating Systems (RTOS) - Introduction",
+            "AUTOSAR - Introduction, System Architecture, Software Architecture"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Ethernet in Automobiles. Connected Car - Cyber-Physical Systems",
+            "Wireless Sensor Networks",
+            "Telematics",
+            "Vehicle to Network (V2N), Vehicle to Infrastructure (V2I), Vehicle to Vehicle (V2V), Vehicle to Cloud (V2C), Vehicle to Pedestrian (V2P), Vehicle to Device (V2D), Vehicle to Grid (V2G). In-Vehicle Networks: Types of IVNs - Body, Powertrain, Chassis, and Infotainment Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Electronic Fuel Control, Engine Control Sequence, Open Loop and Closed Control, Cold Starting, Acceleration and Full Load",
+            "Enrichment, Deceleration Leaning, Overrun Fuel Cut Off, Idle Speed Control and EGR Control",
+            "Fuel Injection System Parameters Affecting Combustion, Noise and Emissions in CI Engines. Pilot, Main, Advanced Post Injection and Retarded Post Injection. Electronic Ignition Control, Ignition Timing Map, Ignition Timing Calculation (Initial Timing, Basic Advance Angle, Corrective Advance Angle), Spark Advance Correction Scheme"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Adaptive Cruise Control System",
+            "Anti-Lock Braking System",
+            "Traction Control System",
+            "Electronic Brake Force Distribution",
+            "Electronic Stability Program",
+            "Airbags",
+            "Collision Avoidance Radar Warning System",
+            "Tyre Pressure Monitoring",
+            "Lane Departure Warning System",
+            "Night Vision System. Electronic Control Transmission: Control of Shift Timing",
+            "Control of Lock-Up",
+            "Neutral to Drive Squat Control",
+            "Engine Torque Control. Dual Clutch Automatic",
+            "Automated Manual Transmission",
+            "Continuously Variable Transmission. GPS Navigation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

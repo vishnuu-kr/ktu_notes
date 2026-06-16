@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Digital Image Fundamentals\nIntroduction – Origin – Steps in Digital Image Processing – Components –\nElements of Visual Perception – Image Sensing and Acquisition – Image\nSampling and Quantization – Relationships between pixels - medical\nimaging applications",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Image transforms\n1D-DFT, 2D-DFT, Two dimensional orthogonal and unitary Transforms,\nCosine, Sine, Hadamard, Haar and their properties",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Image Enhancement\nSpatial Domain: Gray level transformations – Histogram processing –\nBasics of Spatial Filtering– Smoothing and Sharpening Spatial Filtering –\nFrequency Domain: Introduction to Fourier Transform – Smoothing and\nSharpening frequency domain filters – Ideal, Butterworth and Gaussian\nfilters., Application of filtering in medical images.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Segmentation and Representation\nDetection of Discontinuities–Edge Linking and Boundary detection –\nRegion based segmentation - Morphological processing- erosion and\ndilation, Application of edge detection - Boundary representation – Chain\nCode",
+    "contact_hours": "9"
+  }
+]

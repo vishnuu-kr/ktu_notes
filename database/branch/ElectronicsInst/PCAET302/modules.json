@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Wave shaping circuits: First order RC low pass and high pass filters,\nDifferentiator and Integrator, Diode clipping circuits, Diode clamping\ncircuits, Voltage multipliers\nTransistor biasing:  Concept of DC and AC load lines, Types -Fixed bias\ncircuit, Self-bias, voltage divider bias, Bias stabilization.\nSwitching Circuits:  Astable, Bistable and Monostable multivibrators,\nSchmitt Trigger.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "BJT amplifiers: RC coupled amplifier –Design, Voltage gain and frequency\nresponse. Small signal analysis of CE configuration - Small signal hybrid-pi\nmodel for mid and low frequency (Gain, Input and output impedance). High\nfrequency equivalent circuits of BJT, Miller effect, Analysis of high\nfrequency response of CE amplifier.\nMultistage amplifiers - Cascade and Cascode amplifiers: Design, Effect on\ngain and bandwidth.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "MOSFETs - MOSFET as an amplifier, Biasing of p-channel and n-channel\nMOSFET circuits, Small signal equivalent circuit, Small signal Voltage\ngain, current gain, input and output impedances of CS configuration, CS\nstage with diode connected load.\nFeedback topologies: Effect of positive and negative feedback on gain,\nfrequency response and distortion, Feedback topologies and its effect on\ninput and output impedance, Feedback amplifier circuits using BJT in each\nfeedback topologies (Analysis of only Voltage series feedback circuit is\nrequired)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Oscillators: Introduction, Barkhausen criterion, Classification of oscillators\n- RC phase shift, Wien bridge, Hartley, Colpitts and Crystal oscillators\n(working principle and design equations of the circuits only). Analysis of RC\nphase shift oscillator.\nPower amplifiers: Classification, Transformer coupled class A power\namplifier, push pull class B and class AB power amplifiers, complementary\nsymmetry class B and class AB power amplifiers, Class C power amplifier\nefficiency and distortion (no analysis required).\nRegulated power supplies: Load and line regulation, Series voltage\nregulator, shunt voltage regulator, Short circuit protection and fold back\nprotection.",
+    "contact_hours": "11"
+  }
+]

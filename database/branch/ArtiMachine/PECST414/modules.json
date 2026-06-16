@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Binary block codes, Minimum distance, Error-detecting capability and error-\ncorrecting capability.\nIntroduction to linear block codes, generator matrix and parity check matrix.\nProperties of linear block codes: Syndrome, error detection. Distance\nproperties of linear block codes. Single parity check codes, Hamming codes,\nReed Muller codes..",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Cyclic Codes : Generator and Parity-Check Matrices of Cyclic\nCodes.Encoding of Cyclic Codes, Syndrome Computation and Error\nDetection, Decoding of Cyclic Codes,Cyclic Hamming Codes, Shortened\nCyclic Codes",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Convolutional codes: Encoding, state diagram, trellis diagram, Classification,\nrealization, distance properties. Viterbi algorithm, BCJR algorithm.\nPerformance bounds for convolutional codes",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Turbo codes: Turbo decoding,Distance properties of turbo codes,\nConvergence of turbo codes.\nAutomatic repeat request schemes. Applications of linear codes",
+    "contact_hours": "9"
+  }
+]

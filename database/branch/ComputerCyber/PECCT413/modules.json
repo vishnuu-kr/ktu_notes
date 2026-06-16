@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to AI - History and Applications of AI: Intelligent Agents -\nTypes of intelligent agents, Problem-solving & search algorithms\n(uninformed and informed search): Knowledge Representation and\nReasoning - Propositional logic, First-order logic, Reasoning systems\nIntroduction to Machine Learning: Machine learning vs. traditional\nprogramming, Types of learning (supervised, unsupervised, reinforcement\nlearning). The Machine Learning Pipeline, Data Preprocessing, Idea of\nTraining, Testing, Validation; Review of Gradient Descent Algorithm",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Supervised Learning: Linear Regression, Decision Trees, K-Nearest\nNeighbors(KNN)\nUnsupervised Learning: Principal Component Analysis (PCA), K-means\nclustering\nModel Selection and Regularization: Underfitting, Overfitting, L1 and L2\nregularization.\nEvaluation measures – Mean Squared Error (MSE), Mean Absolute Error\n(MAE), Root Mean Squared Error (RMSE), R Squared/Coefficient of\nDetermination, Precision, Recall, Accuracy, F-Measure, Receiver Operating\nCharacteristic Curve(ROC), Area Under Curve (AUC), Cross-entropy loss.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to Neural Networks and Deep Learning: Perceptron,\nMultilayer Feed-Forward Network; Activation Functions - Sigmoid, ReLU,\nTanh\nBackpropagation\nAlgorithm;\nArtificial\nNeural\nNetworks\n(ANNs),\nActivation\nFunctions,\nConvolutional\nNeural\nNetworks\n(CNNs),\nArchitecture, Applications.\nCase Study: Application of ML for Phishing Detection",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Recurrent Neural Networks (RNNs) and Long Short-Term Memory\n(LSTM) networks: Architecture, Applications (General understanding of\nnatural language processing)\nEthical Considerations in AI and ML: Bias, Fairness, Explainability,\nSocietal Impact\nCase Study: Application of  AI for Intrusion Detection",
+    "contact_hours": "9"
+  }
+]

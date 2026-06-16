@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Graphical System Design: Model-Design Flow with GSD, Virtual Instrumentation, Virtual Instrument and Traditional Instrument, Hardware and Software in Virtual Instrumentation, Virtual Instrumentation for Test, Control and Design, Virtual Instrumentation in the Engineering Process, Virtual Instruments Beyond Personal Computer, Graphical System Design Using LabVIEW, Graphical Programming and Textual Programming",
+            "Introduction to LabVIEW: Advantages of LabVIEW, Software Environment, Creating and Saving a VI, Front Panel Toolbar, Block Diagram Toolbar, Palettes, Shortcut Menus, Property Dialog Boxes",
+            "Front Panel Controls and Indicators, Block Diagram, Data Types, Data Flow Program, LabVIEW Documentation Resources, Keyboard Shortcuts",
+            "Modular Programming in LabVIEW",
+            "Building a VI: Front Panel and Block Diagram, Icon and Connector Pane",
+            "Creating an Icon",
+            "Building a Connector Pane, Displaying SubVIs and Express VIs as Icons or Expandable Nodes, Creating SubVIs from Sections of a VI",
+            "Opening and Editing SubVIs, Placing SubVIs on Block Diagrams, Saving SubVIs",
+            "Creating a Stand-Alone Application"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Repetition and Loops: For Loops, While Loops, Structure Tunnels, Terminals Inside or Outside Loops, Shift Registers, Feedback Nodes, Control Timing, Communicating Among Multiple Loops, Local Variables, Global Variables",
+            "Arrays in LabVIEW: Creating One-Dimensional Array Controls, Indicators and Constants, Creating Two-Dimensional Arrays, Creating Multidimensional Arrays, Initializing Arrays, Deleting Elements, Rows, Columns and Pages Within Arrays, Inserting Elements, Rows, Columns and Pages Into Arrays, Replacing Elements, Rows, Columns and Pages Within Arrays, Array Functions, Auto Indexing, Creating Two-Dimensional Arrays Using Loops, Identification of Data Structure (Scalar and Array) Using Wires, Using Auto-Indexing to Set the For Loop Count, Matrix Operations with Arrays, Polymorphism",
+            "Clusters: Creating Cluster Controls and Indicators, Creating Cluster Constant, Order of Cluster Elements, Cluster Operations, Assembling Clusters, Disassembling Clusters, Conversion Between Arrays and Clusters, Error Handling, Error Cluster"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Plotting: Data Types of Waveforms, Waveform Graphs, Waveform Charts, Waveform Data Type, XY Graphs, Intensity Graphs and Charts, Digital Waveform Graphs, 3D Graphs",
+            "Customizing Graphs and Charts, Customizing Graphs, Customizing 3D Graphs",
+            "Customizing Charts, Dynamically Formatting Waveform Graphs, Configuring a Graph or Chart",
+            "Displaying Special Planes on the XY Graph",
+            "Structures: Case Structures, Sequence Structures, Customizing Structures, Timed Structures, Formula Nodes",
+            "Event Structure",
+            "LabVIEW MathScript",
+            "Strings and File I/O: Creating String Controls and Indicators, String Functions, Editing, Formatting and Parsing Strings, Formatting Strings, Configuring String Controls and Indicators, Basics of File Input/Output, Choosing a File I/O Format, LabVIEW Data Directory, File I/O VIs, Creating a Relative Path"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Instrument Control: Introduction, GPIB Communication, Hardware Specifications, Software Architecture, Instrument I/O Assistant, VISA, Instrument",
+            "Serial Port Communications, Data Transfer Rate, Serial Port Standards, Using Other Interfaces",
+            "Data Acquisition: Transducers, Signals, Signal Conditioning, DAQ Hardware Configuration, DAQ Hardware, Analog Inputs, Analog Outputs, Counters, Digital I/O (DIO), DAQ Software Architecture, DAQ Assistant, Channels and Task Configuration, Selecting and Configuring a Data Acquisition Device, Components of Computer-Based Measurement System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

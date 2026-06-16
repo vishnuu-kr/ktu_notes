@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Operating system overview – Functions, Boot Process\nProcesses - Process states, Process control block, threads, scheduling,\nOperations on processes - process creation and termination\nInter-process communication - shared memory systems, Message passing\nsystems.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Process Scheduling – Basic concepts- Scheduling criteria -scheduling\nalgorithms- First come First Served, Shortest Job Firs, Priority scheduling,\nRound robin scheduling\nProcess synchronization- Race conditions – Critical section problem –\nPeterson’s\nsolution,\nSynchronization\nhardware,\nMutex\nLocks,\nSemaphores, Monitors – Synchronization problems - Producer Consumer,\nDining Philosophers and Readers-Writers.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Deadlocks: Necessary conditions, Resource allocation graphs, Deadlock\nprevention, Deadlock avoidance – Banker’s algorithms, Deadlock\ndetection, Recovery from deadlock.\nMemory Management: Concept of address spaces, Swapping, Contiguous\nmemory allocation, fixed and variable partitions, Segmentation, Paging.\nVirtual memory, Demand paging, Page replacement algorithms.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "File System: File concept - Attributes, Operations, types, structure – Access\nmethods,\nProtection.\nFile-system\nimplementation,\nDirectory\nimplementation. Allocation methods. Storage Management: Magnetic\ndisks, Solid-state disks, Disk Structure, Disk scheduling, Disk formatting.",
+    "contact_hours": "8"
+  }
+]

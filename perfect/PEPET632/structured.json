@@ -1,0 +1,79 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "FEM as a numerical tool for design",
+            "basic concepts",
+            "formulation procedures. FE modelling direct approach: One dimensional bar element",
+            "element stiffness",
+            "assembly of elements",
+            "properties of stiffness matrix",
+            "treatment of boundary conditions",
+            "temperature effects",
+            "stress computation",
+            "support reaction analogous one dimensional problems of torsion and heat conduction. Beam element: Beam relationships",
+            "one dimensional beam element FE formulation",
+            "element stiffness matrix",
+            "load considerations",
+            "boundary conditions",
+            "member end forces"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Plane truss element formulation",
+            "coordinate transformation",
+            "local and global coordinates",
+            "element matrices",
+            "assembly of elements",
+            "treatment of boundary conditions",
+            "stress calculation",
+            "simple problems. Convergence requirements",
+            "patch test. Variational methods: Functionals",
+            "weak and strong form",
+            "essential and non-essential boundary conditions",
+            "principle of stationary potential energy",
+            "Rayleigh-Ritz method",
+            "simple examples"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Shape function",
+            "Lagrange interpolation. FE formulation from virtual work principle: Displacement differentiation matrix [B-matrix",
+            "element matrices for bar and constant strain triangle element [CST element",
+            "load considerations",
+            "consistent nodal loads",
+            "simple problems. Two dimensional FE formulation: Two dimensional steady state heat conduction",
+            "element matrices for a triangular element",
+            "boundary conditions",
+            "simple problems. FE formulation for two dimensional stress analysis from potential energy",
+            "element matrices",
+            "plane bilinear element"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Galerkin FE formulation",
+            "axially loaded bar - heat flow in a bar. Isoparametric formulation: Natural coordinates",
+            "linear and quadratic bar element",
+            "linear triangle and plane bilinear elements for scalar fields",
+            "jacobian matrix",
+            "element matrices",
+            "Gauss quadrature",
+            "requirements for isoparametric elements",
+            "accuracy and mesh distortion"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

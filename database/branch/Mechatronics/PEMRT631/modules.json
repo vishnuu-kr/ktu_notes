@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Networks: Network criteria, physical structures, network models,\ncategories of networks, Interconnection of Networks: Internetwork.\nNetwork models: Layered tasks, OSI model, Layers in OSI model, TCP/IP\nprotocol suite.\nApplication Layer: Principles of Network Applications: Network\nApplication Architectures, Processes Communicating, Transport Services\nAvailable to Applications, Transport Services Provided by the Internet,\nApplication-Layer Protocols. Guided and unguided transmission media -\nCo-axial cable, UTP, STP, Fiber optic cable",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Transport Layer : Introduction and Transport-Layer Services:\nRelationship Between  Transport and Network Layers, Overview of the\nTransport Layer in the Internet.\nMultiplexing and Demultiplexing: Connectionless Transport: UDP,UDP\nSegment Structure,  UDP Checksum\nPrinciples of Reliable Data Transfer: Building a Reliable Data Transfer\nProtocol, Pipelined Reliable Data Transfer Protocols, Go-Back-N,\nSelective repeat, Connection-Oriented Transport TCP: The TCP\nConnection, TCP Segment Structure,  Reliable Data Transfer, Flow\nControl, TCP Connection Management, Principles of Congestion\nControl: The Causes and the Costs of Congestion, Approaches to\nCongestion Control, Network-assisted congestion-control example, ATM\nABR Congestion control, TCP Congestion Control: Fairness.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "The Network layer:  Router: Input Processing, Switching, Output\nProcessing, Routing: Routing and Forwarding, Static routing and Dynamic\nrouting, Routing control plane, IPv6, A Brief foray into IP Security,\nRouting Algorithms: The Link-State (LS) Routing Algorithm, The\nDistance-Vector (DV) Routing Algorithm, Hierarchical Routing, Routing in\nthe Internet, Intra-AS Routing in the Internet: RIP, Intra-AS Routing in the\nInternet: OSPF, Inter/AS Routing: BGP, Broadcast Routing Algorithms and\nMulticast.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Network Security: Overview of Network Security: Elements of Network\nSecurity, Classification of Network Attacks, Security Methods,\nSymmetric-Key Cryptography: Data Encryption Standard (DES),\nAdvanced Encryption Standard (AES),\nPublic-Key Cryptography: RSA Algorithm, Diffie-Hellman Key-\nExchange Protocol,\nAuthentication: Hash Function, Secure Hash Algorithm (SHA), Digital\nSignatures, Firewalls and Packet Filtering, Proxy Server.",
+    "contact_hours": "9"
+  }
+]

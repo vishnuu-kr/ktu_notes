@@ -1,0 +1,724 @@
+Course Code 
+PCERT403 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-1-0-0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To acquire practical skills in network design, configuration, and management which include 
+learning about different network topologies, transmission media, routing algorithms, and 
+quality of service techniques. 
+SYLLABUS 
+Modul
+e No. 
+Syllabus Description 
+Contact 
+Hours
+1 
+Introduction – Uses of computer networks, Network hardware, Network 
+Software. Reference models – The OSI reference model, The TCP/IP 
+reference model, Comparison of OSI and TCP/IP reference models.  
+Physical Layer – Modes of communication, Physical topologies, 
+Transmission media. 
+ 
+8  
+2 
+Data link layer - design issues, Error detection and correction, Sliding 
+window protocols, High-Level Data Link Control (HDLC) protocol. 
+Medium Access Control (MAC) sublayer –Channel allocation problem, 
+Multiple access protocols, Ethernet, Wireless LANs - 802.11. Repeaters, 
+Hubs, Bridges, Switches, Routers and Gateways. 
+ 
+10  
+3 
+Network layer Services. Routing algorithms - Shortest path routing, 
+Flooding, Distance Vector Routing, Link State Routing, Congestion control 
+algorithms. Quality of Service (QoS) - requirements, Techniques for 
+achieving good QoS. 
+Internet Protocols - IPv4-IPv4 addresses-IPv6 -The Internet Control 
+14 
+
+ 
+ 
+Message Protocol - The Address Resolution Protocol-The Dynamic Host 
+Configuration Protocol - Network Address Translation - Internet 
+multicasting. 
+4 
+Transport service – Services provided to the upper layers, Transport service 
+primitives. User Datagram Protocol (UDP). Transmission Control Protocol 
+(TCP) – Overview of TCP, TCP segment header, Connection establishment 
+& release, Connection management modelling, TCP retransmission policy, 
+TCP congestion control.  
+Application Layer –File Transfer Protocol (FTP), Domain Name System 
+(DNS), Electronic Mail (SMTP), Simple Network Management Protocol  
+(SNMP), World Wide Web(WWW), Multimedia  in the Internet, Real time 
+interactive protocols-RTP,RTCP,SIP. 
+ 
+12  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the uses of computer networks, their hardware, software, 
+and different reference models. 
+K2 
+CO2 
+Analyze data link layer design issues, error detection, correction and 
+various medium access control protocols. 
+K3 
+CO3 
+Design and evaluate network layer solutions characterized by routing 
+and congestion control algorithms and implement IP protocols. 
+K2 
+CO4 
+Comprehend the concepts of TCP/UDP protocols and connection 
+management including congestion control and retransmission policy. 
+K2 
+CO5 
+Understand the application layer protocols and techniques for 
+implementing web based applications. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Networks 
+Andrew S. Tanenbaum  
+PHI (Prentice Hall 
+India) 
+4/e,2008 
+2 
+Data 
+Communication 
+and 
+Networking 
+Behrouz A Forouzan 
+Tata McGraw Hill 
+5/e,2013 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO2 
+2 
+2 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO3 
+2 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO4 
+2 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO5 
+2 
+2 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer 
+Networks 
+– 
+A 
+Systems Approach 
+Larry L Peterson and 
+Bruce S Dave 
+Morgan Kaufmann. 
+ 
+5/e,2011 
+2 
+Computer Networking and the 
+Internet 
+Fred Halsall 
+Addison-Wesley. 
+5/e,2005 
+3 
+James F. Kurose, Keith W. 
+Ross 
+Computer Networking: 
+A Top-Down Approach 
+Pearson  Education 
+6/e,2012 
+4 
+Computer 
+Networking 
+with 
+Internet Protocols.  
+William Stallings 
+Prentice-Hall, 
+4/e,2004 
+5 
+Data Communications 
+and Computer Networks 
+A Business User’s Approach 
+Curt M. White 
+ Course Technology, 
+Cengage Learning 
+7/e, 2013 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106105183 
+2 
+https://nptel.ac.in/courses/106106091 
+3 
+https://onlinecourses.swayam2.ac.in/cec21_cs04/preview 
+4 
+https://onlinecourses.nptel.ac.in/noc22_cs19/preview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+INTEGRATED CIRCUITS 
+Course Code 
+PBERT 404 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBERT 304 
+Electronics Devices 
+and Circuits
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce students about integrated circuits and teach them how to construct and analyze 
+circuits with the help of op-amps and other specialized ICs. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Operational amplifiers 
+Introduction of op-amp – block diagram of op-amp –Basic information of 
+op-amp (741 op-amp) - Power supply requirements. Characteristics of 
+Operational Amplifiers Ideal op amp characteristics - DC characteristics - 
+input bias current, input offset current, input offset voltage, thermal drift, 
+CMRR, PSRR - AC characteristics - frequency response, slew rate.  Basic 
+applications-inverting amplifier, non-inverting amplifier. 
+9 
+2 
+Applications of Operational amplifiers 
+Differential amplifier, summing amplifier, scale changer, voltage follower, 
+V-I converter (grounded load type and floating load type), I-V converter. 
+Instrumentation amplifier (3 op amp) - op amp integrator - op amp 
+differentiator, precision rectifier (half and full wave), peak detector, sample 
+and hold circuit, Comparator (inverting and non-inverting type) – 
+applications of comparator - zero crossing detector, Schmitt trigger, window 
+detector 
+ 
+9  
+
+ 
+ 
+3 
+Waveform generators and Oscillators 
+Timer IC 555- Functional block diagram – Waveform generators – 
+Astable and mono stable – Design and working (using 555 and 741). 
+Triangular and sawtooth –RC phase shift and Wien bridge oscillators (No 
+analysis required) 
+Voltage regulator - Introduction, series op amp regulator -IC regulators -
+78XX and 79XX characteristics - voltage regulator as current source using 
+7805, Low voltage and high voltage regulators using 723 general purpose IC. 
+9  
+4 
+Filters, PLL and Data Converters 
+Types of filters, first and second order LPF and HPF. 
+Phase Locked Loop – Operation, Lock and capture range (No analysis), 
+PLL IC 565, Applications - frequency multiplier, frequency translation. 
+Data Converters: Digital to Analog converters, Specifications, Weighted 
+resistor type and R-2R Ladder type. Analog to Digital Converters: 
+Specifications, ADC –Direct type – Flash type, counter type, successive 
+approximation type - Integrating type ADC - Single slope type. 
+9  
+ 
+ 
+Suggestion on Project Topics 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe basics of operational amplifier and characteristics of op-amps.  
+K2 
+CO2 
+Design linear and nonlinear circuits using op-amp. 
+K3 
+CO3 
+Design op-amp oscillators, waveform generators and voltage regulators. 
+K3 
+CO4 
+Design circuits using Filters, PLL, DAC and ADC. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+ 
+2 questions will be given from each module, 
+out of which 1 question should be answered. 
+Each question can have a maximum of 2 sub 
+divisions. Each question carries 6 marks.  
+        (4x6 = 24 marks) 
+40 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+2 
+ 
+ 
+3 
+2 
+ 
+ 
+3 
+2 
+ 
+3 
+CO3 
+3 
+2 
+ 
+ 
+3 
+3 
+ 
+ 
+3 
+2 
+ 
+3 
+CO4 
+3 
+2 
+ 
+ 
+3 
+3 
+ 
+ 
+3 
+2 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Linear Integrated Circuits 
+D Roy Choudhury and 
+Shail B Jain 
+New Age International 
+Publishers 
+4/e, 2017 
+2 
+Op-Amps and Linear 
+Integrated Circuits 
+Ramakant A. Gayakwad 
+Pearson 
+4/e, 2015 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Op-amps and Linear Integrated 
+circuits 
+Coughlin & Driscoll 
+Prentice Hall 
+6/e, 2009 
+2 
+Design with operational 
+Amplifiers & Analog 
+Integrated Circuits 
+Sergio Franco 
+Mc Graw Hill India 
+4/e, 2016 
+3 
+Integrated Circuits 
+K R Botkar 
+Khanna Publishers 
+10/e, 2010 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/108/108/108108111 
+2 
+https://archive.nptel.ac.in/courses/108/108/108108111 
+3 
+https://archive.nptel.ac.in/courses/108/108/108108111 
+4 
+https://archive.nptel.ac.in/courses/108/106/108106184 
+ 
+                                    
+ 
+ 
+
+ 
+ 
+                      PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery 
+Project identification 
+Simulation/ 
+Laboratory Work/ 
+Workshops 
+Presentation 
+(Progress and Final 
+Presentations) 
+Group discussion 
+Project Analysis 
+Data Collection 
+Evaluation 
+Question answer 
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical thinking and 
+self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project reformation (If required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case Study/ Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 5 
+minutes video
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+1. Project Planning and Proposal (5 Marks) 
+● 
+Clarity and feasibility of the project plan  
+● 
+Research and background understanding  
+● 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+● 
+Individual contribution to the presentation  
+● 
+Effectiveness in answering questions and handling feedback  
+
+ 
+ 
+3. Involvement in the Project Work and Team Work (3 Marks) 
+● 
+Active participation and individual contribution  
+● 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+● 
+Adherence to the project timeline and milestones  
+● 
+Application of theoretical knowledge and problem-solving  
+● 
+Final Result 
+5. Final Presentation (5 Marks) 
+● 
+Quality and clarity of the overall presentation  
+● 
+Individual contribution to the presentation  
+● 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+● 
+Overall quality and technical excellence of the project  
+● 
+Innovation and originality in the project  
+Creativity in solutions and approaches 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+COMMUNICATION ENGINEERING

@@ -1,0 +1,291 @@
+Course Code 
+PECDT755 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2Hr.30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To provide a comprehensive introduction to the concepts and methods of reinforcement 
+learning and develop skills in implementing reinforcement learning algorithms. 
+2. To enable the learner to apply reinforcement learning techniques to solve real-world problems 
+and to explore advanced topics and recent developments in reinforcement learning. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Reinforcement Learning:   
+Basic Concepts: Agents, Environments, Rewards, and Policies,  
+Single stage decision making problems: N-Arm Bandit Problem, Simulation
+of N-arm bandit problem, Action-Value Methods, Incremental Implementation, 
+epsilon –greed method, Exploration Vs Exploitation, Pursuit algorithm 
+8 
+2 
+Markov Decision Processes (MDPs) and Dynamic Programming (DP): 
+Definition and Properties, Value Functions, Bellman Equations, Policy
+Evaluation, Improvement, Policy Iteration, Value Iteration, Asynchronous DP, 
+Efficiency of DP Algorithms. 
+9 
+3 
+Monte Carlo Methods and Temporal Difference (TD) Learning:  
+Monte Carlo Prediction, Monte Carlo Control, Off-policy Prediction and 
+Control, TD Prediction, Q-Learning, SARSA, Eligibility Traces 
+9 
+
+ 
+ 
+4 
+Function Approximation and Advanced Topics:  
+Linear 
+Function 
+Approximation, 
+Neural 
+Networks 
+for 
+Function 
+Approximation, Deep Q-Networks (DQN), Policy Gradient Methods, Actor-
+Critic Methods, Applications of Reinforcement Learning in Games, Robotics,
+and Other Domains. 
+10 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation(Evaluate and Analyse): 20 marks 
+ 
+Sample Analyse level questions 
+ 
+1. Break down the role of experience replay and target networks in stabilizing the learning 
+process of DQN. How do these components prevent divergence during training? 
+ 
+2. Discuss the interaction between the actor and critic in an Actor-Critic method. How does the 
+balance between these components impact learning stability and convergence speed? 
+ 
+Sample Evaluate level questions 
+ 
+1. Evaluate the computational efficiency of different dynamic programming algorithms (e.g., 
+policy iteration, value iteration, asynchronous DP). How do they scale with increasing state 
+and action space sizes? 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose 
+any one full question out of two questions 
+
+ 
+ 
+ 
+Part A 
+Part B 
+Total 
+2 Questions from each module. 
+Total of 8 Questions, each 
+carrying 3 marks 
+(8x3 =24 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each question 
+can have a maximum of 3 subdivisions. Each 
+question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the fundamental concepts of reinforcement learning. 
+K2 
+CO2 
+Solve single stage decision-making problem  
+K3 
+CO3 
+Implement basic reinforcement learning algorithms. 
+K3 
+CO4 
+Evaluate the performance of different reinforcement learning methods. 
+K5 
+CO5 
+Explore advanced techniques and recent developments in the field. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlatio 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+2 
+3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+2 
+3 
+3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Reinforcement Learning: An 
+Introduction 
+Richard S. Sutton, Andrew 
+G. Barto 
+MIT Press 
+2/e, 2018 
+2 
+Deep Reinforcement Learning 
+Hands-On 
+Maxim Lapan 
+Packt Publishing 
+2/e, 2020 
+3 
+Reinforcement Learning: State-
+of-the-Art 
+Marco Wiering, Martijn 
+van Otterlo 
+Springer 
+1/e, 2012 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Artificial Intelligence: A Modern 
+Approach 
+Stuart Russell, Peter Norvig
+Pearson 
+3/e, 2010 
+2 
+Algorithms for Reinforcement 
+Learning 
+Csaba Szepesvári 
+Morgan & Claypool 
+1/e, 2010 
+3 
+Deep Learning 
+Ian Goodfellow, Yoshua 
+Bengio, Aaron Courville 
+MIT Press 
+1/e, 2016 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No.
+Link ID 
+1 
+Introduction to Reinforcement Learning   https://nptel.ac.in/courses/106106182 
+2 
+Markov Decision Processes and Dynamic Programming https://nptel.ac.in/courses/106105198 
+3 
+Monte Carlo Methods and Temporal Difference Learning https://nptel.ac.in/courses/106105197 
+4 
+Function Approximation and Advanced Topics  https://nptel.ac.in/courses/106105194 
+
+ 
+ 
+SEMESTER S7 
+CYBER SECURITY

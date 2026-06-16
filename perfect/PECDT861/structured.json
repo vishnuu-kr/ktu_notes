@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to time series forecasting- Forecasting",
+            "Types of forecasting - Short term",
+            "long term. Forecasting data and methods - Qualitative forecasting",
+            "Quantitative forecasting. Simple Forecasting methods- Average method",
+            "Naïve method",
+            "Drift Method. Steps in forecasting. Introduction to Time series forecasting - Time Series Characteristics - Types of Data - Time Series Data",
+            "Cross-Section Data",
+            "Longitudinal Data. Understanding Time Series Data",
+            "Time series pattern- trend",
+            "seasonality",
+            "cyclicity",
+            "and irregularity. Detecting Trends using Hodrick-Prescott filter and Detrending time series. Detect Seasonality and De-seasoning",
+            "Detecting Cyclic Variation. Error",
+            "Irregular Component and residuals. Time Series Decomposition- Additive Models",
+            "Multiplicative models"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Exponential Smoothing - Simple exponential smoothing",
+            "Methods with trend",
+            "methods with seasonality",
+            "estimation and modelling",
+            "Forecasting with ETS models. Regression Extension Techniques for time series data - Types of stationary behaviour in time series",
+            "Making data stationary",
+            "Augmented Dickey-Fuller Test",
+            "Using stationary data techniques - Differencing",
+            "Random walk",
+            "Trend Differencing",
+            "Seasonal Differencing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Time series as a discrete parameter stochastic process",
+            "Auto- correlation Function (ACF",
+            "Partial Autocorrelation Function (PACF) and cross correlations",
+            "Auto Correlation Plots - Trend and seasonality in ACF plots. Autoregressive (AR",
+            "Moving Average (MA",
+            "Autoregressive Moving Average (ARMA",
+            "Autoregressive Integrated Moving Average (ARIMA) models",
+            "Seasonal ARIMA (SARIMA) models"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Multivariate Time series Modelling",
+            "Vector Autoregressive models",
+            "Vector ARMA Models",
+            "Fitting VAR and VARMA models. Dynamic Regression Models - Estimation",
+            "Regression with ARIMA errors using R packages (fable",
+            "forecasting",
+            "stochastic and deterministic trends"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

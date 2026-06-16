@@ -1,0 +1,76 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction - Uses of computer networks",
+            "Network hardware",
+            "Network software. Reference models - The OSI reference model",
+            "The TCP/IP reference model",
+            "Comparison of OSI and TCP/IP reference models. Physical Layer - Modes of communication",
+            "Physical topologies",
+            "Signal encoding",
+            "Repeaters and hub",
+            "Transmission media overview. Performance indicators - Bandwidth",
+            "Throughput",
+            "Latency",
+            "Queuing time",
+            "Bandwidth - Delay product"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Data link layer - Data link layer design issues",
+            "Error detection and correction",
+            "Sliding window protocols",
+            "High-Level Data Link Control(HDLC)protocol. Medium Access Control (MAC) sublayer - Channel allocation problem",
+            "Multiple access protocols",
+            "Ethernet",
+            "Wireless LANs - 802.11",
+            "Bridges & switches - Bridges from 802.x to 802.y",
+            "Repeaters",
+            "Hubs",
+            "Bridges",
+            "Switches",
+            "Routers and Gateways"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Network layer design issues. Routing algorithms - The Optimality Principle",
+            "Shortest path routing",
+            "Flooding",
+            "Distance Vector Routing",
+            "Link State Routing",
+            "Multicast routing",
+            "Routing for mobile hosts. Congestion control algorithms. Quality of Service (QoS) - requirements",
+            "Techniques for achieving good QoS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Transport service - Services provided to the upper layers",
+            "Transport service primitives. User Datagram Protocol (UDP). Transmission Control Protocol (TCP) - Overview of TCP",
+            "TCP segment header",
+            "Connection establishment &release",
+            "Connection management modeling",
+            "TCP retransmission policy",
+            "TCP congestion control. Application Layer - File Transfer Protocol (FTP",
+            "Domain Name System (DNS",
+            "Electronic mail",
+            "Multipurpose Internet Mail Extension (MIME",
+            "Simple Network Management Protocol (SNMP",
+            "World Wide Web(WWW) - Architectural overview"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

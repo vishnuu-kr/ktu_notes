@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Internet of Things\nDefinition, basic IoT block diagram, Characteristics of IoT devices –\npower, computational constraints.\nIoT Architecture – Middle ware based architecture and Service oriented\narchitecture\nM2M Communication – M2M system model, device domain, network\ndomain, application domain, M2M v/s IoT.\nTypical application areas of IoT – Smart homes, Agriculture and Smart city",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "IoT Hardware\nCommercially available sensors (Operating principles only) – Temperature\nand humidity sensor (DHT11/22), Gas Sensor (MQ series), Ultrasonic\ndistance sensor (HC-SR04).\nActuators (Working principles only)  – DC motors, Solenoid based valves,\nelectro-mechanical relay, solid state relay, stepper motors\nEmbedded boards– Overview of typical microcontroller and single board\ncomputers boards used in IoT applications – Arduino Uno, ESP32,\nRaspberry Pi (Overview only)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "IoT Communication\nIoT device gateways, Overview of IP addressing – IPv4, IPv6.  Network\naddress translation (overview only)\nIoT infrastructure protocols (only overview and key features required) –\nRFID, Zigbee, Bluetooth, BLE, NFC, DASH7, LoRa, 6LoWPAN, SigFox,\nNB-IoT, WiFi.\nOverview of Cellular Communication for IoT (LTE 4G only)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Application Protocols and Cloud Computing\n(fundamental concepts only required) Message Queue Telemetry Transport\n(MQTT) – architecture, Quality of Service levels. HTTP REST API,\nConstrained Application Protocol (CoAP) – architecture, request-response\nmodel. Typical use cases of MQTT, CoAP and REST API in IoT networks.\nCloud computing – overview of architecture.\ncloud models  - Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS),\nand Infrastructure-as-a-Service (IaaS).\nBasic overview of fog computing.",
+    "contact_hours": "9"
+  }
+]

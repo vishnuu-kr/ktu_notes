@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Programmable Logic Controllers – power supplies and isolators.\nProgram and Data organization in PLC – Input and Output modules, Discrete\nAC/DC, Analog Input/Output, Modular PLC.\nPLC programming Methods – IEC 61131-3 standard, Ladder programming.\nBasic PLC with Load and Store operations, PLC with Conditional\nInstructions.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "General PLC programming procedures, programming on-off inputs/ outputs,\nauxiliary commands and functions, PLC basic Functions, register basics,\ntimer functions, counter functions, Arithmetic functions, comparison\nfunctions, Skip and MCR functions, data move systems.\nPLC Advanced intermediate functions - Utilizing digital bits sequencer\nfunctions, Basic ladder diagram examples.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Distributed control system (DCS) - Introduction, DCS configuration with\nassociated accessories, analog control, direct digital control, control console\nequipment, control unit (Relay Rack mounted equipment), local control\nNote:  It is mandatory that a course project should be done by the students in a group of maximum 4\nmembers. The project can be in any of the following areas.\n1. A typical application level wired Logic control system using combinational and/or sequential\nlogic circuit. The entire logic control system (Both the system to be controlled and the\ndesigned logic controller) need to be implemented in hardware.\n2. A typical application level logic control system with PLC as the controller. The entire logic\ncontrol system (Both the system to be controlled and the PLC with ladder program) need to\nbe implemented in hardware.\nThe course project should have interim evaluations and final evaluation which also includes a\npresentation and demonstration.\nSteps involved in PBL:\n\nSelection of relevant topic.\n\nSelecting the system (mechanical/electrical/hydraulic/pneumatic) to be controlled.\n\nSelecting proper sensors.\n\nDesigning the logic controller with digital circuits or using a PLC with Ladder programming.\n\nHardware implementation of the logic control system by integrating the system, sensors and\nthe controller developed.\nSample project ideas:\n\nBottle filling system control\n\nSensor based Traffic light controller\n\nRobotic arm/manipulator control\n\nCoffee wending machine\nunits, attributes of DCS and DCS Flow sheet symbols.\nDCS System Integration I/O hardware stations, Set-point station control,\nEngineering interface and operator interfaces in DCS.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Computers in process control - Direct Digital Control (DDC). Centralized\ncontrol, Hierarchical control, Supervisory Control and Data Acquisition\nSystems (SCADA).\nStandard communication protocols for Instrumentation - Introduction,\nAdvantages and limitations of HART Protocol, FIELDBUS and PROFIBUS.\nIndustrial applications of PLC, SCADA, DCS and open systems for\nfollowing plants - Thermal power plant and Steel Plant.\n\nRenewable power generation management\n\nCoin counter\nUpon successful completion of the project, the student is expected to attain skills to design and make\nmedium complexity logic control systems using combinational and/or sequential logic circuits and\nalso using Programmable Logic Controllers (PLC) with ladder programming.\nEvaluation parameters:\n\nRelevance of the topic\n\nHardware  Implementation\n\nPresentation skills",
+    "contact_hours": "9"
+  }
+]

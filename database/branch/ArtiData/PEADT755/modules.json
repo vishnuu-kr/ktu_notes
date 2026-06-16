@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to time series forecasting: Forecasting, Types of forecasting –\nShort term, long term. Forecasting data and methods – Qualitative forecasting,\nQuantitative forecasting. Simple Forecasting methods- Average method,\nNaïve method, Drift Method. Steps in forecasting. Introduction to Time series\nforecasting – Time Series Characteristics – Types of Data – Time Series Data,\nCross-Section Data, Longitudinal Data. Understanding Time Series Data,\nTime series pattern- trend, seasonality, cyclicity, and irregularity. Detecting\nTrends using Hodrick-Prescott filter and Detrending time series. Detecting\nSeasonality and De-seasoning, Detecting Cyclic Variation. Error, Irregular\nComponent and residuals. Time Series Decomposition- Additive Models,\nMultiplicative models. Data wrangling and preparation for time series using\npython- Loading Data, Exploring Pandas and pandasql, Ascending and\nDescending Data order, Aggregation, Join, Data Resampling by week, month,\nquarter, year, Handling Missing Data.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Exponential Smoothing:Simple exponential smoothing, Methods with trend,\nmethods with seasonality, estimation and modelling, Forecasting with ETS\nmodels.\nRegression Extension Techniques for time series data:Types of stationary\nbehaviour in time series, Making data stationary, Augmented Dickey-Fuller\nTest, Using stationary data techniques – Differencing, Random walk, Trend\nDifferencing, Seasonal Differencing.\nTime series as a discrete parameter stochastic process, Auto- correlation\nFunction (ACF), Partial Autocorrelation Function (PACF) and cross\ncorrelations, Auto Correlation Plots – Trend and seasonality in ACF plots.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Autoregressive (AR), Moving Average (MA), Autoregressive Moving\nAverage (ARMA), Autoregressive Integrated Moving Average (ARIMA)\nmodels, Seasonal ARIMA (SARIMA) models.\nIntroduction to Multivariate Time series Modelling, Vector Autoregressive\nmodels, Vector ARMA Models, Fitting VAR and VARMA models.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Dynamic Regression Models – Estimation, Regression with ARIMA errors\nusing R packages (fable), forecasting, stochastic and deterministic trends.\nIntroduction to Hierarchical Time series and Grouped Time series with\nsuitable examples. Advanced Forecasting models- Prophet model, Neural\nNetwork models, Bootstrapping and Bagging.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,312 @@
+Course Code 
+PCBMT501 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None
+ 
+Course Type 
+PC 
+ 
+ 
+Course Objectives: 
+1. To enable the students to learn about widely used signal processing techniques, emphasizing 
+biomedical applications. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Signals and Signal Processing- 
+Characterization and Classification of Signals- Elementary Signals , Typical 
+signal Processing Operations,  Examples of Biomedical Signals , Analog-to-
+Digital Conversion (block diagram only) 
+Discrete-Time Signals –Typical Sequences and Sequence-Representation, 
+Discrete-Time Systems-Classification of Discrete-Time Systems 
+ 
+11  
+2 
+Discrete-Time Fourier Transform (DTFT)-Definition, Properties  
+Discrete Fourier Transform (DFT)-Definition, Properties 
+Fast Fourier Transform (FFT)-Decimation-in-Time, Decimation-in-
+Frequency. 
+z Transform- Properties of the z-Transform, Poles and Zeros, Inversion of 
+the z-Transform Using partial fraction expansion, Analysis of Linear Time-
+Invariant Systems in the z-Domain, Transfer function, Frequency response 
+ 
+11  
+3 
+LTI systems as frequency selective filters- Ideal filter characteristics, 
+Simple Digital Filter Design-Preliminary Considerations, Design of linear-
+phase FIR Filter using windows (Bartlett) and frequency sampling method 
+IIR Filter Design- Approximation of Derivatives, Impulse invariance, 
+Bilinear Transform Method, Analog filter approximation -Butterworth 
+approximation, Frequency Transformations (Analog and Digital domain) 
+11  
+
+ 
+4 
+Periodogram- Averaged periodogram, QRS detection in ECG, Analysis of 
+Heart Rate Variability using periodogram  
+Adaptive Filters- Principle of Wiener Filters, Principle of adaptive filtering, 
+Principle of adaptive noise cancellation, Cancellation of 50-Hz interference 
+in ECG 
+11  
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Demonstrate the fundamentals of discrete-time signals and systems. 
+K2 
+CO2 
+Apply domain transformation techniques in discrete-time signals. 
+K4 
+CO3 
+Design digital filters and apply the concepts in biomedical scenarios. 
+K4 
+CO4 
+Apply different power spectrum estimation and noise cancellation 
+techniques for biomedical applications.
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Biomedical signal processing: 
+principles and techniques 
+Reddy, D. C. 
+McGraw-Hill 
+2005 
+2 
+Digital Signal Processing 
+Principles, Algorithms and 
+Applications
+John G Proakis& 
+Dimitris G Manolakis 
+Prentice Hall of India 
+2005 
+3 
+Biomedical signal processing 
+Akay 
+Metin. 
+Academic press 
+2012 
+4 
+Biomedical digital signal 
+processing  
+Tompkins 
+ Willis J. 
+Editorial Prentice Hall 
+1993 
+5 
+"Digital signal processing 
+(Book, 598 p)." Research 
+supported by the Massachusetts 
+Institute of Technology, Bell 
+Telephone Laboratories, and 
+Guggenheim Foundation 
+Oppenheim  
+Alan V 
+ Ronald W. Schafer. 
+Englewood Cliffs, N. 
+J., Prentice-Hall, Inc 
+1975 
+6 
+Biomedical signal processing: 
+principles and techniques 
+Reddy, D. C. 
+McGraw-Hill 
+2005 
+7 
+Digital Signal Processing 
+Principles, Algorithms and 
+Applications 
+John G Proakis& 
+Dimitris G Manolakis 
+Prentice Hall of India 
+2005 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO2 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital signal processing: a 
+computer-based approach. Vol. 
+2 
+Mitra, Sanjit Kumar 
+YonghongKuo 
+New York: McGraw-
+Hill 
+2006 
+2 
+Signals and systems for 
+bioengineers: a MATLAB-
+based introduction 
+John Semmlow 
+Academic Press 
+2011 
+3 
+Biomedical Signal Analysis  
+Rangaraj M Rangayyan 
+John Wiley 
+2002 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/108/104/108104100/ 
+2 
+https://nptel.ac.in/courses/117102060 
+3 
+https://nptel.ac.in/courses/117102060 
+
+ 
+SEMESTER S 5 
+THERAPEUTIC EQUIPMENTS

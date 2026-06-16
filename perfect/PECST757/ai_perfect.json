@@ -1,0 +1,43 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Stored-Program Computer Architecture - General-Purpose Cache-Based Microprocessor Architecture - Performance Metrics and Benchmarks - Moore's Law - Pipelining - Superscalarity - SIMD - Memory Hierarchies - Cache",
+            "Cache Mapping",
+            "Prefetch",
+            "Multicore Processors - Multithreaded Processors - Vector Processors - Design Principles - Maximum Performance Estimates - Programming for Vector Architectures"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Parallel Computers - Taxonomy of Parallel Computing Paradigms - Shared-Memory Computers - Cache Coherence - UMA",
+            "ccNUMA",
+            "Distributed-Memory Computers - Hierarchical (Hybrid) Systems - Networks - Basic Performance Characteristics of Networks",
+            "Buses",
+            "Switched and Fat-Tree Networks - Mesh Networks - Hybrids"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Shared-Memory Parallel Programming with OpenMP - Short Introduction to OpenMP - Parallel Execution - Data Scoping - OpenMP Worksharing for Loops - Synchronization",
+            "Reductions",
+            "Loop Scheduling",
+            "Tasking",
+            "Miscellaneous",
+            "Case Study: OpenMP-Parallel Jacobi Algorithm"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Distributed-Memory Parallel Programming with MPI - Message Passing - A Short Introduction to MPI",
+            "A Simple Example",
+            "Messages and Point-to-Point Communication",
+            "Collective Communication",
+            "Nonblocking Point-to-Point Communication",
+            "Virtual Topologies - Example: MPI Parallelization of a Jacobi Solver - MPI Implementation - Performance Properties"
+        ]
+    }
+]

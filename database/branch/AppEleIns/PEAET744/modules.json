@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Legged locomotion - Leg configurations and stability, Examples of legged\nrobot locomotion.\nWheeled locomotion - conventional wheels, special wheels, drive types -\nDifferential drive, Tricycle, Omnidirectional, Synchro drive, Ackerman\nsteering, Skid steering.\nCase study - Basic simulation of a turtle bot in ROS, Building a Visual\nRobot Model with URDF from Scratch, Building a Movable Robot Model\nwith URDF.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Sensors for Mobile Robots - Sensor classification, characterizing sensor\nperformance, Wheel/motor sensors, Heading sensors, Ground-based\nbeacons, Active ranging, Motion/speed sensors, Vision-based sensors.\nRepresenting\nUncertainty\nin\nsensor\nmeasurements\n-\nStatistical\nrepresentation, Error propagation - combining uncertain measurements.\nCase study -  Adding sensors to the robot models in ROS",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Robot Localization, Error propagation model, Probabilistic map-based\nlocalization - Kalman method, Other Examples of Localization Systems,\nLandmark-based navigation, Positioning beacon systems.\nPath planning of mobile robots - Road map, Cell decomposition, Potential\nfield - Obstacle avoidance (Bug algorithm), Vector field histogram, Dynamic\nwindow approach\nCase study - Familiarization with 2D navigation stack, Basic ROS\nNavigation, Start robots in simulation",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Kinematic model of unicycle robot and differential drive robot, and car like\nmobile robot or steered robot.\nControl of mobile robots - Control of differential drive robot and steered\nrobot based on its kinematic model.\nCase study (Overview only) - design and implementation of a differential\ndrive robot capable of moving to a point, following a line and following a\npath.\nCase study - Control of a differential drive robot in ROS to move to a goal\nlocation",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,345 @@
+Course Code 
+PEIET864 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To enable students to familiarize the fundamental principles of natural language 
+processing (NLP) and implement NLP techniques in Python. 
+2. To equip students to construct and train machine learning models to address and 
+evaluate common NLP problems using standard metrics. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to NLP: The study of language, evaluating language 
+understanding systems, different levels of language analysis, 
+representations and understanding, organization of natural language 
+understanding systems, linguistic background - An outline of english 
+syntax, challenges in NLP.  
+Machine learning, deep learning, and NLP: An overview, 
+approaches to NLP, heuristics-based NLP, machine learning & deep 
+learning for NLP, NLP pipeline, applications of NLP - machine 
+translation, speech recognition, image captioning, spam detection, text 
+prediction. 
+9 
+2 
+Regular expression and  text processing: Importance, properties, 
+working and python package, common regex function, meta 
+characters- big brackets, cap, backslash, squared brackets, special 
+sequences, asterisk, plus, and question mark, curly brackets 
+Understanding pattern objects: Match method Vs search method, 
+9 
+
+ 
+ 
+finditer method, logical Or, beginning and end patterns, parenthesis 
+string modification, sentiment classification, language independent 
+tokenization, string matching and spelling correction. 
+3 
+Vector models and text preprocessing: Vectors, bag of words, 
+countvectorizer, 
+tokenization, 
+stopwords, 
+stemming, 
+and 
+lemmatization, Countvectorizer, vector similarity. TF-IDF, word-to-
+index mapping, building TF-IDF, neural word embeddings. Vector 
+models, text preprocessing summary, steps of NLP analysis.  
+Language modeling: Importance, types of language modeling, the 
+curse of dimensionality, language model Markov assumption and N-
+Grams, language model implementation -setup, Ngrams function, 
+update counts function, probability model function, reading corpus, 
+language model implementation sampling text, Markov models, article 
+spinning, cipher decryption with language modeling and genetic 
+algorithm.  
+9 
+4 
+NLP using machine learning: Spam detection - problem, Naive 
+Bayes theorem, intuition, spam detection using Naïve Bayes, class 
+imbalance, ROC, AUC, AND F1 SCORE, implementing spam 
+detection in python, sentiment analysis, text summarization, topic 
+modeling, latent semantic modeling (Indexing). 
+Deep learning: Word embeddings, nonlinear neural networks, Neuron 
+- introduction, fitting a line, classification code preparation, text 
+classification in tensorflow. Feed forward 
+neural 
+networks, 
+convolution neural networks, recurrent neural networks. 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+
+ 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 = 24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course, students should be able to:  
+Course Outcomes 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Utilize regular expressions and Python libraries such as NLTK, 
+spaCy, and Pandas for text processing tasks. 
+K3 
+CO2 
+Apply suitable machine learning models to solve various NLP 
+tasks and compare them using appropriate performance metrics.  
+K3 
+CO3 
+Apply advanced NLP techniques to perform complex tasks like 
+text summarization, topic modeling, and cipher decryption and 
+compare their performance. 
+K3 
+CO4 
+Develop and implement deep learning architectures for advanced 
+NLP tasks. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12 
+CO1 
+2 
+2 
+2 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO2 
+2 
+2 
+2 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO3 
+2 
+2 
+3 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO4 
+2 
+2 
+3 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Natural Language Processing 
+with Python 
+Steven Bird, Ewan 
+Klein, and Edward 
+Loper
+O'Reilly Media 
+1st Edition, 
+2009 
+2 
+Foundations of Statistical 
+Natural Language Processing
+Christopher D. 
+Manning and Hinrich 
+Schütze
+The MIT Press 
+1st Edition, 
+1999 
+3 
+Deep Learning for Natural 
+Language Processing: 
+Creating Neural Networks 
+with Python 
+Palash Goyal, Sumit 
+Pandey, and Karan Jain
+Apress 
+1st Edition, 
+2018 
+4 
+Practical Natural Language 
+Processing: A 
+Comprehensive Guide to 
+Building Real-World NLP 
+Systems 
+Sowmya Vajjala, 
+Bodhisattwa 
+Majumder, Anuj 
+Gupta, and Harshit 
+Surana 
+O'Reilly Media 
+1st Edition, 
+2020 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Natural Language Processing 
+with Transformers: Building 
+Language Applications with 
+Hugging Face 
+Lewis Tunstall, 
+Leandro von Werra, 
+Thomas Wolf 
+O'Reilly Media 
+1st Edition, 
+2022 
+2 
+Neural Network Methods for 
+Natural Language Processing
+Yoav Goldberg 
+Springer 
+1st Edition, 
+2017
+3 
+Taming Text: How to Find, 
+Organize, and Manipulate It 
+Grant S. Ingersoll, 
+Thomas S. Morton,  
+Andrew L. Farris
+Manning 
+Publications 
+1st Edition, 
+2013 
+ 
+4 
+Speech and Language 
+Processing 
+Daniel Jurafsky, James 
+H. Martin 
+Pearson 
+3rd 
+Edition, 
+2021
+5 
+Natural Language Processing 
+Recipes Unlocking Text  
+Data with Machine Learning 
+and Deep Learning using 
+Python 
+Akshay Kulkarni, 
+Adarsha Shivananda 
+Apress 
+2nd 
+Edition, 
+2021 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Link ID 
+https://archive.nptel.ac.in/courses/106/101/106101007/ 
+ 
+
+ 
+ 
+SEMESTER S8 
+DATA ANALYTICS AND MACHINE LEARNING WITH PYTHON

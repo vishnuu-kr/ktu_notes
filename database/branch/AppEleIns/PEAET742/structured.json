@@ -1,0 +1,72 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Conventional Vehicles - Basics of vehicle performance",
+      "Vehicle power source characterization",
+      "Transmission characteristics. Introduction to Electric Vehicles - History of electric vehicles",
+      "Classification of electric vehicles. Overview of EV challenges. Overview of EV technologies-motor drive technology",
+      "energy source technology",
+      "battery charging technology",
+      "vehicle-to-grid technology. Vehicle Dynamics & Load Forces - Mathematical models to describe vehicle performance",
+      "vehicle load forces: aerodynamic drag",
+      "rolling resistance",
+      "grading resistance",
+      "vehicle acceleration",
+      "Calculation of motor power from traction torque",
+      "Simple Numerical problems. Electric Drive-trains - Basic concept of electric traction",
+      "electric drive-train topologies (Basics only",
+      "Power flow control in electric drive-train topologies",
+      "Fuel efficiency analysis.(Derivations not required"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "DC Drives - Motoring using a PM DC Machine - DC motor electric drive using DC-DC converter - Generating/Braking using a PM DC Machine. PMSM Drives - Review of PMSM motor basics - Independent control of orthogonal flux and torque (concept only)-Field Oriented Control (FOC) - Sensor based and sensorless control (block diagram only). Sizing the drive system - Matching the electric machine and the Internal Combustion Engine (ICE",
+      "Sizing the propulsion motor",
+      "Sizing the power electronics-Switch technology selection",
+      "Ripple capacitor design",
+      "Switching frequency and PWM"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Battery based energy storage systems",
+      "Types of battery-battery parameters-units of battery energy storage",
+      "capacity rate",
+      "cell voltage -specific energy",
+      "cycle life",
+      "self-discharge. Battery management system. Other storage topologies",
+      "Fuel Cell based energy storage systems-Supercapacitors",
+      "Hybridization of different energy storage devices. Overview of Electric Vehicle Battery Chargers",
+      "Types of chargers-On-board chargers, Off- board chargers, Wireless charger (Concept only). Electric Vehicle Supply Equipment (EVSE",
+      "Grid to EVSE to On-board chargers to battery pack power flow block schematic diagrams",
+      "V2G concept. Introduction to AC and DC charging stations (Basics and Block diagram only). Types of Connectors",
+      "CHAdeMO, CCS Type1 and 2, GB/T"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Introduction- Solar Photovoltaic - Solar Cell fundamentals",
+      "characteristics",
+      "cell efficiency",
+      "applications",
+      "Wind Energy - Introduction - Wind Turbine Types (HAWT and VAWT) - Wind power curve-Betz’s Law-Power from a wind turbine",
+      "Tidal Energy - Principle of Tidal Power",
+      "Components of Tidal Power Plant (TPP",
+      "Classification of Tidal Power Plants",
+      "Advantages and Limitations of TPP"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

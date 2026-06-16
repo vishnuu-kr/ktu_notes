@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Digital system design options and tradeoffs, Design\nmethodology and technology overview.\nHigh Level System Architecture and Specification: Behavioral\nmodelling and simulation, Hardware description languages (emphasis on\nVerilog), combinational and sequential design, state machine design, test\nbenches.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Programmable logic Devices: ROM, PLA, PAL, CPLD, FPGA Features,\nLimitations, Architectures and Programming. Implementation of MSI\ncircuits using Programmable logic Devices.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "FPGA architecture: FPGA Architectural options, granularity of function\nand wiring resources, coarse V/s fine grained, vendor specific issues\n(emphasis on Xilinx and Altera), Logic block architecture: FPGA logic\ncells, timing models, power dissipation I/O block architecture: Input and\nOutput cell characteristics, clock input, Timing, Power dissipation.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Placement and Routing: Programmable interconnect - Partitioning and\nPlacement, Routing resources, delays; Applications -Embedded system\ndesign using FPGAs, DSP using FPGAs.\nCommercial FPGAs: Xilinx, Altera, Actel (Different series description\nonly).",
+    "contact_hours": "9"
+  }
+]

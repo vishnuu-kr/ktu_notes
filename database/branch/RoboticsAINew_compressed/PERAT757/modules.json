@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Real-Time Systems\nOverview of Real-Time Systems: Definition and types of real-time systems,\nHard vs. soft real-time systems.Basic Concepts: Real-time tasks and their\ncharacteristics, Task scheduling, Timing constraints and requirements.\nRTOS Architectures: Monolithic kernels vs. microkernels. RTOS\nexamples:\ncommercial\nvs\nOpen\nRTOS\nand\ntheir\ncomparison,\nexamples.Inter-Process Communication (IPC): Shared memory, Message\npassing.\nRTOS Environment Setup:  Installation and setup of an RTOS on a\nmicrocontroller (e.g., ARM Cortex-M), Task Creation and Management:\nWriting simple tasks, Task states and transitions, Scheduling and Context\nSwitching:Implementing\nbasic\nscheduling\nalgorithms,Demonstrating\ncontext switching with example tasks",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Real-Time Scheduling and Synchronization\nReal-Time Scheduling Algorithms: Fixed-priority scheduling (Rate-\nMonotonic, Deadline-Monotonic), Dynamic priority scheduling (Earliest\nDeadline First), Priority based preemption, Round Robin, Task\nSynchronization: Mutual exclusion, Priority inversion and inheritance Inter-\nTask Communication: Semaphores, Mutexes, Event flags\nImplementing Scheduling Algorithms: Practical implementation of\nscheduling, Synchronization Mechanisms: Practical implementation of\nsemaphores and mutexes in task synchronization, Demonstrating priority\ninversion and its mitigation: Real-Time Task Communication:\nImplementing inter-task communication using queues and mailboxes",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Real-Time System Design and Analysis\nSystem Design Principles: Modular design, Time-triggered vs. event-\ntriggered systems, Worst-Case Execution Time (WCET) Analysis:\nTechniques for WCET estimation, Timing analysis, Reliability and Fault\nTolerance: Redundancy, Error detection and recovery.\nDesigning a Real-Time System: Case study: Designing a real-time control\nsystem, WCET Analysis Tools: Using tools for WCET analysis and timing\nverification, Implementing Fault Tolerance: Practical implementation of\nredundancy and error recovery mechanisms",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Real-Time Operating System Services and Applications\nReal-Time Operating System Services: Memory management, I/O\nmanagement. Real-Time Middleware: Middleware services for real-time\nsystems, Case Studies and Applications: Automotive systems, Aerospace\nand defense, Medical devices\nMemory Management in RTOS: Implementing dynamic memory\nallocation,\nReal-Time\nMiddleware\nImplementation:\nDeveloping\nmiddleware components for a real-time application Case Study\nImplementation: Implementing a real-time system for a specific application\n(e.g., real-time data acquisition)",
+    "contact_hours": "9"
+  }
+]

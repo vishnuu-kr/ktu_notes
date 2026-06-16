@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Operational Amplifiers (Op-Amps)",
+            "Op-amp Characteristics and Ideal Op-amp",
+            "Op-amp Configurations: Inverting, Non-inverting, Differential Amplifiers",
+            "Op-amp Parameters: Gain, Bandwidth, Input/Output Impedance",
+            "Effect of Feedback on Op-amp Performance",
+            "Op-amp Applications: Amplifiers, Comparators, Integrators, Differentiators",
+            "V-I and I-V Converters",
+            "Comparator - Regenerative Comparator",
+            "Zero Crossing Detector",
+            "Window Detector",
+            "Sample and Hold Circuit",
+            "Rectifiers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Active Filters and Signal Conditioning",
+            "Low-pass, High-pass, Band-pass, and Band-stop Filters using Op-amps",
+            "Active Filter Design Considerations",
+            "Signal Conditioning Circuits for Sensor Interfacing using Op-amps",
+            "A-D and D-A Converters using Op-amps",
+            "D/A Converter - Specifications - Weighted Resistor Type, R-2R Ladder Type",
+            "A/D Converters - Specifications - Flash Type, Successive Approximation Type, Dual Slope Type"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Fundamentals of Digital Electronics",
+            "Review of Boolean Algebra",
+            "Logic Gates",
+            "BCD, Gray Code, Excess 3 Code",
+            "De-Morgan's Theorems",
+            "Principle of Duality",
+            "Minimization of Boolean Expressions",
+            "Sum of Products (SOP), Product of Sum (POS)",
+            "Canonical Forms",
+            "Karnaugh Map Minimization",
+            "Simplification of Logic Functions through K-maps and Implementation using Logic Gates (up to 4 variables)",
+            "Combinational Logic Circuits",
+            "Combinatorial Logic Systems - Comparators, Multiplexers, Demultiplexers, Encoder, Decoder",
+            "Half and Full Adders",
+            "Subtractors",
+            "Serial and Parallel Adders",
+            "BCD Adder"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "SR, D, JK, and T Flip-flops",
+            "Design of Sequential Circuits - Counters - Ring Counter and Johnson's Counter",
+            "Shift Registers - SIPO, SISO, PISO, PIPO",
+            "Asynchronous Sequential Circuits - Analysis of State Machines using D Flip-flops and JK Flip-flops",
+            "Design of State Machines - State Table, State Assignment, Transition/Excitation Table"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

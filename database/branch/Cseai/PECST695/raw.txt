@@ -1,0 +1,521 @@
+Course Code 
+PECST695 
+CIE Marks 
+40 
+Teaching 
+Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To equip students with a thorough understanding of mobile application development 
+fundamentals, including platforms (iOS and Android) and architectures (MVC, MVVM, 
+BLoC). 
+2. To instill proficiency in Flutter and Dart: Enable students to use Flutter effectively for cross-
+platform development and the Dart programming language to create responsive, user-friendly 
+mobile applications. 
+3. To prepare students for real-world scenarios by teaching app security, testing, CI/CD, and 
+deployment processes, culminating in the development and deployment of a complete mobile 
+application project. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Fundamentals of Mobile Application Development: 
+Introduction to Mobile Application Development, Overview of Mobile 
+Platforms: iOS and Android, Introduction to Flutter: History, Features, and 
+Benefits, Setting Up the Flutter Development Environment, Mobile App 
+Architectures (MVC, MVVM, and BLoC), Basics of Dart Programming 
+Language, Introduction to Git and Version Control 
+Assignments/Projects: 
+Set up the Flutter environment and create a simple "Hello World" 
+9 
+
+ 
+ 
+application. (Use Git: cloning, committing, pushing, and pulling) 
+Milestone 1: Develop a basic app with a simple UI and basic functionality. 
+2 
+User Interface Design and User Experience: 
+Principles of Mobile UI/UX Design, Designing Responsive UIs with 
+Flutter, Using Flutter Widgets: StatelessWidget and StatefulWidget, 
+Layouts in Flutter: Container, Column, Row, Stack, Navigation and Routing 
+in Flutter, Customizing UI with Themes and Styles, Introduction to Material 
+Design and Cupertino Widgets 
+Assignments/Projects: 
+Design and implement a user interface using Flutter widgets. 
+Milestone 2: Enhance the project from Module 1 with a multi-screen UI, 
+navigation, and customized themes. 
+ 
+9 
+3 
+Advanced Flutter Development: 
+State Management in Flutter: Provider, Riverpod, and BLoC 
+Networking in Flutter: HTTP Requests, JSON Parsing, RESTful APIs 
+Data Persistence: SQLite, SharedPreferences, Hive 
+Asynchronous Programming with Dart: Futures, async/await, and Streams 
+Integrating Device Features: Camera, GPS, Sensors 
+Working with Firebase: Authentication, Firestore, Cloud Functions 
+Assignments/Projects: 
+Develop an app with state management and data persistence. 
+Milestone 3: Enhance the project with state management, data persistence, 
+and integration with a RESTful API or Firebase. 
+9 
+4 
+Industry Practices and App Deployment: 
+Advanced UI Components and Animations, App Security Best Practices, 
+Testing 
+and 
+Debugging 
+Flutter 
+Applications, 
+Continuous 
+Integration/Continuous Deployment (CI/CD) with Flutter, Publishing Apps 
+to Google Play Store and Apple App Store, Industry Trends and Future of 
+Mobile Development with Flutter 
+Assignments/Projects: 
+Add advanced UI components and animations to the project, Implement 
+9 
+
+ 
+ 
+security measures in the Flutter application, Conduct thorough testing and 
+debugging of the developed app. 
+Milestone 4: Complete the project, integrating all features and preparing it 
+for deployment. 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation(Evaluate and Analyse): 20 marks 
+ 
+Analyze 
+Key Actions: Differentiate, Organize, Attribute 
+ 
+Metrics and Examples: 
+1. Code Review and Refactoring: 
+a. Task: Students are given a piece of code to analyze and refactor for better 
+performance or readability. 
+b. Metric: Ability to identify inefficient or redundant code and provide optimized 
+solutions. 
+Example: Analyzing a complex UI widget tree and reorganizing it for better performance and 
+maintainability. 
+ 
+2. Design Pattern Identification: 
+a. Task: Students are asked to identify and apply appropriate design patterns for given 
+scenarios. 
+b. Metric: Correct identification and application of design patterns like Singleton, 
+Factory, or BLoC in their projects. 
+Example: Analyzing an app’s state management needs and choosing between Provider and 
+BLoC patterns. 
+ 
+ 
+
+ 
+ 
+3. Bug Diagnosis: 
+a. Task: Students are given a buggy piece of code to analyze and debug. 
+b. Metric: Ability to use debugging tools and techniques to locate and fix bugs. 
+Example: Analyzing asynchronous code to identify and resolve race conditions or memory 
+leaks. 
+ 
+Evaluate 
+Key Actions: Check, Critique, Judge 
+ 
+Metrics and Examples: 
+1. Code Quality Assessment:  
+a. Task: Students review each other’s code and provide constructive feedback. 
+b. Metric: Ability to critically evaluate code quality based on readability, efficiency, and 
+adherence to best practices. 
+Example: Peer review sessions where students critique the structure and efficiency of each 
+other’s Flutter code. 
+ 
+2. UI/UX Design Evaluation: 
+a. Task: Students evaluate the user interface and user experience of their peers' 
+applications. 
+b. Metric: Ability to judge UI/UX designs based on usability, accessibility, and 
+aesthetics. 
+Example: Conducting usability testing sessions and providing feedback on navigation flow, 
+design consistency, and user engagement. 
+ 
+3. Project Presentation and Defense: 
+a. Task: Students present their projects and justify their design and implementation 
+choices 
+b. Metric: Ability to articulate design decisions, defend architectural choices, and 
+respond to critical questions. 
+Example: End-of-module presentations where students explain their choice of state 
+management, navigation strategy, and performance optimizations. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Integration into the Syllabus - Example Use Cases 
+Basic Mobile Application Development 
+● Analyze: Evaluate different mobile app architectures (MVC, MVVM, BLoC) and choose the 
+best fit for a given project scenario. 
+● Evaluate: Critically assess the setup and configuration of the Flutter development 
+environment for potential improvements. 
+ 
+User Interface Design and User Experience 
+● Analyze: Analyze the responsiveness and usability of designed UIs, identifying potential 
+bottlenecks. 
+● Evaluate: Critique the effectiveness of navigation and routing within the app. 
+ 
+Advanced Flutter Development 
+● Analyze: Break down the integration process of advanced features (state management, 
+networking) and evaluate their impact on app performance. 
+● Evaluate: Judge the robustness of data persistence solutions and asynchronous programming 
+implementations. 
+Industry Practices and App Deployment 
+● Analyze: Analyze the app’s security measures and their effectiveness in protecting user data. 
+● Evaluate: Evaluate the completeness and readiness of the app for deployment based on 
+industry standards and best practices. 
+ 
+Example Evaluation Rubrics 
+Analyze: 
+Criterion 
+ 
+ 
+Excellent (4) 
+ 
+Good (3) 
+ 
+Satisfactory (2) 
+Needs 
+Improvement (1)
+ 
+Identification of 
+Code 
+Inefficiencies 
+Identifies all 
+inefficiencies and 
+provides optimal 
+solutions 
+Identifies most 
+inefficiencies and 
+provides good 
+solutions 
+Identifies some 
+inefficiencies 
+with basic 
+solutions 
+Struggles to 
+identify 
+inefficiencies or 
+provide solutions 
+Application of 
+Design Patterns 
+ 
+ 
+Correctly applies 
+design patterns 
+with a clear 
+rationale 
+Applies design 
+patterns with 
+minor issues 
+Applies design 
+patterns with 
+significant issues 
+Incorrectly 
+applies or fails to 
+apply design 
+patterns 
+
+ 
+ 
+Evaluate: 
+Criterion 
+ 
+ 
+Excellent (4) 
+ 
+Good (3) 
+ 
+Satisfactory (2) 
+Needs 
+Improvement (1)
+ 
+Code Quality 
+Assessment 
+Provides 
+thorough, 
+insightful 
+feedback with 
+constructive 
+suggestions 
+Provides good 
+feedback with 
+some constructive 
+suggestions 
+Provides basic 
+feedback with 
+limited 
+constructive 
+suggestions 
+Provides minimal 
+or unhelpful 
+feedback 
+UI/UX Design 
+Evaluation 
+ 
+ 
+Provides detailed 
+critique with 
+actionable 
+insights 
+Provides good 
+critique with 
+some actionable 
+insights 
+Provides basic 
+critique with 
+limited actionable 
+insights 
+Provides minimal 
+or no critique 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose 
+any one full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+(8x3 =24marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each question 
+can have a maximum of 3 sub divisions. Each 
+question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain mobile application development using Flutter and different 
+mobile platforms. 
+K2 
+CO2 
+Apply principles of effective mobile UI/UX design, Create responsive 
+user interfaces using Flutter features. 
+K3 
+CO3 
+Experiment effectively with state in Flutter application, networking 
+and data persistence. 
+K4 
+CO4 
+Apply security best practices in mobile app development, test, and 
+debug Flutter applications effectively. 
+K5 
+CO5 
+Set up CI/CD pipelines for Flutter projects and deploy mobile apps to 
+Google Play Store and Apple App Store. 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Flutter Cookbook 
+Simone Alessandria 
+Packt 
+2/e, 2023 
+2 
+Flutter for Beginners 
+Alessandro Biessek 
+Packt 
+1/e, 2019 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Flutter in Action 
+Eric Windmill 
+Manning 
+1/e, 2019 
+2 
+Flutter and Dart: Up and Running
+Deepti Chopra, Roopal 
+Khurana 
+BPB 
+1/e, 2023 
+3 
+Managing State in Flutter 
+Pragmatically 
+Waleed Arshad 
+Packt 
+1/e, 2021 
+4 
+Ultimate Flutter Handbook 
+Lahiru Rajeendra 
+Mahagamage 
+Orange House 
+1/e, 2023 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://www.youtube.com/watch?v=VPvVD8t02U8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S6 
+INTRODUCTION TO DEEP LEARNING

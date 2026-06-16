@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Elements of Visual Perception",
+            "Image Sensing and Acquisition",
+            "A Simple Image Formation Model",
+            "Image Sampling and Quantization",
+            "Basic Relationship Between Pixels",
+            "Distance Measures"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Intensity Transformation Functions - Image Negatives",
+            "Log Transformations",
+            "Power Law Transformations",
+            "Piecewise-Linear Transformation Functions",
+            "Contrast Stretching",
+            "Intensity Level Slicing",
+            "Bit Plane Slicing",
+            "Fundamentals of Spatial Filtering - Mechanics of Spatial Filtering",
+            "Vector Representation of Linear Filtering",
+            "Generating Spatial Filter Masks",
+            "Smoothing Linear Filters and Nonlinear Filters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Reflection of a Set and Translation of a Set",
+            "Erosion and Dilation",
+            "Duality",
+            "Opening and Closing",
+            "Image Segmentation",
+            "Classification",
+            "Region Approach to Image Segmentation",
+            "Clustering Techniques - Hierarchical",
+            "K-Means",
+            "Thresholding - Global Thresholding",
+            "Adaptive Thresholding"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Camera and Epipolar Geometry",
+            "Homography",
+            "Rectification",
+            "RANSAC",
+            "3-D Reconstruction Framework",
+            "Background Subtraction and Modelling"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

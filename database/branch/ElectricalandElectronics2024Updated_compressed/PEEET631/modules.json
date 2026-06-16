@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Need for protective systems, Zones of protection, Current\ntransformers and voltage transformers (Electromagnetic and Capacitive\nvoltage transformers), Principle of operation of magneto optic CT/ PT,\neffect on relaying philosophy.\nRelays: Over current relays - time-current characteristics of over current\nrelays: definite time over current relays, inverse Definite Minimum time -\ndirectional over current relays, current setting and time setting - Numerical\nProblems - Differential relays: Operating and restraining characteristics,\ntypes of differential relays, Distance relays: impedance relays, reactance\nrelays, mho relays (basic principles and characteristics only)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Protection of Transmission Lines: Schemes of distance protection,\nDifferential line protection, Phase comparison line protection.\nProtection of Bus-bar, Transformer and Generator & Motor: Types of\nfaults, differential protection: High impedance and low impedance\ndifferential protection schemes, harmonic restraint relay, Restricted Earth\nFault Protection, frame leakage protection, stator and rotor protection\nagainst various types of faults.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Digital (Numerical) Relays:  Basic Components of numerical Relays with\nblock diagram, Processing Unit, Human machine Interface, Principle of\noperation, Comparison of numerical relays with electromechanical and\nstatic relays, Advantages of numerical relays - communication in protective\nrelays (IEC 61850), Information handling with substation automation\nsystem (SAS) Signal Conditioning Subsystems: Surge Protection Circuits,\nAnti-aliasing filter, Conversion Subsystem, The Sampling Theorem,\naliasing, Sample and Hold Circuit, Concept of analog to digital and digital\nto analog conversion, Idea of sliding window concept, Fourier, Discrete\nand fast Fourier transforms",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Signal processing techniques: Sinusoidal wave based algorithms, Fourier\nAnalysis based algorithms (half cycle and full cycle), Least squares based\nalgorithm. Digital filters – Fundamentals of Infinite Impulse Response\nFilters, Finite Impulse Response filters, Filters with sine and cosine\nwindows.\nWide Area Protection and Measurement: Phasor Measurement Units,\nconcept of synchronized sampling, Definition of wide-area protection,\nArchitectures of wide-area protection, concept of Adaptive relaying,\nadvantages of adaptive relaying and its application, Adaptive Differential\nprotective scheme.",
+    "contact_hours": "9"
+  }
+]

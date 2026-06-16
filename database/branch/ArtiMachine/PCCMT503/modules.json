@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Review of Neural Networks:-\nBiological Neuron vs.  Artificial Neuron, Activation Functions (Step, Sign,\nSigmoid, Softmax, tanh, ReLU, LreLU, EReLU functions), Single Layer\nPerceptron, Linear Separability, XOR Problem, Multilayer Perceptron, Back-\npropagation algorithm.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Convolutional Neural Networks (CNN):-\nCNN-Architectural Overview, Motivation, Layers, Filters, Parameter sharing,\nRegularization, Convolution and Pooling as infinitely strong prior, Variants of\nConvolution Operation, Efficient Convolution Computation Methods, Popular\nCNN Architectures (ResNet, Alexnet,VGGNet, Inception)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Recurrent Neural Networks (RNN):-\nModel of a typical RNN, Computation Graph, Bidirectional RNNs, Encoder –\ndecoder sequence to sequence architectures, BPTT for training RNN, Deep\nRecurrent Networks, Recursive Recurrent Networks, Long Short Term\nMemory Networks (LSTM), Gated Recurrent Networks (GRU)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Unsupervised Deep Learning Models:-\nAutoEncoders(AE), Types of AutoEncoders (Undercomplete AE, Sparse AE,\nDeep AE, Contractive AE, Denoising AE, Convolutional AE, Variational\nAE), Boltzmann machines,  Types of Boltzmann machines (Restricted\nBoltzmann Machines, Deep Belief Networks, Deep Boltzmann Machines)\nApplications of Deep Learning:-\nSpeech Processing, Computer Vision, Natural Language Processing, Word\nEmbedding Techniques (TF-IDF, Word2Vec, GloVe)",
+    "contact_hours": "11"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Android: Android Architecture, Setting up Development\nEnvironment, Basic Building blocks – Activities, Services, Broadcast\nReceivers & Content providers, UI Components–Views & notifications,\nComponents for communication–Intents & Intent Filters",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Application Structure:-Android Manifest.xml, uses-permission& uses-\nsdk, Layouts & Drawable Resources, First sample Application, Emulator-\nAndroid Virtual Device, Basic UI design, Styles &Themes\nAndroid User Interface:-Measurements User Interface (UI) Components –\nEditable and non-editable Text Views, Buttons, Radio and Toggle Buttons,\nCheckboxes, Spinners, Dialog and pickers",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Event Handling:–Handling clicks or changes of various UI components\nFragments :– Creating fragments, Lifecycle of fragments, Fragment states\nIntent :– Using intents to launch Activities, explicitly starting new Activity,\nImplicit Intents, Passing data to Intents, Getting results from Activities\nBroadcast Receivers:- Types of broadcast receivers, creation of broadcast\nreceivers",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Database:- Introduction to SQLite database, creating and opening a\ndatabase, creating tables, inserting retrieving and deleting data, Registering\nContent Providers, Using content Providers (insert, delete, retrieve and\nupdate)\nIoT Communication Protocols:-Overview of MQTT, HTTP, and CoAP,\nImplementing MQTT in Mobile Applications, Data Transmission\nTechniques.\nInterfacing Mobile Apps with IoT Devices:- Connecting Mobile Apps to\nSensors and Actuators, Using Bluetooth, Wi-Fi, and NFC for IoT\nCommunication, Practical Lab: Developing a Simple IoT Mobile App\nSuggestion on Project Topics:\n1. Android app for patient health monitoring\n2. Android app for smart farming\n3.  Android app for home automation\n4. College Alert Application\n5. Garbage Management System for Smart City",
+    "contact_hours": "13"
+  }
+]

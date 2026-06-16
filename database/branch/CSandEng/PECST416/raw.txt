@@ -1,0 +1,321 @@
+Course Code 
+PECST416 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To teach the concept of a Discrete Time (DT) signal 
+2. To enable the learner to analyze the spectral information of any DT signal and its transformed 
+version. 
+3. To provide the learner the concepts of a DT system, how it behaves to an arbitrary input, and 
+also to analyze the behaviour of a given DT system based on z-transform 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+1D Signals - A general introduction to real time signals - CT and DT signals, 
+Sinusoids, Spectrum representation, Sampling and Aliasing (Concept only),  
+Analog frequency and Digital frequency. 
+Elementary sequences- Real Sinusoidal Sequences, Complex Exponential 
+Sequences. - Unit impulse, step and ramp sequences, Representation of 
+discrete time signals- (Graphical representation, Functional representation, 
+Sequence representation)           
+Properties of DT Signals - Even and Odd, Periodic and non periodic signal, 
+Energy and Power signals. Periodicity and Symmetry property of DT signals, 
+support of sequences, Bounded Sequences. 
+Operations on Signals - Time shifting (Translation), Time Reversal 
+(Reflection), Time scaling - Upsampling and downsampling 
+ 
+DTFS - Determining the Fourier-Series Representation of a Sequence, 
+Properties of Discrete-Time Fourier Series - Linearity, Translation (Time 
+Shifting) , Modulation (Frequency Shifting), Reflection (Time Reversal), 
+Conjugation, Duality, 
+Multiplication, 
+Parseval’s 
+Relation, 
+Even/Odd 
+8 
+
+ 
+ 
+symmetry, Real sequence.
+(Practice of Visualization of a discrete time signal and operations on the DT 
+signal using python. Demonstration of sampling and reconstruction using 
+Python/Matlab.) 
+2 
+Discrete-Time Fourier Transform for Aperiodic Sequences - Properties of the 
+Discrete-Time Fourier Transform (Periodicity, Linearity, Translation (Time 
+Shifting), Modulation (Frequency-Domain Shifting), Conjugation, Time 
+Reversal, Convolution, Multiplication, Frequency-Domain Differentiation, 
+Differencing, Parseval's theorem, Even/Odd symmetry, real sequences) 
+DTFT of periodic sequences - Frequency Spectra of Sequences, Bandwidth of 
+Sequences, Energy density spectra,  Characterizing LTI Systems Using the 
+Fourier Transform. 
+10 
+3 
+Discrete time systems - Block diagram representation and mathematical 
+representation of discrete-time systems-Some common elements of Discrete-
+time systems (adder, constant multiplier, signal multiplier, unit delay, unit 
+advance), Recursive DT systems and non recursive discrete time systems, 
+Relaxed system, Linearity and time invariance property of a DT system.  
+Discrete time LTI systems - Discrete time convolution, Properties of 
+Convolution, Characterizing LTI Systems and Convolution - Impulse  
+response of an LTI system, Difference equation, Properties of an LTI system - 
+Causality, Memory, Invertibility,  BIBO Stability, Eigen Sequences/ eigen 
+functions for discrete-Time LTI Systems. 
+9 
+4 
+Z transform - motivation for z transform, Relationship Between z Transform 
+and Discrete-Time Fourier Transform, Region of Convergence for the z 
+Transform. 
+Properties of z transform - Translation (Time Shifting), Complex Modulation 
+(z-Domain Scaling), Conjugation, Time Reversal, Upsampling (Time 
+Expansion, Downsampling, 
+Convolution,  z-Domain Differentiation,  
+Differencing,  Initial and Final Value Theorems 
+Determination of the Inverse z Transform 
+LTI systems and difference equations, Characterizing LTI systems using z 
+transform, Transfer function of an LTI system. Solving Difference Equations 
+Using the Unilateral z Transform 
+Block 
+Diagram 
+Representation 
+of 
+Discrete-Time 
+LTI 
+Systems, 
+Interconnection of LTI systems. 
+9 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Demonstrate the concept and different types of DT signals and the effect of 
+different operations on the signals. 
+K2 
+CO2 
+Explain how DTFS can be used to represent a periodic DT signal. 
+K2 
+CO3 
+Apply the concept of DTFT for an aperiodic signal to determine the 
+frequency spectrum.
+K3 
+CO4 
+Utilize the properties of a DT system based on its impulse response and z 
+transform. 
+K3 
+CO5 
+Identify the response of a DT LTI system to an arbitrary input sequence. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Signals and Systems 
+Michael D. Adams 
+University of Victoria, 
+British 
+Columbia, 
+Canada 
+3/e 2020 
+2 
+Signals and systems  
+Barry Van Veen, Simon 
+Haykins
+Wiley 
+2/e, 2007 
+3 
+Signals and systems  
+A Nagoor Khani 
+McGraw Hill 
+2/e, 2022 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals of Signals and 
+Systems Using the Web and 
+MATLAB 
+Edward 
+W. 
+Kamen, 
+Bonnie S Heck  
+Pearson 
+3/e, 2014 
+ 
+Video Links (NPTEL, SWAYAM…) 
+ No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/108/104/108104100/ 
+2 
+https://archive.nptel.ac.in/courses/108/106/108106163/ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+SEMESTER S4 
+SOFT COMPUTING 
+(Common to CS/CD/CM/CR/CA/AD/AI/AM/CB/CN/CI)

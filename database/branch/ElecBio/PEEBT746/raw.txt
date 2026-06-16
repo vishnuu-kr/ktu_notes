@@ -1,0 +1,357 @@
+Course Code 
+PEEBT746 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Basic concepts of 
+neural networks.
+Course Type 
+PE 
+ 
+Course Objectives: 
+1. Understanding Deep Learning Architectures: Learn about popular deep learning architectures 
+such as AlexNet, VGG16, GoogLeNet, ResNet, and DenseNet. Understand their design 
+principles, layer types, and applications. 
+2. Hands-on Experience with Deep Learning Platforms: Gain practical experience with deep 
+learning platforms like Keras, TensorFlow, and PyTorch. Explore data types, tensor 
+operations, model configuration, training, and testing. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Convolutional Neural Network (CNN), Convolution layer, Activation 
+function, Pooling Layer, Dense Layer, Transfer learning, Deep CNN 
+architectures. Feedforward Neural Networks, Backpropagation, Gradient 
+Descent, Loss functions, Optimizers, Train/Val/Test dataset distributions, 
+Performance matrix. Hyper parameter tuning, Bias Variance trade-off, 
+Problem of overfitting, Regularization, Batch normalization, Dataset 
+augmentation. Applications 
+9 
+2 
+Deep learning Networks: History-AlexNet, GoogLeNet, VGGNet, ResNet, 
+Dense Net Deep learning platforms: Keras, Theano, TensorFlow and 
+PyTorch. Tensor Flow: data Types, Tensors, create Tensors, operations on 
+Tensors, Tensor Board Keras: Common Functional Modules, Model 
+Configuration, Training, and Testing. 
+9 
+
+ 
+ 
+3 
+Recurrent Neural Networks Forwards and Backward pass. Gradient 
+propagation. Backpropagation through time (BPTT) algorithm. Many-to-one 
+RNN model (sentiment analysis), Many-to-many RNN model (language 
+model), Vanishing gradients in Recurrent networks LSTMs, Bidirectional 
+RNNs, Gated RNNs, Encoder-Decoder Models, Attention Networks Issues 
+in RNN/LSTM. 
+9 
+4 
+Deep 
+Autoencoders: 
+Unsupervised 
+Deep 
+Learning, 
+Autoencoders 
+Undercomplete autoencoders, Regularized autoencoders - Applications 
+Generative Modelling: Variational Autoencoder (VAE). Variational 
+Learning, VAE: network architecture. Generative Adversarial networks 
+(GANs), Boltzmann Machines, Restricted Boltzmann Machines. Deep 
+reinforcement learning: Reinforcement learning RL Process Reward 
+hypothesis, Observations/States Space Action Space Rewards. The Policy π: 
+the agent’s brain Policy-Based Methods, Value based methods. Deep 
+reinforcement learning-Q-learning, actor-critic, policy gradient, experience 
+replay. Applications. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Analyse the concepts of various deep learning networks. 
+K4 
+CO2 
+Compare modelling aspects of various deep neural network 
+architectures. 
+K4 
+CO3 
+Examine the performance criteria of different deep learning models 
+K3 
+CO4 
+Implement deep learning algorithms and solve real-world problems. 
+K6 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+CO-PO Mapping Table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+2 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+2 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO3 
+3 
+3 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO4 
+3 
+3 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Deep learning 
+Goodfellow, Ian, Yoshua 
+Bengio, and Aaron 
+Courville 
+MIT press 
+2016 
+2 
+Hands-on machine learning 
+with Scikit-Learn, Keras, and 
+TensorFlow: Concepts, tools, 
+and techniques to build 
+intelligent systems. 
+Géron Aurélien 
+O'Reilly Media, Inc 
+2nd, 2022 
+3 
+Neural networks and deep 
+learning. 
+Nielsen and Michael A. 
+Determination press 
+2015 
+4 
+Computational methods for 
+deep learning. 
+Yan W. 
+Springer 
+2021 
+5 
+Natural Language Processing 
+with Transformers: Building 
+Language Applications with 
+Hugging Face 
+Lewis Tunstall, Leandro 
+von Werra, and Thomas 
+Wolf 
+O'Reilly Media 
+2023 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher
+Edition 
+and Year
+1 
+Introduction to Machine 
+Learning with Python: A Guide 
+for Data Scientists 
+Andreas C. Müller and 
+Sarah Guido 
+O'Reilly Media 
+2023 
+2 
+Learning TensorFlow: A guide 
+to building deep learning 
+systems. 
+Hope, Tom, Yehezkel S. 
+Resheff, and Itay Lieder 
+O'Reilly Media, Inc. 
+2017 
+3 
+Handbook of medical image 
+computing and computer 
+assisted intervention. 
+Zhou, S. Kevin, Daniel 
+Rueckert, and Gabor 
+Fichtinger 
+Academic Press 
+2019 
+4 
+Deep Learning for Biomedical 
+Applications. 
+Kose, Utku, Omer 
+Deperlioglu, and D. Jude 
+Hemanth 
+CRC Press 
+2021 
+5 
+Handbook of Deep Learning in 
+Biomedical Engineering and 
+Health Informatics.  
+Julie, E.G., Robinson, 
+Y.H. and Jaisakthi, S.M. 
+CRC Press 
+2021 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://www.youtube.com/watch?v=4TC5s_xNKSs 
+2 
+https://www.youtube.com/watch?v=Pu35DppbXO8 
+3 
+https://onlinecourses.swayam2.ac.in/imb24_mg115/preview 
+4 
+https://www.youtube.com/@reinforcementlearning1077 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S7 
+ADVANCED MEDICAL IMAGING & IMAGE PROCESSING 
+TECHNIQUES

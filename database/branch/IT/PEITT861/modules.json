@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Bioinformatics – scope, elementary tasks in bioinformatics,\nMolecular biology basics - human genome organization, central dogma,\nDNA and RNA structure, Genetic codes, Datatypes - Gene expression data,\nMicro Arrays, NGS, Pathways, molecular interactions, Biological Databases\n- Types of databases, Sequence databases – GenBank, DDBJ, EMBL,\nEntrez, Unigene, Protein sequence databases – SwissProt, UniProt, PDB",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Sequence Alignment – local and global alignment, similarity vs homology,\ndot matrices and hash coding, FASTA files, Algorithms for pairwise\nsequence alignment – Needleman and Wunsch, Scoring Matrices – basic\nconcepts, BLAST and its variants, Multiple Sequence Alignment – Goals,\nscoring, substitution matrices, PAM and BLOSUM,  gap penalties,\nCLUSTAL and its variants",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Phylogenetic trees, Topologies, Distance matrix based and Character based\ntree construction, Algorithms for Phylogenetic tree construction – UPGMA,\nNeighbor-Joining,\nMaximum\nParsimony,\nPattern\nrepresentations\n–\ndeterministic and probabilistic patterns, algorithms for pattern discovery –\nHMM, gene discovery using GeneMark",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to Protein structures – primary, secondary and tertiary,\nmeasures of prediction accuracy, statistical algorithms for protein secondary\nstructure prediction – Chou-Fasman, Protein Folding – Lattice models,\nalgorithms for predicting RNA secondary structure – Nussinov algorithm",
+    "contact_hours": "9"
+  }
+]

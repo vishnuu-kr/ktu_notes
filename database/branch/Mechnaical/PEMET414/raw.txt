@@ -1,0 +1,312 @@
+Course Code 
+PEMET414 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. The students will have the ability to understand the working of various sensors and transducers. 
+2. The students will have the ability to develop systems for actuation of mechanical systems 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Sensors and Transducers: 
+Internal Sensors: Position - Optical Encoders, Potentiometers, LVDT, 
+Velocity - Encoders, Tachogenerators, Acceleration – Different types of 
+accelerometers, Gyroscopes, IMU, Force transducers 
+External Sensors: Contact Sensors, Inductive and Capacitive Proximity 
+sensors, GPS, Ultrasonic transducers and SONAR, RADAR and Doppler 
+effect, LIDAR 
+Sensor Characteristics: Sensitivity, Linearity, Measurement /Dynamic 
+range, Response Time, Accuracy, Repeatability and Precision, Resolution 
+& Threshold, Bandwidth 
+ 
+9  
+2 
+Actuators: 
+Hydraulic and Pneumatic Actuators: Working of Hydraulic and 
+Pneumatic 
+Actuators 
+at 
+block 
+diagram 
+level, 
+advantages 
+and 
+disadvantages of each 
+Electric Actuators: Electric motors - DC motors, Stepper motors, Servo 
+motors, BLDC motors, Transmission Elements, advantages and 
+disadvantages of Electric Actuators 
+ 
+9  
+
+ 
+ 
+3 
+Microcontrollers: 
+Definitions of microprocessors and microcontrollers with basic block 
+diagrams and differences between them 
+Arduino Uno microcontroller: Board Study (Board level Block 
+schematic) - Chip (Features only – Architecture not needed), GPIO, 
+Memory, Programming Interface 
+Programming: Arduino IDE, Sample Code for interfacing LED and 
+Switch, DC motor and Stepper motor control, LCD Interfacing 
+9  
+4 
+Introduction to Embedded Systems and IoT: 
+Embedded Systems: Applications of embedded systems-Consumer 
+electronics, Robotics, Automobiles 
+Embedded System Architecture: Hardware - Processor, Controller, 
+Memory, Peripherals; Software - Application, Middleware, OS, Device 
+Drivers, Tool chain- Assembler, Interpreter, Compiler, Linker, Loader, 
+Debugger 
+IoT: Definition, Impact of IoT in Manufacturing, Smart homes, 
+Transportation and Cities 
+Wired Communication: Basics of Serial communication (UART, SPI, 
+I2C) 
+Wireless Communication:  Basics of Wi-Fi, Bluetooth, Zigbee, LoRa, and 
+NFC 
+Case Study: Design and implementation of a simple Embedded/IoT 
+project 
+ 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the working of sensors and transducers 
+K2 
+CO2 
+Describe the operation of actuators for intelligent systems 
+K2 
+CO3 
+Develop the hardware and software for microcontroller based systems 
+for actuation
+K3 
+CO4 
+Outline the basic concepts of Embedded Systems and IoT  
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO2 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO3 
+3 
+3 
+3 
+- 
+3 
+- 
+- 
+ 
+- 
+- 
+- 
+3 
+CO4 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Robotics  
+S K Saha 
+McGraw-Hill 
+Education (India) 
+2008 
+2 
+Sensors, Actuators, and their 
+Interfaces: A multidisciplinary 
+introduction 
+SciTech Publishing Inc 
+SciTech Publishing 
+Inc 
+2011 
+3 
+Beginning Arduino 
+Michael McRoberts 
+Apress 
+1st Edition, 
+2011 
+4 
+Embedded 
+Systems: 
+An 
+Integrated Approach 
+Lyla B Das 
+ Pearson Education 
+India 
+1st Edition, 
+2012 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Sensors and Transducers 
+D. Patranabis 
+PHI Learning 
+2nd 
+edition, 
+2003
+2 
+Embedded 
+Systems 
+Architecture, programming and 
+Design
+Raj Kamal 
+Tata McGraw-Hil 
+3rd edition, 
+2013 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.swayam2.ac.in/aic20_sp04/unit?unit=4&lesson=7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+ADVANCED METAL JOINING TECHNIQUES

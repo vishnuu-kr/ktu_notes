@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to numerical methods - Errors in numerical computation\nSystem of linear algebraic equations –Ill-conditioned systems – Symmetric\nand Banded systems. Elimination methods –Gauss Elimination (review),\nGauss Seidel iteration, Factorization method-Choleski’s method. System of\nnon-linear equations – Newton-Raphson method.\nEigen value problems - largest and smallest Eigen values- Power method,\nJacobi’s transformation",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Approximation\n-\nLagrangian\nand\nHermite\ninterpolation,\nSpline\ninterpolation - Quadratic and Cubic splines (example of equal intervals).\nData smoothing by least squares criterion- non-polynomial models like\nexponential model and power equation, Multiple linear regression.\nNumerical integration - Newton–Cotes open quadrature formulae,\nTrapezoidal rule, Simpson’s rules (Review).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Solution of first-order ordinary differential equations - stability of solution,\nUse of Taylor series, Euler’s method, Modified Euler’s method, Fourth\norder Runge-Kutta method. Higher order equations of initial value type by\nRunge-Kutta method.\nOrdinary differential equations of the boundary value type – Finite\ndifference solution.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Partial differential equations in two-dimension - types, Laplace Equation\nand Poisson’s equation.\nParabolic equations – Explicit finite difference method – Bender-Schmidt\nmethod. Crank-Nicholson implicit method. Elliptic equations - Finite\ndifference method.\nWeighted residual methods for initial value problems and boundary value\nproblems – Collocation method, Method of least squares, Galerkin’s\nmethod.\nApplications of the methods shall be based on Civil Engineering problems such as Structural\nanalysis problems to determine member forces, traffic simulations, weather prediction, water\nflow estimation, fluid dynamics simulations, and geotechnical modelling of groundwater\nmovement.",
+    "contact_hours": "9"
+  }
+]

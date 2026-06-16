@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to digital circuits: Review of number systems representation-\nconversions, Arithmetic of Binary number systems, Signed and unsigned\nnumbers, BCD.\nBoolean algebra: Theorems, sum of product and product of sum -\nsimplification, canonical forms- min term and max term, Simplification of\nBoolean expressions - Karnaugh map (upto 4 variables), Implementation of\nBoolean expressions using universal gates.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Combinational logic circuits- Half adder and Full adders, Subtractors, BCD\nadder, Ripple carry and carry look ahead adders, Decoders, Encoders, Code\nconverters, Comparators, Parity generator, Multiplexers, De-multiplexers,\nImplementation of Boolean algebra using MUX.\nIntroduction to Verilog HDL – Basic language elements, Basic\nimplementation of logic gates and combinational circuits.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Sequential Circuits: SR Latch, Flip flops - SR, JK, Master-Slave JK, D and\nT Flip flops. Conversion of Flip flops, Excitation table and characteristic\nequation. Shift registers-SIPO, SISO, PISO, PIPO and Universal shift\nregisters.  Ring and Johnsons counters. Design of Asynchronous,\nSynchronous and Mod N counters.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Finite state machines - Mealy and Moore models, State graphs, State\nassignment, State table, State reduction.\nLogic Families: -Electrical characteristics of logic gates (Noise margin, Fan-\nin, Fan-out, Propagation delay, Transition time, Power -delay product) -TTL,\nECL, CMOS.\nCircuit description and working of TTL and CMOS inverter, CMOS NAND\nand CMOS NOR gates.\nSuggestion on Project Topics\n●\nA random sequence generator\n●\nTraffic light controller\n●\nMultiplexer based person priority check in system at airport\n●\nWaveform generator\n●\nObject/Visitor counter\n●\nFast adders\n●\nHamming code-based parity checker\n●\nArithmetic Logic Unit using FPGA",
+    "contact_hours": "9"
+  }
+]

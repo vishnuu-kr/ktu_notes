@@ -1,0 +1,63 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Image representation",
+            "basic relationship between pixels",
+            "elements of DIP system",
+            "elements of visual perception-simple image formation model. Brightness",
+            "contrast",
+            "saturation",
+            "mach band effect. Colour image fundamentals-RGB",
+            "HIS models",
+            "2D sampling",
+            "quantization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Review of matrix theory: row and column ordering- Toeplitz",
+            "Circulant and block matrix. Image Compression: Need for compression",
+            "Basics of lossless compression - bit plane coding",
+            "run length encoding and predictive coding",
+            "Basics of lossy compression - uniform and non-uniform quantization techniques used in image compression",
+            "Concept of transform coding",
+            "JPEG Image compression standard"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Spatial domain methods: point processing- intensity transformations",
+            "histogram processing",
+            "image subtraction",
+            "image averaging. Spatial filtering smoothing filters",
+            "sharpening filters. Frequency domain methods: low pass filtering",
+            "high pass filtering",
+            "homomorphic filter. Simple MATLAB examples"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Degradation model",
+            "Unconstraint restoration- Lagrange multiplier and constraint restoration Inverse filtering- removal of blur caused by uniform linear motion",
+            "Weiner filtering. Image segmentation: Classification of Image segmentation techniques",
+            "region approach",
+            "clustering techniques. Segmentation based on thresholding",
+            "edge based segmentation. Classification of edges",
+            "edge detection",
+            "Hough transform",
+            "active contour"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

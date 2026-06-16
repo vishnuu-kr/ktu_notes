@@ -1,0 +1,43 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Computer Networks:-Introduction, Network Components, Network Models, ISO/OSI, TCP/IP, Physical Topology,Overview of the Internet, Protocol layering",
+            "Physical Layer-Transmission media (copper, fiber, wireless), Datagram Networks, Virtual Circuit networks, Performance"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Data Link Layer:-Error Detection and Correction - Introduction, Hamming Code, CRC, Checksum",
+            "Framing-Methods, Flow Control- Noiseless Channels, Noisy Channels",
+            "Medium Access Control- Random Access, Controlled Access",
+            "Wired LANs - IEEE Standards, Ethernet, IEEE 802.11"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Network Layer:-Logical Addressing- IPv4 and IPv6 Addresses",
+            "Internet Protocol- IPV4 and IPv6",
+            "Unicast Routing Protocols- Distance Vector Routing, Link State Routing Multicast Routing Protocols"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Transport Layer:-Transport Layer Protocols- UDP, TCP",
+            "Congestion Control- Open Loop Vs 8 Closed Loop Congestion Control, Congestion Control in TCP",
+            "Application Layer - Application Layer Paradigms, Client-server applications, World Wide Web and HTTP, FTP. Electronic Mail, DNS",
+            "Peer-to-peer paradigm - P2P Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

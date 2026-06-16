@@ -1,0 +1,54 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic Compression Techniques: Data Compression Approaches - Variable-Length Codes",
+            "Run-Length Encoding",
+            "Space-Filling Curves",
+            "Dictionary-Based Methods",
+            "Transforms",
+            "Quantization, Huffman Encoding - Huffman Decoding",
+            "Adaptive Huffman Coding",
+            "Facsimile Compression, Run Length Encoding (RLE)",
+            "RLE Text Compression",
+            "Dictionary-Based Coding - LZ77",
+            "LZ78",
+            "LZW and Deflate: Zip and Gzip Compression"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Advanced Techniques: Arithmetic Coding - The Basic Idea, Implementation, Underflow",
+            "Image Compression - Introduction, Approaches to Image Compression, History of Gray Codes, Image Transforms, Orthogonal Transforms, The Discrete Cosine Transform, Intermezzo: Statistical Distributions, JPEG, Human Vision and Color, The Wavelet Transform, Filter Banks, WSQ, Fingerprint Compression"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Video Compression - Analog Video",
+            "Digital Video",
+            "Motion Compensation, MPEG Standards",
+            "H.261"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Audio Compression - Companding",
+            "The Human Auditory System",
+            "Heinrich Georg Barkhausen",
+            "Linear Prediction",
+            "µ-Law and A-Law Companding",
+            "Shorten"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

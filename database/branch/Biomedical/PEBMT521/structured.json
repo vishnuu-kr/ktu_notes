@@ -1,0 +1,59 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Control System - Concepts of control system-Applications",
+      "Examples (including physiological control systems",
+      "Open loop and closed loop control systems",
+      "Control system design process. Review of Laplace Transforms",
+      "Transfer function",
+      "Mathematical modelling of simple electrical and mechanical systems. Block diagram reduction",
+      "Signal flow graphs-Mason’s Gain Formula"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Time domain analysis- Standard test signals",
+      "Transient and steady state response",
+      "time response of first order system",
+      "Time domain specifications",
+      "step response of second order systems",
+      "Steady state error and static error coefficients. Concept of stability",
+      "Effect of location of poles on stability"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Routh-Hurwitz’s stability criterion",
+      "Root locus -construction of root locus Frequency domain analysis-Frequency domain specifications",
+      "Stability in Frequency Domain: Frequency response plots: Polar plots",
+      "Bode plots -determination of Phase margin and Gain margin",
+      "minimum phase and non-minimum phase systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "State space modelling - Concepts of state",
+      "state variables",
+      "state space and state model",
+      "State space representation of nth order differential equation",
+      "State model of simple mechanical and electrical systems",
+      "State-Space representation of Transfer Function",
+      "Transfer function from state model",
+      "State transition matrix-properties of state transition matrix",
+      "computation of state transition matrix using Laplace method",
+      "Controllability and Observability"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

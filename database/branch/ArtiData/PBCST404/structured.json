@@ -1,0 +1,47 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Basic Structure of computers: - Functional units - Basic operational concepts",
+      "Memory map",
+      "Endianness. CISC vs RISC architectures:- RISC Introduction - Assembly Language, Assembler directives, Assembling. Programming concepts - Program flow, Branching, Conditional statements, Loops, Arrays, Function calls",
+      "Instruction execution cycle. Machine language - Instructions, addressing modes, Stored program concept. Evolution of the RISC Architecture"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Hazards, Solving Data/Control Hazards, Performance Analysis"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Introduction",
+      "performance analysis",
+      "Caches - basic concepts, Cache mapping, Cache replacement, Multiple-Level Caches, Reducing Miss Rate, Write Policy",
+      "Virtual Memory - Address Translation",
+      "Page Table",
+      "Translation Lookaside Buffer",
+      "Memory Protection"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Input / Output - External Devices",
+      "I/O Modules",
+      "Programmed I/O, Interrupt Driven I/O",
+      "Direct Memory Access",
+      "Embedded I/O Systems -Embedded I/O, General Purpose I/O, Serial I/O, Other Peripherals. Suggestion on Project Topics Use simulators such as Ripes (https://github.com/mortbopet/Ripes) / GEM5 (https://www.gem5.org/) implement components of computer systems such as Various Cache organization and study the effect, Solutions to hazards, TLBs"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

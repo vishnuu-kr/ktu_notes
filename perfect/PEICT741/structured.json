@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to digital control",
+            "Discrete time system representation",
+            "Sampling process",
+            "Mathematical modelling of sampling process",
+            "Data reconstruction",
+            "Effect of sampling period",
+            "Modelling discrete-time systems - Review of Z-transform",
+            "Mapping of s-plane to z-plane",
+            "Pulse transfer function",
+            "Warping effect"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Stability analysis of discrete time system:- Jury stability test",
+            "stability analysis using bi-linear transformation. Time response of discrete systems: Transient and steady state responses",
+            "time response parameters of a prototype second order system. Design of digital control systems--Digital compensator design using frequency response plots",
+            "Digital compensator design using root locus plots",
+            "z plane synthesis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Discrete state space model",
+            "Introduction to state variable model",
+            "canonical forms",
+            "Characteristic equation, state transition matrix",
+            "Solution to discrete state equation. Stability",
+            "Lyapunov stability theorem"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Pole placement and observer design",
+            "Controllability and observability-State feedback design",
+            "Pole placement by state feedback",
+            "Set point tracking controller-Full order observer",
+            "Reduced order observer",
+            "Output feedback design"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

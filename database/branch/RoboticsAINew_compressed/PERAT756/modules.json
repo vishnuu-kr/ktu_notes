@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction and Classic Encryption Techniques:-OSI security architecture,\nSecurity attacks – Passive attacks, Active attacks, Security services-\nAuthentication, Access Control, Data Confidentiality, Data integrity,\nNonrepudiation, Availability service. Model for network security.\nSymmetric cipher model, Cryptography, Substitution techniques- Hill\nCipher, Transposition Techniques.\nFinite Fields: -Groups, Rings and Fields, Modular arithmetic, Euclidian\nalgorithm, Finite Fields of the form GF(p), Polynomial arithmetic",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Block Ciphers: - Data Encryption Standard, Block Cipher Principles –\nStream Ciphers and Block Ciphers, Feistel Cipher, Feistel Decryption\nalgorithm, The Data encryption standard, DES Decryption, The AES\nCipher, substitute bytes transformation, Shift row transformation, Mix\nColumn transformation.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Public Key Cryptography: -RSA and Key Management, Principles of\npublic key cryptosystems-Public key cryptosystems, Application for Public\nkey cryptosystem requirements, Fermat’s theorem, Euler’s Totient\nFunction, Euler’s theorem, RSA algorithm, Key management, Distribution\nof public keys, Publicly available directory, Public key authority, public\nkey certificates, Distribution of secret keys using public key cryptography",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Message Authentication and Hash Function: - Authentication requirements,\nAuthentication functions- Message Encryption, Public Key Encryption,\nMessage Authentication Code, Hash function",
+    "contact_hours": "9"
+  }
+]

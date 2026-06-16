@@ -1,0 +1,50 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Complexity Theory - Basic concepts and motivations",
+            "Deterministic and nondeterministic models",
+            "Turing machines",
+            "and computational models. Complexity Classes P and NP - Definitions and examples of P and NP",
+            "Polynomial-time algorithms",
+            "NP-completeness and the Cook-Levin theorem. Reductions and Completeness - Polynomial-time reductions",
+            "NP-complete problems",
+            "and their significance",
+            "Examples of NP-complete problems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "PSPACE",
+            "Savitch's theorem and NL-completeness",
+            "PSPACE-completeness. Polynomial Hierarchy and Alternation - Definition of the polynomial hierarchy (PH",
+            "Complete problems for each level of PH",
+            "Relationship between PH and other classes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Interactive Proofs - Definition and examples of interactive proofs",
+            "IP = PSPACE theorem",
+            "Zero-knowledge proofs. Probabilistically Checkable Proofs (PCPs) - Introduction to PCPs",
+            "PCP theorem and implications",
+            "Applications in hardness of approximation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "BQP, QMA, Quantum algorithms and their complexity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

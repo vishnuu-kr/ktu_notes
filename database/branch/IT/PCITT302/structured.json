@@ -1,0 +1,69 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Basic operational concepts",
+      "memory locations and addresses",
+      "instructions and instruction sequencing",
+      "instruction set principles modes",
+      "classifying instruction set architectures",
+      "memory addressing",
+      "type and size of operands",
+      "operations in the instruction set",
+      "instructions for control flow",
+      "encoding an instruction set",
+      "RISC architecture"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Introduction to single cycle and multi cycle processors. Pipelining- Basic and intermediate concepts",
+      "Introduction to pipelining",
+      "pipeline hazards",
+      "structural hazards",
+      "data hazards",
+      "control hazards",
+      "pipelining implementation",
+      "RISC V integer pipeline to handle multicycle operations"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Introduction to cache memory",
+      "cache mapping",
+      "block replacement techniques",
+      "cache performance",
+      "six basic cache optimizations. DRAM memory system organization",
+      "basic nomenclature",
+      "memory modules",
+      "basic DRAM memory access protocol",
+      "basic DRAM commands",
+      "DRAM controller architecture",
+      "row buffer management policy",
+      "open page row buffer management policy",
+      "close page row buffer management policy"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "SISD",
+      "MIMD",
+      "SIMD",
+      "SPMD",
+      "and vector hardware multithreading",
+      "multicore and other shared memory multiprocessors",
+      "Case Study: Intel Core i7"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

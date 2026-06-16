@@ -1,0 +1,60 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Basic Structure of computers",
+      "functional units",
+      "basic operational concepts",
+      "bus structures. Memory locations and addresses",
+      "memory operations, Instructions and instruction sequencing, addressing modes. Basic processing unit",
+      "fundamental concepts",
+      "instruction cycle",
+      "execution of a complete instruction",
+      "single bus and multiple bus organization"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Register transfer logic: inter register transfer",
+      "arithmetic, logic, and shift micro-operations. Processor logic design",
+      "processor organization",
+      "Arithmetic logic unit -design of arithmetic circuit",
+      "design of logic circuit",
+      "Design of arithmetic logic unit",
+      "status register",
+      "design of shifter",
+      "processor unit",
+      "design of accumulator"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Algorithms for multiplication and division (restoring method) of binary numbers. Array multiplier",
+      "Booth’s multiplication algorithm. Pipelining: Basic principles",
+      "classification of pipeline processors",
+      "instruction and arithmetic pipelines (Design examples not required",
+      "hazard detection and resolution"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Control organization",
+      "Hardwired control-microprogram control",
+      "control of processor unit",
+      "Microprogram sequencer, micro programmed CPU organization",
+      "horizontal and vertical micro instructions. I/O organization: accessing of I/O devices",
+      "interrupts, interrupt hardware -Direct memory access"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

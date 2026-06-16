@@ -1,0 +1,56 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Overview of PMOS and NMOS devices (pre-requisite). CMOS inverter - Working",
+      "Voltage transfer characteristics. Static characteristics - switching threshold and noise margin. Dynamic characteristics - Device capacitance",
+      "RC delay model",
+      "Propagation delay and power consumption"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Combinational Logic Circuits Static CMOS Design - Complimentary CMOS",
+      "Design techniques for large fan-in",
+      "Ratioed logic",
+      "basics of pass transistor logic and transmission gate logic. Dynamic CMOS Design - Basic principles",
+      "concept of Domino logic",
+      "speed and power dissipation",
+      "signal integrity issues in dynamic logic"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Sequential Logic Circuits and Arithmetic Building blocks Sequential Logic Circuits - Timing metrics for sequential circuits",
+      "static SR flip-flop",
+      "Static Multiplexer based D flip-flop and master slave configuration. Dynamic Clocked CMOS (C2MOS) Register. Arithmetic Building blocks - Static CMOS Full Adder",
+      "4-bit carry bypass adder",
+      "Array multiplier",
+      "carry-save multiplier",
+      "barrel shifter"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "VLSI Design Methodologies ASIC Design flow and FPGA design flow",
+      "Introduction to SoC Design",
+      "Challenges in VLSI Design. Basics of semi-custom and full custom design methodologies. Validation and testing - Fault Modelling",
+      "struck at faults",
+      "Test procedure",
+      "logic testing vs memory testing",
+      "Built-in-self-test (BIST",
+      "Automatic test pattern generation (ATPG"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

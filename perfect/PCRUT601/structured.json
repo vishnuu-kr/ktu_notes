@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Control System- Definition",
+            "Open loop vs closed loop control systems-components of a typical control system- Necessity of a control system in a Robot",
+            "Linear time invariant Systems- Transfer function",
+            "Necessity of knowing the transfer function",
+            "Modelling - Mechanical Translational and Electromechanical systems (Force voltage and Force current analogy) . block diagram representation -Block diagram reduction",
+            "signal flow graph",
+            "Basic problems using Masons gain formula"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Transient and steady state responses",
+            "time domain specifications",
+            "first and second order systems",
+            "step responses of first and second order systems. Steady state error analysis -static error coefficient of type 0,1, 2 systems .Concept of stability: Time response for various pole locations",
+            "stability of feedback system -Routh's stability criterion"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Frequency domain specifications (derivations not required",
+            "Analysis based on Bode plot",
+            "Log magnitude vs. phase plot. Design of P, PI and PID controller using Ziegler",
+            "Nichols tuning method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to state concept - state equation of linear continuous time systems",
+            "matrix representation of state equations. Phase variable and canonical forms of state representation-controllable",
+            "observable",
+            "state transition matrix",
+            "relationship between state equations and transfer function. Controllability &observability-Kalman’s method. State feed-back design via pole placement technique"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

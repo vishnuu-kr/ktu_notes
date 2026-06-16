@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Fundamentals in Computer Vision: Camera Calibration: Pinhole camera\nmodel, Geometric Image Features:  Curves, Surfaces, Analytical Image\nFeatures: Elements of Analytical Euclidean Geometry, Geometric Camera\nParameters,\nStereopsis: Binocular Camera Geometry, Epipolar Constraint, Binocular\nReconstruction, Local Methods for Binocular Fusion, Global Methods for\nBinocular Fusion.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Features and Filters: Linear Filters: Linear Filters and Convolution, Shift\nInvariant Linear Systems., Estimating Derivatives with Finite Differences,\nNoise, Edges and Gradient- based Edge Detectors\nImage Gradients: Computing the Image Gradient, Gradient Based Edge and\nCorner Detection. Filters as Templates: Normalized Correlation and Finding\nPatterns.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Machine Learning for Computer Vision: Introduction, Dataset for\nMachine Perception: Labelled and Un-labelled Data, Basics of Classification\nand Clustering, Multi-Class Perspective.\nMachine Learning for Computer Vision: Machine Learning, Deep\nLearning Use Cases.\nMachine Learning Models for Vision: Image Vision: Pretrained Model,\nTransfer Learning, Fine-Tuning, Convolutional Networks, Convolutional\nFilters, Stacking Convolutional Layers, Pooling Layers: AlexNet and VGG19",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Segmentation and Object detection: Segmentation Using Clustering\nMethods: Human vision, Grouping and Gestalt\nImage Segmentation by Clustering Pixels: Simple Clustering Methods,\nClustering and Segmentation by K-means\nObject detection: YOLO, Segmentation: Mask R-CNN and Instance\nSegmentation, U-Net and Semantic Segmentation, Model Quality Metrics\nA case study to compare performance of various models on a suitable\ndataset.",
+    "contact_hours": "7"
+  }
+]

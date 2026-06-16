@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Digital Filters",
+            "Linear Filters - Homomorphic Filtering",
+            "Point Operators - Histogram",
+            "Neighbourhood Operators",
+            "Thresholding and Mathematical Morphology",
+            "Binary Shape Analysis",
+            "Erosion",
+            "Dilation",
+            "Opening and Closing",
+            "Hit-or-Miss Transform",
+            "Connectedness",
+            "Object Labelling and Counting",
+            "Boundary Descriptors - Chain Codes, Properties of Binary Regions",
+            "Geometric Features",
+            "Statistical Shape Properties"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Feature Detection and Image Synthesis",
+            "Edge Detection - Edges, Lines, Active Contours",
+            "Split and Merge",
+            "Mean Shift and Mode Finding",
+            "Normalized Cuts",
+            "Graph Cuts",
+            "Energy-Based Methods - Cranny's Algorithm",
+            "Corner Detection",
+            "Harris Corner Detection Algorithm, Hough Transform - Line and Curve Detection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Shape from X - Shape from Shading",
+            "Photometric Stereo",
+            "Texture, Occluding Contour Detection, Motion Analysis - Regularization Theory",
+            "Optical Flow: Brightness Constancy Equation",
+            "Aperture Problem",
+            "Horn-Shunck Method",
+            "Lucas-Kanade Method, Structure from Motion"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Scene Analysis, Examples of Real-Time Applications: In-Vehicle Vision System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

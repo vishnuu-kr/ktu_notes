@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definition and Importance",
+            "Historical Context",
+            "Fundamental Concepts: CIA Triad (Confidentiality, Integrity, Availability, Authentication, Authorization, and Accountability)",
+            "Common Threats and Vulnerabilities: Malware (Viruses, Worms, Trojans), Phishing, Social Engineering, Denial of Service (DoS) Attacks",
+            "Security Policies and Risk Management: Developing and Implementing Security Policies, Risk Assessment and Mitigation"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Basic Concepts and Terminology",
+            "Historical Background",
+            "Symmetric Encryption: Algorithms (DES)",
+            "Key Management",
+            "Asymmetric Encryption: Algorithms (RSA)",
+            "Public and Private Keys",
+            "Cryptographic Protocols: Digital Signatures",
+            "Hash Functions",
+            "Public Key Infrastructure (PKI)",
+            "Applications of Cryptography: Secure Communications (SSL/TLS)",
+            "Email Security (PGP, S/MIME)"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Network Security Principles",
+            "Common Network Threats",
+            "Network Security Protocols: IPsec, SSL/TLS, VPNs",
+            "Firewalls and Intrusion Detection Systems (IDS): Types of Firewalls",
+            "IDS and IPS Systems",
+            "Wireless Network Security: Wireless Encryption Protocols (WEP, WPA2)",
+            "Securing Wireless Access Points",
+            "Network Security Practices: Network Segmentation",
+            "Monitoring and Logging"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Software Security: Importance of Secure Software",
+            "Software Development Lifecycle (SDLC)",
+            "Common Software Vulnerabilities: Buffer Overflows, SQL Injection, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF)",
+            "Secure Coding Practices: Input Validation and Sanitization",
+            "Secure Error Handling",
+            "Code Reviews and Static Analysis",
+            "Software Security Testing: Penetration Testing",
+            "Fuzz Testing",
+            "Dynamic Analysis",
+            "Security in Software Development: Secure Software Development Frameworks",
+            "Integrating Security into DevOps (DevSecOps)"
+        ]
+    }
+]

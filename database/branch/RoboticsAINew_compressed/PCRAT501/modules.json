@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "System modelling - Transfer function approach:\nIntroduction to control systems – Classification of control systems.\nPrinciples of automatic control. Feedback control systems – Practical\nexamples – Transfer function – Transfer function of electrical, mechanical\nand electromechanical systems – Block diagram – Signal flow graph –\nMason’s gain formula.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Time domain analysis:\nStandard test signals - Response of systems to standard test signals – Step\nresponse of second order systems in detail – Time domain specifications –\ndelay time, rise time, peak time, maximum percentage overshoot and settling\ntime. Steady state response – Steady state error- Static & Dynamic error\ncoefficients.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Stability of linear systems in time domain:\nAsymptotic and BIBO stability, Routh-Hurwitz criterion of stability. Root\nlocus - Construction of root locus – Effect of addition of poles and zeros on\nroot locus.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Controller Design:\nBasic Control actions and Controller characteristics: Classification of\nControllers, Two position control, proportional, integral and derivative\ncontrollers- Principle of working, advantages and disadvantages.  Transfer\nFunction of PI, PD and PID controllers.",
+    "contact_hours": "11"
+  }
+]

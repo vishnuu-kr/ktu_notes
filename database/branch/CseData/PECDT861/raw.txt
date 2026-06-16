@@ -1,0 +1,274 @@
+Course Code 
+PECDT861 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs.30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To convey the usability of time series data and its analysis in scientific/business applications. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to time series forecasting- Forecasting, Types of forecasting – 
+Short term, long term. Forecasting data and methods – Qualitative 
+forecasting, Quantitative forecasting. Simple Forecasting methods- Average 
+method, Naïve method, Drift Method. Steps in forecasting.  
+Introduction to Time series forecasting – Time Series Characteristics – 
+Types of Data – Time Series Data, Cross-Section Data, Longitudinal Data. 
+Understanding Time Series Data, Time series pattern- trend, seasonality, 
+cyclicity, and irregularity. Detecting Trends using Hodrick-Prescott filter 
+and Detrending time series. Detect Seasonality and De-seasoning, Detecting 
+Cyclic Variation. Error, Irregular Component and residuals. Time Series 
+Decomposition- Additive Models, Multiplicative models.  
+9 
+2 
+Exponential Smoothing – Simple exponential smoothing, Methods with 
+trend, methods with seasonality, estimation and modelling, Forecasting with 
+ETS models. 
+Regression Extension Techniques for time series data – Types of stationary 
+behaviour in time series, Making data stationary, Augmented Dickey-Fuller 
+9 
+
+ 
+ 
+Test, Using stationary data techniques – Differencing, Random walk, Trend 
+Differencing, Seasonal Differencing. 
+3 
+Time series as a discrete parameter stochastic process, Auto- correlation 
+Function (ACF), Partial Autocorrelation Function (PACF) and cross 
+correlations, Auto Correlation Plots – Trend and seasonality in ACF plots. 
+Autoregressive (AR), Moving Average (MA), Autoregressive Moving 
+Average (ARMA), Autoregressive Integrated Moving Average (ARIMA) 
+models, Seasonal ARIMA (SARIMA) models.  
+9 
+4 
+Introduction to Multivariate Time series Modelling, Vector Autoregressive 
+models, Vector ARMA Models, Fitting VAR and VARMA models. 
+Dynamic Regression Models – Estimation, Regression with ARIMA errors 
+using R packages (fable), forecasting, stochastic and deterministic trends. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any 
+one full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 
+Questions 
+from 
+each 
+module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+(8x3 =24 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each 
+question can have a maximum of 3 sub divisions. 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe different types of forecasting, fundamental principles of time 
+series data, analyse various time series processes  
+K2 
+CO2 
+Apply and interpret a variety of time series models and determine the 
+most suitable model for various types of time series data. 
+K3 
+CO3 
+Apply exponential smoothing methods for forecasting and analyse 
+time series patterns. 
+K3 
+CO4 
+Implement dynamic regression models  
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Forecasting: Principles and Practice 
+Robin John, Hyndman, George 
+Athanasopoulos 
+OTexts 
+3/e, 2021 
+2 
+Hands-on Time Series Analysis with 
+Python 
+BV Vishwas, Ashish Patel 
+Apress 
+1/e, 2020 
+3 
+The Analysis of Time Series An 
+Introduction with R 
+Chris Chatfield, Haipeng Xing Chapman & Hall
+7/e, 2019 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Time series Analysis and its 
+Applications. 
+Shumway, R. H and Stoffer 
+Springer 
+2006 
+2 
+Time Series Analysis and Its 
+Applications: With R Examples 
+Robert H. Shumway and David S. 
+Stoffer 
+Springer 
+4/e, 2017 
+3 
+Time Series Analysis: Forecasting 
+and Control 
+George E. P. Box, Gwilym M. 
+Jenkins, and Gregory C. Reinsel 
+Wiley 
+5/e, 2015 
+4 
+Applied Time Series Analysis 
+Wayne A. Woodward, Henry L. 
+Gray, and Alan C. Elliott 
+CRC Press 
+7/e, 2017 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No.
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc21_ch28/preview  
+ 
+
+ 
+ 
+SEMESTER S8 
+ HEALTHCARE DATA ANALYTICS

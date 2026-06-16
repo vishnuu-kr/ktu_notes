@@ -1,0 +1,71 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Virtual Instrumentation Introduction and definition of Virtual Instrumentation (VI",
+      "block diagram and architecture of a virtual instrument",
+      "Virtual instruments versus traditional instruments",
+      "advantages of VI. Overview of Virtual Instrumentation in the Engineering Process - Design",
+      "Test and Control",
+      "Virtual Instruments Beyond the Personal Computer. Overview of graphical programming for VI. Software tools used in VI (Features and advantages only) - LabView",
+      "MATLAB/Scilab",
+      "Python Introduction to Smart Instruments (Basic concepts only"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Introduction to LabVIEW Introduction to Graphical system design using LabVIEW",
+      "Advantages of LabVIEW",
+      "Key elements in LabVIEW(Overview only) - Front Panel and Block Diagram. Concept of Virtual Instruments (VIs) and SubVIs",
+      "Steps involved in Developing Virtual Instruments using LabVIEW",
+      "Real time data acquisition - analog and digital Input/Output operations in LabVIEW",
+      "Basic concept of clusters in LabVIEW",
+      "Simple design examples using LabVIEW (Data Logging",
+      "Monitoring",
+      "Control Systems",
+      "Introduction to LabVIEW Realtime",
+      "LabVIEW FPGA and LabVIEW Embedded"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Data Acquisition Systems (DAQ) Introduction to data acquisition on PC",
+      "Components of a Data Acquisition System",
+      "Analog vs. Digital signals",
+      "Sampling fundamentals and sampling theorem",
+      "Basics of ADC and DAC",
+      "Overview and need of Signal Conditioning (Amplification and Filtering",
+      "Interfacing sensors with data acquisition systems",
+      "Calibration",
+      "Resolution",
+      "Data acquisition interface requirements"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Common Instrument Interfaces Overview of Instrument control using VISA (Virtual Instrument Software Architecture",
+      "Basics of 4-20mA current loop. Serial versus parallel data transfer",
+      "concept of baud rate",
+      "overview of RS-232. GPIB - Introduction",
+      "types of messages",
+      "overview of physical bus structure",
+      "advantages",
+      "Overview of IEEE 488.2",
+      "Basics of Standard Commands for Programmable Instruments (SCPI). USB - Introduction",
+      "need for USB",
+      "overview of USB data format",
+      "advantages. Overview of MOD Bus"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

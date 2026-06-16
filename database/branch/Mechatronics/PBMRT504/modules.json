@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Signals & Systems:  Elementary Signals, Classification of\nsignals, Basic operations on signals.\nConcept of System, Classification, Properties of Systems-Linearity, Time\ninvariance, Causality, Stability.\nLinear Time Invariant (LTI) Systems – Convolution sum, Impulse response,\nDifference Equation representation of LTI Systems",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Frequency Domain Approaches: Discrete Time Fourier Transform (DTFT),\nDiscrete Fourier Transform (DFT)-Properties.\nReview of Laplace Transform, Region of Convergence (ROC), Properties of\nROC, Transfer function, Stability and causality conditions. Analysis of LTI\nsystems using Laplace transforms.\nSampling of continuous time signals (definition and concept only), Sampling\ntheorem for lowpass signals, aliasing.\nBasic\nElements of a Digital Signal Processing (DSP) system, Typical DSP\napplications.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Analog Communication: Block diagram of a communication system, Need\nfor modulation.\nPrinciple of Amplitude Modulation (AM) – Frequency spectrum – power\nrelations – generation of AM – DSB, DSB/SC, SSB.\nAngle Modulation - Frequency and Phase modulation - Theory and\ngeneration of Frequency Modulation (FM).\nSuper heterodyne receivers (AM and FM).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Digital Communication: Sampling Process-Pulse modulation Techniques-\nPAM, PWM and PPM, Principles of digital communication & advantages –\nPCM encoder and decoder, Applications of data communication. Digital\nmodulation schemes – ASK, FSK, PSK.\nSuggestion on Project Topics",
+    "contact_hours": "9"
+  }
+]

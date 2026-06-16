@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Networking Concepts and Cloud Computing:- Basics of\nComputer Networks: Overview of Network Types: LAN, WAN, Pan, OSI\nand TCP/IP Models.IP Addressing and Subnetting: IPv4 vs. IPv6 Addressing,\nSubnetting Concepts and Techniques.\nIntroduction to Cloud Computing: Cloud Computing Models: IaaS, PaaS,\nSaaS. Cloud Architecture Overview.\nNetworking in Cloud Environments: Importance of Networking in Cloud,\nInteraction Between Traditional Networks and Cloud Infrastructures.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Networking Protocols and Cloud Connectivity :-\nTCP/IP Protocol Suite: Deep Dive into TCP/IP Protocols, Role of TCP/IP\nin Cloud Environments.\nDNS and DHCP in the Cloud, DNS Configuration in Cloud, DHCP in Cloud\nNetworks.\nVirtual Private Networks (VPN): VPN Implementation in Cloud, Securing\nVPNs for Cloud Connectivity.\nLoad Balancing in Cloud: Load Balancer Types and Configurations,\nImplementing Load Balancers in Cloud.\nVirtual Private Cloud (VPC), VPC Configuration and Management, VPC\nPeering and Gateways.\nHybrid Cloud Connectivity, Integrating Public and Private Clouds,\nChallenges and Solutions in Hybrid Cloud Connectivity.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Cloud Networking Components, Architectures, and Security:\nVirtual Networking and SDN: Virtual Networks(VNet)  Configuration,\nPrinciples of SDN and Implementation in Cloud, Network Function.\nVirtualization (NFV) and Microservices: NFV Components and Architecture,\nNetworking for Containers (Docker, Kubernetes).\nCloud Network Design Principles: Designing for Scalability and Flexibility,\nRedundancy and Disaster Recovery Planning.\nSecurity in Cloud Networks: Cloud-Native Security Controls, Intrusion\nDetection and Prevention Systems (IDPS), Identity and Access Management\n(IAM), Encryption Techniques and Zero-Trust\nArchitecture.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Monitoring, Troubleshooting, and Optimizing Cloud Networks :-\nNetwork Monitoring in Cloud: Tools for Cloud Network Monitoring, Setting\nUp Alerts and Dashboards.\nTroubleshooting Cloud Networks: Common Cloud Networking Issues and\nSolutions, Using Diagnostic Tools (e.g., Traceroute, Ping).\nNetwork Traffic Analysis and Optimization: Analyzing Traffic Patterns in\nCloud Networks, Performance Tuning and Cost- Effective Network\nConfiguration.\nAutomation in Cloud Network Management: Automating Network\nConfiguration and Management, Using Infrastructure as Code (IaC) Tools.",
+    "contact_hours": "9"
+  }
+]

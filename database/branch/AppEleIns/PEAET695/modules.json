@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Embedded Systems\nDefinition of Embedded System, Embedded Systems Vs General\nComputing Systems, History of Embedded Systems, Classification, Major\nApplication Areas, Purpose of Embedded Systems, Characteristics and\nQuality Attributes of Embedded Systems.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Typical Embedded System\nCore of the Embedded System – General Purpose and Domain Specific\nProcessors, ASICs, PLDs, Commercial Off-The-Shelf Components\n(COTS).\nMemory – ROM, RAM, Memory according to the type of Interface,\nMemory Shadowing, Memory selection for Embedded Systems, Sensors\nand Actuators, Communication Interface – Onboard and External\nCommunication Interfaces.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "RTOS Based Embedded System Design\nOperating System Basics, Types of Operating Systems, Tasks, Process and\nThreads, Multi processing and Multi-tasking, Task Scheduling, Task\nCommunication – Shared Memory, Message Passing, Device Drivers, How\nto Choose an RTOS.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Embedded system development process\nRequirements, Architecture, Selection of Operating system, Processor\nSelection, Development platform, Programming language - Coding issues,\nCode optimization, Efficient input/output-Testing and debugging, Verify\nthe software on the host system, Verify the software on the embedded\nsystem",
+    "contact_hours": "9"
+  }
+]

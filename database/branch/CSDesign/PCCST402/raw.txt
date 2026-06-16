@@ -1,0 +1,314 @@
+Course Code 
+PCCST402 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCCST303 
+Course Type 
+Theory 
+Course Objectives: 
+1. Equip the students with a comprehensive understanding of fundamental DBMS concepts as 
+well as the principles and applications of NoSQL databases 
+2. Enable students to design, implement, and manage both relational and NoSQL databases 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Databases :- Database System Concepts and Architecture- 
+Data Models, Schemas and Instances, Three-Schema Architecture and Data 
+Independence, Database Languages and Interfaces, Centralized and 
+Client/Server Architectures for DBMSs. 
+Conceptual Data Modelling and Database Design:- Data Modelling 
+Using the Entity, Relationship (ER) Model - Entity Types, Entity Sets, 
+Attributes, and Keys, Relationship Types, Relationship Sets, Roles, and 
+Structural Constraints, Weak Entity Types. Refining the ER Design for the 
+COMPANY Database. 
+ 
+11 
+2 
+The Relational Data Model and SQL - The Relational Data Model and 
+Relational Database Constraints-Relational Algebra and Relational 
+Calculus - Structured Query Language (SQL)-Data Definition Language,  
+Data Manipulation Language,  Assertions, Triggers, views,  Relational 
+Database Design Using ER-to-Relational Mapping. 
+ 
+11 
+3 
+Database Design Theory & Normalization - Functional Dependencies - 
+Basic definition; Normalization- First, Second, and Third normal forms. 
+Transaction Management - Transaction Processing : Introduction, problems 
+11 
+
+ 
+ 
+and 
+failures 
+in 
+transaction, 
+Desirable 
+properties 
+of 
+transaction, 
+Characterizing schedules based on recoverability and serializability; 
+Concurrency Control with Two-Phase Locking Techniques- Database 
+Recovery management: Deferred update-immediate update- shadow paging. 
+4 
+Introduction To NoSQL Concepts - types of NoSQL databases- CAP 
+Theorem- BASE properties-  Use Cases and limitations of NoSQL. 
+SQL architectural Patterns - Key value Stores, Graph Stores, Column 
+Family stores and Document Stores.    
+ 
+11 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Assignment/ 
+Micro project 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Tota
+l 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course, students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Summarize and exemplify the fundamental nature and characteristics of 
+database systems 
+K2 
+CO2 
+Model and design solutions for efficiently representing data using the 
+relational model or non-relational model 
+K3 
+CO3 
+Discuss and compare the aspects of Concurrency Control and Recovery in 
+Database systems 
+K3 
+CO4 
+Construct advanced SQL queries to effectively retrieve, filter, and 
+manipulate data from relational databases. 
+K3 
+CO5 
+Experiment with NoSQL databases in real world applications 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals of Database Systems 
+[Module 1,2,3,4] 
+Elmasri, Navathe 
+Pearson 
+7/e, 
+2 
+Making the Sense of NoSQL : A guide 
+for Managers and rest of us [Module 4] 
+Dan McCreary and  
+Ann Kelly 
+Manning 
+2014 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+CO2 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+2
+2
+3
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+CO5 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+A., H. F. Korth and S. 
+Sudarshan, Database System 
+Concepts,  
+ 
+Sliberschatz A., H. F. Korth 
+and S. Sudarshan, Database 
+System Concepts, 6/e, 
+McGraw 
+Hill, 2011. 
+McGraw 
+Hill, 
+7/e, 2011 
+2 
+Beginning Database Design 
+Solutions  
+Rod Stephens 
+Wiley 
+2/e, 2023 
+2 
+ NoSQL Distilled 
+Pramod J. Sadalage, Martin 
+Fowler 
+Addison- 
+Wesley 
+1/e, 2012 
+3 
+NoSQL Data Models: Trends 
+and Challenges (Computer 
+Engineering: Databases and 
+Big 
+Data),  
+Olivier Pivert 
+Wiley 
+2018 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc21_cs04/preview 
+2 
+https://onlinecourses.nptel.ac.in/noc21_cs04/preview 
+3 
+https://onlinecourses.nptel.ac.in/noc21_cs04/preview 
+4 
+https://archive.nptel.ac.in/courses/106/104/106104135/ 
+
+ 
+ 
+SEMESTER S4 
+OPERATING SYSTEMS   
+(Common to CS/CD/CM/CR/CA/AD/AI/CB/CN/CC/CU/CI/CG)

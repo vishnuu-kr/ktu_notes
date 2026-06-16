@@ -1,0 +1,53 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Basics of Computer Graphics and its applications. Video Display devices- Refresh Cathode Ray Tubes",
+      "Random Scan Displays and systems",
+      "Raster scan displays and systems. Line drawing algorithms-DDA",
+      "Bresenham’s algorithm. Circle drawing algorithms- Midpoint Circle generation algorithm",
+      "Bresenham’s algorithm"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Filled Area Primitives and transformations :Filled Area Primitives-Scan line polygon filling",
+      "Boundary filling and flood filling. Two dimensional transformations-Translation",
+      "Rotation",
+      "Scaling",
+      "Reflection and Shearing",
+      "Composite transformations",
+      "Matrix representations transformations",
+      "homogeneous coordinates. Basic 3D transformations. Clipping and Projections: Window to viewport transformation. Cohen Sutherland Line clipping algorithm. Sutherland Hodgeman Polygon clipping algorithm. Three dimensional viewing pipeline. Projections- Parallel and Perspective projections. Visible surface detection algorithms- Depth buffer algorithm",
+      "Scan line algorithm"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Introduction to Image processing and applications. Image as 2D data. Image representation in Gray scale, Binary and Colour images. Fundamental steps in image processing. Components of image processing system. Coordinate conventions. Sampling and quantization. Spatial and Gray Level Resolution. Basic relationship between pixels",
+      "neighbourhood, adjacency, connectivity. Fundamentals of spatial domain",
+      "convolution operation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Basic gray level transformation functions",
+      "Log transformations, Power-Law transformations, Contrast stretching. Histogram equalization. Basics of spatial filtering",
+      "Smoothing spatial filter-Linear and nonlinear filters, and Sharpening spatial filters-Gradient and Laplacian. Fundamentals of Image Segmentation. Thresholding",
+      "Basics of Intensity thresholding and Global Thresholding. Region based Approach",
+      "Region Growing, Region Splitting and Merging. Edge Detection",
+      "Edge Operators- Sobel and Prewitt"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

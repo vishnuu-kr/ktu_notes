@@ -1,0 +1,1560 @@
+Course Code 
+PCERL407 
+CIE Marks 
+50 
+Teaching Hours/Week 
+(L: T:P: R) 
+0:0:3:0 
+ESE Marks  
+50 
+Credits 
+2 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GBEST204 
+Course Type 
+Lab 
+ 
+Course Objectives:  
+1. To analyze and implement various network communication and flow control protocols. 
+2. To simulate network congestion control and routing mechanisms alongside studying traffic 
+analysis to develop skills in identifying and mitigating network congestion issues in diverse 
+network environments... 
+Expt.  
+No. 
+Experiments 
+1 
+Familiarize and understand  basics of network configuration files, networking commands 
+and the functioning of system calls used for network programming in Linux.*  
+2 
+Implement client-server communication using socket programming and TCP as transport 
+layer protocol*  
+3 
+Implement client-server communication using socket programming and UDP as transport 
+layer protocol*  
+4 
+Implement the framing methods employed in Data link layer.* 
+a. Bit stuffing 
+Character stuffing 
+5 
+Simulate sliding window flow control protocols.* 
+a. Stop and Wait 
+b. Go back N 
+Selective Repeat  
+6 
+Implement and simulate algorithm for Distance Vector Routing protocol.* 
+7 
+Implement Simple Mail Transfer Protocol.  
+8 
+Implement File Transfer Protocol.* 
+
+ 
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 50 marks, ESE: 50 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Preparation/Pre-Lab Work 
+experiments, Viva and Timely 
+completion of Lab Reports / Record 
+(Continuous Assessment) 
+Internal 
+Examination 
+Total 
+5 
+25 
+20 
+50 
+ 
+End Semester Examination Marks (ESE):  
+Procedure/ 
+Preparatory 
+work/Design/ 
+Algorithm 
+Conduct of experiment/ 
+Execution of work/ 
+troubleshooting/ 
+Programming 
+Result with valid 
+inference/ 
+Quality of 
+Output 
+Viva 
+voce 
+Record 
+Total 
+10 
+15 
+10 
+10 
+5 
+50 
+ 
+● Submission of Record: Students shall be allowed for the end semester examination only upon 
+submitting the duly certified record. 
+● Endorsement by External Examiner: The external examiner shall endorse the record 
+ 
+ 
+ 
+ 
+ 
+9 
+Understanding the Wireshark tool.* 
+10 
+Implement congestion control using a leaky bucket algorithm.* 
+11 
+Study of NS2 simulator*  
+12 
+Design and configure a network with multiple subnets with wired and wireless LANs 
+using required network devices. Configure commonly used services in the network.  
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Familiarize the fundamentals of networking commands, configuration files 
+and the use of system calls for network programming. 
+K2 
+CO2 
+Implement and interpret client-server communication through socket 
+programming, employing TCP and UDP as transport layer protocols. 
+K3 
+CO3 
+Implement simulation of sliding window flow control protocols routing 
+protocols and framing methods using programmatic approach. 
+K3 
+CO4 
+Implement and simulate file transfer protocols and congestion control 
+algorithms for networking  
+K3 
+CO5 
+Familiarize network configuration tools for configuring network with 
+multiple subnets. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO- PO Mapping (Mapping of Course Outcomes with Program Outcomes)  
+1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Networks 
+Andrew S. Tanenbaum  
+PHI (Prentice Hall 
+India) 
+4/e,2008 
+2 
+Data 
+Communication 
+and 
+Networking 
+Behrouz A Forouzan 
+Tata McGraw Hill 
+4/e,2007 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+CO2 
+3 
+ 
+2 
+2 
+2 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+CO3 
+3 
+ 
+2 
+2 
+2 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+CO4 
+3 
+ 
+2 
+2 
+2 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+CO5 
+3 
+ 
+2 
+2 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Networking and the 
+Internet 
+Fred Halsall 
+Addison-Wesley. 
+5/e,2005 
+2 
+James F. Kurose, Keith W. 
+Ross 
+Computer Networking: 
+A Top-Down Approach 
+Pearson  Education 
+6/e,2012 
+3 
+TCP/IP Sockets in C 
+Michael J Donahoo 
+Morgan Kaufmann 
+Publishers 
+2/e 
+4 
+Hands-On Network 
+Programming with C 
+Lewis Van Winkle 
+Packt Publishing 
+2019 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+                                                     Link ID 
+1 
+https://nptel.ac.in/courses/106105183 
+2 
+https://nptel.ac.in/courses/106106091 
+3 
+https://onlinecourses.swayam2.ac.in/cec21_cs04/preview 
+4 
+https://onlinecourses.nptel.ac.in/noc22_cs19/preview 
+ 
+Continuous Assessment (25 Marks) 
+1. Preparation and Pre-Lab Work (7 Marks) 
+● Pre-Lab Assignments: Assessment of pre-lab assignments or quizzes that test understanding 
+of the upcoming experiment. 
+● Understanding of Theory: Evaluation based on students’ preparation and understanding of 
+the theoretical background related to the experiments. 
+ 
+2. Conduct of Experiments (7 Marks) 
+● Procedure and Execution: Adherence to correct procedures, accurate execution of 
+experiments, and following safety protocols. 
+● Skill Proficiency: Proficiency in handling equipment, accuracy in observations, and 
+troubleshooting skills during the experiments. 
+
+ 
+ 
+● Teamwork: Collaboration and participation in group experiments. 
+3. Lab Reports and Record Keeping (6 Marks) 
+● Quality of Reports: Clarity, completeness and accuracy of lab reports. Proper documentation 
+of experiments, data analysis and conclusions. 
+● Timely Submission: Adhering to deadlines for submitting lab reports/rough record and 
+maintaining a well-organized fair record. 
+ 
+4. Viva Voce (5 Marks) 
+● Oral Examination: Ability to explain the experiment, results and underlying principles 
+during a viva voce session. 
+Final Marks Averaging: The final marks for preparation, conduct of experiments, viva, and record 
+are the average of all the specified experiments in the syllabus. 
+Evaluation Pattern for End Semester Examination (50 Marks) 
+1. Procedure/Preliminary Work/Design/Algorithm (10 Marks) 
+● Procedure Understanding and Description: Clarity in explaining the procedure and 
+understanding each step involved. 
+● Preliminary 
+Work 
+and 
+Planning: 
+Thoroughness 
+in 
+planning 
+and 
+organizing 
+materials/equipment. 
+● Algorithm Development: Correctness and efficiency of the algorithm related to the 
+experiment. 
+● Creativity and logic in algorithm or experimental design. 
+ 
+2. Conduct of Experiment/Execution of Work/Programming (15 Marks) 
+● Setup and Execution: Proper setup and accurate execution of the experiment or 
+programming task. 
+3. Result with Valid Inference/Quality of Output (10 Marks) 
+● Accuracy of Results: Precision and correctness of the obtained results. 
+● Analysis and Interpretation: Validity of inferences drawn from the experiment or quality of 
+program output. 
+ 
+
+ 
+ 
+4. Viva Voce (10 Marks) 
+● Ability to explain the experiment, procedure results and answer related questions 
+● Proficiency in answering questions related to theoretical and practical aspects of the subject. 
+ 
+5. Record (5 Marks) 
+● Completeness, clarity, and accuracy of the lab record submitted 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+INTEGRATED CIRCUITS LAB 
+Course Code 
+PCERL 408 
+CIE Marks 
+50 
+Teaching Hours/Week 
+(L: T:P: R) 
+0:0:3:0 
+ESE Marks  
+50 
+Credits 
+2 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBERT 
+304:Electronic 
+Devices and 
+Circuits 
+Course Type 
+Lab 
+ 
+Course Objectives:  
+1. To impart ability to handle the various electronic instruments and trouble shoot circuits.   
+2. To gain hands-on experience in designing electronic circuits using integrated circuits, 
+transistors and diodes. 
+ 
+ 
+Expt.  
+No. 
+Experiments 
+1 
+Measurement of current, voltage, frequency and phase shift of signal in a RC network 
+using oscilloscope.  
+2 
+Rectifier circuits with and without C filter.  
+3 
+Clipping and clamping circuits using diodes.  
+4 
+RC coupled amplifier using BJT in CE Configuration-Measurement of gain, BW and 
+plotting of frequency response.  
+5 
+Op-amp circuits – Design and set up of inverting and non-inverting amplifier  
+6 
+Op-amps circuits – adder, integrator, and differentiator.  
+7 
+Precision rectifier using Op-amps. 
+8 
+Phase shift oscillator and Wien’s Bridge oscillator using Op-amps.  
+9 
+Waveform generation– Square, triangular and saw tooth waveform generation using Op-
+amps. 
+10 
+Basic comparator and Schmitt trigger circuits using Op-amp  
+11 
+Astable and Monostable circuits using 555 IC.  
+12 
+D/A Converters - R-2R ladder circuit. 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 50 marks, ESE: 50 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Preparation/Pre-Lab Work 
+experiments, Viva and Timely 
+completion of Lab Reports / Record 
+(Continuous Assessment) 
+Internal 
+Examination 
+Total 
+5 
+25 
+20 
+50 
+ 
+End Semester Examination Marks (ESE):  
+Procedure/ 
+Preparatory 
+work/Design/ 
+Algorithm 
+Conduct of experiment/ 
+Execution of work/ 
+troubleshooting/ 
+Programming 
+Result with valid 
+inference/ 
+Quality of 
+Output 
+Viva 
+voce 
+Record 
+Total 
+10 
+15 
+10 
+10 
+5 
+50 
+ 
+● Submission of Record: Students shall be allowed for the end semester examination only upon 
+submitting the duly certified record. 
+● Endorsement by External Examiner: The external examiner shall endorse the record 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Use the various electronic instruments for conducting experiments 
+Apply 
+CO2 
+Design and develop various electronic circuits using diodes. 
+Apply 
+CO3 
+Design and implement amplifier and oscillator circuits using BJT  
+Apply 
+CO4 
+Design and implement basic circuits using IC (OPAMP and 555 timers). 
+Apply 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+CO- PO Mapping (Mapping of Course Outcomes with Program Outcomes)  
+1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Electronic Devices and Circuit 
+Theory 
+R E Boylstead and    L 
+Nashelsky 
+Pearson Education 
+11/e, 2015 
+2 
+Pulse, digital and Switching 
+Waveforms,  
+Millman and Taub 
+Tata McGraw Hill  
+2007 
+3 
+Opamps and Linear Integrated 
+circuits 
+Coughlin & Driscoll 
+Prentice Hall  
+6/e, 2009 
+4 
+Linear Integrated Circuits,  
+Choudhury R., 
+New Age 
+International  
+Publishers 
+4/e, 2017 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Sl. No. 
+Link ID 
+1 
+archive.nptel.ac.in/courses/108/108/108108111 
+ 
+Continuous Assessment (25 Marks) 
+1. Preparation and Pre-Lab Work (7 Marks) 
+● Pre-Lab Assignments: Assessment of pre-lab assignments or quizzes that test understanding 
+of the upcoming experiment. 
+● Understanding of Theory: Evaluation based on students’ preparation and understanding of 
+the theoretical background related to the experiments. 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+
+ 
+ 
+2. Conduct of Experiments (7 Marks) 
+● Procedure and Execution: Adherence to correct procedures, accurate execution of 
+experiments, and following safety protocols. 
+● Skill Proficiency: Proficiency in handling equipment, accuracy in observations, and 
+troubleshooting skills during the experiments. 
+● Teamwork: Collaboration and participation in group experiments. 
+3. Lab Reports and Record Keeping (6 Marks) 
+● Quality of Reports: Clarity, completeness and accuracy of lab reports. Proper documentation 
+of experiments, data analysis and conclusions. 
+● Timely Submission: Adhering to deadlines for submitting lab reports/rough record and 
+maintaining a well-organized fair record. 
+ 
+4. Viva Voce (5 Marks) 
+● Oral Examination: Ability to explain the experiment, results and underlying 
+principles during a viva voce session. 
+Final Marks Averaging: The final marks for preparation, conduct of experiments, viva, 
+and record are the average of all the specified experiments in the syllabus. 
+Evaluation Pattern for End Semester Examination (50 Marks) 
+1. Procedure/Preliminary Work/Design/Algorithm (10 Marks) 
+● Procedure Understanding and Description: Clarity in explaining the procedure and 
+understanding each step involved. 
+● Preliminary 
+Work 
+and 
+Planning: 
+Thoroughness 
+in 
+planning 
+and 
+organizing 
+materials/equipment. 
+● Algorithm Development: Correctness and efficiency of the algorithm related to the 
+experiment. 
+● Creativity and logic in algorithm or experimental design. 
+ 
+2. Conduct of Experiment/Execution of Work/Programming (15 Marks) 
+● Setup and Execution: Proper setup and accurate execution of the experiment or 
+programming task. 
+
+ 
+ 
+3. Result with Valid Inference/Quality of Output (10 Marks) 
+● Accuracy of Results: Precision and correctness of the obtained results. 
+● Analysis and Interpretation: Validity of inferences drawn from the experiment or quality of 
+program output. 
+ 
+4. Viva Voce (10 Marks) 
+● Ability to explain the experiment, procedure results and answer related questions 
+● Proficiency in answering questions related to theoretical and practical aspects of the subject. 
+ 
+5. Record (5 Marks) 
+● Completeness, clarity, and accuracy of the lab record submitted 
+ 
+
+ 
+ 
+ 
+ 
+SEMESTER 5 
+  ELECTRONICS & COMPUTER ENGINEERING
+
+ 
+ 
+SEMESTER S5 
+DIGITAL SIGNAL PROCESSING 
+Course Code 
+PCERT 501 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min.  
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the various design techniques and realization methods of FIR and IIR filters. 
+2. To describe signals mathematically and understand how to perform mathematical operations 
+on signals. 
+3. To understand the analytical tools such as Discrete Time Fourier Transforms, Discrete 
+Fourier Transforms, Fast Fourier Transforms and Z-Transforms required for digital signal 
+processing. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Signals, Systems and Digital Signal Processing: 
+Continuous and Discrete Time Signals, Generation of Discrete Time Signals 
+– Sampling, Elementary Discrete Time Signals. Classification of signals 
+(Continuous and Discrete) - Periodic and Non-Periodic Signals, Energy and 
+Power Signals, Even and odd signals. Operations on Signals (Continuous 
+and Discrete) - Shifting, Folding, Scaling. Discrete Time Systems-Properties 
+of Discrete Time Systems-Linearity, Time invariance, Causality, Stability. 
+Linear Time Invariant (LTI) Systems – Convolution sum, Impulse response. 
+Difference Equation representation of LTI Systems. Z-transform-Properties 
+of Z-transform, Inverse Z-transform, System Transfer function. Basic 
+Elements of Digital Signal Processing (DSP) System, Typical DSP 
+applications. 
+11 
+2 
+Frequency Domain Representation of Discrete-Time Signals: Discrete 
+Time Fourier Transform (DTFT), Discrete Fourier Transform (DFT)-
+10 
+
+ 
+ 
+Properties. Circular convolution and its relationship with linear convolution; 
+Relationship between DTFT and DFT 
+Efficient Computation of DFT: Fast Fourier Transform (FFT) Algorithms-
+Radix-2 Decimation in Time (DIT) and Decimation in Frequency (DIF) FFT 
+Algorithms, IDFT computation using Radix-2 FFT Algorithms 
+3 
+Design of Digital Filters: Classification of Digital filters: FIR Filter, IIR 
+Filter. Types of filters-LPF, HPF, BPF, BSF 
+Design of FIR Filters: Linear Phase FIR filters-Symmetric and Anti-
+symmetric FIR Filters, Gibbs Phenomenon, Design of linear phase FIR 
+filters using Window method (Rectangular, Hamming and Hanning). 
+Design of IIR Digital Filters: Analog Filters (Butterworth), Analog 
+Butterworth Prototype LPF filter design, IIR Filter Design using Impulse 
+Invariance, and Bilinear Transformation, Frequency Transformations in the 
+Analog domain (LPF and HPF only) 
+11 
+4 
+Realization of Digital Filters: Structures for the realization of Discrete 
+Time Systems: Block diagram and signal flow graph representations of 
+filters. 
+FIR Filter Structures: Linear Phase realization, Direct Form, Cascade Form. 
+IIR Filter Structures: Direct Form, Cascade Form and Parallel Form. 
+DSP architecture: Introduction to TMS320C67xx digital signal processor, 
+Functional Block Diagram and Description.   
+Finite word length effects in DSP systems: Introduction (analysis not 
+required), fixed-point and floating- point DSP arithmetic, ADC quantization 
+noise, Round-off error 
+12 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A
+Part B
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out of 
+which 1 question should be answered.  
+ Each question can have a maximum of 3 sub divisions. 
+(4x9 = 36 marks) 
+60 
+     Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Summarize the fundamental concepts of discrete-time signals, systems, 
+digital signal processing and obtain the transfer function of system using 
+Z-transform. 
+K2 
+CO2 
+Illustrate the fundamental concepts of DFT and compute DFT and IDFT. 
+K2 
+CO3 
+Design FIR filters and IIR filters for the given specifications. 
+K3 
+CO4 
+Realize the various FIR and IIR filter structures for given the system 
+function 
+K2 
+CO5 
+Explain the architecture ofTMS320C67xxDSPprocessorandthe finite word 
+length effects in DSP systems. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+2 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+2 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+2 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Signal Processing 
+Proakis J. G. and 
+Manolakis D. G. 
+Pearson Education 
+4/e, 2007 
+2 
+Discrete-Time 
+Signal 
+Processing 
+Alan V Oppenheim, 
+Ronald W. Schafer 
+Pearson Education 
+3/e, 2014 
+3 
+Digital Signal Processing: A 
+Computer Based Approach 
+Mitra S. K. 
+McGraw Hill 
+4/e, 2014 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Signal Processing: A 
+Practical Approach 
+Ifeachor E.C. and Jervis 
+B. W 
+Pearson Education  
+2/e,2009 
+2 
+Understanding Digital Signal 
+Processing 
+Lyons, Richard G. 
+Pearson Education 
+3/e,2004 
+3 
+Digital Signal Processing 
+Salivahanan S 
+McGraw - Hill 
+Education 
+4/e,2019 
+4 
+DSP applications using C and 
+the TMS320C6x DSK. 
+Chassaing, Rulph 
+John Wiley & Sons 
+2003 
+5 
+Digital Signal Processing 
+Vinay K. Ing1e, John G. 
+Proakis 
+Thomson 
+2004 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc21_ee28/preview 
+2 
+https://nptel.ac.in/courses/117105134 
+3 
+https://nptel.ac.in/courses/117102060 
+4 
+https://onlinecourses.nptel.ac.in/noc22_ee99/preview 
+
+ 
+ 
+SEMESTER S5 
+THEORY OF COMPUTATION 
+Course Code 
+PCERT 502 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min.  
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Design and implement Java applications that leverage OOP principles to achieve 
+modularity, reusability, and scalability in software development. 
+2. Understand and apply foundational object-oriented programming concepts in Java, 
+including classes, objects, inheritance, polymorphism, encapsulation, and abstraction. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to formal language theory – Alphabets, Strings, Concatenation 
+of strings, Languages. 
+Regular Languages - Deterministic Finite State Automata (DFA), 
+Nondeterministic Finite State Automata (NFA), Equivalence of DFA and 
+NFA (Proof not required), Regular Grammar (RG), Equivalence of RGs and 
+DFA (Proof not required). 
+11 
+2 
+Regular Expression (RE), Equivalence of REs and DFA (proof not 
+required), Pumping Lemma for regular languages. Closure Properties of 
+Regular Languages,  
+DFA state minimization (Myhill-Nerode Theorem). Applications of MNT 
+11 
+3 
+Context 
+Free 
+Grammar 
+(CFG), 
+derivation 
+trees 
+and 
+ambiguity. 
+Nondeterministic Pushdown Automata (PDA), Deterministic Pushdown 
+Automata (DPDA). Pumping Lemma for Context-Free Languages (Proof not 
+required), Closure Properties of Context Free Languages. 
+11 
+
+ 
+ 
+4 
+Context Sensitive Languages - Context Sensitive Grammar (CSG), Linear 
+Bounded Automata. 
+Turing Machines - Standard Turing Machine, Robustness, Recursive and 
+Recursively Enumerable Languages. 
+Chomsky classification of formal languages. 
+11 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Design and analyze deterministic and nondeterministic finite automata 
+and understand their equivalence with regular grammars. 
+K2 
+CO2 
+Apply regular expressions, finite automata, the pumping lemma, 
+closure properties, and the Myhill-Nerode Theorem for DFA 
+minimization. 
+K3 
+CO3 
+Understand and apply context-free grammars, derivation trees, and 
+ambiguity resolution, along with the design and analysis of 
+nondeterministic and deterministic pushdown automata, the pumping 
+lemma, and closure properties of context-free languages. 
+K3 
+CO4 
+Understand and apply context-sensitive grammars, linear bounded 
+automata, standard Turing machines, and the classification of formal 
+languages, including recursive and recursively enumerable languages. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Automata and Computability 
+Dexter C. Kozen 
+Springer 
+2007 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction 
+to 
+Automata 
+Theory, 
+Languages, 
+and 
+Computation 
+  John E Hopcroft, 
+Rajeev Motwani and 
+Jeffrey D Ullman, 
+Pearson Education 
+3/e, 2008 
+ 
+2 
+Introduction To Theory of 
+Computation 
+Michael Sipser, 
+Cengage Publishers  
+2014 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/104/106104148/ 
+2 
+https://archive.nptel.ac.in/courses/106/104/106104148/ 
+3 
+https://archive.nptel.ac.in/courses/106/104/106104148/ 
+4 
+https://archive.nptel.ac.in/courses/106/104/106104148/ 
+
+ 
+ 
+SEMESTER S5 
+MICROCONTROLLERS AND INTERFACING 
+ 
+Course Code 
+PCERT 503 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min.  
+Prerequisites (if any) 
+PCERT 402 Computer 
+Organization and 
+Architecture 
+Course Type 
+Core  
+ 
+Course Objectives: 
+1. To introduce the students to the architectural features of microcontrollers, capabilities of 
+microcontroller and their utilisation. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+8051 Microcontroller: Introduction, comparison of Microprocessor and 
+microcontroller, Evolution of microcontrollers from 4-bit to 32-bit, Selection 
+of microcontrollers, Applications of microcontrollers. 8051 Architecture- 
+Registers, Pin diagram, I/O ports functions, Internal Memory organization. 
+External Memory (ROM & RAM) interfacing. 
+9 
+2 
+Addressing modes and accessing memory using various addressing modes, 
+instruction set: Arithmetic, Logical, Simple bit, jump, loop and call 
+instructions, Stack, Stack and Subroutine instructions. Assembly language 
+program examples 
+9 
+3 
+Timers and Counters, Interrupts, interfacing seven segment displays, 
+displaying information on an LCD, control of a stepper Motor, ADC, DAC. 
+8051 Serial Communication- Basics of Serial Data Communication, RS- 232 
+standard, 9 pin RS232 signals, Simple Serial Port programming to transmit a 
+message and to receive data serially. 
+9 
+
+ 
+ 
+4 
+ARM processor fundamentals – Registers, Current Program Status Register, 
+Pipeline, Exceptions, Interrupts, and the Vector Table, Core Extensions, 
+Architecture Revisions. Introduction to ARM family, ARM7 register 
+architecture, ARM programmer's model. Raspberry pi 4 board - Introduction 
+and brief description. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Identify features of various microcontroller 
+K2 
+CO2 
+Write and execute assembly language programs for given application 
+K3 
+CO3 
+Interface microcontroller with hardware for given application 
+K3 
+CO4 
+Able to understand architecture of the ARM Processor 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The 8051 Microcontroller 
+and Embedded Systems – 
+using assembly and C 
+Muhammad Ali Mazidi 
+Janice Gillespie Mazidi and 
+Rollin D. McKinlay 
+Pearson 
+2e, 2007 
+2 
+The 8051 Microcontroller 
+Kenneth J. Ayala 
+Cengage 
+3e, 2007 
+3 
+ARM System - on-chip 
+Architecture  
+Steve Furber 
+Pearson Education 
+2e, 2001 
+4 
+ARM System Developer’s 
+guide  
+Andrew N. Sloss, Dominic 
+Symes, Chris Wright 
+Morgan Kaufman 
+2004 
+5 
+Microcontrollers: 
+Architecture, Programming, 
+Interfacing and System 
+Design 
+Raj Kamal 
+Pearson Education 
+2005 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The 8051 Microcontroller 
+Based Embedded Systems 
+Manish K Patel 
+McGraw Hill 
+2014 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/108/105/108105102/ 
+2 
+https://archive.nptel.ac.in/courses/108/105/108105102/ 
+3 
+https://archive.nptel.ac.in/courses/108/105/108105102/ 
+4 
+https://archive.nptel.ac.in/courses/108/105/108105102/  
+ 
+ 
+
+ 
+ 
+SEMESTER S5 
+DATABASE MANAGEMENT SYSTEMS

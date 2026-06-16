@@ -1,0 +1,337 @@
+Course Code 
+PECST634 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To learn the fundamentals of data modeling, query processing, and design in advanced 
+databases and study the working principles of distributed databases.  
+2. To learn emerging databases such as XML and NoSQL. 
+3. To enable the student to use tools, methodologies, and skills for working successfully with 
+databases in today's global, data driven business model.  
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Query Processing and Optimization - Measures of query cost, Algorithms for 
+Selection with cost analysis, Algorithms for Join with cost analysis, Evaluation 
+of expressions; Heuristics in Query Optimization - Optimization of Relational 
+Algebra expressions; Physical Database Design and Tuning - Introduction to 
+Physical Database Design, Overview of Database Tuning, Tuning the 
+Conceptual Schema, Tuning Queries and Views; Impact of Concurrency. 
+9 
+2 
+Distributed Databases - Distributed Systems, Introduction, Architecture, 
+Distributed Database Concepts, Distributed Data Storage, Distributed 
+Transactions, Commit Protocols, Concurrency Control; Query Processing and 
+Decomposition - Query Processing Objectives, Characterization of Query 
+Processors, Layers of Query Processing, Query Decomposition, Localization 
+of Distributed Data. 
+9 
+3 
+XML and Non Relational Databases - Introduction to Semi Structured Data 
+and XML Databases, XML Data Model – XSD, XML: DTD and XML 
+9 
+
+ 
+ 
+Schema, XML Presentation, XPath Queries, XQuery; NoSQL Databases - 
+CAP Theorem, Document based; MongoDB Operation - Insert, Update, 
+Delete, Query, Indexing, Application, Replication, Sharding, Deployment; 
+Cassandra - Data Model, Key Space, Table Operations, CRUD Operations. 
+4 
+Graph database - Introduction, Data Modelling with Graphs, Building a Graph 
+Database application, Data Modeling, Predictive Analysis with Graph Theory; 
+Depth and Breadth First Search; Path-Finding with Dijkstra’s Algorithm; 
+Graph Theory and Predictive Modeling 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions. 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply various measures for query processing and optimization and 
+apply techniques to tune database performance. 
+K3 
+CO2 
+Explain the architecture and fundamental concepts of distributed 
+databases. 
+K2 
+CO3 
+Utilize semi-structured data, XML, and XML queries for effective data 
+management 
+K3 
+CO4 
+Utilize NoSQL database systems to manage and manipulate data in real-
+time applications 
+K3 
+CO5 
+Develop advanced skills in graph database concepts, covering data 
+modeling, application building, and the application of graph theory for 
+predictive analysis and modeling. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO1
+0 
+PO1
+1 
+PO1
+2 
+CO1 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+2 
+2 
+ 
+    2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals of Database Systems 
+Ramez Elmasri, Shamkant 
+B. Navathe 
+Pearson 
+ 
+7/e, 2017 
+2 
+Database System Concepts  
+A. Silberschatz, H. Korth, 
+S. Sudarshan 
+McGraw-Hill 
+7/e, 2021 
+3 
+Database Management Systems 
+R. Ramakrishnan, J. 
+Gehrke 
+McGraw Hill 
+3/e, 2018 
+4 
+Graph Databases 
+Ian Robinson, Jim Webber 
+& Emil Eifrem 
+O’Reilly 
+2/e, 2015 
+5 
+Database Systems  
+T. M. Connolly, C. Begg 
+Pearson 
+6/e, 2019 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Principles of Database Management: 
+Practical Guide to Storing, Managing 
+and Analyzing Big and Small Data 
+W. Lemahieu, S. 
+vanden Broucke and B. 
+Baesens 
+Cambridge 
+University 
+Press 
+1/e, 2018 
+2 
+Designing Data-Intensive Applications: 
+The Big Ideas Behind Reliable, Scalable, 
+and Maintainable Systems 
+M. Kleppmann 
+O’Reilly 
+1,e2017 
+3 
+Database Systems: The Complete Book 
+Hector Garcia-Molina 
+Jeffrey D. Ullman 
+Jennifer Widom 
+Prentice Hall 
+2/e, 2009 
+4 
+Next generation databases: NoSQL, 
+newSQL, and big data. Apres.  
+Guy Harrison 
+Apress 
+1/e, 2015 
+5 
+Foundations of Multidimensional and 
+Metric Data Structures 
+Hanan Samet 
+Morgan 
+Kaufmann 
+1/e, 2006 
+ 
+ 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+CAP Theorem https://nptel.ac.in/courses/106104189  
+2 
+Advanced database Queries https://archive.nptel.ac.in/courses/106/104/106104021 
+3 
+Database design https://archive.nptel.ac.in/courses/106106093/ 
+4 
+Introduction to modern application development 
+https://archive.nptel.ac.in/courses/106/106/106106156 
+
+ 
+ 
+SEMESTER S6 
+WEB MINING

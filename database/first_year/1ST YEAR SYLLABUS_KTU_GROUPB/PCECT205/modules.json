@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Network fundamentals and analysis methods:\nConcept of networks and circuits, Circuit variables, Ideal and practical\nsources, Independent and dependent sources, Source transformation,\nKirchhoff’s laws. Mesh analysis, Node analysis, Super-mesh analysis and\nsuper-node analysis applied to both DC and AC networks containing\nindependent and dependent sources.\n11\nB.Tech 2024 –S1/S2\nAPJ Abdul Kalam Technological University",
+    "contact_hours": "134"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Network theorems and applications: Superposition theorem, Reciprocity\ntheorem, Thevenin’s theorem, Norton’s theorem, Millman’s theorem and\nMaximum power transfer theorem for the analysis of DC and AC networks\nhaving independent and dependent sources.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Laplace transforms and transient analysis: Laplace transforms of standard\nsignals and common functions, Laplace transform theorems (proof not\nrequired), Inverse Laplace transforms, Solution of differential equations.\nTransformation of basic signals and circuits to s – domain with and without\ninitial conditions. Transient analysis of RL, RC and RLC networks with DC,\nimpulse, step and sinusoidal inputs. Analysis of low pass and high pass RC\ncircuits using Laplace transforms.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Network functions and two-port parameters: Network functions for\nsingle-port and two-port networks, Properties of driving point and transfer\nfunctions, Significance of poles and zeros of network functions, Pole-zero\nplot. Impedance, Admittance, Hybrid and Transmission parameters of two-\nport networks, Reciprocity and symmetry conditions (derivation not\nrequired), Inter-relationships between parameters, Series and parallel\nconnections of two-port networks.",
+    "contact_hours": "11"
+  }
+]

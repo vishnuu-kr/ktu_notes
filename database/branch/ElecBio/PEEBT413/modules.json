@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Control Systems - Definition, Examples (including\nphysiological control systems), System configurations, Design\nconsiderations, Control system design process; Review of Laplace\nTransforms, Transfer function of LTI system, Model of simple electrical\nand mechanical systems; Concept of feedback, Reduction of Block\ndiagrams, Signal flow graph- Use of Mason's gain formula.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Time domain analysis- Standard test signals, Time response\nspecifications, First order system response, S-plane root location and\ntransient response, impulse and step response of second order systems,\nperformance and characteristics in the time domain, Steady state\nresponse - Steady state error and static error coefficients.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Frequency domain analysis - Frequency response techniques -\nfrequency response specifications, bode plots, gain margin and phase\nmargin via Bode plots; Routh - Hurwitz criterion, Root Locus\ntechniques, Concepts of relative stability. Overview of compensators\nfor design improvement.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "State space models - Introduction to the state variable concept, State\nmodel of mechanical and electrical systems. Various forms of\nrepresenting state space systems; Solution of continuous time state\nequations - (Homogeneous case only), State transition matrix -\nproperties, Controllability, Observability.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Operating System: Computer Hardware Organization,\nBIOS and Boot Process, Multithreading concepts, Processes, Threads,\nScheduling, Structures - Simple Batch, Multi-programmed, Time-shared,\nPersonal Computer, Parallel, Distributed Systems, Real-Time Systems,\nSystem components, Operating System services.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Basics of Real Time Concepts: Terminology: RTOS concepts and\ndefinitions, real-time design issues, examples, Hardware Considerations:\nlogic states, CPU, memory, I/O, Architectures, RTOS building blocks, Real-\nTime Kernel",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Process Management: Concepts, scheduling, IPC, RPC, CPU Scheduling,\nscheduling criteria, scheduling algorithms Threads: Multi-threading models,\nthreading issues, thread libraries, synchronization Mutex: creating, deleting,\nprioritizing mutex, mutex internals",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Inter-process Communication: Messages, Buffers, mailboxes, queues,\nsemaphores, deadlock, priority inversion\nPipes memory management: - Process stack management, run-time buffer\nsize, swapping, overlays, block/page management, replacement algorithms,\nreal-time garbage collection",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction (overview of network security issues",
+      "cryptographic algorithms",
+      "authentication techniques) - Layer 2/3 security - Authentication systems",
+      "Key establishment protocols",
+      "Kerberos- Secure communication at the data link and network layers (IPSEC and IKE) - Secure communication at the transport and application layers (SSL/TLS",
+      "email security",
+      "PGP) -Vulnerabilities of Internet protocols"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Secure Sockets Layer (SSL",
+      "SSL Protocol Stack",
+      "SSL Record Protocol Operation IP Security (IPsec",
+      "IP Security (IPsec) architecture",
+      "Benefits of IPsec Hypertext Transfer Protocol Secure (HTTPS) Kerberos",
+      "Drawbacks and limitations",
+      "Kerberos Vulnerabilities Transport Layer Security (TLS"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Denial of service (DoS) attacks and defences - Firewalls",
+      "IP spoofing prevention - Routing protocols security and router security - Domain name server (DNS) security - Traffic monitoring",
+      "Intrusion detection",
+      "Honeypots -Wireless networks security - Spam",
+      "Phishing",
+      "and Pharming - Malware propagation and containment",
+      "Botnets - Anonymity and privacy on the Web. Internet Security Protocols and Standards - TCP Attacks",
+      "DNS Vulnerabilities",
+      "SSL/TLS",
+      "DDoS - Next Generation System Designs and Challenges Cyber-Physical System Overview and Security - Internet of Things and Smart Grid Security - Data & Infrastructure Security in Cloud/Edge Computing"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Blockchain and Decentralized Applications- Hash cash and other Consensus Protocols Blockchain Security- Smart Contracts",
+      "Scalability and Privacy challenges, Security Economics and Risk Modelling",
+      "Cyber-Risk Assessment",
+      "Threat Information Sharing",
+      "Cyber-insurance"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

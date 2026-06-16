@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Sources of power dissipation in CMOS circuits\nDynamic Power Dissipation - Charging and Discharging capacitance power\ndissipation.\nShort Circuit Power dissipation - Short Circuit Current of Inverter, Short\ncircuit current dependency with input and output load, Glitching Power.\nStatic Power Dissipation - Leakage Power Dissipation.\nGate level power analysis - Capacitive, internal, and Static power dissipation\nof gate level circuit.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Power Reduction Techniques\nSupply voltage Scaling Approaches - Multi VDD and Dynamic VDD\nLeakage power reduction Techniques - Transistor stacking, VTCMOS,\nMTCMOS, DTCMOS,\nDynamic power dissipation - Power gating, Clock gating, Transistor and\nGate Sizing for Dynamic and Leakage Power Reduction.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Circuit design styles\nClocked design style - Basic concept, Domino logic (domino NAND gate),\nDifferential Current Switch Logic.\nNon-clocked circuit design style - fully complementary logic, NMOS and\npseudo–NMOS logic, differential cascade voltage switch logic (DCVS)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Adiabatic switching\nAdiabatic charging, adiabatic amplification, One stage and two stage\nadiabatic buffer, Adiabatic logic gates, pulsed power supplies, Reversible\nlogic basic concepts",
+    "contact_hours": "9"
+  }
+]

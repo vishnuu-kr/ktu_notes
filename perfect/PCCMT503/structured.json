@@ -1,0 +1,83 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Review of Neural Networks:-Biological Neuron vs. Artificial Neuron",
+            "Activation Functions (Step",
+            "Sign",
+            "Sigmoid",
+            "Softmax",
+            "tanh",
+            "ReLU",
+            "LreLU",
+            "EReLU functions",
+            "Single Layer Perceptron",
+            "Linear Separability",
+            "XOR Problem",
+            "Multilayer Perceptron",
+            "Back-propagation algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Convolutional Neural Networks (CNN):-CNN-Architectural Overview",
+            "Motivation",
+            "Layers",
+            "Filters",
+            "Parameter sharing",
+            "Regularization",
+            "Convolution and Pooling as infinitely strong prior",
+            "Variants of Convolution Operation",
+            "Efficient Convolution Computation Methods",
+            "Popular CNN Architectures (ResNet",
+            "Alexnet",
+            "VGGNet",
+            "Inception"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Recurrent Neural Networks (RNN):-Model of a typical RNN",
+            "Computation Graph",
+            "Bidirectional RNNs",
+            "Encoder - decoder sequence to sequence architectures",
+            "BPTT for training RNN",
+            "Deep Recurrent Networks",
+            "Recursive Recurrent Networks",
+            "Long Short Term Memory Networks (LSTM",
+            "Gated Recurrent Networks (GRU"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Unsupervised Deep Learning Models:-AutoEncoders(AE",
+            "Types of AutoEncoders (Undercomplete AE",
+            "Sparse AE",
+            "Deep AE",
+            "Contractive AE",
+            "Denoising AE",
+            "Convolutional AE",
+            "Variational AE",
+            "Boltzmann machines",
+            "Types of Boltzmann machines (Restricted Boltzmann Machines",
+            "Deep Belief Networks",
+            "Deep Boltzmann Machines) Applications of Deep Learning:-Speech Processing",
+            "Computer Vision",
+            "Natural Language Processing",
+            "Word Embedding Techniques (TF-IDF",
+            "Word2Vec",
+            "GloVe"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Data Analytics-Analytics Process Model",
+            "Analytical Model Requirements. Data Analytics Life Cycle overview",
+            "Probability calculus - probability distributions",
+            "Hypothesis Testing - Basic definitions. Proximity measures - Data Objects",
+            "Attribute types",
+            "Dissimilarity and Similarity measures Statistical Description of data - Central tendency",
+            "Dispersion",
+            "Range",
+            "Quartiles",
+            "Variance",
+            "Standard Deviation",
+            "and Interquartile Range"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Association of Two Variables-Summarizing the Distribution of Two Discrete Variables",
+            "Contingency Tables for Discrete Data",
+            "Joint",
+            "Marginal",
+            "and Conditional Frequency Distributions",
+            "Graphical Representation of Two Nominal or Ordinal Variables",
+            "Measures of Association for Two Discrete Variables",
+            "Association Between Ordinal and Continuous Variables",
+            "Visualization of Variables from Different Scales"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Data Preprocessing - Cleaning",
+            "Integration",
+            "Reduction",
+            "Transformation",
+            "Discretization Mining Frequent Patterns - Associations",
+            "Correlations",
+            "and Apriori Algorithms. Classification - General Approach to Classification",
+            "Attribute selection measures",
+            "Naive Bayesian Classification. Clustering-K-Means",
+            "Agglomerative versus Divisive Hierarchical Clustering",
+            "BIRCH",
+            "DBSCAN"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Text Processing - Boolean retrieval",
+            "Example IR problem",
+            "inverted index",
+            "processing Boolean queries",
+            "tokenization",
+            "stemming",
+            "phrase queries",
+            "vector space model",
+            "finite automata and language model",
+            "query likelihood model",
+            "naïve bayes text classification"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

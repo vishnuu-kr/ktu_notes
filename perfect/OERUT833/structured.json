@@ -1,0 +1,85 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Virtual instrument and traditional instrument",
+            "hardware and software in VI",
+            "VI for test",
+            "control and design",
+            "VI in engineering process",
+            "virtual instruments beyond personal computer",
+            "graphical system design using LabVIEW. Introduction to LabVIEW: Advantages",
+            "software environment",
+            "creating and saving VI",
+            "front panel and block diagram toll bar",
+            "palettes",
+            "controls and indicators",
+            "block diagram",
+            "data types",
+            "data flow program"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Build a VI front panel and block diagram",
+            "building a connector pane",
+            "displaying sub VIs and express VIs",
+            "creating sub VIs",
+            "Repetition and loops: For loops",
+            "while loops",
+            "structure tunnels",
+            "terminal inside or outside loops",
+            "shift registers",
+            "feedback nodes",
+            "control timing",
+            "communication among multiple loops",
+            "local and global variables"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Creating one dimensional",
+            "two dimensional",
+            "multi-dimensional arrays",
+            "array initialization",
+            "deleting",
+            "inserting",
+            "replacing elements within an array",
+            "array function",
+            "auto indexing. Structures: Case",
+            "sequence",
+            "customizing",
+            "timed structures",
+            "formula nodes",
+            "event structures"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Signals",
+            "signal conditioning",
+            "DAQ hardware configuration",
+            "DAQ hardware",
+            "analog inputs",
+            "outputs",
+            "counters. Motion control: Components",
+            "software for configuration",
+            "prototyping and development",
+            "motion controller",
+            "move types",
+            "motor amplifiers and drives",
+            "feedback devices and motion I/O"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

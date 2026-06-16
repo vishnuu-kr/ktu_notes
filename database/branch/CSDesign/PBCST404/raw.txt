@@ -1,0 +1,376 @@
+Course Code 
+PBCST404 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GAEST305 
+Course Type 
+Theory 
+ 
+Course Objectives 
+1. Introduce principles of computer organization and the basic architectural concepts using 
+RISC. 
+2. Introduce the concepts of microarchitecture, memory systems, and I/O systems. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Basic Structure of computers :– Functional units - Basic operational 
+concepts; Memory map; Endianness. 
+CISC vs RISC architectures:- RISC Introduction - Assembly Language, 
+Assembler directives, Assembling. 
+Programming concepts - Program flow, Branching, Conditional statements, 
+Loops, Arrays, Function calls; Instruction execution cycle. 
+Machine language - Instructions, addressing modes, Stored program 
+concept.  Evolution of the RISC Architecture. 
+11 
+2 
+Microarchitecture -  Introduction; Performance analysis; Single-Cycle 
+Processor - Single Cycle Datapath, Single Cycle Control; Pipelined 
+Processor - Pipelined Data Path, Pipelined Control:  Hazards, Solving 
+Data/Control Hazards, Performance Analysis. 
+11 
+3 
+Memory Systems: Introduction; performance analysis; Caches - basic 
+concepts, Cache mapping, Cache replacement, Multiple-Level Caches, 
+Reducing Miss Rate, Write Policy; Virtual Memory - Address Translation; 
+11 
+
+ 
+ 
+Page Table; Translation Lookaside Buffer; Memory Protection. 
+4 
+Input / Output - External Devices; I/O Modules;  Programmed I/O, 
+Interrupt Driven I/O; Direct Memory Access;  Embedded I/O Systems - 
+Embedded I/O, General Purpose I/O, Serial I/O, Other Peripherals. 
+11 
+ 
+Suggestion on Project Topics 
+Use 
+simulators 
+such 
+as 
+Ripes 
+(https://github.com/mortbopet/Ripes) 
+/ 
+GEM5 
+(https://www.gem5.org/) implement components of computer systems such as Various Cache 
+organization and study the effect, Solutions to hazards, TLBs.   
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+ 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● 
+Total of 8 Questions, each 
+carrying 2 marks 
+(8x2 =16 marks) 
+2 questions will be given from each module, out of which 1 
+question should be answered. Each question can have a 
+maximum of 2 subdivisions. Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Identify the basic structure and functional units of a digital computer and the 
+features of RISC architecture. 
+K2 
+CO2 
+Experiment with the single cycle processor, pipelining, and the associated 
+problems.   
+K3 
+CO3 
+Utilize the memory organization in modern computer systems. 
+K3 
+CO4 
+Experiment with the I/O organization of a digital computer. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Design and Computer 
+Architecture - RISC-V Edition  
+Sarah L. Harris, David 
+Harris 
+Morgan Kaufmann 
+1/e, 2022 
+2 
+Computer Organization 
+and Architecture 
+Designing for Performance 
+William Stallings 
+Pearson 
+9/e, 2013 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Organization and Design : 
+The Hardware/Software Interface: 
+RISC-V Edition 
+David A. Patterson 
+John L. Hennessy 
+ 
+Morgan 
+Kaufaman 
+1/e,2018 
+2 
+Computer Organization 
+and Embedded Systems 
+Carl Hamacher,  
+Zvonko Vranesic, 
+Safwat Zaky, 
+Naraig Manjikian 
+McGraw Hil 
+6/e, 2012 
+3 
+Modern Computer Architecture and 
+Organization 
+Jim Ledin 
+Packt Publishing 
+1/e,2020 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/106/105/106105163/ 
+2 
+https://archive.nptel.ac.in/courses/106/106/106106166/ 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery 
+Project 
+identification 
+Simulation/ 
+Laboratory Work/ 
+Workshops 
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group discussion Project Analysis 
+Data Collection 
+Evaluation  
+Question answer 
+Sessions/ 
+Brainstorming 
+Sessions 
+Analytical thinking 
+and 
+ self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project 
+reformation 
+(If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case Study/ Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 5 
+minutes video 
+
+ 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+1. Project Planning and Proposal (5 Marks) 
+● Clarity and feasibility of the project plan  
+● Research and background understanding  
+● Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+● Individual contribution to the presentation  
+● Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+● Active participation and individual contribution  
+● Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+● Adherence to the project timeline and milestones  
+● Application of theoretical knowledge and problem-solving  
+● Final Result 
+ 
+ 
+ 
+ 
+
+ 
+ 
+5. Final Presentation (5 Marks) 
+● Quality and clarity of the overall presentation  
+● Individual contribution to the presentation  
+● Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+● Overall quality and technical excellence of the project  
+● Innovation and originality in the project  
+● Creativity in solutions and approaches
+
+ 
+ 
+SEMESTER S4 
+ SOFTWARE ENGINEERING 
+(Common to CS/CD/CM/CR/CA/AD/AM/CB/CN/CU/CI)

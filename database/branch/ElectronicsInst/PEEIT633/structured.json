@@ -1,0 +1,81 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Single layer perceptrons",
+      "Multi Layer Perceptrons (MLPs",
+      "Representation Power of MLPs",
+      "Activation functions -Sigmoid",
+      "Tanh",
+      "ReLU",
+      "Softmax",
+      "Risk minimization",
+      "Loss function",
+      "Training MLPs with backpropagation",
+      "Practical issues in neural network training -The Problem of Overfitting",
+      "Vanishing and exploding gradient problems",
+      "Difficulties in convergence",
+      "Local and spurious Optima",
+      "Computational Challenges. Applications of neural networks"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Deep feed forward network",
+      "Training deep models",
+      "Optimization techniques - Gradient Descent (GD",
+      "GD with momentum",
+      "Nesterov accelerated GD",
+      "Stochastic GD",
+      "AdaGrad",
+      "RMSProp",
+      "Adam. Regularization Techniques - L1 and L2 regularization",
+      "Early stopping",
+      "Dataset augmentation",
+      "Parameter sharing and tying",
+      "Injecting noise at input",
+      "Ensemble methods",
+      "Dropout",
+      "Parameter initialization"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Convolution operation",
+      "motivation",
+      "pooling",
+      "Convolution and Pooling as an infinitely strong prior",
+      "variants of convolution functions",
+      "structured outputs",
+      "data types",
+      "efficient convolution algorithms"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Computational graphs",
+      "RNN design",
+      "encoder - decoder sequence to sequence architectures",
+      "deep recurrent networks",
+      "recursive neural networks",
+      "modern RNNs LSTM and GRU. Applications: computer vision",
+      "speech recognition",
+      "Natural Language processing Research Areas: autoencoders",
+      "representation learning",
+      "boltzmann machines",
+      "deep belief networks",
+      "Transformers"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

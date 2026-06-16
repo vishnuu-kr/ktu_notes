@@ -1,0 +1,45 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Artificial intelligence:-AI definition - Foundations of AI, History and applications of AI",
+      "Intelligent agents - Agents and Environments, The concept of rationality, The nature of environments, Structure of agents"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Problem Solving by Searching:-Problem Solving Agents and examples - Searching for Solutions",
+      "Uninformed Search strategies - Breadth First Search, Uniform Cost Search, Depth First Search, Depth Limited Search, Iterative deepening DFS",
+      "Heuristic function",
+      "Informed Search Strategies - Greedy Search, A* Search, AO* Search"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Advanced Search and Game Playing:-Adversarial Search - Games, Optimal decisions in Games, MinMax algorithm, Alpha_Beta pruning",
+      "Constraint Satisfaction Problems-Constraint Propagation, Inferences in CSP’s, Backtracking Search for CSP’s"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Knowledge, Logic, and Reasoning Patterns:-Knowledge Based Agents - The Wumpus World",
+      "Logic - Propositional Logic",
+      "First order logic - Syntax and Semantics, Using First Order Logic, Knowledge Engineering in First order logic, Inference in first order logic",
+      "Propositional vs. first order inference",
+      "Unification & Lifting",
+      "Forward chaining",
+      "Backward chaining"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

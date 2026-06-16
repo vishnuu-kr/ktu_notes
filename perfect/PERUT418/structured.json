@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Functional units- basic operational concepts",
+            "bus structures-bus operations-Arbitration",
+            "instruction Cycle",
+            "instruction sequencing and execution-Fundamental concepts-execution of a complete instruction-data path - Single bus and Multiple bus organization- hardwired control- microprogrammed control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Assembly language",
+            "Instructions",
+            "Operands",
+            "Registers",
+            "Memory and Constants. Machine Language: R-Type",
+            "I-Type",
+            "J-Type Instructions",
+            "Interpreting machine language code. MIPS Addressing Modes-Register only",
+            "Immediate",
+            "Base",
+            "PC-relative",
+            "Pseudo-direct Steps for executing a program - compilation",
+            "Assembling",
+            "Linking",
+            "Loading"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "A basic MIPS implementation",
+            "Building a Datapath",
+            "Control implementation Scheme",
+            "Pipelining",
+            "pipelined data path and control",
+            "handling data hazards and control hazards",
+            "exceptions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Basic Concepts",
+            "Semiconductor RAM",
+            "Memory Characteristics & Hierarchy",
+            "Cache memories",
+            "improving Cache Performance",
+            "Virtual memory",
+            "input output organization",
+            "programmed I/O, Interrupt driven I/O, DMA"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

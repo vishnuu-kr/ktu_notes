@@ -1,0 +1,58 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Elementary Signals",
+      "Classification of signals",
+      "Basic operations on signals. Concept of System",
+      "Classification",
+      "Properties of Systems-Linearity",
+      "Time invariance",
+      "Causality",
+      "Stability. Linear Time Invariant (LTI) Systems - Convolution sum",
+      "Impulse response",
+      "Difference Equation representation of LTI Systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Discrete Time Fourier Transform (DTFT",
+      "Discrete Fourier Transform (DFT)-Properties. Review of Laplace Transform",
+      "Region of Convergence (ROC",
+      "Properties of ROC",
+      "Transfer function",
+      "Stability and causality conditions. Analysis of LTI systems using Laplace transforms. Sampling of continuous time signals (definition and concept only",
+      "Sampling theorem for lowpass signals",
+      "aliasing. Basic Elements of a Digital Signal Processing (DSP) system",
+      "Typical DSP applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Block diagram of a communication system",
+      "Need for modulation. Principle of Amplitude Modulation (AM) - Frequency spectrum - power relations - generation of AM - DSB",
+      "DSB/SC",
+      "SSB. Angle Modulation - Frequency and Phase modulation - Theory and generation of Frequency Modulation (FM). Super heterodyne receivers (AM and FM"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Sampling Process-Pulse modulation Techniques-PAM",
+      "PWM and PPM",
+      "Principles of digital communication & advantages - PCM encoder and decoder",
+      "Applications of data communication. Digital modulation schemes - ASK",
+      "PSK. Suggestion on Project Topics"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

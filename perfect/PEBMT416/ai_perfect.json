@@ -1,0 +1,66 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Review of Digital System - Binary Decoder and Decoder Networks",
+            "Encoders - Priority Encoder",
+            "Multiplexers - Multiplexer Trees",
+            "Demultiplexers",
+            "Shifters - Barrel Shifter",
+            "Implementation of Combinational Circuits using Multiplexers and Decoders",
+            "Adder Modules - Ripple Carry Adder",
+            "Carry Look Ahead Adder (CLA)",
+            "Carry-Save Adder (CSA)",
+            "Comparator Module"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sequential Network Design - General Model for Sequential Network",
+            "State Tables",
+            "State Graphs",
+            "Derivation of State Graph",
+            "State Reduction - Equivalence Classes and State Assignment",
+            "Design Examples using the FSM Approach - Serial Adder",
+            "Modulo-p Counter",
+            "Pattern Recognizer"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Timing Characteristics and Hazards - Impediments to Synchronous Design - Clock Skew",
+            "Jitter",
+            "Gating the Clock",
+            "Asynchronous Inputs",
+            "Synchronizer Failure and Metastability",
+            "Data Synchronizer",
+            "Timing Hazard - Static Hazard",
+            "Dynamic Hazard",
+            "Essential Hazard and Designing Hazard Free Circuits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Digital Design Methodology using HDL and Programmable Devices - Fundamentals",
+            "Basic Language Elements - Data Object",
+            "Data Types",
+            "Identifiers",
+            "Process Statement - Signal Assignment vs Variable Assignment",
+            "Programmable Array Logic - Combinational PLDs (e.g., PAL 12H6)",
+            "Sequential PLDs (e.g., PAL 16R8)",
+            "Simple PLD (e.g., PAL 16R8)",
+            "Complex Programmable Logic Devices - Xilinx XC 9500 CPLD Family"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

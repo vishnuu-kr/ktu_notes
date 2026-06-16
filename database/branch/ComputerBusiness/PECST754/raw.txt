@@ -1,0 +1,300 @@
+Course Code 
+PECST754 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L:T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To impart the fundamental knowledge on incident management and reporting. 
+2. To provide a good understanding on devices, operating systems, network and mobile 
+forensics. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Digital Forensics -  Principles in Digital Forensics; Stages in 
+Digital Forensics Investigation- Forensics Imaging & Cloning, Concept of 
+Chain of Custody, Digital Evidence Handling at Crime Scene, 
+Collection/Acquisition and Preservation of Digital Evidence, Processing & 
+Analysis, Compilation of Findings & Reporting; Expansion of Stages in 
+Digital Investigation. 
+Types of Storage Media - Hard Disk Drives (HDD), Solid State Drives 
+(SSD), USB Flash Drives, Optical Discs, Memory Cards, Cloud Storage, 
+Drive Geometry, Cylinders, Heads, and Sectors, Logical Block Addressing 
+(LBA);  Expansion of Types of Storage Medium.  
+Overview of File Systems - Introduction to File Systems, File Systems in 
+Digital Forensics, FAT (File Allocation Table), Structure and Characteristics 
+: FAT12, FAT16, FAT32, NTFS (New Technology File System), Structure 
+and Characteristics, Master File Table (MFT), EXT (Extended File System), 
+EXT2, EXT3, EXT4, Journaling in EXT3 and EXT4, HFS (Hierarchical File 
+10 
+
+ 
+System), HFS and HFS+ Structure and Characteristics, Metadata and 
+Attributes 
+Tools suggested : Hex Viewer , FTK Imager , OS Forensics 
+2 
+Windows Forensics - OS Artefacts, Registry Analysis, Analysis of USB 
+Connections, Event Logs, Applications, Slack Space, Overwritten Files, Data 
+Recovery Techniques,  Volatile and Non-Volatile Data, Hibernation file 
+analysis,  Pagefile analysis, prefetch files, thumbnails, Timestamps, File 
+Signatures,  File System Analysis Tools, Techniques for Recovering Deleted 
+Files, File Carving; Memory Forensics - RAM dump and  analysis; Linux 
+and MAC Forensics; Anti Forensics Methods - Steganography, Encryption, 
+Alternate Data Streams. 
+Tools suggested : Hex Viewer, FTK Imager, Autopsy, RegRipper, Volatility, 
+Dumpit 
+9 
+3 
+Mobile Forensics -  Introduction to Mobile Forensics, Mobile Forensics 
+Fundamentals, Understanding Mobile Device Storage, Android, iOS, 
+Windows OS Artifacts, ADB (Android Debug Bridge), APK Files, 
+Techniques for Acquiring Data from Mobile Devices, Rooting, Jailbreaking.  
+Analysis of Application Files  -  Social Media Files, Understanding and 
+Analyzing APK Files, Messages,  Malware Analysis, Cloud Data in Mobile 
+Forensics, Analyzing Backups and Cloud Data, Advanced Data Recovery 
+Techniques (Bypassing Encryption, Password Cracking), Challenges in 
+Mobile Forensics. 
+Tools suggested : MobileCheck, BlueStacks(Android Emulator), SQLite 
+Database viewer 
+9 
+4 
+Network Forensics - Introduction to Network Forensics, Overview of 
+Network Architectures and Protocols, Capturing and Analyzing Network 
+Traffic using Wireshark/Tcpdump, Log Analysis, Email and Web Forensics, 
+Email Header Analysis; Endpoint Security systems - Intrusion Detection 
+Systems, Firewall, Router Forensics, NAS, Proxy, VPN; Public Key 
+Infrastructure Systems; Digital Signature - Concepts of Public Key and 
+Private Key, Certification Authorities and Their Role, Creation and 
+Authentication of Digital Signature. 
+Tools Suggested : Wireshark , Apache Log Viewer 
+8 
+ 
+ 
+ 
+ 
+
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Perform forensics analysis of hard disk, Network, and  mobile phones. 
+K3 
+CO2 
+Experiment with the network traffic dump.  
+K3 
+CO3 
+Examine the analyse logs of the systems and identify the anomalies. 
+K3 
+CO4 
+Plan an onsite triage in case of an incident. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Forensics and Incident 
+Response 
+Gerard Johansen 
+Packt 
+2/e, 2020 
+2 
+Guide to Computer Forensics and 
+Investigations 
+Bill Nelson, Amelia Phillips, 
+Christopher Steuart 
+Cengage 
+6/e, 2020 
+3 
+Practical Mobile Forensics 
+Rohit Tamma, Oleg Skulkin , 
+Heather Mahalik, Satish 
+Bommisetty 
+Packt 
+4/e, 2020 
+4 
+Mobile Forensics - Advanced 
+Investigative Strategies 
+Oleg Afonin, Vladimir 
+Katalov 
+Packt 
+1/e, 2016 
+5 
+Network Forensics : Tracking 
+Hackers Through Cyberspace 
+Sherri Davidoff, Jonathan 
+Ham 
+Pearson 
+1/e, 2013 
+6 
+File system forensic analysis 
+Brian Carrier 
+Addison-
+Wesley 
+1/e, 2005 
+7 
+Windows Forensics: The Field 
+Guide for Corporate Computer 
+Investigations 
+Chad Steel 
+Wiley 
+1/e, 2006 
+8 
+Android Forensics: Investigation, 
+Analysis and Mobile Security for 
+Google Android 
+Andrew Hoog 
+Syngress 
+1/e, 2011 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://onlinecourses.swayam2.ac.in/cec20_lb06/preview 
+2 
+https://www.swgde.org/documents/published-by-committee/quality-standards/ 
+3 
+https://csrc.nist.gov/pubs/sp/800/101/r1/final 
+
+ 
+SEMESTER S7 
+BUSINESS ETHICS AND CORPORATE GOVERNANCE

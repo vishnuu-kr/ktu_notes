@@ -1,0 +1,303 @@
+Course Code
+PEAIT415
+CIE Marks
+40
+Teaching Hours/Week
+(L: T:P:R)
+3:0:0:0
+ESE Marks
+60
+Credits
+5/3
+Exam Hours
+2 Hrs 30 mins
+Prerequisites (if any)
+NA
+Course Objectives:
+●
+To provide a comprehensive understanding of Robotic Process Automation (RPA)
+concepts and their practical applications.
+●
+To introduce various RPA tools and their interfaces, focusing on variables,
+arguments, and control flow.
+●
+To prepare students in advanced automation techniques including screen scraping,
+data manipulation, selectors, and Citrix automation.
+●
+To equip students with the skills to handle user events, build assistant bots, and
+manage bot deployment and maintenance effectively.
+SYLLABUS
+Module
+No.
+Syllabus Description
+Contact
+Hours
+1
+INTRODUCTION TO ROBOTIC PROCESS AUTOMATION-
+History of Automation - What is RPA - RPA vs Automation - Processes
+& Flowcharts - Programming Constructs in RPA - What Processes can
+be Automated - Types of Bots - Workloads which can be automated -
+RPA Advanced Concepts - Standardization of processes - RPA
+Development methodologies - Difference from SDLC - Robotic control
+flow architecture - RPA business case - RPA Team - Process Design
+Document/Solution Design Document - Industries best suited for RPA
+- Risks & Challenges with RPA - RPA and emerging ecosystem.
+9
+2
+AUTOMATION PROCESS ACTIVITIES- The User Interface -
+Variables - Managing Variables - Naming Best Practices - The
+Variables Panel - Generic Value Variables - Text Variables - True or
+False Variables - Number Variables - Array Variables - Date and Time
+Variables - Data Table Variables - Managing Arguments - Naming Best
+Practices - The Arguments Panel - Using Arguments - About Imported
+Namespaces - Importing New Namespaces- Control Flow - Control
+Flow Introduction - If Else Statements - Loops - Advanced Control
+Flow - Sequences - Flowcharts - About Control Flow - Control Flow
+9
+
+Activities - The Assign Activity - The Delay Activity - The Do While
+Activity - The If Activity - The Switch Activity - The While Activity -
+The For Each Activity - The Break Activity - Data Manipulation.
+Data Manipulation Introduction - Scalar variables, collections and
+Tables - Text Manipulation - Data Manipulation - Gathering and
+Assembling Data.
+3
+ADVANCED AUTOMATION CONCEPTS & TECHNIQUES:
+Recording Introduction - Basic and Desktop Recording - Web
+Recording - Input/Output Methods - Screen Scraping - Data Scraping -
+Scraping advanced techniques - Selectors - Defining and Assessing
+Selectors - Customization - Debugging - Dynamic Selectors - Partial
+Selectors - RPA Challenge - Image, Text & Advanced Citrix
+Automation - Introduction to Image & Text Automation - Image based
+automation - Keyboard based automation - Information Retrieval -
+Advanced Citrix Automation challenges - Best Practices - Using tab for
+Images - Starting Apps - Excel Data Tables & PDF - Data Tables in
+RPA - Excel and Data Table basics - Data Manipulation in excel –
+Extracting Data from PDF - Extracting a single piece of data - Anchors
+- Using anchors in PDF.
+9
+4
+HANDLING USER EVENTS & ASSISTANT BOTS: What are
+assistant bots? - Monitoring system event triggers - Hotkey trigger -
+Mouse trigger - System trigger - Monitoring image and element
+triggers.
+DEPLOYING AND MAINTAINING THE BOT: Publishing using
+publish utility - Creation of Server - Using Server to control the bots -
+Creating a provision Robot from the Server - Connecting a Robot to
+Server - Deploy the Robot to Server - Publishing and managing updates
+- Managing packages - Uploading packages - Deleting packages.
+9
+Course Assessment Method
+(CIE: 40 marks, ESE: 60 marks)
+Continuous Internal Evaluation Marks (CIE):
+Attendance
+Internal Ex
+Evaluate
+Analyse
+Total
+5
+15
+10
+10
+40
+
+Criteria for Evaluation (Evaluate and Analyse): 20 marks
+Suggested mark distribution for the evaluation include:
+1. Working RPA implementation - 10 Marks
+2. Process Design Documentation and/or Explaination - 5 Marks
+3. Presentation and Viva - 5 Marks
+Suggested Practice/Application-Based Implementations for Evaluation may include 1 or a
+combination of following ideas
+1. Setup and Configure a RPA tool and manage the user interface of the tool.
+2. Develop and demonstrate a simple RPA workflow using any RPA tool to automate data
+entry into an Excel sheet, or Extract data from a PDF and populate a form, or Web
+scraping from a site (e.g., extracting news headlines or stock prices), or Email
+automation and such types.
+3. Create a mini-bot that performs a basic repetitive task like copying files, renaming
+documents, filling forms etc, to simulate real-world constraints.
+4. Design a Process Design Document (PDD) for a real-life automation scenario in
+academics/administration.
+5. Give a pre-built bot project with intentional errors or broken selectors. Student must
+debug, fix and explain the issues.
+End Semester Examination Marks (ESE):
+In Part A, all questions need to be answered and in Part B, each student can choose any one
+full question out of two questions
+Part A
+Part B
+Total
+●
+2
+Questions
+from
+each module.
+●
+Total of 8 Questions,
+each carrying 3 marks
+(8x3 =24 marks)
+2 questions will be given from each module, out
+of which 1 question should be answered. Each
+question can have a maximum of 3 subdivisions.
+Each question carries 9 marks.
+(4x9 = 36 marks)
+60
+
+Course Outcomes (COs)
+At the end of the course students should be able to:
+Course Outcome
+Bloom’s
+Knowledge
+Level (KL)
+CO1
+Explain the basic concepts of RPA, distinguish RPA from
+traditional automation, and identify key components of RPA
+architecture.
+K2
+CO2
+Describe different types of variables, control flows, and data
+manipulation techniques used in RPA tools.
+K2
+CO3
+Develop and test RPA workflows using sequences, selectors, and
+scraping techniques to automate real-world processes.
+K3
+CO4
+Analyze various RPA tools, automation techniques and exception
+handling mechanisms to optimize workflow efficiency and error
+management.
+K4
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes)
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation
+Text Books
+Sl. No
+Title of the Book
+Name of the
+Author/s
+Name of the
+Publisher
+Edition
+and Year
+1
+Learning
+Robotic
+Process
+Automation: Create Software robots
+and automate business processes
+with the leading RPA tool - UiPath
+Alok
+Mani
+Tripathi
+Packt Publishing
+1e/2018
+2
+The Robotic Process Automation
+Tom Taulli
+Apress publications
+1e/2019
+PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PO12
+CO1
+3
+2
+2
+3
+3
+2
+CO2
+2
+2
+2
+2
+CO3
+2
+3
+2
+2
+CO4
+2
+2
+2
+CO5
+3
+3
+3
+3
+3
+3
+
+Handbook:
+A
+Guide
+to
+Implementing RPA Systems
+Reference Books
+Sl. No
+Title of the Book
+Name of the Author/s
+Name of the
+Publisher
+Edition
+and Year
+1
+Introduction
+to
+Robotic
+Process
+Automation:
+A
+Primer, Institute of Robotic
+Process Automation
+Frank Casale,
+Rebecca Dilla,
+Heidi Jaynes,
+Lauren Livingston
+Amazon Asia-Pacific
+Holdings
+Private
+Limited
+1e/2015
+2
+Robotic Process Automation:
+Guide To Building Software
+Robots, Automate Repetitive
+Tasks & Become An RPA
+Consultant.
+Richard Murdoch
+Amazon Asia-Pacific
+Holdings
+Private
+Limited
+1e/2018
+3
+Robotic Process Automation
+RPA- A Complete Guide
+A Gerardus Blokdyk
+5STARCooks
+2e/2020
+Video Links (NPTEL, SWAYAM)
+Module
+No.
+Link ID
+1
+https://www.youtube.com/watch?v=rXDcG0UV8Go
+2
+https://www.youtube.com/watch?v=QaPTqO_ypGE
+3
+https://www.youtube.com/watch?v=tPnHrO3kZ8U
+4
+https://www.youtube.com/watch?v=vjRg0FAmpig
+5
+https://www.youtube.com/watch?v=T3gssUSHonI
+
+SEMESTER S3/S4
+ECONOMICS FOR ENGINEERS

@@ -1,0 +1,349 @@
+Course Code 
+PEBMT865 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+PE 
+ 
+Course Objectives: 
+1. The overall objective of this course is to equip students with the theoretical and practical 
+fundamentals necessary to design and implement deep learning methods for real-world 
+medical image analysis problems. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Medical Imaging Basics - Differences between medical images and 
+natural images, Images as functions, Different imaging modalities, e.g., 
+MRI, CT, ultrasound, PET/SPECT, histopathology, Concept of physical 
+coordinate system 
+Deep Neural Networks and Convolutional Neural Networks (CNN) -  
+The Convolution Operation, Motivation, Convolution and Pooling as an 
+Inﬁnitely Strong Prior, Variants of the Basic Convolution Function, 
+Structured Outputs, Data Types, Eﬃcient Convolution Algorithms, 
+Random or Supervised Features, The Neuroscientific Basis for 
+Convolutional Networks, Convolutional Networks and history of Deep 
+Learning 
+ 
+9  
+2 
+Image Classification using TensorFlow - TensorFlow tutorial, Medical 
+applications of image classification, Cross entropy loss, VGG-16, ResNet-
+101, Image classification with transfer learning 
+Introduction to Image Segmentation - Medical applications of image 
+segmentation, Challenges in medical image segmentation  
+ 
+9 
+
+ 
+ 
+Deep Learning Based Image Segmentation - Transposed convolution, 
+Categorical cross entropy loss vs Dice loss, Fully convolutional networks, 
+U-Net  
+3 
+Introduction to Image Registration - Clinical applications of image 
+registration, Linear transforms: rigid, affine, explicit, parameter, implicit 
+Interpolators: nearest neighbour, linear, bilinear, Similarity metrics: sum 
+of squared differences, cross correlation, mutual information, SSIM, 
+Challenges in image registration, 2D Image Registration, Introduction to 
+3D Image Registration 
+9 
+4 
+Generative Adversarial Network (GAN) - Defining the Generator 
+Network, Defining the Discriminator Network, Defining loss and 
+optimizer, Training the discriminator, generator and complete network, 
+Inspecting the generated images. 
+Image-to-image Translation - Paired vs Unpaired image-to-image 
+translation, Pix2Pix, Cycle-GAN, Geometry-consistent GAN, Medical 
+applications of image-to-image translation 
+ 
+9  
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate  
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+Students should evaluate and analyse image analysis techniques for biomedical applications, 
+assess the proposed solutions and implement the chosen solution using necessary software or 
+hardware. 
+ 
+Criteria for evaluation: 
+1. Problem Definition (K4 - 4 points) 
+a. Clearly defines the problem. 
+b. Examine and identify relevant factors. 
+2. Problem Analysis (K4 - 4 points) 
+ . 
+Break-down and presents a well-reasoned solution approach. 
+3. Evaluate (K5 - 3 points) 
+ . 
+Thoroughly evaluate the proposed solutions. 
+4. Implementation (K5 - 4 points) 
+a. 
+Successfully translates the chosen solution into software or hardware 
+as necessary. 
+5. 
+Conclusion (K3- 3 points, K5 – 2 points) 
+a. 
+Summarizes findings and insights. State which solution is most appropriate for the problem 
+
+ 
+ 
+ 
+Scoring: 
+1. Accomplished (4 points): Exceptional analysis, clear implementation, and depth of 
+understanding. 
+2. Competent (3 points): Solid performance with minor areas for improvement. 
+3. Developing (2 points): Adequate effort but lacks depth or clarity. 
+Minimal (1 point): Incomplete or significantly flawed. 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand convolutional neural networks (CNN) and can implement 
+CNN in TensorFlow. 
+K2
+CO2 
+Use CNN, transformer networks, and transfer learning for image 
+classification. 
+K3
+CO3 
+Describe generative adversarial networks, self-attention mechanisms, 
+vision transformer, and variational diffusion models. 
+K2
+CO4 
+Apply the pix2pix and the Cycle-GAN for paired and unpaired image-
+to-image translation tasks. 
+K3
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The essential physics of 
+medical imaging 
+Bushberg, Jerrold T and 
+Boone, John M 
+Lippincott Williams & 
+Wilkins 
+2nd Edition, 
+2011 
+2 
+Deep Learning 
+Goodfellow, I., 
+Bengio,Y., and Courville 
+MIT Press 
+2016 
+3 
+Image Registration 
+Principles, Tools and Methods 
+A. Ardeshir Goshtasby 
+Springer 
+2012 
+4 
+Deep Learning with PyTorch: 
+A practical approach to 
+building neural network models 
+using PyTorch.  
+Subramanian, Vishnu 
+Packt Publishing Ltd 
+2018 
+5 
+Deep Learning for Computer 
+Vision: Expert techniques to 
+train advanced neural networks 
+using TensorFlow and Keras.  
+Shanmugamani, 
+Rajalingappaa 
+Packt Publishing Ltd 
+2018 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3
+3
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+ 
+CO2 
+3
+3
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+ 
+CO3 
+3
+3
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+ 
+CO4 
+3
+3
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+ 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Principles of soft computing 
+Deepa, S. N., and S. N. 
+Sivanandam 
+WILEY 
+2011 
+2 
+Convolutional neural network 
+architecture for 
+geometric matching 
+Rocco, Ignacio, Relja 
+Arandjelovic, and Josef 
+Sivic. 
+Proceedings of the 
+IEEE conference on 
+computer vision and 
+pattern recognition 
+2017 
+3 
+Generative adversarial 
+networks 
+Goodfellow, Ian 
+Communications of 
+the ACM 63.11 139- 
+144. 
+2020 
+4 
+U-net: Convolutional networks 
+for biomedical image 
+Segmentation 
+Ronneberger, Olaf, 
+Philipp Fischer, and 
+Thomas Brox. 
+International 
+Conference on 
+Medical image 
+computing and 
+computer-assisted 
+intervention. 
+Springer, Cham, 
+2015 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc22_bt34/preview 
+
+ 
+ 
+SEMESTER S8 
+IOT & BIOMEDICAL APPLICATIONS

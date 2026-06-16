@@ -1,0 +1,292 @@
+Course Code 
+PERAT525 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Students will be able to understand basic concepts of stress, strain and their relations based on 
+linear elasticity. 
+2. Students will be able to calculate buckling load on columns. 
+3. Students will be able to develop shear-moment diagrams of a beam and find the maximum 
+moment/shear and their locations. 
+4. Students will be able to calculate bending stresses on beams. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Simple Stresses & Strains: Types of stresses & strains, Hooke’s law, 
+Stress–strain diagram for mild steel, Lateral strain, Poisson’s ratio & 
+volumetric strain, Elastic moduli & the relationship between them, Principles 
+of superposition, Total elongation of tapering bars of circular and rectangular 
+cross sections. Elongation due to self–weight, Thermal stresses. 
+9 
+2 
+Shear Force and Bending Moment: Definition of beam, Types of beams 
+loadings and supports, Concept of shear force and bending moment, Sign 
+convention, Shear Force and Bending Moment diagrams for cantilever, 
+simply supported and overhanging beams subjected to point loads, uniformly 
+distributed loads, point couples and combination of these loads, Point of 
+inflexion and contraflexure. 
+Theories of Failure: Various theories of failure, Maximum Principal Stress 
+9 
+
+ 
+Theory, Maximum Principal Strain Theory, Strain Energy and Shear Strain 
+Energy Theory (Von Mises Theory). 
+3 
+Compound Stresses: Stress components on inclined planes, General two-
+dimensional stress system, Principal planes and stresses and Mohr’s circle of 
+stresses. 
+Torsion of circular shafts: Theory of pure torsion, Derivation of Torsion 
+equations, Torsional rigidity and polar modulus, Assumptions made in the 
+theory of pure torsion, Power transmitted by shaft of solid and hollow 
+circular sections, Combined bending, torsion and end thrust. 
+9 
+4 
+Flexural Stresses: Theory of simple bending, Assumptions, Derivation of 
+bending equation, Neutral axis, Determination of bending stresses of 
+rectangular section (Solid and Hollow), circular section (Solid and Hollow), I 
+section, T section, angle section and channel section. 
+Elastic stability of columns: Short and long columns, Euler’s theory of 
+columns, Assumptions, Effective length, Slenderness ratio, Effect of end 
+conditions, Derivations of Euler’s Buckling load for different end conditions, 
+Limitations of Euler’s theory, Rankine’s formula and problems. 
+9 
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Evaluation Method: Experiments Using FEM based solvers: (20 marks) 
+ 
+Students can perform specific experiments using tools ANSYS, ABACUS etc. 
+Each experiment can focus on structural analysis of robotic parts.  
+ 
+
+ 
+Three sample questions for experiments are given below: 
+ 
+1: Consider a thin structural steel plate as shown below. Compute the maximum normal stress 
+in the horizontal, X direction if 100 kN tensile load is applied to the left and right end 
+surfaces. Compare your result with the value you compute with the help of an FEM based 
+solver 
+ 
+2: Consider the long, thin structural steel beam shown below, fixed at one end, and free at the 
+other. Apply a pressure of 15N/m2 on the upper edge. Compute the vertical deflection at the 
+free end and the maximum bending stress at the top edge at the mid-length of the beam. Look 
+up the theoretical solution in your solid mechanics book and compare it with the help of an 
+FEM based solver. 
+ 
+3: The figure shows the robotic arm made of sheet metal and aluminium. The hollow cross-
+section is square and measures 80 and 40 mm at the bigger and smaller ends respectively. The 
+thickness of the sheet is 2mm. The arm is fixed at the bigger hole through a bolt and at the 
+smaller hole position, a torque of 10Nm is applied through a shaft. The distance between the 
+center of the holes is 240mm. The arm's length is 300mm and each hole is positioned 30mm 
+from the end. The bigger hole measures 20mm and the smaller hole measures 10mm in 
+diameter. Find the deformation and stress distribution using any FEM package. 
+ 
+ 
+
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+(8x3 =24marks) 
+ 
+2 questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+ 
+Each question can have a maximum of 3 
+sub divisions.  
+ 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Analyze the behavior of the solid bodies subjected to axial loading; 
+K3 
+CO2 
+Develop shear-moment diagrams of a beam and find the maximum 
+moment/shear and their locations 
+K3 
+CO3 
+Determine the stresses in shafts. Determine principal planes and 
+stresses, and apply the results to combined loading case. 
+K3 
+CO4 
+Determine the stresses in beams and columns. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Strength of Materials 
+S S Rattan 
+McGraw Hill 
+Education India 
+2nd edition, 
+2011 
+2 
+Mechanics of solids 
+R. K. Bansal 
+Laxmi Publications 
+2004 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Engineering Mechanics of 
+Solids 
+E. P. Popov, T. A. Balan 
+Pearson Education  
+2012 
+2 
+Mechanics of Materials 
+R. C. Hibbeler 
+Pearson Education 
+2008 
+ 
+
+ 
+SEMESTER S5 
+ROBOT OPERATING SYSTEM LAB

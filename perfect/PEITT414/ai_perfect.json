@@ -1,0 +1,68 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of CRT",
+            "Plasma",
+            "OLED",
+            "AMOLED",
+            "E-Paper Displays",
+            "Output Primitives - Line Drawing Algorithms - DDA",
+            "Bresenham's",
+            "Midpoint Circle Generation Algorithm",
+            "Filled Area Primitives - Scan Fill",
+            "Flood Fill",
+            "Boundary Fill",
+            "Inside-Outside Tests"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Two-Dimensional Transformations - Translation",
+            "Rotation",
+            "Scaling",
+            "Reflection and Shearing",
+            "Composite Transformations",
+            "Matrix Representations and Homogeneous Coordinates",
+            "2-D Clipping - Window to Viewport Transformation",
+            "Point Clipping",
+            "Cohen-Sutherland Line Clipping Algorithm",
+            "Sutherland-Hodgeman and Weiler-Atherton Polygon Clipping Algorithms"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Three-Dimensional Display Methods",
+            "Parallel Projection",
+            "Perspective Projection",
+            "Depth Cueing",
+            "Visible Line and Surface Identification",
+            "Surface Rendering",
+            "Exploded and Cutaway Views",
+            "Three-Dimensional and Stereoscopic Views",
+            "Three-Dimensional Transformations",
+            "Translation",
+            "Scaling",
+            "Rotation",
+            "Viewing Transformation",
+            "The Perspective Algorithms",
+            "Three-Dimensional Clipping",
+            "Perspective View of Cube"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Depth Buffer",
+            "A-Buffer",
+            "Scan Line",
+            "Depth Sorting Methods",
+            "Hidden Surface Removal: Back Face Detection - Z-Buffer Method - Painter's Algorithm - Scan-Line Algorithm - BSP Trees - Area Sub-division Method",
+            "Ray Tracing",
+            "Animation - Morphing",
+            "Introduction to Digital Image Processing"
+        ]
+    }
+]

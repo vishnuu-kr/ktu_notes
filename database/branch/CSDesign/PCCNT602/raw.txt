@@ -1,0 +1,320 @@
+Course Code 
+PCCNT602  
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GAMAT401 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. The purpose of this course is to make awareness about strong theoretical relationships 
+between computer graphics and image processing.  
+2. This course helps the learner to understand three dimensional environment representation in a 
+computer, transformation of 2D/3D objects, basic mathematical techniques and algorithms 
+used to build useful applications, imaging, and image processing techniques.  
+3. The study of computer graphics and image processing develops the ability to create image 
+processing frameworks for different domains and develops algorithms for emerging display 
+technologies. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Basics of Computer Graphics and its applications. Video Display 
+devices- Refresh Cathode Ray Tubes, Random Scan Displays and 
+systems, Raster scan displays and systems. Line drawing algorithms- 
+DDA, Bresenham’s algorithm. Circle drawing algorithms- Midpoint 
+Circle generation algorithm, Bresenham’s algorithm. 
+ 
+9 
+2 
+Filled Area Primitives and transformations :Filled Area Primitives- 
+Scan line polygon filling, Boundary filling and flood filling. Two 
+dimensional 
+transformations-Translation, 
+Rotation, 
+Scaling, 
+Reflection 
+and 
+Shearing, 
+Composite 
+transformations, 
+Matrix 
+representations transformations, homogeneous coordinates. Basic 3D 
+transformations. 
+Clipping and Projections: Window to viewport transformation. 
+ 
+9 
+
+ 
+ 
+Cohen Sutherland Line clipping algorithm. Sutherland Hodgeman 
+Polygon clipping algorithm. Three dimensional viewing pipeline. 
+Projections- Parallel and Perspective projections. Visible surface 
+detection algorithms- Depth buffer algorithm, Scan line algorithm 
+ 
+3 
+Fundamentals of Digital Image Processing: Introduction to Image 
+processing and applications. Image as 2D data. Image representation 
+in Gray scale, Binary and Colour images. Fundamental steps in image 
+processing. Components of image processing system. Coordinate 
+conventions. Sampling and quantization. Spatial and Gray 
+Level Resolution. Basic relationship between pixels– neighbourhood, 
+adjacency, connectivity. Fundamentals of spatial domain-convolution 
+operation. 
+9 
+4 
+Image Enhancement in Spatial Domain and Image Segmentation : 
+Basic gray level transformation functions - Log transformations, 
+Power-Law 
+transformations, 
+Contrast 
+stretching. 
+Histogram 
+equalization. Basics of spatial filtering - Smoothing spatial filter- 
+Linear and nonlinear filters, and Sharpening spatial filters-Gradient 
+and Laplacian. 
+ 
+Fundamentals of Image Segmentation. Thresholding - Basics of 
+Intensity thresholding and Global Thresholding. Region based 
+Approach - Region Growing, Region Splitting and Merging. Edge 
+Detection - Edge Operators- Sobel and Prewitt. 
+ 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written ) 
+Total
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, 
+out of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s Knowledge 
+Level (KL) 
+CO1
+Describe the working principles of graphics devices 
+K2 
+CO2
+Illustrate line drawing, circle drawing and polygon filling 
+algorithms  
+K3 
+CO3
+Demonstrate geometric representations, transformations on 2D & 
+3D objects, 
+clipping algorithms and projection algorithms
+K3 
+CO4
+Summarize visible surface detection methods 
+K2 
+CO5
+Summarize the concepts of digital image representation, 
+processing and demonstrate pixel relationships
+K3 
+C06 
+Solve image enhancement and segmentation problems using 
+spatial domain techniques 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PO12
+CO1
+2 
+1 
+2 
+CO2
+3
+2
+1
+1
+3
+CO3
+3 
+2 
+1 
+1 
+3 
+CO4
+2
+1
+2
+CO5
+3 
+2 
+1 
+1 
+3 
+C06 
+3 
+2 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+
+ 
+ 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Computer Graphics 
+Donald Hearn and 
+M. Pauline Baker
+PHI 
+Second Edition, 
+1996
+2 
+Digital Image 
+Processing
+Rafael C. Gonzalez and 
+Richard E. Woods 
+Pearson 
+Fourth Edition, 
+2017
+ 
+ 
+Reference Books 
+Sl. 
+No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher
+Edition and 
+Year
+1 
+Principles of Interactive  
+William M. Newman 
+and Robert F. Sproull
+McGraw Hill 
+2001 
+ 
+2 
+Computer Graphics 
+(Schaum’s outline Series) 
+Zhigang Xiang and Roy 
+Plastock 
+McGraw Hill 
+ 
+2019. 
+3 
+Procedural Elements for 
+Computer Graphics
+David F. Rogers 
+Tata McGraw 
+Hill
+2001. 
+4 
+Image Processing, Analysis, 
+and Machine Vision
+M. Sonka, V. Hlavac, 
+and R. Boyle
+Thomson India 
+Edition 
+Fourth 
+Edition, 2017
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No.
+Link ID 
+1 
+https://rb.gy/ibinnj
+2 
+https://www.youtube.com/watch?v=oC88BbDwlDk 
+3 
+https://rb.gy/xc2n5u
+4 
+https://rb.gy/9oe364
+
+ 
+ 
+SEMESTER S6 
+USER INTERFACE SOFTWARE AND TECHNOLOGY (UIST)

@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Line Coding Schemes: Unipolar",
+            "Polar",
+            "Bipolar and Block Coding",
+            "Scrambling",
+            "Analog-to-Digital Conversion: Pulse Code Modulation",
+            "Delta Modulation, Digital-to-Analog Conversion: ASK",
+            "PSK, Transmission Modes: Parallel and Serial Transmission",
+            "Asynchronous",
+            "Synchronous",
+            "Isochronous Transmission",
+            "Multiplexing: TDM"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Overview of Computer Communication, Introduction, Types of Computer Networks",
+            "Network Software, Protocol Hierarchies",
+            "Connection-Oriented and Connectionless Hierarchies",
+            "Reference Models, ISO-OSI Reference Model",
+            "TCP/IP Reference Model, Comparison of OSI and TCP/IP Reference Models, Physical Layer: Guided Transmission Media, Twisted Pair",
+            "Coaxial and Fiber Optics, Data Link Layer: Design Issues, Error Detection: Parity Check",
+            "Checksum",
+            "Error Correction: Hamming Code, Flow Control: Stop-and-Wait",
+            "Go-Back-N",
+            "Selective Repeat, Multiple Access Protocols: ALOHA",
+            "CSMA",
+            "CSMA/CD",
+            "Collision-Free Protocols"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Network Layer and Transport Layer, Network Layer Design Issues",
+            "Routing Algorithm, Optimality Principle, Flooding, Distance Vector Routing, Link State Routing, Congestion Control Algorithms, General Principles, Congestion Prevention Policies, Choke Packets, Random Early Detection",
+            "Transport Layer, Transport Services",
+            "Elements of Transport Protocols",
+            "Introduction to UDP",
+            "Introduction to TCP, TCP Service Model",
+            "TCP Segment Header",
+            "TCP Connection Establishment and Release"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Network Security, Introduction to Network Security",
+            "Principles of Cryptography, Symmetric Key Cryptography",
+            "Public Key Cryptography",
+            "Message Integrity and Digital Signatures",
+            "Securing E-mail",
+            "Securing TCP Connections",
+            "IPSec",
+            "Firewalls and Intrusion Detection Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

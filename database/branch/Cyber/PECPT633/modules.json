@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction (overview of network security issues, cryptographic algorithms,\nauthentication techniques) - Layer 2/3 security - Authentication systems,\nKey establishment protocols, Kerberos- Secure communication at the data\nlink and network layers (IPSEC and IKE) - Secure communication at the\ntransport and application layers (SSL/TLS, email security, PGP) -\nVulnerabilities of Internet protocols",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Secure Sockets Layer (SSL) - SSL Protocol Stack - SSL Record Protocol\nOperation IP Security (IPsec) - IP Security (IPsec) architecture - Benefits of\nIPsec Hypertext Transfer Protocol Secure (HTTPS) Kerberos - Drawbacks\nand limitations - Kerberos Vulnerabilities Transport Layer Security (TLS).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Denial of service (DoS) attacks and defences - Firewalls, IP spoofing\nprevention - Routing protocols security and router security - Domain name\nserver (DNS) security - Traffic monitoring, Intrusion detection, Honeypots -\nWireless networks security - Spam, Phishing, and Pharming - Malware\npropagation and containment, Botnets - Anonymity and privacy on the Web.\nInternet Security Protocols and Standards - TCP Attacks, DNS\nVulnerabilities, SSL/TLS, DDoS - Next Generation System Designs and\nChallenges\nCyber-Physical System Overview and Security - Internet of Things and\nSmart Grid Security - Data & Infrastructure Security in Cloud/Edge\nComputing.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Blockchain and Decentralized Applications- Hash cash and other Consensus\nProtocols Blockchain Security- Smart Contracts - Scalability and Privacy\nchallenges, Security Economics and Risk Modelling - Cyber-Risk\nAssessment - Threat Information Sharing - Cyber-insurance",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,874 @@
+Course Code 
+PEBMT631 
+CIE Marks 
+40 
+Teaching Hours/Week (L: 
+T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Nil 
+Course Type 
+PE 
+ 
+Course Objectives: 
+1. Is to enable the students to understand embedded-system programming and apply that 
+knowledge to design and develop embedded solutions. 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Overview of Embedded System: Embedded System –architecture - Features 
+-Categories, Requirements -Challenges and Issues. Applications of 
+Embedded Systems in Consumer Electronics and control systems. 
+Applications of Embedded Systems in Instrumentation & Biomedical 
+systems case study of low power mode of MSP430 and its use in embedded 
+systems. 
+9 
+2 
+Hardware Software Co-Design and Program Modelling –Fundamental 
+Issues, Computational Models- Data Flow Graph, Control Data Flow Graph, 
+State Machine. Sequential Model, Concurrent Model, Object oriented model, 
+UML. 
+9 
+3 
+Integration and Testing of Embedded Hardware and Firmware- Embedded 
+firmware design approaches, Embedded System Development Environment 
+– IDEs, Cross Compilers, Disassembles, Decompiles, Simulators, Emulators 
+and Debuggers. Features of Embedded c++ . 
+9 
+4 
+RTOS based Design – Basic operating system services-structure-kernel, 
+process, tasks, and threads. Process management-memory management-
+device 
+management, 
+Task 
+scheduling 
+algorithms- 
+non-pre-emptive 
+scheduling and Pre emptive scheduling 
+9 
+ 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO 1 
+Understand the basic idea regarding the nature of embedded system 
+and its application in different field. 
+K2 
+CO 2 
+Analyse and design a model for given operation of embedded system. 
+K2 
+CO 3 
+Understand the role of different software modules in the development 
+of an embedded system.  
+K3 
+CO 4 
+Study the basics of RTOS for embedded systems. Understand the Inter 
+process communication mechanism and synchronization. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Programming for Embedded 
+Systems  
+Dreamtech Software 
+Team 
+Wiley Dreamtech, 
+2002 
+2 
+Computers as Components: 
+Principles of Embedded 
+Computing System Design  
+Wayne Wolf 
+Morgan Kaufman 
+Publishers 
+2008 
+3 
+Introduction to Embedded 
+Systems  
+Shibu K.V 
+McGraw Hill 
+Education 
+2009 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+An Embedded Software Primer  
+David E. Simon 
+Pearson Education Asia
+2000  
+2 
+Embedded / Real time systems: 
+Concepts, Design and 
+Programming  
+Dr. K. V. K. K. Prasad 
+Dream Tech press 
+2003 
+3 
+Embedded systems: An 
+Integrated Approach  
+Lyla B. Das 
+Lyla B. Das 
+2012 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://onlinecourses.nptel.ac.in/noc20_cs14/preview 
+2 
+https://archive.nptel.ac.in/courses/106/105/106105193/ 
+3 
+https://onlinecourses.nptel.ac.in/noc20_ee98/preview 
+4 
+https://nptel.ac.in/courses/108102045 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+2 
+CO3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+2 
+CO4 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+2 
+
+ 
+ 
+SEMESTER S6 
+MEDICAL ROBOTICS 
+Course Code 
+PEBMT 632 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+PE 
+ 
+Course Objectives: 
+1. This course aims to make students able to understand the engineering aspects of Robots, analyse 
+and design robotic structures and their applications. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Components of robotic system: History of medical robots, Classification of 
+medical robots, Present status and future trends. Basic components of robotic 
+system. Basic terminology- Accuracy, Repeatability, Resolution, Degree of 
+freedom. Mechanisms and transmission, End effectors, Grippers-different 
+methods of gripping, Mechanical grippers-Slider crank mechanism, Screw 
+type, Rotary actuators, Cam type gripper, Magnetic grippers, Vacuum 
+grippers, Air operated grippers; Specifications of robot.  
+ 
+9 
+2 
+Drive systems and Sensors Drive system: Pneumatic Drives-Hydraulic 
+Drives-Mechanical Drives-Electrical Drives-D.C. Servo Motors, Stepper 
+Motors, A.C. Servo Motors-Salient Features, Applications and Comparison. 
+Sensors in robots – Touch sensors, Tactile sensor, Proximity and range 
+sensors, Robotic vision sensor, Force sensor, Light sensors, Pressure sensors. 
+ 
+9 
+3 
+Robot kinematics and robot programming: Forward Kinematics, Inverse 
+Kinematics and Difference; Forward Kinematics and Reverse Kinematics of 
+manipulators with Two, Three Degrees of Freedom (in 2 Dimension), Four 
+Degrees of freedom (in 3 Dimension) Jacobians, Velocity and Forces-
+Manipulator Dynamics, Trajectory Generator, Manipulator Mechanism 
+Design-Derivations and problems. Lead through Programming, Robot 
+programming Languages-VAL Programming-Motion Commands, Sensor 
+9 
+
+ 
+ 
+Commands, End Effector commands and simple Programs. 
+4 
+Robots in healthcare: Teleoperated Robot-Assisted Minimally Invasive 
+Surgery, Robot design concepts Robot assisted Image-Guided Interventions: 
+CT, MR, Ultrasound, Other applications: Robotic catheters for heart 
+electrophysiology, Humanoids, Micro/nano robots for biomedicine - 
+Delivery, surgery, sensing and detoxification 
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Introduce the fundamentals of robotics and its components  
+K2 
+CO2 
+Understand sensors and drive mechanisms in robotics  
+K2 
+CO3 
+Familiarize the Kinematics and robotic programming 
+K3 
+CO4 
+Analyse applications of robots in healthcare  
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+“Robot Modelling and Control” 
+Mark W. Spong, Seth 
+Hutchinson, and M. 
+Vidyasagar 
+John Wiley & Sons 
+2nd e,2020 
+2 
+"Medical robotics- Minimally 
+Invasive surgery" 
+ 
+Paula Gomes 
+ 
+Woodhead 
+2012 
+3 
+ 
+Industrial Robotics – 
+Technology, Programming and 
+Applications 
+ 
+Mikell and Groover 
+McGraw Hill 
+2/e, 2012 
+4 
+ 
+Introduction to Robotics. 
+Analysis and control, 
+applications 
+ 
+Saeed B. Niku 
+Wiley 
+2010 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+2 
+2 
+1 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+2 
+CO2 
+2 
+2 
+1 
+ 
+ 
+2 
+ 
+ 
+ 
+1 
+ 
+1 
+CO3 
+2 
+2 
+1 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+1 
+CO4 
+3 
+2 
+2 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+1 
+CO5 
+2 
+2 
+1 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+2 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+ “Introduction to Robotics 
+Mechanics and Control” 
+Craig J.J. 
+Pearson Education 
+2008 
+2 
+“Robotics Technology and 
+Flexible Automation”  
+Deb S.R. 
+Tata McGraw Hill 
+Book Co. 
+1994 
+3 
+“Medical Robotics” 
+Achim Schweikard, 
+Floris Ernst 
+Springer 
+2015 
+4 
+ “Medical Robots” 
+Daniel Faust 
+Rosen Publishers 
+2016 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://onlinecourses.nptel.ac.in/noc24_me88/preview 
+ 
+
+ 
+ 
+SEMESTER S6 
+BIO FLUID MECHANICS 
+Course Code 
+PEBMT 633 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Nil 
+Course Type 
+ 
+PE 
+ 
+Course Objectives: 
+1.  To teach basic fluid mechanics 
+2. Aware the fluid mechanics in human body 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Basic Fluid Mechanics Concepts-Fluid Characteristics and Viscosity, 
+Fundamental Method for Measuring Viscosity, Introduction to Pipe Flow, 
+Bernoulli Equation, Fluid Static,  The Womersley Number 
+ 
+9 
+2 
+Cardiovascular Structure and Function- Introduction, Clinical Features, 
+Functional Anatomy, The Heart as a Pump, Cardiac Muscle 
+Heart Valves, Heart Sounds, Coronary Circulation,  Microcirculation, 
+Lymphatic Circulation 
+ 
+9  
+3 
+Pulmonary 
+Anatomy,Pulmonary 
+Physiology, 
+and 
+Respiration-
+Introduction, Alveolar Ventilation,  Ventilation-Perfusion Relationships, 
+Mechanics of Breathing, Work of Breathing,  Gas Exchange and Transport,  
+Pulmonary Pathophysiology 
+9  
+4 
+Hematology 
+and 
+Blood 
+Rheology, 
+Elements 
+of 
+Blood,Blood 
+Characteristics,Viscosity Measurement 
+Anatomy and Physiology of Blood Vessels-  General Structure of Arteries , 
+Mechanics of Arterial Walls, Pulse Wave Velocity and the Moens–Korteweg 
+Equation, Vascular Pathologies, Coronary Artery Bypass Grafting. 
+ 
+9 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Aware Basic Fluid Mechanics Concepts 
+K2 
+CO2 
+Detailed study of Cardiovascular Structure and Function 
+K3 
+CO3 
+Explain Pulmonary Anatomy,Pulmonary Physiology, and Respiration 
+K2 
+CO4 
+Applications of Hematology and Blood Rheology 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Applied fluid mechanics 
+Lee Waite,Ph.D.,P.E. 
+Jerry Fine,Ph.D. 
+The McGraw-Hill 
+Compa 
+2007 
+2 
+Fluid Mechanics 
+Portonovo 
+S. Ayyaswamy 
+Elsevier Inc. All 
+rights reserved 
+2016 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+ 
+Biofluid Mechanics 
+ 
+Jagan N. Mazumdar 
+ 
+World Scientific Pub 
+Co Inc 
+ 
+1992 
+2 
+ 
+Biofluid Mechanics: An 
+Introduction to Fluid 
+Mechanics, Macrocirculation, 
+and Microcirculation  
+ 
+ 
+David Rubenstein, Wei 
+Yin, Mary D. Frame 
+ 
+Academic Press, AP, 
+A. P. 
+ 
+2021 
+3 
+ 
+Biofluid Mechanics: The 
+Human Circulation 
+ 
+ 
+Krishnan B. Chandran 
+(Author); Stanley E. 
+Rittgers (Author); Ajit P. 
+Yoganathan (Author) 
+ 
+CRC Press 
+2012 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://onlinecourses.nptel.ac.in/noc22_ce85/preview 
+2 
+https://onlinecourses.nptel.ac.in/noc22_ce85/preview 
+3 
+https://onlinecourses.nptel.ac.in/noc22_ce85/preview 
+4 
+https://onlinecourses.nptel.ac.in/noc22_ce85/preview 
+
+ 
+ 
+SEMESTER S6 
+COMPUTATIONAL METHODS IN BIOMEDICAL 
+ENGINEERING

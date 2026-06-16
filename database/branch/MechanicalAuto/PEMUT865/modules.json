@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Advanced Driver Assistance Systems (ADAS) Overview - Definition and\nobjectives of ADAS, Key ADAS features: Lane keeping assist, adaptive cruise\ncontrol, automated parking, Benefits, and challenges of ADAS\nFundamentals of Autonomous Driving - Levels of vehicle autonomy (SAE\nlevels 0-5), Key components of autonomous vehicles, Overview of\nautonomous vehicle architectures\nVehicle Communication and Networking - In-vehicle networking (CAN, LIN,\nFlexRay), Vehicle-to-everything (V2X) communication, Role of wireless\ntechnology in autonomous driving.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Radar and Lidar Systems - Basics of radar technology, Applications, and\nlimitations of radar in vehicles, Fundamentals of Lidar technology, Lidar\napplications in 3D mapping and obstacle detection\nCamera Systems and Image Processing - Types of cameras used in ADAS,\nImage processing techniques for vehicle safety, Night vision technology and\napplications\nUltrasonic and Infrared Sensors - Principles of ultrasonic sensor operation,\nApplications in parking assist and obstacle detection\nInfrared sensors and their role in ADAS\nSensor Data Fusion - Introduction to sensor data fusion, Techniques for\ncombining data from different sensors, Benefits of sensor fusion in enhancing\nsystem accuracy and reliability",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Artificial Intelligence and Machine Learning - Role of AI in autonomous\nvehicles, Machine learning algorithms for vehicle perception and decision-\nmaking, Deep learning applications in autonomous driving\nAutonomous Driving Platforms and Software - Overview of autonomous\ndriving software architectures, Key platforms: ROS (Robot Operating\nSystem), Autoware, Apollo, Software development and simulation tools\nPath Planning and Control Systems - Fundamentals of path planning\nalgorithms, Control systems for vehicle stability and navigation, Real-time\ndecision-making, and obstacle avoidance\nCloud Computing and Edge Processing - Role of cloud computing in\nautonomous vehicle ecosystems, Edge processing for real-time data handling,\nExamples of cloud-based autonomous driving platforms",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "System Integration and Calibration - Integration of ADAS components into\nvehicle systems, Calibration techniques for sensors and actuators, Challenges\nin system integration\nTesting and Validation - Testing methodologies for autonomous and ADAS\nsystems, Simulation environments and test tracks, Validation processes and\nsafety assessments\nMaintenance and Troubleshooting - Common issues in ADAS and\nautonomous systems, Diagnostic tools and software, Maintenance best\npractices for autonomous vehicles\nCase Studies and Future Trends- Case studies of leading autonomous vehicle\nprojects, Emerging trends in autonomous driving and ADAS technology,\nFuture directions, and research opportunities",
+    "contact_hours": "9"
+  }
+]

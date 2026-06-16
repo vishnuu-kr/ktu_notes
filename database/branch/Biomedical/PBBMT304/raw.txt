@@ -1,0 +1,484 @@
+Course Code 
+PBBMT304 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+ 
+Course Type 
+PC-PBL 
+ 
+Course Objectives: 
+1. Understanding of the fundamental principles of digital electronics, including Boolean 
+algebra, logic gates, and binary arithmetic, logic families etc. 
+2. Design and Implement various Combinational and Sequential logic circuits. 
+3. Apply theoretical knowledge to practical projects by designing, implementing, and testing 
+a digital system including thorough planning, documentation, and effective presentation 
+of project outcomes 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Number system: Binary, Octal, Hexadecimal and conversions, Binary 
+codes: BCD, XS-3 Gray code, Binary addition, subtraction 
+Boolean algebra: Boolean laws & Theorems, Logic gates - Basic gates and 
+Universal gates, Realization of different gates using Universal gates, SOP 
+& POS- minterm and maxterm expansion 
+Minimization technique: Algebraic and Karnaugh map (upto 4 variables), Don’t 
+care conditions. 
+ 
+9 
+2 
+Combinational logic circuit & design: Adders, Subtractors, Ripple carry 
+and 
+Carry 
+look 
+ahead 
+adders, 
+Code 
+Converters, 
+Multiplexers, 
+Demultiplexers, Decoder and Encoder. 
+Sequential logic circuits & design: Latches –SR latch, Flip Flops-SR, JK, T and 
+D Flip flops, master slave JK flip flop, conversion between flip flops. 
+ 
+9 
+3 
+Shift registers: SISO, SIPO, PISO, PIPO, bidirectional and universal 
+shift registers. 
+9 
+
+ 
+Counters: Asynchronous Counters – Modulus of a counter, Up/Down Counters, 
+mod-N counters, Ring counter, Johnson Counter, counters, Design of Synchronous 
+counters. 
+4 
+Introduction to State Machines: - Mealy and Moore machines-
+comparison. 
+Logic families: Characteristics- threshold voltage, propagation delay, power 
+dissipation, noise margin, logic voltage level, fan-in, fan-out, speed, operating 
+temperature, TTL: Basic working principle of TTL NAND gate, totem pole and 
+open collector gate o/p, Tristate logic configuration. 
+ 
+9  
+ 
+Suggestion on Project Topics (8 hrs) 
+1.Literature Review and Presentation on Digital Electronics Applications 
+● Choose a specific application of digital electronics preferably in biomedical field(e.g., ECG 
+monitoring, pulse oximetry, temperature sensing, digital health monitoring etc) 
+● Conduct a literature review on the chosen application, highlighting key concepts, recent 
+advancements, and real-world implementations 
+2. Selection of Digital Electronics Components 
+● Teams of preferably 4 members select specific digital electronic components relevant to their 
+chosen application (e.g., microcontrollers, FPGA boards, digital sensors, actuators). 
+● Justify the selection based on technical specifications, cost, and compatibility with 
+biomedical requirements. 
+3. Analysis and Presentation of Digital Electronic Components 
+● Analyze the working principles, characteristics, and application considerations of the 
+selected digital electronic components. 
+● Present findings to the class, focusing on how these components contribute to achieving 
+project     objectives. 
+4. Design, Development, and Testing of Digital Electronics System 
+● Design and develop a comprehensive digital electronics system based on the selected 
+components and application. 
+
+ 
+● Implement necessary digital logic circuits, firmware/software programming, and interface 
+design as per project requirements 
+5. Implementation of Digital Electronics Project 
+● Implement necessary digital logic circuits, firmware/software programming, and interface 
+design as per project requirements. 
+● Collaboratively create a fully functional digital electronics project. 
+● Document the design process, including schematic diagrams, code snippets, testing 
+procedures,   and results. 
+● Prepare a detailed project report outlining methodology, challenges faced, solutions 
+implemented, and future improvements 
+6. Project Evaluation 
+● Mid-term Evaluation (After one month): Assess progress, adherence to timeline, and initial 
+project outcomes.  
+● Final Evaluation (End of Course): Evaluate the completed digital electronics project based 
+on functionality, innovation, presentation, and documentation quality. Conduct a final 
+presentation to demonstrate the project to the class 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+ 
+ 
+
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Perform various binary arithmetic operations  
+K2 
+CO2 
+Apply Boolean principles to minimize logical expressions  
+K3 
+CO3 
+Design and Implement various Combinational circuits using logic gates. 
+K3 
+CO4 
+Design and Implement various Sequential circuits using logic gates. 
+K3 
+CO5 
+Design and develop projects by applying the digital principles. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each question 
+can have a maximum of 2 sub divisions. Each question 
+carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+CO2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+CO3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+CO4 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+CO5 
+3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+3 
+3 
+ 
+3 
+
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Fundamentals   
+T. L. Floyd 
+Pearson 
+International 
+Publications 
+10th 
+Edition, 
+2011 
+2 
+Fundamentals of Digital 
+Circuits 
+Anandkumar 
+PHI Learning 
+Private Limited 
+4th Edition 
+2016. 
+3 
+Logic system design  
+Dr. K. Gopakumar, Dr. 
+Aswathy G P 
+Owl Books. 
+2022 
+4 
+ Digital Electronics 
+S. Salivahanan and S. 
+Arivazhagan 
+Vikas Publishing 
+House pvt Ltd 
+1st Edition, 
+2012 
+5 
+Digital Electronics-An 
+Introduction to Theory and 
+Practice 
+W H Gothmann 
+PHI 
+2nd 
+Edition, 
+2012 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Fundamentals of Logic 
+design 
+Charles. H. Roth 
+Thomson Learning 
+6th 
+Edition,2013 
+2 
+Modern Digital Electronics 
+R.P Jain 
+Tata Mc Graw Hill 
+4th Edition 
+,2009 
+3 
+Digital Logic and Computer 
+Design 
+M Morris Mano 
+Prentice Hall 
+Publication 
+5th Edition 
+,2014 
+4 
+Digital Logic & State 
+Machine Design  
+David J. Comer 
+Oxford University 
+Press 
+Third Indian 
+Edition 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://nptel.ac.in/courses/117106086 
+2 
+https://onlinecourses.nptel.ac.in/noc22_ee55/preview 
+ 
+ 
+
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture 
+delivery 
+Project identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops
+Presentation 
+(Progress and Final 
+Presentations) 
+Group 
+discussion
+Project Analysis 
+Data Collection 
+Evaluation 
+Question 
+answer 
+ Sessions/ 
+Brainstorming 
+Sessions
+Analytical thinking 
+and 
+self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project reformation (If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case Study/ Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 
+5 minutes video
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+1. Project Planning and Proposal (5 Marks) 
+ 
+Clarity and feasibility of the project plan  
+ 
+Research and background understanding  
+ 
+Defined objectives and methodology  
+ 
+
+ 
+ 
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+ 
+Active participation and individual contribution  
+4. Teamwork and collaboration Execution and Implementation (10 Marks) 
+ 
+Adherence to the project timeline and milestones  
+ 
+Application of theoretical knowledge and problem-solving  
+ 
+Final Result 
+5. Final Presentation (5 Marks) 
+ 
+Quality and clarity of the overall presentation  
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ 
+Overall quality and technical excellence of the project  
+ 
+Innovation and originality in the project  
+ 
+Completeness, clarity, and accuracy of the lab record submitted   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+SEMESTER S3 
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE AND DATA 
+SCIENCE

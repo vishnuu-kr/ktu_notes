@@ -1,0 +1,423 @@
+Course Code 
+PBCDT504 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L:T:P:R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To provide an overview of storage, retrieval and processing of big data. 
+2. To introduce the tools and techniques employed to handle Big Data using technologies such 
+as Map Reduce, Hadoop, Hbase, Pig, Hive and Spark. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Big data and Hadoop Distributed File System:- 
+Evolution of Big data, Big data characteristics, RDBMS and Big Data. 
+History of Hadoop, Hadoop Ecosystem and Core Components, HDFS 
+Architecture:  Blocks, Name nodes and Data nodes, Using HDFS Files -
+Basic File system Operations, Hadoop Specific File Types. Anatomy of a file 
+read and write. 
+11 
+2 
+MapReduce Programming:- 
+Data 
+Processing 
+with 
+MapReduce: 
+Execution 
+Pipeline, 
+Runtime 
+Coordination and Task Management in MapReduce, Designing MapReduce 
+implementations: Using MapReduce as a framework for parallel processing, 
+Face Recognition Example: Simple Data Processing with MapReduce, 
+Inverted Indexes Example, Road Enrichment Example. Projects using R, 
+Python, Java 
+11 
+
+ 
+ 
+3 
+HBase and Stream Data Model:- 
+HBase Architecture, HBase Schema Design, Introduction to Stream 
+Concepts, Stream Data Model and Architecture, Sampling Data in a Stream, 
+Filtering Streams, Counting Distinct Elements in a Stream. 
+11 
+4 
+Hive, Pig, Spark:- 
+Hive - Features, Data types and file formats, primitive and collection data 
+types, HiveQL-Creating tables, Dropping Tables, Alter table. 
+Pig : Data Model, Pig Latin: Structure, Functions, Spark: Storage layers for 
+spark, Core spark concepts, RDD basics, RDD Operations. 
+Projects using R,Python,Java 
+11 
+ 
+Suggestion on Project Topics 
+Log File Analysis: Collect log files from web servers or applications and analyze them to extract 
+useful information like error rates, traffic patterns, and popular pages. 
+Sentiment Analysis on Social Media Data:   Collect tweets or social media posts and perform 
+sentiment analysis to understand public opinion on a particular topic or product. 
+Recommendation System: Build a recommendation system based on user behavior data, such as 
+purchase history or viewing patterns. 
+Word Count with MapReduce: Implement the classic word count problem where you count the 
+frequency of each word in a large set of text documents. 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the principles of big data and distributed systems, including 
+the characteristics of large datasets and the fundamentals of building 
+and maintaining reliable, scalable, distributed systems. 
+K2 
+CO2 
+Infer the mechanisms of distributed storage and processing, with a 
+specific focus on the role of HDFS (Hadoop Distributed File System) 
+in effective data storage. 
+K3 
+CO3 
+Model the distributed processing of large data sets across clusters using 
+simple programming models.   
+K3   
+ 
+CO4 
+Identify and understand the fundamentals of stream computing and the 
+usage of HBase.  
+K2 
+CO5 
+Apply the fundamental features and components of Hive, Pig, and 
+Spark for data processing. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each question 
+can have a maximum of 2 subdivisions. Each question 
+carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Professional Hadoop Solutions 
+Boris Lublinsky, Kevin T. Smith, 
+Alexey Yakubovich 
+Wrox 
+ 
+1/e, 2013 
+2 
+The Art of R Programming: A 
+Tour of Statistical Software 
+Design 
+Norman Matloff 
+No Starch 
+Press 
+1/e, 2011 
+3 
+ Learning Spark, Lightning-
+Fast Data Analytics 
+Holden Karau, Andy Konwinski, 
+Patrick Wendell, Matei Zaharia 
+O'Reilly 
+2/e, 2020 
+4 
+ Programming Hive  
+Jason Rutherglen, Dean Wampler, 
+Edward Capriolo 
+O'Reilly 
+1/e, 2012 
+5 
+Mining of Massive Datasets 
+Jure Leskovec, Anand Rajaraman 
+and Jeffrey David Ullman, 
+Cambridge 
+University 
+Press 
+3/e, 2020 
+6 
+BIG DATA, Black Book 
+Black Book TM 
+DreamTech 
+Press 
+1/e, 2016 
+7 
+R for Everyone: Advanced 
+Analytics and Graphics 
+Jared P. Lander 
+Pearson 
+Education 
+2/e, 2018 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the Publisher 
+Edition and 
+Year 
+1 
+Big Data and Analytics 
+Seema Acharya, 
+Subhasni Chellappan 
+Wiley 
+2/e, 2019 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://youtu.be/r5k-_RLIpuA  
+https://onlinecourses.nptel.ac.in/big data computing 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture 
+delivery 
+Project identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops 
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group 
+discussion 
+Project Analysis 
+Data Collection 
+Evaluation  
+Question 
+answer 
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical 
+thinking 
+and 
+ self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project 
+reformation 
+(If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case 
+Study/ 
+Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 
+5 minutes video 
+
+ 
+ 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+1. Project Planning and Proposal (5 Marks) 
+● Clarity and feasibility of the project plan  
+● Research and background understanding  
+● Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+● Individual contribution to the presentation  
+● Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+● Active participation and individual contribution  
+● Teamwork and collaboration 
+ 
+
+ 
+ 
+4. Execution and Implementation (10 Marks) 
+● Adherence to the project timeline and milestones  
+● Application of theoretical knowledge and problem-solving  
+● Final Result 
+5. Final Presentation (5 Marks) 
+● Quality and clarity of the overall presentation  
+● Individual contribution to the presentation  
+● Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+● Overall quality and technical excellence of the project  
+● Innovation and originality in the project  
+● Creativity in solutions and approaches 
+
+ 
+ 
+SEMESTER S5 
+SOFTWARE PROJECT MANAGEMENT 
+(Common CS/CD/CM/CR/CA/AD/AM)

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction : Basics of embedded systems design Embedded OS - Design\nconstraints for mobile applications, both hardware and software related\nArchitecting mobile applications user interfaces for mobile applications\ntouch events and gestures Achieving quality constraints performance,\nusability, security, availability and modifiability.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Iot MOBILE APPs: IoT Mobile App Development - Role of Mobile Apps\nin revolutionizing the world of IoT - UX / UI design for IoT Mobile apps -\nchallenges of UX/UI design for IoT applications - practice tips on design for\nIoT mobile apps IoT App Design Solutions",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Technology I Android: Introduction Establishing the development\nenvironment Android architecture Activities and views Interacting with UI\nPersisting data using SQLite Packaging and deployment Interaction with\nserver side applications Using Google Maps, GPS and Wifi Integration with\nsocial media applications.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Technology Ii Android Things: Android things Installation of Android\nthings Verification of Android things installation API in Android IoT Setting\nup the Android things - Building your first IOT-Android application with\nAndroid Things.\nSuggestion on Project Topics\n1. Create a screen that has input boxes for User Name, Password, Address, Gender (radio\nbuttons for male and female), Age (numeric), Date of Birth (Date Picket), State\n(Spinner) and a Submit button. On clicking the submit button, print all the data below\nthe Submit Button. Use (a) Linear Layout (b) Relative Layout and (c) Grid Layout or\nTable Layout.\n2. Develop an application that shows names as a list and on selecting a name it should\nshow the details of the candidate on the next screen with a “Back” button. If the screen\nis rotated to landscape mode (width greater than height), then the screen should show\nlist on left fragment and details on right fragment instead of second screen with back\nbutton. Use Fragment transactions and Rotation event listener.\n3. Develop an application that uses a menu with 3 options for dialing a number, opening a\nwebsite and sending an SMS. On selecting an option, the appropriate action should be\ninvoked using intents.\n4. Develop an application that inserts some notifications into Notification area and\nwhenever a notification is inserted, it should show a toast with details of the notification.\n5. Create an application that uses a text file to store usernames and passwords (tab\nseparated fields and one record per line). When the user submits a login name and\npassword through a screen, the details should be verified with the text file data and if\nthey match, show a dialog saying that login is successful. Otherwise, show the dialog\nwith a Login Failed message.\n6. Create a user registration application that stores the user details in a database table.\n7. Create a database and a user table where the details of login names and passwords are\nstored. Insert some names and passwords initially. Now the login details entered by the\nuser should be verified with the database and an appropriate dialog should be shown to\nthe user.\n8. Create an admin application for the user table, which shows all records as a list and the\nadmin can select any record to edit or modify. The results should be reflected in the\ntable.\n9. Develop an application that shows all contacts of the phone along with details like\nname, phone number, mobile number etc.\n10. Create an application that saves user information like name, age, gender etc. in shared\npreference and retrieves them when the program restarts.\n11. Create an alarm that rings every Sunday at 8:00 AM. Modify it to use a time picker to\nset alarm time.\n12. Create an application that shows the given URL (from a text field) in a browser.\n13. Develop an application that shows the current location’s latitude and longitude\ncontinuously as the device is moving (tracking).\n14. Create an application that shows the current location on Google maps.",
+    "contact_hours": "10"
+  }
+]

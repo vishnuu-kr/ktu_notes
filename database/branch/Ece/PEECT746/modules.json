@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Multi-rate system and filter banks :\nBasic multi-rate operations: up sampling and down sampling , time domain\nand frequency domain analysis, Need for anti aliasing and anti imaging\nfilters. Noble identities.\nType 1 and Type 2 polyphase decomposition, Efficient structures for\ndecimation and interpolation filters. Uniform filter banks and its\nimplementation using polyphase decomposition. QMF Filter Bank-\nconditions for perfect reconstruction, polyphase implementation. Design of\nperfect reconstruction M- channel Filter Banks. Applications of multirate\nsystems.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Wavelet transform:\nTime Frequency Trade off in signal analysis, Heisenberg's uncertainty\nprinciple.\nShort Time Fourier transform-Filter Bank representation. Continuous\nWavelet Transform- Admissibility condition. Time-frequency diagrams for\nthe STFT and the wavelet transform\nDiscrete Wavelet Transform- Haar Scaling and Wavelet Functions, Haar\nanalysis of signals, concept of nested space. Orthonormal Wavelet Analysis-\nFilter bank interpretation. Applications of wavelet transform.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Power spectrum estimation- Rational power spectra representation,\nRelationships Between the Filter Parameters and the Autocorrelation\nSequence, Parametric method of power spectrum estimation-Yule Walker\nequations, Non parametric method of power spectrum estimation-\nPeriodogram, Averaging periodogram.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Linear prediction filters- Forward and backward predictors, lattice filter\nstructure, relationship between linear filter coefficients and reflection\ncoefficients, Normal equations for optimum filter design. Adaptive filters-\nWeiner filter design, Adaptive filters for adaptive channel equalization,\nadaptive noise cancellation and Linear Predictive Coding of Speech Signals,\nSteepest descent algorithm, LMS algorithm.",
+    "contact_hours": "9"
+  }
+]

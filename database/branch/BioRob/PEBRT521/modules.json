@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to PLC -Construction of relay logic circuits with different\ncontrol elements-Need for PLC –Evolution of PLC.\nPROGRAMMABLE LOGIC CONTROLLERS: Architecture of PLC -Types\nof PLC –PLC modules, Input and Output modules –Digital and Analog\nInput/Output- examples of Digital and Analog Inputs/Outputs in PLC-AC-\nDC power supplies in PLC- isolators- PLC Configuration -Scan cycle -\nCapabilities of PLC-Selection criteria for PLC –PLC Communication with\nPC and software-PLC Wiring-Installation of PLC and its modules.\nPLC programming languages: Ladder Logic, Functional Block Diagram\nFBD -Sequential Flow Chart SFC - Structured Text - Instruction List",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "PROGRAMMING OF PLC: – Ladder Logic Programming – Realization of\nsimple logic circuits programming on-off inputs/ outputs. Auxiliary\ncommands and functions: PLC Basic Functions: Register basics- timer\nfunctions- counter functions.\nProgram control instructions- math instructions- sequencers- PLC based\ntraffic light system, stepper motor & servo motor control using PLC, Analog\nsensor interfacing with PLC\nAPPLICATIONS OF PLC: Case studies of manufacturing automation and\nprocess automation.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "PLC programming tools as per IEC 61131-Developing programs using\nSequential Function Chart and FBD\nNetworking PLC: usingRS232, RS485, Protocols-ethernet- Modbus,\nCANOpen, OPC-Open Platform Communication- OPC UA\nIndustrial Automation: General Block diagrams of DDC- Supervisory\ncontrol- Data Acquisition system",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Distributed Control System- DCS - Architectures, Comparison, Local control\nunit, Process interfacing issues, Communication facilities- Distributed\nControl System Basics: DCS introduction- Various function Blocks- DCS\ncomponents/block diagram- DCS Architecture of different makes-\ncomparison of these architectures with automation pyramid\nInterfaces In DCS: Operator interfaces- Low level and high-level operator\ninterfaces - Operator displays- Engineering interfaces- Low level and high-\nlevel engineering interfaces-",
+    "contact_hours": "9"
+  }
+]

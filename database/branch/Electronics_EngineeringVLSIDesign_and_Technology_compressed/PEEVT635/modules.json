@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Scope of testing and verification in VLSI design process;\nIssues in testing and verification of complex chips; embedded cores and\nSOCs, Functional verification, Timing verification.\nSystem Level Verification: Test Plan-Block Level Verification-Interface\nVerification. Application Based Verification-Canonical SoC Design-\nTestbench for the Canonical Design. Fast Prototype vs. 100 Percent Testing -\nFPGA Prototyping, Emulation Based Testing, Silicon Prototyping. Gate\nLevel Verification-Sign Off Simulation, Gate Level Simulation with Unit-\nDelay Timing , Gate Level Simulation with Full Timing. Formal\nVerification. Choosing Simulation Tools.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Specialized Hardware for System Verification - Accelerated Verification\nOverview, RTL Acceleration-Software Driven Verification, Traditional In\nCircuit Verification, Intellectual Property, Design Guidelines for Accelerated\nVerification.\nUVM:  Introduction, Verification Planning and Coverage-Driven\nVerification, Multi-Language and Methodologies, UVM Overview, UVM\nTestbench and Environments, Interface UVCs, System and Module UVCs,\nSoftware UVCs, The SystemVerilog UVM Class Library, UVM Utilities.\nUVM Library basics, Interface UVCs, Automating UVC Creation, Simple\nTestbench Integration, Register and Memory Package, System UVCs and\nTestbench Integration.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "SystemVerilog: Basic circuits design using SystemVerilog. Procedural\nStatements and Functions, Implementation of OOPs Concepts in System\nVerilog, SystemVerilog DPI (Direct Programming Interface), Example,\nEnum Cast, Code library, SystemVerilog TestBench-SystemVerilog\nTestBench and Its components, combinational circuit – TestBench Example,\nMemory Model – TestBench Example. Connecting the testbench and design.\n4 port ATM Router- Case study.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Testing: VLSI testing process and test equipment, Automatic Test\nEquipment, SCOAP Controllability and Observability, High-Level\nTestability Measures, Combinational circuit test generation-Redundancy\nIdentification (RID)-Combinational ATPG Algorithms-Test Generation\nSystems-Test Compaction, Sequential circuit test generation-ATPG for\nSingle-Clock Synchronous Circuits-Simulation-Based Sequential Circuit\nATPG, Memory Test, Delay Test, IDDQ test, Design for testability-DFT\nand Scan Design-Partial-Scan Design. Built-In-Self-Test (BIST)- Random\nLogic BIST, Memory BIST, Boundary Scan Standard, Analog Test Bus\nStandard.",
+    "contact_hours": "9"
+  }
+]

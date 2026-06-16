@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basic Structure of computers –functional units - basic operational concepts -\nbus structures. Memory locations and addresses -memory operations,\nInstructions and instruction sequencing,addressing modes.\nBasic processing unit – fundamental concepts – instruction cycle – execution\nof a complete instruction -single bus and multiple bus organization.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Register transfer logic: Inter register transfer – arithmetic, logic and shift\nmicro-operations.\nProcessor logic design: - processor organization – Arithmetic logic unit -\ndesign of arithmetic circuit - design of logic circuit – Design of arithmetic logic\nunit - status register – design of shifter - processor unit – design of\naccumulator(Basic Concept Only).",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Control\nLogic Design:\nHardwired\ncontrol-microprogrammed\ncontrol-\nMicroinstructions, Microprogram Sequencing.\nArithmetic algorithms: Signed-Operand multiplication, Booth Algorithm, fast\nmultiplication-bit pair recoding of multipliers.\nPipelining: Basic principles, classification of pipeline processors, instruction\nand arithmetic pipelines (Design examples not required), hazard detection and\nresolution.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Memory system: Types of memory(Concepts only),Virtual memory, Content\naddressable memory, cache memories - mapping functions.\nI/O organization: Characteristics of I/O devices, Data transfer schemes -\nProgrammed controlled I/O transfer, Interrupt controlled I/O transfer.\nOrganization of interrupts - vectored interrupts – Servicing of multiple\ninput/output devices – Polling and daisy chaining schemes. Direct memory\naccessing (DMA)",
+    "contact_hours": "11"
+  }
+]

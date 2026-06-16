@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Embedded C: Fixed-width integer data types in C99, boolean type, mixing\ntypes, manipulating bits in memory and IO ports, accessing memory mapped\nIO using pointers, structures, packed structures, bit fields, casting address of\nan object, unions.\n[1] Ch. 4\nReview of computer organization: Memory, CPU, IO, Introduction to  Arm\ncortex M architecture: Internal organization-general purpose and special\nregisters, instruction pipelining, memory model, bit banding, Arm assembly\nlanguage instruction format and operands\n[1] Ch. 5",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Arm assembly language programming: Loading constants into registers,\nloading memory data into registers, storing data from registers to memory,\nconverting C assignment statements to assembly, memory address\ncalculations, Memory addressing examples: translating C pointer expressions\nto assembly, translating C subscript expressions to assembly, translating\nstructure references to assembly, Stack instructions, data processing\ninstructions: updating flags in APSR, arithmetic instructions, bit\nmanipulation instructions, shift instructions, bit field manipulation\ninstructions\n[1] Ch. 6",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Control structures in assembly language: instruction sequencing, conditional\nbranch instructions, translating if-then and if-then-else statements to\nassembly, compound conditionals, implementing loops, speeding up array\naccess, Implementing functions: function call and return, register usage,\nparameter passing, return values, temporary variables, preserving registers\n[1] Ch. 7.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "IO programming in assembly: Interrupts and exceptions, thread and handler\nmodes, entering the exception handler, returning from exception handler,\nlatency\nreduction\ntechniques,\npriorities\nand\nnested\nexceptions,\nsynchronization, transfer rate and latency, buffers and queues, double\nbuffering, polled waiting loops, interrupt driven IO, DMA\n[1] Ch. 8.\nSystem initialization: Memory layout, cpu and vector table, C run-time\nenvironment, System Timer\n[1] Ch. 13",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Computational Fluid Dynamics, Governing Equations of fluid flow and heat transfer, Conservative form of Navier-Stokes equation, General transport equation. Physical and mathematical classifications of partial differentialequations. Elliptic, parabolic and hyperbolic equations, Comparison of experimental, theoretical and numericalapproaches",
+            "applications of CFD"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Discretization",
+            "converting derivatives to their finite difference forms",
+            "Taylor’s series approach and polynomial fitting approach. Central difference, backward difference, and forward difference of first and second order derivatives. Solution of partial differential equations using finite difference equations. Discretization error, truncation error, round off error. Consistency and numerical stability. Iterative convergence, condition for convergence, rate of convergence. Termination of iteration. Boundary and Initial conditions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to finite volume method. Finite volume method for steady one - dimensional conduction problems. one - dimensional transient heat conduction problems -explicit, implicit, Crank- Nicholson schemes, under and over relaxations, handling of boundary conditions",
+            "dealing with Dirichlet, Neumann, and Robins type boundary conditions",
+            "two-dimensional steady state conduction problems",
+            "point-by-point and line-by-line method of solution",
+            "tri-diagonal matrix algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Finite volume method for steady-state diffusion and convection-diffusion problems",
+            "Central difference and Upwind schemes for convection and diffusion problems. Two dimensional incompressible viscous flows. Staggered grid. Pressure correction methods. Solution algorithm for pressure-velocity coupling in steady flows- SIMPLE algorithm to solve Navier -Stokes equations. Computer graphics techniques to present CFD results"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

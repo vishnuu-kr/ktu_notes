@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction – Uses of computer networks, Network hardware, Network\nsoftware. Reference models – The OSI reference model, The TCP/IP\nreference model, Comparison of OSI and TCP/IP reference models.\nPhysical Layer – Modes of communication, Physical topologies, Signal\nencoding, Repeaters and hub, Transmission media overview. Performance\nindicators – Bandwidth, Throughput, Latency, Queuing time, Bandwidth–\nDelay product.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Data link layer - Data link layer design issues, Error detection and correction,\nSliding window protocols, High-Level Data Link Control(HDLC)protocol.\nMedium Access Control (MAC) sublayer –Channel allocation problem,\nMultiple access protocols, Ethernet, Wireless LANs - 802.11, Bridges &\nswitches - Bridges from 802.x to 802.y, Repeaters, Hubs, Bridges, Switches,\nRouters and Gateways.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Network layer design issues. Routing algorithms - The Optimality Principle,\nShortest path routing, Flooding, Distance Vector Routing, Link State\nRouting, Multicast routing, Routing for mobile hosts. Congestion control\nalgorithms. Quality of Service (QoS) - requirements, Techniques for\nachieving good QoS.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Transport service – Services provided to the upper layers, Transport service\nprimitives. User Datagram Protocol (UDP). Transmission Control Protocol\n(TCP) – Overview of TCP, TCP segment header, Connection establishment\n&release, Connection management modeling, TCP retransmission policy,\nTCP congestion control.\nApplication Layer –File Transfer Protocol (FTP), Domain Name System\n(DNS), Electronic mail, Multipurpose Internet Mail Extension (MIME),\nSimple Network Management Protocol (SNMP), World Wide Web(WWW)\n– Architectural overview.",
+    "contact_hours": "9"
+  }
+]

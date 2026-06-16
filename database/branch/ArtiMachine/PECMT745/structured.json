@@ -1,0 +1,86 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction:Deep Reinforcement Learning",
+      "Suitability of Reinforcement Learning",
+      "Components of Reinforcement Learning - Agent",
+      "Environment",
+      "Observations",
+      "Actions.Examples - The Bandit Walk Environment",
+      "Agent-Environment interaction cycle. Markov Decision Process (MDP):The Engine of the Environment - States",
+      "Actions",
+      "Transition Function",
+      "Reward Signal"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Planning:Objective of a decision making agent-environment",
+      "Plan",
+      "Optimal policy",
+      "Comparison of Policies",
+      "Bellman Equation/State-Value Function",
+      "Action-Value Function",
+      "Action-Advantage Function",
+      "Optimality. Exploitation and Exploration of Reinforcement Learning:Bandits- Single State Decision Problem (Multi-Armed Bandit(MAB) problem",
+      "The cost of exploration",
+      "Approaches to solve MAB environments",
+      "Greedy Strategy",
+      "Random Strategy",
+      "Epsilon-Greedy Strategy",
+      "Decaying Epsilon-Greedy Strategy",
+      "Optimistic Initialization Strategy",
+      "Strategic Exploration",
+      "Softmax Exploration Strategy",
+      "Upper Confidence Bound (UCB) Equation Strategy",
+      "Thompson Sampling Strategy"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Model Free Reinforcement Learning:Monte Carlo Prediction (MC",
+      "First-Visit MC (FVMC",
+      "Every-Visit MC (EVMC",
+      "Temporal Difference Learning (TD",
+      "Learning to Estimate from Multiple Steps",
+      "N-step TD Learning",
+      "Forward-View TD(λ",
+      "Backward-View TD(λ",
+      "Generalized Policy Iteration(GPI",
+      "Monte Carlo Control",
+      "SARSA: On-Policy TD control",
+      "Q-learning: Off-Policy TD control",
+      "Double Q-learning",
+      "SARSA(λ",
+      "Watkins’s Q(λ). Model Based Reinforcement Learning:Dyna-Q",
+      "Trajectory sampling"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Value Based Reinforcement Learning:Deep Reinforcement Learning Agents with Sequential Feedback",
+      "Evaluative Feedback",
+      "Sampled Feedback",
+      "Function Approximation for Reinforcement Learning - High-Dimensional State and Action Spaces",
+      "Continuous State and Action Spaces",
+      "State-Value Function and Action-Value Function with and without Function Approximation",
+      "Neural Fitted Q (NFQ",
+      "Deep Q-Network (DQN",
+      "Double Deep-Q Networks (DDQN",
+      "Duelling DDQN",
+      "Prioritized Experience Replay (PER"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Digital Image Fundamentals Introduction",
+            "Origin",
+            "Steps in Digital Image Processing",
+            "Components",
+            "Elements of Visual Perception",
+            "Image Sensing and Acquisition",
+            "Image Sampling and Quantization",
+            "Relationships between pixels",
+            "medical imaging applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Image transforms 1D-DFT",
+            "2D-DFT",
+            "Two dimensional orthogonal and unitary Transforms",
+            "Cosine",
+            "Sine",
+            "Hadamard",
+            "Haar and their properties"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Gray level transformations",
+            "Histogram processing",
+            "Basics of Spatial Filtering",
+            "Smoothing and Sharpening Spatial Filtering",
+            "Frequency Domain: Introduction to Fourier Transform",
+            "Smoothing and Sharpening frequency domain filters",
+            "Ideal, Butterworth and Gaussian filters., Application of filtering in medical images"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Segmentation and Representation Detection of Discontinuities",
+            "Edge Linking and Boundary detection",
+            "Region based segmentation",
+            "Morphological processing- erosion and dilation, Application of edge detection",
+            "Boundary representation",
+            "Chain Code"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

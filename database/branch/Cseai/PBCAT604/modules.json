@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Neural Networks Introduction to Human and Artificial Intelligence:\nHistory of AI, Forms of learning - Supervised and unsupervised learning,\nPerceptron Learning rule, Bio-inspired learning, Artificial Neural Networks,\nBackpropagation, Multi-layer Perceptron model, Activation Functions Loss\nfunctions, Optimization, Training Neural Networks - gradient descent,\nstochastic gradient descent, momentum, weight initialization, batch\nnormalization, hyper parameter optimization, parameter updates, model\nensembles",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Overview of deep learning: deep feedforward networks, and training deep\nmodels, including optimization techniques such as Gradient Descent (GD),\nGD with momentum, Stochastic GD, AdaGrad, RMSProp, and Adam.\nRegularization methods -L1 and L2, early stopping, dataset augmentation,\nparameter sharing and tying, input noise injection, ensemble methods,\ndropout, and parameter initialization.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Convolutional Neural Networks: convolution layer, pooling layer, fully\nconnected layer, Conv Net, Case study of ImageNet challenge: LeNet,\nAlexNet, VGG, Google Net, ResNet, Inception Net, Efficient Net etc.\nRegularization Techniques, Data Augmentation: zooming,\nrotation,\ncropping, blurring, noise addition, self-supervision techniques, semi-\nsupervised and weakly supervised learning, adversarial training Transfer\nLearning, freezing the input layers, fine tuning output layers",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Deep Unsupervised Learning and Recent Trends: Auto encoders\n(standard, sparse, denoising, contractive, etc.), Variational Autoencoders,\nAdversarial Generative Adversarial Networks, Auto encoder and DBM ,\nMulti- task Deep Learning, Multi-view Deep Learning\nSuggestion on Project Topics\n● Applications of Deep Learning to Computer Vision\n● Applications of Deep Learning to NLP",
+    "contact_hours": "10"
+  }
+]

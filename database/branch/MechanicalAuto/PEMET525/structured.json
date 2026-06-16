@@ -1,0 +1,58 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Industrial measurement systems - different types of industrial variables and measurement systems elements. Sensors - Sensor components - Resistive sensors - Inductive sensors - Capacitive sensors - Thermoelectric sensors -Piezoelectric sensors. Transducers - Definition and classification. LVDT",
+      "Electromagnetic and Ultrasonic flow meters",
+      "Piezoelectric transducers-modes of operation-force transducer",
+      "Load cell",
+      "Strain gauge etc"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Industrial signal conditioning systems- Operational amplifiers",
+      "Amplifier circuits with ideal operational amplifiers",
+      "Current-to voltage converters -Inverting voltage amplifiers",
+      "Non-inverting voltage amplifiers",
+      "Differential amplifiers -Instrumentation amplifiers . Filters",
+      "Passive filters",
+      "First and second order RC-filters",
+      "Low-pass first-order RC-filter",
+      "High pass first-order RC-filter",
+      "Band pass filters , A/D converters for industrial measurements systems. Data Acquisition Systems(DAS",
+      "Objectives of DAS"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Transfer functions of DC and AC servo motors",
+      "Control applications of Tacho generator and Stepper motor. Characteristic equation of Closed loop systems. Controllers- P, PI, and PID controllers"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Time domain specifications",
+      "Impulse and Step responses of first order and second order systems. Error analysis: Steady state error analysis - static error coefficients of type 0",
+      "2 systems. Stability Analysis: Concept of stability - Routh's stability criterion",
+      "Root locus method. Frequency Domain Analysis: Frequency Domain Specifications",
+      "Stability in Frequency Domain",
+      "Gain Margin",
+      "Phase Margin",
+      "Bode Plot",
+      "Polar Plot",
+      "Nyquist Plot"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

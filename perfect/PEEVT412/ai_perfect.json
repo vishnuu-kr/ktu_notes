@@ -1,0 +1,76 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "System Memory Management",
+            "Software Program Management",
+            "Hardware Management",
+            "Filesystem Management",
+            "Linux Desktop Environment: The X Window System",
+            "KDE Desktop",
+            "GNOME Desktop",
+            "Unity Desktop",
+            "Linux Distributions: Core Linux Distributions",
+            "Specialized Linux Distributions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Shell: Reaching the Command Line",
+            "Console Terminals",
+            "Graphical Terminals",
+            "Accessing CLI via a Linux Console Terminal",
+            "Accessing CLI via Graphical Terminal Emulation",
+            "Using the GNOME Terminal Emulator",
+            "Accessing the GNOME Terminal",
+            "Using the xterm Terminal Emulator",
+            "Accessing xterm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Starting the Shell",
+            "Using the Shell Prompt",
+            "Interacting with the bash Manual",
+            "Looking at the Linux File System",
+            "Traversing Directories",
+            "Listing Files and Directories",
+            "Handling Files",
+            "Copying Files",
+            "Deleting Files",
+            "Creating Directories",
+            "Deleting Directories",
+            "Linux Security: Removing a User",
+            "Modifying a User",
+            "Using File Permission Symbols",
+            "Default File Permissions",
+            "Changing Permissions",
+            "Changing Ownership",
+            "Sharing Files"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to vim Features",
+            "Command Mode: Moving the Cursor",
+            "Input Mode",
+            "Command Mode: Deleting and Changing Text",
+            "Reading and Writing Files",
+            "Python Scripting: Data Structures",
+            "Modules",
+            "Inputs and Outputs",
+            "Floating Point Arithmetic: Issues and Limitations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

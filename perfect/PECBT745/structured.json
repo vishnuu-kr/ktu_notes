@@ -1,0 +1,49 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Cloud Fundamentals",
+            "Models-IaaS/ PaaS / SaaS",
+            "NIST definition of Cloud",
+            "Cloud advantages deployment process. Public cloud Platform features-AWS",
+            "Azure",
+            "Google"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Application Architectures-Monolithic & Distributed",
+            "Microservice fundamental and design approach",
+            "Cloud Native applications-12 Factors App. Application integration process: API Fundamental",
+            "Microservice /API management",
+            "Spring boot Fundamental and design of microservice",
+            "API tools",
+            "Developer Portal",
+            "Applications of Microservice and APIfication"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Devops Tools and their usage in cloud application development, Docker and Containerization Process"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Python- Refresher",
+            "Use cases for cloud application development. Design and developing solution steps using containers",
+            "containerization of application and deployment using Kubernetes",
+            "Cloud security and monitoring tools"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

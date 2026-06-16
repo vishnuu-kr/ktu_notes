@@ -1,0 +1,66 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to process control Process",
+            "process variables",
+            "need for process control",
+            "basic control actions",
+            "process control block diagram. Control system evaluation Control system objective",
+            "control system evaluation criteria. Final control operation Signal conversion (analogue and digital electrical signals",
+            "actuators (electric",
+            "pneumatic and hydraulic",
+            "control elements (mechanical and electrical valves). Controller principles Process characteristics",
+            "control system parameters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Discontinuous controller modes Two position mode",
+            "multi- position mode",
+            "floating control mode. Continuous controller modes Proportional controller mode",
+            "integral controller mode",
+            "derivative controller mode",
+            "composite controller modes-PI",
+            "PD and three mode. Control systems with multiple loops Feed forward control",
+            "practical aspects of the design of feed forward control",
+            "feed forward- feedback control",
+            "ratio control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Electronic controllers General features. Single mode and composite controller modes (P and PI controller design using OP AMP). Pneumatic controllers Continuous controller modes (Principle and Design of P, PI, PD, PID control modes). Process loop tuning Tuning of controllers, Cohen",
+            "Coon method of tuning (process reaction curve method). Ultimate cycle method (Ziegler Nichol’s method). Damped oscillation method. Frequency response method. Comparing tuning methods"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Programmable logic controller (PLC) PLC versus relay",
+            "evolution of PLC",
+            "functions of PLC",
+            "advantages. PLC Programming -Basics of Ladder Programming",
+            "on/off instructions",
+            "internal relay",
+            "jump instructions",
+            "data handling instruction",
+            "data manipulation instructions",
+            "Arithmetic and Comparison",
+            "PID and other important instructions .Timers and Counters in PLC Distributed Control System (DCS) Introduction to DCS",
+            "evolution of DCS",
+            "DCS flow sheet symbols",
+            "architecture of DCS. SCADA Introduction to Supervisory computer tasks and DCS configuration: supervisory computer functions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

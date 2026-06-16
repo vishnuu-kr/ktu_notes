@@ -1,0 +1,73 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Android Architecture",
+      "Setting up Development Environment",
+      "Basic Building blocks - Activities",
+      "Services",
+      "Broadcast Receivers & Content providers",
+      "UI Components - Views & notifications",
+      "Components for communication - Intents & Intent Filters"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Application Structure:-Android Manifest.xml",
+      "uses-permission& uses-sdk",
+      "Layouts & Drawable Resources",
+      "First sample Application",
+      "Emulator-Android Virtual Device",
+      "Basic UI design",
+      "Styles &Themes Android User Interface:-Measurements User Interface (UI) Components - Editable and non-editable Text Views",
+      "Buttons",
+      "Radio and Toggle Buttons",
+      "Checkboxes",
+      "Spinners",
+      "Dialog and pickers"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Event Handling: - Handling clicks or changes of various UI components Fragments : - Creating fragments",
+      "Lifecycle of fragments",
+      "Fragment states Intent : - Using intents to launch Activities",
+      "explicitly starting new Activity",
+      "Implicit Intents",
+      "Passing data to Intents",
+      "Getting results from Activities Broadcast Receivers:- Types of broadcast receivers",
+      "creation of broadcast receivers"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Database:- Introduction to SQLite database",
+      "creating and opening a database",
+      "creating tables",
+      "inserting retrieving and deleting data",
+      "Registering Content Providers",
+      "Using content Providers (insert",
+      "delete",
+      "retrieve and update) IoT Communication Protocols:-Overview of MQTT",
+      "HTTP",
+      "and CoAP",
+      "Implementing MQTT in Mobile Applications",
+      "Data Transmission Techniques. Interfacing Mobile Apps with IoT Devices:- Connecting Mobile Apps to Sensors and Actuators",
+      "Using Bluetooth",
+      "Wi-Fi",
+      "and NFC for IoT Communication",
+      "Practical Lab: Developing a Simple IoT Mobile App Suggestion on Project Topics: 1. Android app for patient health monitoring 2. Android app for smart farming 3. Android app for home automation 4. College Alert Application 5. Garbage Management System for Smart City"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

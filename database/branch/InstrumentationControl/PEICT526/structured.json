@@ -1,0 +1,55 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Overview of CMOS device fundamentals . The CMOS inverter: - Voltage Transfer Characteristics",
+      "SPICE Description",
+      "Static Behavior - Switching Threshold - Noise Margins",
+      "Dynamic behavior - Device Capacitances -Propagation Delay - Power Consumption"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "CMOS fabrication Processes: -N-Tub",
+      "P-Tub and Twin Tub. MOS Circuit Layout - Stick diagrams",
+      "Layout design rules",
+      "Transistor layout - PMOS and NMOS",
+      "Gate Layout - Inverter",
+      "NAND",
+      "NOR and XOR",
+      "Layout generation using MICROWIND tool (For Assignments/Projects only"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Combinational logic Circuits",
+      "Static MOS",
+      "Complementary MOS -Ratioed logic",
+      "Pass Transistor logic",
+      "Differential Pass Transistor Logic -Transmission gate logic, Dynamic MOS",
+      "Basic Principles",
+      "Speed and power Dissipation",
+      "Signal Integrity issues"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Sequential Logic Circuits: -Timing Metrics for sequential circuits",
+      "Static Latches and Registers",
+      "Dynamic Latches and Registers. Datapath Subsystems: - Adder - Ripple carry Adder - Full adder - Carry chain Adder - Carry-Bypass Adder - Carry Select Adder - Carry Look Ahead Adder",
+      "Multiplier - Array Multiplier - Carry Save Multiplier",
+      "Shifter - Barrel Shifter - Logarithmic Shifter"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

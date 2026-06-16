@@ -1,0 +1,329 @@
+Course Code 
+PECST526 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Signals and Systems 
+Course Type 
+Theory 
+Course Objectives: 
+1. To teach the concept of DFT and apply it for filtering data sequences. 
+2. To educate on the algorithms for complexity reduction in the computation of DFT. 
+3. To teach the theory of FIR and IIR filters and to design FIR filters. 
+4. To get exposed to the basic idea of some of the important techniques for designing efficient 
+VLSI architectures for DSP. 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Definition of a digital signal processing system, Sampling, Sampling rate, 
+DFT and IDFT (Properties of DFT). Linear Convolution using Circular 
+Convolution, Convolution of long data sequences- Overlap add method, 
+overlap save method. Linear filtering methods based on DFT – FFT (DIT-
+FFT only) – efficient computation of the DFT of a 2N point real sequences – 
+correlation – use of FFT in linear filtering and correlation, Symmetries in the 
+DFT 
+9 
+2 
+Types of transfer functions- Ideal filters, Zero phase and linear phase transfer 
+functions, Types of linear phase FIR transfer functions; Simple digital filters: 
+Simple FIR digital filters (Low pass and high pass), Simple IIR digital filters 
+(Low pass and high pass), All pass and minimum phase transfer function 
+Design of FIR filter : window based design (Rectangular, Hamming, 
+Hanning windows).  Applications of DSP-Spectral analysis of sinusoidal 
+signals.  
+8 
+3 
+Realization structures for FIR filters- direct, cascade, parallel. IIR Filter 
+realization structures (Direct form I, II, cascade and Parallel and  transposed 
+structures); Computational accuracy in DSP implementation- Number 
+9 
+
+formats for signals and coefficients in DSP systems, Dynamic range and 
+precision, Sources of error in DSP implementation - A/D conversion error, 
+DSP computational error, D/A Conversion error. 
+4 
+FFT and FIR Filter realization on a fixed point processor -finite wordlength 
+effects - Quantization, rounding and truncation, overflow and scaling.   
+DSP Algorithm representations, data flow, control flow, signal flow graphs, 
+block diagrams - Loop bound, iteration bound, critical path - Pipelining, 
+parallel processing, low power architectures - Retiming, folding and 
+unfolding techniques, applications. 
+Hands-on : -  
+● FPGA based hardware realization of the FFT algorithm, circular 
+convolution, IIR and FIR filter structures using iVerilog. 
+● To realize different DSP algorithms including basic multiply 
+accumulation and shifting operations on a fixed point processor.  
+● Analyze the effect of the finite wordlength by implementing the FFT 
+algorithm and FIR filters by using fixed point coefficient 
+representation in different formats like Q7, Q15 etc. 
+● Design an FIR low pass filter using MATLAB/SCILAB and check 
+how it filters a speech signal by recording it and playing the result. 
+10 
+ 
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 Marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the concept of DFT and apply it for determining the 
+spectral information of data sequences.
+K2 
+CO2 
+Apply algorithms for complexity reduction in the computation of DFT. 
+K3 
+CO3 
+Use the theory of FIR and IIR filters and be able to design FIR filters 
+using the window method.
+K3 
+CO4 
+Build the IIR and FIR filter transfer functions using suitable structures 
+K3 
+CO5 
+Identify the  effect of finite wordlength on DSP algorithm 
+implementation.
+K3 
+CO6 
+Utilize the low power architectures for implementing the DSP 
+algorithms
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO6 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+2 
+
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Signal Processing [Modules 1,2,3] 
+S. Salivahanan 
+McGraw Hill 
+10/e, 2019 
+2 
+Digital Signal Processing: A Computer - 
+Based Approach [Modules 2] 
+Sanjit K.Mitra 
+McGraw Hill 
+4/e, 2013 
+3 
+VLSI Signal Processing Systems, Design 
+and Implementation [Module 4] 
+Keshab K. Parhi 
+Wiley 
+1/e, 2007 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Signal Processing 
+John G. Prokais, Dimitris K 
+Manolakis 
+Pearson 
+4/e, 2007 
+2 
+Introduction to Digital Signal 
+Processing
+Johnny R Johnson 
+Pearson 
+1/e, 2015 
+3 
+Mathematics of the Discrete 
+Fourier Transform (DFT): with 
+Audio Applications
+Julius O. Smith III 
+W3K Publishing
+2/e, 2007 
+4 
+Digital Signal Processing : 
+Fundamentals, Techniques and 
+Applications
+Juan Zhang 
+Nova Science 
+Publishers 
+1/e, 2016 
+5 
+Fast Fourier Transform 
+Algorithms for Parallel 
+Computers (Vol 2)
+Daisuke Takahashi 
+Springer 
+1/e, 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/108/101/108101174/ 
+2 
+https://methodist.edu.in/web/uploads/files/DSP%20NOTES.pdf 
+
+SEMESTER S5 
+COMPUTER GRAPHICS & MULTIMEDIA  
+(Common to CS/CD/CR/CA/AD)

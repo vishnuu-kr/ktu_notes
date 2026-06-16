@@ -1,0 +1,61 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Geometric primitives and transformations",
+      "2D transformations",
+      "3D transformations - Translation",
+      "Rotation + Translation",
+      "3D to 2D projections - Orthography and para-perspective",
+      "Perspective",
+      "Camera intrinsics",
+      "Camera matrix",
+      "Photometric image formation -Lighting",
+      "The digital camera - Image sensing pipeline",
+      "factors affecting the performance of a digital image sensor"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Point operators - Pixel transforms, Color transforms, Histogram equalization",
+      "Linear filtering (Basic explanation only), Non Linear Filtering - Median Filtering",
+      "Binary Image Processing - Morphology, Distance Transforms, Connected Components"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Traditional, machine learning, and deep learning pipelines",
+      "Supervised learning - Nearest neighbors, Bayesian classification",
+      "Unsupervised learning - Clustering, K-means and Gaussians mixture models",
+      "Deep neural networks - perceptron unit, Weights and layers, Activation functions, Loss functions, Backpropagation",
+      "Convolutional neural networks"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Instance recognition",
+      "Image classification - Feature-based methods",
+      "Deep networks",
+      "Object detection - Face detection",
+      "General object detection - Precision vs. recall",
+      "Semantic segmentation - Basic understanding only Feature Detection and Matching: Points and patches",
+      "Edge Detection",
+      "Contour Detection",
+      "Lines and vanishing points",
+      "Segmentation - Region splitting",
+      "Region merging",
+      "Watershed"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

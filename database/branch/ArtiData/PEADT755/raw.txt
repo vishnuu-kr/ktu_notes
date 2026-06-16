@@ -1,0 +1,308 @@
+Course Code 
+PEADT755 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To help the students in understanding the usability of time series data and its analysis and 
+time series models that can be used in different time series models that can be used in 
+scientific/business application. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Introduction to time series forecasting: Forecasting, Types of forecasting – 
+Short term, long term. Forecasting data and methods – Qualitative forecasting, 
+Quantitative forecasting. Simple Forecasting methods- Average method, 
+Naïve method, Drift Method. Steps in forecasting. Introduction to Time series 
+forecasting – Time Series Characteristics – Types of Data – Time Series Data, 
+Cross-Section Data, Longitudinal Data. Understanding Time Series Data, 
+Time series pattern- trend, seasonality, cyclicity, and irregularity. Detecting 
+Trends using Hodrick-Prescott filter and Detrending time series. Detecting 
+Seasonality and De-seasoning, Detecting Cyclic Variation. Error, Irregular 
+Component and residuals. Time Series Decomposition- Additive Models, 
+Multiplicative models. Data wrangling and preparation for time series using 
+python- Loading Data, Exploring Pandas and pandasql, Ascending and 
+Descending Data order, Aggregation, Join, Data Resampling by week, month, 
+quarter, year, Handling Missing Data. 
+9 
+2 
+Exponential Smoothing:Simple exponential smoothing, Methods with trend, 
+methods with seasonality, estimation and modelling, Forecasting with ETS 
+models. 
+9 
+
+ 
+Regression Extension Techniques for time series data:Types of stationary 
+behaviour in time series, Making data stationary, Augmented Dickey-Fuller 
+Test, Using stationary data techniques – Differencing, Random walk, Trend 
+Differencing, Seasonal Differencing. 
+Time series as a discrete parameter stochastic process, Auto- correlation 
+Function (ACF), Partial Autocorrelation Function (PACF) and cross 
+correlations, Auto Correlation Plots – Trend and seasonality in ACF plots. 
+3 
+Autoregressive (AR), Moving Average (MA), Autoregressive Moving 
+Average (ARMA), Autoregressive Integrated Moving Average (ARIMA) 
+models, Seasonal ARIMA (SARIMA) models.  
+Introduction to Multivariate Time series Modelling, Vector Autoregressive 
+models, Vector ARMA Models, Fitting VAR and VARMA models. 
+9 
+4 
+Dynamic Regression Models – Estimation, Regression with ARIMA errors 
+using R packages (fable), forecasting, stochastic and deterministic trends. 
+Introduction to Hierarchical Time series and Grouped Time series with 
+suitable examples. Advanced Forecasting models- Prophet model, Neural 
+Network models, Bootstrapping and Bagging. 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Assess the students with questions of the following nature 
+ 
+Time Series Decomposition: 
+● "Given a dataset exhibiting seasonality and trend, decompose the time series using both 
+additive and multiplicative models. Compare the results and analyze which model better fits 
+the data and why." 
+ 
+
+ 
+ACF and PACF Analysis: 
+● "Analyze the ACF and PACF plots for the given time series data. Identify the presence of any 
+significant trends or seasonality and justify which time series model (AR, MA, or ARMA) 
+would be most appropriate for forecasting based on these plots." 
+Model Selection for Forecasting: 
+● "Evaluate the performance of ARIMA and Prophet models on the same time series dataset. 
+Discuss their respective advantages and disadvantages in terms of accuracy, computational 
+efficiency, and applicability to different types of time series patterns." 
+Dynamic Regression Models: 
+● "Using a given dataset, implement and evaluate a dynamic regression model with ARIMA 
+errors. Assess the model's forecasting performance compared to a standard ARIMA model 
+and discuss the impact of incorporating external regressors. 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+ 
+2 questions will be given from each module, 
+out of which 1 question should be answered. 
+ 
+Each question can have a maximum of 3 
+subdivisions. 
+ 
+ Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain different types of forecasting, fundamental principles of time
+series data, analyse various time series processes and gain proficiency in 
+preparing and wrangling time series data. 
+K3 
+CO2 Apply and interpret a variety of time series models and determine the 
+most suitable model for various types of time series data.
+K4 
+CO3 Apply exponential smoothing methods for forecasting and analyse time 
+series patterns.
+K3 
+CO4 
+Implement dynamic regression models and develop proficiency in 
+advanced forecasting methods. 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Forecasting: 
+Principles and Practice 
+Robin John yndman, George 
+Athanasopoulos 
+OTexts 
+3/e, 2021 
+2 
+Hands-on Time Series Analysis 
+with Python 
+BV Vishwas, Ashish Patel 
+Apress 
+1/e, ,2020 
+3 
+The Analysis of Time Series An 
+Introduction with R 
+Chris Chatfield, Haipeng Xing 
+Chapman & Hall 
+7/e, 2019 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the Publisher Edition and 
+Year 
+1 
+Time series Analysis and its 
+Applications. 
+Shumway, R. H and Stoffer
+Springer 
+1/e, 2006 
+2 
+Time Series Analysis and Its 
+Applications: With R Examples 
+Robert H. Shumway and 
+David S. Stoffer 
+Springer 
+4/e, 2017 
+3 
+Time Series Analysis: 
+Forecasting and Control 
+George E. P. Box, Gwilym 
+M. Jenkins, and Gregory C. 
+Reinsel 
+Wiley 
+5/e, 2015 
+4 
+Applied Time Series Analysis 
+Wayne A. Woodward, 
+Henry L. Gray, and Alan C. 
+Elliott 
+CRC Press 
+7/e, 2017 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+3 
+3 
+CO2 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+3 
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+3 
+3 
+CO4 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+3 
+3 
+
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No.
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc21_ch28/preview  
+ 
+ 
+
+ 
+SEMESTER S7 
+CYBER SECURITY

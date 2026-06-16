@@ -1,0 +1,71 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "BJT Amplifiers",
+      "RC Coupled amplifier: Need of different components and design. Multistage amplifiers: Effect of cascading on gain and bandwidth. NMOSFET amplifiers: MOSFET circuits at DC",
+      "MOSFET as an amplifier",
+      "Biasing of discrete MOSFET amplifier",
+      "Small signal analysis of CS configuration using small signal hybrid-pi model",
+      "Derivation of small signal voltage and current gain",
+      "input and output impedance"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Op-Amp Basics",
+      "Block diagram of an Op Amp",
+      "Op Amp parameters -Slew Rate",
+      "Band Width",
+      "CMRR",
+      "Gain",
+      "Offset Voltage and Offset Current",
+      "differential and common mode operation of Op Amps",
+      "Inverting & Non Inverting Amplifier. Oscillators: Condition for oscillations",
+      "RC phase shift and wein bridge oscillators. 555 timer: Functional block diagram",
+      "Astable and Monostable operation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Binary logic functions",
+      "Boolean laws",
+      "truth tables",
+      "associative and distributive properties",
+      "De Morgans theorems",
+      "realization of switching functions using logic gates. Combinational Logic: Canonical logic forms",
+      "sum of product & product of sums",
+      "Karnaugh maps",
+      "two and three and four variable Karnaugh maps",
+      "simplification of expressions"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Analysis & design of Combinational Logic: Introduction to combinational circuits",
+      "code conversions",
+      "decoder",
+      "encoder",
+      "priority encoder",
+      "binary adder",
+      "subtractor. Sequential Logic: Sequential circuits",
+      "flip-flops : JK",
+      "D & T",
+      "clocked and edge triggered flipflop",
+      "block diagram",
+      "timing diagram and working of asynchronous and synchronous four bit counters using JK FF. Registers",
+      "serial in serial out shift registers"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

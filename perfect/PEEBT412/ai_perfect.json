@@ -1,0 +1,68 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Digital Design Methodology Using Verilog HDL - Design Flow - Modeling Abstraction Levels",
+            "Gate Level Model",
+            "RTL Model",
+            "Behavioral Model - Simulation and Synthesis - Modeling for ASIC/FPGA - Language Concepts - Data Types and Operators - Structural",
+            "Data Flow and Behavioral Models - Hierarchical Structure - Combinational and Sequential Circuit Description - Continuous and Procedural Assignments - Blocking and Non-Blocking Assignments - Delay Modeling - Parameterized Reusable Design - Compiler Directives - Testbenches"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Adders - Half Adder",
+            "Full Adder",
+            "Ripple Carry Adder",
+            "Comparators",
+            "Decoders",
+            "Encoders",
+            "Multiplexers",
+            "Demultiplexers. Sequential Modules Modelling and Simulation Using Verilog: Flip Flop (JK",
+            "Shift Registers (SISO",
+            "SIPO",
+            "PISO",
+            "PIPO",
+            "Universal Shift Register",
+            "Synchronous Counters (Up",
+            "Down",
+            "Up/Down Using Mode Control",
+            "Mod-N"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Timing Characteristics and Impediments to Synchronous Design of Sequential Networks",
+            "Setup Time",
+            "Hold Time",
+            "Propagation Delay",
+            "Maximum Clock Frequency - Clock Skew. Analysis of Synchronous Sequential Circuits",
+            "Derivation of State Graphs and State Tables, General Model of Sequential Networks. Design of Synchronous Sequential Circuits",
+            "Finite State Machines",
+            "Mealy and Moore Models",
+            "State Graphs",
+            "State Assignment",
+            "State Table",
+            "State Reduction - Design of Sequence Detector"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Programmable LSI Techniques - PLA/PAL/PLDs",
+            "Building Logic Functions with PLA/PAL, Read-Only Memory (ROM) - Combinational Circuit Implementation with ROM - Sequential Circuit Implementation with ROM, CPLD and FPGAs - Xilinx/Altera Series FPGAs",
+            "Programmable System on Chip",
+            "Zynq So Design Overview"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

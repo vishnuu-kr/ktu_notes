@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Conventional Vehicles: Basics of vehicle performance, Vehicle power\nsource characterization, Transmission characteristics (1hr).\nIntroduction to Electric Vehicles: History of electric vehicles,\nClassification of electric vehicles. Overview of EV challenges. Overview of\nEV technologies-motor drive technology , energy source technology ,\nbattery charging technology , vehicle-to-grid technology(2hr)\nVehicle Dynamics & Load Forces:Mathematical models to describe\nvehicle performance, vehicle load forces: aerodynamic drag,rolling\nresistance, grading resistance, vehicle acceleration, Calculation of motor\npower from traction torque, Numerical problems. (4 hrs)\nElectric Drive-trains: Basic concept of electric traction, Introduction to\nvarious electric drive-train topologies, Power flow control in electric drive-\ntrain topologies, Fuel efficiency analysis.(2 hrs)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "DC Drives:Motoring using a PM DC Machine - DC motor electric drive\nusing DC-DC converter - Generating/Braking using a PM DC Machine.\n(3hrs)\nPMSM Drives:  Review of PMSM motor basics – Independent control of\northogonal flux and torque (concept only)- Field Oriented Control (FOC) –\nSensored and sensorless control (block diagram only). (4hrs)\nSizing the drive system: Matching the electric machine and the Internal\nCombustion Engine (ICE) ,Sizing the propulsion motor, Sizing the power\nelectronics-Switch\ntechnology\nselection,Ripple\ncapacitor\ndesign,\nSwitching frequency and PWM. (2hrs)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Battery based energy storage systems: Types of battery-battery\nparameters-units of battery energy storage - capacity rate, - cell voltage -\nspecific energy - cycle life - self-discharge- static battery equivalent circuit\nmodel - series-parallel battery pack equivalent circuits.(3hrs)\nOther storage topologies: Fuel Cell based energy storage systems-\nSupercapacitors- Flywheel- Hybridization of different energy storage\ndevices. (2 hrs)\nSizing considerations of battery -Time and charge/discharge cycles -\nLifetime – Beginning of life (BOL) - End of life (EOL) - DOD - Efficiency\nof Battery Pack - Determination of pack Voltage, range for EV -\nDetermination of Cell/Pack Voltage for a Given Output\\Input Power.\nBattery management system, Numerical problems.(4hrs)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Overview of Electric Vehicle Battery Chargers–Types of chargers-On-\nboard chargers, Off- board chargers, Wireless charger. Electric Vehicle\nSupply Equipment (EVSE) - Grid to EVSE to On-board chargers to battery\npack power flow block schematic diagrams –  V2G concept(3hrs)\nTypes of charging stations - AC Level 1 & 2, DC - Level 3 -Types of\nConnectors - CHAdeMO, CCS Type1 and 2, GB/T - PIN diagrams and\ndifferences (2hrs)\nAutonomous Vehicles: Levels of automation, significance, functional\narchitecture-sensors, actuators,  path planning& effects of automation in\nvehicles (2hrs)\nVehicle Communication protocols : Need & requirements - Functions of\nControl Pilot (CP) and Proximity Pilot (PP) pins, Communication Protocols\n- CAN, LIN, FLEXRAY (Basics only)- Power line communication (PLC)\nin EV (2 hrs)",
+    "contact_hours": "9"
+  }
+]

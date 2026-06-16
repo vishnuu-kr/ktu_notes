@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to NLP: The study of language, evaluating language\nunderstanding systems, different levels of language analysis,\nrepresentations and understanding, organization of natural language\nunderstanding systems, linguistic background - An outline of english\nsyntax, challenges in NLP.\nMachine learning, deep learning, and NLP: An overview,\napproaches to NLP, heuristics-based NLP, machine learning & deep\nlearning for NLP, NLP pipeline, applications of NLP - machine\ntranslation, speech recognition, image captioning, spam detection, text\nprediction.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Regular expression and  text processing: Importance, properties,\nworking and python package, common regex function, meta\ncharacters- big brackets, cap, backslash, squared brackets, special\nsequences, asterisk, plus, and question mark, curly brackets\nUnderstanding pattern objects: Match method Vs search method,\nfinditer method, logical Or, beginning and end patterns, parenthesis\nstring modification, sentiment classification, language independent\ntokenization, string matching and spelling correction.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Vector models and text preprocessing: Vectors, bag of words,\ncountvectorizer,\ntokenization,\nstopwords,\nstemming,\nand\nlemmatization, Countvectorizer, vector similarity. TF-IDF, word-to-\nindex mapping, building TF-IDF, neural word embeddings. Vector\nmodels, text preprocessing summary, steps of NLP analysis.\nLanguage modeling: Importance, types of language modeling, the\ncurse of dimensionality, language model Markov assumption and N-\nGrams, language model implementation -setup, Ngrams function,\nupdate counts function, probability model function, reading corpus,\nlanguage model implementation sampling text, Markov models, article\nspinning, cipher decryption with language modeling and genetic\nalgorithm.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "NLP using machine learning: Spam detection - problem, Naive\nBayes theorem, intuition, spam detection using Naïve Bayes, class\nimbalance, ROC, AUC, AND F1 SCORE, implementing spam\ndetection in python, sentiment analysis, text summarization, topic\nmodeling, latent semantic modeling (Indexing).\nDeep learning: Word embeddings, nonlinear neural networks, Neuron\n- introduction, fitting a line, classification code preparation, text\nclassification in tensorflow. Feed forward\nneural\nnetworks,\nconvolution neural networks, recurrent neural networks.",
+    "contact_hours": "9"
+  }
+]

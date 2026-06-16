@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to R: Setting up R and RStudio, overview of the R\necosystem, installing and loading R packages, getting help with R.\nBasic syntax and operations, introduction to R script, Basic data types,\nreading data into R, vectors, matrices and arrays, data frames, lists,\nfactors and tables.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "R programming: Functions, control statements and loops, math\nfunctions, simulation in R, object-oriented programming - S3 classes,\nS4 classes, R6 classes, input and output, reading and writing files,\ndebugging, performance enhancement, parallel R.\nRcpp: setup, basic syntax, writing functions, and interfacing.\nOptimize R performance with C++ for statistical computations and\ndata processing. Develop, compile, and debug Rcpp modules,\nenhancing R code efficiency for real-world applications.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Data manipulation: Group manipulation - apply family, aggregate,\nplyr, data table, faster group manipulation with dplyr-pipes, tbl, select,\nfilter, slice, mutate, summarize, group by, arrange, do; iterating with\npurr, data reshaping, tidyverse, string manipulation, manipulating time\nseries data with xts and zoo packages.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Statistical analysis: Probability distributions, exploratory data\nanalysis, creating and customizing graphs, inferential statistics,\nparametric and nonparametric inference, linear regression models -\nsimple\nand\nmultiple\nregression,\ngeneralized\nlinear\nmodels,\nexperimental designs, multivariate statistical analysis, time series\nanalysis.",
+    "contact_hours": "9"
+  }
+]

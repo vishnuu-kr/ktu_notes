@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Pattern Recognition - Basics of pattern recognition,\nApplications and examples, Statistical pattern recognition, Introduction to\nclassifiers: k-NN, Naive Bayes\nProject 1: Image Classification using k-NN and Naive Bayes - Classify\nimages from the CIFAR-10 dataset using k-NN and Naive Bayes classifiers,\nand the deliverables are code implementation, project report, and\npresentation.\nAssignments : Assignment on k-NN and Naive Bayes classifiers\nMini-project proposal submission",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Feature Extraction and Dimensionality Reduction - Feature selection\ntechniques, Principal Component Analysis (PCA), Non-linear dimensionality\nreduction methods (t-SNE, LLE)\nProject 2: Dimensionality Reduction for Handwritten Digit Recognition -\nUse PCA and LDA to reduce the dimensionality of the MNIST dataset and\napply a classifier, and the deliverables are code implementation, project\nreport, and presentation.\nAssignments: Assignment on PCA and LDA theory,\nMid-term project: Detailed report on feature extraction project",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Machine Learning Algorithms for Pattern Recognition - Support Vector\nMachines (SVM), Neural Networks and Deep Learning, Ensemble methods\n(Random Forests, Gradient Boosting), Clustering techniques (k-means,\nhierarchical clustering)\nProject 3: Text Classification using SVM and Neural Networks - Classify\ntext documents from the 20 Newsgroups dataset using SVM and a simple\nneural network, and the deliverables are code implementation, project report,\nand presentation.\nAssignments : Assignment on SVM and neural network theory\nGroup project on Ensemble methods applied to a complex dataset",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Advanced Topics and Applications - Hidden Markov Models (HMM),\nBayesian Networks, Pattern recognition in speech and handwriting.\nProject 4 : Speech Recognition using Hidden Markov Models - Develop a\nspeech recognition system using Hidden Markov Models using the dataset -\nTIMIT Acoustic-Phonetic Continuous Speech Corpus. The deliverables are\ncode implementation, project report, and presentation. Tools: Python, HTK\n(Hidden Markov Model Toolkit).\nProject 5: Handwriting Recognition using Deep Learning - Develop a\nhandwriting recognition system using deep learning techniques using the\ndatasets - MNIST Handwritten Digits Dataset, IAM Handwriting Database.\nThe deliverables are code implementation, project report, and presentation.\nTools: Python, TensorFlow/Keras, OpenCV.\nProject 6: Bayesian Networks for Medical Diagnosis - Use Bayesian\nNetworks to develop a system for medical diagnosis using the datasets - UCI\nMachine Learning Repository, Hepatitis Dataset. The deliverables are code\nimplementation, project report, and presentation. Tools: Python, PyMC3,\nNetica.\nAssignments:\nAssignment on HMM and Bayesian networks\nFinal project: Comprehensive pattern recognition application",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Digital Image Fundamentals - Image representation, basic relationship\nbetween pixels, elements of DIP system, elements of visual perception-\nsimple image formation model. Digital Camera working principles\nBrightness, Contrast, Hue, Saturation.\nColour image fundamentals - RGB, CMY, HIS models, 2D sampling,\nQuantization.\nReview of matrix theory - Row and column ordering - Toeplitz, Circulant\nand block matrix.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "2D Image transforms - DFT and its properties, DCT, KL transform and\nSingular Value Decomposition.\nImage Enhancement - Spatial domain methods - point processing- intensity\ntransformations, histogram processing, image subtraction, image averaging.\nSpatial filtering- smoothing filters, sharpening filters.\nFrequency domain methods - low pass filtering and high pass filtering.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Image Restoration - Degradation model, Unconstrained restoration-\nLagrange multiplier and constraint restoration\nInverse filtering - removal of blur caused by uniform linear motion.\nFeature Extraction - Introduction to feature extraction techniques-Harris\ncorner detection, SIFT",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Feature descriptors - Histogram of Oriented Gradients (HOG), Scale\nInvariant Features\nImage Classification - Support Vector Machine, Decision Trees, Object\nDetection using HOG, Object Detection using Viola-Jones Algorithm.\nImage Segmentation - Thresholding, Region-based segmentation, Clustering\ntechniques (k-means).\nMorphological Operations - Dilation and Erosion, Opening and Closing, Hit-\nor-Miss transformation, Boundary Extraction, Region filling,",
+    "contact_hours": "9"
+  }
+]

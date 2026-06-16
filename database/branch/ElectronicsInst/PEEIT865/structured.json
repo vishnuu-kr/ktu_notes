@@ -1,0 +1,52 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "DC Motors",
+      "Stepper motors",
+      "BLDC Motor",
+      "and Synchronous AC servo motors",
+      "Industrial Servo drives",
+      "hardware controllers and interfaces",
+      "Selection of motors. Understanding Manufacturer's Technical datasheet"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Contact and non-contact sensors",
+      "position, velocity, acceleration, proximity, and force sensors. Characteristics of Sensors Grubler-Kutzbach Criterion",
+      "DOF of a Robot Manipulator. Kinematic Transformations: Homogeneous Transformation, Denavit-Hartenberg (DH) Parameters",
+      "Forward Kinematics.. Inverse Kinematic Model - Manipulator Workspace-Solvability-Solution techniques-Closed form solution"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Industrial Robot Installation and Commissioning",
+      "Mastering a Robot",
+      "Tool Center Point Calibration: 4-Point method",
+      "External reference method",
+      "Orientation calibration: World frame method",
+      "Two-point method. Calibration of Industrial Robot system: External fixed tool",
+      "Workpiece calibration: Direct and Indirect"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Imaging components-image representation-picture coding-object recognition and categorization-visual inspection.Robot cell-design and control layouts. Industrial Applications - Material Handling",
+      "Process",
+      "Assembly",
+      "Inspection.Non-Industrial Applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

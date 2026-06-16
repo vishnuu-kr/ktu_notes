@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Linkages and joints",
+            "kinematic pairs and chains",
+            "degrees of freedom and mobility",
+            "Inversion of 4 bar chain and its various applications. Kinematic Analysis: Displacement analysis, velocity, and acceleration analysis (includes Coriolis acceleration",
+            "Graphical approach. Velocity analysis by Instantaneous centre method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Type synthesis and Dimensional synthesis-Function generation -Path generation- Motion generation-Chebyshev’s spacing of precision points. Graphical method for dimensional synthesis: 2 position and 3 position synthesis. Analytical Method-Freudenstein's equation- loop closure equation. Synthesis of lower pair mechanisms such as Straight line and quick return mechanisms",
+            "Higher Pairs: Cam and follower for prescribed displacement - Gears and gear trains for prescribed speed and torque transmission"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to Robotics-Industrial robot manipulators",
+            "Service applications",
+            "electro mechanical components. Robotic kinematics:Kinematic models of manipulators",
+            "definition of pose-position description-Orientation description",
+            "changing description from frame to frame",
+            "homogeneous transformation matrix. Manipulator Kinematics: link description and link to reference frame connection -Denavit-Hardenberg (DH) representation-Forward kinematics",
+            "Inverse Kinematics-Formulation - Enumerated using simple manipulator configurations. Workspace Analysis and Trajectory Planning-planning with constraints (Case study-based explanation only"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Linear and angular velocity of links-Jacobian matrix",
+            "singularity",
+            "Static Analysis of manipulator. Robot Dynamics: Introduction to dynamics",
+            "Lagrangian formulation (Overview)of manipulator dynamics. Linear robot dynamics -Force acceleration relationship for 1 DOF system",
+            "equation of motion for 2 DOF robot arm. Motion Control:Path v/s Trajectory",
+            "Joint space v/s cartesian description",
+            "Point to point control",
+            "trajectory generation",
+            "continuous path control",
+            "force control",
+            "hybrid position/force control system. Overview of Robot Programming",
+            "scope for mobile robots",
+            "need and application of AI and ML in Robotics. Suggestion on Project Topics: ● Design and Analysis of a Four-Bar Linkage for a Specific Application. ● Velocity analysis of quick return mechanism by Instantaneous centre method. ● Synthesis of a Cam Mechanism for a given Motion Program. ● Design of a Mechanism for Converting Rotational Motion to Linear Motion. ● Analysis of a Pantograph Mechanism for a specific task. ● Develop a program to generate DH parameters for a Manipulator. ● Design of a Robot Arm for Pick-and-Place Tasks. ● Forward and Inverse Kinematics Analysis of a 2-DOF Robot Arm. ● Development of a robot arm for a pick-and-place task in a manufacturing line. ● Kinematic synthesis of a mechanism for a robotic arm for a specific industry. ● Design of a Robot Gripper for a specific object manipulation task"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

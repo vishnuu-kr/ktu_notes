@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to robotics:- Degrees of freedom, Robot types- Manipulators-\nAnatomy of a robotic manipulator-links, joints, actuators, sensors,\ncontrollers. Robot configurations-PPP, RPP, RRP, RRR. Mobile robots-\nwheeled, legged, aerial robots, underwater robots, surface water robots.\nDynamic characteristics- speed of motion, load carrying capacity & speed of\nresponse. Introduction to End effectors - mechanical grippers, special tools,\nMagnetic grippers, Vacuum grippers, adhesive grippers, Active and Passive\ngrippers. Ethics in robotics - 3 laws - applications of robots.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Sensors, Actuators and Control) Sensor classification: touch, force,\nproximity, vision sensors. Internal sensors-Position sensors, velocity sensors,\nacceleration sensors, Force sensors; External sensors-contact type, non-\ncontact type; Digital Camera - CCD camera - CMOS camera -\nOmnidirectional cameras Sensor characteristics. Actuators - DC Motors - H-\nBridge - Pulse Width Modulation - Stepper Motors - Servos, Hydraulic &\npneumatic actuators.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Robotic Vision: Sensing, Pre-processing, Segmentation, Description,\nRecognition, Interpretation, Feature extraction -Camera sensor hardware\ninterfacing. Representation of Transformations - Representation of a Pure\nTranslation - - Pure Rotation about an Axis - Combined Transformations -\nTransformations Relative to the Rotating Frame. Basic understanding of\nDifferential-Drive Wheeled Mobile Robot, Degree of mobility - different\nwheel configurations, holonomic and nonholonomic robots. Omnidirectional\nWheeled Mobile Robots.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Position and Orientation: Representing robot position. Basics of reactive\nnavigation; Robot Localization, Challenges in localization - Continuous\nrepresentations - Decomposition strategies - Current challenges in map\nrepresentation. Probabilistic map-based localization (only Kalman method),\nAutonomous map building, Simultaneous localization and mapping (SLAM)\n- Mathematical definition and various types of SLAM -, Path Planning-\nGraph search, deterministic graph search -, breadth first search - depth first\nsearch- Dijkstra' s algorithm, A*, D* algorithms, Potential field based path\nplanning. Obstacle avoidance - Bug algorithm - Vector Field Histogram -\nDynamic window approaches. Navigation Architectures - Modularity for\ncode reuse and sharing - Control localization",
+    "contact_hours": "9"
+  }
+]

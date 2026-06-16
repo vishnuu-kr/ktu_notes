@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of robot motion planning: Application areas of robot motion\nplanning - Personal Transport Vehicles, Planetary Exploration, Demining,\nFixed-base Robot Arms in Industry, Search and Rescue Robots, Surgical\nRobots; Concepts in Motion Planning – Task, Properties of the Robot,\nProperties of the Algorithm\nBasic Topological Concepts: Basic definitions of Topological Spaces,\nHomeomorphism, Diffeomorphism, Differentiable Manifolds, Paths and\nConnectivity – Paths, connected vs. path connected\nConfiguration space: Specifying a Robot’s Configuration, Obstacles and\nthe Configuration Space - Circular Mobile Robot, Two-Joint Planar Arm, C\nobstacles, Topology of the Configuration Space",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Roadmaps: Definition, Accessibility, Departability, Connectivity, Types of\nroadmaps: visibility maps – visibility graphs, deformation retracts –\nGeneralized Voronoi Diagram GVD, Sensor-Based Construction of the GVD,\nPolygonal Spaces, Grid Configuration Spaces - The Brushfire Method,\nSilhouette Methods - Canny’s Roadmap Algorithm\nCell decomposition: Exact cell decomposition, Approximate cell\ndecomposition, Trapezoidal Decomposition, Morse Cell Decomposition,\nBoustrophedon Decomposition\nPotential Field Planning: Potential Field Method, Attractive, Repulsive\npotential",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Sampling-Based Algorithms: Characteristics of Sampling-Based Planners,\nProbabilistic Roadmaps: Basic PRM – Roadmap Construction, Query Phase,\nPRM Sampling Strategies - Sampling near the obstacles, Sampling inside\nnarrow\npassages,\nVisibility-Based\nSampling,\nManipulability-Based\nSampling, Single-Query Sampling-Based Planners - Expansive-Spaces Trees\nEST, Rapidly-Exploring Random Trees RRTs",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Sensor-Based Motion Planning Algorithms: Bug1, Bug2, Tangent Bug\nalgorithms, Dynamic window approaches, A*, D* Algorithms\nMultiple Robot Motion Planning: Problem Formulation, Composite\nConfiguration Space, Centralized Planning, Decoupled planning - Prioritized\nplanning - Fixed-path coordination, Fixed-roadmap coordination\nDynamic Motion Planning: Moving Obstacles, Configuration Time space,\nPlanning without velocity bound - Exact Cell Decomposition, Approximate\nCell Decomposition, Planning with velocity bound - Asteroid Avoidance\nProblem, Approximate Cell Decomposition, Velocity Tuning",
+    "contact_hours": "9"
+  }
+]

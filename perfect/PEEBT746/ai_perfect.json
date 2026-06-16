@@ -1,0 +1,91 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Convolutional Neural Network (CNN)",
+            "Convolution Layer",
+            "Activation Function",
+            "Pooling Layer",
+            "Dense Layer",
+            "Transfer Learning",
+            "Deep CNN Architectures",
+            "Feedforward Neural Networks",
+            "Backpropagation",
+            "Gradient Descent",
+            "Loss Functions",
+            "Optimizers",
+            "Train/Val/Test Dataset Distributions",
+            "Performance Matrix",
+            "Hyperparameter Tuning",
+            "Bias-Variance Tradeoff",
+            "Problem of Overfitting",
+            "Regularization",
+            "Batch Normalization",
+            "Dataset Augmentation",
+            "Applications"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "History - AlexNet",
+            "GoogLeNet",
+            "VGGNet",
+            "ResNet",
+            "DenseNet",
+            "Deep Learning Platforms: Keras",
+            "Theano",
+            "TensorFlow and PyTorch",
+            "TensorFlow: Data Types",
+            "Tensors",
+            "Creating Tensors",
+            "Operations on Tensors",
+            "TensorBoard",
+            "Keras: Common Functional Modules",
+            "Model Configuration",
+            "Training and Testing"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Recurrent Neural Networks - Forward and Backward Pass",
+            "Gradient Propagation",
+            "Backpropagation Through Time (BPTT) Algorithm",
+            "Many-to-One RNN Model (Sentiment Analysis)",
+            "Many-to-Many RNN Model (Language Model)",
+            "Vanishing Gradients in Recurrent Networks",
+            "LSTMs",
+            "Bidirectional RNNs",
+            "Gated RNNs",
+            "Encoder-Decoder Models",
+            "Attention Networks",
+            "Issues in RNN/LSTM"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Unsupervised Deep Learning",
+            "Autoencoders",
+            "Undercomplete Autoencoders",
+            "Regularized Autoencoders and Applications",
+            "Generative Modelling: Variational Autoencoder (VAE)",
+            "Variational Learning",
+            "VAE: Network Architecture",
+            "Generative Adversarial Networks (GANs)",
+            "Boltzmann Machines",
+            "Restricted Boltzmann Machines",
+            "Deep Reinforcement Learning: Reinforcement Learning, RL Process, Reward Hypothesis",
+            "Observations/States Space, Action Space, Rewards",
+            "The Policy π: The Agent's Brain",
+            "Policy-Based Methods",
+            "Value-Based Methods",
+            "Deep Reinforcement Learning - Q-Learning",
+            "Actor-Critic",
+            "Policy Gradient",
+            "Experience Replay",
+            "Applications"
+        ]
+    }
+]

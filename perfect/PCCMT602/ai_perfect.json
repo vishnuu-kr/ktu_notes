@@ -1,0 +1,69 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Generative Modeling - Introduction",
+            "Generative vs. Discriminative Modeling",
+            "Advances in Machine Learning",
+            "The Rise of Generative Modeling",
+            "The Generative Modeling Framework",
+            "Challenges of Generative Modeling",
+            "Ethical Considerations in Generative AI",
+            "Bias and Fairness in Generative AI Systems",
+            "Responsible Use and Deployment of Generative Models"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Autoencoders: The Encoder, The Decoder, Joining the Encoder to the Decoder, Analysis of Autoencoder, Variational Autoencoders",
+            "Kullback-Leibler (KL) Divergence Loss Function",
+            "Generative Adversarial Network: Introduction to GANs, The Discriminator, The Generator, Training the GAN, GAN Challenges, Oscillating Loss, Mode Collapse, Uninformative Loss, Hyperparameters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Recurrent Neural Network (RNN): Architecture of RNN",
+            "Long Short-Term Memory (LSTM)",
+            "Architecture of LSTM",
+            "Gated Recurrent Unit (GRU)",
+            "Architecture of GRU",
+            "Encoder-Decoder Models",
+            "Question-Answer Generator Using RNN and Encoder-Decoder",
+            "Architecture",
+            "Attention Mechanisms",
+            "Transformer Architecture",
+            "Self-Attention",
+            "Analysis of the Transformer",
+            "BERT",
+            "GPT-2",
+            "Large Language Models (LLM)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Cost Optimization in the Development and Operation of Generative AI Applications",
+            "Fine-Tuning and Customizability",
+            "Parameter-Efficient Fine-Tuning Methods",
+            "Prompt Tuning",
+            "Prefix Tuning",
+            "P-Tuning",
+            "Low-Rank Adaptation",
+            "Prompt Engineering",
+            "Clear and Direct Prompts",
+            "Adding Qualifying Words for Brief Responses",
+            "Breaking Down the Request",
+            "In-Context Learning (ICL) in LLMs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

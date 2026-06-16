@@ -1,0 +1,376 @@
+Course Code 
+PECDT795 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To impart the concepts of query processing, optimization and concurrency control in 
+relational and distributed databases. 
+2. To provide detailed understanding of non-relational databases and use it in appropriate 
+scenarios and also to introduce students to Graph databases and GIS.  
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Query Processing and Optimization: Measures of query cost, Algorithms 
+for Selection with cost analysis, Algorithms for Join with cost analysis, 
+Algorithms for Project and Set operations, Evaluation of expressions, 
+Heuristics in Query Optimization: Optimization of Relational Algebra 
+expressions 
+Physical Database Design and Tuning: Introduction to Physical Database 
+Design: Factors influencing Physical Database Design, Overview of Database 
+Tuning: Tuning the Conceptual Schema, Tuning Queries and Views-Impact 
+of Concurrency. 
+9 
+2 
+Distributed Databases: Distributed Database Concepts: Architecture, 
+Distributed Data Storage: Data fragmentation, Replication and allocation 
+techniques for distributed data base design, Types of Distributed Database 
+9 
+
+ 
+ 
+Systems, Query Processing and Decomposition: Query Processing Objectives,  
+Characterization of Query Processors, Layers of Query Processing, Query 
+Decomposition, Localization of Distributed Data,  Concurrency Control and 
+Recovery in Distributed Database Systems. 
+3 
+XML and Non-Relational Databases: XML: Introduction to Semi 
+Structured Data and XML Databases, XML Data Model, XML documents, 
+DTD and XML Schema, XML Presentation, XPath Queries, XQuery  
+NOSQL Databases: Introduction, Comparison of NoSQL and relational 
+databases, database Sharding, CAP Theorem, Overview of MongoDB: Mongo 
+DB data model, CRUD Operations, Indexing, Application integration, 
+Replication, Sharding, Deployment. Cassandra: Data Model, CRUD 
+operations. 
+9 
+4 
+Graph databases: Introduction, Data Modelling with Graphs: Building a 
+Graph Database application, Data Modeling, Predictive Analysis with Graph 
+Theory: Depth and Breadth First Search, Path-Finding with Dijkstra’s 
+Algorithm, Graph Theory and Predictive Modeling. 
+Geographic Information Systems (GIS): Components, Characteristics, Data 
+Models for GIS, GIS Standards and Operations. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation(Evaluate and Analyse): 20 marks 
+Sample Questions at Evaluate Level  
+ 
+1. Critically evaluate the significance of using different query cost metrics (e.g., I/O cost, CPU cost) 
+in optimizing complex queries. 
+
+ 
+ 
+ 
+2. Assess the impact of using a sort-merge join algorithm versus a hash join algorithm in a system 
+with limited memory resources. Which algorithm would you recommend, and under what 
+conditions might your recommendation change? 
+ 
+Sample Questions at Evaluate Level  
+ 
+1. Analyze how the structure of a graph database differs from a relational database in terms of data 
+representation and query efficiency. 
+ 
+2. Analyze the key considerations when transitioning from a relational database application to a 
+graph database application. What architectural and performance factors should be taken into 
+account, and how do they influence the design of the application? 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose 
+any one full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each question 
+can have a maximum of 3 subdivisions. Each 
+question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Critique various measures for query processing and optimization, and 
+apply techniques to tune database performance. 
+K5 
+CO2 
+Explain the architecture and fundamental concepts of distributed 
+databases. 
+K2 
+CO3 
+Utilize semi-structured data, XML, and XML queries for effective data 
+management 
+K3 
+CO4 
+Utilize NoSQL database systems to manage and manipulate data in 
+real-time applications 
+K3 
+CO5 
+Examine graph database concepts and geographic information systems 
+as tools for data modeling 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Fundamentals of Database 
+Systems 
+Ramez Elmasri and Shamkant 
+B. Navathe 
+Pearson 
+7/e, 2019 
+2 
+Database System Concepts  
+A. Silberschatz, H. Korth and 
+S. Sudarshan 
+McGraw-Hill 
+7/e, 2021 
+3 
+Database Management Systems 
+R. Ramakrishnan, J. Gehrke 
+McGraw Hill 
+3/e, 2018 
+4 
+Graph Databases 
+Ian Robinson, Jim Webber & 
+Emil Eifrem 
+O’Reilly 
+2/e, 2015  
+5 
+Database Systems: Practical 
+approach to design, 
+implementation, and management 
+T. M. Connolly and C. Begg
+Pearson 
+6/e, 2019 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition and
+Year 
+1 
+Principles of Database Management: 
+Practical Guide to Storing, Managing and 
+Analyzing Big and Small Data 
+W. Lemahieu, S. vanden 
+Broucke and B. Baesens
+Cambridge 
+University Press 
+1/e, 2018 
+2 
+Designing Data-Intensive Applications: 
+The Big Ideas Behind Reliable, Scalable, 
+and Maintainable Systems 
+M. Kleppmann 
+O’Reilly 
+1e, 2017 
+3 
+Database Systems: The Complete Book 
+Hector Garcia-Molina,  
+Jeffrey D. Ullman,  
+Jennifer Widom 
+Prentice Hall 
+2/e, 2009 
+4 
+Next generation databases: NoSQL, 
+newSQL, and big data.  
+Guy Harrison 
+Apress 
+1/e, 2015 
+5 
+Foundations of Multidimensional and 
+Metric Data Structures 
+Hanan Samet 
+Morgan Kaufmann
+1/e,2006 
+8 
+Designing Data-Intensive Applications: 
+The Big Ideas Behind Reliable, Scalable, 
+and Maintainable Systems 
+M. Kleppmann 
+O’Reilly 
+1/e, 2017 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+CAP Theorem https://nptel.ac.in/courses/106104189 
+2 
+Advanced database Queries https://archive.nptel.ac.in/courses/106/104/106104021 
+3 
+Database design https://archive.nptel.ac.in/courses/106106093/ 
+4 
+Introduction to modern application development 
+https://archive.nptel.ac.in/courses/106/106/106106156 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S7 
+GRAPH DATABASES AND ANALYSIS

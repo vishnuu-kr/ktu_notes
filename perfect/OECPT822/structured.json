@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "ROBOT KINEMATICS Representing Position and orientation",
+            "Homogeneous matrices",
+            "Denavit Hardenberg representation",
+            "Describing a Robot Arm",
+            "Forward Kinematics -Inverse Kinematics, Case studies on describing the real life robot manipulators using D-H representation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "VELOCITY AND FORCE RELATIONSHIPS Velocities in manipulators, Forward and inverse velocity kinematics -Manipulator Jacobian and Transforming Velocities between Coordinate Frames",
+            "Static forces in manipulators",
+            "Jacobians in the force domain -Cartesian transformation of velocities and static forces"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "ROBOT DYNAMICS Acceleration of a rigid body",
+            "Equations of Motion",
+            "Forward and inverse dynamics",
+            "Iterative Newton-Euler dynamic formulation",
+            "Closed form dynamic equations",
+            "Lagrangian formulation of manipulator dynamics",
+            "Formulating manipulator dynamics in Cartesian coordinates"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "TRAJECTORY PLANNING Joint space schemes",
+            "Cartesian space schemes",
+            "Path generation in run time",
+            "Description of paths in a robot programming language",
+            "Planning path when using the dynamic model",
+            "Collision-free path planning"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Definition of reliability",
+      "reliability vs. quality",
+      "reliability function",
+      "MTTF",
+      "hazard rate function",
+      "bathtub curve",
+      "derivation of the reliability function",
+      "failure and failure modes",
+      "causes of failures and unreliability. Reliability models: Constant failure rate model",
+      "time dependent failure models. Weibull distribution",
+      "normal distribution",
+      "lognormal distribution. Serial configuration",
+      "parallel configuration",
+      "combined series parallel systems",
+      "K-out-of-m systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Component vs unit redundancy",
+      "weakest-link technique",
+      "mixed redundancy",
+      "standby redundancy",
+      "redundancy optimization",
+      "double failures and redundancy",
+      "Markov analysis",
+      "load sharing systems",
+      "standby systems",
+      "degraded systems",
+      "three state devices",
+      "covariate models"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Reliability in design process",
+      "system effectiveness",
+      "economic analysis and life cycle cost. Reliability allocation- optimal allocations",
+      "ARINC and AGREE methods. System safety and fault tree analysis- Tieset and Cut-set methods. Use of boolean algebra in reliability analysis"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Definitions and basic concepts",
+      "relationship between reliability",
+      "availability and maintainability",
+      "inherent availability",
+      "achieved availability",
+      "operational availability. Economics of reliability: Economic issues",
+      "manufacturers cost",
+      "customers cost",
+      "reliability achievement cost models",
+      "reliability utility cost models",
+      "depreciation cost models",
+      "availability cost model for parallel systems. Reliability management and reliability management by objectives"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

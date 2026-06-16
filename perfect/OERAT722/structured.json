@@ -1,0 +1,72 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "The ROS Graph",
+            "roscore",
+            "catkin",
+            "Workspaces",
+            "and ROS Packages",
+            "rosrun",
+            "Names",
+            "Namespaces",
+            "and Remapping",
+            "roslaunch",
+            "tf: Coordinate Transforms - Poses",
+            "Positions",
+            "and Orientations",
+            "Publishing to a Topic",
+            "Subscribing to a Topic",
+            "Latched Topics",
+            "Defining Message Types",
+            "Mixing Publishers and Subscribers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Defining a Service",
+            "Implementing a Service",
+            "Using a Service",
+            "Defining an Action",
+            "Implementing a Basic Action Server",
+            "Using an Action",
+            "Implementing a More Sophisticated Action Server",
+            "Using the More Sophisticated Action"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Subsystems - Actuation: Mobile Platform",
+            "Actuation: Manipulator Arm",
+            "Sensors",
+            "Computation Complete Robots - PR2",
+            "Fetch",
+            "Robonaut 2",
+            "TurtleBot",
+            "Simulators - Stage",
+            "Gazebo. Other Simulators"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Maps in ROS",
+            "Recording Data with rosbag",
+            "Building Maps",
+            "Starting a Map Server and Looking at a Map",
+            "Localizing the Robot in a Map",
+            "Using the ROS Navigation Stack",
+            "Navigating in Code"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

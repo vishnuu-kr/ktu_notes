@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Agile Development\nIntroduction to Agile Methodology: Overview of traditional vs. Agile\ndevelopment, Agile Manifesto and Principles.\nAgile Frameworks: Scrum, Kanban, XP (Extreme Programming).\nAgile Project Management: User Stories, Backlogs, Sprints, and Releases.\nRoles in Agile Teams: Product Owner, Scrum Master, Development Team.\nAgile Planning and Estimation: Story Points, Velocity, and Burndown Charts.\nAgile Metrics and Reporting: Measuring progress, continuous improvement.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "DevOps Fundamentals and Practices\nIntroduction to DevOps: Definition, need for DevOps, DevOps lifecycle.\nContinuous Integration and Continuous Deployment (CI/CD): Jenkins, GitLab\nCI, Travis CI.\nInfrastructure as Code (IaC): Terraform, Ansible, Docker, and Kubernetes.\nVersion Control Systems: Git, Git workflows, branching strategies.\nAutomated Testing in DevOps: Unit tests, integration tests, deployment\ntesting.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Secure Software Development\nIntroduction to Secure Software Development: Importance of security in\nsoftware, common vulnerabilities.\nSecure Coding Practices: OWASP Top 10, secure coding standards.\nThreat Modeling: Identifying threats, security design principles.\nSecurity Testing: Static Application Security Testing (SAST), Dynamic\nApplication Security Testing (DAST), and penetration testing.\nSecurity in CI/CD Pipeline: Integrating security into DevOps (DevSecOps),\nautomated security tools.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Advanced DevOps and Agile Practices\nAdvanced CI/CD Pipelines: Custom pipelines, Blue-Green deployments,\nCanary releases.\nMonitoring and Logging: Prometheus, Grafana, ELK Stack (Elasticsearch,\nLogstash, Kibana).\nCloud and DevOps: DevOps practices in AWS, Azure, and GCP.\nAgile at Scale: Scaling Agile in large organizations, SAFe (Scaled Agile\nFramework), LeSS (Large Scale Scrum).\nContinuous Feedback and Improvement: Retrospectives, continuous learning\nand adaptation.",
+    "contact_hours": "9"
+  }
+]

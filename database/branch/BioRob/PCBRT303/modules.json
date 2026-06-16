@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Requirement of sensors in robots used in industry, agriculture, medical field,\ntransportation, military, space and undersea exploration, human robot\ninteractions, robot control, robot navigation, tele-operational robot etc.\nSensor Characteristics: Sensitivity, Linearity, Measurement/ Dynamic\nrange, Response Time, Accuracy, Repeatability & Precision, Resolution &\nThreshold, Bandwidth. Sensor classification- touch, force, proximity, vision\nsensors\nProprioceptive or Internal sensors Position sensors- encoders- linear, rotary,\nincremental linear encoder, absolute linear encoder, Incremental rotary\nencoder, absolute rotary encoder; potentiometers; LVDTs; velocity sensors-\noptical encoders, tacho generator, Hall effect sensor,  acceleration sensors,\nHeading sensors- Compass, Gyroscope sensor, IMU, GPS, real time\ndifferential GPS; Force sensors-strain gauge based and Piezo electric based,\nTorque sensors; Block schematic representations; Interpreting typical\nmanufacturer’s data sheet of internal sensors.\nNote- Block schematic representations, Interpretation of typical\nmanufacturer’s datasheet and Numerical problems of the main sensors\nare to be covered.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Exteroceptive or External sensors- contact type, noncontact type; Tactile,\nproximity-detection of physical contact or closeness, contact switches,\nbumpers , inductive proximity, capacitive proximity; semiconductor\ndisplacement sensor; Range sensors- IR, sonar, laser range finder, optical\ntriangulation (1D), structured light(2D),performance comparison range\nsensors; motion/ speed sensors-speed relative to fixed or moving objects,\nDoppler radar, Doppler sound; Block schematic representations; Numerical\nproblems;\nBlock\nschematic\nrepresentations;\nInterpreting\ntypical\nmanufacturer’s data sheet of external sensors; Examples -use of Exteroceptive\nsensors in robots.\nVision based sensors- Elements of vision sensor, image acquisition, image\nprocessing, edge detection, feature extraction, object recognition, pose\nestimation and visual servoing, hierarchy of a vision system,\nNote- Block schematic representations, Interpretation of typical\nmanufacturer’s datasheet and Numerical problems of the main sensors\nare to be covered.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Vision based sensors- CCD and CMOS Cameras, Monochrome, stereo\nvision, night vision cameras, still vs video cameras, Kinect sensor; Block\nschematic representations. Choosing sensor for different robotic applications\nand application of sensors inflexible manufacturing.\nIntroduction to transducers; Requirement of transducers in robots, medicine\netc; Differences between Sensors and transducers; Transducer performance\ncharacteristics based on static and dynamic properties; Classification of\ntransducers based on physical effect, physical quantity and source of energy-\nActive vs Passive, Principle of transduction, Analog and Digital transducer,\nPrimary and Secondary transducer; Transducer and Inverse Transducer",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Position transducers, Displacement transducer– LVDT’s, Captive Armatures,\nUnguided Armatures, Force-Extended Armatures; Velocity Transducers -\nLVT; Accelerometer- using potentiometer, Strain gage, Piezoelectric; Light\ntransducers;\nForce\ntransducers;\nPiezoelectric\ntransducer;Temperature\ntransducer–thermocouple, RTD- common errors, Thermistor, Integrated\ncircuit; Pressure transducer-Bourdon tube, diaphragm, Capacitive Pressure\ntransducer; Oscillator transducer; Flow transducer – Orifice Plate, venture,\nDefective type flow sensor, spin type flow sensor, Electromagnetic flow\nsensor; Level Transducer- Discrete Level, Level  measurement by pressure\nsensor, differential pressure sensor, force sensor, capacitive level  sensor;\nInductive transducer; Ultrasonic transducer; LIDAR\nActuators for robots- classification-Electric, Hydraulic, Pneumatic\nactuators; their advantages and disadvantages; Electric actuators- Stepper\nmotors, DC motors, DC servo motors and their drivers, AC motors, Linear\nactuators, selection of motors; Hydraulic actuators- Components and typical\ncircuit, advantages and disadvantages; Pneumatic Actuators- Components and\ntypical circuit, advantages and disadvantages.",
+    "contact_hours": "11"
+  }
+]

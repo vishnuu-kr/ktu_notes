@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "8086 Microprocessor: Register organization – Architecture- Physical\nmemory organization & segmentation-Signal descriptions of 8086 chip –\nGeneral bus operation – Addressing capability- Assembler directives -\nAddressing Modes - Introduction to Stack, Interrupts & Interrupt service\nroutines, Minimum and Maximum mode 8086 system operation.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "80386 Microprocessor: Salient features of 80386 DX -Architecture and\nSignal Description- Register Organization-Memory addressing in Real\nAddress mode, Protected mode, Segmentation, Paging & Virtual modes.\nPentium - General features, pipelining and super scalar architecture.\nIntroduction to multicore processors: Concept of multi core processing -\nHomogeneous and heterogeneous multicore processors -- Major issues in\nmulticore processing - Internal architecture of Intel Core2 Duo (Simple block\ndiagram representation only) - Technological features of IA processors.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "High performance RISC ARM architecture:  ARM Processor\nFundamentals- ARM architecture - ARM7TDMI programmer’s model (basic\nlevel only)- Memory format – Embedded Applications. ARM based SoC-\nGeneral features- Basic system-on-chip (SoC) architecture- System level\ninterconnection – Memory organisation- SoC design approach.\n(Class Assignment/Seminar topics: SoC Interconnect Customization and\nConfiguration, Trade-off analysis on reconfigurable Parallelism, Case\nstudies on design approach)\nIntroduction\nto\nhigh\nperformance\ncomputing-\nGPU\nhardware\narchitecture- Comparison with CPU – GPU programming mode- GPU in\nRadiation imaging.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to ESP32 Microcontroller: Features of ESP32 development\nboard – Architecture - Pin configuration – ESP32 v/s Arduino –\nProgramming of ESP32 with Arduino IDE (only basic level). Introduction\nto STM32: Fundamentals of 32 -bit STM controllers – Architecture - STM\nboot modes - Interfacing of STM32 with stepper motor and 7 segment\ndisplay.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Signals and Systems:\nElementary Signals, Classification and representation of continuous time\nand discrete time signals, Signal operations. (3 hours)\nConcept of system: Continuous time and discrete time systems;\nProperties of systems:  Time invariance, Linearity, Causality, Systems\nwith and without memory, Stability. (3 hours)\nConvolution Integral and sum. (2 hours)\nImpulse and step response. (1 hour)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Frequency domain characterization of Signals and Systems:\nFourier transform: Existence - Properties of Continuous time Fourier\ntransform; Concept of Frequency response; Significance of Fourier\ntransform and difference from Fourier series. (3 hours)\nReview of Laplace Transforms.\nCharacterization of LTI systems: Differential equation representation of\ncontinuous time LTI systems. Transfer function representation of\ndifferential equation in Laplace domain. (2 hours)\nModeling of LTI systems: Electrical, translational and rotational\nmechanical systems, DC servo-motor;  Force voltage, Force current\nanalogy. (4 hours)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Sampled Data Systems and Z-Transform:\nSampling process - Impulse train sampling-sampling theorem- Aliasing\neffect. (2 hour)\nZero-order and First-order hold circuits - Signal reconstruction. (2 hours)\nZ-Transform: Region of convergence- Properties of Z-Transform Inverse\nZ-Transform. Pulse transfer function. Difference equations representation\nusing Z-transform and it’s solution using inverse Z-Transform.  (3 hours)\nImpulse and step response of discrete-time systems. (3 hours)",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Dynamic System Representation and Stability:\nOpen loop and closed loop systems. Effect of feedback in  systems. Block\ndiagram representation - block diagram reduction. Signal flow graph -\nMason's gain formula. (5 hours)\nType and Order of the systems - Pole-Zero representation of systems.\nCharacteristic equation. Routh stability criterion. (3 hours)",
+    "contact_hours": "8"
+  }
+]

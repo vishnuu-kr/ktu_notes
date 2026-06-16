@@ -1,0 +1,57 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to compilers-Phases of compiler",
+      "The role of Lexical Analyzer",
+      "Role of the Parser",
+      "Basic parsing approaches - Eliminating left recursion",
+      "left factoring. Top-Down Parsing - Recursive Descent parsing",
+      "Nonrecursive Predictive Parsing",
+      "Bottom-up parsing-Shift Reduce Parsing",
+      "Simple LR Parser",
+      "More Powerful LR Parsers"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Syntax directed definitions-Inherited and Synthesized Attributes. S-attributed definitions",
+      "L- attributed definitions. Intermediate Code Generation-Variants of Syntax Tree. Three address code-Quadruple",
+      "Triple. Run Time Environments",
+      "Local optimizations",
+      "Principal Sources of Optimizations"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Process states",
+      "Process control block",
+      "threads",
+      "scheduling",
+      "Inter-process communication - shared memory systems",
+      "Message passing systems. Process Scheduling: Basic concepts- Scheduling criteria -Scheduling algorithms- First come First Served",
+      "Round robin scheduling"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Race conditions - Critical section problem - Peterson’s solution - Semaphores - Synchronization problems - Producer Consumer. Deadlocks: Necessary conditions",
+      "Resource allocation graphs - Deadlock avoidance - Banker’s algorithms. Memory Management: Concept of address spaces",
+      "Contiguous memory allocation",
+      "fixed and variable partitions. File System: File concept - Attributes",
+      "Operations",
+      "types"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

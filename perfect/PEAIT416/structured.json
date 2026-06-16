@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of Computer Graphics and its applications. Video Display devices- Refresh Cathode Ray Tubes",
+            "Random Scan Displays and systems",
+            "Raster scan displays and systems. Line drawing algorithms- DDA",
+            "Bresenham’s algorithm. Circle drawing algorithms- Midpoint Circle generation algorithm",
+            "Bresenham’s algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Filled Area Primitives-Scan line polygon filling",
+            "Boundary filling and flood filling. Two dimensional transformations-Translation",
+            "Rotation",
+            "Scaling",
+            "Reflection and Shearing",
+            "Composite transformations",
+            "Matrix representations and homogeneous coordinates. Basic 3D transformations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Window to viewport transformation. Cohen Sutherland Line clipping algorithm. Sutherland Hodgeman Polygon clipping algorithm. Three dimensional viewing pipeline. Projections",
+            "Parallel and Perspective projections. Visible surface detection algorithms",
+            "Depth buffer algorithm, Scan line algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Multimedia basics",
+            "Multimedia applications",
+            "Multimedia system architecture",
+            "Evolving technologies for multimedia",
+            "Defining objects for multimedia systems",
+            "Multimedia data interface standards",
+            "Multimedia databases. Compression and decompression",
+            "Data and file format standard"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

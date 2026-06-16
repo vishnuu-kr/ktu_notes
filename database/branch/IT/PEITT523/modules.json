@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Cloud Computing – Introduction. Overview of Computing Paradigms-Grid\nComputing, Cluster Computing, Distributed Computing, Utility Computing. Cloud\nService Models - Software as a Service, Platform as a Service, Infrastructure as a\nService. Cloud Deployment Models - Private Cloud, Public Cloud, Community\nCloud, Hybrid Cloud. Characteristics of Cloud Computing. Advantages and\ndisadvantages of cloud computing. Cloud Computing Reference Architecture-Cloud\nConsumer, Cloud Provider, Cloud Auditor, Cloud Broker, Cloud Carrier, IBM\nCloud Computing Reference Architecture. Cloud Computing Use Cases - Business\nUse Cases, Technical Use Cases",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Virtualization- Introduction. Characteristics of Virtualization. Importance of\nVirtualization.  Classification of Virtualization-Network Virtualization, Desktop\nVirtualization, Application Virtualization, Central Processing Unit Virtualization,\nMemory Virtualization, Input/Output Devices Virtualization. Virtualization to\nPrivate Cloud Services -Five High-Level Steps. Virtualization Architecture-\nVirtualization Platforms, Hypervisor. Tools and Mechanisms for Implementation of\nVirtualization. Physical and Virtual Clusters and Resource Management. Importance\nof Virtualization in Data Center Automation.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Architectural Design of Compute and Storage Clouds-Data Center Interconnection\nNetworks and Design, Architectural Design of Computing Clouds, Cloud Service\nModels and Platforms, Resource Management and Design Challenges. Fundamental\nCloud Security-Threat agents, Cloud security threats, Operating system security,\nInfrastructure security-\nNetwork Level Security, Host Level Security, Application level security. Secure\nDistributed Data Storage in Cloud - Cryptography as a Primary Technique to Ensure\nSecurity, Gartner’s Seven Cloud Computing Security Risks, Need for Data Security.\nCloud Computing—Attacks. Cloud Data Security Requirements. Cloud Security—\nControls. Cloud Security Architecture. Cloud Data Security.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Parallel\nand\nDistributed\nProgramming\nModels.\nMapReduce-\nMapReduce\nProgramming Model, Logical Data Flow and Control Flow, Case Study: MapReduce\nProgram to Find Inverted Index of Documents.  Twister and Iterative MapReduce,\nHadoop Library, Apache Spark.  Cloud Software Environments-Eucalyptus,\nOpenNebula, OpenStack, Aneka, CloudSim. Popular Cloud Databases – MongoDB,\nHBase. Popular Cloud Platforms. Amazon Web Services- Amazon Web Services\n(AWS)- Elastic Compute Cloud (EC2), Simple Storage Service (Amazon S3),\nElastic Block Store (EBS), Amazon CDN services.  Google Cloud Platform (GCP)-\nCompute Engine (GCE), Google App Engine (GAE), Cloud Storage, Gmail, Google\nDrive.  Microsoft Azure- Azure Virtual Machine, Hyper-V, Azure Storage services.",
+    "contact_hours": "9"
+  }
+]

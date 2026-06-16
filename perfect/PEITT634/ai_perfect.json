@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "History of Quantum Computation and Quantum Information, Quantum Bits, Quantum Computation",
+            "Single Qubit Gates, Multiple Qubit Gates, Quantum Circuits, Qubit Copying Circuit, Example: Bell States",
+            "Quantum Algorithms, Classical Computations on a Quantum Computer, Quantum Parallelism, Deutsch's Algorithm, The Deutsch-Jozsa Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Linear Algebra, Bases and Linear Independence",
+            "Linear Operators and Matrices, The Pauli Matrices",
+            "Inner Products",
+            "Eigenvectors and Eigenvalues",
+            "Adjoints and Hermitian Operators",
+            "Tensor Products",
+            "Operator Functions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "State Space",
+            "Evolution",
+            "Quantum Measurement",
+            "Distinguishing Quantum States",
+            "Projective Measurements",
+            "POVM Measurements, Phase",
+            "Composite Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Quantum Circuits",
+            "Universal Quantum Gates",
+            "Simulation of Quantum Systems, The Quantum Fourier Transform, Phase Estimation",
+            "Application: Order Finding",
+            "Quantum Search Algorithms",
+            "Quantum Search as a Quantum Simulation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to electric motors used for robotic applications. DC Motor -Construction - principle of operation - Back emf - Torque -characteristics of shunt",
+      "series and compound motors - necessity of starters-starting methods of dc motors Introduction to Special Electrical Machines- DC servo motor",
+      "AC servo motors",
+      "stepper motor- variable reluctance - permanent magnet- hybrid",
+      "BLDC"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "DC-DC converters",
+      "step down and step up choppers",
+      "control methods-two-quadrant & four quadrant chopper. DC Motor drives- Solid state speed control of DC motors-Armature control and field control, Single phase fully controlled converter drives (Rectifier and inverter mode). Chopper controlled DC drives"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Mechanical systems",
+      "Time response of first and second order systems to standard test signals (Step and Ramp"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Stability of linear control systems Stability of linear control systems: concept of BIBO stability, Routh‘s Hurwitz Criterion Root Locus Techniques",
+      "Introduction, properties and its construction"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

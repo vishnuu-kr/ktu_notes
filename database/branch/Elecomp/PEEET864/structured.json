@@ -1,0 +1,65 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to communication systems",
+      "Classification of channels",
+      "Need for modulation. Amplitude modulation: Equation and frequency spectrum of AM signal",
+      "Double-side band suppressed carrier (DSB-SC) modulation",
+      "Sin-gle sideband modulation (SSB",
+      "comparison of spectrum",
+      "power and effi-ciency of all the three variants",
+      "Amplitude modulator circuits -balanced modulator",
+      "AM demodulators - Envelope detector"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Frequency and phase modulation",
+      "Narrow and wide band FM and their spec-tra",
+      "Modulation and demodulation techniques for FM",
+      "pre-emphasis and de-emphasis",
+      "FM transmitter and receiver",
+      "Noise in receivers",
+      "Noise figures",
+      "Performance of analog modulation schemes in AWGN: SNR and figure of merit for different schemes"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Elements of digital communication system. Sources",
+      "channels and receivers",
+      "Sampling and Reconstruction of Analog Signals: Nyquist Sampling Theo-rem",
+      "Ideal Reconstruction Filter",
+      "Pulse Amplitude Modulation (PAM",
+      "Time division multiplexing with PAM",
+      "Pulse Code Modulation (PCM",
+      "A-law and mu-law quantization"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Digital bandpass communication system",
+      "Bandpass modulation techniques: Amplitude shift keying",
+      "Phase shift keying",
+      "Frequency shift keying",
+      "Methods of generation and detection",
+      "Signal constellations",
+      "M-ary digital modulation schemes",
+      "Quadrature phase shift keying",
+      "Minimum shift keying",
+      "Quadrature amplitude modulation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

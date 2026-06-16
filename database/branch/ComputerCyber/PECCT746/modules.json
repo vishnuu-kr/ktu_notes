@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "SOC in Industrial Environments\nOverview of SOC Operations in OT Environments: Role of SOC in\nindustrial settings, Challenges of monitoring OT networks vs. IT networks\nIntegration of IT and OT Security Monitoring: Convergence of IT and OT\nsystems, Tools and techniques for unified monitoring.\nIncident Detection in OT Networks: Threat vectors and vulnerabilities in\nOT environments, Detection techniques for SCADA, PLCs, and ICS",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Threat Intelligence for Industrial Cyber Security\nIndustrial-Specific Threat Intelligence: OT-specific threat intelligence\nsources, ISACs and proprietary feeds for industrial environments\nVulnerability Management in OT: Identifying and managing OT system\nvulnerabilities, Challenges in patch management for critical systems\nIntegrating Threat Intelligence with OT Systems: Correlating threat\nintelligence with industrial protocols, Case studies of OT-targeted attacks",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Incident Response and Forensics in Industrial Environments\nIncident Response Strategies for OT: Responding to incidents in OT\nenvironments, Balancing operational safety with security response.\nForensic Analysis of OT Incidents: Techniques for forensic analysis in OT\nsystems, Data acquisition and analysis from industrial devices.\nCoordination with Industrial Stakeholders: Collaborating with engineering\nand operations teams, Best practices for communication during OT incidents.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Advanced Security Operations and Continuous Improvement in OT\nAdvanced Threat Detection in OT: Anomaly detection for industrial\nprotocols, Machine learning for OT-specific threat detection.\nProactive Security Measures in OT: Threat hunting in OT networks, Red\nand purple teaming in industrial settings.\nSecurity Metrics and Reporting in OT: KPIs for OT security operations,\nReporting to technical and non-technical stakeholders.\nContinuous Improvement in OT Security Operations: Post-incident\nreviews and OT security audits, Feedback loops for enhancing SOC\ncapabilities.",
+    "contact_hours": "10"
+  }
+]

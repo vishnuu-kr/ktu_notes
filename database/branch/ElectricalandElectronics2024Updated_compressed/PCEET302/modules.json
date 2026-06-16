@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Mesh analysis and nodal analysis ( Review only)- super mesh and super\nnode - Superposition principle - source transformation – analysis with DC\nand AC (sinusoidal) excitation\nThevenin’s theorem - Norton’s theorem - Maximum power transfer\ntheorem - analysis with DC and AC (sinusoidal) excitation with\nindependent and dependent sources.\nReciprocity Theorem - application to the analysis of DC  Circuits.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Resonance - series resonance– resonant frequency – variations of\nimpedance and current with frequency – bandwidth – quality factor–\nparallel resonance (series RL in parallel with C –calculation of resonant\nfrequency).\nPower in 3-phase circuits – complex power - active, reactive and apparent\npower in balanced load – steadystate analysis of 3-wire unbalanced delta\nconnected circuit - steady state analysis of 3-phase 4-wire and 3-wire (using\nMillman’s theorem only) unbalanced star connected circuit –neutral shift",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Laplace transforms( Review only)\nTransient response of simple series and parallel RL and RC circuits with\nDC excitation and initial conditions – natural response and forced response\n– time constant - solution using Laplace transforms – transformed circuits\nin s-domain – solution using mesh analysis and nodal analysis\nTransient response of series RLC circuit with DC excitation and initial\nconditions – damping –overdamped, underdamped, critically damped and\nundamped - solution using Laplace transforms\nTransient response of simple series and parallel RL and RC circuits with\nsinusoidal excitation and zero initial conditions – solution using Laplace\ntransforms",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Two port networks – Z, Y, h, T parameters – conditions for symmetry and\nreciprocity – relationship between parameters – interconnection of two port\nnetworks – series, parallel and cascade\nCoupled circuit – dot convention – fixing of dots – coefficient of coupling -\nconductively coupled equivalent circuit - sinusoidal steady state analysis of\ncoupled circuits.",
+    "contact_hours": "9"
+  }
+]

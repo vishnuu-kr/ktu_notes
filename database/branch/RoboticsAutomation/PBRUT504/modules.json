@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Locomotion:  Introduction, Key issues for locomotion, Legged Mobile\nRobots - Leg configurations and stability, Wheeled Mobile Robots -\nWheeled locomotion: the design space, Wheel design, Wheel geometry,\nStability, Maneuverability, Controllability, Aerial robots – advantages of\nUAVs over conventional manned aircraft, Types of UAVs - Fixed-wing\nUAV or airplane – characteristics, Rotary-wing UAV - Multi-rotor,\nTricopter, Quadcopter or quadrotor, Hexacopter, Y3/Y6, Octocopter\nMobile Robot Kinematics:\nIntroduction, Kinematic Models and Constraints - Representing robot\nposition, Forward kinematic models, Wheel kinematic constraints for Fixed\nstandard wheel, Steered standard wheel and Castor wheel only, Robot\nkinematic constraints\nExample of Robot kinematic models and constraints: Differential-drive robot\nonly\nMobile Robot Maneuverability - Degree of mobility, Degree of steerability,\nRobot maneuverability, Mobile Robot Workspace - Degrees of freedom,\nHolonomic robots",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Mobile Robots Fundamental problems: Path Planning, Localization,\nSensing, Mapping, Simultaneous Localization and Mapping\nMobile Robot Localization: Introduction, The Challenge of Localization -\nNoise and Aliasing, Localization-Based Navigation versus Programmed\nSolutions, Belief Representation - Single-hypothesis belief, Multiple-\nhypothesis belief, Differences between Markov and Kalman Localization\n(detailed explanation not required)\nRepresentation and Reasoning about Space: Representing Space -\nSpatial\nDecomposition,\nGeometric\nRepresentations,\nTopological\nRepresentations\nRepresenting the Robot: Configuration Space, Simplification of C-space",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Path Planning for Mobile Robots:\nFree-space path versus Semi-free-space path, Non-homotopic paths versus\nHomotopic paths\nConstructing a discrete search space - Visibility graph, Tangent graph,\nRetraction Methods\nSearching a Discrete State Space - Graph search - Depth-first Search,\nBreadth-first Search, Dijkstra’s Algorithm, Best first search – A and A*\nAlgorithm\nSearching a Continuous State Space – Potential Fields, Vector field\nhistogram, Bug 1, 2 and Tangent Bug algorithms\nProbabilistic path planning – RPP, PRM, RRT",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "System Control:   Horizontal Decomposition, Vertical Decomposition,\nHybrid Control Architectures, Middleware, Alternative Control Formalisms,\nThe Human Robot Interface\nOff-Board Communication: Tethered, Untethered – types of untethered\ncommunication",
+    "contact_hours": "11"
+  }
+]

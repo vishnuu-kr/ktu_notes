@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basics of Security and Traditional Cryptosystems\nOSI security architecture – Security attacks, Services, Mechanisms.\nCryptography vs Cryptanalysis. Classical encryption techniques – Symmetric\ncipher model. Substitution ciphers – Monoalphabetic vs Polyalphabetic\nciphers, Caesar cipher, Affine cipher, Playfair cipher, Vigenere cipher, Hill\ncipher. Transposition ciphers – Keyless, Keyed, Double transposition.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Modern Symmetric Key Cryptosystems\nSymmetric key ciphers – Block vs Stream ciphers, Block cipher components,\nProduct ciphers, Feistel and Non-Feistel ciphers. Data Encryption Standard\n(DES) – Structure, Key generation, Design criteria, Weaknesses, Double DES,\nTriple DES. Advanced Encryption Standard (AES) – Structure, Key\nexpansion. Block cipher modes of operation – Electronic Codebook Mode\n(ECB), Cipher Block Chaining Mode (CBC), Cipher Feedback Mode (CFB),\nOutput Feedback Mode (OFB), Counter Mode (CTR). Stream ciphers –\nStructure, RC4.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Public Key Cryptosystems\nIntroduction to public key cryptosystems – Principles, Applications,\nRequirements, Conventional vs public key cryptosystems. RSA cryptosystem\n– Algorithm, Security, Attacks. ElGamal cryptosystem – Algorithm. Diffie-\nHellman key exchange – Algorithm, Man-in-the middle attack. Elliptic Curve\nCryptography (ECC) – ElGamal ECC, Key exchange using ECC.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Message Integrity and Authentication\nHash functions – Security requirements, Secure Hash Algorithm (SHA-512).\nMessage Authentication Code (MAC) – Requirements, Uses, Hash-based\nMAC(HMAC), Cipher-based MAC (CMAC). Digital signatures – Attacks,\nForgeries, Requirements, Direct vs Arbitrated digital signatures, RSA digital\nsignature, ElGamal digital signature, Digital Signature Standard (DSS).\nAccess Control: Access Control Principles - Subjects, Objects, and Access\nRights - Unix File Access Control, Role-Based Access Control, Attribute-\nBased Access Control. System security: Intruders, Intrusion detection\ntechniques, Password management. Malicious software – Viruses, Related\nthreats, Countermeasures. Distributed Denial of Service (DDoS) attacks –\nTypes, Countermeasures.",
+    "contact_hours": "9"
+  }
+]

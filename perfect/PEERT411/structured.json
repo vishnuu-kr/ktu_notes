@@ -1,0 +1,68 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction",
+            "elements of communication systems",
+            "need for modulation. Amplitude modulation: modulation index",
+            "average power",
+            "equation and spectrum of AM signal. Concept of DSB-SC and SSB. Angle modulation- frequency and phase modulation. FM frequency spectrum",
+            "modulation index",
+            "equation and spectrum of FM signal Narrow and wide band FM",
+            "Comparison of AM and FM"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Principles of digital communication - sampling theorem",
+            "Nyquist criterion",
+            "quantization",
+            "encoding techniques-unipolar",
+            "bipolar and Manchester. Pulse modulation techniques- sampling process -PAM",
+            "PWM and PPM concepts",
+            "block diagram of PCM encoder and decoder"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to satellite communication",
+            "types of satellite orbits. Space segment - introduction",
+            "power supply",
+            "Attitude and Orbit Control System (AOCS",
+            "thermal control subsystem",
+            "TT&C subsystem",
+            "transponders",
+            "antenna subsystem. Earth segment - types of earth station",
+            "Multiple Access (MA) techniques -FDMA",
+            "TDMA",
+            "CDMA",
+            "SDMA"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Basic concepts",
+            "frequency reuse",
+            "interference",
+            "cell splitting",
+            "sectoring",
+            "cell system layout",
+            "Hand off-types and strategies",
+            "Bluetooth",
+            "Zig-Bee",
+            "Wi-Fi",
+            "Wi-Max based communication"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

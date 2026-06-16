@@ -1,0 +1,361 @@
+Course Code 
+PERAT414 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+ 
+3:0:0:0 
+ 
+ESE Marks 
+ 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None/ 
+(Course code) 
+Course Type 
+Theory 
+Course Objectives: 
+1. To introduce principles of computer organization and basic architectural concepts. 
+2. To introduce the programming of a simple digital computer and simple register 
+transfer language to specify various computer operations. 
+3. To understand computer arithmetic, instruction set design, microprogrammed control unit, 
+pipelining and vector processing, memory organization and I/O systems, and multiprocessors 
+SYLLABUS 
+ 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+ 
+1 
+Basic Structure of computers – functional units - basic operational concepts 
+- bus structures. Memory locations and addresses - memory operations, Instructions
+and instruction sequencing, addressing modes. Basic processing unit – fundamental
+concepts – instruction cycle – execution 
+of a complete instruction - single bus and multiple bus organization 
+ 
+ 
+9 
+ 
+ 
+ 
+2 
+Register transfer logic: inter register transfer – arithmetic, logic, and shift 
+micro-operations. 
+Processor logic design: - processor organization – Arithmetic logic unit - 
+design of arithmetic circuit - design of logic circuit - Design of arithmetic logic 
+unit - status register – design of shifter - processor unit – design of 
+accumulator. 
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+3 
+Arithmetic algorithms: Algorithms for multiplication and division (restoring 
+method) of binary numbers. Array multiplier, Booth’s multiplication 
+algorithm. 
+Pipelining: Basic principles, classification of pipeline processors, instruction 
+and arithmetic pipelines (Design examples not required), hazard detection and 
+resolution. 
+ 
+ 
+ 
+9 
+
+ 
+ 
+ 
+ 
+4 
+Control Logic Design: Control organization – Hardwired control- 
+microprogram control –control of processor unit - Microprogram sequencer, 
+micro programmed CPU organization - horizontal and vertical micro 
+instructions. 
+I/O organization: accessing of I/O devices – interrupts, interrupt hardware - 
+Direct memory access. 
+ 
+ 
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+ 
+Attendance 
+ 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+ 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module. 
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks. 
+ Two questions will be given from each module, out 
+of which 1 question should be answered. 
+ Each question can have a maximum of 3 sub 
+divisions. 
+(4x9 = 36 marks) 
+ 
+ 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Course Outcomes (COs) 
+ 
+At the end of the course students should be able to: 
+ 
+ 
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Recognize and express the relevance of basic components, I/O 
+organization, and pipelining schemes in a digital computer 
+K2 
+CO2 
+Explain the types of memory systems and mapping functions used in 
+memory systems 
+K2 
+CO3 
+Demonstrate the control signals required for the execution of a given 
+instruction 
+K3 
+CO4 
+Illustrate the design of the Arithmetic Logic Unit and explain the 
+usage of registers in it 
+K3 
+CO5 
+Explain the implementation aspects of arithmetic algorithms in a 
+digital computer 
+K3 
+CO6 
+Develop the control logic for a given arithmetic problem 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12
+CO1 
+3 
+1 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+1 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+1 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+2 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO6 
+3 
+2 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Organization , 5/e, 
+Hamacher C., Z. 
+Vranesic and S. Zaky, 
+McGraw Hill, 
+2011 
+2 
+Digital Logic & Computer 
+Design, 
+Mano M. M., 
+PHI, 
+2004 
+3 
+Computer architecture and 
+parallel processing 
+KaiHwang, Faye Alye 
+Briggs, 
+McGrawHill, 
+1984 
+ 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Logic & Computer 
+Design, 3/e, 
+Mano M. M., 
+Pearson Education 
+2013. 
+2 
+Computer Organization and 
+Design, 5/e, 
+Patterson D.A. and J. L. 
+Hennessy, 
+Morgan Kaufmann 
+Publishers 
+2013. 
+ 
+3 
+Computer Organization and 
+Architecture: Designing for 
+Performance, 
+ 
+William Stallings, 
+ 
+Pearson, 9/e 
+ 
+2013. 
+4 
+Computer Organization and 
+Design, 2/e, 
+Chaudhuri P., 
+Prentice Hall 
+2008 
+5 
+Computer Organization and 
+Architecture, 
+Rajaraman V. and T. 
+Radhakrishnan, 
+Prentice Hall 
+2011 
+ 
+ 
+ 
+
+ 
+SEMESTER: S4 
+PRINCIPLES OF COMMUNICATION TECHNIQUES

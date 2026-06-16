@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Mobile Robots: Fundamental problems – Path Planning, Localization,\nSensing, Mapping, Simultaneous Localization and Mapping\nLocomotion: Introduction to stepper Motor and Servo Motor Control,\nWheeled Mobile Robots -Differential Drive, Synchronous Drive, Steered\nwheels, Tricycle Drive, Car drive - Limbed Locomotion – Vehicle Stability,\nNumber of legs, Limb design and Control, forward and inverse kinematics,\nGait and Body Control, Dynamic Gaits\nOff-Board Communication: Tethered, Untethered, Radio Modems",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Non Visual Sensors : Basic concepts – Sensors: Bumbers, Accelerometers,\nGyroscopes,\ninfrared\nsensors,\nSonar\n–\nTransducer\nModel,\nData\ninterpretation, Laser Range finders - Data Fusion: Kalman Filter\nVisual Sensors :Perspective Camera, Planar Homography, Camera\nCalibration, - Object Appearance and Shading–Signals and Sampling–Image\nfeatures and Their Combination– Measuring Depth – Active Vision",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Representation and Reasoning about Space: Representing Space: Spatial\nDecomposition, Geometric Representations, Topological Representations–\nRepresenting the Robot: Configuration Space, Simplification of C-space–\nPath Planning for Mobile Robots: Constructing a discrete search space,\nRetraction Methods - Searching a Discrete State Space: Graph search,\nDepth-first Search, Breadth-first Search, Dijkstra’s Algorithm – Searching a\nContinuous State Space: Vector Field Algorithm, Bug algorithm – Spatial\nUncertainty – Dynamic Environments , Probabilistic path planning",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "System Control: Horizontal Decomposition – Vertical Decomposition –\nHybrid Control Architectures–Middleware–High Level Control–Alternative\nControl Formalisms–The human Robot interface.\nPose Maintenance and Localization: Simple landmark measurement -\nServo Control – Recursive Filtering – Non-Geometric methods: Perceptual\nStructure – Correlation based localization – Global Localization\nMapping: Sensorial Maps–Geometric Maps–Topological Maps.",
+    "contact_hours": "9"
+  }
+]

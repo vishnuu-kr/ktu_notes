@@ -1,0 +1,76 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Integrated Circuit Fabrication Process Brief overview of integrated circuit fabrication technology - Silicon wafer preparation",
+            "Epitaxial Growth",
+            "Oxidation",
+            "Photolithography",
+            "Diffusion",
+            "Ion Implantation",
+            "isolation techniques",
+            "metallization and packaging. Operational amplifiers Introduction of op amps- block level diagram of op amp - Basic information of op amp (741 op amp) Characteristics of Operational amplifiers Ideal op amp characteristics-DC characteristics-input bias current",
+            "input offset current",
+            "input offset voltage",
+            "thermal drift",
+            "CMRR",
+            "PSRR-AC characteristics-frequency response",
+            "stability of op amp",
+            "slew rate. Applications of Operational amplifiers Basic applications-inverting amplifier",
+            "non-inverting amplifier",
+            "differential amplifier",
+            "scale changer",
+            "summing amplifier",
+            "subtractor",
+            "adder",
+            "voltage follower",
+            "V-I converter (grounded load type and floating load type",
+            "Howland constant current circuit and I-V converter"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Instrumentation amplifier (3 op amp design)-op amp integrator- op amp differentiator- op amp circuit using diodes-rectifier (half and full wave",
+            "peak detector",
+            "sample and hold circuit",
+            "log and antilog amplifier",
+            "multiplier and divider. Comparator (inverting and non-inverting type)-applications of comparator-zero crossing detector",
+            "window detector",
+            "time marker generator. Waveform generators and Oscillators using Operational amplifier Schmitt trigger- Astable multivibrator- Monostable multivibrator- Triangular waveform generator. Oscillator-introduction",
+            "Block level diagram-RC phase shift oscillator- Wien Bridge Oscillator"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Filters Introduction-LPF-first order filter",
+            "second order filter (sallen-key Butterworth",
+            "higher order filter-HPF- first order filter",
+            "second order filter (sallen-key Butterworth",
+            "higher order filter- BPF-wide BPF",
+            "Narrow band pass filter-BRF-wide BRF",
+            "narrow BRF (Twin T Notch design)-All pass filter"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Analog to Digital Converter and Digital to Analog Converter DAC-weighted resistor type DAC",
+            "R-2R DAC",
+            "ADC-Direct type -Flash type",
+            "counter type",
+            "Servo type",
+            "successive approximation type- Integrating type ADC - dual slope type- specifications of DAC and ADC. Voltage regulator-Introduction",
+            "series op amp regulator-IC regulators-78XX and 79XXcharecteristics. 555 timer-introduction-functional diagram-Mono stable operation and its applications- Astable operation and its applications. Voltage controlled oscillator and PLL (basic principle only"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

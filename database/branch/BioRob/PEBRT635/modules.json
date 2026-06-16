@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Image Acquisition, Lenses and Cameras: Pinhole camera, Gaussian Optics,\nDepth Field, Telemetric lenses, Lens aberrations Cameras: CCD cameras,\nCMOS Camera, Colour cameras: Single chip cameras, Three chip cameras,\nCamera performance parameters: noises, dynamic range, Camera-Computer\ninterfaces, Digital video signals: camera link, IEEE1394, USB2.0, USB 3\nvision",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Image Fundamentals: Images, regions, piecewise contours, Image\nEnhancement: contrast enhancement, contrast normalization, Image\nSmoothing: Temporal Averaging, Mean Filter, Noise Suppression by Linear\nFilters, Median and Rank Filters, 2-D Fourier Transform: Continuous\nFourier Transform, Discrete Fourier Transform.\nGeometric\nTransformations:\nAffine\nTransformations,\nProjective\nTransformations",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Image\nTransformations:\nNearest-Neighbour\nInterpolation,\nBilinear\nInterpolation, Bicubic Interpolation, Smoothing to Avoid Aliasing,\nProjective Image Transformations, Transformations, Image Segmentation\nThresholding: Global Thresholding, Automatic Threshold Selection,\nDynamic Thresholding, Variation Model, morphological operations",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Image Segmentation: Region Growing, Edge Based approaches to\nsegmentation, Graph-Cut, Mean-Shift, MRFs, Texture Segmentation; Object\ndetection\nPattern Analysis: Clustering: K-Means, Mixture of Gaussians, Classification:\nDiscriminant\nFunction, Supervised, Un-supervised,\nSemi-supervised;\nClassifiers: Bayes, KNN, ANN models; Dimensionality Reduction: PCA,\nLDA, ICA",
+    "contact_hours": "9"
+  }
+]

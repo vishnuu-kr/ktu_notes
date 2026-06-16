@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of the Internet, Protocol layering (Book 1 Ch 1)\nApplication Layer: Application-Layer Paradigms, Client-server applications -\nWorld Wide Web and HTTP, FTP. Electronic Mail, DNS. Peer-to-peer\nparadigm - P2P Networks, Case study: BitTorrent (Book 1 Ch 2)",
+    "contact_hours": "6"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Transport Layer: Services, Protocols, UDP, TCP  (Book 1 Ch 3).\nNetwork Layer: Introduction, Network-layer protocols, Unicast routing,\nMulticast routing - Multicasting Basics, Intra domain and inter-domain routing,\nNext generation IP (Book 1 Ch 4), Quality of Service (Book 1 Ch 8)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Data-Link Layer: Data link control (DLC), Multiple access protocols (MAC),\nLink-layer addressing, Ethernet protocol, Connecting devices (Book 1 Ch 5)\nWireless LANs, Mobile IP (Book 1 Ch 6)",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "SNMP, ASN.1 (Book 1 Ch 9)\nPhysical Layer: Data and signals, Digital transmission, Analog transmission,\nBandwidth utilization, Transmission media (Book 1 Ch 7)",
+    "contact_hours": "9"
+  }
+]

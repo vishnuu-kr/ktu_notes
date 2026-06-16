@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Fundamentals in Computer Vision :-\nCamera Calibration- Pinhole camera model, Geometric Image Features -\nCurves, Surfaces, Analytical Image Features - Elements of Analytical\nEuclidean Geometry,  Geometric Camera Parameters,\nStereopsis - Binocular Camera Geometry, Epipolar Constraint, Binocular\nReconstruction, Local Methods for Binocular Fusion, Global Methods for\nBinocular Fusion.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Features and Filters :-\nLinear Filters- Linear Filters and Convolution, Shift Invariant Linear Systems.\nEstimating Derivatives with Finite Differences, Noise, Edges and Gradient-\nbased Edge Detectors\nImage Gradients - Computing the Image Gradient, Gradient Based Edge and\nCorner Detection. Filters as Templates - Normalized Correlation and Finding\nPatterns.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Machine Learning for  Computer Vision :-\nMachine Learning - Introduction, Dataset for Machine Perception- Labelled\nand Unlabelled Data, Basics of Classification and Clustering, Multi-Class\nPerspective (Recap)\nMachine Learning for Computer Vision -Machine Learning -Deep Learning\nUse Cases.\nMachine Learning Models for Vision - Image Vision-Pretrained Model,\nTransfer Learning, Fine-Tuning, Convolutional Networks, Convolutional\nFilters, Stacking Convolutional Layers, Pooling Layers - AlexNet, VGG19, ,\nModular architecture - ResNet, Neural Architecture Search Design - NASNet",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Segmentation and Object Detection :-\nSegmentation Using Clustering Methods - Human vision- Grouping and\nGestalt, Applications- Shot Boundary Detection, Background Subtraction,\nImage Segmentation by Clustering Pixels- Simple Clustering Methods,\nClustering and Segmentation by K-means\nObject detection - YOLO, Segmentation-Mask R-CNN and Instance\nSegmentation, U-Net and Semantic Segmentation, Model Quality Metrics\nA case study to compare performance of various models on a suitable\ndataset.\nSuggestion on Project Topics\nReal life problems in the domain of computer vision may be identified, solved and implemented using\ndifferent algorithms. A few suggestions are given below.\n1. Build a system capable of detecting and classifying objects (like pedestrians, vehicles, traffic\nsigns) in real-time from video feeds in autonomous vehicles. You can explore different\nalgorithms like YOLO, R-CNN etc.\n2. Develop a machine learning model to automatically detect and classify diseases from medical\nimages, such as X-rays, MRIs, or CT scans. This could be applied to specific conditions like\ndetecting tumors, pneumonia, or diabetic retinopathy.\n3. Develop a machine learning model that utilizes edge detection and linear filtering techniques\nto enhance object detection and recognition in images.",
+    "contact_hours": "11"
+  }
+]

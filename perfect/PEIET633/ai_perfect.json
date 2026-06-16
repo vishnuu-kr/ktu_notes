@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definition of Scheduling",
+            "Role of Scheduling",
+            "Terminologies Involved in Scheduling",
+            "Classification of Scheduling Models - Graham et al. α/β/γ Notations to Classify Scheduling Problems",
+            "Performance Measures",
+            "Relationship Between Performance Measures",
+            "Theorems Related to Performance Measures (Proof and Problems). Classes of Schedules - Non-Delay Schedules",
+            "Active Schedules and Semi-Active Schedules. Single Machine Models Without Due Dates (Proof of Theorems and Problems) - Permutation Schedules Theorems",
+            "Shortest Processing Time (SPT) Rule",
+            "Weighted Shortest Processing Time (WSPT) Rule"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Problems with Due Dates",
+            "Minimizing Total Lateness",
+            "Minimizing Maximum Lateness and Maximum Tardiness",
+            "Minimizing the Number of Tardy Jobs - Moore and Hodgson Algorithm",
+            "Minimizing Mean Tardiness - Wilkerson-Irwin Algorithm",
+            "Minimizing Regular Performance Measures with Precedence Constraints - Lawler's Algorithm",
+            "Application of Smith's Algorithm. General Purpose Methodologies for Single Machine Problem - Neighborhood Search Techniques",
+            "Dynamic Programming Approach",
+            "Branch & Bound Approach"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Parallel Identical Processors and Independent Jobs with Preemptions and Without Preemptions",
+            "Parallel Identical Processors and Dependent Jobs",
+            "Permutation Schedule - Johnson's Algorithm",
+            "Two Jobs and m Machine Problems - Aker's Graphical Method. Special Cases of Three-Machine Problem - Extension of Johnson's Algorithm",
+            "Branch & Bound Algorithms for Makespan Problems",
+            "Heuristic Approaches - Palmer's Algorithm",
+            "CDS Algorithm and Insertion Heuristics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Types of Schedules",
+            "Schedule Generation",
+            "Heuristic Procedure - Shifting Bottleneck Procedure",
+            "Integer Programming Formulation",
+            "Simulation Studies of the Dynamic Job Shop (Overview Only). Stochastic Models - Preliminaries",
+            "Stochastic Based on Expectation",
+            "Stochastic Dominance Based on Variance",
+            "Impact of Randomness on Fixed Schedules",
+            "Classes of Policies - Non-Preemptive Static List Policy",
+            "Preemptive Static List Policy",
+            "Non-Preemptive Dynamic Policy and Preemptive Dynamic Policy",
+            "Stochastic Single Machine Models - Arbitrary Distributions Without Preemptions",
+            "Arbitrary Distributions with Preemptions - the Gittins Index",
+            "Likelihood Ratio Ordered Distributions and Exponential Distributions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

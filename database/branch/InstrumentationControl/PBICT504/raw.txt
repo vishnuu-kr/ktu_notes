@@ -1,0 +1,470 @@
+Course Code 
+PBICT504 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Understand Microcontroller Fundamentals and Architectures 
+2. Develop Proficiency in Programming Microcontrollers 
+3. Master Interfacing and Advanced Applications using microcontrollers 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Intel 8051 Microcontroller – Overview-Architecture- Instruction set - 
+Addressing modes 
+Evolution of microprocessors and microcontrollers- Overview of Intel 8051 
+family of microcontroller - Architecture of Intel 8051 - ALU, internal RAM 
+and ROM, Oscillator and Reset Circuits, Stack and stack pointer - Special 
+Function Registers of 8051 - Ports - Instruction set of 8051 - Data transfer 
+instructions, Arithmetic, Logical, Compare and Rotate instructions, Bit 
+processing instructions - Addressing modes of 8051 
+ 
+10 
+2 
+Microcontroller languages - ports - timers 
+Comparison of machine language, assembly language and high-level 
+languages - Assembler directives and C data types for 8051 - An introduction 
+to programming 8051 in Assembly and C language programming of 8051 - 
+Examples illustrating the use of basic types of instructions - Programming 
+the ports of 8051 - Timers of 8051 - Modes of operations - Programming the 
+timers in assembly language and C language 
+ 
+10 
+
+ 
+ 
+3 
+Serial communication and Interrupts 
+Introduction to serial communication - Synchronous and asynchronous 
+communication – RS 232 – MAX232 - Modes of operations - Serial 
+communication programming in assembly language and C language - 
+Introduction to interrupts in 8051 - Priority of interrupts - Interrupt handling 
+and execution for timer - External and serial interrupts - Programming to 
+handle all types of interrupts in assembly language and C language. 
+8051 Microcontroller Interfacing 
+Interfacing external memory to Intel 8051 - Examples of Interfacing data 
+memory and code Memory - Interfacing LCD to 8051 - Interfacing matrix 
+keyboard Interfacing - ADC and DAC interfacing - Interfacing sensors - 
+Interfacing relays, stepper motors and DC motors. 
+13 
+4 
+Overview of AVR family - RISC and Harvard architecture of the AVR – 
+salient features - The general-purpose registers in the AVR – AVR data 
+memory – Using instruction with data memory – AVR status register – 
+Data RAM / ROM memory space allocation in AVR – AVR data format 
+and directives - I/O ports – Counters and Timers – Interrupts – Serial ports - 
+(no programming in AVR) 
+Atmega 32 microcontroller block diagram 
+Arduino – Block diagram description of the system– Programming Arduino- 
+Examples of practical solutions using Arduino 
+ 
+10 
+ 
+ 
+Suggestion on Project Topics 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+demonstrate a comprehensive understanding of the Intel 8051 
+microcontroller family, including its architecture, instruction set, and 
+various addressing modes. 
+ 
+K2 
+CO2 
+Demonstrate the skills to effectively program the Intel 8051 
+microcontroller using both assembly and C languages in ports and 
+timers of 8051. 
+ 
+K2 
+CO3 
+ Program 8051 serial communication and interrupt using assembly and 
+C languages and also gain knowledge in Interfacing of memory, LCD, 
+matrix keyboard, stepper motor, DC motor, ADC, DAC, sensors, and 
+relays to 8051 microcontrollers. 
+ 
+ 
+K3 
+CO4 
+ Explain the architecture of AVR and Arduino ATmega 32 
+microcontrollers and its features. 
+K2 
+CO5 
+Design 
+and 
+implement 
+a 
+microcontroller-based 
+project 
+in 
+instrumentation and control engineering area and prepare a brief report. 
+ 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+Part A
+Part B
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 2 marks 
+               (8x2 =16 marks) 
+ 
+2 questions will be given from each module, 
+out of which 1 question should be answered. 
+ 
+ Each question can have a maximum of 2 sub 
+divisions.  
+ 
+Each question carries 6 marks.  
+                                  (4x6 = 24 marks) 
+40 
+
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The 8051 Microcontrollers & 
+Embedded Systems 
+Muhammed Ali Mazidi 
+and Janice 
+GillispieMazidi 
+Pearson Education 
+India 
+2nd edition, 
+2007 
+2 
+The 8051 Microcontroller 
+Based Embedded Systems 
+Manish K Patel 
+McGraw Hill 
+Education 
+1st edition, 
+2017 
+3 
+AVR Microcontroller and 
+Embedded Systems: Using 
+Assembly and C, 
+Muhammad Ali Mazidi, 
+ZarmadNaimi 
+Pearson Education 
+India 
+1st edition, 
+2013 
+4 
+Arduino: A Technical 
+Reference 
+J. M. Hughes 
+O′Reilly 
+1st edition, 
+2016 
+5 
+The 8051 Microcontrollers & 
+Embedded Systems 
+Muhammed Ali Mazidi 
+and Janice 
+GillispieMazidi 
+Pearson Education 
+India 
+2nd edition, 
+2007 
+6 
+The 8051 Microcontroller 
+Based Embedded Systems 
+Manish K Patel 
+McGraw Hill 
+Education 
+1st edition, 
+2017 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The 8051 Microcontroller 
+Kenneth Ayala 
+Delmar Cengage 
+Learning 
+3rd edition, 
+2004 
+2 
+Microcontrollers: Architecture, 
+Programming, Interfacing and 
+System Design 
+Raj Kamal 
+Pearson 
+2nd edition 
+2011 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+ 
+3 
+2 
+ 
+ 
+3 
+3 
+2 
+3 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/108/105/108105102/ 
+2 
+https://nptel.ac.in/courses/117104072 
+      PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery
+Project identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops 
+Presentation 
+(Progress and Final 
+Presentations) 
+Group 
+discussion 
+Project Analysis 
+Data Collection 
+Evaluation 
+Question 
+answer 
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical thinking 
+and 
+self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project reformation (If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case Study/ Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 5 
+minutes video 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+
+ 
+ 
+ 
+1. Project Planning and Proposal (5 Marks) 
+ 
+Clarity and feasibility of the project plan  
+ 
+Research and background understanding  
+ 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+ 
+Active participation and individual contribution  
+ 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+ 
+Adherence to the project timeline and milestones  
+ 
+Application of theoretical knowledge and problem-solving  
+ 
+Final Result 
+5. Final Presentation (5 Marks) 
+ 
+Quality and clarity of the overall presentation  
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ 
+Overall quality and technical excellence of the project  
+ 
+Innovation and originality in the project  
+ 
+Creativity in solutions and approaches  
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S5 
+ANALYTICAL INSTRUMENTATION

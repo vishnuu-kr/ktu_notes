@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Biomedical Signals\nIntroduction to Biomedical Signals, Characteristics of Biomedical Signals,\nTime-domain vs. frequency-domain representation\nAcquisition of Biomedical Signals\nSignal Acquisition Systems,  acquisition of biomedical signals like ECG,\nEEG and EMG , Analog-to-digital conversion (ADC),\nNyquist theorem and its importance in signal acquisition, Aliasing,  Signal\nconversion circuits",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "The Fourier transform, Correlation, Convolution, Power spectrum estimation\nAdaptive filters: Principle of noise canceller model, 60 Hz adaptive\ncancelling using a sine wave model\nAdaptive and optimal filtering ‐ Modelling of Biomedical signals ‐ Detection\nof biomedical signals in noise ‐ removal of artifacts of one signal embedded\nin another ‐ Maternal‐Fetal ECG\nSignal Averaging: Basics of signal averaging, signal averaging as a digital\nfilter, a typical averager.\nTurning point algorithm, AZTEC algorithm, CORTES algorithm, Fan\nalgorithm, Huffman coding",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Cardiological Signal Processing\nBasics of ECG, Anatomy of the heart and electrical activity\nBasics of ECG waveform and lead systems,  Methods and devices for ECG\nsignal acquisition, Noise & artifacts, Preprocessing of ECG Signals Noise\nremoval and baseline correction, Feature Extraction-detection of P, QRS, and\nT waves, Heart rate variability analysis\nAdvanced ECG Processing\nArrhythmia\nDetection-\nAlgorithms\nfor\narrhythmia\ndetection\nand\nclassification",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Neurological signal processing\nBasics of EEG and its characteristics, Brain anatomy and electrical\nactivity, basics of EEG waveform and electrode placement, methods and\ndevices for EEG signal acquisition, detection of EEG rhythms, template\nmatching for EEG spike and wave detection\nPreprocessing of EEG Signals- Noise removal and artifact reduction\nFeature Extraction- Time-frequency analysis, power spectral density\nAdvanced EEG Processing\nBrain-Computer Interface (BCI), Introduction to BCI and its applications",
+    "contact_hours": "9"
+  }
+]

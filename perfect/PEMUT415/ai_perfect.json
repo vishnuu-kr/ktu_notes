@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to CAD/CAM",
+            "Historical Development",
+            "Industrial Look at CAD/CAM",
+            "Application of Computers in Design",
+            "Basics of Geometric and Solid Modelling",
+            "Packages for CAD/CAM",
+            "Line Drawing - Clipping",
+            "Bresenham's Line Algorithm",
+            "Solid Modelling Techniques - CSG and B-Rep"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Geometric Transformations in CAD: 2D and 3D",
+            "Transformations of Geometric Models (Translation, Scaling, Rotation, Reflection, Homogeneous Representations, Concatenated Representation)",
+            "Simple Problems in Geometric Transformations",
+            "Standards for Computer Graphics - Graphical Kernel System (GKS)",
+            "Standards for Exchange Images - Open Graphics Library (OpenGL)",
+            "Data Exchange Standards - IGES, STEP, CALS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to NC Systems and CNC",
+            "Machine Axis and Coordinate System, CNC Machine Tools, Principle of Operation, Construction Features, Structure, Drives and CNC Controllers, 2D and 3D Machining on CNC, Introduction to Part Programming",
+            "Functions of CNC, Features of CNC Systems, Introduction to Part Programming",
+            "Simple Turning and Drilling Programs Using G Codes and M Codes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Cellular Manufacturing and Flexible Manufacturing System - Fundamentals of Cellular Manufacturing",
+            "Group Technology (GT)",
+            "Part Families - Parts Classification and Coding",
+            "Simple Problems in Opitz Part Coding System",
+            "Flexible Manufacturing System (FMS) - Components and Types",
+            "FMS Work Stations - FMS Application and Benefits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

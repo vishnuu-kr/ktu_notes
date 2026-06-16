@@ -1,0 +1,65 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Basic principles of image formation",
+      "Block diagram of an X-Ray machine",
+      "Digital radiography - Basic principles X-Ray Computed Tomography: Basic principles",
+      "Contrast scale",
+      "Different generations of CT scanners",
+      "Basic principles of image reconstruction. Ultrasonic Imaging: Physical principles",
+      "Transducer parameters",
+      "Different modes - A-mode",
+      "M-mode (echocardiograph",
+      "B-mode",
+      "Principles of Doppler ultrasonic imaging. Magnetic Resonance Imaging: Principles of MRI",
+      "T1 weighted images",
+      "T2 weighted images",
+      "Proton density weighted images",
+      "Applications of MRI Nuclear Medicine Imaging Modalities: Emission Computed Tomography- SPECT & PET"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "MTF of the visual system",
+      "Monochrome vision model",
+      "Color vision model - HSI model",
+      "Image sampling and quantization. Image Transforms: Two dimensional orthogonal and unitary transforms",
+      "Properties of unitary transforms- DCT",
+      "KL Transform"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Grey level transformations",
+      "Histogram processing - Histogram equalization and modification",
+      "Smoothing and sharpening spatial filters",
+      "Zooming and interpolation. Image Enhancement in Frequency Domain: Filtering- low pass",
+      "high pass",
+      "band pass and band stop filters",
+      "Homomorphic filter"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Inverse filtering",
+      "Wiener filtering. Image Segmentation: Detection of discontinuities- Point",
+      "line",
+      "edge",
+      "canny edge detector. Edge linking - Hough Transform. Segmentation based on thresholding - Basic global thresholding",
+      "variable thresholding. Region based segmentation- region growing",
+      "region splitting and merging"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to formal language theory - Alphabets",
+            "Strings",
+            "Concatenation of strings",
+            "Languages. Regular Languages - Deterministic Finite State Automata (DFA) (Proof of correctness of construction not required",
+            "Nondeterministic Finite State Automata (NFA",
+            "Equivalence of DFA and NFA",
+            "Regular Grammar (RG",
+            "Equivalence of RGs and DFA"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Regular Languages -Regular Expression (RE",
+            "Equivalence of REs and DFA",
+            "Homomorphisms",
+            "Necessary conditions for regular languages",
+            "Closure Properties of Regular Languages",
+            "DFA state minimization (No proof required).Context Free Grammar (CFG)- CFG representation of Context Free Languages (proof of correctness is required",
+            "derivation trees and ambiguity",
+            "Normal forms for CFGs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Context-Free Languages -Nondeterministic Pushdown Automata (PDA",
+            "Deterministic Pushdown Automata (DPDA",
+            "Equivalence of PDAs and CFGs (Proof not required",
+            "Pumping Lemma for Context-Free Languages (Proof not required",
+            "Closure Properties of Context Free Languages"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Context Sensitive Languages - Context Sensitive Grammar (CSG",
+            "Linear Bounded Automata. Turing Machines - Standard Turing Machine",
+            "Robustness of Turing Machine",
+            "Universal Turing Machine",
+            "Halting Problem",
+            "Recursive and Recursively Enumerable Languages. Chomsky classification of formal languages"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

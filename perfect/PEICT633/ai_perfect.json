@@ -1,0 +1,79 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Biomedical Signals",
+            "Characteristics of Biomedical Signals",
+            "Time-Domain vs. Frequency-Domain Representation",
+            "Signal Acquisition Systems",
+            "Acquisition of Biomedical Signals (e.g., ECG)",
+            "EEG and EMG",
+            "Analog-to-Digital Conversion (ADC)",
+            "Nyquist Theorem and Its Importance in Signal Acquisition",
+            "Aliasing",
+            "Signal Conversion Circuits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Principle of Noise Canceller Model",
+            "60 Hz Adaptive Cancelling Using a Sine Wave Model",
+            "Adaptive and Optimal Filtering",
+            "Modelling of Biomedical Signals",
+            "Detection of Biomedical Signals in Noise",
+            "Removal of Artifacts of One Signal Embedded in Another",
+            "Maternal-Fetal ECG",
+            "Signal Averaging: Basics of Signal Averaging",
+            "Signal Averaging as a Digital Filter",
+            "Typical Averager and Turning Point Algorithm",
+            "AZTEC Algorithm",
+            "CORTES Algorithm",
+            "Fan Algorithm",
+            "Huffman Coding"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Cardiological Signal Processing",
+            "Basics of ECG",
+            "Anatomy of the Heart and Electrical Activity",
+            "Basics of ECG Waveform and Lead Systems",
+            "Methods and Devices for ECG Signal Acquisition",
+            "Noise and Artifacts",
+            "Preprocessing of ECG Signals",
+            "Noise Removal and Baseline Correction",
+            "Feature Extraction - Detection of P and T Waves",
+            "Heart Rate Variability Analysis",
+            "Advanced ECG Processing",
+            "Arrhythmia Detection - Algorithms for Arrhythmia Detection and Classification"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Neurological Signal Processing",
+            "Basics of EEG and Its Characteristics",
+            "Brain Anatomy and Electrical Activity",
+            "Basics of EEG Waveform and Electrode Placement",
+            "Methods and Devices for EEG Signal Acquisition",
+            "Detection of EEG Rhythms",
+            "Template Matching for EEG Spike and Wave Detection",
+            "Preprocessing of EEG Signals - Noise Removal and Artifact Reduction",
+            "Feature Extraction - Time-Frequency Analysis",
+            "Power Spectral Density",
+            "Advanced EEG Processing",
+            "Brain-Computer Interface (BCI)",
+            "Introduction to BCI and Its Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

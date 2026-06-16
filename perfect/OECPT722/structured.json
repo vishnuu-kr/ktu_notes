@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Robotics - Overview of robotics and its applications -Historical development and current trends - Basic components and classifications of robots Robot Anatomy and Components - Sensors: types",
+            "functions",
+            "and integration - Actuators: motors",
+            "servos",
+            "and their control - Control systems and feedback mechanisms Robot Kinematics - Coordinate systems and transformations - Forward and inverse kinematics Robot Dynamics - Introduction to dynamic modeling: Newton-Euler and Lagrangian methods"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Control Systems Fundamentals - Control theory basics: PID control",
+            "state-space models - Implementing control algorithms in robotics Programming Robots - Introduction to robot programming languages and environments - Basic programming constructs and techniques Perception and Sensor Integration - Types of sensors: vision",
+            "rangefinders",
+            "IMUs - Sensor fusion and data interpretation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Motion Planning - Path planning algorithms: A",
+            "PRM -Motion planning in dynamic environments Robotic Systems Integration - Integration of hardware and software components - Communication protocols and data exchange Robotics in Industry - Applications in manufacturing",
+            "healthcare",
+            "and other fields - Case studies and industry guest speakers - Current trends and future directions in robotics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Human-robot interaction: Techniques and applications",
+            "Autonomous robots: Navigation and decision-making",
+            "Robotics and AI: Integration and future trends Emerging Technologies",
+            "Soft robotics and bio-inspired robots Collaborative robots (cobots) and their applications",
+            "Swarm robotics and collective behavior"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

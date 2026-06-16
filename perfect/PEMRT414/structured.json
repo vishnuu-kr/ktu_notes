@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Mesh and node analysis of network containing independent and dependent sources. Supermesh and Supernode analysis. Steady-state AC analysis using Mesh and Node analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Thevenin’s theorem",
+            "Norton’s theorem",
+            "Superposition theorem",
+            "Reciprocity theorem",
+            "Maximum power transfer theorem. (applied to both dc and ac circuits having dependent source). Review of Laplace Transforms and Inverse Laplace Transforms",
+            "Initial value theorem & Final value theorem",
+            "Transformation of basic signals and circuits into s-domain"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Transient analysis of RL",
+            "and RLC networks with impulse",
+            "step and sinusoidal inputs (with and without initial conditions). Network functions for the single port and two port network. Properties of driving point and transfer functions. Significance of Poles and Zeros of network functions",
+            "Time domain response from pole zero plot. Impulse Function & Response. Network functions in the sinusoidal steady state",
+            "Magnitude and Phase response"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Impedance, Admittance, Transmission and Hybrid parameters of two port network",
+            "Interrelationship among parameter sets",
+            "Series and parallel connections of two port networks",
+            "Reciprocal and Symmetrical two port network",
+            "Characteristic impedance, Image impedance and propagation constant (derivation not required"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

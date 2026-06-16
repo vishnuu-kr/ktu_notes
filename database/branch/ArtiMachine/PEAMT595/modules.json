@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Operating Systems: Operating System Services, Overview\nof Operating Systems and Kernels, Linux Versus Classic Unix Kernels\nProcess concepts: Process Creation, Process States, Data Structures, Process\nAPI, Sharing processor among processes - user and kernel modes, context\nswitching, System boot sequence\nCase study: Linux kernel process management\nThreads and Concurrency: Concept of a thread, Multithreading benefits,\nMultithreading models\nCase study: The Linux Implementation of Threads\nProcess scheduling: Concepts and basic algorithms, The Multilevel Feedback\nQueue: Basic Rules\nCase study: The Linux Completely Fair Scheduler (CFS) (Implementation\nwith RB trees not required), The Linux Scheduling Implementation,\nPreemption and Context Switching",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Concurrency and Synchronization - Basic principles, Mechanisms - Locks:\nThe Basic Idea, Building Spin Locks with Test-And-Set, Compare and Swap,\nUsing Queues: Sleeping Instead Of Spinning, Semaphores - Definition, Binary\nSemaphores, The Producer/Consumer (Bounded Buffer) Problem and its\nsolution using semaphores, Reader-Writer Locks\nCase study: Linux Kernel Synchronization Methods - Spin Locks, Semaphores,\nMutexes\nConcurrency: Deadlock and Starvation - Deadlock Characterization,\nDeadlock Prevention and Avoidance, Deadlock Detection and recovery,\nDining Philosophers Problem and its solution",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Memory management - Address Space, Memory API, Address Translation -\nAn Example, Dynamic (Hardware-based) Relocation, Segmentation:\nGeneralized Base/Bounds, Address translation in segmentation, Support for\nSharing\nVirtual memory - Paging: Introduction, page tables and hardware support,\nTLBs, Example: Accessing An Array, - TLB hits and misses, Handling TLB\nmisses, TLB structure, Reducing the page table size\nGoing beyond physical memory  -  Swap space, page fault and its control\nflow, page replacement policies, Thrashing",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "I/O system: Modern System architecture, Programmed I/O, Interrupts, DMA,\nDevice interaction methods, The Device Driver\nHard disk:  Geometry, disk scheduling\nCase study: Linux I/O schedulers - Elevator, Complete Fair Queuing\nFiles and Directories: The File System Interface - File descriptor, reading and\nwriting files (sequential and random access), Removing files - Hard links and\nSymbolic links, Creating, reading and deleting directories, Permission bits and\nAccess Control Lists, Mounting a file system\nFile Organization: The Inode, The Multi-Level Index\nCase study: VFS Objects and Their Data Structures - The Inode Object, Inode\nOperations",
+    "contact_hours": "9"
+  }
+]

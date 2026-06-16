@@ -1,0 +1,279 @@
+Course Code 
+PECPT752 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GBEST204, 
+PBCPT404, 
+PECPT522
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand fundamental fault tolerance concepts and their relevance in networked 
+systems. 
+2. To learn and apply redundancy, replication, and recovery techniques. 
+3. To develop skills in fault detection, diagnosis, and recovery strategies. 
+4. To explore fault tolerance in various modern networked environments. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Fault Tolerance - Definitions and key concepts, Importance in 
+networked systems 
+Types of Faults and Failures - Crash failures, omission failures, timing 
+failures, and Byzantine failures, Impact on system performance and reliability 
+Redundancy and Replication Techniques - Hardware vs. software redundancy, 
+Data redundancy (RAID levels and their implications), Replication strategies: 
+primary-backup, quorum-based 
+9 
+
+ 
+ 
+2 
+Fault Detection Mechanisms - Basic fault detection techniques: heartbeat, 
+monitoring, logging, Tools and frameworks for fault detection (basic 
+overview) 
+Fault Diagnosis and Isolation - Techniques for identifying and isolating faults, 
+Practical examples and simplified tools 
+Recovery Strategies - Checkpointing and rollback basics,  Simple transaction 
+recovery mechanisms 
+9 
+3 
+Distributed Consensus and Coordination - Introduction to consensus 
+algorithms: Paxos, Raft, Basic concepts of coordination services: Zookeeper, 
+Consul 
+Load Balancing and Failover - Principles of load balancing in fault-tolerant 
+systems, Simple failover strategies and practical case studies 
+Network Fault Tolerance - Basic network redundancy and routing protocols, 
+Handling network partitioning and latency issues 
+9 
+4 
+Fault Tolerance in Modern Systems - Fault tolerance in cloud computing and 
+microservices, Real-world applications and case studies 
+Security Considerations - Impact of security breaches on fault tolerance, 
+Designing fault-tolerant systems with basic security considerations 
+Emerging Trends and Future Directions - Fault tolerance in IoT and edge 
+computing, Current research and future directions 
+Project Presentations and Review - Student presentations of fault-tolerant 
+system projects, Review of key concepts and course wrap-up 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, 
+out of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge Level 
+(KL) 
+CO1 
+Explain fundamental concepts of fault tolerance 
+K2 
+CO2 
+Identify and classify various types of faults and failures and analyze 
+the impact of faults and failures on networked systems. 
+K2 
+CO3 
+Understand fault recovery strategies to ensure system resilience and 
+data integrity. 
+K2 
+CO4 
+Apply network fault tolerance techniques 
+K3 
+CO5 
+Understand current trends and technologies in fault tolerance 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+2 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+2 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+2 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fault-Tolerant Systems 
+Israel Koren, C. Mani 
+Krishna 
+Morgan Kaufmann 
+2/e 
+2 
+Distributed Systems: Principles 
+and Paradigms 
+Andrew S. Tanenbaum, 
+Maarten Van Steen 
+Pearson Education 
+India 
+2/e 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Introduction to Reliable and 
+Secure Distributed 
+Programming 
+Christian Cachin, 
+Rachid Guerraoui, Luis 
+Rodrigues 
+Springer 
+2/e 
+2 
+Designing Data-Intensive 
+Applications: The Big Ideas 
+Behind Reliable, Scalable, and 
+Maintainable Systems 
+Martin Kleppmann 
+Shroff/O'Reilly 
+2017 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 to 4 
+https://www.youtube.com/@6.824 
+
+ 
+ 
+SEMESTER S7 
+ INTRUSION DETECTION AND PREVENTION

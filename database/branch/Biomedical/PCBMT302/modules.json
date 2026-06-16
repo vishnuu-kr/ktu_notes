@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Wave shaping circuits: Sinusoidal and non-sinusoidal wave shapes, Principle\nand working of RC differentiating and integrating circuits, Clipping circuits -\nPositive, negative and biased clipper\nTransistor biasing: Introduction, operating point, concept of\nload line, fixed bias, self-bias and voltage divider bias. h-parameter model of\nBJT.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Amplifiers: Classification of amplifiers, RC coupled amplifier –frequency\nresponse.  Analysis for mid frequency gain. Typical examples.\n.\nPower Amplifiers:  Definitions and classification. Typical circuits of Class\nA, Class B, Class AB and Class C Amplifiers. Analysis for conversion\nefficiency of B and AB. Simple examples.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Operational amplifiers:  Block Diagram, ideal characteristics. Op-Amp\nBasics, Parameters like gain, bandwidth, slew rate, CMRR, offset voltage\nand offset current. IC741 op- amp characteristics. Simple op- amp circuits:\nInverting amplifier, non-inverting amplifier, summing amplifier, integrator,\ndifference amplifier.\nOp-Amp Applications:  Instrumentation amplifier, Schmitt trigger, precision\nrectifiers, Comparators, zero crossing detector, level detector. Active Filters:\nDesign of LPF, HPF, BPF and Notch filters.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Oscillators:  Feedback Concepts, Basic configurations, Effect of negative\nfeedback on amplifiers. Oscillators:\nclassification, criterion for oscillation, RC phase shift and Wien bridge\noscillator (both using BJT). Design equations and working of the circuits\n(analysis not required).\nRegulated power supplies: Simple zener voltage regulator, series voltage\nregulator, IC 723  regulators: block diagram, typical low/high voltage\ncircuits. 3 pin regulators: 78XX and 79XX",
+    "contact_hours": "11"
+  }
+]

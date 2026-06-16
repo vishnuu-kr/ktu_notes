@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Blockchain Fundamentals\nIntroduction, Blockchain Definition, Deciphering the Blockchain, Features\nand challenges of Blockchain, Applications in Blockchain, Decentralisation,\nDistributed Ledger Technology, Blockchain variants.",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Cryptography in Blockchain and Consensus Mechanisms\nConcept of Hashing, Creating a Transaction Hash, Merkle Trees - Importance\nof Merkle tree, Chaining of Blocks, Building the Network, Accessing the\nnetwork, Types of Wallets.\nNeed for Consensus, Two Generals’ Problem, Byzantine Generals’ Problem,\nByzantine Fault Tolerance (BFT), Practical Byzantine Fault Tolerance\n(PBFT)- working, Paxos and Raft Algorithms.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Cryptocurrencies - Bitcoin and Ethereum\nBitcoin: Components, Nodes in Bitcoin network, Transactions and memory\npools, Proof of Work-Mining Cryptocurrencies, Hard and Soft Forks,\nTracking Bitcoins-Unspent Transaction Outputs.\nEthereum: Transition from Bitcoin to Ethereum, Concept of Ethereum World\nComputer, Ethereum Virtual Machine, Ethereum Network, Transition from\nPoW to PoS- Working of PoS, Smart Contracts in Ethereum, Decentralised\nApplications in Ethereum, Tools used in Ethereum.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Blockchain Ethereum Platform using Solidity and Use Cases in\nBlockchain :-\nSolidity Language - Remix IDE, Structure of a Smart Contract Program,\nModifiers, Events, Functions, Inheritance, External Libraries, Error Handling.\nPermissioned Blockchains, Introduction to Hyperledger Foundation,\nHyperledger Distributed Ledger frameworks, Hyperledger Fabric.\nUse Cases in Blockchain - Finance, Education, Government, Healthcare and\nSupply Chain Management.",
+    "contact_hours": "10"
+  }
+]

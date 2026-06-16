@@ -1,0 +1,326 @@
+Course Code 
+PECCT864 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+5. Identify the significance and principles underlying networking concepts and protocols 
+6. Explain Network Forensics and its importance and understand Security issues of network 
+communications. 
+7. Understand network forensics tools and techniques and evaluate procedure for network 
+forensics investigation. 
+8. Comprehend wireless basics, authentication types, and attacks on wireless networks. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Basics of Computer Networks- Definition of Network, Need of Networks, 
+Protocol, Types of Networks- LAN, MAN, WAN. Network Components- 
+Twisted Pair Cable, Coaxial cable, Fiber Optic Cables, Network Interface 
+Card, HUB, Switch, Router. OSI model and TCP/IP protocol suite, 
+Introduction Network Protocols- IP, TCP, UDP, DHCP, DNS. Types of 
+Topologies- 
+RING, 
+STAR, 
+BUS, 
+MESH 
+(features, 
+advantages, 
+disadvantages). Classification by Component: Peer to Peer, Client/ Server. 
+ 
+9  
+2 
+Overview of Network Forensics: Definition, Process of Network Forensics, 
+Importance, Advantages and Disadvantages, Application of Network 
+Forensics. Network threats and vulnerabilities: 
+ Types of network attacks- eavesdropping, spoofing, modification, Cross-site 
+scripting, DNS Spoofing, Routing Table Page Poisoning, ARP Poisoning, 
+ 
+9  
+
+ 
+ 
+Web Jacking. Social Engineering Attacks and its types. Types of network 
+forensics investigations: Incident Response and Proactive Investigations 
+3 
+Identifying sources of evidence- Digital devices, Network traffic, Cloud 
+environments, Steps for handling evidence. Data acquisition methods- 
+Network traffic capture, Log file analysis, Memory acquisition, List Packet 
+capture tools. Introduction to Data Preservation Technique- Write-blocking, 
+Data encryption, Data hashing, Metadata preservation. 
+Network Traffic Analysis Methods- Flow analysis, Packet analysis, Deep 
+packet inspection (DPI), and Network behavior analysis. 
+Identifying sources of evidence, learning to handle the evidence, collecting 
+network traffic using tcpdump, Collecting network traffic using Wireshark, 
+Collecting network logs, Acquiring memory using FTK Imager, Tapping into 
+network traffic: Packet sniffing and analysis using Wireshark, Packet sniffing 
+and analysis using NetworkMiner.  
+9  
+4 
+Introduction to Wireless Networks: Basics of wireless (IEEE 802.11) 
+communication and security challenges. 
+Types of Authentications: WEP, WPA and WPA-2 Encryption. Attacks on 
+Wireless networks: Man-in-the middle (MITM), Brute-Force, Evil Twin, 
+Rogue access points, Phishing, Wireless Jamming (Denial-of-Service 
+Attacks), Wireless Eavesdropping. 
+Legal challenges in network forensics: Authorization, Privacy, Data 
+Preservation, Disclosure, Cross-Border Investigations.  Digital Personal Data 
+Protection Act,2023: Introduction, Data, Data Fiduciary, Data Principal, Data 
+Processor, Personal Data Breach, Need of DPDP, Key Features of DPDP 
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Illustrate the Basics of Networking Concepts and Protocols 
+Understand 
+CO2 
+Describe the significance of network forensics and the security concerns 
+associated with network communications. 
+Understand  
+CO3 
+Describe the process of evidence handling, data acquisition methods, 
+and Network Traffic Analysis methods 
+Analyse 
+CO4 
+Comprehend wireless basics, authentication types, and attacks on 
+wireless networks 
+Understand 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+2 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and Year 
+1 
+Learning Network 
+Forensics 
+Samir Datt 
+PACKT Publications 
+,  ISBN: 9781782174905 
+2 
+Tools and techniques for 
+network forensics 
+Meghanathan, N., 
+Allam, S. R., & 
+Moore, L. A. 
+arXiv preprint 
+arXiv:1004.0570. 
+2010 
+3 
+Network Forensics 
+Ric Messier 
+Wiley 
+ISBN: 9781119328285 
+4 
+Network forensics: 
+tracking hackers through 
+cyberspace  
+Davidoff, S., & 
+Ham, J. 
+Pearson 
+(2012)(Vol. 2014). 
+ISBN: 9780132565110 
+Upper Saddle River: 
+Prentice Hall. 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Introduction to Security and 
+Network Forensics 
+William J. Buchanan 
+CRC press 
+publications. 
+2011 
+2 
+Hands-On Network Forensics 
+Nipun Jaswa 
+PACKT Publications 
+March 2019 
+,ISBN 
+9781789344523 
+3 
+Network Forensics 
+Anchit Bijalwan 
+CRC press 
+publications. 
+December 
+2021 
+978-
+0367493615 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://youtu.be/VwN91x5i25g?feature=shared 
+2 
+https://youtu.be/VklrX2IfCNk 
+3 
+https://youtu.be/VklrX2IfCNk?feature=shared 
+4 
+https://youtu.be/U_cl7QqCF3c?feature=shared
+
+ 
+ 
+SEMESTER S8 
+WINDOWS AND LINUX FORENSICS

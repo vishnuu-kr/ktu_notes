@@ -1,0 +1,52 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Foundational Data Structures- Overview of Arrays and Linked Lists, implementation of pointers and objects, Representing rooted trees, Hashing -Hash Tables, Hash functions, Cuckoo Hashing",
+      "Bloom Filters - Count-Min Sketch, Applications to Networks - Click Stream Processing using Bloom Filters, Applications to Data Science - Heavy Hitters and count-min structures"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Advanced Tree Data Structures - Balanced Trees - AVL Trees (review",
+      "Red-Black Trees",
+      "Suffix Trees and Arrays",
+      "Segment Trees",
+      "Heaps and Related Structures - Binomial heap",
+      "Fibonacci Heaps",
+      "Merkle Trees",
+      "Applications to Information Retrieval and WWW - AutoComplete using Tries"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Specialized Data Structures - Spatial Data Structures - Quadtree, K-D Trees (k-dimensional tree",
+      "R-trees",
+      "Temporal Data Structures- Persistence, Retroactivity",
+      "Search and Optimization Trees - Skip List, Tango Trees",
+      "Applications to Data Science - Approximate nearest neighbor search, Applications to Information Retrieval and WWW, Posting List intersection"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Data Structure applications - Distributed and Parallel Data Structures -Distributed Hash Tables (DHTs",
+      "Consistent Hashing",
+      "Distributed BST",
+      "Data Compression and Transformations - Burrows-Wheeler Transform",
+      "Histogram",
+      "Wavelet Trees",
+      "Cryptographic Applications - Hashing"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

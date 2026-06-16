@@ -1,0 +1,76 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Safety domain terminologies",
+            "Hazard",
+            "Risk",
+            "Mishap",
+            "Incident",
+            "Hazard triangle",
+            "Risk Assessment & Control",
+            "Qualitative Perspective",
+            "Qualitative Perspective",
+            "Safety Engineering & Accident causing mechanisms",
+            "Safety quantification",
+            "Preliminary Hazard List",
+            "Preliminary Hazard Analysis",
+            "Hazard and operability study (HAZOP",
+            "Failure Modes and Effects Analysis (FMEA)- Identification of Failure Modes",
+            "Application of Hazard Identification Techniques",
+            "Fault Tree Analysis (FTA)- Construction",
+            "Gate by Gate method",
+            "Cut-set method",
+            "Importance measures"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "AHP approach",
+            "Quantification of Basic Events for Non-repairable Components",
+            "Hazard Rate",
+            "Exponential Distribution",
+            "Weibull Distribution"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Reliability engineering",
+            "Basic concepts - Evaluation of network Reliability / Unreliability - Series systems",
+            "Parallel systems",
+            "Series - Parallel systems",
+            "partially redundant systems - Types of redundancies - Evaluation of network Reliability / Unreliability using conditional probability method. Time Dependent Probability Basic concepts Failure",
+            "Fault",
+            "Error",
+            "Failure mode",
+            "Failure classification",
+            "Markovian models",
+            "Common cause and common mode failures",
+            "Reliability functions f(t",
+            "h(t) - Relationship between these functions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Baths tubs curve - Exponential failure density and distribution functions -Expected value and standard deviation of Exponential distribution - Measures of reliability - MTTF",
+            "MTTR",
+            "MTBF - Evaluation of network reliability / Unreliability of simple Series",
+            "Parallel",
+            "Series-Parallel systems -Partially redundant systems - Evaluation of reliability measure - MTTF for series and parallel systems - Examples. Monte Carlo simulation",
+            "Application to uncertainty analysis",
+            "Simple integration",
+            "Trivial integration"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to NLP:\nIntroduction to Natural Language Processing - Various stages of traditional\nNLP – Challenges - Basic Text Processing techniques - Common NLP\nTasks. N-gram Language Models - Naive Bayes for Text Classification, and\nSentiment Analysis – Evaluation-Precision, Recall and F-measure-Test sets\nand cross validation.",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Traditional NLP Techniques:\nAnnotating Linguistic Structures - Context-Free Grammars, Constituency\nParsing, Ambiguity, CYK Parsing, Dependency Parsing - Transition-Based\nDependency Parsing, Graph-Based Dependency Parsing, Evaluation.",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Neural Networks for NLP:\nWord representations - Lexical Semantics, Vector Semantics, TF-IDF,\nPointwise Mutual Information (PMI), Neural Word embeddings - Word2vec,\nGloVe, Contextual Word Embeddings. Evaluating Vector Models -\nFeedforward Neural Networks for Text Classification",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Advanced NLP and Applications:\nSequence Modelling - Recurrent Neural Networks, RNNs as Language\nModels, RNNs for NLP tasks, Stacked and Bidirectional RNN architectures,\nRecursive Neural Networks, LSTM & GRU, Common RNN NLP\nArchitectures, Encoder-Decoder Model with RNNs, Attention models,\nTransformers.\nNLP Applications - Machine Translation, Question Answering and\nInformation Retrieval, Introduction to Large Language Models.",
+    "contact_hours": "12"
+  }
+]

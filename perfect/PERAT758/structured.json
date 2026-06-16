@@ -1,0 +1,45 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Digital Filtering-Review of Z-Transform",
+            "Z-domain transfer function, concept of poles and zeroes, location of poles and zeroes and their effect on filter responses, FIR and IIR type of digital filters, ideal and practical responses of Low pass, high pass, band pass and band reject filters, Analog filter responses-Butterworth, Chebyschev and elliptic responses, applications and advantages of digital filtering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "FIR Filter Design-linear phase filters, Location of zeroes, Design using Fourier series, window method-rectangular, hanning, hamming windows-comparison of window frequency responses",
+            "LP, HP, BP and BR type designs. FIR Filter banks- quadrature mirror sub band filters-tree structured design"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "IIR Filter Design- Design from analog filters-Design of Butterworth analog filter transfer function",
+            "specifications of analog and digital frequency responses",
+            "conversion to digital responses-impulse invariant and bi-linear transformations",
+            "frequency transformation in analog domain",
+            "design of LP and HP filters",
+            "design of comb filter by pole-zero placement"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "FIR filter structures-direct",
+            "linear phase and lattice structures. IIR filter structures-direct",
+            "cascade",
+            "parallel",
+            "lattice structures. Coefficient quantization effects in FIR and IIR filters-basic concepts (No analysis required"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

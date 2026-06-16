@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic block diagram of a computer",
+            "System bus and components",
+            "RISC and CISC .architectures",
+            "Von Neumann and Harvard architecture",
+            "8051 microcontrollers: Difference between microprocessor and microcontroller architecture",
+            "8051 architecture",
+            "Register organization - special function registers",
+            "Memory organization 8051 microcontrollers: Instruction set- Arithmetic",
+            "Data transfer",
+            "Control transfer",
+            "Bit- oriented and Data exchange instructions (familiarization only",
+            "not for exams",
+            "Addressing modes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "8051 microcontroller Programming and Peripherals. Timers/Counters- TMOD and TCON registers",
+            "Serial Communication-SBUF",
+            "SCON",
+            "PCON registers and their functions (details of different modes of operation not included",
+            "Interrupts in 8051- Timer flag interrupt",
+            "Serial port interrupt",
+            "external interrupts and interrupt priority Interfacing of peripherals - LED",
+            "LM35 temperature sensor",
+            "7 segment LED (embedded C programming"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Definition, Features, applications of embedded systems in Robotics (examples only) Embedded System Architecture: HW - Processor, Controller, SoC, Memory, Peripherals",
+            "SW -Application, Middleware, OS, Device Drivers, Tool chain- Assembler, Interpreter, Compiler, Linker, Loader, Debugger Embedded system design process: Requirement Analysis, Specification Development, HW & SW Co-Design and Development, Module Integration, Testing. Introduction to OS: Embedded Operating system basic concepts: Functional layers in a computer system, Kernel Functions (Overview only), Tasks/ Processes: definition, five states of a process/task, RTOS - definition, comparison of General Purpose OS and Real Time OS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Arduino Uno Board: Board Study (Board level Block schematic) - Chip (Features only - architecture not needed",
+            "GPIO",
+            "Memory",
+            "familiarization of Arduino IDE Programming: Sample code for LED and Switch",
+            "DC motor",
+            "Stepper motor control Internet of Things (IoT): An Introduction toInternet of Things (overview only): Basic components of IoT- Building blocks of IoT",
+            "IoT Application framework",
+            "The Internet Gateway",
+            "Edge IT",
+            "IoT Service Providers",
+            "IoT Infrastructure",
+            "IoT Development service",
+            "Comparison of M2M and IoT technology. Role of cloud technology in IoT computing: Definition of cloud computing",
+            "types of cloud services (examples for various types only",
+            "Need of cloud computing in IoT applications Communication Protocols: UART",
+            "SPI and USB"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

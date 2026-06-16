@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of PMOS and NMOS devices (pre-requisite).\nCMOS inverter – Working, Voltage transfer characteristics.\nStatic characteristics – switching threshold and noise margin.\nDynamic characteristics – Device capacitance, RC delay model, Propagation\ndelay and power consumption.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Combinational Logic Circuits\nStatic CMOS Design – Complimentary CMOS, Design techniques for large\nfan-in, Ratioed logic, basics of pass transistor logic and transmission gate\nlogic.\nDynamic CMOS Design – Basic principles, concept of Domino logic, speed\nand power dissipation, signal integrity issues in dynamic logic.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Sequential Logic Circuits and Arithmetic Building blocks\nSequential Logic Circuits – Timing metrics for sequential circuits, static SR\nflip-flop, Static Multiplexer based D flip-flop and master slave configuration.\nDynamic Clocked CMOS (C2MOS) Register.\nArithmetic Building blocks – Static CMOS Full Adder, 4-bit carry bypass\nadder, Array multiplier, carry-save multiplier, barrel shifter.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "VLSI Design Methodologies\nASIC Design flow and FPGA design flow, Introduction to SoC Design,\nChallenges in VLSI Design. Basics of semi-custom and full custom design\nmethodologies.\nValidation and testing – Fault Modelling, struck at faults, Test procedure,\nlogic testing vs memory testing, Built-in-self-test (BIST), Automatic test\npattern generation (ATPG)",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,319 @@
+Course Code 
+PECST759 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCCST303 
+PCCST502 
+Course Type 
+Theory 
+Course Objectives: 
+1. To develop a comprehensive understanding of parallel computing principles and architectures by 
+studying various types of parallelism, such as data and task parallelism, and analyzing different 
+computing architectures. 
+2. To implement and evaluate parallel algorithms for fundamental operations, such as matrix 
+addition and multiplication, using performance metrics like speedup and scalability, while gaining 
+hands-on experience with parallel programming models and tools. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Parallel Computing - Overview of parallel computing and its 
+importance, Types of parallelism: data parallelism, task parallelism, Parallel 
+computing architectures: SIMD, MIMD, shared memory, distributed memory.  
+Parallel Programming Models - Parallel programming models: Parallel 
+Random Access Machine (PRAM), bulk synchronous parallel (BSP), LogP, 
+Shared memory vs. distributed memory models; Performance Metrics - 
+Performance metrics for parallel algorithms: speedup, efficiency, scalability, 
+Amdahl's Law and Gustafson's Law. 
+9 
+2 
+Parallel Algorithms for Basic Operations - Parallel algorithms for matrix 
+addition, matrix multiplication, and reduction, Parallel prefix sum (Parallel 
+scan) algorithms. Case Studies of Parallel Addition, Multiplication, Reduction, 
+and Prefix Sum in Modern Computing Systems; Parallel Sorting Algorithms - 
+9 
+
+ 
+ 
+Parallel sorting algorithms: parallel merge sort, parallel quicksort, bitonic 
+merge sort, Comparison of parallel sorting techniques. 
+3 
+Parallel Graph Algorithms - Parallel algorithms for graph traversal: BFS, DFS, 
+Parallel algorithms for minimum spanning tree (MST) and shortest path. 
+Parallel Search Algorithms - Parallel search algorithms: parallel binary search, 
+parallel search trees, Applications and analysis. 
+9 
+4 
+Parallel Programming with OpenMP - Introduction to OpenMP, Parallel 
+programming constructs in OpenMP, Performance tuning and optimization 
+Parallel Programming with MPI - Introduction to MPI, Message passing 
+model and MPI basics, Advanced MPI features and applications 
+Parallel Numerical Algorithms - Solving linear systems: parallel Gaussian 
+elimination, parallel LU decomposition, Parallel algorithms for eigenvalue 
+problems, Applications and analysis. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand and articulate the fundamental principles and architectures 
+of parallel computing. 
+K2 
+CO2 
+Implement and evaluate parallel algorithms for basic operations such 
+as sorting and searching. 
+K3 
+CO3 
+Develop and analyze parallel algorithms for complex problems, 
+including graph and numerical algorithms. 
+K3 
+CO4 
+Apply parallel programming techniques to real-world problems and 
+assess the efficiency and performance of parallel solutions. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+2 
+2 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year
+1 
+Introduction to Parallel Computing 
+Ananth Grama, Anshul 
+Gupta, George Karypis, 
+Vipin Kumar 
+Addison-Wesley
+2/e, 2003 
+2 
+Parallel Programming: Techniques and 
+Applications Using Networked 
+Workstations and Parallel Computers 
+Barry Wilkinson and 
+Michael Allen 
+Pearson India 
+2/e, 2006 
+3 
+An Introduction to Parallel Algorithms 
+Joseph Jaja 
+Addison-Wesley 
+Professional 
+1/e, 1992 
+4 
+Parallel Algorithms 
+Henri Casanova, Arnaud 
+Legrand, Yves Robert 
+Chapman and 
+Hall/CRC 
+1/e, 2020 
+5 
+Parallel Scientific Computing in C++ and 
+MPI 
+George Em Karniadakis 
+and Robert M. Kirby II 
+Cambridge 
+University Press 
+1/e, 2003 
+ 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Parallel Programming for Multicore and 
+Cluster Systems 
+Thomas Rauber, Gudula 
+Rünger 
+Springer 
+3/e, 2023 
+2 
+Using OpenMP: Portable Shared Memory 
+Parallel Programming 
+Barbara Chapman, Gabriele 
+Jost, Ruud van der Pas 
+MIT Press 
+1/e,2007 
+3 
+Using 
+MPI: 
+Portable 
+Parallel 
+Programming with the Message-Passing 
+Interface 
+William Gropp, Ewing 
+Lusk, Anthony Skjellum 
+MIT Press 
+3/e, 2014 
+ 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/106/106106112/ 
+2 
+https://archive.nptel.ac.in/courses/106/106/106106112/ 
+https://nptel.ac.in/courses/106104120 
+3 
+https://archive.nptel.ac.in/courses/106/106/106106112/ 
+https://nptel.ac.in/courses/106104120 
+4 
+https://archive.nptel.ac.in/courses/106/106/106106112/ 
+https://nptel.ac.in/courses/106104120 
+
+ 
+ 
+SEMESTER S7 
+REINFORCEMENT LEARNING

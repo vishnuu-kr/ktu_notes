@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of Computer Vision and Image Processing - Introduction to\ncomputer vision, applications, history, and challenges. Basics of image\nformation, pinhole camera model, image representation (grayscale, color\nspaces), and digital image properties (resolution, bit depth)\nImage filtering (smoothing, sharpening) and histogram processing",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Feature Detection & Morphological Processing - Edge detection (Canny),\nKeypoint detection (Harris corner detector), blob detection and feature\ndescriptors (SIFT, SURF)\nBasic morphological operations (erosion, dilation), opening, closing,\nboundary extraction, and applications in segmentation.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Image Segmentation and Object Detection - Thresholding methods\n(global, adaptive), region-based segmentation, clustering-based techniques\n(K-means, Mean Shift), and edge-based segmentation.\nSliding window approach, Haar cascades, Histogram of Oriented Gradients\n(HOG), and template matching",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Motion Analysis and 3D Vision - Background subtraction, frame\ndifferencing, temporal differencing, and basic optical flow concepts (Lucas-\nKanade method). Tracking algorithms (Kalman filter, Mean Shift).\nPrinciples of stereo vision, epipolar geometry, disparity maps, depth\nestimation, Structure from Motion (SfM), camera calibration, and 3D\nreconstruction",
+    "contact_hours": "10"
+  }
+]

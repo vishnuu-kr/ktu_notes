@@ -1,0 +1,66 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Bias and Variance",
+      "The Bayes’ Estimator",
+      "Parametric Classification",
+      "Regression",
+      "Tuning Model Complexity: Bias/Variance Trade-off. Dimensionality Reduction - Principal Component Analysis",
+      "Linear Discriminant Analysis"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Error Metrics",
+      "Overfitting",
+      "Linear Classifiers - Logistic regression",
+      "Naïve Bayes",
+      "Measuring Classifier Performance - Confusion Matrix",
+      "Cross Validation. Bootstrapping",
+      "Model Selection Procedures",
+      "Regularization Techniques - LASSO",
+      "RIDGE. Learning with Trees - Decision Trees",
+      "Types- Classification and Regression Trees",
+      "Feature Selection Measures - Entropy",
+      "Information Gain",
+      "ID3 Algorithm",
+      "Issues in Decision tree Learning",
+      "Ensemble Learning - Boosting - Bagging"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Support Vector Machine - Optimal Separating hyper plane",
+      "Soft-margin & Hard- margin",
+      "Kernel trick",
+      "Kernel functions. Neural Networks - The Perceptron Algorithm",
+      "Activation Functions",
+      "Feed Forward Network",
+      "Back Propagation Algorithm"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Unsupervised Learning - Clustering Methods - K-means",
+      "Expectation-Maximization Algorithm",
+      "Density based clustering. Reinforcement Learning - Monte Carlo",
+      "TD Learning",
+      "Q Learning. Basics of Deep Learning - Convolutional Neural Networks - Convolution",
+      "Pooling Layers",
+      "Hyperparameters",
+      "Transformers"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

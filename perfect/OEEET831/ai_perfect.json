@@ -1,0 +1,49 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definitions - Robots, Robotics",
+            "Types of Robots - Manipulators, Mobile Robots - Wheeled & Legged Robots, Aerial Robots",
+            "Anatomy of a Robotic Manipulator - Links, Joints, Actuators, Sensors, Controller",
+            "Open Kinematic vs Closed Kinematic Chain",
+            "Degrees of Freedom",
+            "Robot Considerations for an Application - Number of Axes, Work Volume, Capacity & Speed, Stroke & Reach, Repeatability, Precision and Accuracy, Operating Environment, Point to Point Control or Continuous Path Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sensors and Actuators - Sensor Classification: Touch, Force, Proximity, Vision Sensors. Internal Sensors: Position Sensors, Velocity Sensors, Acceleration Sensors, Force Sensors",
+            "External Sensors: Contact Type, Non-contact Type. Actuators for Robots - Classification: Electric, Hydraulic, Pneumatic Actuators",
+            "Their Advantages and Disadvantages",
+            "Electric Actuators - Stepper Motors, DC Motors, DC Servo Motors and Their Drivers, AC Motors, Linear Actuators, Selection of Motors",
+            "Robotic Configurations and End Effectors - Robot Configurations: PPP, RPP, RRP, RRR",
+            "Features of SCARA and PUMA Robots",
+            "Classification of Robots Based on Motion Control Methods and Drive Technologies",
+            "3R Concurrent Wrist",
+            "Classification of End Effectors: Mechanical Grippers, Special Tools, Magnetic Grippers, Vacuum Grippers, Adhesive Grippers, Active and Passive Grippers, Selection and Design Considerations of Grippers in Robot"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Kinematics and Motion Planning - Robot Coordinate Systems: Fundamental and Composite Rotations, Homogeneous Co-ordinates and Transformations, Kinematic Parameters, D-H Representation, Direct Kinematics. The Arm Equation: Forward Kinematic Analysis of a Typical Robot up to 3 DOF. Motion Planning: Joint Space Trajectory Planning - Cubic Polynomial, Linear Trajectory with Parabolic Blends",
+            "Cartesian Space Planning, Point to Point vs Continuous Path Planning"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Dynamics and Control of Robots - Building of a Servo Controlled Robot: 1R Two Link Chain, Construction of Link and Joint and Mounting of Encoder, Actuator, etc. Dynamics: Dynamic Model of a Robot Using Lagrange's Equation, Dynamic Modelling of 1DOF Robot, Including Motor and Gearbox, 2R Planar Manipulator. Control Techniques: Transfer Function and State Space Representation, Performance and Stability of Feedback Control, PID Control of a Single Link Manipulator, Selection of PID Controller Gains",
+            "Nonlinear Nature of Manipulators and Need for Nonlinear Control Techniques"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

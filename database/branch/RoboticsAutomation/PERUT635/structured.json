@@ -1,0 +1,65 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "IOT Definition",
+      "Importance of IoT",
+      "IoT architecture",
+      "Technology Behind IoT - Server End Technology",
+      "Sources of Internet of Things",
+      "M2M Communication. IoT Application Areas. The Various Industrial Revolutions",
+      "Role of Internet of Things (IoT) & Industrial Internet of Things (IIoT) in Industry",
+      "Industry 4.0 revolutions",
+      "Support System for Industry 4.0"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Sensors and actuators for industrial processes",
+      "sensor networks: network topologies",
+      "types of networks. Study of different sensors and their characteristics: Light sensor",
+      "temperature sensor with thermistor",
+      "voltage sensor",
+      "ADC and DAC",
+      "Temperature and Humidity Sensor DHT11",
+      "Motion Detection Sensors",
+      "Wireless Bluetooth Sensors",
+      "Level Sensors. Actuators: Thermal",
+      "hydraulic",
+      "pneumatic",
+      "electromechanical. Communication Protocols: UART Communication Protocol",
+      "I2C Protocol device interfacing and decoding of signal",
+      "SPI Protocol device interfacing and decoding of signal. Application layer protocols: HTTP",
+      "CoAP",
+      "MQTT"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Role of microcontrollers in IIoT: Introduction to Raspberry Pi-Installation, programming, Interfaces (serial, SPI, I2C) Cloud Services: Configuration of the cloud platform, Sending data from the IoT nodes to the gateways using different communication options",
+      "Transferring data from gateway to the cloud. Google, AWS, Microsoft Azure cloud architect. Case study: Program different Sensors for IoT applications Security and privacy issues in IoT"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Healthcare",
+      "Power Plants",
+      "Inventory Management & Quality Control",
+      "Plant Safety and Security (Including AR and VR safety applications",
+      "Facility Management. Oil",
+      "chemical and pharmaceutical industry",
+      "applications of UAVs in industries"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

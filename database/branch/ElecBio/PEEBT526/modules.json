@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basic IC fabrication technology: Basic fabrication steps- Wafer\npreparation, Oxidation, Diffusion, Etching process, Ion implantation\ntechniques, Isolation techniques. Comparison and performance evaluation of\nbipolar and MOS technology. Fabrication process of MOS devices: NMOS\nand PMOS IC technology, CMOS n-well and p-well process.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "MOS transistor and geometrical effects: Structure of MOSFET, Operation\nof\nMOSFET,\ncurrent\n–\nvoltage\ncharacteristics,\nchannel\nlength\nmodulation,short channel effects, narrow channel effects, scaling factors for\ndevice parameters. Analogy of MOSFET capacitance. MOS inverters:\nBasic circuit of NMOS inverter-voltage transfer characteristics, inverters\nwith n- type MOSFET load. CMOS inverter - voltage transfer characteristics.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Combinational MOS logic circuits: Circuit operation of NMOS NOR &\nNAND gates, CMOS NOR & NAND gates, compound circuits using CMOS\nlogic. Basic circuit concepts: sheet resistance, area capacitance, delay unit,\ninverter delays – driving large capacitive loads, super buffers.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "MOS circuit design processes: Stick Diagram, Layout design rules for\nMOS circuits – Lamda based rules, Layout examples of Inverter, NAND and\nNOR. Review of power dissipation in CMOS Circuits: Sources of power\ndissipation- static, dynamic and leakage power dissipation. Dynamic power\nreduction techniques - Supply voltage scaling approaches-parallelism,\npipelining (Basic Concepts).",
+    "contact_hours": "9"
+  }
+]

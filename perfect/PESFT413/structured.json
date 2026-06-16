@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Elements of measurement - Fundamental standards",
+            "Quality of measurement",
+            "Meaning of measurement",
+            "Errors in measuring instruments",
+            "Precision and accuracy",
+            "Calibration principle",
+            "Static and dynamic characteristics of measuring instruments. active and passive transducers. General features and classification of transducers",
+            "Resistive Transducers - Potentiometer",
+            "Unbounded strain gauge",
+            "Bonded strain gauge-Load cell",
+            "Inductive transducers - Differential output transducers - LVDMeasurement of temperature - Bimetallic and pressure thermometers",
+            "Thermocouples",
+            "Resistance thermometers",
+            "Pyrometry",
+            "Calibration. Pressure and vacuum measurement - Manometers",
+            "Measuring element",
+            "Absolute pressure measurement",
+            "Static accuracy of pressure gauges"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Flow measurement - Orifice installation",
+            "Pitot tube",
+            "Area flow meters",
+            "Open channel meters. Level measurement - Direct method",
+            "Measurement of level in open and pressure vessels. Measurement of pH and humidity. Noise pollution - measurement of sound",
+            "tolerable levels of sound. Measurement of sound level. Recording Instruments",
+            "Indicating and signaling instruments",
+            "Signal transmission",
+            "and codes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to frequency response of closed-loop systems",
+            "control system design by frequency response techniques",
+            "Bode diagram",
+            "stability criterion",
+            "tuning of controller settings. Introduction to advanced control systems",
+            "cascade control",
+            "feed forward control",
+            "Smith predictor controller",
+            "Control valves: final control operation-electrical and pneumatic Signal conversion actuators"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Open loop and close loop systems - elements of feedback control loop -Transfer function modeling - block diagram representation of mechanical",
+            "thermal and liquid level systems. Transient response analysis - Time response of first and second order system for impulse and step inputs - Effect of damping factors on transient response - Characteristics of proportional",
+            "integral",
+            "derivative",
+            "PD and PID controllers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

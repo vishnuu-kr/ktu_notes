@@ -1,0 +1,62 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Basic Fuzzy Set Theory :-Introduction - Uncertainty",
+      "Imprecision and Vagueness. Crisp vs Fuzzy sets. Representation of Fuzzy sets. Membership Functions - Types",
+      "Basic operations - dilation",
+      "concentration",
+      "normalization",
+      "Linguistic hedges. Properties of fuzzy set - Level Sets - Alpha cut representation. Operations on fuzzy sets- fuzzy complement",
+      "fuzzy intersection",
+      "fuzzy union",
+      "aggregation operations"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Fuzzy Relations :-Operations on Fuzzy relations: union",
+      "intersection",
+      "complement",
+      "cartesian product. Fuzzy composition- Max- min",
+      "Max - product. Extension Principle-Fuzzy arithmetic - fuzzy numbers",
+      "arithmetic operations on fuzzy numbers. Fuzzy Reasoning - Generalized Modus Ponens (GMP) and Generalized Modus Tollens (GMT"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Fuzzification and Defuzzification Methods :-Fuzzy inference - Zadeh rule",
+      "Mamdani rule. Development of membership Functions - Intuition",
+      "Inference",
+      "Rank ordering",
+      "Inductive reasoning. Defuzzification to Scalars - Max membership principle",
+      "Centroid method",
+      "Weighted average method",
+      "Mean max membership",
+      "Center of sums",
+      "Center of largest area",
+      "First (or last) of maxima"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Fuzzy Inference Systems :-Approximate Reasoning",
+      "Fuzzy (Rule-Based) Systems - Multiple conjunctive antecedents",
+      "Multiple disjunctive antecedents",
+      "Aggregation of fuzzy rules",
+      "Graphical Techniques of Inference. Fuzzy Controllers -Mamdani FIS",
+      "Larsen Model"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

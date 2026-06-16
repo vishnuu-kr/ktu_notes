@@ -1,0 +1,76 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction",
+      "Moore’s law",
+      "ASIC design",
+      "Full custom ASICs",
+      "Standard cell based ASICs",
+      "Gate array based ASICs",
+      "SoCs",
+      "FPGA devices",
+      "ASIC and FPGA Design flows",
+      "Top-Down and Bottom-Up design methodologies",
+      "Logical and Physical design"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Material Preparation Purification and Crystal growth (CZ process",
+      "Wafer preparation",
+      "Epitaxy - molecular beam epitaxy",
+      "Thermal Oxidation- Dry and Wet oxidation",
+      "Diffusion and ion implantation techniques",
+      "Lithography- Photo lithographic sequence",
+      "Electron Beam Lithography",
+      "Etching",
+      "Chemical Vapor Deposition and Physical Vapor Deposition. MOSFET Fabrication techniques: Twin-Tub fabrication sequence",
+      "Fabrication process flow"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "MOSFET Logic Design - NMOS Inverter (Static analysis only",
+      "basic logic gates",
+      "CMOS logic",
+      "Static and transient analysis of CMOS inverter",
+      "Static and dynamic power dissipation (detailed analysis not required",
+      "Propagation delays. Realization of logic functions with static CMOS logic. Layout Design and Design rules: Stick Diagram and Design rules-micron rules and Lambda rules. (definitions only). Layout of CMOS Inverter",
+      "two input NAND and NOR gates"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Basic concepts",
+      "Realisation of logic gates using pass transistors and complementary pass transistors. Dynamic logic Design: Pre charge",
+      "Logic evaluation",
+      "Issues in dynamic logic",
+      "Domino Logic",
+      "NP domino logic",
+      "Realisation of logic gates circuits using dynamic logic (NAND and NOR). Sequential Logic and Memory design: Behaviour of bistable elements",
+      "CMOS D latch and edge triggered flip flop",
+      "Read Only Memory- 4x4 MOS ROM Cell Arrays (NOR",
+      "NAND",
+      "Random Access Memory- SRAM-Six transistor CMOS SRAM cell",
+      "DRAM-Three transistor and One transistor Dynamic Memory Cell. Suggestion on Project Topics Sample Projects: 1.Create a standard cell library including basic logic gates",
+      "flip-flops",
+      "and multiplexers. Tasks: ● Design cells using schematic capture. ● Perform logic synthesis to verify functionality. ● Simulate the cells using Verilog testbenches. 2. Design and implement a simple RISC processor on an FPGA. Tasks: ●Design the processor architecture using Verilog. ●Implement and synthesize the design using FPGA tools (e.g",
+      "Xilinx Vivado). ●Verify functionality through simulation and hardware testing. 3. Simulate the fabrication process of a MOSFET using TCAD tools. Tasks: ●Model the different stages of MOSFET fabrication (e.g",
+      "oxidation",
+      "lithography",
+      "doping). ●Analyze the effects of various parameters on device characteristics. 4. Create the layout of CMOS logic gates and perform design rule checking. Tasks: ● Draw the stick diagrams for a CMOS inverter and two-input NAND/NOR gates. ● Create the corresponding layout using layout tools. ● Verify the layout against micron and lambda design rules. 5. Design and simulate basic memory cells including SRAM and DRAM. Tasks: ● Design a 4x4 MOS ROM cell array and SRAM/DRAM cells using Verilog. ● Simulate the memory cells to verify their read and write operations. ● Analyze the performance and area of different memory cell designs"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

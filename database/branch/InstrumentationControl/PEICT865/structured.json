@@ -1,0 +1,64 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Image representation",
+      "basic relationship between pixels",
+      "elements of DIP system",
+      "elements ofvisual perception-simple image formation model. Brightness",
+      "contrast",
+      "saturation",
+      "mach band effect. Colour image fundamentals RGB",
+      "HIS models. 2D Image transforms DFT",
+      "its properties",
+      "Walsh transform",
+      "Hadamard transform",
+      "Haar transform.DCT and KL transform"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Image Enhancement Spatial domain methods: point processing- intensity transformations",
+      "histogram processing",
+      "image subtraction",
+      "image averaging.Spatial filtering-smoothing filters",
+      "sharpening filters.Frequency domain methods: low pass filtering",
+      "high pass filtering",
+      "homomorphic filter"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Image Restoration Unconstraint restoration- Lagrange multiplier and constraint restoration. Inverse filtering- removal of blur caused by uniform linear motion",
+      "Weiner filtering",
+      "Image segmentation Classification of Image segmentation techniques",
+      "region approach",
+      "clustering techniques. Classification of edges",
+      "edge detection",
+      "Hough transform"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Image Compression Need for compression",
+      "redundancy",
+      "classification of image compression schemes",
+      "Huffman coding",
+      "arithmetic coding",
+      "dictionary-based compression",
+      "transform based compression",
+      "Image compression standards- JPEG& MPEG"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

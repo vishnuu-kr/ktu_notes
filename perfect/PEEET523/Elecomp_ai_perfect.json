@@ -1,0 +1,47 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Clocked Synchronous Networks",
+            "Analysis of Clocked Synchronous Sequential Networks (CSSN)",
+            "Modeling of CSSN",
+            "State Assignment and Reduction",
+            "Design of CSSN"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "ASM Chart and Its Realization, Asynchronous Sequential Circuits",
+            "Analysis of Asynchronous Sequential Circuits (ASC)",
+            "Flow Table Reduction",
+            "Races in ASC",
+            "State Assignment Problem and the Transition Table"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Fault Table Method",
+            "Path Sensitization Method",
+            "Boolean Difference Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Design Entry: Schematic",
+            "Data Types and Objects",
+            "Different Modelling Styles in VHDL - Dataflow, Behavioural and Structural Modelling",
+            "VHDL Constructs and Codes for Combinational and Sequential Circuits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

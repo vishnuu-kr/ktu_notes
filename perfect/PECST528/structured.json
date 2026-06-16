@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction - The impact of hardware and software technology trends Self review - Instruction set Architecture",
+            "Memory addressing",
+            "addressing modes Class of Computers",
+            "Concept of Computer Hardware and Organization (P15",
+            "5th Edition) Measuring",
+            "Reporting and Summarizing Performance",
+            "Benchmarks - Desktop and Server Amdahl’s Law",
+            "Processor Performance Equation _____________________________________________________ Beyond the books - Visit www.spec.org. Explore the High Performance Computing benchmarks and compare the results submitted by different vendors for the same benchmark. Are you able to appreciate the need for benchmarks to compare performance? What are retired benchmarks? Can you write a paper and publish results based on a retired benchmark"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Review the basic Concepts of Parallel Processing and Pipelining Instruction Level Parallelism",
+            "data dependencies and hazards Different types of dependences",
+            "Compiler Techniques for ILP",
+            "Branch Prediction - Correlating branch predictor Dynamic Scheduling - Idea",
+            "Introduction to Tomasulo’s scheme. Register Renaming Hardware Speculation",
+            "Reorder Buffers Multiple issue and static scheduling",
+            "VLIW"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Data Level Parallelism. Vector Processors - How do they work",
+            "Memory Banks",
+            "Stride",
+            "Scatter Gather. SIMD-comparison with vector GPU",
+            "Comparison of loops in C vs CUDA NVIDIA GPU Memory structure Vector Processor vs GPU",
+            "Multimedia SIMD computers vs GPU Multiprocessor Architecture",
+            "Centralized shared memory architecture Cache coherence and snooping protocol (Implementation details - not required). Performance of Symmetric Shared-Memory Processors. Distributed Shared Memory and Directory based protocol - basics. Synchronization - Basic Hardware Primtives. Memory Consistency Models - Sequential and relaxed"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Warehouse Scale Computers - Goals and requirements. Programming frameworks for Batch processing - Map reduce and Hadoop Computer Architecture of Warehouse-scale computers Moore’s Law",
+            "Dennard Scaling",
+            "Dark Silicon and the transition towards Heterogeneous Architectures Asymmetric multi-core architecture - Static and Dynamic (Overall idea",
+            "example processors) Functional Heterogeneous Multicore architecture - GPUs",
+            "Accelerators",
+            "Reconfigurable Computing Beyond the"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

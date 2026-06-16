@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "INTRODUCTION TO OR & LINEAR PROGRAMMING\nOrigin of OR and its definition – Types of OR problems – Deterministic vs\nstochastic optimization, Phases of OR – Problem formulation – Building\nmathematical model – Deriving solutions, Validating model, Controlling and\nimplementing solution.\nLinear programming – Example from industrial cases, Formulation of LPP –\nImplicit assumptions of LPP. Solution of LPP – Graphical method, Simplex\nmethod – Artificial variables – Big M method –Identification & resolution of\nspecial cases – Infeasibility, Unboundedness, Redundancy & Degeneracy –\nSensitivity analysis.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "TRANSPORTATION & ASSIGNMENT PROBLEMS\nTransportation problem – Introduction – Mathematical formulation –\nBalanced & Unbalanced Transportation Problems – Initial basic feasible\nsolution – North-west corner rule – Lest cost method – Vogel’s approximation\nmethod – Test for optimality – MODI method – Degeneracy & its solution.\nAssignment problem – Introduction – Mathematical formulation – Balanced\n& Unbalanced Assignment Problem. Solution method – Hungarian algorithm",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "INVENTORY CONTROL\nFunctions of inventory and its disadvantages, ABC analysis, Concept of\ninventory costs, Basics of inventory policy – Order, lead time. Fixed Order\nQuantity, Economic Order Quantity (EOQ), Production Order Quantity\n(POQ).\nEOQ models (manufacturing and purchase) with shortages and without\nshortages.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "QUEUING THEORY\nDefinitions – Queue (waiting line), waiting time costs, characteristics of\nqueuing system (arrival, service & queue discipline), queue types (channel vs\nphase).\nKendall’s notation, Little formula, steady state behavior, Poisson’s process &\nqueue, Queuing models – and its performance measures with examples – Brief\ndescription about some special models (M/M/1/N/FCFS, M/M/1/∞/FCFS).\nProject definition, project scheduling techniques – PERT & CPM, Grant chart\n– Determination of critical paths, Estimation of project time and its variance\nin PERT. Concept of project crashing / time – Cost trade off. Simulation\nmethodology: Definition and steps of simulation, random number, random\nnumber generator, Application in scheduling, Queuing systems and inventory\nsystems.",
+    "contact_hours": "13"
+  }
+]

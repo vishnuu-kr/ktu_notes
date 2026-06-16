@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Root Finding Methods (6 Hours) (Derivation or proof not required)\nBisection method; Newton-Raphson method; Secant method; False\nPosition Method; Fixed-point iteration; Convergence and error analysis of\nroot-finding methods.\nSolving nonlinear equations using the above methods in Python (2\nHours)",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Interpolation (9 Hours) (Derivation or proof not required)\nFinite difference interpolation: Newton's finite and backward difference\ninterpolation methods.\nPolynomial Interpolation: Lagrange interpolation and Newton’s divided\ndifference interpolation.\nSpline Interpolation: Cubic splines and B-splines.\nError analysis in interpolation.\nImplementing interpolation methods in Python (2 Hours)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Numerical Integration and Differentiation (6 Hours)\nNumerical Differentiation: Finite difference methods; Error analysis in\nnumerical differentiation.\nNumerical Integration: Trapezoidal rule, Simpson’s rule, Gaussian\nquadrature, Adaptive quadrature methods.\nWriting Python programs to perform numerical differentiation and\nintegration (2 Hours)",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Solution of Ordinary Differential Equations (7 Hours)\nInitial Value Problems: Euler’s method; Runge-Kutta methods; Multistep\nmethods (Adams-Bashforth and Adams-Moulton methods).\nBoundary Value Problems: Shooting method; Finite difference method.\nSolving ODEs using Python (2 Hours)",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction",
+            "Key Issues for Locomotion",
+            "Wheeled Mobile Robots",
+            "Wheeled Locomotion: The Design Space",
+            "Wheeled Locomotion: Case Studies",
+            "Legged Mobile Robots - Leg Configurations and Stability",
+            "Examples of Legged Robot Locomotion",
+            "Aerial Robots",
+            "Underwater Robots and Surface Water Robots"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sensor Classification",
+            "Characterizing Sensor Performance",
+            "Wheel/Motor Sensors",
+            "Heading Sensors",
+            "Accelerometers",
+            "IMUs",
+            "Ground-Based Beacons",
+            "Active Ranging",
+            "Motion/Speed Sensors",
+            "Robot Vision: Sensing",
+            "Pre-Processing",
+            "Segmentation",
+            "Description",
+            "Recognition",
+            "Interpretation",
+            "Feature Extraction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction",
+            "Kinematic Models and Constraints - Representing Robot Position",
+            "Forward Kinematic Models",
+            "Wheel Kinematic Constraints for Fixed Standard Wheel",
+            "Steered Standard Wheel and Castor Wheel Only",
+            "Robot Kinematic Constraints",
+            "Examples of Robot Kinematic Models and Constraints: Differential-Drive Robot Only",
+            "Mobile Robot Maneuverability - Degree of Mobility",
+            "Degree of Steerability",
+            "Robot Maneuverability",
+            "Mobile Robot Workspace - Degrees of Freedom",
+            "Holonomic Robots"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Robot Localization: Challenges in Localization",
+            "An Error Model for Odometric Position Estimation",
+            "Localization-Based Navigation versus Programmed Solutions",
+            "Belief Representation - Single-Hypothesis Belief",
+            "Multiple-Hypothesis Belief",
+            "Markov versus Kalman Localization (Basics Only)",
+            "Path Planning: Local vs Global Path Planning",
+            "Joint Space versus Cartesian Space Trajectory Planning",
+            "Cubic Polynomial and LSPB Methods of Joint Space Trajectory Planning",
+            "Graph Search",
+            "Dijkstra's Algorithm",
+            "D* Algorithms",
+            "Potential Field Based Path Planning",
+            "Bug Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

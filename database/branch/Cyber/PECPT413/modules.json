@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Definition and examples of CPS, Integration of computing, networking, and\nphysical elements in CPS.\nUnique vulnerabilities and attack surfaces in CPS.\nCIA triad (Confidentiality, Integrity, Availability) in CPS, Security goals\nand principles tailored to CPS.\nIdentifying threats and assessing risks specific to CPS, Risk mitigation\nstrategies for CPS environments.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Principles of defense-in-depth in CPS, Security by design approaches for\nCPS architectures.\nImplementing authentication mechanisms in CPS, Role-based access\ncontrol (RBAC) and other access control models in CPS.\nSymmetric and asymmetric encryption in CPS, Key management\nconsiderations for secure communication in CPS.\nSecure coding guidelines for CPS, Testing methodologies (unit testing,\nintegration testing) for secure CPS applications.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "MQTT, CoAP, and other protocols used in CPS, Securing data in transit and\nat rest in CPS environments.\nImplementing VLANs and subnetting for network security in CPS,\nValidating network segmentation strategies in CPS.\nSignature-based vs. anomaly-based detection in CPS, Deploying IDPS\nsolutions tailored to CPS environments.\nImportance of logging and monitoring for detecting security incidents in\nCPS, Tools and techniques for effective monitoring in CPS.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Developing incident response plans (IRPs) specific to CPS, Incident\nhandling and escalation procedures in CPS environments.\nConducting penetration testing and vulnerability assessments in CPS,\nImportance of responsible disclosure policies in CPS security.\nIntegrating security into the development lifecycle of CPS projects,\nContinuous improvement and adaptation of CPS security practices.\nOverview of cybersecurity standards applicable to CPS, Compliance\nconsiderations in CPS deployments.",
+    "contact_hours": "9"
+  }
+]

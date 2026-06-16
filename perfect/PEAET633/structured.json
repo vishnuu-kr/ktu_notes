@@ -1,0 +1,44 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Digital signals & coding, data conversion & quantization, sample and hold devices. Mathematical modelling of the sampling process, Design of maximum sampling frequency of digital systems in terms of the sensor delay",
+            "Data reconstruction and filtering of sampled signals: Zero Order hold & First order Hold"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Discrete Time Control Systems Pulse transfer function, Z transform analysis of closed loop and open loop systems- Steady state error analysis of digital systems- Examples on static error coefficients. Bilinear transformation",
+            "mapping from s-plane to z-plane"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Analysis of Discrete Time Control Systems Stability analysis of linear digital control systems",
+            "Routh Hurwitz criteria, Jury’s test. Root loci of digital control systems",
+            "rules for construction of root locus. Frequency domain analysis",
+            "Bode plots- Gain margin and Phase margin"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "State Space Analysis State space representation of discrete time systems- State space model-various canonical forms from transfer function",
+            "Conversion of transfer function model to state space model",
+            "Discrete time State transition matrix",
+            "Solution of discrete state equations",
+            "Controllability and Observability",
+            "Pole placement using state feedback"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

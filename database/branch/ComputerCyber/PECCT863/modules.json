@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of Mobile App and Mobile Interface\nMobile Systems Overview, Mobile Interface and Application Optimizations,\nMobile Embedded System Basics, Mobile Cloud Computing Concepts, Big\nData Applications in Mobile Systems, Data Security and Privacy Protection in\nMobile Systems, Introduction to Mobile Apps (Android Focus), Android\nFramework Setup, Key Concepts of Android: App Components, Resources,\nManifest\nCase Study: Snapchat Data Breach (2014) - Analysing the vulnerabilities in\nmobile systems that led to privacy violations, focusing on how improper data\nsecurity and privacy protection practices contributed to the breach.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "2D Graphics and Multimedia in Android Introduction to 2D Graphics\nTechniques in Android, Advanced UI Design, Multimedia in Android: Audio\nand Video Implementation\nMobile Embedded System Architecture\nEmbedded Systems Architecture, Scheduling Algorithms: FCFS, SJF,\nMultiprocessor, Priority Scheduling, Memory Technology in Mobile\nSystems, Messaging and Communication Mechanisms\nCase Study: Stagefright Vulnerability in Android (2015) - Examination of\nhow multimedia components, particularly Android’s handling of video,\nopened vulnerabilities for remote code execution attacks.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Data storage and SQLite Operations\nInternal and External Storage in Android, Secure File Management: Saving,\nDeleting,\nand\nQuerying\nSpace\nSQLite Database: Table Structure and CRUD Operations, Secure SQLite\nOperations, Content Provider and Secure Data Access\nCase Study: Evernote Security Breach (2013) - Focus on how weak data\nstorage security led to breaches in a popular note-taking app, and how secure\nSQLite operations could have mitigated the attack.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Mobile Cloud Computing in Mobile Applications Deployment\nMobile Cloud Computing Concepts, Differences Between Cloud and Mobile\nCloud\nComputing\nMobile Computing Architecture: Wireless LAN, WAN, Cellular Networks\nTechniques for Mobile Cloud: Virtualization, Parallel Programming,\nDistributed Storage, Mobile Cloud Computing Architecture, Security\nChallenges in Mobile Cloud, Best Practices for Secure Mobile App\nDeployment\nCase Study: iCloud Hack (2014) - Analysis of how mobile cloud security\nvulnerabilities exposed user data and what strategies could be used to prevent\nsuch breaches in mobile cloud environments.",
+    "contact_hours": "9"
+  }
+]

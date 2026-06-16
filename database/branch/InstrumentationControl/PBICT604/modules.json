@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Design of Cascade Compensators (10 Hours)\nDominant pole; realisation of basic compensators: lead, lag, lag, and lag-\nlead compensator.\nCascade compensation using root-locus: lead, lag, and lead-lag\ncompensation.\nCascade compensation using bode plot: lag, lead, and lag-lead compensation.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "State Space Modelling of Continuous Linear Time-Invariant Systems\n(9 Hours)\nConcept of state, state variable, state vector and state space; State models\nfor linear continuous-time systems; State variable representation of\ncontinuous-time systems using physical variables.\nTransfer function from state variable model; transformation of state\nvariables and invariance property.\nState space representation using phase variable (state space\nrepresentation from transfer function): Controllable canonical form,\nobservable canonical form, Jordan Canonical Form.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "State Variable Analysis of Continuous LTI Systems (8 Hours)\nSolution of state equation; state transition matrix; properties of state\ntransition matrix.\nComputation of the state transition matrix using Lyapunov’s\nMethod and Cayley Hamilton theorem; Response of homogeneous and\nnon-homogeneous state-space model.\nConcept of controllability and observability; Kalaman test.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "State Variable Design (Continuous) (6 Hours)\nDesign of state variable feedback if the given model is in the controllable\ncanonical form; design of arbitrary state variable feedback if the given\nmodel is not in controllable canonical form.\nDesign of full order state observer; application of duality Principle;\nconcept of reduced order state-observer.\nStability analysis of Continuous LTI Systems using Phase Plane\nMethod (3 Hours)\nSingular points, classification of singular points.\nSuggestion on Project Topics",
+    "contact_hours": "9"
+  }
+]

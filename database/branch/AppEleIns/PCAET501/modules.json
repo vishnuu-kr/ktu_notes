@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "System modelling - Introduction to control systems, Classification of\ncontrol systems.\nOpen loop and closed loop control systems, Transfer function, Poles and\nZeros,\nMathematical\nmodelling\nof\nelectrical,\nmechanical\nand\nelectromechanical system, Block diagram reduction techniques, Signal flow\ngraph, Mason’s gain formula.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Time domain analysis - Standard test signals, Response of first and second\norder systems to impulse and step inputs.\nTime domain specifications - Delay time, rise time, peak time, maximum\npercentage overshoot and settling time. Steady state response - Steady state\nerror- Static & Dynamic error coefficients.\nConcept of stability: Routh-Hurwitz method for stability analysis.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Stability analysis in time domain\nRoot locus - Construction of root locus, Effect of addition of poles and zeros.\nFrequency domain analysis - Frequency response,  Frequency domain\nspecifications, Stability in the frequency domain, Nyquist stability criterion,\nStability analysis using Polar and Bode plots, relative stability,  Gain margin\nand phase margin.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "State variable analysis: State space representation of Continuous Time\nsystems. Transfer function from State Variable Representation, Solution of\nstate equations, state transition matrix, Controllability and Observability -\nKalman’s Test.",
+    "contact_hours": "11"
+  }
+]

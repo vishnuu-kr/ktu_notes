@@ -1,0 +1,1091 @@
+Course Code 
+PBEVT504 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBECT304, 
+PBECT404  
+ 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To design an embedded electronic circuit and implement the same 
+2. To develop system using ARM processor and its peripherals 
+3. Implement and maintain applications written in Embedded C 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+1.1 Complex Systems and Microprocessors  
+Embedding 
+Computers, 
+Characteristics 
+of 
+Embedded 
+Computing 
+Applications, Application of Microprocessors, The Physics of Software, 
+Challenges in Embedded Computing System, Characteristics and quality 
+attributes of an embedded system, Performance in Embedded Computing  
+1.2 The Embedded System Design Process  
+Requirements, Specification, Architecture Design, Designing Hardware and 
+Software Components, System Integration.  
+1.3 Formalisms for System Design  
+Structural Description, Behavioral Description, An embedded system design 
+example.  
+1.4 Embedded product development cycle (EDLC)  
+Different phases of EDLC, EDLC models 
+     10  
+2 
+2.1 Communication devices  
+Serial Communication Standards and Devices - UART, HDLC and SPI. 
+Serial Bus Protocols - I2C Bus, CAN Bus and USB Bus. Parallel 
+communication standards ISA, PCI and PCI-X Bus.  
+     10 
+
+ 
+ 
+2.2 Memory  
+Memory devices and systems – ROM-Flash, EEPROM,RAM-SRAM, 
+DRAM, Cache memory, memory mapping and addresses, memory 
+management unit– DMA . 
+2.3 Interrupts/Device Driver  
+Interrupts--Interrupt sources, recognizing an interrupt, ISR – Device drivers 
+for handling ISR, Interrupt latency. 
+3 
+3.1 ARM Processor architecture  
+The Acorn RISC Machine, Architectural inheritance, The ARM 
+programmer's model, ARM development tools.  
+3.2 ARM Assembly Language Programming  
+Data processing instructions, Data transfer instructions, Control flow 
+instructions, writing simple assembly language programs.  
+3.3 ARM Organization and Implementation  
+Three stage pipeline ARM organization, five stage pipeline ARM 
+organization, ARM  
+instruction execution, ARM implementation, The ARM coprocessor 
+interface 
+10  
+4 
+4.1 Architectural Support for High-Level Languages  
+Abstraction in software design, Data types, Floating-point data types, The 
+ARM floating-point architecture, Expressions, Conditional statements, 
+Loops, Functions and procedures, Assembly and C language programming 
+applications of embedded systems. 
+4.2 Architectural Support for System Development  
+The ARM memory interface, The Advanced Microcontroller Bus 
+Architecture (AMBA).  
+4.3 Operating system basics  
+ Functions of OS, Kernel, types of operating systems.  
+4.4Introduction to Real time operating systems  
+Tasks, process, threads, multiprocessing and multitasking, task scheduling, 
+task communication, choosing an RTOS 
+10  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Suggestion on Project Topics 
+1. Design and Implementation of ARM Cortex Based Motor Speed Control 
+2. ARM7 Processor based Auto Ignition control in automobiles 
+3. ARM Processor-based Real-time Car Theft Detection 
+4. Automated Irrigation system using ARM processor 
+5. ARM processor based Industrial Automation using GSM/Wi-Fi 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+ 
+ 
+ 
+ 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 2 marks 
+(8x2 =16 marks) 
+ 
+2 questions will be given from each module, out 
+of which 1 question should be answered. Each 
+question can have a maximum of 2 sub divisions. 
+Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+ Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Embedded Systems 
+Architecture, Programming 
+and Design
+Raj kamal 
+TMH 
+2nd 
+edition,2003 
+2 
+Introduction to Embedded 
+Systems 
+K.V Shibu 
+McGraw Hill 
+Education India
+2nd 
+edition,2016 
+3 
+ Computers as Components: 
+Principles of Embedded 
+Computing System Design
+Wayne Wolf 
+Morgan Kaufman 
+Publishers - Elsevier 
+3rd 
+edition,2008 
+4 
+ARM system-on-chip 
+architecture
+Steve Furber 
+Addison Wesley 
+2nd 
+edition,2000 
+ 
+Course Outcome 
+Bloom’s Knowledge
+Level (KL) 
+CO1 
+Understand the embedded system fundamentals and system design 
+K1 
+CO2 
+Understand the peripheral devices and their interfacing with 
+the processor.  
+K2 
+CO3 
+Understand the ARM processor architecture and pipeline processor 
+organization. 
+K2 
+CO4 
+Write programs in assembly and high-level languages for ARM 
+processor. 
+K3 
+CO5 
+Understand the basics of real time operating systems and their use in 
+embedded systems.  
+K2 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+3 
+3 
+2 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+2 
+2 
+CO2 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+CO3 
+3 
+3 
+ 
+2 
+2 
+ 
+2 
+ 
+2 
+ 
+ 
+2 
+CO4 
+3 
+3 
+ 
+2 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+3 
+2 
+2 
+ 
+2 
+ 
+2 
+ 
+ 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+An Embedded Software 
+Primer
+David E. Simon 
+Pearson Education 
+Asia
+1st 
+Edition,2000
+2 
+Embedded Systems Design 
+Steve Heath 
+Newnes – Elsevier 
+2nd 
+Edition,2002
+3 
+Embedded Systems 
+Architecture, A 
+Comprehensive Guide for 
+Engineers and Programmers 
+Tammy Noergaard, 
+Newnes – Elsevier 
+2nd 
+Edition,2012 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/108/102/108102169/ 
+2 
+https://onlinecourses.nptel.ac.in/noc22_cs93/preview 
+3 
+https://archive.nptel.ac.in/courses/108/102/108102169/ 
+4 
+https://archive.nptel.ac.in/courses/106/105/106105172/ 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery 
+Project identification 
+Simulation/ 
+Laboratory Work/ 
+Workshops 
+Presentation 
+(Progress and Final Presentations) 
+Group discussion 
+Project Analysis 
+Data Collection 
+Evaluation 
+Question answer 
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical thinking and 
+self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project reformation (If required) 
+Guest Speakers 
+(Industry Experts) 
+Case Study/ Field Survey 
+Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 5 
+minutes video 
+ 
+
+ 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+1. Project Planning and Proposal (5 Marks) 
+● Clarity and feasibility of the project plan  
+● Research and background understanding  
+● Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+● Individual contribution to the presentation  
+● Effectiveness in answering questions and handling feedback  
+3. Involvement in the Project Work and Team Work (3 Marks) 
+● Active participation and individual contribution  
+● Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+● Adherence to the project timeline and milestones  
+● Application of theoretical knowledge and problem-solving  
+● Final Result 
+5. Final Presentation (5 Marks) 
+● Quality and clarity of the overall presentation  
+● Individual contribution to the presentation  
+● Effectiveness in answering questions 
+
+ 
+ 
+ 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+● Overall quality and technical excellence of the project  
+● Innovation and originality in the project  
+● Creativity in solutions and approaches
+
+ 
+ 
+SEMESTER S5 
+ANALOG AND DIGITAL COMMUNICATION 
+ 
+Course Code 
+PEEVT 521 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GBMAT401 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+ 
+1. This course aims to develop analog and digital communication systems 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Block diagram of a communication system. Need for modulation. 
+Amplitude modulation, Equation and spectrum of AM signal, DSB-SC, 
+SSB. Angle modulation: Narrow and wide band FM and their spectra, 
+relationship between FM and PM, Carson’s rule Comparison of AM and 
+FM.  
+  Noise: external, internal, White noise. 
+9 
+2 
+Sampling and Quantization, Companding- A and mu-law companders. 
+Pulse code modulation, Transmitter and receiver. DPCM transmitter and 
+receiver. Delta modulation, Slope overload, 
+9 
+3 
+Baseband data transmission of digital data through AWGN channel, 
+Mathematical model of ISI, Nyquist criterion for zero ISI, Signal 
+modelling for ISI, Raised cosine spectrum,  
+Vector model of AWGN channel.  
+Matched filter and correlation receivers 
+9 
+
+ 
+ 
+4 
+Digital band pass modulation schemes-BPSK system and signal 
+constellation. BPSK transmitter and receiver. QPSK system and Signal 
+constellations. Plots of BER Vs SNR with analysis. QPSK transmitter and 
+receiver. Quadrature amplitude modulation and signal constellation 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks,ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Illustrate the principles of analog communication systems 
+K2 
+CO2 
+Explain the basic concepts of digital communication 
+K2 
+CO3 
+Analyse the baseband transmission of digital data through AWGN channel 
+K3 
+CO4 
+Apply various digital modulation techniques in the design of digital 
+communication systems 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+- 
+- 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO2 
+3 
+- 
+- 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO3 
+3 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO4 
+3 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO5 
+3 
+- 
+- 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+ 
+ 
+Text Books 
+Sl. 
+No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and Year 
+1 
+Communication 
+Systems
+Simon Haykin 
+John Wiley& Sons
+4th Edition, 2015 
+2 
+Principles of 
+Communication 
+Systems 
+Herbert Taub and Donald L. 
+Schilling 
+McGraw-Hill 
+Education 
+4th Edition, 2013 
+3 
+Communication 
+Systems 
+Engineering 
+John G. Proakis and Masoud 
+Salehi 
+Pearson 
+2nd Edition, 2002 
+4 
+Electronic 
+communication 
+systems 
+George Kennedy 
+McGraw Hill 
+6th Edition, 2017 
+ 
+McGraw Hill 
+6th Edition, 2017 
+ 
+George Kennedy 
+McGraw Hill 
+6th Edition, 2017 
+5 
+Digital 
+Communications 
+Simon Haykin 
+John Wiley& Sons
+4th Edition, 2015 
+6 
+Digital 
+Communications: 
+Fundamentals 
+and Applications
+Bernard Sklar, 
+Pabitra Kumar Ray 
+Pearson 
+2nd Edition 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Modern Digital and Analog 
+Communication Systems 
+B. P. Lathi, Zhi Ding 
+Oxford University 
+Press. 
+4th 
+edition, 
+2 
+Communication systems 
+A Bruce Carlson Paul B 
+Crilly 
+Mc Graw Hill 
+4th 
+Edition 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://www.youtube.com/watch?v=s_vmLqT_6NQ 
+2 
+ttps://archive.nptel.ac.in/courses/117/105/117105143/  
+3 
+https://www.youtube.com/watch?v=lwt2BnOUaQY 
+4 
+https://www.youtube.com/watch?v=hTAlcrqjNps 
+
+ 
+ 
+SEMESTER S5 
+RENEWABLE ENERGY SYSTEMS 
+ 
+Course Code 
+PEEVT 522 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Understand 
+the 
+environmental 
+issues 
+with 
+conventional 
+fuels, 
+the 
+new 
+methodologies/technologies for the effective utilization of renewable energy sources. 
+2. Familiarize   with the characteristics of solar PV and wind power sources 
+3. Understanding of electronic conversion systems application to renewable energy generation 
+systems and the synchronization with smart grid systems.  
+4. Equip the students to pursue further specialized areas of study such as renewable energy and 
+green consumer electronics, industrial control systems and smart grid, and renewable energy 
+system. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Renewable Energy (RE)Sources: World energy scenario, 
+Over view of conventional energy sources, their limitation, need of 
+renewable energy, potential & development of renewable energy sources 
+,Renewable energy in India, An overview of types of renewable energy 
+systems - Wind power, Hydropower (micro and mini), Solar energy, 
+Biomass, Bio-fuel, Geothermal Heat energy, Pros and cons; Applications 
+9 
+2 
+Solar Energy: Introduction to photovoltaic (PV) systems - Principle of 
+PV conversion; Commercial solar cell, Thin film PV device fabrication 
+- LPCVD, APCVD, PECVD; Tandem Solar cell fabrication; Solar 
+power extraction using PV-Cells, I-V Characteristics, PV-Inverters 
+without D.C. to D.C. converters, stand alone and grid collected PV 
+9 
+
+ 
+ 
+systems, Grid interfacing-with isolation, without isolation, Maximum 
+power point tracking- Methods(MPPT), PV-Inverters with D.C. to 
+D.C. converters-on low frequency side and high frequency side with 
+isolation, without isolation. 
+3 
+Wind Energy: Sources and potentials, Evaluation of Wind Intensity, 
+Topography, General Classification of Wind Turbines-Rotor Turbines, 
+Multiple-Blade Turbines, Drag Turbines, Lifting Turbines, System 
+Toroidal Rotor Amplifier Platform  (TARP)–Wind amplified rotor 
+platform (WARP), Generators and speed control used in wind power 
+energy: Fixed speed with capacitor bank, Rotor resistance control, 
+SCIG and DFIG, Synchronous Generator- external magnetized, 
+Synchronous Generator-permanent magnets. 
+9 
+4 
+Introduction to grid connectivity of RE systems, smart grid and emerging 
+technologies, operating principles and models of smart gird components, key 
+technologies for generation, networks, loads and their control capabilities; 
+Evolution of electricity metering, key components of smart metering, 
+overview of the hardware used for smart meters, smart metering protocols. 
+Structure and main components of a distribution management system, 
+Supervisory control and data acquisition (SCADA), distribution system 
+modelling, new trends for smart grids, topology analysis, power flow 
+analysis 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+
+ 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the need, importance and scope of various 
+Non-Conventional sources of energy 
+K2 
+CO2 
+Outline the concepts and technologies related to renewable energy 
+systems using Solar-PV 
+K2 
+CO3 
+Outline the concepts and technologies related to renewable energy 
+systems using wind 
+K2 
+CO4 
+Understand the integration of smart grid with renewable energy systems 
+and the fundamentals of Smart metering 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 PO12 
+CO1 
+2
+ 
+ 
+ 
+ 
+ 
+2
+ 
+ 
+ 
+ 
+1
+CO2 
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Solar Energy: Principles of 
+Thermal Collection and Storage 
+Nayak J. K. and 
+Sukhatme S. P. 
+Tata McGraw Hill. 
+ 
+2006 
+2 
+Power Electronics: Circuits, 
+Devices and Applications 
+Muhannad H. R 
+Pearson Prentice Hall 
+2004 
+3 
+Smart Grid Technology and 
+Applications 
+Nick Jenkins, 
+JanakaEkanayake, [et 
+al.] 
+Wiley India Ltd 
+2012 
+4 
+Design of Smart Power Grid 
+Renewable Energy Systems 
+Ali Keyhani 
+Wiley-IEEE Press 
+2016 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Non-Conventional Energy 
+Sources 
+G.D. Rai 
+Khanna Publishers 
+2017 
+2 
+Renewable Energy 
+Technologies 
+Ramesh & Kumar 
+Narosa Publishing 
+House 
+2018 
+3 
+Integration of alternative 
+sources of energy 
+Felix A. Farret, M. 
+Godoy simoes 
+Wiley-IEEE Press 
+2006 
+4 
+Wind power plants and 
+projects developments 
+Joshua Earnest and T 
+Wizelius 
+PHI, New Delhi 
+2011 
+5 
+Handbook of renewable 
+energy technology 
+Ahmed F Zobba, 
+Ramesh C Bansal 
+World Scientific, 
+Singapore 
+2011 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://youtu.be/mh51mAUexK4?si=9O7PpRIU2ARBAVvV 
+2 
+https://youtu.be/5zAQot4pKgU?si=NH-k7lmY2ErQ5s73 
+3 
+https://youtu.be/bA-yMfHPazI?si=14PgB-_4stG9FdGC 
+4 
+https://youtu.be/vEFWXyOIYmU?si=q8UmAYoZOL0bW4_H 
+
+ 
+ 
+SEMESTER S5 
+GRAPH THEORY

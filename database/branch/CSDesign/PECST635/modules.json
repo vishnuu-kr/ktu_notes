@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction - Limitations of Traditional Computing & solution, Three\nLayers of Computing, Factors behind Cloud Service Adoption; Evolution\nand Enabling Technologies of Cloud; Benefits and Challenges; [Text 2]\nFundamental Concepts and Models - Roles and Boundaries, Cloud\nCharacteristics, Cloud Delivery Models, Cloud Deployment Models; [Text\n1] Introduction to Cloud Providers (AWS, Azure, Google Cloud).\nHandson - Cloud Account Setup and Virtual Machine Deployment - Create\naccounts on a cloud provider and deploy virtual machine instances, and\ndocument the process and inferences.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Cloud-Enabling Technology - Networks and Internet Architecture, Cloud\nData Center Technology, Modern Virtualization, Multitenant Technology,\nService Technology and Service APIs; Understanding Containerization -\nInfluencers,\nFundamental\nVirtualization\nand\nContainerization,\nUnderstanding Containers, Understanding Container Images, Multi-\nContainer Types.[Text 1]\nHandson - Hypervisor and Containers installation - Install hypervisors and\ndeploy VMs on local machines. Install any container platform and deploy\napplications.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Resource Management - Resource Pooling, Sharing, Provisioning;  Scaling\nin Cloud and the Strategies; Capacity Planning in Cloud Computing; Storage\nand File System - Challenges; Cloud Native File System, Deployment\nmodels, Storage Types, Popular Cloud Storages. High performance\nComputing Models.[Text 2]\nHandson - Use Map-reduce to implement basic big data applications such as\nword count.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Understanding Cloud Security - Basic Security Terminology, Basic Threat\nTerminology, Threat Agents, Common Threats; Other Considerations -\nFlawed Implementations, Security Policy Disparity, Contracts, Risk\nManagement.[Text 1]\nHandson : Identify possible attacks of any selected cloud applications and\nsuggest/implement solutions/policies for mitigation.",
+    "contact_hours": "9"
+  }
+]

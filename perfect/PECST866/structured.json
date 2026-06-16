@@ -1,0 +1,54 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Speech Production :- Acoustic theory of speech production",
+            "Source/Filter model - Pitch, Formant",
+            "Spectrogram- Wide and narrow band spectrogram",
+            "Discrete model for speech production",
+            "Short-Time Speech Analysis",
+            "Windowing",
+            "STFT",
+            "Time domain parameters (Short time energy, short time zero crossing Rate, ACF",
+            "Frequency domain parameters - Filter bank analysis",
+            "STFT Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Mel-frequency cepstral coefficient (MFCC)- Computation",
+            "Pitch Estimation ACF/AMDF approaches",
+            "Cepstral analysis - Pitch and Formant estimation using cepstral analysis",
+            "LPC Analysis - LPC model",
+            "Auto correlation method - Levinson Durbin Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Speech Enhancement :- Spectral subtraction and Filtering, Harmonic filtering, Parametric resynthesis",
+            "Speech coding - fundamentals, class of coders : Time domain/spectral domain/vocoders, Sub band coding, adaptive transform coding, phase vocoder",
+            "Speaker Recognition :- Speaker verification and speaker identification, log-likelihood",
+            "Language identification - Implicit and explicit models",
+            "Machine learning models in Speaker Recognition"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Signal Processing models of audio perception - Basic anatomy of hearing System, Basilar membrane behaviour",
+            "Sound perception - Auditory Filter Banks, Critical Band Structure, Absolute Threshold of Hearing",
+            "Masking -Simultaneous Masking, Temporal Masking",
+            "Models of speech perception"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

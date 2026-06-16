@@ -1,0 +1,54 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to ANN and CNN Overview of biological neuron",
+      "concept of Perceptrons",
+      "Multi-Layer Perceptrons (MLPs) Activation functions - Sigmoid Relu and Softmax. Loss functions-Mean Squared Error",
+      "Cross Entropy Convolutional Neural Networks - Convolution operation. CNN Architecture - convolutional layers",
+      "kernels",
+      "padding",
+      "pooling layers",
+      "fully connected layers"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Training CNNs - Back-propagation and initialization Optimization algorithms - SGD",
+      "Adam Hyper parameter optimization-Learning rate Regularization methods -L1",
+      "L2 regularization",
+      "dropout",
+      "Data Augmentation",
+      "Early stopping",
+      "batch normalization Introduction to Transfer learning"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Sequence Models Recurrent Neural Networks (RNN",
+      "cell structure and architecture. Training RNN",
+      "back propagation through time, vanishing and exploding gradients. Architecture of Long Short-Term Memory (LSTM) Architecture of Gated Recurrent Units (GRU"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Detailed mathematical treatment not required for this module) Introduction to Generative Models GANs - adversarial training. Discriminator",
+      "Generator. Introduction to Transformer models - architecture",
+      "word embedding",
+      "position encoding",
+      "attention",
+      "basics of training transformer models. Basics of Large language model - GPT"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

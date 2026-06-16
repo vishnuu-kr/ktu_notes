@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to ML:\nMachine Learning vs. Traditional programming, Machine learning\nparadigms - supervised, semi-supervised, unsupervised, reinforcement\nlearning.\nBasics of parameter estimation - maximum likelihood estimation\n(MLE)\nand\nmaximum\naposteriori\nestimation\n(MAP),\nBayesian\nformulation, Least Square Estimation (LS), Minimum Mean Square\nEstimation (MMSE), The Gradient Descent Method and its variants\n(Simple Gradient Descent Method, Stochastic Gradient Method, Batch\nGradient Method), Illustrative examples of parameter estimation using\ndifferent methods.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Supervised Learning Models:\nRegression - Regression Models (Simple Regression, Multivariable\nlinear Regression, Polynomial Regression, Logistic Regression),\nIllustrative examples of designing regression models.\nDecision Trees:\nWorking Principle, Decision Tree formation using\nID3 Algorithm, The Classification and Regression Trees Algorithm\n(CART).\nIllustrative\nexamples\non\ndesigning\ndecision\ntrees.\nGeneralisation and Overfitting: Idea of overfitting, LASSO and\nRIDGE\nregularization,\nIdea\nof\nTraining,\nTesting,\nValidation.\nDimensionality\nreduction:\nPrincipal\nComponent\nAnalysis,\nMultidimensional scaling.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Clustering:\nSimilarity\nmeasures,\nHierarchical\nClustering\n-\nAgglomerative\nClustering, partitional clustering, K-means clustering.\nNaive Bayes Classifier - Working Principle, Types of Naive Bayes\nClassifiers, Illustrative examples.\nMore Supervised Learning Methods:\nSupport Vector machines (SVM) - Maximum Margin Classification,\nMathematics behind Maximum Margin Classification, Hard Margin\nSVM, Soft Margin SVM, Non-Linear SVM, The Kernel Trick,\nDifferent Kernel Functions (Linear Kernel, Polynomial Kernel, RBF\nKernel, Sigmoid Kernel).",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Ensemble Learning:\nBasic\nTechniques\n(Voting,\nSimple\nand\nWeighted\nAveraging\nTechniques), Advanced Techniques (Bagging, Boosting, Stacking) -\nThe Random Forest Classifier.\nResampling methods: Bootstrapping, Cross Validation. Practical\naspects -Bias-Variance trade-off\nAssessment of Classification Models:\nPerformance measures- Confusion Matrix, Accuracy, Precision, Recall,\nF1-Score, Receiver Operating Characteristics Curve (ROC), Area\nUnder the Curve (AUC), Illustrative examples on Classification model\nassessment.\nSuggestion on Project Topics\nStudents may identify a real-life problem that can be solved using the concepts of machine\nlearning. They may either use a standard dataset or build their own, for the purpose of applying\nmachine learning algorithms. Besides, they may make use of various evaluation parameters to\nmeasure the efficiency of the methods.\nA few sample questions are given below.\n1. Classification of Handwritten Digits: Classify handwritten digits (0-9) from the MNIST\ndataset using various machine learning algorithms and compare their performance. This will\ninvolve preprocessing the data, applying different classification techniques and using ensemble\nmethods to improve accuracy.\n2. Predicting Student Examination Performance Based on Internal Marks: Develop a real life\ndataset using the historical data of your institution. Use various machine learning algorithms\nto build models to predict students’ final examination scores based on their internal assessment\nmarks and evaluate their performance. Use ensemble methods to improve accuracy of\nprediction. Also, segment the students using clustering techniques to identify potential students\nat academic risk so that the educators can make timely interventions.",
+    "contact_hours": "8"
+  }
+]

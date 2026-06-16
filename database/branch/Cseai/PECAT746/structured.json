@@ -1,0 +1,74 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to R:The R Environment - Overview",
+      "Command Line Interface",
+      "and Batch processing. R Packages. Basic Data Types - Vectors",
+      "Lists",
+      "Data Frames",
+      "Matrices",
+      "and Arrays. Control Statements - If-Else",
+      "Switch",
+      "For loops",
+      "While loops. Functions - Writing and using functions",
+      "Scope of variables",
+      "Function arguments",
+      "Returning values"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Data Import",
+      "Cleaning",
+      "and Preprocessing:Data Import and Export - Reading and writing data from/to Text files",
+      "Excel",
+      "and other software. Database Connections - Connecting to databases and importing data using packages. Handling Missing Data - NA",
+      "NULL values. Data Cleaning and Preprocessing - Detecting and removing duplicates",
+      "Handling outliers",
+      "Data transformation and normalization",
+      "combining data sets",
+      "Binning Data",
+      "Subsets",
+      "summarizing functions"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Statistical Analysis and Data Visualization:Introduction to Data analytics",
+      "Summary statistics",
+      "Statistical Tests - Continuous Data and Discrete Data. Common distributions-type arguments. Probability distributions - Normal distributions. R Graphics - Overview",
+      "Customizing Charts",
+      "Graphical parameters",
+      "Basic Graphics functions. Lattice Graphics - Lattice functions",
+      "Customizing Lattice Graphics",
+      "Ggplot"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Machine Learning with R:Basic concepts",
+      "Supervised vs. Unsupervised learning",
+      "Simple regression",
+      "and classification models. Building linear models - model fitting",
+      "predict values using models",
+      "Analyzing the fit",
+      "Refining the model. Regression - Types",
+      "Unusual observation and corrective measures",
+      "Comparison of models. Case Studies and Applications - Real-world applications of R in various fields like finance",
+      "healthcare",
+      "and social sciences"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

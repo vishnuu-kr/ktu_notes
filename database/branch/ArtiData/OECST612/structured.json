@@ -1,0 +1,79 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Communication model - Simplex",
+      "Half duplex",
+      "Full duplex transmission. Periodic analog signals - Sine wave",
+      "Amplitude",
+      "Phase",
+      "Wavelength",
+      "Time and frequency domain",
+      "Bandwidth. Analog & digital data and signals. Transmission impairments - Attenuation",
+      "Delay distortion",
+      "Noise. Data rate limits - Noiseless channel",
+      "Nyquist bandwidth",
+      "Noisy channel",
+      "Shannon's capacity formula. Guided transmission media - Twisted pair",
+      "Coaxial cable",
+      "Optical fiber. Unguided media - Radio waves",
+      "Terrestrial microwave",
+      "Satellite microwave",
+      "Infrared. Wireless propagation - Ground wave propagation",
+      "Sky wave propagation",
+      "Line-of-Sight (LoS) propagation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Digital data to digital signal - Non-Return-to-Zero (NRZ",
+      "Return-to-Zero (RZ",
+      "Multilevel binary",
+      "Biphase. Analog data to digital signal - Sampling theorem",
+      "Pulse Code Modulation (PCM",
+      "Delta Modulation (DM). Digital data to analog signal - Amplitude Shift Keying (ASK",
+      "Frequency Shift Keying (FSK",
+      "Phase Shift Keying (PSK). Analog data to analog signal -Amplitude Modulation (AM",
+      "Frequency Modulation (FM",
+      "Phase Modulation (PM"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Multiplexing - Frequency Division Multiplexing (FDM",
+      "Wavelength Division Multiplexing (WDM",
+      "Time Division Multiplexing (TDM",
+      "Characteristics",
+      "Synchronous TDM",
+      "Statistical TDM. Spread spectrum techniques - Direct Sequence Spread Spectrum (DSSS",
+      "Frequency Hopping Spread Spectrum (FHSS",
+      "Code Division Multiplexing",
+      "Code Division Multiple Access (CDMA"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Digital data communication techniques - Asynchronous transmission",
+      "Synchronous transmission. Detecting and correcting errors - Types of errors",
+      "Parity check",
+      "Checksum",
+      "Cyclic Redundancy Check (CRC",
+      "Forward Error Correction (FEC",
+      "Hamming distance",
+      "Hamming code. Basic principles of switching - Circuit switching",
+      "Packet switching",
+      "Message switching"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Signal Processing: Characterization & classification of\nsignals,typical Signal Processing operations, example of typical signals.\nTime Domain Representation of Signals & Systems: Discrete Time\nSignals, Operations on Sequences, the sampling process, Quantization,\nDiscrete-Time systems, Time Domain characterization of LTI Discrete-\nTime systems, Convolution and impulse response",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Transform-Domain Representation of Signals: Discrete Fourier\nTransform (DFT), DFT properties, computation of the DFT of real\nsequences, Fast Fourier transform (FFT).",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Filtering and Noise Reduction:Types of filters (low-pass, high-pass,\nband-pass, band-stop), Design and implementation of digital filters,\nNoise reduction techniques.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Wavelet Transform: Introduction to wavelets, Continuous wavelet\ntransform (CWT), Discrete wavelet transform (DWT).\nSensor Data Processing: Processing data from cameras, LIDAR, and\nIMUs, Sensor fusion techniques, Real-time data processing.",
+    "contact_hours": "11"
+  }
+]

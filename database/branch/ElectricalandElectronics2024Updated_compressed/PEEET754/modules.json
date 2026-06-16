@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Review of image processing techniques: Digital filters, linear filters-\nHomomorphic filtering, Point operators- Histogram, neighbourhood operators,\nthresholding\nMathematical morphology, Binary shape analysis, Binary shape analysis,\nErosion,\nDilation,\nOpening\nand\nClosing,\nHit-or-Miss\nTransform\n,connectedness, object labelling and counting, Boundary descriptors – Chain\ncodes. Properties of Binary Regions, Geometric Features, Statistical Shape\nProperties",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Feature Detection and Image Synthesis,Edge detection – edges, lines, active\ncontours, Split and merge, Mean shift and mode finding, Normalized cuts,\nGraph cuts, energy- based methods- Cranny’s Algorithm, Corner detection,\nHarris corner detection algorithm. Hough transform-Line and curve detection.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Shape from X - Shape from shading, Photometric stereo, Texture Occluding\ncontour detection. Motion Analysis- Regularization theory,Optical Flow:\nbrightness constancy equation, aperture problem, Horn-Shunck method, Lucas-\nKanade method. Structure from motion",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Object recognition-Shape correspondence and shape matching PCA,SVM,\nLDA, Bayes rule andML methods. Eigen faces,Face detection, Face\nrecognition, Application: Scene analysis Examples of real time applications: In-\nvehicle vision system.",
+    "contact_hours": "9"
+  }
+]

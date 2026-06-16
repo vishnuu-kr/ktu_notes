@@ -1,0 +1,54 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "History of Medical Robots, Classification of Medical Robots, Present Status and Future Trends",
+            "Basic Components of Robotic System, Basic Terminology - Accuracy, Repeatability, Resolution, Degree of Freedom",
+            "Mechanisms and Transmission, End Effectors, Grippers and Different Methods of Gripping",
+            "Mechanical Grippers - Slider Crank Mechanism, Screw Type, Rotary Actuators, Cam Type Gripper, Magnetic Grippers, Vacuum Grippers, Air Operated Grippers",
+            "Specifications of Robots"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Drive Systems and Sensors - Pneumatic Drives, Hydraulic Drives, Mechanical Drives",
+            "Electrical Drives - D.C. Servo Motors, Stepper Motors, A.C. Servo Motors - Salient Features, Applications and Comparison",
+            "Sensors in Robots - Touch Sensors, Tactile Sensors",
+            "Proximity and Range Sensors",
+            "Robotic Vision Sensor",
+            "Force Sensor",
+            "Light Sensors",
+            "Pressure Sensors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Robot Kinematics and Robot Programming - Forward Kinematics, Inverse Kinematics and Difference",
+            "Forward Kinematics and Reverse Kinematics of Manipulators with Two, Three Degrees of Freedom (in 2D), Four Degrees of Freedom (in 3D)",
+            "Jacobians, Velocity and Forces, Manipulator Dynamics, Trajectory Generator, Manipulator Mechanism Design - Derivations and Problems",
+            "Lead Through Programming, Robot Programming Languages - VAL Programming"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Tele-Operated Robot-Assisted Minimally Invasive Surgery",
+            "Robot Design Concepts, Robot-Assisted Image-Guided Interventions: CT, Ultrasound",
+            "Other Applications: Robotic Catheters for Heart Electrophysiology",
+            "Humanoids",
+            "Micro/Nano Robots for Biomedicine - Delivery, Surgery, Sensing, and Detoxification",
+            "Case Studies: Characterization of Gestures to the Design of Robots - Design Methodologies, Technological Choices, Security. Cardiac, Abdominal, and Urologic Procedures with Tele-Operated Robots (3 Procedures Each)",
+            "Neurosurgery and Orthopaedic Surgery with Robots"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

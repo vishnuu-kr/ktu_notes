@@ -1,0 +1,78 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Information Security Introduction",
+            "Threats to Information Systems",
+            "Cyber Security and Security Risk Analysis",
+            "Information Gathering: Reconnaissance",
+            "Reco-ng",
+            "Software Vulnerabilities: Buffer Overflow",
+            "Stack Overflow",
+            "Format String",
+            "Vulnerability Assessment and Penetration Testing: Burpsuite",
+            "Metasploit"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Web Security: Web Attacks, SQL Injection Attacks",
+            "Cross-Site Scripting (XSS)",
+            "Cross-Site Request Forgery (CSRF)",
+            "Domain Name System: Security Issues with DNS",
+            "DNS Attacks",
+            "DNSSEC",
+            "OWASP ZAP",
+            "WebGoat",
+            "Damn Vulnerable Web Application (DVWA)",
+            "Website Mirroring",
+            "HTTRACK",
+            "Email Security: Email Risks",
+            "Protocols",
+            "Operating Safely When Using Email"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Network Security Terminologies",
+            "DDoS",
+            "ARP Spoofing and Session Hijacking",
+            "Capturing the Network Traffic: Promiscuous Mode",
+            "Flooding",
+            "DHCP Redirection",
+            "Redirection and Interception with ICMP",
+            "Port Scanning: TCP and UDP",
+            "Port Scanning Tools: Nmap",
+            "SuperScan",
+            "Wireshark: Analysing and Filtering Traffic"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Windows Security: Attacks Against Windows System",
+            "Installing Applications",
+            "Authentication and Access Control",
+            "Upgrades and Patches",
+            "Operating Windows Safely",
+            "Windows Defender Firewall",
+            "Linux Security: Attacks in Linux System",
+            "Physical Security",
+            "Controlling the Configuration",
+            "Authentication and Access Control",
+            "Upgrades and Patches",
+            "Operating Linux Safely",
+            "SELinux"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

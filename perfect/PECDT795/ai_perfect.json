@@ -1,0 +1,80 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Measures of Query Cost",
+            "Algorithms for Selection with Cost Analysis",
+            "Algorithms for Join with Cost Analysis",
+            "Algorithms for Project and Set Operations",
+            "Evaluation of Expressions",
+            "Heuristics in Query Optimization: Optimization of Relational Algebra Expressions",
+            "Physical Database Design and Tuning: Introduction to Physical Database Design",
+            "Factors Influencing Physical Database Design",
+            "Overview of Database Tuning: Tuning the Conceptual Schema",
+            "Tuning Queries and Views - Impact of Concurrency"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Distributed Database Concepts: Architecture",
+            "Distributed Data Storage: Data Fragmentation",
+            "Replication and Allocation Techniques for Distributed Database Design",
+            "Types of Distributed Database Systems",
+            "Query Processing and Decomposition: Query Processing Objectives",
+            "Characterization of Query Processors",
+            "Layers of Query Processing",
+            "Query Decomposition",
+            "Localization of Distributed Data",
+            "Concurrency Control and Recovery in Distributed Database Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "XML: Introduction to Semi Structured Data and XML Databases",
+            "XML Data Model",
+            "XML Documents",
+            "DTD and XML Schema",
+            "XML Presentation",
+            "XPath Queries",
+            "XQuery",
+            "NoSQL Databases: Introduction",
+            "Comparison of NoSQL and Relational Databases",
+            "Database Sharding",
+            "CAP Theorem",
+            "Overview of MongoDB: MongoDB Data Model",
+            "CRUD Operations",
+            "Indexing",
+            "Application Integration",
+            "Replication",
+            "Sharding",
+            "Deployment",
+            "Cassandra: Data Model",
+            "CRUD Operations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction",
+            "Data Modelling with Graphs: Building a Graph Database Application",
+            "Data Modeling",
+            "Predictive Analysis with Graph Theory: Depth and Breadth First Search",
+            "Path-Finding with Dijkstra's Algorithm",
+            "Graph Theory and Predictive Modeling",
+            "Geographic Information Systems (GIS): Components",
+            "Characteristics",
+            "Data Models for GIS",
+            "GIS Standards and Operations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

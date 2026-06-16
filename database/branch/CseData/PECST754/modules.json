@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Digital Forensics -  Principles in Digital Forensics; Stages in\nDigital Forensics Investigation- Forensics Imaging & Cloning, Concept of\nChain of Custody, Digital Evidence Handling at Crime Scene,\nCollection/Acquisition and Preservation of Digital Evidence, Processing &\nAnalysis, Compilation of Findings & Reporting; Expansion of Stages in\nDigital Investigation.\nTypes of Storage Media - Hard Disk Drives (HDD), Solid State Drives\n(SSD), USB Flash Drives, Optical Discs, Memory Cards, Cloud Storage,\nDrive Geometry, Cylinders, Heads, and Sectors, Logical Block Addressing\n(LBA);  Expansion of Types of Storage Medium.\nOverview of File Systems - Introduction to File Systems, File Systems in\nDigital Forensics, FAT (File Allocation Table), Structure and Characteristics\n: FAT12, FAT16, FAT32, NTFS (New Technology File System), Structure\nand Characteristics, Master File Table (MFT), EXT (Extended File System),\nEXT2, EXT3, EXT4, Journaling in EXT3 and EXT4, HFS (Hierarchical File\nSystem), HFS and HFS+ Structure and Characteristics, Metadata and\nAttributes\nTools suggested : Hex Viewer , FTK Imager , OS Forensics",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Windows Forensics - OS Artefacts, Registry Analysis, Analysis of USB\nConnections, Event Logs, Applications, Slack Space, Overwritten Files, Data\nRecovery Techniques,  Volatile and Non-Volatile Data, Hibernation file\nanalysis,  Pagefile analysis, prefetch files, thumbnails, Timestamps, File\nSignatures,  File System Analysis Tools, Techniques for Recovering Deleted\nFiles, File Carving; Memory Forensics - RAM dump and  analysis; Linux\nand MAC Forensics; Anti Forensics Methods - Steganography, Encryption,\nAlternate Data Streams.\nTools suggested : Hex Viewer, FTK Imager, Autopsy, RegRipper, Volatility,\nDumpit",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Mobile Forensics -  Introduction to Mobile Forensics, Mobile Forensics\nFundamentals, Understanding Mobile Device Storage, Android, iOS,\nWindows OS Artifacts, ADB (Android Debug Bridge), APK Files,\nTechniques for Acquiring Data from Mobile Devices, Rooting, Jailbreaking.\nAnalysis of Application Files  -  Social Media Files, Understanding and\nAnalyzing APK Files, Messages,  Malware Analysis, Cloud Data in Mobile\nForensics, Analyzing Backups and Cloud Data, Advanced Data Recovery\nTechniques (Bypassing Encryption, Password Cracking), Challenges in\nMobile Forensics.\nTools suggested : MobileCheck, BlueStacks(Android Emulator), SQLite\nDatabase viewer",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Network Forensics - Introduction to Network Forensics, Overview of\nNetwork Architectures and Protocols, Capturing and Analyzing Network\nTraffic using Wireshark/Tcpdump, Log Analysis, Email and Web Forensics,\nEmail Header Analysis; Endpoint Security systems - Intrusion Detection\nSystems, Firewall, Router Forensics, NAS, Proxy, VPN; Public Key\nInfrastructure Systems; Digital Signature - Concepts of Public Key and\nPrivate Key, Certification Authorities and Their Role, Creation and\nAuthentication of Digital Signature.\nTools Suggested : Wireshark , Apache Log Viewer",
+    "contact_hours": "8"
+  }
+]

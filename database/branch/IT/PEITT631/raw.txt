@@ -1,0 +1,276 @@
+Course Code 
+PEITT631 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCITT303 - Data structures 
+PEITT525 - Formal Languages 
+and Automata Theory 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. 
+To provide students with a foundational knowledge of compiler design, including the need for 
+compilers, their phases, and the tools used in their construction. 
+2. 
+To enable students to design and implement lexical and syntax analyzers using various parsing 
+methods, including both top-down and bottom-up approaches. 
+3. 
+To equip students with the skills to generate intermediate code, optimize code, and develop a basic 
+code generator. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours  
+1 
+Fundamentals: Need of compiler, Analysis of the source program, Phases of a 
+compiler, grouping of phases, compiler writing tools, Cross compiler. Lexical 
+Analyser: The role of Lexical Analyzer, Review of Finite Automata, Design of 
+Lexical Analyser using DFAs, Specification of Tokens using Regular Expressions. 
+9 
+2 
+Syntax Analyser: Review context-free grammars, Parse Trees, Ambiguous 
+Grammars. Top – Down Parsing: Recursive Descent Parser, Predictive Parser-LL(1). 
+Bottom-Up Parsing: LR(0) parser, SLR(1) parser, CLR(1) parser, LALR parser. 
+9 
+3 
+Semantic Analyser: Syntax directed definitions:  S-attributed definitions, L-
+attributed definitions. Bottom- up evaluation of S- attributed definitions, Top-down 
+translation, Bottom-up evaluation of inherited attributes. Intermediate Code 
+Generation (ICG): Need of ICG, Different representation of intermediate code, 
+intermediate code for assignment statement. 
+9 
+4 
+Code Optimization: Principal sources of optimization, Optimization of basic 
+blocks. Code Generation: Issues in the design of a code generator, A simple code 
+generator. 
+9 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+
+ 
+ 
+Attendance 
+Assignment/ 
+Micro project 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 3 sub divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the phases of a compiler, their functions, and the tools utilized in 
+compiler construction. 
+K2 
+CO2 
+Design and implement a lexical analyzer using deterministic finite automata 
+(DFAs) and regular expressions. 
+K3 
+CO3 
+Apply various parsing techniques, including top-down (recursive descent and 
+LL(1)) and bottom-up (LR(0), SLR(1), CLR(1), and LALR) methods, and 
+construct parse trees. 
+K3 
+CO4 
+Develop test automation strategies and utilize automation and testing tools 
+effectively to test object-oriented software and web-based systems, while 
+applying debugging techniques to track and resolve bugs in various 
+environments 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+
+ 
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the Publisher 
+Edition and 
+Year 
+1 
+Compilers Principles, Techniques 
+and Tools 
+Alfred Aho, Ravi Sethi and 
+Jeffrey D Ullman 
+Pearson Education 
+Updated 
+Second 
+Edition, 
+2023 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Compiler Construction: Principles 
+and Practice 
+Kenneth C. Louden 
+PWS Publishing 
+Company 
+Second 
+Edition, 
+1997
+2 
+Lex &Yacc 
+Levine J.R, Mason T, 
+Brown D 
+ 
+OReilly Associates 
+First edition, 
+1992 
+3 
+Compiler Design in C 
+Allen I. Holub 
+Prentice Hall 
+First edition,
+2003
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+ No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/105/106105190/ 
+2 
+https://archive.nptel.ac.in/courses/106/105/106105190/ 
+3 
+https://nptel.ac.in/courses/106108113 
+4 
+https://nptel.ac.in/courses/106108113 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO2 
+3 
+3 
+2 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO3 
+3 
+3 
+3 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO4 
+2 
+2 
+2 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+ 
+ 
+SEMESTER S6  
+METAHEURISTIC OPTIMIZATION

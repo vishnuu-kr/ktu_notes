@@ -1,0 +1,371 @@
+Course Code 
+PEADT415 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCCST303 
+ 
+ 
+Course Objectives: 
+1. To provide a comprehensive understanding of the fundamental concepts and techniques of 
+pattern recognition. 
+2. To develop the ability to apply pattern recognition methods to solve practical problems. 
+3. To enhance skills in using modern tools and techniques for feature extraction, dimensionality 
+reduction, and machine learning algorithms 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Pattern Recognition - Basics of pattern recognition, 
+Applications and examples, Statistical pattern recognition, Introduction to 
+classifiers: k-NN, Naive Bayes 
+Project 1: Image Classification using k-NN and Naive Bayes - Classify 
+images from the CIFAR-10 dataset using k-NN and Naive Bayes classifiers, 
+and the deliverables are code implementation, project report, and 
+presentation. 
+Assignments : Assignment on k-NN and Naive Bayes classifiers 
+Mini-project proposal submission 
+9 
+2 
+Feature Extraction and Dimensionality Reduction - Feature selection 
+techniques, Principal Component Analysis (PCA), Non-linear dimensionality 
+reduction methods (t-SNE, LLE) 
+Project 2: Dimensionality Reduction for Handwritten Digit Recognition - 
+Use PCA and LDA to reduce the dimensionality of the MNIST dataset and 
+apply a classifier, and the deliverables are code implementation, project 
+report, and presentation. 
+Assignments: Assignment on PCA and LDA theory, 
+Mid-term project: Detailed report on feature extraction project 
+9 
+
+ 
+ 
+3 
+Machine Learning Algorithms for Pattern Recognition - Support Vector 
+Machines (SVM), Neural Networks and Deep Learning, Ensemble methods 
+(Random Forests, Gradient Boosting), Clustering techniques (k-means, 
+hierarchical clustering) 
+Project 3: Text Classification using SVM and Neural Networks - Classify 
+text documents from the 20 Newsgroups dataset using SVM and a simple 
+neural network, and the deliverables are code implementation, project report, 
+and presentation. 
+Assignments : Assignment on SVM and neural network theory 
+Group project on Ensemble methods applied to a complex dataset 
+9 
+4 
+Advanced Topics and Applications - Hidden Markov Models (HMM), 
+Bayesian Networks, Pattern recognition in speech and handwriting. 
+Project 4 : Speech Recognition using Hidden Markov Models - Develop a 
+speech recognition system using Hidden Markov Models using the dataset - 
+TIMIT Acoustic-Phonetic Continuous Speech Corpus. The deliverables are 
+code implementation, project report, and presentation. Tools: Python, HTK 
+(Hidden Markov Model Toolkit). 
+Project 5: Handwriting Recognition using Deep Learning - Develop a 
+handwriting recognition system using deep learning techniques using the 
+datasets - MNIST Handwritten Digits Dataset, IAM Handwriting Database. 
+The deliverables are code implementation, project report, and presentation. 
+Tools: Python, TensorFlow/Keras, OpenCV. 
+Project 6: Bayesian Networks for Medical Diagnosis - Use Bayesian 
+Networks to develop a system for medical diagnosis using the datasets - UCI 
+Machine Learning Repository, Hepatitis Dataset. The deliverables are code 
+implementation, project report, and presentation. Tools: Python, PyMC3, 
+Netica. 
+Assignments: 
+Assignment on HMM and Bayesian networks 
+Final project: Comprehensive pattern recognition application 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+
+ 
+ 
+Criteria for Evaluation(Evaluate and Analyse): 20 marks 
+ 
+1. Code Implementation (40%) – 8 Marks 
+● Correctness (4 Marks): Code accurately implements the required algorithms (e.g., k-NN, Naive 
+Bayes, PCA, LDA, SVM, Neural Networks, HMM) and processes the dataset as expected. Code 
+runs without errors and produces the expected output for different scenarios or edge cases. 
+● Efficiency and Robustness (4 Marks): Code is optimized for efficiency, handling large datasets or 
+complex computations effectively, and includes error handling and can manage diverse data. 
+2. Results Analysis (60%) – 12 Marks 
+● Valuation Metrics (6 Marks): Proper use of evaluation metrics (e.g., accuracy, precision, recall, 
+F1 score) to assess the performance of classifiers and dimensionality reduction techniques. 
+Comparison of different methods or classifiers and discussion on their effectiveness, including 
+strengths and limitations. 
+● Insightful Analysis (6 Marks): Interpretation of the results, including any anomalies or 
+unexpected findings. Based on results, provides thoughtful recommendations or insights for 
+potential improvements or alternative approaches. 
+ 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose 
+any one full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24 marks) 
+ 
+2 questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+ 
+Each question can have a maximum of 3 
+sub divisions.  
+ 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand and explain the fundamental concepts of pattern 
+recognition and its applications.
+K2 
+CO2 
+Apply statistical and machine learning techniques to solve pattern 
+recognition problems.
+K3 
+CO3 
+Implement feature extraction and dimensionality reduction techniques 
+for various datasets.
+K4 
+CO4 
+Develop and evaluate different machine learning models for pattern 
+recognition tasks.
+K5 
+CO5 
+Work on real-world pattern recognition projects, demonstrating 
+problem-solving and project management skills.
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Pattern Recognition and 
+Machine Learning 
+Christopher M. Bishop 
+Springer 
+1/e, 2009 
+2 
+Mastering Machine Learning 
+Algorithms 
+Giuseppe Bonaccorso 
+Packt Publishing 
+2/e,2020 
+3 
+Pattern Classification 
+Richard Duda, Peter Hart, 
+David Stork 
+Wiley 
+2/e, 2007 
+4 
+Deep Learning 
+Ian Goodfellow, Yoshua 
+Bengio, and Aaron Courville 
+McGraw-Hill 
+1/e, 1997 
+5 
+Feature Extraction and Image 
+Processing for Computer Vision 
+Mark Nixon and Alberto 
+Aguado 
+Academic Press 
+3/e, 2012 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+ 
+3 
+3 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The Nature of Statistical Learning 
+Theory  
+Vladimir Vapnik  
+Springer-Verlag New 
+York Inc. 
+2/e, 2010 
+2 
+The Elements of Statistical 
+Learning 
+Jerome Friedman, 
+Robert Tibshirani, 
+Trevor Hastie 
+Springer-Verlag New 
+York Inc 
+9/e, 2017 
+3 
+Pattern Recognition 
+S.Theodoridis and 
+K.Koutroumbas 
+Academic Press 
+4/e, 2009 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/117/105/117105101/
+2 
+https://archive.nptel.ac.in/courses/117/105/117105101/
+3 
+https://archive.nptel.ac.in/courses/117/105/117105101/
+4 
+https://archive.nptel.ac.in/courses/117/105/117105101/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SEMESTER S3/S4 
+ECONOMICS FOR ENGINEERS

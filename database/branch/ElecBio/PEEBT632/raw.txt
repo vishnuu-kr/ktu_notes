@@ -1,0 +1,388 @@
+Course Code 
+PEEBT632 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Nil 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Develop a comprehensive understanding of Internet of Things (IoT) concepts, including 
+key protocols, architectural principles, and sensor technologies, with a focus on their 
+theoretical applications and implications. 
+2. Examine the various IoT protocols and architectures, understanding their roles and 
+interactions within IoT ecosystems, and evaluating their effectiveness in different 
+contexts. 
+3. Explore the theoretical aspects of wearable health monitoring systems, including their 
+design, functionality, and integration with data analytics and cloud technologies to 
+address healthcare challenges. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to IoT and Enabling Technologies: Introduction to Internet 
+of Things – Definition and Characteristics of IoT, Physical Design of IoT – 
+IoT Protocols, Logical Design of IoT - IoT communication models, IoT 
+Communication APIs. IoT enabled Technologies - Wireless Sensor 
+Networks, Cloud Computing, Embedded Systems. Sensor Interfaces – ECG, 
+EEG, PPG, Pulse Oximeter, Temperature Sensors, and Pressure Sensors. 
+Challenges of using IoT in Healthcare. 
+9 
+2 
+IoT Protocols, Architecture, and Standards: IoT Protocols & 
+Architecture: Protocols - Protocol Standardization for IoT – Efforts – M2M 
+and WSN Protocols – SCADA and RFID Protocols – Issues with IoT 
+9 
+
+ 
+ 
+Standardization – Unified Data Standards – IEEE802.15.4 – BACNet 
+Protocol – Modbus – KNX – Zigbee. Network and Security Architecture. 
+IoT Open Source Architecture (OIC) - OIC Architecture & Design 
+Principles. IoT Devices and Deployment Models - IoTivity: An Open-source 
+IoT Stack - Overview - IoTivity Stack Architecture - Resource Model and 
+Abstraction. 
+3 
+Wearable Health Monitoring Systems and IoT Implementation: 
+Wearable Health Monitoring System (WHMS): Basics of WHMS, Need for 
+Wearable Systems, Applications of WHMS - Home Healthcare, 
+Sports/Fitness. Design of Wearables: Introduction, Architecture, and 
+Attributes. Design of Smart Textiles and Wearable Electronics. Issues of 
+WHMS & Factors Inhibiting Growth. Building IoT with Arduino & 
+Raspberry Pi: Programming – Python Program with Raspberry Pi, 
+Controlling Hardware - Controlling AC Power Devices with Relays, 
+Controlling Servo Motor, DC Motor. Sensors - Light Sensor, Motion 
+Detection Sensors, Wireless Bluetooth Sensors. 
+9 
+4 
+Data Handling, Analytics, and Cloud for IoT: Data Handling & Analytics: 
+Introduction, Big Data, Types of Data, Characteristics of Big Data, Data 
+Handling Technologies, Data Acquisition, Data Storage. Introduction to Data 
+Analytics, Types of Data Analytics, Local Analytics, Cloud Analytics, and 
+Applications. IoT Physical Servers and Cloud Offerings – Introduction to 
+Cloud Storage Models and Communication APIs. Webserver – Web Server 
+for IoT, Cloud for IoT, Python Web Application Framework, Designing a 
+RESTful Web API. 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Develop a clear understanding of various IoT protocols and 
+architectural frameworks, including their roles and functionalities 
+within IoT ecosystems. 
+K2 
+CO2 
+Apply theoretical designs for IoT systems using Raspberry Pi, focusing 
+on system integration and hardware control concepts. 
+K3 
+CO3 
+Apply knowledge of wearable health monitoring systems to design and 
+evaluate their components and functionalities in healthcare settings. 
+K3 
+CO4 
+Analyze data management practices in IoT, including data acquisition, 
+storage, and analytics, to understand their impact on system 
+performance and effectiveness. 
+K4 
+CO5 
+Apply concepts to deploy IoT applications and integrate them with 
+cloud platforms for effective data management and analysis. 
+K3 
+ 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Internet of Things – A Hands-
+on Approach 
+Arshdeep Bahga, Vijay 
+Madisetti 
+Universities Press 
+2015 
+2 
+From Machine-to-Machine to 
+the Internet of Things: 
+Introduction to a New Age of 
+Intelligence 
+Jan Holler, Vlasios 
+Tsiatsis, Catherine 
+Mulligan, Stefan 
+Avesand, Stamatis 
+Karnouskos, David 
+Boyle 
+Academic Press 
+1st Edition, 
+2014 
+3 
+Getting Started with Raspberry 
+Pi 
+Matt Richardson, Shawn 
+Wallace 
+O'Reilly Media, Inc. 
+2012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+2 
+1 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO2 
+3 
+2 
+2 
+1 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO3 
+3 
+2 
+2 
+1 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO4 
+3 
+2 
+2 
+2 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO5 
+2 
+2 
+3 
+1 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Rethinking the Internet of 
+Things: A Scalable Approach 
+to Connecting Everything 
+Francis daCosta 
+Apress Publications 
+1st Edition, 
+2013 
+ 
+2 
+IoT Fundamentals: Networking 
+Technologies, Protocols and 
+Use Cases for Internet of 
+Things 
+David Hanes, Gonzalo 
+Salgueiro, Patrick 
+Grossetete, Rob Barton, 
+Jerome Henry 
+Cisco Press 
+2017 
+3 
+Internet of Things and 
+Personalized Healthcare 
+Systems 
+Venkata Krishna, 
+Sasikumar Gurumoorthy, 
+Mohammad S. Obaidat 
+Springer Briefs in 
+Applied Sciences and 
+Technology, Forensic 
+and Medical 
+Bioinformatics 
+2019 
+4 
+Architecting the Internet of 
+Things 
+Dieter Uckelmann, Mark 
+Harrison, Michahelles 
+Florian (Eds) 
+Springer 
+2011 
+5 
+Arduino Cookbook: Recipes to 
+Begin, Expand, and Enhance 
+Your Projects 
+Michael Margolis 
+O'Reilly Media 
+2nd 
+Edition, 
+2011 
+ 
+6 
+Principles of Internet of Things 
+(IoT) Ecosystem: Insight 
+Paradigm 
+Sheng-Lung Peng, 
+Souvik Pal, Lianfen 
+Huang (Eds) 
+Springer International 
+Publishing 
+2020 
+7 
+Internet of Things (IoT) for 
+Automated and Smart 
+Applications 
+Yasser Ismail (Ed) 
+BoD–Books on 
+Demand 
+2019 
+8 
+Internet of Things: For Things, 
+and by Things 
+Abhik Chaudhuri 
+CRC Press 
+2018 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/106/105/106105166/ 
+2 
+https://onlinecourses.swayam2.ac.in/arp20_ap03/preview 
+3 
+https://onlinecourses.swayam2.ac.in/arp20_ap03/preview 
+4 
+https://onlinecourses.nptel.ac.in/noc22_cs53/preview 
+
+ 
+ 
+SEMESTER S6 
+ARTIFICIAL ORGANS & IMPLANTS

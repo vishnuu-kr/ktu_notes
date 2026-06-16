@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Review of ANN: Perceptrons\nConvolutional Neural Networks: Convolution operation , CNN Architecture\nkernels, padding- Convolutional layers-,  Pooling Layers, fully connected\nlayers.\nFeature and weight visualization, t-SNE",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Loss functions-Mean Squared Error, Cross Entropy\nActivation functions, Sigmoid Relu , Softmax\nTraining CNNs:-Initialization   Back-propagation\nOptimization algorithms:-SGD, Momentum, Adagrad, RMS Prop, Adam,\nHyper parameter optimization-Learning rate\nRegularization methods: L1, L2 regularizaton dropout, Data Augmentation,\nEarly stopping  batch  normalization\nIntroduction to Transfer learning, feature extraction , fine tuning.\nCase study: CNN architectures*:  AlexNet, VGG, ResNet,Google net\n*(Case study only for practical assignments/microprojects)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Sequence models, Recurrent Neural Networks (RNN): cell structure and\narchitecture, Training  RNN, back propagation through time.   Vanishing\nand exploding gradients.\nLong Short-Term Memory (LSTM), architecture and training.\nGated Recurrent Units (GRU), architectture and training.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to  Generative models: parameter estimation, Maximum\nLikelyhood Estimation\nAuto encoders, latent space variational auto encoders.\nGANs : adversarial training. Discriminator ,      Generator,  up sampling,\nTransformer models, architecture  Word embedding, position encoding ,\nattention , training  transformer models\nLarge language models BERT,GPT\n( Detailed mathematical treatment not required for this module)\nNote:- Assignments/ Micro project should  be  given for  modules 2 ,3 and 4 using standard  machine\nlearning frameworks such as tensorflow/keras/ pytorch. They may also be introduced to GPUs and\nstandard data sets on hugging face/kaggle",
+    "contact_hours": "11"
+  }
+]

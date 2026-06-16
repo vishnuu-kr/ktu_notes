@@ -1,0 +1,340 @@
+Course Code 
+PEAIT419 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCCST205 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To discuss the basic concepts and terminologies related to the theory of computation and to 
+learn and apply the principles of formal languages, grammars, and automata theory. 
+2. To explore Context-Free Languages and Pushdown Automata 
+3. To discuss the Chomsky classification of formal languages with a discussion on grammar and 
+automata for regular, context-free, context-sensitive, and unrestricted languages. 
+4. To discuss the Turing machines' role in defining computability and to explore the limits of 
+computation. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Basic concepts: Alphabet, Strings, Languages, Grammar, Automata 
+Deterministic Finite Automata/Accepter (DFA), Language of a DFA, Regular 
+languages, Nondeterministic Finite Automata/Accepter (NFA), NFA with 
+epsilon transitions, Language of an NFA, eliminating epsilon transitions (Proof 
+not expected), Equivalence of NFAs and DFAs (Proof not expected) - The 
+Subset Construction. DFA State Minimization, Applications of finite automata. 
+      9 
+2 
+Regular expression, Language of a Regular Expression, Equivalence with finite 
+ 
+
+ 
+ 
+automata (Proof not expected) - Converting FA to Regular Expressions, 
+Converting Regular Expressions to FA, Regular grammar – examples. 
+Closure Properties of Regular Languages (Proof not expected), Pumping 
+Lemma for Regular Languages (Proof not expected), Pumping Lemma as a 
+tool to prove nonregularity of languages. 
+Context Free Language (CFL) and Context-Free Grammar (CFG), Designing 
+CFGs for CFLs, Leftmost and Rightmost Derivations, Parse Trees, Ambiguity 
+in CFGs and CFLs 
+9 
+3 
+Simplification of Context-Free Grammars - Eliminating useless symbols and 
+productions, Eliminating epsilon productions, Eliminating unit productions, 
+Chomsky Normal Form (CNF), Converting CFGs into CNF, Greibach Normal 
+Form (definition only). 
+Pushdown Automata (PDA), Language of a PDA, DPDA and NPDA, Designing 
+PDAs for CFLs. Equivalence NPDAs and CFGs (Proof not expected) 
+Pumping Lemma for Context-Free Languages (Proof not expected), Pumping 
+Lemma as a tool to identify Non-Context-Free Languages. Closure Properties of 
+CFLs (Proof not expected), Context Sensitive Grammar and Languages 
+(introduction only) 
+9 
+4 
+Turing Machines (TMs) - Turing Machines as language acceptors, Language of 
+a TM, Turing Machines as transducers, Nondeterministic Turing Machines 
+(definition 
+only), 
+Recursive 
+and 
+Recursively 
+Enumerable 
+languages, 
+Unrestricted Grammar (definition only), Chomsky hierarchy, Linear Bounded 
+Automaton as a restricted TM (introduction only). 
+Church-Turing thesis, Encoding of TMs, Universal Turing Machine, Existence 
+of Languages that are not Recursively Enumerable, and Recursive but not 
+Recursively Enumerable, Decidable and Undecidable Problems, The TM 
+Halting Problem. 
+9 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Build DFAs and NFAs, summarize the principles of regular languages 
+and grammars, demonstrate the ability to minimize a DFA, and 
+identify the practical applications of FAs. 
+K3 
+CO2 
+Choose a regular expression for a regular language, identify non-
+regular languages, and design grammars for context-free languages. 
+K3 
+CO3 
+Simplify context-free grammars, design pushdown automata, and 
+identify and analyze context-free and non-context-free languages. 
+K3 
+CO4 
+Construct Turing machines, identify the class of a formal language, 
+apply reduction, and use the halting problem to demonstrate the 
+boundaries of computability. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+An Introduction to Formal 
+Languages and Automata 
+Peter Linz and Susan H. 
+Rodger 
+Jones and Bartlett 
+Publishers, Inc 
+7/e, 2022 
+2 
+Introduction to Automata 
+Theory Languages And 
+Computation 
+John E.Hopcroft, Rajeev 
+Motwani, Jeffrey 
+D.Ullman 
+Pearson 
+3/e, 2015 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to the Theory of 
+Computation 
+Michael Sipser 
+Cengage India Private 
+Limited 
+3/e, 2014 
+2 
+Introduction to Languages and 
+the Theory of Computation  
+John C Martin 
+McGraw-Hill 
+Education 
+4/e, 2010 
+3 
+Theory of Computation: A 
+Problem-Solving Approach 
+Kavi Mahesh 
+Wiley 
+1/e, 2012 
+4 
+Formal Languages and 
+Automata Theory  
+C K Nagpal 
+Oxford Higher 
+Education 
+1/e, 2011 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/104/106104148/ 
+https://nptel.ac.in/courses/106106049 
+2 
+https://archive.nptel.ac.in/courses/106/104/106104148/ 
+https://nptel.ac.in/courses/106106049 
+3 
+https://archive.nptel.ac.in/courses/106/104/106104148/ 
+https://nptel.ac.in/courses/106106049 
+4 
+https://archive.nptel.ac.in/courses/106/104/106104148/ 
+https://nptel.ac.in/courses/106106049 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+FOUNDATIONS OF PATTERN RECOGNITION

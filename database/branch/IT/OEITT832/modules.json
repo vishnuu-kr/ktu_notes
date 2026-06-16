@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Deep Learning: Traditional Machine Learning to Deep Learning,\nNeural Networks- Feedforward Neural Networks, Activation Functions -Sigmoid,\nReLU, Tanh, Softmax, Training Neural Networks- Forward and Backward\nPropagation Algorithm, Optimization Algorithms (Gradient Descent, Stochastic\nGradient Descent, Adam).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Convolutional Neural Networks (CNNs): CNN Basics- Convolutional Layers,\nPooling Layers, CNN Architectures- LeNet, AlexNet, VGG, ResNet, Applications\nof CNNs.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Recurrent Neural Networks (RNNs) and Transformers: RNN Basics- RNN\nStructure, Backpropagation Through Time (BPTT), Vanishing and Exploding\nGradients, Advanced RNN Architectures- Long Short-Term Memory (LSTM),\nGated Recurrent Units (GRU), Transformers and Attention Mechanisms- Attention\nMechanism Basics, Transformer Architecture (BERT, GPT).",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Generative Models and Transfer Learning: Generative Adversarial Networks\n(GANs)- GAN Basics, Applications of GANs, Autoencoders- Architecture, Transfer\nLearning and Fine-Tuning- Pre-trained Models, Fine-Tuning Strategies.",
+    "contact_hours": "8"
+  }
+]

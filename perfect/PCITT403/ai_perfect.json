@@ -1,0 +1,84 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Functions of OS",
+            "Types of OS - Batch",
+            "Multiprogrammed",
+            "Time-Sharing and Real-Time Systems",
+            "System Calls",
+            "System Structure - Simple Structure",
+            "Layered Approach",
+            "Microkernel System Structure",
+            "Monolithic",
+            "Modules",
+            "Hybrid Systems",
+            "System Boot",
+            "Process Management: Process Concept",
+            "Process State",
+            "PCB - Multithreading - Benefits",
+            "Case Study: Linux System - Process Management",
+            "Process Scheduling: Basic Concepts",
+            "Non-Preemptive Scheduling",
+            "Preemptive Scheduling",
+            "Dispatcher",
+            "Scheduling Criteria",
+            "Scheduling Algorithms - FCFS",
+            "Priority Scheduling",
+            "Round Robin Scheduling"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Race Conditions - Critical Sections - Peterson's Solution - Mutual Exclusion - Busy Waiting - Sleep and Wakeup - Bakery Algorithm - Semaphores",
+            "Deadlocks: Deadlock Characteristics - Conditions for Deadlock - Prevention - Avoidance - Safe State",
+            "Resource Allocation Graph",
+            "Banker's Algorithm",
+            "Deadlock Detection",
+            "Recovery from Deadlock"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Basics",
+            "Swapping",
+            "Memory Allocation - Fixed Partitions",
+            "Variable Partitions",
+            "Fragmentation",
+            "Paging",
+            "Segmentation",
+            "Virtual Memory Concepts",
+            "Demand Paging",
+            "Page Replacement Algorithms - FIFO",
+            "Optimal",
+            "Allocation of Frames",
+            "Thrashing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "File Concept - Attributes",
+            "Operations",
+            "File Types",
+            "File Structure",
+            "File Access Methods (Sequential Access, Direct Access, Indexed Access)",
+            "File Allocation Methods (Contiguous, Linked, and Indexed Allocation)",
+            "Directory Structure (Single-Level, Two-Level, Tree-Structured, Acyclic Graph, General Graph)",
+            "Case Study: Linux File Systems",
+            "Disk Management: Introduction",
+            "Disk Scheduling Algorithms (FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK)",
+            "Virtual Machines: Benefits & Features - Building Blocks - Types of VMs - Virtualization & Operating System Components"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

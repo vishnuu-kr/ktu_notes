@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction – The impact of hardware and software technology trends Self\nreview – Instruction set Architecture, Memory addressing, addressing modes\nClass of Computers, Concept of Computer Hardware and Organization (P15,\n5th Edition) Measuring, Reporting and Summarizing Performance,\nBenchmarks – Desktop and Server Amdahl’s Law, Processor Performance\nEquation\n_____________________________________________________\nBeyond the books  – Visit www.spec.org. Explore the High Performance\nComputing benchmarks and compare the results submitted by different\nvendors for the same benchmark. Are you able to appreciate the need for\nbenchmarks to compare performance? What are retired benchmarks? Can you\nwrite a paper and publish results based on a retired benchmark?",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Review the basic Concepts of Parallel Processing and Pipelining Instruction\nLevel Parallelism, data dependencies and hazards Different types of\ndependences, Compiler Techniques for ILP, Branch Prediction – Correlating\nbranch predictor Dynamic Scheduling – Idea, Introduction to Tomasulo’s\nscheme. Register Renaming Hardware Speculation, Reorder Buffers Multiple\nissue and static scheduling, VLIW",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Data Level Parallelism. Vector Processors – How do they work, Memory\nBanks, Stride, Scatter Gather. SIMD-comparison with vector GPU,\nComparison of loops in C vs CUDA NVIDIA GPU Memory structure Vector\nProcessor vs GPU, Multimedia SIMD computers vs GPU Multiprocessor\nArchitecture, Centralized shared memory architecture Cache coherence and\nsnooping protocol (Implementation details – not required). Performance of\nSymmetric Shared-Memory Processors. Distributed Shared Memory and\nDirectory based protocol – basics. Synchronization – Basic Hardware\nPrimtives. Memory Consistency Models – Sequential and relaxed",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Warehouse Scale Computers – Goals and requirements. Programming\nframeworks for Batch processing – Map reduce and Hadoop Computer\nArchitecture of Warehouse-scale computers Moore’s Law, Dennard Scaling,\nDark Silicon and the transition towards Heterogeneous Architectures\nAsymmetric multi-core architecture – Static and Dynamic (Overall idea,\nexample processors) Functional Heterogeneous Multicore architecture –\nGPUs, Accelerators, Reconfigurable Computing Beyond the",
+    "contact_hours": "unknown"
+  }
+]

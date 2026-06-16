@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Programming Environment and Python Basics:\nGetting Started with Python Programming - interactive shell, Editing,\nSaving, and Running a script. How python works? Using editors - IDLE,\nJupyter.\nBasic coding skills - Working with data types, Numeric data types and\nCharacter sets, Strings, Keywords, Variables and Assignment statement,\nOperators, Expressions. Type conversions, Comments in the program. Input,\nProcessing, and Output. Formatting text for output.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Building Python Programs:\nData representation: List, tuple, Sets, Dictionary. Work with dates and times.\nControl statements - Selection structure (if-else, switch-case), Iteration with\nfor/while loop, Testing the control statements.\nFunctions - Hiding redundancy and complexity, Arguments and return\nvalues, Variable scopes and parameter passing, Named arguments, Main\nfunction, Working with recursion, Lambda functions.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Object Oriented Programming:\nDesign with classes - Objects and Classes, Methods, Instance Variables,\nConstructor, Accessors and Mutators. Structuring classes with Inheritance\nand Polymorphism. Abstract Classes, Interfaces.\nExceptions - Handle a single exception, handle multiple exceptions.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Data Processing:\nThe os and sys modules. Introduction to file I/O - Reading and writing text\nfiles, Manipulating binary files.\nNumPy - Basics, Creating arrays, Arithmetic, Slicing, Matrix Operations,\nRandom numbers. Plotting and visualization. Working with CSV files.\nPandas - Reading, Manipulating, and Processing Data. Introduction to Micro\nservice using Flask.",
+    "contact_hours": "10"
+  }
+]

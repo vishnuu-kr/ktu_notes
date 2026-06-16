@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Operating system overview – Functions, Boot Process\nProcesses - Process states, Process control block, threads, scheduling, Operations on\nprocesses - process creation and termination\nInter-process communication - shared memory systems, Message passing systems.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Process Scheduling – Basic concepts- Scheduling criteria -scheduling algorithms- First\ncome First Served, Shortest Job Firs, Priority scheduling, Round robin scheduling\nProcess synchronization- Race conditions – Critical section problem – Peterson’s\nsolution, Synchronization hardware, Mutex Locks, Semaphores, Monitors –\nSynchronization problems - Producer Consumer, Dining Philosophers and Readers-\nWriters.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Deadlocks: Necessary conditions, Resource allocation graphs, Deadlock prevention,\nDeadlock avoidance – Banker’s algorithms, Deadlock detection, Recovery from\ndeadlock.\nMemory Management: Concept of address spaces, Swapping, Contiguous memory\nallocation, fixed and variable partitions, Segmentation, Paging. Virtual memory,\nDemand paging, Page replacement algorithms.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "File System: File concept - Attributes, Operations, types, structure – Access methods,\nProtection. File-system implementation, Directory implementation. Allocation methods.\nStorage Management: Magnetic disks, Solid-state disks, Disk Structure, Disk\nscheduling, Disk formatting.",
+    "contact_hours": "8"
+  }
+]

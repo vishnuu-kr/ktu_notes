@@ -1,0 +1,372 @@
+Course Code 
+PEAET495 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GNEST305: 
+Introduction to Artificial 
+Intelligence and Data 
+Science 
+Course Type 
+Theory 
+ 
+Course Objectives 
+1. 
+To introduce the prominent methods for machine learning 
+2. 
+To study the basics of supervised and unsupervised learning 
+ 
+SYLLABUS 
+Modul
+e No. 
+Syllabus Description 
+Contact 
+Hours
+1 
+Overview of machine learning 
+Introduction to Machine Learning, Examples of machine learning 
+applications.  
+Machine learning paradigms - supervised, semi-supervised, unsupervised, 
+reinforcement learning.  
+Types of supervised learning - Classification, Regression. Bayes’ theorem.  
+Classification - Bayes’ decision theory, discriminant functions and decision 
+surfaces, Bayesian classification for normal distributions, Naive Bayes 
+Classifiers, Logistic regression. 
+ 
+9 
+2 
+ Supervised Learning 
+Regression - Error functions in regression, Linear regression with one 
+variable, Linear regression with multiple variables, Over-fitting and 
+underfitting. Bias-variance trade-off.  
+Basics of decision trees, random forest. 
+SVM - Maximum Margin Classification, Separable and non-separable 
+classes: Formulation of the Optimization problem and solutions, Multiclass 
+case. 
+ 
+9 
+
+ 
+ 
+3 
+Neural Networks (NN) 
+Perceptron, Neural Network - Multilayer feed forward network, Activation 
+functions (Sigmoid, ReLU, Tanh),   Backpropagation algorithm.  
+Unsupervised Learning 
+Clustering -Distance measures, K-means clustering, Hierarchical Clustering 
+9 
+4 
+Dimensionality reduction - principal component analysis, Fischer's 
+discriminant analysis. 
+Model selection - Cross validation – K-fold, Leave One Out, Bootstrapping.  
+Model Evaluation -Classification- Confusion matrix,Precision, Recall, 
+Accuracy, F-Measure, ReceiverOperating Characteristic Curve (ROC), Area 
+Under Curve (AUC). 
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5
+15
+10
+10
+40
+ 
+Criteria for Evaluation (Evaluate and Analyze): 20 marks 
+ 
+ 
+Each student should design, implement, and analyze machine learning algorithms for 
+various applications.  
+ Each student should implement minimum two algorithms learnt during the 
+course and compare their performance using the evaluation metrics.  
+ Students must also take up a course project on supervised learning, 
+unsupervised learning or Dimensionality reduction application of machine 
+learning. 
+ Students may use any of the readily available open-source datasets online or collect 
+the data themselves (and label it if necessary).  
+ Students can use Python or MATLAB for implementation.  
+ Each student must prepare a 5–10 page report with the details broadly outlined (but 
+not limited to) as follows: 
+o Introduction 
+ What is the problem?  
+ Why is it important?  
+ What is your basic approach? 
+ A basic summary of your results and conclusions 
+o Problem Definition and Algorithm 
+
+ 
+ 
+ Task Definition – Elaborate on your problem, Specify inputs and 
+outputs 
+ Algorithm Definition –  
+ How the algorithm solves the problem? 
+ Pseudo-code 
+o Experimental Evaluation 
+ Methodology – Model evaluation strategy 
+ Results 
+o Conclusion 
+o Bibliography 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks)
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain machine learning concepts like supervised, and unsupervised 
+and reinforcement learning 
+K2 
+CO2 
+Apply multiple concepts in supervised and unsupervised learning to 
+create applications 
+K5 
+CO3 
+Illustrate the concepts of Multilayer neural network and Support 
+Vector Machine 
+K2 
+CO4 
+Apply classifier performance measures for evaluating different 
+classifiers. 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Introduction 
+to 
+Machine 
+Learning 
+EthemAlpaydin 
+MIT Press 
+2nd Edition, 
+2010 
+2 
+Data Mining and Analysis: 
+Fundamental Concepts 
+and Algorithms 
+Mohammed J. Zaki 
+and Wagner MeiraJr 
+Cambridge 
+University Press 
+1st Edition, 
+2014 
+3 
+Python Data Science Handbook 
+Jake VanderPlas 
+O'Reilly Media 
+2nd Edition, 
+2016 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Neural Networks for Pattern 
+Recognition 
+Christopher Bishop 
+Clarendon Press 
+1995 
+2 
+Machine 
+Learning: 
+A 
+Probabilistic Perspective 
+Kevin P. Murphy 
+MIT Press 
+2012 
+3 
+Elements of Machine Learning 
+P. Langley 
+Morgan Kaufmann 
+1995 
+4 
+The Elements Of Statistical 
+Learning 
+Trevor Hastie, Robert 
+Tibshirani, Jerome 
+Friedman 
+Springer 
+2nd edition, 
+2007 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO1
+0 
+PO1
+1 
+PO1
+2 
+CO1 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106106139 
+https://www.youtube.com/watch?v=T3PsRW6wZSY 
+2 
+https://nptel.ac.in/courses/106106139 
+https://www.youtube.com/watch?v=5WCkrDI7VCs 
+https://www.youtube.com/watch?v=FuJVLsZYkuE 
+3 
+https://nptel.ac.in/courses/106106139 
+https://www.youtube.com/watch?v=gidJbK1gXmA 
+https://www.youtube.com/watch?v=T6WLIbOnkvQ 
+4 
+https://nptel.ac.in/courses/106106139 
+https://www.youtube.com/watch?v=CwjLMV52tzI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SEMESTER S3/S4 
+ECONOMICS FOR ENGINEERS

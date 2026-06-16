@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to kinematics of Machinery: Linkages and joints -kinematic\npairs and chains-degrees of freedom and mobility-Inversion of 4 bar\nchain and its various applications.\nKinematic Analysis: Displacement analysis, velocity, and acceleration\nanalysis (includes Coriolis acceleration)-Graphical approach. Velocity\nanalysis by Instantaneous centre method.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to kinematic synthesis: Type synthesis and Dimensional\nsynthesis-Function generation -Path generation- Motion generation-\nChebyshev’s spacing of precision points.\nGraphical method for dimensional synthesis: 2 position and 3 position\nsynthesis. Analytical Method-Freudenstein's equation- loop closure\nequation.\nSynthesis of lower pair mechanisms such as Straight line and quick\nreturn mechanisms;    Higher Pairs: Cam and follower for prescribed\ndisplacement - Gears and gear trains for prescribed speed and torque\ntransmission.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction\nto\nRobotics-Industrial\nrobot\nmanipulators,\nService\napplications, electro mechanical components.\nRobotic kinematics:Kinematic models of manipulators, definition of\npose-position description-Orientation description, changing description\nfrom frame to frame, homogeneous transformation matrix.\nManipulator Kinematics: link description and link to reference frame\nconnection\n-\nDenavit-Hardenberg\n(DH)\nrepresentation-Forward\nkinematics, Inverse Kinematics-Formulation - Enumerated using simple\nmanipulator configurations.\nWorkspace Analysis and Trajectory Planning-planning with constraints\n(Case study-based explanation only).",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Velocity analysis and Static Analysis of manipulators: Linear and\nangular velocity of links-Jacobian matrix, singularity, Static Analysis of\nmanipulator.\nRobot Dynamics: Introduction to dynamics, Lagrangian formulation\n(Overview)of manipulator dynamics. Linear robot dynamics -Force\nacceleration relationship for 1 DOF system, equation of motion for 2\nDOF robot arm.\nMotion Control:Path v/s Trajectory, Joint space v/s cartesian description,\nPoint to point control, trajectory generation, continuous path control,\nforce control, hybrid position/force control system.\nOverview of Robot Programming, scope for mobile robots, need and\napplication of AI and ML in Robotics.\nSuggestion on Project Topics:\n●\nDesign and Analysis of a Four-Bar Linkage for a Specific Application.\n●\nVelocity analysis of quick return mechanism by Instantaneous centre method.\n●\nSynthesis of a Cam Mechanism for a given Motion Program.\n●\nDesign of a Mechanism for Converting Rotational Motion to Linear Motion.\n●\nAnalysis of a Pantograph Mechanism for a specific task.\n●\nDevelop a program to generate DH parameters for a Manipulator.\n●\nDesign of a Robot Arm for Pick-and-Place Tasks.\n●\nForward and Inverse Kinematics Analysis of a 2-DOF Robot Arm.\n●\nDevelopment of a robot arm for a pick-and-place task in a manufacturing line.\n●\nKinematic synthesis of a mechanism for a robotic arm for a specific industry.\n●         Design of a Robot Gripper for a specific object manipulation task.",
+    "contact_hours": "12"
+  }
+]

@@ -1,0 +1,387 @@
+Course Code 
+PCEOT502 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCEOT205,  
+PCEOT402 
+ 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To give a strong foundation on power converters, power quality and electric drives  
+2. To enable the students to select suitable power devices and passive components for target 
+applications 
+3. To motivate students to design and implement power electronic converters having high 
+efficiency,  
+small size, high reliability and low cost 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+ 
+Role of Power Electronics, Motivation, Objectives and Challenges, Power 
+Electronics Vs Linear Electronics, Ideal and real switches- Static and 
+dynamic Performance – Power losses- Temperature rise- Thermal Analogy- 
+Use of Heat sinks- Need for high efficiency, small size, high reliability and 
+low cost- Overview of Applications    [2 Hrs] 
+Uncontrolled Switch: Power Diodes – Types- Characteristics (Static and 
+Dynamic) – Effects of Reverse Recovery Transient- Ratings- Schottky 
+Diodes-Features & Applications   [2 Hrs] 
+Semi-controlled switch: SCR (Thyristor) – Symbol, Structure, 
+Characteristics (Static and dynamic) – Turn-on and Turn-off phenomena – 
+ 11 
+
+ 
+ 
+Ratings- Gate control of SCR – Gate pulse magnitude and duration 
+requirements- Typical gate drive circuits – Gate synchronisation – Isolated 
+gate drives  [3 Hrs] 
+Fully-controlled switches: MOSFETS and IGBTs: Symbol, Structure, 
+Characteristics (Static and dynamic) - Device ratings- Gate drive 
+requirements– Typical gate drive circuits [3 Hrs] 
+Modern power devices: Introduction to Wide Bandgap Devices – SiC 
+MOSFET and GaN HEMT – Features and advantages    [1 Hr] 
+4. Power Electronics- Essentials and Applications by L. Umanand, John 
+Wiley, 2009 
+2 
+Controlled Rectifiers (Single Phase) – Fully controlled and half-controlled 
+rectifiers (semi-converter) with RL and RLE loads- Rectifier and inverter 
+modes of operation- waveforms (continuous & discontinuous conduction)– 
+Output voltage, Input line current, Real Power, Power factor and THD 
+(Continuous conduction, ripple free current) -  Effect of source inductance 
+(Full converter in continuous conduction, ripple free current)  [5 Hrs] 
+Controlled Rectifiers (3-Phase) - Fully controlled & Half-controlled bridge 
+converter with RLE load (continuous conduction, ripple free current)– 
+Waveforms- Output voltage equation   [3 Hrs] 
+ DC-DC Switching Regulators- Buck, Boost & Buck-Boost– Operation with 
+Continuous conduction Waveforms– Effect of non-idealities such as 
+capacitor ESR and inductor resistance (qualitative treatment only)- Design of 
+filter inductance and capacitance- Selection of power devices                        
+[4 Hrs]  
+12 
+3 
+AC voltage controllers (ACVC) – 1-phase full-wave ACVC with R & RL 
+loads – waveforms – RMS output voltage - applications        [1 
+Hr]                                                        
+Switch mode DC-AC Voltage Source Inverters (VSI)- Single phase Half-
+Bridge and Full-Bridge configurations- Sinusoidal Pulse Width Modulation 
+(PWM) - Control of Fundamental output voltage- Harmonic spectrum- 
+Bipolar and Unipolar PWM- Linear, Over Modulation and Square wave 
+modes -Merits and demerits- Need for blanking time (dead-time)                     
+[4 Hrs]  
+Three-Phase Pulse Width Modulated VSI - Fundamental Output voltage- 
+Linear, Over Modulation and Square wave modes – Third harmonic 
+Injection PWM      [3 Hrs]  
+Single phase  IGBT based current source Inverter(CSI)- Comparison 
+10 
+
+ 
+ 
+between VSI and CSI  [1 
+Hr]                                                                                                               
+Need for improved utility interface- Generation of current harmonics- Power 
+factor- Harmonics and IEEE 519 standard- Active shaping of the input line 
+current   [1 Hr]  
+4 
+Introduction to Electric Drives– Advantages of adjustable speed electric 
+drives – Block diagram, Types of loads – Classification of load torque- 
+Motor torque-load combination: characteristics and dynamic equation- 
+Steady state stability     [3 Hrs]          
+DC Drives- Chopper control of Separately Excited DC drives (SEDC) –One 
+quadrant, Two quadrant and four quadrant Chopper fed drives (Continuous 
+conduction only)-  Motoring and Regenerative braking – Speed-Torque 
+characteristics – Speed control- Controlled rectifier fed separately excited 
+DC motor drive- Single phase and three phase (Continuous conduction 
+only)- Speed-Torque characteristics-  Speed control – Dual converter drives 
+(single phase) - Circulating current Type and Non-circulating current - Static 
+four-quadrant operation with SEDC 
+[5Hrs]                                                                               
+Three-phase VSI fed induction motor drives: Stator Voltage control - V/F 
+speed control– Speed-Torque characteristics- Speed control – operation 
+below and above base speed –                                                                   
+Braking: dynamic and regenerative   [3 Hrs]    
+ 
+11 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the operation of modern power semiconductor devices, its 
+characteristics and Select suitable gate driver circuits & heatsinks 
+K5
+CO2 
+Understand the features of phase-controlled rectifiers, AC voltage 
+Controllers & Switching Regulators and Analyse the operation 
+K4
+CO3 
+Understand the features of different types of switch mode DC-AC 
+Inverters and Analyse the operation   
+K3
+CO4 
+Understand the need for improved efficiency, improved reliability, 
+improved load & source waveforms and improved utility interface 
+K3
+CO5 
+Understand the features of adjustable speed drives and Analyse the 
+basic drive schemes for DC motors and Induction Motors 
+K4
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Power Electronics- Converters, 
+Applications and Design, 
+3ed(Indian Adaptation) by 
+Mohan, Undeland, Robbins, 
+Wiley India, 2022 
+ 
+Ned Mohan, Undeland, 
+Robbins 
+ 
+ 
+Wiley-India 
+2022 
+2 
+Power Electronics- Principles 
+and Applications 
+Joseph Vithayathil  
+Tata Mcgraw Hill 
+2010 
+3 
+Power Electronics  
+Cyril W Lander  
+McGrawHill 
+1993 
+4 
+Power Electronics – Circuits, 
+Devices and Applications 
+Muhammad H. Rashid  
+Pearson Education 
+2014 
+5 
+Power Electronics 
+D.W. Hart  
+McGrawHill 
+2010 
+6 
+Power Electronics – Essentials 
+& Applications 
+L. Umanand 
+Wiley-India 
+2009 
+7 
+Fundamentals of Electric 
+Drives 
+G K Dubey 
+Narosa 
+2001 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3
+3
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3
+1
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3
+1
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3
+1
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3
+1
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Elements of Power Electronics 
+Philip T Krein  
+Oxford  
+2017 
+2 
+Power Electronics Handbook-
+5e  
+Muhammad H. Rashid  
+Butterworth 
+2024 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+Lecture Series on Power Electronics by Prof. G. Bhuvaneswari, IIT Delhi 
+https://www.youtube.com/watch?v=Z2CORFayCv0&list=PLp6ek2hDcoND7i5-
+DAD9mPmYF1Wg6ROdO&index=3 
+2 
+NPTEL Lecture Series on Power Electronics by Prof. L. Umanand, IISc Bangalore 
+https://www.youtube.com/watch?v=eLIdqiPMjBs&list=PLgMDNELGJ1CaXa4sX6QSrkhu-
+yP_Wu2EN&index=26 
+3 
+NPTEL Lecture Series by Prof. Shabari Nath, IIT Guwahati 
+https://www.youtube.com/watch?v=S_UXW2UzAi8&list=PLwdnzlV3ogoWVgA9fHBV36L_
+bxWZlpa7X&index=7 
+
+ 
+ 
+SEMESTER S5 
+POWER SYSTEMS

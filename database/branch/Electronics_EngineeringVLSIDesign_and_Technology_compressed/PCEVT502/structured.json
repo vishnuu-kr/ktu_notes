@@ -1,0 +1,58 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "VERILOG HDL :Verilog HDL Coding Style: Lexical Conventions",
+      "Ports and Modules",
+      "Operators",
+      "Gate Level Modeling",
+      "System Tasks & Compiler Directives",
+      "Test Bench",
+      "Data Flow Modeling",
+      "Behavioral level Modeling -Tasks & Functions"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "FPGA Architectural options",
+      "coarse vs fine grained",
+      "vendor specific issues (emphasis on Xilinx FPGA",
+      "Antifuse",
+      "SRAM and EPROM based FPGAs",
+      "FPGA logic cells",
+      "Interconnection network and I/O Pad"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "VERILOG MODELLING :Verilog Modelling of Combinational and Sequential Circuits: Behavioral, Data Flow and Structural Realization",
+      "Adders",
+      "Multipliers- Comparators",
+      "Flip Flops",
+      "Realization of Shift Register -Realization of a Counter- Synchronous and Asynchronous FIFO",
+      "Single port and Dual port RAM",
+      "Pseudo Random LFSR",
+      "Cyclic Redundancy Check"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "XILLINX :System Design Examples using Xillinx FPGAs - Traffic light Controller",
+      "Real Time Clock - Interfacing using FPGA: Keyboard",
+      "LCD Commercial FPGAs: Xilinx",
+      "Altera",
+      "Actel (Different series description only"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

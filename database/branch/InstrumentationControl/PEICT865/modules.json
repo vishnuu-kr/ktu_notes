@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Image Fundamentals: Image representation, basic relationship between\npixels, elements of DIP system, elements ofvisual perception-simple image\nformation model.\nBrightness, contrast, hue, saturation, mach band effect.\nColour image fundamentals RGB, CMY, HIS models.\n2D Image transforms DFT, its properties, Walsh transform, Hadamard\ntransform, Haar transform.DCT and KL transform.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Image Enhancement\nSpatial domain methods: point processing- intensity transformations,\nhistogram processing,image subtraction, image averaging.Spatial filtering-\nsmoothing filters, sharpening filters.Frequency domain methods: low pass\nfiltering, high pass filtering, homomorphic filter.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Image Restoration\nUnconstraint restoration- Lagrange multiplier and constraint restoration.\nInverse filtering- removal of blur caused by uniform linear motion, Weiner\nfiltering,\nImage segmentation\nClassification of Image segmentation techniques, region approach,\nclustering techniques.\nClassification of edges, edge detection, Hough transform.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Image Compression\nNeed for compression, redundancy, classification of image compression\nschemes, Huffman\ncoding, arithmetic coding, dictionary-based compression, transform based\ncompression,\nImage compression standards- JPEG& MPEG.",
+    "contact_hours": "9"
+  }
+]

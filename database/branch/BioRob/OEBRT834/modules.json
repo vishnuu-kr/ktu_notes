@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Requirement of sensors in robots used in industry, agriculture, medical field,\ntransportation, military, space and undersea exploration, human robot\ninteractions, robot control, robot navigation, tele-operational robot etc.\nProprioceptive or Internal sensors Position sensors- encoders- linear,\nrotary, incremental linear encoder, absolute linear encoder, Incremental\nrotary encoder, absolute rotary encoder; potentiometers; LVDTs; velocity\nsensors-optical encoders, tacho generator, Hall effect sensor, acceleration\nsensors, Heading sensors- Compass, Gyroscope sensor, IMU, GPS, real time\ndifferential GPS; Force sensors-strain gauge based and Piezo electric based,\nTorque sensors;\nNote- Block schematic representations, Interpretation of typical\nmanufacturer’s datasheet and Numerical problems of the main sensors\nare to be covered.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Exteroceptive or External sensors- contact type, noncontact type; Tactile,\nproximity-detection of physical contact or closeness, contact switches,\nbumpers , inductive proximity, capacitive proximity; semiconductor\ndisplacement sensor; Range sensors- IR, sonar, laser range finder, optical\ntriangulation (1D), structured light(2D),performance comparison range\nsensors; motion/ speed sensors-speed relative to fixed or moving objects,\nDoppler radar, Doppler sound; Block schematic representations; Numerical\nproblems;\nNote- Block schematic representations, Interpretation of typical\nmanufacturer’s datasheet and Numerical problems of the main sensors\nare to be covered.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to transducers; Requirement of transducers in robots,\nmedicine etc; Differences between Sensors and transducers; Transducer\nperformance characteristics based on static and dynamic properties;\nClassification of transducers based on physical effect, physical quantity and\nsource of energy- Active vs Passive, Principle of transduction, Analog and\nDigital transducer, Primary and Secondary transducer; Transducer and\nInverse Transducer",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Position transducers, Displacement transducer– LVDT’s, Captive Armatures,\nUnguided Armatures, Force-Extended Armatures; Velocity Transducers -\nLVT; Accelerometer- using potentiometer, Strain gage, Piezoelectric; Light\ntransducers; Force transducers; Piezoelectric transducer;\nActuators for robots- classification-Electric, Hydraulic, Pneumatic\nactuators; their advantages and disadvantages; Electric actuators- Stepper\nmotors, DC motors, DC servo motors and their drivers, AC motors, Linear\nactuators, selection of motors; Hydraulic actuators- Components and typical\ncircuit, advantages and disadvantages; Pneumatic Actuators- Components\nand typical circuit, advantages and disadvantages.",
+    "contact_hours": "9"
+  }
+]

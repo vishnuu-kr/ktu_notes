@@ -1,0 +1,89 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Definitions of IoT",
+      "Characteristics of IoT devices - power",
+      "computational constraints",
+      "IoT Architectural view - Middleware based architecture",
+      "Service oriented architecture",
+      "M2M Communication and IoT",
+      "Typical application areas of IoT technology (case studies of at least four domains) - Energy management and Smart grid",
+      "IoT for Home",
+      "Cities",
+      "Environment monitoring",
+      "Agriculture",
+      "Supply chain and customer monitoring"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Identification/Addressing - Electronic Product Codes",
+      "RFID",
+      "ubiquitous code",
+      "IPv4",
+      "IPv6. Sensors and Actuators*. IoT Hardware",
+      "IoT Software - overview of Operating systems",
+      "Firmware",
+      "Middle ware",
+      "Application software used in IoT. Connectivity for IoT devices - characteristics"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Zigbee - key features",
+      "architecture",
+      "limitations",
+      "Bluetooth technology - bluetooth stack",
+      "piconet",
+      "scatternet",
+      "limitations",
+      "Bluetooth Low Energy (key features",
+      "architecture",
+      "limitations",
+      "Wifi (IEEE 802.11) technology - key features",
+      "limitations",
+      "Cellular technology - GSM",
+      "4GLTE (overview",
+      "features",
+      "limitations",
+      "LoRa technology - features",
+      "LoRaWAN architecture",
+      "6LoWPAN - features",
+      "protocol stack",
+      "Narrow Band (NB- IoT) - features",
+      "applications",
+      "Sigfox - features",
+      "applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Storage technologies for IoT hardware - Volatile",
+      "Non-volatile",
+      "Embedded (MTP/OTP",
+      "external flash (NAND/NOR",
+      "DRAM",
+      "eflash",
+      "eMMC (overview of technologies). Cloud and IoT",
+      "Cloud computing - architecture",
+      "advantages of cloud computing",
+      "Software as a Service (SaaS",
+      "Platform as a Service (PaaS",
+      "Infrastructure as a Service (IaaS). Case study of commercial cloud computing platforms like - Microsoft Azure IoT Suite",
+      "Google Cloud's IoT Platform",
+      "IBM Watson IoT Platform. IoT analytics"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

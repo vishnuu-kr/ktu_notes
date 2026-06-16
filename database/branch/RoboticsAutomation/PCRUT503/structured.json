@@ -1,0 +1,52 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Electric Drives: - Block diagram. Advantages",
+      "Uses in Robotic Applications. Introduction to Special Electrical Machines- DC servo motor",
+      "AC servo motors",
+      "stepper motor- variable reluctance - permanent magnet- hybrid",
+      "BLDC",
+      "PMSM- Construction",
+      "working and principle of operation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Structure",
+      "working",
+      "V-I and switching characteristics- Turn on methods of SCR- Gate triggering circuits",
+      "R and RC triggering circuits",
+      "line synchronised triggering - natural and forced commutation (concept only). Protection of SCR. Requirements of isolation and synchronization in gate drive circuits- Opto and pulse transformer-based isolation. Controlled Rectifiers - Single phase fully controlled bridge rectifier with R",
+      "RL and RLE loads (continuous & discontinuous conduction) - output voltage equation. Three-phase fully controlled converter with RLE load"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "DC-DC converters",
+      "Step down and step up choppers",
+      "control methods-two-quadrant & four-quadrant chopper. DC Motor drives- Solid state speed control of DC motors- Armature control and field control, Single phase fully controlled converter drives (Rectifier and inverter mode). Chopper-controlled DC drives- Regenerative braking control- Four quadrant chopper drives. Closed loop speed and torque control. Inverters",
+      "1-phase full-bridge voltage source inverters inverter with R & RL loads- 3-phase bridge inverter with R load",
+      "120° & 180° conduction mode. Voltage control in inverters",
+      "Pulse Width Modulation",
+      "single pulse width, multiple pulse width & sine PWM-elimination of harmonics- Variable Voltage Variable Frequency Drive (Block diagram only"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Digital Controllers",
+      "Microcontroller and DSP-Based Control"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

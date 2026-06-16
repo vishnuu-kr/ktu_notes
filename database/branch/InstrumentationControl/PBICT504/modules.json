@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Intel 8051 Microcontroller – Overview-Architecture- Instruction set -\nAddressing modes\nEvolution of microprocessors and microcontrollers- Overview of Intel 8051\nfamily of microcontroller - Architecture of Intel 8051 - ALU, internal RAM\nand ROM, Oscillator and Reset Circuits, Stack and stack pointer - Special\nFunction Registers of 8051 - Ports - Instruction set of 8051 - Data transfer\ninstructions, Arithmetic, Logical, Compare and Rotate instructions, Bit\nprocessing instructions - Addressing modes of 8051",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Microcontroller languages - ports - timers\nComparison of machine language, assembly language and high-level\nlanguages - Assembler directives and C data types for 8051 - An introduction\nto programming 8051 in Assembly and C language programming of 8051 -\nExamples illustrating the use of basic types of instructions - Programming\nthe ports of 8051 - Timers of 8051 - Modes of operations - Programming the\ntimers in assembly language and C language",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Serial communication and Interrupts\nIntroduction to serial communication - Synchronous and asynchronous\ncommunication – RS 232 – MAX232 - Modes of operations - Serial\ncommunication programming in assembly language and C language -\nIntroduction to interrupts in 8051 - Priority of interrupts - Interrupt handling\nand execution for timer - External and serial interrupts - Programming to\nhandle all types of interrupts in assembly language and C language.\n8051 Microcontroller Interfacing\nInterfacing external memory to Intel 8051 - Examples of Interfacing data\nmemory and code Memory - Interfacing LCD to 8051 - Interfacing matrix\nkeyboard Interfacing - ADC and DAC interfacing - Interfacing sensors -\nInterfacing relays, stepper motors and DC motors.",
+    "contact_hours": "13"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Overview of AVR family - RISC and Harvard architecture of the AVR –\nsalient features - The general-purpose registers in the AVR – AVR data\nmemory – Using instruction with data memory – AVR status register –\nData RAM / ROM memory space allocation in AVR – AVR data format\nand directives - I/O ports – Counters and Timers – Interrupts – Serial ports -\n(no programming in AVR)\nAtmega 32 microcontroller block diagram\nArduino – Block diagram description of the system– Programming Arduino-\nExamples of practical solutions using Arduino\nSuggestion on Project Topics",
+    "contact_hours": "10"
+  }
+]

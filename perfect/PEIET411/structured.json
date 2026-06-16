@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to automation: classification of drives-hydraulic and pneumatic-comparison. ISO symbol of fluid power generating elements-hydraulic pumps and motor gears",
+            "vane pumps",
+            "piston pumps. Control and regulating elements: Pressure",
+            "flow and direction control valves",
+            "spool valves",
+            "electro hydraulic servo valves"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Electrical control of pneumatic and hydraulic circuits: interfacing with PLC",
+            "ladder diagrams",
+            "use of relays",
+            "timers and counters. Typical Design methods of automation-ladder diagram",
+            "circuit sequencing",
+            "combinational logic design",
+            "cascading",
+            "Karnaugh map method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Drive systems: AC and DC servo and stepper motors. Actuators: Pneumatic and hydraulic actuators",
+            "Sensors: Proximity and range sensors",
+            "force and torque sensors",
+            "velocity sensors",
+            "encoders",
+            "vision sensors. Classification of robots: Work envelope",
+            "Classification of work cell layout. Consideration in work cell design. Flexible automation vs robotic technology"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Spray painting",
+            "spot-welding",
+            "arc welding",
+            "drilling",
+            "assembly operation",
+            "loading unloading",
+            "role of a robot in a manufacturing cell. Safety considerations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

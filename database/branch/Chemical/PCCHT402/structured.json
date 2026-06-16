@@ -1,0 +1,103 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Basic Concepts - Overview of applications of heat transfer in different fields of engineering",
+      "modes of heat transfer - conduction",
+      "convection and radiation. Material properties of importance in heat transfer - thermal conductivity",
+      "thermal diffusivity",
+      "specific heat capacity",
+      "isotropic and anisotropic materials",
+      "thermal conductivity of solids",
+      "liquids and gases - comparison between them",
+      "effect of temperature on thermal conductivity. Conduction Heat Transfer - General heat conduction equation in cartesian coordinates (derivation required",
+      "Fourier heat conduction equation",
+      "conduction through systems of constant thermal conductivity - conduction through plane",
+      "cylindrical and spherical wall",
+      "combined boundary condition systems (conduction-convection systems",
+      "conduction through composite slab - multi-layered plane",
+      "cylindrical and spherical shells",
+      "electrical analogy to heat flow",
+      "overall heat transfer coefficient. Thermal Insulation - Analysis of critical radius of insulation for cylinders and spheres",
+      "critical thickness of insulation",
+      "concept of optimum thickness of insulation",
+      "concept of thermal contact resistance. Unsteady State Heat Conduction - Analysis of transient heat flow with negligible internal resistance-lumped capacity analysis",
+      "concept of BiotModulus and Fourier number. Numerical problems of practical importance on the above topics.Problem solving in conduction using EXCEL / Matlab /SCILAB/ PYTHON etc. - only for selfstudy / microproject / assignment"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Convection - Mechanism",
+      "boundary layer concepts",
+      "thermal and velocity boundary layers",
+      "boundary layer thickness",
+      "relationship between hydrodynamic and thermal boundary layer thickness for flow over flat plates. The convective heat transfer coefficient",
+      "dimensionless numbers in convection. Dimensional analysis - Buckingham's pi theorem",
+      "its application of dimensional analysis to forced convection. Forced Convection - correlation equations for estimation of convection heat transfer coefficient- laminar and turbulent flow in a circular tube",
+      "laminar and turbulent flow over flat plates",
+      "numerical problems of practical interest. Natural Convection - Dimensional analysis",
+      "natural convection from vertical and horizontal surfaces under laminar and turbulent conditions for flat plates and cylinders under constant heat flux and constant wall temperature conditions",
+      "physical significance of Grashof and Rayleigh numbers",
+      "numerical problems of practical interest. Analogy between momentum and heat transfer- Reynolds",
+      "Prandtl",
+      "Colburn analogies. Radiation heat transfer - thermal radiation",
+      "spectral emissive power",
+      "total emissive power",
+      "emissivity",
+      "radiative properties- Emission",
+      "irradiation",
+      "radiosity",
+      "absorptivity",
+      "reflectivity and transmissivity",
+      "concept of black and gray bodies. Black body radiation -laws of black body radiation",
+      "view factor",
+      "radiation between two large parallel gray planes-derivation of expression for rate of radiant energy exchange. Problem solving in convection and radiation using EXCEL/ Matlab/ SCILAB/ PYTHON etc. - only for selfstudy /microproject/ assignment"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Boiling and Condensation - pool boiling",
+      "regimes of boiling",
+      "correlation for critical heat flux for nucleate pool boiling-Condensation - Drop and film type condensation - Nusselt equation to determine the heat transfer coefficient in film condensation (no derivation). Evaporation - short tube vertical or calandria type evaporators- Evaporator auxiliaries -steam traps",
+      "vacuum devices and entrainment separators. Single effect and multiple effect evaporators",
+      "performance of evaporators",
+      "capacity and economy of evaporators",
+      "factors affecting the performance of evaporators",
+      "effect of liquid head and boiling point elevation",
+      "material and energy balances for single effect evaporator",
+      "numerical problems of practical interest. Multiple effect evaporators - material and energy balances",
+      "Different feeding arrangements in multiple effect evaporators - their merits and demerits. Problem solving in boiling and evaporation",
+      "evaporator design using EXCEL/Matlab/SCILAB/PYTHON etc. - only for selfstudy/ microproject/ assignment"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Heat exchangers - classification according to construction features -tubular heat exchangers (shell and tube",
+      "double pipe",
+      "plate-type heat exchangers",
+      "extended surface heat exchangers",
+      "classification according to flow arrangements - single-pass exchangers",
+      "multi-pass exchangers. Concept and types of fouling - fouling factors",
+      "determination of overall heat transfer coefficient with and without fouling",
+      "derivation of expression for LMTD",
+      "concept of correction factor logarithmic mean temperature difference. Heat exchanger analysis using LMTD method in parallel flow",
+      "counter flow",
+      "cross flow and multi-pass heat exchangers",
+      "temperature - distance plots for different flow arrangements in single and multi-pass heat exchangers. NTU method of heat exchanger calculation",
+      "determination of area",
+      "length",
+      "number of tubes required for a given duty in different configurations using LMTD and NTU method of analysis. Problem solving in heat exchanger design using EXCEL /Matlab / SCILAB / PYTHON etc. - only for selfstudy /microproject/assignment"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

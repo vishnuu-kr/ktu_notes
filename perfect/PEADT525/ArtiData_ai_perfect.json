@@ -1,0 +1,93 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "The Image, Its Representation and Properties - Image Representations, Image Digitization, Sampling, Quantization, Digital Image Properties, Metric and Topological Properties of Digital Images, Histograms, Entropy, Visual Perception of the Image - Contrast, Acuity, Image Quality, Noise in Images",
+            "Color Images - Physics of Color, Color Perceived by Humans, Color Spaces, Color Constancy",
+            "Data Structures for Image Analysis - Levels of Image Data Representation, Traditional Image Data Structures - Matrices, Chains, Topological Data Structures - Relational Structures, Hierarchical Data Structures, Pyramids, Quadtrees, Other Pyramidal Structures"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Pixel Brightness Transformations",
+            "Position-Dependent Brightness Correction",
+            "Gray-Scale Transformation",
+            "Geometric Transformations - Pixel Coordinate Transformations",
+            "Brightness Interpolation",
+            "Local Pre-Processing",
+            "Image Smoothing",
+            "Edge Detectors",
+            "Zero-Crossings of the Second Derivative",
+            "Scale in Image Processing",
+            "Canny Edge Detection",
+            "Parametric Edge Models",
+            "Edges in Multi-Spectral Images",
+            "Line Detection by Local Pre-Processing Operators",
+            "Detection of Corners (Interest Points)",
+            "Image Restoration - Degradations That Are Easy to Restore",
+            "Inverse Filtering",
+            "Wiener Filtering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Image Segmentation - Thresholding",
+            "Threshold Detection Methods - Optimal Thresholding",
+            "Multi-Spectral Thresholding",
+            "Edge-Based Segmentation",
+            "Edge Image Thresholding",
+            "Edge Relaxation",
+            "Border Tracing",
+            "Border Detection as Graph Searching",
+            "Border Detection as Dynamic Programming",
+            "Hough Transforms",
+            "Border Detection Using Border Location Information",
+            "Region Construction from Borders",
+            "Region-Based Segmentation - Region Merging",
+            "Region Splitting - Splitting and Merging",
+            "Watershed Segmentation",
+            "Mean Shift Segmentation",
+            "Fuzzy Connectivity",
+            "Introduction to 3D Graph-Based Image Segmentation",
+            "Matching",
+            "Template Matching",
+            "Control Strategies Templating",
+            "Evaluation Issues in Segmentation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Image Transforms - 2D Fourier Transform",
+            "Discrete Cosine Transform",
+            "Wavelet Transform",
+            "Eigen-Analysis",
+            "Singular Value Decomposition",
+            "Principal Component Analysis",
+            "Image Texture - Statistical Texture Description",
+            "Methods Based on Spatial Frequencies",
+            "Co-Occurrence Matrices",
+            "Edge Frequency",
+            "Primitive Length (Runlength)",
+            "Texture Energy Measures",
+            "Local Binary Patterns (LBPs)",
+            "Fractal Texture Description",
+            "Other Statistical Methods of Texture Description",
+            "Introduction to Object Recognition - Knowledge Representation",
+            "Statistical Pattern Recognition",
+            "Classification Principles",
+            "Minimum Distance Classifier Learning and Classification",
+            "Nearest Neighbor Search with K-D Trees"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

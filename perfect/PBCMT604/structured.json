@@ -1,0 +1,82 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Data Analytics:-Analytics Process Model, Analytical Model Requirements, Data Analytics Life Cycle overview",
+            "Association of two variables - Discrete variables, Ordinal and Continuous variable",
+            "Probability calculus - probability distributions",
+            "Hypothesis Testing - Basic definitions. Proximity Measures - Data Objects, Attribute types, Dissimilarity and Similarity measures"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Association of Two Variables:-Summarizing the Distribution of Two Discrete Variables",
+            "Contingency Tables for Discrete Data",
+            "Joint",
+            "Marginal",
+            "and Conditional Frequency Distributions",
+            "Graphical Representation of Two Nominal or Ordinal Variables",
+            "Measures of Association for Two Discrete Variables",
+            "Association Between Ordinal and Continuous Variables",
+            "Visualization of Variables from Different Scales"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Statistical Description of data - Central tendency",
+            "Dispersion",
+            "Range",
+            "Quartiles",
+            "Variance",
+            "Standard Deviation",
+            "and Interquartile Range. Data Preprocessing - Cleaning",
+            "Integration",
+            "Reduction",
+            "Transformation",
+            "Discretization. Mining Frequent Patterns - Associations",
+            "Correlations",
+            "and Apriori Algorithms. Classification - General approach to classification",
+            "Attribute selection measures",
+            "Naive Bayesian Classification. Clustering - K-Means",
+            "Agglomerative versus Divisive Hierarchical Clustering",
+            "BIRCH",
+            "DBSCAN"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Text Processing :-Boolean retrieval",
+            "Example IR problem",
+            "inverted index",
+            "processing Boolean queries",
+            "tokenization",
+            "stemming",
+            "phrase queries",
+            "vector space model",
+            "finite automata and language model",
+            "query likelihood model",
+            "naïve bayes text classification. Suggestion on Project Topics Students may select a suitable real world scenario and perform data analysis using appropriate tools. A few sample topics are given below. 1. Develop a system to analyse social media posts for sentiment and detect trends over time. The system will gather posts from various social media platforms",
+            "analyse the sentiment of these posts",
+            "and identify trending topics or keywords. The insights gained can be used for market research",
+            "brand monitoring",
+            "or understanding public opinion. 2. Develop a system to detect and analyse topics from social media posts. The system will collect posts related to specific keywords or hashtags",
+            "perform topic modelling to identify and categorize main discussion themes",
+            "and visualize topic trends over time. 3. Develop a system to analyse and mine data from student marks to uncover patterns",
+            "trends",
+            "and insights related to academic performance. The system will process historical student performance data to identify factors influencing grades",
+            "detect patterns in performance",
+            "and provide predictive analytics to assist in improving student outcomes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

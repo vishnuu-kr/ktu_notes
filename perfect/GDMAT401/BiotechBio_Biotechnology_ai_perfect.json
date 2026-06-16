@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Population and Sample",
+            "The Sample Mean",
+            "Population Mean and Variance",
+            "The Central Limit Theorem - Distribution of Sum of Random Variables",
+            "Approximate Distribution of the Sample Mean",
+            "Sample Variance and Sample Standard Deviation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Interval Estimation of Population Mean - Two Sided Confidence Interval",
+            "One-Sided Lower and Upper Confidence Intervals",
+            "Confidence Interval for the Mean when the Variance is Unknown",
+            "Confidence Intervals for the Variance of a Normal Distribution"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Hypothesis Testing: Significance Levels, Null Hypothesis, Critical Region, Type I and Type II Errors",
+            "Testing of Mean of a Normal Population - Case of Known Variance, One Sided Tests",
+            "Testing of Mean of a Normal Population - Case of Unknown Variance, One Sided t-Test"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "The Method of Least Squares - Regression Line",
+            "Multiple Regression (for Two Independent Variables Only)",
+            "Analysis of Variance",
+            "Completely Randomized Design (One-Way ANOVA)",
+            "Randomized-Block Design (Two-Way ANOVA)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to vehicle dynamics: History of road and off-road vehicle\nsystem dynamics. Vehicle coordinate systems- vehicle fixed coordinates\nsystem, earth fixed coordinate system, SAE coordinate system. Fundamental\napproaches to vehicle dynamics modelling lumped mass, vehicle fixed\ncoordinate system, motion variables, Euler angles, forces, Newton’s second\nlaw. Modelling and simulation of dynamic behaviour of vehicle, motion\nanalysis, force analysis, and energy analysis using software (simple models).\nPerformance of road vehicles: Forces and moments on vehicle, equation of\nmotion, tire forces, rolling resistance, weight distribution, tractive\neffort/tractive resistance and power available from the engine/ power required\nfor propulsion, road performance curves- acceleration, grade ability, drawbar\npull and the problems related to these terms.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Longitudinal dynamics: Calculation of maximum acceleration braking\ntorque, braking force, brake proportioning, braking efficiency, stopping\ndistance, load distribution (three wheeled and four wheeled vehicles),\ncalculation of acceleration, tractive effort and reactions for different drives,\nStability of a vehicle on slope, (Problems related to these). Weight transfer\nduring acceleration, cornering and braking\nMATLAB simulation for longitudinal dynamic response during acceleration\nand braking of automotive system. Vehicle dynamic Control, modelling of\nactuators, sensors for automobile control, sensors for detecting vehicle\nenvironment, central tyre inflation system. Prediction of vehicle performance.\nABS, stability control, traction control.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to lateral dynamics - Development of lateral forces. slip angle,\ncornering force, cornering stiffness, pneumatic trail, self-aligning torque,\npower consumed by tire, tire stiffness, hysteresis effect in tires, steady state\nhandling characteristics. yaw velocity, lateral acceleration, curvature response\n& directional stability. Stability of a rigid vehicle and equations of motion of\na rigid vehicle, cross wind handling, the problems related to these terms.\nMATLAB simulation for lateral dynamic response during cornering of\nautomotive system. Stability of a vehicle on a curved track and a banked road.\ngyroscopic effects.,",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to vertical dynamics - Human response to vibrations,\nclassification of vibration, specification and vibration, sources of vibration,\nsuspension systems, Modal Analysis, One DOF, two DOF, free and forced\nvibration, damped vibration, magnification and transmissibility, body\nvibrations: bouncing and pitching. doubly conjugate points (only basic idea).\nbody rolling. roll centre and roll axis, roll axis and the vehicle under the action\nof side forces, stability against body rolling.\nVehicle dynamics and suspension design for stability. Design and analysis\nof passive, semi-active and active suspension using quarter car, half car and\nfull car model. Matlab simulation for vertical dynamic response to analyze\nride, pitch and roll of automotive system, Matlab simulation for Half Car\nModel, Matlab simulation for Quarter Car Model",
+    "contact_hours": "11"
+  }
+]

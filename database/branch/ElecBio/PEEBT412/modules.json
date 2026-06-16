@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to digital design methodology using Verilog HDL -\nDesign flow - Modeling abstraction levels, gate level model, RTL\nmodel, behavioral model - Simulation and synthesis - Modeling for\nASIC/FPGA - Language concepts - Data types and operators -\nStructural, data flow and behavioral models - Hierarchical structure\n- Combinational and sequential circuit description - Continuous and\nprocedural assignments - Blocking and non-blocking assignments -\nDelay modeling - Parameterized reusable design– Compiler\ndirectives - Testbenches.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Combinational Modules, Modelling and simulation using\nVerilog: Adders Half adder, Full adder, ripple carry adder),\ncomparators, Decoders, Encoders, Multiplexers, Demultiplexers.\nSequential modules Modelling and simulation using Verilog:\nFlip flop (JK, D), Shift registers (SISO, SIPO, PISO, PIPO,\nUniversal shift Register), synchronous Counters (up, down,\nUp/down using mode control, Mod-N).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Timing characteristics and Impediments to synchronous design\nof sequential networks – setup time – hold time – propagation\ndelay –- maximum clock frequency- clock skew. Analysis of\nsynchronous sequential circuits - Derivation of state graphs and\nstate tables, General model of sequential networks. Design of\nsynchronous sequential circuits - Finite state machines - Mealy and\nMoore models - State graphs - State assignment - State table - State\nreduction- Design of Sequence Detector",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Programmable LSI techniques -PLA/PAL/PLDs - Building Logic\nFunctions\nwith\nPLA/PAL,\nRead-Only\nMemory\n(ROM)-\nCombinational Circuit Implementation with ROM- Sequential\nCircuit Implementation with ROM CPLD and FPGAs -\nXilinx/Altera series FPGAs - Programmable System on Chip - Zynq\nSo design overview.",
+    "contact_hours": "9"
+  }
+]

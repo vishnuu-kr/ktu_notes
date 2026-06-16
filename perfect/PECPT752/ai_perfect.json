@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Fault Tolerance: Definitions and Key Concepts",
+            "Importance in Networked Systems",
+            "Types of Faults and Failures: Crash Failures, Omission Failures, Timing Failures, and Byzantine Failures",
+            "Impact on System Performance and Reliability",
+            "Redundancy and Replication Techniques: Hardware vs. Software Redundancy",
+            "Data Redundancy: RAID Levels and Their Implications",
+            "Replication Strategies: Primary-Backup and Quorum-Based"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Fault Detection Mechanisms: Basic Fault Detection Techniques (Heartbeat, Monitoring, Logging)",
+            "Tools and Frameworks for Fault Detection",
+            "Fault Diagnosis and Isolation: Techniques for Identifying and Isolating Faults",
+            "Practical Examples and Simplified Tools",
+            "Recovery Strategies: Checkpointing and Rollback Basics",
+            "Simple Transaction Recovery Mechanisms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Paxos",
+            "Raft",
+            "Basic Concepts of Coordination Services: ZooKeeper and Consul",
+            "Load Balancing and Failover: Principles of Load Balancing in Fault-Tolerant Systems",
+            "Simple Failover Strategies and Practical Case Studies",
+            "Network Fault Tolerance: Basic Network Redundancy and Routing Protocols",
+            "Handling Network Partitioning and Latency Issues"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Fault Tolerance in Modern Systems: Cloud Computing and Microservices",
+            "Real-World Applications and Case Studies",
+            "Security Considerations: Impact of Security Breaches on Fault Tolerance",
+            "Designing Fault-Tolerant Systems with Basic Security Considerations",
+            "Emerging Trends and Future Directions: Fault Tolerance in IoT and Edge Computing",
+            "Current Research and Future Directions",
+            "Project Presentations and Review: Student Presentations of Fault-Tolerant System Projects",
+            "Review of Key Concepts and Course Wrap-Up"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

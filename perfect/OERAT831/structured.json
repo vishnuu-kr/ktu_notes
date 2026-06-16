@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Elementary signals",
+            "Continuous time and Discrete time signals and systems",
+            "Signal classifications",
+            "operations",
+            "linearity",
+            "stability and causality of systems",
+            "LTI systems-definition and examples Convolution",
+            "Correlation and Orthogonality of signals"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Frequency domain representation-Continuous time Fourier series",
+            "Continuous time Fourier transform",
+            "Laplace transform",
+            "Inverse Laplace transform",
+            "Differential equation representation of continuous time systems",
+            "Transfer function",
+            "Frequency response"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Sampling",
+            "Aliasing",
+            "Z transform",
+            "Inverse Z transform",
+            "Difference equation representation of discrete time systems",
+            "Frequency domain representation of discrete time signals-Discrete time Fourier transform (DTFT",
+            "Analysis of discrete time LTI systems using the above transforms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Discrete Fourier Transform (DFT",
+            "computational complexity",
+            "circular convolution",
+            "long convolution",
+            "Fast Fourier Transform (FFT)-Decimation in Time algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to communication for CPS: Overview of CPS and\ncommunication requirements, Types of communication in CPS (eg: sensor-\nsensor, sensor-actuator, actuator-actuator), Communication protocols and\nstandards for CPS. Network topologies and architecture for CPS (TCP/IP,\nUDP, HTTP), Network performance matrices (eg: Throughput, latency,\njitter)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Wireless communication for CPS: Wireless communication technologies\n(Wi-Fi, Bluetooth, Zigbee) Wireless network protocols and standards\n(802.11,802.15.4), Wireless Communication challenges (interference,\nfading), Wired communication for CPS: Wired communication technologies\n(Ethernet, USB, CAN), Wired network topologies and standards (TCP/IP,\nUDP, Modbus)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Data compression and Encryption for CPS: Data compression techniques\n(Huffman coding, LZ77), Encryption techniques (AES, ESA), Data\ncompression and Encryption algorithms for CPS)\nCommunication protocols for CPS applications: IoT communication\nprotocols (MQTT, CoAP, LWM2M), Industrial automatic communication\nprotocols (Modbus, Profibus, Profinet), Healthcare communication\nprotocols (HL7, DICOM)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Performance Evaluation and Optimization: Performance matrices for\nCPS\ncommunication\n(throughput,\nlatency,\nreliability)\nperformance\nEvaluation tools (simulation, testing), Optimization techniques for CPS\ncommunication (buffer sizing, packet scheduling), Security and Privacy in\nCPS communication: Threats and vulnerabilities in CPS communication,\nSecurity measures for CPS communication (encryption and authentication),\nprivacy concerns and solutions in CPS communication.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to ANN and CNN\nOverview of biological neuron, concept of Perceptrons, Multi-Layer\nPerceptrons (MLPs)\nActivation functions - Sigmoid Relu and Softmax.\nLoss functions-Mean Squared Error, Cross Entropy\nConvolutional Neural Networks - Convolution operation.\nCNN Architecture - convolutional layers, kernels, padding, pooling layers,\nfully connected layers.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Training CNNs - Back-propagation and initialization\nOptimization algorithms - SGD, Adam\nHyper parameter optimization-Learning rate\nRegularization\nmethods\n-\nL1,\nL2\nregularization,\ndropout,\nData\nAugmentation, Early stopping,  batch  normalization\nIntroduction to Transfer learning.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Sequence Models\nRecurrent Neural Networks (RNN) - cell structure and architecture.\nTraining RNN - back propagation through time, vanishing and exploding\ngradients.\nArchitecture of Long Short-Term Memory (LSTM)\nArchitecture of Gated Recurrent Units (GRU)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "(Detailed mathematical treatment not required for this module)\nIntroduction to Generative Models\nGANs - adversarial training. Discriminator, Generator.\nIntroduction to Transformer models – architecture, word embedding,\nposition encoding, attention, basics of training transformer models.\nBasics of Large language model  - GPT",
+    "contact_hours": "9"
+  }
+]

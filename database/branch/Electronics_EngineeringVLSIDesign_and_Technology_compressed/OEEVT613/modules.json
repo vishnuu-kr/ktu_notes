@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Scope and applications of Power Electronics, Properties of\nideal switch.\nStructure and static characteristics: Power diodes, Power BJT, Power\nMOSFET & IGBT – comparison.  Basic principles of wide band gap\ndevices – SiC & GaN.\nSafe Operating Area: Power BJT, Power MOSFET & IGBT. Drive\nCircuits: Power BJT and Power MOSFET (any two example circuits – no\nanalysis).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "SCR: Structure, two transistor analogy, static characteristics.\nRectifiers:  Three phase diode bridge rectifiers, Single phase half controlled\nrectifier with R load – Single phase fully controlled bridge rectifier\n(continuous conduction) – output voltage equation. Principle of three phase\nhalf wave  controlled rectifier– (average output voltage equation for\ncontinuous load current) – related simple problems (1-phase & 3-phase).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "DC – DC Switch Mode Converters: Buck, Boost and Buck-boost DC-DC\nconverters. Waveforms and expression of DC-DC converters for output\nvoltage, voltage and current ripple under continuous conduction mode.\nIsolated converters: Flyback, Forward, Push Pull, Half bridge and Full\nbridge converters – Waveforms and governing equations.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "DC-AC Switch Mode Inverters: Inverter topologies, Driven Inverters:\nPush-Pull, Half bridge and Full bridge configurations, Single phase PWM\ninverters (Single pulse width and sinusoidal pulse width modulation) – rms\noutput voltage equation  and output voltage waveforms.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,180 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "How JavaScript Makes Web Pages More Interactive",
+            "Examples of JavaScript in the Browser",
+            "How HTML, CSS, and JavaScript Fit Together",
+            "Creating a Basic JavaScript",
+            "Placing Scripts in the Page",
+            "Basic JavaScript Instructions: Statements, Comments, Variables, Data Types, Arrays, Expressions, and Operators",
+            "Functions, Methods, and Objects",
+            "Arrays of Objects and Objects in Arrays",
+            "Built-in Objects: Browser Object Model and Document Object Model",
+            "Global Objects: String, Number, Math, Date",
+            "Document Object Model (DOM) Tree and Accessing Elements",
+            "Selecting Elements Using Class, Tag Name, and CSS Selectors",
+            "Looping Through a NodeList",
+            "Traversing the DOM",
+            "Working with Text Content and Modifying HTML",
+            "Adding, Removing, and Modifying Elements and Attributes",
+            "Event Handling: Types and Binding Methods",
+            "The Event Object, Event Bubbling, and User Interface Events"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "ECMAScript Versions: ES5 Features and ES6 Introduction",
+            "Variable Declarations: var, let, and const",
+            "Function Enhancements: Default Parameters, Spread Operator, and Arrow Functions",
+            "Destructuring: Objects and Arrays",
+            "Sets and Maps",
+            "Array Methods: find and findIndex",
+            "Template Strings and JavaScript Classes",
+            "Callbacks, Promises, and Async/Await",
+            "AJAX: Concepts, Working, and Data Formats (XML, JSON)",
+            "Working with JSON Data and Loading HTML/JSON with Ajax",
+            "Cross-Server Data Requests with Ajax",
+            "jQuery: Introduction and Basic Example",
+            "Finding Elements with jQuery Selectors",
+            "Getting and Updating Element Content",
+            "Inserting New Content and Elements",
+            "Getting and Setting Attributes and CSS Properties",
+            "jQuery .each() Method and Events",
+            "Effects and Animating CSS Properties with jQuery",
+            "Traversing the DOM with jQuery",
+            "Working with Forms and jQuery AJAX"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "What is Node.js",
+            "Installing Node.js",
+            "Creating First Server",
+            "Request and Response",
+            "Responding with HTML",
+            "Installing Custom Packages with NPM",
+            "Introduction to Express",
+            "Handling Requests with Express",
+            "Serving Other HTML Files",
+            "Serving Static Files with Express",
+            "Automatic Server Restart with Nodemon",
+            "Public Folder for Serving Static Files",
+            "Creating Page Routes",
+            "Templating Engines",
+            "MongoDB: Architecture of MongoDB",
+            "Installing MongoDB",
+            "Mongoose",
+            "Defining a Model",
+            "CRUD Operations with Mongoose Models",
+            "Reading Data from MongoDB using Mongoose",
+            "Updating Record",
+            "Deleting a Single Record",
+            "Saving to the Database",
+            "Dynamic Data with Templating Engines",
+            "Adding Fields to the Schema",
+            "Uploading Image with Express",
+            "Saving Uploaded Images to Database"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Express Middleware",
+            "Custom Middleware",
+            "Registering Validation Middleware",
+            "Refactoring to MVC",
+            "Refactoring Validation Layer",
+            "Mongoose Validation",
+            "Password Encryption",
+            "User Login Process",
+            "User Authentication with Express Sessions",
+            "Authentication Middleware",
+            "User Logout",
+            "Handling Non-Existent Routes",
+            "Displaying Validation Errors in Templates",
+            "Duplicate Entry Error",
+            "Flushing Error Messages from Session",
+            "Customising Error Message",
+            "Persist Request Data on Form",
+            "Adding a WYSIWYG Editor",
+            "Deployment: Setting Up MongoDB Atlas",
+            "Deploying Web Apps on Heroku",
+            "Project Suggestions: Countdown Clock, To-Do List, Rock Paper Scissors Game, Shopping Cart Page"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 5",
+        "topics": [
+            "Calculator App"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 6",
+        "topics": [
+            "Memory Game"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 7",
+        "topics": [
+            "Movie App"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 8",
+        "topics": [
+            "Chat App"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 9",
+        "topics": [
+            "Hotel Booking App"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 10",
+        "topics": [
+            "Library App"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 11",
+        "topics": [
+            "Job Search App"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 12",
+        "topics": [
+            "E-Commerce Website"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Machine Learning Paradigms:-Supervised Learning",
+      "Unsupervised Learning",
+      "Semi Supervised Learning",
+      "Reinforcement Learning Parameter Estimation Methods:-Maximum Likelihood Estimation (MLE",
+      "Maximum Aposteriori Estimation (MAP",
+      "Bayes Estimation",
+      "Least Square Estimation (LS",
+      "Minimum Mean Square Estimation (MMSE",
+      "The Gradient Descent Method and its variants (Simple Gradient Descent Method",
+      "Stochastic Gradient Method",
+      "Batch Gradient Method",
+      "Illustrative examples of parameter estimation using different methods"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Supervised Learning Models:-Regression - Regression Models (Simple Regression, Multivariable linear Regression, Polynomial Regression, Logistic Regression), Illustrative examples of designing regression models",
+      "Decision Trees - Working Principle, Decision Tree formation using ID3 Algorithm, The Classification and Regression Trees Algorithm (CART), Illustrative examples on designing decision trees",
+      "Overfitting and Underfitting :- Bias and Variance, Bias-Variance Trade-off, Regularization (Ridge, Lasso and Elastic Net Regularization techniques"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "More Supervised Learning Methods:-Support Vector machines (SVM) - Maximum Margin Classification, Mathematics behind Maximum Margin Classification, Hard Margin SVM, Soft Margin SVM, Non-Linear SVM, The Kernel Trick, Different Kernel Functions (Linear Kernel, Polynomial Kernel, RBF Kernel, Sigmoid Kernel",
+      "K-Nearest Neighbour Classifier (KNN):- Working Principle, Illustrative examples on designing KNN Classifiers",
+      "Naive Bayes Classifier - Working Principle, Types of Naive Bayes Classifiers, Illustrative examples"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Ensemble Learning:-Basic Techniques (Voting",
+      "Simple and Weighted Averaging Techniques",
+      "Advanced Techniques (Bagging",
+      "Boosting",
+      "Stacking) - The Random Forest Classifier Assessment of Classification Models:-Performance measures- Confusion Matrix",
+      "Accuracy",
+      "Precision",
+      "Recall",
+      "F1-Score",
+      "Receiver Operating Characteristics Curve (ROC",
+      "Area Under the Curve (AUC",
+      "Illustrative examples on Classification model assessment"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

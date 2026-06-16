@@ -1,0 +1,348 @@
+Course Code 
+PCBBT601 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Students will be learning the latest technologies in food processing and its applications 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to process control with the help of examples of a tank 
+heater system- different control strategies- feedback, feed forward, 
+inferential. 
+General modeling principles- Classification of variables in process control.  
+Importance of state variables, state equations and degrees of freedom  
+Tools for solving models- Laplace Transforms: Definition of the Laplace 
+transform. Laplace transforms of some basic forcing functions - step, 
+exponential, ramp, sinusoidal, cosine, pulse, impulse and translated 
+functions, Laplace transform of derivatives and integrals, initial value 
+theorem and final value theorem. Numerical problems 
+ Example- Theoretical model development of tank heater system – input-  
+output model and its solution. 
+ 
+11  
+2 
+Transfer functions and their general characteristics -  Transfer functions 
+of SISO systems - A general first order and second order systems.  
+Development of transfer function models for first order systems - First 
+order systems and its general characteristics, Development of transfer 
+function models for first order systems- a continuous single tank (mass 
+ 
+11  
+
+ 
+ 
+storage) system and a mercury in glass thermometer system (only linear 
+systems). Dynamics of a first order system for step and impulse input.  
+Development of transfer function models for second order systems – 
+multi-capacity systems - two tanks connected in series, inherently second 
+order systems - damped vibrator, first order system in the presence of a 
+controller.  Dynamics of second order systems - General characteristics of 
+under damped, over damped and critically damped systems.  
+Numerical problems – Numerical Problems on overshoot, decay ratio, 
+period of oscillation, ultimate value and maximum value. Numerical 
+problems on transfer functions and dynamic response of first and second 
+order systems 
+3 
+Hardware elements of a control system- Explanation with the help of an 
+example temperature control set up for a bioreactor.  
+Instrumentation - Final control elements, Measuring devices for flow, 
+temperature, pressure, level, pH, Dissolved Oxygen 
+Transfer function of components of feedback loop - Transfer functions of 
+measuring devices, transmission lines and final control elements (pneumatic 
+control valves and control valve characteristics). Dead time processes. Types 
+of feedback controllers. Control laws and transfer functions of P, PI and PID 
+controllers.  
+Dynamic behaviour of feedback-controlled processes. Difference between 
+open loop and closed loop control system. Closed loop transfer function for 
+feedback (positive and negative) processes. Servo and regulatory responses 
+due to the presence of   proportional control, integral control, derivative 
+control action and composite control on the response of a feedback-
+controlled process. 
+11  
+4 
+Frequency response characteristics using substitution rule and their 
+graphical representations - General linear system, dead time process, pure 
+capacitive process, feedback controllers-P, PI, PD and PID controllers. 
+(General representation of frequency response of typical transfer functions 
+using BODE plot is only expected and no problems are expected) 
+Stability analysis of feedback systems: Notion of stability, Stable and 
+unstable systems, BIBO stability, Prediction of stability of transfer function 
+for open loop and closed loop systems based on transfer function analysis. 
+The characteristic equation, Routh Hurwitz criterion for stability. Cross over 
+frequency, Gain and Phase margin. Bode stability criterion, Nyquist stability 
+criterion. Numerical examples on Routh analysis, Cross over frequency, GM, 
+ 
+11  
+
+ 
+ 
+PM. 
+Design of feedback controllers: Semi empirical tuning techniques -CC and 
+ZN Tuning. Numerical problems based on semi empirical tuning rules. 
+Introduction to other methods of Controller tuning- Internal Model 
+Control (IMC) Tuning, Model Predictive Control (MPC), Fuzzy Logic PID 
+Tuning, Adaptive PID Control (No detailed study is required on these topics. 
+A basic overview would be sufficient) 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE):  
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+ 
+ 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+ 
+(8x3 =24marks) 
+ 
+2 questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+ 
+Each question can have a maximum of 3 
+sub divisions.  
+ 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Illustrate the design elements and hardware elements of a process 
+control system
+K2 
+CO2 
+Model simple systems and solve the mathematical equations using 
+Laplace transforms
+K3 
+CO3 
+Determine the dynamic behaviour of both open and closed loop 
+systems
+K3 
+CO4 
+Design conventional type of controllers for stable operation using 
+selected mathematical method
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Chemical Process Control: An 
+Introduction to Theory and 
+Practice 
+Stephanopoulose G 
+Pearson Education 
+India 
+Edition
+First 
+Edition 
+2 
+Process Systems Analysis and 
+Control  
+Coughanowr R D, 
+LeBlanc E S, 
+McGraw Hill 
+International Edition 
+Third 
+Edition 
+3 
+Industrial Instrumentation 
+Eckman 
+CBS Publishers and 
+Distributors Pvt Ltd 
+ 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Process Modeling Simulation 
+and Control for Chemical 
+Engineers
+Luyben W L 
+McGraw Hill, 
+Singapore 
+Second 
+Edition 
+2 
+Process Dynamics and Control 
+Seborg D E, Edgar TF, 
+Mellichamp D A, Doyle 
+FJ
+John Wiley & Sons 
+Third 
+Edition 
+3 
+Process Control 
+Peter Harriot 
+McGraw Hill 
+Education
+ 
+4 
+Principles of Fermentation 
+Technology
+P F Stanbury, A 
+Whitaker and S J Hall
+Butterworth-
+Heinemann
+Third 
+Edition
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+2 
+2 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+2 
+2 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/103/105/103105064/
+https://nptel.ac.in/courses/103103037 
+2 
+https://archive.nptel.ac.in/courses/103/105/103105064/
+https://nptel.ac.in/courses/103103037 
+3 
+https://archive.nptel.ac.in/courses/103/105/103105064/
+https://archive.nptel.ac.in/courses/103/105/103105130/ 
+https://nptel.ac.in/courses/103103037 
+4 
+https://archive.nptel.ac.in/courses/103/105/103105064/
+https://nptel.ac.in/courses/103103037 
+
+ 
+ 
+SEMESTER S6 
+PROCESS PLANT DESIGN

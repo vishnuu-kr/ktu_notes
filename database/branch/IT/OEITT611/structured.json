@@ -1,0 +1,60 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Overview of programming languages",
+      "Setting up the development environment (IDE",
+      "Writing and running a simple Java program Basics of Java: Variables",
+      "data types",
+      "and operators",
+      "control structures (conditional control statements",
+      "loops",
+      "Input/output Basics (reading console input",
+      "writing console output"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Defining classes and objects",
+      "Constructors and instance variables",
+      "Methods and method overloading Encapsulation and Access Modifiers: Encapsulation principles",
+      "Access modifiers (public",
+      "private",
+      "protected",
+      "Getters and setters"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Inheritance hierarchy",
+      "Method overriding Superclass and subclass relationships Polymorphism: Method overloading vs. method overriding",
+      "Dynamic method dispatch",
+      "Abstract classes and interfaces"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Handling exceptions (try-catch blocks",
+      "Custom exceptions",
+      "Checked vs. unchecked exceptions. Errors: Understanding common Error types in Java",
+      "using Java Error information for root cause analysis and JVM tuning. Collections and Data Structures: Lists",
+      "sets",
+      "and maps",
+      "ArrayList",
+      "HashSet",
+      "HashMap",
+      "Iterators"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

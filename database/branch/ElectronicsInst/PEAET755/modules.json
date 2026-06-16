@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basics of pattern recognition system – Introduction, various applications,\nclassification of pattern recognition systems. Design of Pattern recognition\nsystem, Pattern recognition Life Cycle.\nStatistical Pattern Recognition - Review of probability theory, Gaussian\ndistribution, Bayes decision theory and Classifiers, Optimal solutions for\nminimum error and minimum risk criteria, Normal density and discriminant\nfunctions, Decision surfaces.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Parameter estimation methods - Maximum-Likelihood estimation,\nExpectation-maximization method, Bayesian parameter estimation. Concept\nof feature extraction and dimensionality, Curse of dimensionality, Dimension\nreduction methods - Fisher discriminant analysis, Principal component\nanalysis, Hidden Markov Models (HMM) basic concepts, Gaussian mixture\nmodels",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Non-Parameter methods - Non-parametric techniques for density\nestimation - Parzen-window method, K-Nearest Neighbour method.\nNon-metric methods for pattern classification - Non-numeric data or\nnominal data. Decision trees, Concept of construction, splitting of nodes,\nchoosing of attributes, overfitting, pruning.\nLinear Discriminant based algorithm - Perceptron",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Artificial Neural networks.\nMultilayer perceptrons, learning by gradient descent, Back Propagation\nalgorithm.\nClassifier\nEnsembles:\nBagging,\nBoosting/AdaBoost.\nUnsupervised learning - Clustering, Algorithms for clustering: K-means\nand Hierarchical methods, Cluster validation",
+    "contact_hours": "9"
+  }
+]

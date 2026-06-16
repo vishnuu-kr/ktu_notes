@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "The Perceptron",
+            "Multilayer Neural Networks. Activation functions - Sign",
+            "Sigmoid",
+            "Tanh",
+            "ReLU",
+            "leaky ReLU",
+            "Hard Tanh",
+            "Softmax. Loss function. Training a Neural Network with Backpropagation. Practical issues in neural network training. Overfitting",
+            "Underfitting",
+            "Hyper parameters and Validation sets",
+            "Estimators -Bias and Variance. Introduction to deep learning",
+            "Deep feed forward network. Introduction to pytorch /tensorflow. Implementing image classification algorithms on CIFAR10 dataset using pytorch"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Optimization Techniques -Introduction",
+            "setup and initialization- Kaiming",
+            "Xavier weight initializations",
+            "Vanishing and exploding gradient problems",
+            "Optimization techniques - Gradient Descent (GD",
+            "Stochastic GD",
+            "GD with momentum",
+            "GD with Nesterov momentum",
+            "AdaGrad",
+            "RMSProp",
+            "Adam",
+            "Regularization Techniques - L1 and L2 regularization",
+            "Early stopping",
+            "Dataset augmentation",
+            "Parameter tying and sharing",
+            "Ensemble methods",
+            "Dropout",
+            "Batch normalization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "AlexNet",
+            "VGGnet-19",
+            "ResNet 50",
+            "YOLO Implementing object classification and detection using CNN networks in python using any of deep libraries like Tensorflow",
+            "Keras",
+            "Caffe"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Transformer Architecture Self-Attention and Positional Encoding Autoencoders Variational Auto-Encoder-under complete Auto-encoder",
+            "stochastic encoder",
+            "denoising encoder",
+            "Applications of Autoencoders. Generative models : Generative Adversarial Networks. Case study: BERT",
+            "Social Media Sentiment Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

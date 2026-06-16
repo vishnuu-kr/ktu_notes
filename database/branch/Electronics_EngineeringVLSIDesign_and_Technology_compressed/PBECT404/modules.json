@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Microcontroller Architecture – General internal architecture, Address\nbus, Data bus, control bus.\nThe Microcontroller 8051: Features of 8051 microcontroller, Block\ndiagram of 8051- program status word (PSW), accumulator, program\ncounter. Memory organization – RAM & ROM, register banks and stack,\nSpecial Function Registers (SFRs), I/O port organization, Interrupts.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Instruction Set of 8051 & Addressing modes: Classification of\ninstruction set - Data transfer group, arithmetic group, logical group,\nbranching group.\nAddressing modes - Types. Accessing the data from internal and external\nmemory.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Programming 8051 Using Assembly Language: Introduction to 8051\nassembly language programming. Data types & directives, Concept of\nsubroutine. Software delay programming.\nProgramming 8051 Using Embedded C Language: Introduction to\nembedded C – advantages.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Timer / Counter in 8051: Timer registers - Timer0, Timer1.\nConfiguration of timer registers. Timer mode programming. Counter\nmode.\nSerial Communication in 8051: Serial communication – modes and\nprotocols, RS-232 pin configuration and connection. Serial port\nprogramming – transmitting and receiving.\nProgramming the interrupts: Use external, timer and serial port\ninterrupts. Interrupt priority settings.\nSuggestion on Project Topics\n1.\nInterface any known ADC chip to 8051 uC. Read the variation in voltage from a\npotentiometer and display it on an LCD module.\n2.\nInterface any known DAC chip to 8051 uC. Generate a Sine waveform of 1KHz at\nany port pin.\n3.\nDC motor interface for speed and direction control.\n4.\nStepper motor interface - Unit step control, Rotation angle control, Speed control,\nDirection control\n5.\nRead the Temperature sensor and display it on LCD.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Types -Variable reluctance, permanent magnet and hybrid motors - Constructional features - principle of operation - modes of excitation. Torque production in variable reluctance stepping motor: Static torque characteristics - position error due to low torque",
+      "Performance parameters -resolution - single step response and accuracy",
+      "Pull-in and pull-out characteristics - Resonance issues. Unipolar and bipolar drive schemes - Bifilar drives - Open loop position control - starting/stopping rate - Velocity profiling -Closed loop control of stepper motors (Assignment"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Permanent magnet materials and characteristics, PMSM - Principle of operation, SPM and IPM machines, Torque equation, Phasor diagram, Machine modeling, Switching schemes, Motor control - Field oriented control, Flux weakening, Sensorless control, Power controllers. Brushless DC Motor (BLDC) Drives: BLDC motors- constructional details - principle of operation",
+      "Speed-Torque characteristics -Torque Pulsation, Machine modeling. Switching schemes for BLDC operation, Motor control - Power controllers - full wave and half wave converters - regeneration - Hall sensor based control, Phase advance angle control, Sensorless control"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "SRM - Principle of operation",
+      "Inductance profile",
+      "torque equation",
+      "Motoring and regeneration. Low speed and high speed operation - Characteristics",
+      "Energy conversion loop - Energy effectiveness. Power controllers",
+      "Control schemes - Six switch converter - Split DC supply converter - R dump",
+      "C dump converters. Soft switching converter topologies",
+      "Torque ripple minimization"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Synchronous reluctance motors",
+      "Permanent magnet synchronous reluctance motors - - Constructional details",
+      "Principle of operation",
+      "Different topologies",
+      "Vernier reluctance motors",
+      "Applications. Field oriented control principles",
+      "Direct torque and flux control. Vernier permanent magnet motors: Constructional details",
+      "Principle of operation",
+      "Modelling. Inverters for Vernier PM motors",
+      "Vernier PM Motor control",
+      "Applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

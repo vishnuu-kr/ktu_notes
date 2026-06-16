@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Embedded Systems and ARM Cortex-M Architecture:-\nOverview of embedded systems including definition, applications, and\ncharacteristics, Embedded C Programming Basics and Key Concepts,\nDifferences and use cases of microcontrollers versus microprocessors,\nClassification of processors including RISC, CISC, and other architectures,\nOverview of ARM Cortex-M Series features and applications, Introduction\nto Cortex-M23 and Cortex-M33 Processors: Armv8-M Architecture, Core\nFeatures (Registers, Memory, Bus Architecture),Comparison with Previous\nCortex-M Generations.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "STM32 Microcontroller Overview and Development Environment\nSetup:-\nOverview of the STM32 Family and Features of the STM32U575,\nDevelopment Environment and HAL- Introduction, Writing, and Debugging\nYour First Program (LED Interfacing); Interfacing - Seven-Segment Display,\nLCD Display, Matrix Keypad, Relay, Analog to Digital Conversion-\nPotentiometer, Temperature Sensor, LDR, Microphone, Digital to Analog\nConversion - Simple DAC Output, Sine Wave Generation, Audio Signal\nGeneration, Interrupt Handling Basics and Applications, Timers and PWM:\nConfiguration, Real-Time Clock (RTC), LED Brightness Control, Motor\nSpeed Control",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Communication Protocols :-\nOverview of Serial Communication Protocols- USART, I2C, and SPI,\nInterfacing an I2C Temperature Sensor and Displaying Data on an LCD,\nwriting to and Reading from an SPIbased EEPROM, Implementing CAN\nCommunication Between STM32 Microcontrollers; Creating a USB HID\nDevice for Keyboard and Mouse Emulation.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "IoT and RTOS:-\nIntroduction to IoT and its Layers of Architecture, Introduction to IoT\nCommunication Protocols including MQTT, CoAP, and HTTP, Securing IoT\nData Using Encryption Techniques, Wireless Communication Basics- GSM,\nInterfacing GSM (Sending SMS, Making Calls, Internet Connectivity Using\nAT Commands), Bluetooth(Data Transfer between STM32U575 and Mobile\nDevices),\nRTOS\nConcepts:\nFreeRTOS\nOverview,\nTask\nCreation,\nScheduling, Timers, Inter-task Communication (Queues, Semaphores),\nDesigning an IoT-Based Home Automation System.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Narrow and Wide Band FM and Their Spectra",
+            "Relationship Between FM and PM",
+            "Carson's Rule",
+            "Pre-emphasis and De-emphasis Filtering",
+            "Comparison of AM and FM",
+            "Block Diagram of FM Receiver",
+            "Superheterodyne Receivers",
+            "Characteristics of Receivers",
+            "Image Frequency",
+            "External Noise",
+            "Internal Noise",
+            "White Noise"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sampling and Quantization",
+            "SQNR for Uniform Quantization",
+            "Companding",
+            "Pulse Code Modulation",
+            "Transmitter and Receiver",
+            "DPCM Transmitter and Receiver",
+            "Delta Modulation",
+            "Slope Overload",
+            "Line Codes"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Baseband Data Transmission of Digital Data Through AWGN Channel",
+            "Mathematical Model of ISI",
+            "Nyquist Criterion for Zero ISI",
+            "Signal Modeling for ISI",
+            "Raised Cosine Spectrum",
+            "Equalization",
+            "Zero Forcing Equalizer",
+            "Geometric Representation of Signals - Gram-Schmidt Procedure",
+            "Signal Space",
+            "Vector Model of AWGN Channel",
+            "Matched Filter and Correlation Receivers",
+            "MAP Receiver",
+            "Maximum Likelihood Receiver"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Digital Bandpass Modulation Schemes",
+            "BPSK System and Signal Constellation",
+            "BPSK Transmitter and Receiver",
+            "QPSK System and Signal Constellation",
+            "BER Analysis of BPSK and QPSK in erfc",
+            "Plots of BER vs SNR",
+            "QPSK Transmitter and Receiver",
+            "Quadrature Amplitude Modulation and Signal Constellation"
+        ]
+    }
+]

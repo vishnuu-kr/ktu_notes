@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction\nto\nSecurity:-\nSecurity\nGoals\n–\nSecurity\nservices\n(Confidentiality, Integrity, Authentication, Non-repudiation, Access\ncontrol) – Security Mechanisms (Encipherment, Data Integrity, Digital\nSignature, Authentication Exchange, Traffic Padding, Routing Control,\nNotarization, Access control), Security Principles.\nBasics of Algebra and Number Theory:- Integer Arithmetic- Modular\nArithmetic- Algebraic structures – Prime Numbers - Fermat’s and Euler’s\nTheorem – Factorization - Chinese Remainder Theorem - Linear and\nQuadratic Congruence - Discrete Logarithms.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to Cryptography:- Kerckhoff's Principle -Classification of\nCryptosystems- Cryptanalytic attacks- Cipher Properties (Confusion,\nDiffusion).\nTraditional Secret Key Ciphers:- Substitution Ciphers – (Mono alphabetic\nciphers-Ceaser, Affine, Poly alphabetic ciphers-Autokey, Playfair,\nVigenere and Hill)- Transposition Ciphers – (Rail Fence, Keyed\ntransposition ciphers) - Stream and Block Ciphers.\nModern Secret Key Ciphers:- Substitution Box-Permutation Box-Product\nCiphers, Data Encryption Standard (DES) (Fiestel and Non-Fiestel\nCiphers, Structure of DES, DES Attacks, 2-DES, 3-DES) - Advanced\nEncryption Standard (AES) (Structure, Analysis)",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Cryptographic Hash Functions:– Properties - Secure Hash Algorithm-\n(SHA-512 Logic, Round Function), Message Authentication Code (MAC).\nPublic Key Cryptosystems (PKC):- Types of PKC–  Trapdoor - one way\nfunctions -RSA Cryptosystem (Integer Factorisation Trapdoor, Key\nGeneration, Encryption, Decryption) - El Gamal Cryptosystem (Discrete\nLogarithm Trapdoor, Key Generation, Encryption, Decryption) - Diffie-\nHellman Key Exchange Protocol, Man in the Middle attack on Diffie-\nHellman Protocol.\nDigital Signature:- Signing – Verification - Digital signature forgery\n(Existential forgery, Selective forgery, Universal forgery) - RSA Digital\nSignature Scheme - ElGamal Signature Scheme – Elliptic Curve Digital\nSignature Scheme(ECDSS)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Network Security:- Electronic Mail Security -Pretty Good Privacy- PGP\nmessage format - Transmission and Reception of PGP Messages, S/MIME.\nIP Security Overview, IP Security Architecture, Authentication Header,\nEncapsulating Security Payload- Intruders, Intrusion Detection, Distributed\nDenial of Service attacks- Secure Electronic Transaction – Payment\nProcessing - Dual Signature, Firewalls - Firewall Design Principles.\nApplication\nof\nCryptography:-\nBlockchain\nfundamentals(Blockchain\ndefined, Blockchain architecture, Generic elements of a blockchain, Benefits,\nfeatures, and limitations of blockchain, Types of blockchain) - Secure\nMultiparty\nComputation(Outsourced\nComputation,\nMulti-Party\nComputation, Applications).",
+    "contact_hours": "11"
+  }
+]

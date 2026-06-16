@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "App Components",
+            "Resources",
+            "Manifest Case Study: Snapchat Data Breach (2014) - Analysing the vulnerabilities in mobile systems that led to privacy violations",
+            "focusing on how improper data security and privacy protection practices contributed to the breach"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Audio and Video Implementation Mobile Embedded System Architecture Embedded Systems Architecture",
+            "Scheduling Algorithms: FCFS",
+            "Multiprocessor",
+            "Priority Scheduling",
+            "Memory Technology in Mobile Systems",
+            "Messaging and Communication Mechanisms Case Study: Stagefright Vulnerability in Android (2015) - Examination of how multimedia components",
+            "particularly Android’s handling of video",
+            "opened vulnerabilities for remote code execution attacks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Saving",
+            "Deleting",
+            "and Querying Space SQLite Database: Table Structure and CRUD Operations",
+            "Secure SQLite Operations",
+            "Content Provider and Secure Data Access Case Study: Evernote Security Breach (2013) - Focus on how weak data storage security led to breaches in a popular note-taking app",
+            "and how secure SQLite operations could have mitigated the attack"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Wireless LAN",
+            "Cellular Networks Techniques for Mobile Cloud: Virtualization",
+            "Parallel Programming",
+            "Distributed Storage",
+            "Mobile Cloud Computing Architecture",
+            "Security Challenges in Mobile Cloud",
+            "Best Practices for Secure Mobile App Deployment Case Study: iCloud Hack (2014) - Analysis of how mobile cloud security vulnerabilities exposed user data and what strategies could be used to prevent such breaches in mobile cloud environments"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

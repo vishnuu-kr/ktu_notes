@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definitions and Classification of Signals (Continuous-time and Discrete-time",
+            "Periodic and Aperiodic",
+            "Even and Odd",
+            "Energy and Power signals) Basic Operations on Signals (Scaling",
+            "Shifting",
+            "Folding) Systems: Definitions and Classification of Systems (Linear and Nonlinear",
+            "Time-Invariant and Time-Variant",
+            "Causal and Non-Causal",
+            "Stable and Unstable) Examples of Systems System Properties: Linear Time-Invariant (LTI) Systems",
+            "Stability and Causality in LTI Systems Representation of systems: Differential equation representation of continuous time systems. Difference equation representation of discrete systems. Discrete time LTI systems and linear convolution. Stability and causality of LTI systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Representation of Periodic Signals",
+            "Convergence of Fourier series. Continuous-Time Fourier Transform (CTFT)-Properties Review of Laplace Transform",
+            "ROC of Transfer function",
+            "Properties of ROC",
+            "Stability and causality conditions. Relation between Fourier and Laplace transforms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Discrete time fourier series for discrete periodic signals. Properties of DTFS. Discrete time fourier transform (DTFT) and its properties. Analysis of discrete time LTI systems using DTFT. Z transform",
+            "Mapping of s plane to Z plane",
+            "Inverse transform",
+            "properties",
+            "Relation between DTFT and Z-Transform",
+            "Analysis of discrete time LTI systems using Z transforms",
+            "Stability and causality using Z transform"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Sampling Definition and importance of sampling in signal processing Nyquist-Shannon Sampling Theorem",
+            "Conditions for perfect reconstruction",
+            "Definition and causes of aliasing",
+            "Effects of undersampling",
+            "Methods to prevent aliasing",
+            "Ideal vs. Practical Sampling",
+            "Ideal sampling (impulse sampling",
+            "Practical sampling methods (zero-order hold",
+            "first-order hold) Process of quantization",
+            "Quantization error and its effects",
+            "Uniform and non-uniform quantization",
+            "Reconstruction of continuous-time signals from discrete-time samples",
+            "Interpolation methods (zero-order hold",
+            "first-order hold",
+            "sinc interpolation",
+            "Oversampling: benefits and applications",
+            "Under sampling: conditions and applications Sampling in the frequency domain",
+            "Sampling of band pass signals Introduction to multi rate systems",
+            "Decimation and interpolation. Applications in digital signal processing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

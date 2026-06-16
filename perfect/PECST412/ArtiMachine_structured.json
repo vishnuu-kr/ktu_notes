@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Foundations of Pattern Recognition: -Introduction to Pattern Recognition - Definitions and applications of pattern recognition",
+            "Overview of pattern recognition systems Statistical Pattern Recognition - Bayes decision theory",
+            "Parametric methods: Maximum likelihood estimation",
+            "Bayesian estimation Non-Parametric Methods - k-Nearest neighbors",
+            "Parzen windows"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Feature Extraction and Selection :-Feature Extraction - Importance of feature extraction",
+            "Techniques for feature extraction: PCA",
+            "Feature extraction in image and signal processing Feature Selection - Importance of feature selection",
+            "Techniques for feature selection: filter methods",
+            "wrapper methods",
+            "Feature selection criteria"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Supervised and Unsupervised Learning Supervised Learning - Basics of supervised learning",
+            "Linear classifiers: perceptron",
+            "logistic regression",
+            "Support vector machines (SVM) Unsupervised Learning - Basics of unsupervised learning",
+            "Clustering techniques: k-means",
+            "hierarchical clustering",
+            "Gaussian Mixture Models (GMM"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Advanced Topics and Applications :-Hidden Markov Models (HMMs) - Basics of HMMs",
+            "HMM for sequence modeling",
+            "Applications of HMMs in speech and language processing Ensemble Methods - Basics of ensemble methods",
+            "Bagging",
+            "boosting",
+            "and random forests",
+            "Applications and case studies Applications and Case Studies - Real-world applications of pattern recognition",
+            "Case studies in image and speech recognition",
+            "Future trends in pattern recognition"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

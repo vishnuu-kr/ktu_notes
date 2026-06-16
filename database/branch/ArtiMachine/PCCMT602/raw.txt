@@ -1,0 +1,288 @@
+Course Code 
+PCCMT602 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam 
+Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCCMT503 
+Course 
+Type 
+Theory 
+ 
+Course Objectives: 
+1. To impart the foundational understanding about the principles and concepts behind generative 
+AI models, including GANs, VAEs and Transformer-based architectures like GPT. 
+2. To educate the learners to apply ethical considerations in the use of generative AI for the 
+responsible use and deployment of generative models. 
+3. To enable the learners to understand the significance of prompt engineering and cost 
+optimization in generative AI. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Generative Modeling  - Introduction, Generative Vs. Discriminative 
+Modeling, Advances in Machine Learning, The Rise of Generative Modeling, 
+The Generative Modeling Framework, Challenges of Generative Modeling, 
+Ethical Considerations in Generative AI, Bias and Fairness in Generative AI 
+systems, responsible use and deployment of generative models. 
+8 
+2 
+Autoencoders - Autoencoders, The Encoder, The Decoder, Joining the 
+Encoder to the Decoder, Analysis of Autoencoder, Variational Autoencoders; 
+Kullback–Leibler (KL) divergence loss function; Generative Adversarial 
+Network - Introduction to GANs, The Discriminator, The Generator, Training 
+the GAN, GAN Challenges, Oscillating Loss, Mode Collapse, Uninformative 
+Loss, Hyper parameters. 
+10 
+3 
+Recurrent Neural Network (RNN). Architecture of RNN, Long Short-Term 
+Memory (LSTM), Architecture of LSTM, Gated Recurrent Unit (GRU), 
+10 
+
+Architecture of GRU, Encoder-Decoder Models, Question-Answer Generator 
+using RNN and Encoder-Decoder, Architecture, Attention mechanisms, 
+Transformer Architecture, Self Attention, Analysis of the Transformer, BERT, 
+GPT-2 ,Large Language Models (LLM). 
+4 
+Cost Optimization in the Development and Operation of Generative AI 
+Applications, Fine Tuning and customizability, Parameter Efficient Fine 
+Tuning Methods, Prompt Tuning, Prefix Tuning, P‐Tuning, IA3, Low‐Rank 
+Adaptation, Prompt Engineering, Clear and Direct Prompts, Adding 
+Qualifying Words for Brief Responses, Breaking Down the Request, In‐
+context learning (ICL) in LLMs. 
+8 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the difference between generative and discriminative models 
+and the need to ensure responsible use of generative models. 
+K2 
+CO2 
+Use Variational Autoencoders and GAN to generate new content and 
+enhance existing data. 
+K3 
+CO3 
+Solve real life problems using various neural network based language 
+models. 
+K3 
+CO4 
+Illustrate the significance of Cost Optimization and Prompt Engineering 
+in Generative AI applications. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Generative Deep Learning 
+David Foster 
+O’Reily 
+1/e, 2019 
+2 
+Deep Learning 
+Ian Goodfellow, Yoshua 
+Bengio, Aaron Courville 
+MIT press 
+1/e, 2016 
+3. 
+Large 
+Language 
+Model-Based 
+Solutions: How to Deliver Value with 
+Cost-Effective 
+Generative 
+AI 
+Applications. 
+Shreyas Subramanian 
+Wiley 
+1/e, 2024 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+2 
+2 
+2 
+2 
+- 
+2 
+- 
+3 
+- 
+- 
+- 
+2 
+CO2 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO3 
+2 
+2 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO4 
+2 
+2 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Deep Learning Illustrated 
+ 
+Jon Krohn, Grant Beyleveld, 
+Aglae Bassens 
+Pearson 
+1/e, 2020 
+2 
+Prompt Engineering for Generative 
+AI 
+James Phoenix, Mike Taylor 
+O'Reilly 
+1/e, 2024 
+3 
+GANs in Action: Deep learning with 
+Generative Adversarial Networks 
+Jakub  Langgr, Vladimir Bok 
+Manning 
+1/e, 2019 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Sl. No. 
+Link ID 
+1 
+Deep Generative Models: An Introduction  
+(https://www.youtube.com/watch?v=v_ksUIpToGk) 
+2 
+Generative Adversarial Networks-Part 01 
+(https://www.youtube.com/watch?v=LMpyYPzxQ9w) 
+3 
+Introduction to Transformer Architecture 
+(https://www.youtube.com/watch?v=cVbGNL0N2RI) 
+4 
+Generative Adversarial Networks-Part 02 
+(https://www.youtube.com/watch?v=X3SJ2mRodF0) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SEMESTER S6 
+SOFTWARE TESTING  
+(Common to CS/CA/CM/CD/CR/AM/AD)

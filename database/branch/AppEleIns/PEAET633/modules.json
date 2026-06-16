@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to DCS\nBasic Elements   of discrete data control systems, advantages   of discrete\ndata control systems, examples.    Signal   conversion    & processing:\nDigital   signals   & coding, data   conversion    & quantization, sample and\nhold devices.  Mathematical   modelling of the sampling process, Design of\nmaximum    sampling   frequency    of   digital   systems   in terms   of   the\nsensor   delay; Data reconstruction   and filtering of sampled signals:  Zero\nOrder hold & First order Hold.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Discrete Time Control Systems\nPulse transfer function, Z transform   analysis of closed loop and open loop\nsystems- Steady state error analysis of digital systems- Examples on static\nerror coefficients. Bilinear transformation-   mapping from s-plane to z-plane",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Analysis of Discrete Time Control Systems\nStability analysis of linear digital control systems - Routh Hurwitz criteria,\nJury’s test. Root loci of digital control systems - rules for construction of root\nlocus. Frequency domain analysis - Bode plots- Gain margin and Phase\nmargin.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "State Space Analysis\nState space representation   of discrete time systems- State space model-\nvarious canonical forms from transfer function, Conversion of transfer\nfunction model to state space model, Discrete time State transition matrix,\nSolution of discrete state equations, Controllability   and Observability, Pole\nplacement using state feedback.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Intel 8051: Architecture - ALU, internal RAM and ROM, Organization\nof ports. Registers of 8051: data pointer, program counter, CPU\nregisters, register banks, stack and stack pointer, PSW, Special Function\nRegisters.   Addressing modes of 8051. Instruction set of 8051-\nAssembler directives, Data transfer instructions, Arithmetic, logical,\ncompare and rotate instructions- Bit processing instructions- Program\nflow control instructions",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Programming using Assembly language:  Illustrative examples using\nof all types of instructions. Programming the ports of 8051.\nProgramming in C: Illustrative examples of C programming for 8051-\ntime delay and I/O operations, logic operations",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Timers of 8051: All modes of operations, programming the timers in\nassembly language and C language, timer as an event counter. Serial\nCommunication with 8051: Introduction to serial communication,\nRS232 protocol. Serial communication programming in assembly\nlanguage. Interrupt system of 8051: introduction to interrupts-\ninterrupts in 8051-priority of interrupts- Interrupt handling and\nexecution for timer, external and serial interrupts. Programming to\nhandle all types of interrupts in assembly language",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Interfacing of 8051: LCD, stepper motor, ADC, 8255. Introduction\nto AVR microcontroller: Overview of AVR family, ATmega32 –\nArchitectural overview, CPU core, memory organization. Introduction\nto\nPIC\nmicrocontrollers:\nArchitectural\nfeatures,\nMemory\norganization, Core and peripheral features\nProject based learning: 9 Hrs\n•\nIn the first class, students shall be given an awareness and/ or guidelines on how to\nimplement learn this course through a project and form groups of maximum 5 members in\nthe first week.\n•\nEach group identify a project where microcontrollers can be used for simple biomedical\napplications and perform a literature survey.\n•\nChoose a suitable microcontroller/ microcontroller- based development boards for your\napplication and the input-output devices to be interfaced\n•\nDevelop the block diagram and present before the jury within first month after the\ncommencement of classes\n•      Implement necessary hardware and software to develop the prototype\n•      Prepare a report and present before the jury for final evaluation.",
+    "contact_hours": "9"
+  }
+]

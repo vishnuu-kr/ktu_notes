@@ -1,0 +1,61 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Definition and importance",
+      "Historical context. Fundamental Concepts: CIA triad: Confidentiality",
+      "Integrity",
+      "Availability",
+      "Authentication",
+      "Authorization",
+      "and Accountability. Common Threats and Vulnerabilities: Malware: Viruses",
+      "Worms",
+      "Trojans",
+      "Phishing",
+      "Social Engineering",
+      "Denial of Service (DoS) attacks. Security Policies and Risk Management: Developing and implementing security policies",
+      "Risk assessment and mitigation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Basic concepts and terminology",
+      "Historical background. Symmetric Encryption: Algorithms: DES",
+      "Key management. Asymmetric Encryption: Algorithms: RSA",
+      "Public and private keys. Cryptographic Protocols: Digital signatures",
+      "Hash functions",
+      "Public Key Infrastructure (PKI). Applications of Cryptography: Secure communications (SSL/TLS",
+      "Email security (PGP",
+      "S/MIME"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Network security principles",
+      "Common network threats. Network Security Protocols: IPsec",
+      "SSL/TLS",
+      "VPNs. Firewalls and Intrusion Detection Systems (IDS): Types of firewalls",
+      "IDS and IPS systems. Wireless Network Security: Wireless encryption protocols (WEP",
+      "WPA2",
+      "Securing wireless access points. Network Security Practices: Network segmentation",
+      "Monitoring and logging"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Introduction to Software Security:- Importance of secure software, Software development lifecycle (SDLC",
+      "Common Software Vulnerabilities -Buffer overflows, SQL injection, Cross-site scripting (XSS), Cross-site request forgery (CSRF). Secure Coding Practices: Input validation and sanitization, Secure error handling, Code reviews and static analysis. Software Security Testing: Penetration testing, Fuzz testing, Dynamic analysis. Security in Software Development: Secure software development frameworks, Integrating security into DevOps (DevSecOps"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

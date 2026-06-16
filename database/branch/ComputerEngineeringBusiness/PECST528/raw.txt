@@ -1,0 +1,315 @@
+Course Code 
+PECST528 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBCST404 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce the advanced processor architectures including parallelism concepts in 
+Programming of multiprocessor and multicomputers. 
+2. To provide detailed understanding about data flow in computer architectures.  
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction – The impact of hardware and software technology trends Self 
+review – Instruction set Architecture, Memory addressing, addressing modes 
+Class of Computers, Concept of Computer Hardware and Organization (P15, 
+5th Edition) Measuring, Reporting and Summarizing Performance, 
+Benchmarks – Desktop and Server Amdahl’s Law, Processor Performance 
+Equation  
+_____________________________________________________ 
+Beyond the books  – Visit www.spec.org. Explore the High Performance 
+Computing benchmarks and compare the results submitted by different 
+vendors for the same benchmark. Are you able to appreciate the need for 
+benchmarks to compare performance? What are retired benchmarks? Can you 
+write a paper and publish results based on a retired benchmark? 
+ 
+2 
+Review the basic Concepts of Parallel Processing and Pipelining Instruction 
+Level Parallelism, data dependencies and hazards Different types of 
+dependences, Compiler Techniques for ILP, Branch Prediction – Correlating 
+ 
+
+ 
+ 
+branch predictor Dynamic Scheduling – Idea, Introduction to Tomasulo’s 
+scheme. Register Renaming Hardware Speculation, Reorder Buffers Multiple 
+issue and static scheduling, VLIW 
+3 
+Data Level Parallelism. Vector Processors – How do they work, Memory 
+Banks, Stride, Scatter Gather. SIMD-comparison with vector GPU, 
+Comparison of loops in C vs CUDA NVIDIA GPU Memory structure Vector 
+Processor vs GPU, Multimedia SIMD computers vs GPU Multiprocessor 
+Architecture, Centralized shared memory architecture Cache coherence and 
+snooping protocol (Implementation details – not required). Performance of 
+Symmetric Shared-Memory Processors. Distributed Shared Memory and 
+Directory based protocol – basics. Synchronization – Basic Hardware 
+Primtives. Memory Consistency Models – Sequential and relaxed 
+ 
+4 
+Warehouse Scale Computers – Goals and requirements. Programming 
+frameworks for Batch processing – Map reduce and Hadoop Computer 
+Architecture of Warehouse-scale computers Moore’s Law, Dennard Scaling, 
+Dark Silicon and the transition towards Heterogeneous Architectures 
+Asymmetric multi-core architecture – Static and Dynamic (Overall idea, 
+example processors) Functional Heterogeneous Multicore architecture – 
+GPUs, Accelerators, Reconfigurable Computing Beyond the textbook – 
+Identify the processor used in your PC and mobile phone. Study about its 
+architecture, is it homogeneous or heterogeneous, does it use GPUs, what 
+information can you gather about it from the manufacturer’s website – Discuss 
+in the class 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+
+ 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Enumerate the different classes of computers and where they are used in 
+everyday life. 
+K2 
+CO2 
+Compute the effect of hardware/software enhancements on the speedup 
+of a processor using Amdahl’s law. 
+K3 
+CO3 
+Interpret possible dependencies that can cause hazards in a given block 
+of code. 
+K3 
+CO4 
+Summarize different strategies followed to ensure Instruction Level 
+Parallelism. 
+K2 
+CO5 
+Compare different strategies followed to ensure Instruction Level 
+Parallelism and different strategies followed to ensure Data Parallelism. 
+K3 
+CO6 
+Illustrate the need for memory consistency models and cache coherence 
+protocols and explain the principle behind it. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer architecture: A Quantitative 
+Approach. 
+Hennessy, J. and 
+Patterson, D 
+Morgan Kaufman 
+5/e, 2012 
+2 
+The Dark Side of Silicon: Energy 
+Efficient Computing in the Dark 
+Silicon Era 
+Kanduri, Anil, et al. 
+Springer 
+1/e, 2017 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Architecture 
+Gérard Blanchet 
+Bertrand Dupouy 
+Wiley 
+1/e, 2013 
+2 
+Advanced Computer Architectures 
+Sajjan C Shiva 
+Taylor & Fancis 
+1/e, 2018 
+3 
+Computer Architecture 
+ 
+Charles Fox 
+no starch press 
+1/e, 2024 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/103/106103206/ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO6 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+SEMESTER S5 
+MANAGERIAL ECONOMICS

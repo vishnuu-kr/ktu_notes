@@ -1,0 +1,290 @@
+Course Code 
+PEEET636 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCEET603/
+PEEOT522 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide a thorough understanding of the realisation, design and analysis of DSP systems   
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to DSP and Discrete Fourier transform:  
+Basic elements of DSP system.  Advantages and applications. 
+Review of Discrete-Time Fourier transform (DTFT) and its properties. 
+Frequency domain sampling, Discrete Fourier transform (DFT) - DFT pair, 
+properties of DFT, frequency response analysis of signals using the DFT, 
+circular convolution using DFT, linear filtering based on DFT.  
+Fast Fourier transform (FFT): Introduction, Radix -2 decimation in time FFT 
+algorithm, Radix-2 decimation in frequency algorithm, IDFT using FFT 
+algorithm.  
+10  
+ 
+2 
+Realisation of Filters: 
+Introduction to IIR and FIR systems. 
+Structures for IIR Systems: Direct-Form Structures, Cascade-Form 
+Structures, Parallel-Form Structures, Lattice Structures for IIR Systems.  
+Structures for FIR Systems: Direct-Form Structure, Cascade-Form 
+7 
+
+ 
+ 
+Structures, Lattice Structure. Linear Phase FIR filters.  
+Signal Flow Graphs and Transposed Structures.  
+3 
+Design of Digital Filters: 
+General considerations, Causality and its implications, characteristics of 
+practical frequency selective filters.  
+IIR filter design: Discrete time IIR filter from analog filter (Butterworth), 
+IIR filter (LPF, HPF, BPF, BRF) design by Impulse Invariance, Bilinear 
+transformation.  
+FIR filter design: Structures of FIR filter, Linear phase FIR filter  
+Filter design using windowing techniques (Rectangular, Hanning, 
+Hamming), frequency sampling Techniques.  
+ 
+10  
+4 
+Finite Word Length effects in Digital Filters: 
+Fixed point and floating-point number representations, Comparison, 
+Truncation and Rounding errors.  
+Quantization noise, Derivation for quantization noise power, coefficient 
+quantization error, Product quantization error.  
+Overflow error, Round-off noise power. Limit cycle oscillations due to 
+product round-off and overflow errors, signal scaling.  
+Introduction to TMS320 Family:  
+Architecture, C24x CPU and other components; Assembly language 
+Instructions, Instruction Set summary, simple programs.   
+Design & Implementation and Filter Structures: MATLAB functions and 
+TMS320 Implementation (Demo/Assignment only) 
+ 
+9  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A
+Part B
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Analyse discrete-time systems using DFT 
+K2 
+CO2 
+Realise IIR and FIR filters  
+K3 
+CO3 
+Design of IIR and FIR filters 
+K3 
+CO4 
+Analyse effect of word length in digital filters 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital 
+Signal 
+Processing: 
+Principles, 
+Algorithm 
+& 
+Application  
+John G. Proakis 
+Dimitris G. Manolakis 
+Pearson 
+4th Edition 
+2 
+Discrete-Time 
+Signal 
+Processing  
+A. Oppenheim and 
+R. Schafer 
+Pearson-Prentice Hall 
+2nd Edition 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital 
+Signal 
+processing-A 
+Practical Approach 
+Emmanuel C. Ifeachor, 
+and Barrie W. Jervis 
+Pearson Education 
+2nd Edition 
+2 
+Digital Signal Processing 
+S. Salivahanan, A. 
+Vallavaraj, and C. 
+Gnapriya  
+Tata Mcgraw Hill 
+2nd Edition 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+2 
+1 
+2 
+1 
+3 
+3 
+3 
+ 
+ 
+3 
+2 
+CO2 
+3 
+3 
+2 
+2 
+2 
+3 
+3 
+3 
+ 
+ 
+3 
+2 
+CO3 
+3 
+3 
+2 
+2 
+2 
+3 
+3 
+3 
+ 
+ 
+3 
+2 
+CO4 
+3 
+3 
+2 
+2 
+2 
+3 
+3 
+3 
+ 
+ 
+3 
+2 
+
+ 
+ 
+ 
+ 
+SEMESTER  S6 
+CLOUD COMPUTING

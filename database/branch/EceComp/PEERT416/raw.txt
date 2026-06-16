@@ -1,0 +1,681 @@
+Course Code 
+PEERT416 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GBEST204 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Understand and apply foundational object-oriented programming concepts in Java, including 
+classes, objects, inheritance, polymorphism, encapsulation, and abstraction. 
+2. Design and implement Java applications that leverage OOP principles to achieve modularity, 
+reusability, and scalability in software development. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Basic Object-Oriented concepts, Introduction to Java - Java programming 
+and Runtime Environment, Development Platforms- Java Virtual Machine 
+(JVM), Java compiler, Bytecode, Java Buzzwords, Java program 
+structure, Comments. 
+Primitive Data types - Integers, Floating Point Types, Characters, 
+Boolean. Literals, Operators - Arithmetic Operators, Bitwise Operators, 
+Relational Operators, Boolean Logical Operators, Assignment Operator, 
+Conditional (Ternary) Operator, Operator Precedence. Control Statements 
+- Selection Statements, Iteration Statements and Jump Statements. 
+ 
+9  
+2 
+Object Oriented Programming in Java - Class Fundamentals, Declaring 
+Objects, Introduction to Methods, Constructors, this Keyword, Method 
+Overloading, Using Objects as Parameters, Returning Objects. Static 
+Members, Final Variables, Inner Classes. 
+Inheritance - Super Class, Sub Class, The Keyword super, protected 
+Members, Calling Order of Constructors, Method Overriding, the Object 
+class, Abstract Classes and Methods, using final with Inheritance. 
+ 
+9  
+
+ 
+ 
+Packages and Interfaces - Defining Package, CLASSPATH, Access 
+Protection, Importing Packages, Interfaces. 
+3 
+Exception Handling - Checked Exceptions, Unchecked Exceptions, try 
+Block and catch Clause, Multiple catch Clauses, Nested try Statements, 
+throw, 
+throws 
+and 
+finally.
+Java Library - String Handling – String Constructors, String Length, 
+Special String Operations -Character Extraction, String Comparison, 
+Searching Strings, Modifying Strings. 
+Multithreaded Programming - The Java Thread Model, The Main Thread, 
+Creating Thread, Creating Multiple Threads, Synchronization, 
+Suspending, Resuming and Stopping Threads. 
+9  
+4 
+Event handling - Event Handling Mechanisms, Delegation Event Model, 
+Event Classes, Sources of Events, Event Listener Interfaces. 
+Swings fundamentals-Swing Controls, Components and Containers, 
+Swing Packages, Event Handling in Swings, Swing Layout Managers, 
+Exploring Swings –JFrame, JLabel , Swing Buttons, JText Field. 
+Java Database Connectivity (JDBC) - JDBC overview, Creating and 
+Executing Queries – create table, delete, insert, select. 
+ 
+9  
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand and apply fundamental Java programming concepts, 
+including the runtime environment, primitive data types, operators, and 
+control statements, to develop efficient and well-structured Java 
+applications. 
+K2 
+CO2 
+Apply key object-oriented programming principles in Java, leveraging 
+packages and interfaces effectively to design and implement Java 
+applications. 
+K3 
+CO3 
+Confidently handle Java exceptions, manipulate strings effectively, and 
+implement multithreaded programming techniques. 
+K3 
+CO4 
+Develop Java applications that integrate event handling, Swing-based 
+graphical user interfaces, and JDBC database connectivity to create 
+robust and user-friendly software solutions. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Java: The Complete reference  
+Herbert Schildt 
+Tata McGraw Hill 
+8/e, 2011. 
+2 
+Java How to Program, Early 
+Objects 
+Paul Deitel, Harvey 
+Deitel 
+Pearson 
+11/e, 2018 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+ Introduction 
+to 
+Java 
+Programming 
+Y. Daniel Liang 
+Pearson 
+7/e, 2013 
+2 
+Programming JAVA a Primer  
+Balagurusamy E 
+Tata McGraw Hill 
+5/e, 2014 
+3 
+Core Java: An Integrated 
+Approach 
+Nageswararao R 
+Dreamtech Press 
+2008 
+4 
+Java in A Nutshell 
+Flanagan D 
+O'Reilly 
+5/e, 2005 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc24_cs105 
+2 
+https://onlinecourses.nptel.ac.in/noc24_cs105 
+3 
+https://onlinecourses.nptel.ac.in/noc24_cs105 
+4 
+https://onlinecourses.nptel.ac.in/noc24_cs105 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+SEMESTER 4 
+JAVA PROGRAMMING AND APPLICATION DEVELOPMENT 
+ 
+Course Code 
+PEERT 415 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+UCEST105: 
+Algorithmic Thinking 
+with Python 
+GYEST204: 
+Programming in C
+Course Type 
+Theory  
+ 
+Course Objectives: 
+ 
+1. Understand and apply foundational object-oriented programming concepts in Java, including 
+classes, objects, inheritance, polymorphism, encapsulation, and abstraction. 
+2. Design and implement Java applications that leverage OOP principles to achieve modularity, 
+reusability, and scalability in software development. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Basic Object-Oriented concepts, Introduction to Java - Java programming 
+and Runtime Environment, Development Platforms- Java Virtual Machine 
+(JVM), Java compiler, Bytecode, Java Buzzwords, Java program structure, 
+Comments. 
+Primitive Data types - Integers, Floating Point Types, Characters, Boolean. 
+Literals, Operators - Arithmetic Operators, Bitwise Operators, Relational 
+Operators, Boolean Logical Operators, Assignment Operator, Conditional 
+(Ternary) Operator, Operator Precedence. Control Statements - Selection 
+Statements, Iteration Statements and Jump Statements. 
+9 
+2 
+Object Oriented Programming in Java - Class Fundamentals, Declaring 
+Objects, Introduction to Methods, Constructors, this Keyword, Method 
+Overloading, Using Objects as Parameters, Returning Objects. Static 
+9 
+
+ 
+ 
+Members, Final Variables, Inner Classes. 
+Inheritance - Super Class, Sub Class, The Keyword super, protected 
+Members, Calling Order of Constructors, Method Overriding, the Object 
+class, Abstract Classes and Methods, using final with Inheritance. 
+Packages and Interfaces - Defining Package, CLASSPATH, Access 
+Protection, Importing Packages, Interfaces. 
+3 
+Exception Handling - Checked Exceptions, Unchecked Exceptions, try Block 
+and catch Clause, Multiple catch Clauses, Nested try Statements, throw, 
+throws and finally. 
+Java Library - String Handling – String Constructors, String Length, Special 
+String Operations -Character Extraction, String Comparison, Searching 
+Strings, Modifying Strings. 
+Multithreaded Programming - The Java Thread Model, The Main Thread, 
+Creating Thread, Creating Multiple Threads, Synchronization, Suspending, 
+Resuming and Stopping Threads. 
+9 
+4 
+Event handling - Event Handling Mechanisms, Delegation Event Model, 
+Event Classes, Sources of Events, Event Listener Interfaces. 
+Swings fundamentals-Swing Controls, Components and Containers, Swing 
+Packages, Event Handling in Swings, Swing Layout Managers, Exploring 
+Swings –JFrame, JLabel, Swing Buttons, JText Field. 
+Java Database Connectivity (JDBC) - JDBC overview, Creating and 
+Executing Queries – create table, delete, insert, select. 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance
+Internal Ex
+Evaluate
+Analyse
+Total
+5
+15
+10
+10 
+40
+ 
+ 
+Criteria for Evaluation(Evaluate and Analyse): 20 marks 
+ 
+Assignment: 20 Marks 
+ 
+Students should design and implement a real-world application using object-oriented programming 
+principles, evaluate and refine their class structures and relationships, provide a conclusion on the 
+effectiveness of their design, and demonstrate the functionality of their application using Java. 
+
+ 
+ 
+ 
+Criteria for evaluation: 
+1. 
+Problem Definition (K4 - 4 points) 
+1. Clearly defines the real-world problem. 
+2. Examine and identifies relevant contextual factors (constraints, resources, objectives). 
+2. 
+Problem Analysis (K4 - 4 points) 
+1. Break-down and presents a well-reasoned solution approach. 
+2. Compare and justify the proposed solutions with evidence and logical reasoning. 
+3. 
+Evaluate (K5 - 4 points) 
+1. Thoroughly evaluate the proposed solutions. 
+2. Compares trade-offs, advantages, and disadvantages. 
+3. Considers feasibility, scalability, and practical implications. 
+4. 
+Implementation (K5 - 4 points) 
+1. Select the most feasible solution by implementing the proposed solutions. 
+2. Successfully translates the chosen solution into code. 
+3. Demonstrates proficiency in coding practices (readability, efficiency, error handling). 
+5. 
+Conclusion (K4- 2 points, K5 – 2 points) 
+1. Summarizes findings and insights. State which solution is most appropriate for the 
+problem. (K4) 
+2. Reflects critical thinking and informed decision-making. (K5) 
+Scoring: 
+1. Accomplished (4 points): Exceptional analysis, clear implementation, and depth of 
+understanding. 
+2. Competent (3 points): Solid performance with minor areas for improvement. 
+3. Developing (2 points): Adequate effort but lacks depth or clarity. 
+4. Minimal (1 point): Incomplete or significantly flawed. 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+ 
+Part A
+Part B
+Total
+ 2 Questions from each   
+module. 
+ Total of 8 Questions, each 
+carrying 3 marks 
+(8x3 =24marks) 
+ 
+2 questions will be given from each 
+module, out of which 1 question should be 
+answered. Each question can have a 
+maximum of 3 sub divisions. Each question 
+carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand and apply fundamental Java programming concepts, 
+including the runtime environment, primitive data types, operators, and 
+control statements, to develop efficient and well-structured Java 
+applications. 
+Apply 
+CO2 
+Apply key object-oriented programming principles in Java, leveraging 
+packages and interfaces effectively to design and implement Java 
+applications. 
+Analysis 
+CO3 
+Confidently handle Java exceptions, manipulate strings effectively, and 
+implement multithreaded programming techniques. 
+Apply 
+CO4 
+Develop Java applications that integrate event handling, Swing-based 
+graphical user interfaces, and JDBC database connectivity to create 
+robust and user-friendly software solutions. 
+Analysis 
+CO5 
+Evaluate any real-world problem and propose a solution using the 
+concepts learned in this course. 
+Evaluate 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Java: The Complete reference  
+Herbert Schildt 
+Tata McGraw Hill 
+8/e, 2011. 
+2 
+Java How to Program, Early 
+Objects 
+Paul Deitel, Harvey 
+Deitel 
+Pearson 
+ 11/e, 2018 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction 
+to 
+Java 
+Programming 
+Y. Daniel Liang 
+Pearson 
+7/e, 2013 
+2 
+Programming JAVA a Primer  
+Balagurusamy E 
+Tata McGraw Hill 
+5/e, 2014 
+3 
+Core 
+Java: 
+An 
+Integrated 
+Approach 
+Nageswararao R 
+Dreamtech Press 
+2008 
+4 
+Java in A Nutshell 
+Flanagan D 
+O'Reilly 
+5/e, 2005 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/105/106105191/ 
+2 
+https://archive.nptel.ac.in/courses/106/105/106105191/ 
+3 
+https://archive.nptel.ac.in/courses/106/105/106105191/ 
+4 
+https://archive.nptel.ac.in/courses/106/105/106105191/ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SEMESTER S3/S4 
+ECONOMICS FOR ENGINEERS

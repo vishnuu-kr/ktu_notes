@@ -1,0 +1,317 @@
+Course Code 
+PCITT501 
+CIE Marks 
+40 
+Teaching 
+Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBITT404 Data Science 
+Course Type 
+Theory 
+Course Objectives: 
+1. Gain a comprehensive core machine learning concepts, pre-process and analyze data, build 
+and assess supervised learning models, and interpret their performance. 
+2. Acquire the knowledge of implementing and fine-tuning advanced machine learning models, 
+including SVMs and neural networks, and effectively use unsupervised learning, 
+reinforcement learning, and deep learning methods to solve complex problems. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Overview of Machine Learning - Introduction to Machine Learning, 
+Examples of Machine Learning Applications - Learning Associations, 
+Classification, Regression, Unsupervised Learning, Reinforcement Learning. 
+Parametric Methods - Maximum Likelihood Estimation- Bernoulli Density, 
+Multinomial Density, Gaussian (Normal) Density, Evaluating an Estimator: 
+Bias and Variance, The Bayes’ Estimator, Parametric Classification, 
+Regression, Tuning Model Complexity: Bias/Variance Trade-off.  
+Dimensionality Reduction – Principal Component Analysis, Linear 
+Discriminant Analysis. 
+10 
+2 
+Supervised Learning - Linear Regression - Least squares, Gradient 
+Descent, Assessing Performance: Error Metrics, Overfitting, Linear 
+Classifiers - Logistic regression, Naïve Bayes’, Measuring Classifier 
+Performance – Confusion Matrix, Cross Validation. Bootstrapping, Model 
+Selection Procedures, Regularization Techniques – LASSO, RIDGE. 
+Learning with Trees - Decision Trees, Types- Classification and Regression 
+12 
+
+ 
+ 
+Trees, Feature Selection Measures - Entropy, Information Gain, ID3 
+Algorithm, Issues in Decision tree Learning, Ensemble Learning – Boosting 
+– Bagging. 
+3 
+Support Vector Machine – Optimal Separating hyper plane, Soft-margin & 
+Hard- margin, Kernel trick, Kernel functions. 
+Neural Networks – The Perceptron Algorithm, Activation Functions, Feed 
+Forward Network, Back Propagation Algorithm. 
+10 
+4 
+Unsupervised Learning - Clustering Methods - K-means, Expectation-
+Maximization Algorithm, Density based clustering. 
+Reinforcement Learning - Monte Carlo, TD Learning, Q Learning. 
+Basics of Deep Learning - Convolutional Neural Networks – Convolution, 
+Pooling Layers, Hyperparameters, Transformers. 
+12 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 
+Questions 
+from 
+each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+2 questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+ 
+Each question carries 9 marks.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain basic machine learning concepts, parametric methods for 
+estimation and dimensionality reduction techniques to improve models. 
+K2 
+CO2 
+Use supervised learning methods like linear regression and decision 
+trees, evaluate model performance and ensemble techniques. 
+K3 
+CO3 
+Use Support Vector Machines and Neural Networks, including 
+understanding margins, kernel functions, and the basics of the 
+perceptron algorithm and back propagation. 
+K3 
+CO4 
+Apply clustering methods, reinforcement learning techniques, and 
+basic deep learning concepts like convolutional neural networks and 
+transformers. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Introduction to Machine 
+Learning  
+Ethem Alpaydin 
+MIT Press 
+Third Edition, 
+2014 
+2 
+Machine Learning 
+Tom M Mitchell 
+McGraw Hill 
+Education 
+First Edition, 
+2013 
+3 
+Reinforcement Learning – An 
+Introduction 
+ 
+Richard S. Sutton, Andrew 
+G. Barto, Francis Bach 
+MIT Press 
+Second 
+Edition, 2018 
+4 
+Deep Learning 
+Ian Goodfellow, Yoshua 
+Bengio and Aaron Courville 
+MIT Press 
+1st Edition, 
+2016. 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+3 
+ 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+2 
+CO2 
+3 
+3 
+3 
+ 
+1 
+2 
+- 
+- 
+- 
+- 
+- 
+2 
+CO3 
+3 
+2 
+2 
+ 
+2 
+1 
+- 
+- 
+- 
+- 
+- 
+3 
+CO4 
+2 
+2 
+2 
+ 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Data Mining Concepts & 
+Techniques 
+Jiawei Han, Micheline 
+Kamber and Jian Pei. 
+Morgan Kaufmann 
+3rd Edition, 
+2012 
+2 
+An Introduction to Statistical 
+Learning: with Applications in 
+R 
+Gareth James, Daniela 
+Witten, Trevor 
+Hastie , Robert 
+Tibshirani 
+Springer 
+2nd Edition, 
+2021 
+3 
+Neural Networks for Pattern 
+Recognition 
+Christopher Bishop 
+Oxford University 
+Press 
+1995 
+ 
+4 
+Neural Networks and Deep 
+Learning: A Textbook 
+Charu C. Aggarwal 
+Springer 
+2019 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+ No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106106139 
+2 
+https://archive.nptel.ac.in/courses/106/106/106106184 
+3 
+https://nptel.ac.in/courses/106106198 
+
+ 
+ 
+SEMESTER S5 
+ALGORITHM ANALYSIS AND DESIGN

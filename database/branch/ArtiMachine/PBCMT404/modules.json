@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Databases:- Database System Concepts and Architecture -\nData Models, Schemas and Instances; Three-Schema Architecture and Data\nIndependence; Database Languages and Interfaces; Centralized and\nClient/Server Architectures for DBMSs.\nConceptual Data Modelling and Database Design:- Data Modelling Using\nthe Entity-Relationship Model - Entity Types, Entity Sets, Attributes, and\nKeys, Relationship Types, Relationship Sets, Roles, and Structural\nConstraints, Weak Entity Types; Refining the ER Design for the COMPANY\nDatabase.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "The Relational Data Model and SQL:- The Relational Data Model and\nRelational Database Constraints-Relational Algebra and Relational Calculus -\nStructured Query Language (SQL)-Data Definition Language,  Data\nManipulation Language,  Assertions, Triggers, views,  Relational Database\nDesign Using ER-to-Relational Mapping.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Database Design Theory and Normalization:- Functional Dependencies-\nBasic definition- Normalization- First, Second and Third normal forms.\nTransaction Management :- Transaction Processing - Introduction,\nproblems and failures in transaction, Desirable properties of transaction,\nCharacterizing schedules based on recoverability and serializability;\nConcurrency Control with Two-Phase Locking Techniques- Database\nRecovery management: Deferred update-immediate update- shadow paging.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to NoSQL Concepts :- Types of NoSQL databases; CAP\nTheorem; BASE properties; Use Cases and limitations of NoSQL.\nSQL Architectural Patterns :- Key value Stores; Graph Stores; Column\nFamily stores and Document Stores.\nSuggestions on Project Topics\nThe students should identify a suitable project topic based on the concepts discussed in the syllabus and\nimplement using the tools such as MySQL, Oracle, SQL Server etc. (for relational databases) or\nFireBase, MongoDB etc. (for NoSQL databases). The UI part (if applicable) may be developed using\nany programming language such as JAVA or Python. A few sample project topics are given below.\n1. Design and implement a normalized database schema for the following requirement.\nA library wants to maintain the record of books, members, book issue, book return, and fines\ncollected for late returns, in a database. The database can be loaded with book information.\nStudents can register with the library to be a member. Books can be issued to students with a valid\nlibrary membership. A student can keep an issued book with him/her for a maximum period of two\nweeks from the date of issue, beyond which a fine will be charged. Fine is calculated based on the\ndelay in days of return. For 0-7 days: Rs 10, For 7 – 30 days: Rs 100, and for days above 30 days:\nRs 10 will be charged per day.\n2. Design and implement an e-commerce product catalogue using a NoSQL database with the\nfollowing CRUD operations:\n● Add new products to the catalogue.\n● Update product details (e.g., price, stock quantity).\n● Delete products from the catalogue.\n● Add / Delete categories and Update category details.\n● Add / Delete suppliers and Update Supplier details.",
+    "contact_hours": "11"
+  }
+]

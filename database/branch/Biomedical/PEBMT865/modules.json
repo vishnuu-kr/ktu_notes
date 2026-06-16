@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Medical Imaging Basics - Differences between medical images and\nnatural images, Images as functions, Different imaging modalities, e.g.,\nMRI, CT, ultrasound, PET/SPECT, histopathology, Concept of physical\ncoordinate system\nDeep Neural Networks and Convolutional Neural Networks (CNN) -\nThe Convolution Operation, Motivation, Convolution and Pooling as an\nInﬁnitely Strong Prior, Variants of the Basic Convolution Function,\nStructured Outputs, Data Types, Eﬃcient Convolution Algorithms,\nRandom or Supervised Features, The Neuroscientific Basis for\nConvolutional Networks, Convolutional Networks and history of Deep\nLearning",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Image Classification using TensorFlow - TensorFlow tutorial, Medical\napplications of image classification, Cross entropy loss, VGG-16, ResNet-\n101, Image classification with transfer learning\nIntroduction to Image Segmentation - Medical applications of image\nsegmentation, Challenges in medical image segmentation\nDeep Learning Based Image Segmentation - Transposed convolution,\nCategorical cross entropy loss vs Dice loss, Fully convolutional networks,\nU-Net",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to Image Registration - Clinical applications of image\nregistration, Linear transforms: rigid, affine, explicit, parameter, implicit\nInterpolators: nearest neighbour, linear, bilinear, Similarity metrics: sum\nof squared differences, cross correlation, mutual information, SSIM,\nChallenges in image registration, 2D Image Registration, Introduction to\n3D Image Registration",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Generative Adversarial Network (GAN) - Defining the Generator\nNetwork, Defining the Discriminator Network, Defining loss and\noptimizer, Training the discriminator, generator and complete network,\nInspecting the generated images.\nImage-to-image Translation - Paired vs Unpaired image-to-image\ntranslation, Pix2Pix, Cycle-GAN, Geometry-consistent GAN, Medical\napplications of image-to-image translation",
+    "contact_hours": "9"
+  }
+]

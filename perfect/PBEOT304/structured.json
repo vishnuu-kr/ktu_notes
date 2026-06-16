@@ -1,0 +1,61 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Number Systems and Codes - binary",
+            "octal and hexadecimal - conversions - ASCII code",
+            "Excess - 3 code",
+            "Gray code",
+            "BCD code Signed numbers - 1’s complement and 2’s complement - addition and subtraction Basic logic gates - universal gates - TTL - CMOS - Internal diagram of TTL NAND gate and CMOS NOR gate - comparison of CMOS and TTL performance. Boolean laws and theorems - Sum of products and Product of sums forms - K map representation and simplification (up to four variables) - pairs",
+            "quads",
+            "octets - don’t careconditions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Combinational circuits",
+            "half adder and full adder, halfsubtractor and fullsubtractor",
+            "4-bit parallel binary adder/subtractor. Comparators",
+            "parity generators and checkers",
+            "encoders",
+            "decoders",
+            "BCD to seven segment decoder. Multiplexers",
+            "implementation of boolean expressions using multiplexers",
+            "demultiplexers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Flip-Flops - SR",
+            "D and T flip-flops - characteristic table and excitation table - JK Master Slave Flip-flop - Conversion of flip-flops - SR to JK and JK to SR only. Up/Down counters - asynchronous counters - mod-6 and mod-10 counters. Synchronous counters - design of synchronous counters - Ring counter - Johnson Counter. Shift registers - SISO",
+            "SIPO",
+            "PISO",
+            "PIPO"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "State Machines - state transition diagram - Moore and Mealy machines. Digital to Analog converter - weighted resistor type",
+            "R-2R Laddertype. Analog to Digital Converter - flash type",
+            "successive approximation type. Introduction to Verilog - Implementation of AND",
+            "half adder and full adder. Suggestion on Project Topics Project based learning Project-based learning (PBL) in digital electronics combines hands-on learning with theoretical knowledge",
+            "providing a comprehensive understanding of digital systems and components. Project-Based Learning Structure: 1. Selection of Topic •Objective: Choose a relevant digital electronics project that incorporates both combinational and sequential logic circuits. •Guidance: Topics should be selected based on their applicability",
+            "innovation",
+            "and the depth of knowledge they offer in digital electronics. 2. Design and Optimization of Digital Circuit •Tools: Utilize design software to draft and optimize circuit layouts. •Verilog HDL: Focus on coding the logic in Verilog",
+            "ensuring that the design is efficient and scalable. 3. Simulation and Hardware Implementation •Discrete Components: Integrate additional discrete components as necessary to complete the project setup. •FPGA: Implement the design on FPGA boards",
+            "translating the Verilog HDL code into a physical",
+            "functioning circuit. This structured approach not only enhances the learning experience but also prepares students for professional challenges in the field of digital electronics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

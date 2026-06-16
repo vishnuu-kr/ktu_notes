@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Information Security\nIntroduction, Threats to Information Systems, Cyber Security and Security\nrisk analysis, Information Gathering- Reconnaissance, Reco-ng, Software\nVulnerabilities- Buffer Overflow, Stack Overflow, Format String,\nVulnerability Assessment and Penetration Testing- Burpsuite, Metasploit.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Web Security\nWeb Attacks- SQL Injection Attacks, Cross-Site Scripting (XSS), Cross-Site\nRequest Forgery (CSRF), Domain Name System- Security Issues with DNS,\nDNS attacks, DNSSEC, OWASP ZAP, WebGoat, Damn Vulnerable Web\nApplication (DVWA), Website Mirroring, HTTRACK, Email Security-\nEmail risks, Protocols, Operating safely when using email.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Network Security:\nNetwork Security Terminologies, DoS, DDoS, ARP Spoofing and Session\nHijacking, Capturing the Network Traffic- Promiscuous Mode, Flooding,\nDHCP Redirection, Redirection and Interception with ICMP.  Port Scanning-\nTCP and UDP, Port Scanning Tools- Nmap, SuperScan,  Wireshark-\nAnalysing and Filtering  Traffic",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "System Security:\nWindows Security: Attacks against windows system, Installing applications,\nAuthentication and access control, Upgrades and Patches,  Operating\nWindows safely, Windows Defender Firewall.\nLinux Security- Attacks in Linux system, Physical security, Controlling the\nconfiguration, Authentication and access control, Upgrades and Patches,\nOperating Linux safely, SELinux.\nSuggestion on Project Topics\nNetwork Traffic Monitoring and Analysis using Wireshark:\n●\nDevelopment: Capture network traffic in a controlled environment using Wireshark.\n●\nSecurity Analysis & Fixing: Analyze captured traffic to identify potential vulnerabilities\n(e.g., plaintext passwords) and recommend security enhancements.\nOWASP ZAP (Zed Attack Proxy) Security Testing Framework:\n●\nDevelopment: Create a web application with some common vulnerabilities.\n●\nSecurity Analysis & Fixing: Use OWASP ZAP to perform security testing on the\napplication, identify vulnerabilities, and then fix these issues by implementing secure coding\npractices.\nWeb Application Vulnerability Identification Using Burp Suite:\n●\nDevelopment: Develop a simple web application with common security flaws, such as\nSQL injection, XSS, and broken authentication mechanisms.\n●\nSecurity Analysis & Fixing: Use Burp Suite to scan the application, identify\nvulnerabilities, and analyze the attack surface. Afterward, secure the application by fixing\nthese vulnerabilities and re-running the scan to verify the fixes.\nPenetration Testing Framework Using Metasploit:\n●\nDevelopment: Set up a vulnerable virtual environment using tools like Metasploitable or\ncreate your own vulnerable system or network services.\n●\nSecurity Analysis & Fixing: Use Metasploit to exploit the system, demonstrate various\nattacks like privilege escalation, and then apply patches, configuration changes, and security\nbest practices to mitigate the discovered vulnerabilities.",
+    "contact_hours": "10"
+  }
+]

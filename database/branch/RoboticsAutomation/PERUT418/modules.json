@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Functional units- basic operational concepts, bus structures-bus operations-\nArbitration, instruction Cycle, instruction sequencing and execution-\nFundamental concepts-execution of a complete instruction-data path – Single\nbus and Multiple bus organization- hardwired control- microprogrammed\ncontrol",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Architecture: Assembly language, Instructions, Operands, Registers,\nMemory and Constants. Machine Language: R-Type, I-Type, J-Type\nInstructions, Interpreting machine language code. MIPS Addressing Modes-\nRegister only, Immediate, Base, PC-relative, Pseudo-direct Steps for\nexecuting a program – compilation, Assembling, Linking, Loading",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Pipelining: A basic MIPS implementation-Building a Datapath-Control\nimplementation Scheme-Pipelining-pipelined data path and control-handling\ndata hazards and control hazards-exceptions",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Memory System: Basic Concepts-Semiconductor RAM -ROM-Memory\nCharacteristics & Hierarchy-Cache memories-improving Cache Performance-\nVirtual memory-input output organization - programmed I/O, Interrupt driven\nI/O, DMA",
+    "contact_hours": "9"
+  }
+]

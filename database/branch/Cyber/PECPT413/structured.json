@@ -1,0 +1,56 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Definition and examples of CPS",
+      "Integration of computing",
+      "networking",
+      "and physical elements in CPS. Unique vulnerabilities and attack surfaces in CPS. CIA triad (Confidentiality",
+      "Integrity",
+      "Availability) in CPS",
+      "Security goals and principles tailored to CPS. Identifying threats and assessing risks specific to CPS",
+      "Risk mitigation strategies for CPS environments"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Principles of defense-in-depth in CPS",
+      "Security by design approaches for CPS architectures. Implementing authentication mechanisms in CPS",
+      "Role-based access control (RBAC) and other access control models in CPS. Symmetric and asymmetric encryption in CPS",
+      "Key management considerations for secure communication in CPS. Secure coding guidelines for CPS",
+      "Testing methodologies (unit testing",
+      "integration testing) for secure CPS applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "MQTT",
+      "CoAP",
+      "and other protocols used in CPS",
+      "Securing data in transit and at rest in CPS environments. Implementing VLANs and subnetting for network security in CPS",
+      "Validating network segmentation strategies in CPS. Signature-based vs. anomaly-based detection in CPS",
+      "Deploying IDPS solutions tailored to CPS environments. Importance of logging and monitoring for detecting security incidents in CPS",
+      "Tools and techniques for effective monitoring in CPS"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Developing incident response plans (IRPs) specific to CPS",
+      "Incident handling and escalation procedures in CPS environments. Conducting penetration testing and vulnerability assessments in CPS",
+      "Importance of responsible disclosure policies in CPS security. Integrating security into the development lifecycle of CPS projects",
+      "Continuous improvement and adaptation of CPS security practices. Overview of cybersecurity standards applicable to CPS",
+      "Compliance considerations in CPS deployments"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

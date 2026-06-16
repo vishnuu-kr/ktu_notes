@@ -1,0 +1,417 @@
+Course Code 
+PEAET745 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+- 
+Course Type 
+Theory 
+ 
+Course Objectives:  
+1. To provide foundational knowledge and practical skills in traditional computer vision techniques, 
+including image processing, feature extraction, and object recognition 
+2. To analyze and optimize visual data using classical algorithms and methods 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Overview of Computer Vision and Image Processing - Introduction to 
+computer vision, applications, history, and challenges. Basics of image 
+formation, pinhole camera model, image representation (grayscale, color 
+spaces), and digital image properties (resolution, bit depth) 
+Image filtering (smoothing, sharpening) and histogram processing 
+ 
+8  
+2 
+Feature Detection & Morphological Processing - Edge detection (Canny), 
+Keypoint detection (Harris corner detector), blob detection and feature 
+descriptors (SIFT, SURF) 
+Basic morphological operations (erosion, dilation), opening, closing, 
+boundary extraction, and applications in segmentation. 
+ 
+10  
+3 
+Image Segmentation and Object Detection - Thresholding methods 
+(global, adaptive), region-based segmentation, clustering-based techniques 
+(K-means, Mean Shift), and edge-based segmentation.  
+Sliding window approach, Haar cascades, Histogram of Oriented Gradients 
+(HOG), and template matching 
+8  
+4 
+Motion Analysis and 3D Vision - Background subtraction, frame 
+ 
+
+ 
+ 
+differencing, temporal differencing, and basic optical flow concepts (Lucas-
+Kanade method). Tracking algorithms (Kalman filter, Mean Shift). 
+Principles of stereo vision, epipolar geometry, disparity maps, depth 
+estimation, Structure from Motion (SfM), camera calibration, and 3D 
+reconstruction 
+10  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+Evaluation Methods: 
+1: Practical Experiments Using Design and Analysis Tools (10 marks) 
+ 
+Students should do minimum 3 experiments. 
+ 
+Students will implement and analyze computer vision techniques using tools like 
+OpenCV, Python/MATLAB.  
+2: Course Project (10 marks) 
+ 
+Comprehensive project involving design, implementation, and analysis of computer 
+vision techniques.  
+ 
+Project phases - Proposal, Design, Implementation, Testing, Final Report, 
+Presentation, and Viva Voce. 
+Experiments: 
+Experiment 1: Image Transformation and Filtering 
+Objective: Implement image transformations and filtering techniques. 
+Tools: OpenCV, Python / MATLAB. 
+Steps: 
+
+ 
+ 
+1. Apply image transformations (translation, rotation, scaling). 
+2. Perform image filtering (smoothing, sharpening). 
+3. Analyze the effects of different parameters on image processing results. 
+Experiment 2:  Feature Detection and Description 
+Objective: Implement feature detection and description algorithms. 
+Tools: OpenCV, Python / MATLAB. 
+Steps: 
+1. Detect features using Harris corner detector, SIFT, and SURF. 
+2. Compare and analyze the effectiveness of different feature descriptors. 
+Experiment 3: Image Segmentation and Morphological Processing 
+Objective: Apply image segmentation and morphological processing techniques. 
+Tools: OpenCV,  Python / MATLAB. 
+Steps: 
+1. Implement thresholding, region-based, and clustering-based segmentation. 
+2. Perform morphological operations (erosion, dilation). 
+3. Evaluate segmentation results and analyze applications. 
+Experiment 4: Object Detection and Tracking 
+Objective: Implement object detection and tracking techniques. 
+Tools: OpenCV,Python / MATLAB. 
+Steps: 
+1. Apply object detection methods (Haar cascades, HOG). 
+2. Implement tracking algorithms (Kalman filter, Mean Shift). 
+3. Visualize and analyze detection and tracking results. 
+Experiment 5: Stereo Vision and 3D Reconstruction 
+Objective: Perform stereo vision and 3D reconstruction. 
+Tools: OpenCV, Python/MATLAB. 
+Steps: 
+1. Compute disparity maps from stereo images. 
+2. Estimate depth and perform 3D reconstruction. 
+3. Analyze the accuracy and quality of 3D reconstruction 
+
+ 
+ 
+Sample Project Topics: 
+1. Developing a Real-Time Object Detection and Tracking System Using Traditional Computer 
+Vision Techniques 
+2. Implementation of a Robust Image Segmentation Algorithm for Medical Imaging 
+3. Building a Stereo Vision System for Depth Estimation and 3D Reconstruction 
+4. Shape Analysis and Object Recognition Using Feature Descriptors 
+5. Motion Detection and Tracking in Surveillance Videos 
+Criteria for Evaluation: Lab Experiments (10 marks) 
+Understanding of Concepts (3 marks) 
+ 
+Demonstrates a thorough understanding of the theoretical concepts related to the experiments. 
+ 
+Correctly explains the purpose and expected outcomes. 
+Implementation and Accuracy (3 marks) 
+ 
+Correctly implements the neural network models using appropriate tools. 
+ 
+Ensures the design functions as expected with minimal errors. 
+Analysis and Problem-Solving (2 marks) 
+ 
+Effectively analyzes the model performance and identifies issues. 
+ 
+Demonstrates problem-solving skills in addressing challenges encountered during 
+experiments. 
+Documentation and Reporting (1 mark) 
+ 
+Provides detailed documentation of the experimental setup, process, and outcomes. 
+ 
+Includes visualizations, code snippets, and analysis of results. 
+Presentation and Communication (1 mark) 
+ 
+Clearly presents the experiments and their results. 
+ 
+Able to answer questions and explain design choices. 
+ 
+ 
+ 
+
+ 
+ 
+Course Project (10 marks) 
+Project Proposal and Planning (2 marks) 
+ 
+Submits a well-defined project proposal outlining objectives, methodology, and expected 
+outcomes. 
+ 
+Demonstrates thorough planning and a clear timeline for the project. 
+Design and Implementation (3 marks) 
+ 
+Implements the project design accurately using appropriate tools and techniques. 
+ 
+The design is functional and meets the project objectives. 
+Innovation and Creativity (2 marks) 
+ 
+Introduces innovative ideas or unique approaches in the design and implementation. 
+ 
+Demonstrates creativity in solving problems or optimizing designs. 
+Analysis and Testing (2 marks) 
+ 
+Effectively analyzes the project design to identify and address any issues. 
+ 
+Conducts thorough testing to verify the functionality and performance of the model. 
+Final Report and Presentation (1 mark) 
+ 
+Submits a comprehensive final report detailing the project, including objectives, design, 
+methodology, analysis, and results. 
+ 
+Clearly presents the project and its outcomes, and effectively communicates the key points. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+ 
+ 
+(8x3 =24marks) 
+ 
+2 questions will be given from each 
+module, out of which 1 question should be 
+answered. 
+ 
+ Each question can have a maximum of 3 
+sub divisions.  
+ 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand and explain the fundamental concepts of computer vision 
+techniques. 
+K3 
+CO2 
+Implement and analyze various image processing and feature detection 
+techniques.  
+K4 
+CO3 
+Apply and evaluate image segmentation, object detection, and tracking 
+methods. 
+K5 
+CO4 
+Analyze and optimize 3D vision and motion analysis techniques, 
+including structure from motion and shape analysis. 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Vision: Algorithms 
+and Applications 
+Richard Szeliski 
+Springer 
+2022 
+2 
+Multiple View Geometry in 
+Computer Vision 
+Richard Hartley, Andrew 
+Zisserman 
+Cambridge University 
+Press 
+2022 
+3 
+Digital Image Processing 
+Rafael C. Gonzalez, 
+Richard E. Woods 
+Pearson 
+ 
+2023 
+4 
+Computer Vision: A Modern 
+Approach 
+David L. Poole, Alan 
+Mackworth 
+Prentice Hall 
+2023 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Handbook of Mathematical 
+Models in Computer Vision 
+Nikos Paragios, Yunmei 
+Chen, Oliver D Faugeras 
+ Springer 
+2023 
+2 
+Image Processing, Analysis, 
+and Machine Vision 
+Milan Sonka, Vaclav 
+Hlavac, Roger Boyle 
+Cengage Learning 
+2022 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/105/106105216/ 
+2 
+https://archive.nptel.ac.in/courses/106/105/106105216/ 
+3 
+https://archive.nptel.ac.in/courses/106/105/106105216/ 
+4 
+https://archive.nptel.ac.in/courses/106/105/106105216/ 
+ 
+
+ 
+ 
+SEMESTER S7 
+INSTRUMENTATION SYSTEM DESIGN

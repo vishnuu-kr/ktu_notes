@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Security and Ciphers\nIntroduction: Security goals, Cryptographic Attacks, Services and Mechanism,\nTechniques. Traditional Symmetric Key Ciphers: Introduction, Substitution\nCiphers, Transposition Ciphers, Stream and Block Ciphers. Introduction to\nModern Symmetric-Key Ciphers: Modern Block Ciphers, Modern Stream\nCiphers.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Symmetric and Asymmetric encryption algorithms\nData Encryption Standard (DES): Introduction, DES Structure, DES Analysis,\nMultiple DES, Security of DES. Advanced Encryption Standard (AES):\nIntroduction, Transformations, Key Expansion, AES Ciphers, Analysis of\nAES. Asymmetric-Key Cryptography: Introduction, RSA Cryptosystem, Rabin\nCryptosystem, Elgamal Cryptosystem, Elliptic Curve Crypto systems.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Hash Functions, Digital Signature and Data Hiding\nCryptographic Hash Functions: Introduction, Iterated Hash function, SHA-512,\nWHIRLPOOL. Digital Signature: Comparison, Process, Services, Attacks on\nDigital Signature, Digital Signature Standard. Data Hiding in Text: Basic\nFeatures, Applications of Data Hiding, Watermarking, Intuitive Methods,\nSimple Digital Methods, Data Hiding in Text, Innocuous Text, Mimic\nFunctions. Data Hiding in Images: LSB Encoding, BPCS Steganography,\nLossless Data Hiding, Spread Spectrum Steganography, Data Hiding by\nQuantization, Patchwork , Signature Casting in Images, Transform Domain\nMethods, Robust Data Hiding in JPEG Images, Robust Frequency Domain\nWatermarking, Detecting Malicious Tampering.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Privacy, Legal and Ethical Issues\nPrivacy: Privacy Concepts, Privacy Principles and Policies, Authentication and\nPrivacy, Data Mining, Privacy on the Web, E-Mail Security, Impacts on\nEmerging Technologies. Legal and Ethical Issues in Computer Security:\nProtecting Programs and Data, Information and the Law, Rights of Employees\nand employers, Redress for Software Failures, Computer Crime, Ethical Issues\nin Computer Security.",
+    "contact_hours": "12"
+  }
+]

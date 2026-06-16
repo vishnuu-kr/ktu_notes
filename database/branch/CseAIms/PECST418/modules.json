@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Computational Geometry:-\nBasics of Computational Geometry - Introduction and applications of\ncomputational geometry, Geometric objects, and their representations, Basic\ngeometric primitives: points, lines, segments, polygons (Text 1, Chapters 1, 2)\nConvex Hulls - Definition and properties of convex hulls, Graham's scan\nalgorithm, Jarvis's march (gift wrapping) algorithm, Divide and conquer\nalgorithm for convex hulls (Text 2, Section 33.3)\nLine Segment Intersection - Problem definition and applications, Plane sweep\nalgorithm, Bentley-Ottmann algorithm (Text 3, Chapter 7)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Polygon Triangulation and Voronoi Diagrams:-\nPolygon Triangulation - Definition and applications, Triangulation of\nmonotone polygons, Ear clipping method, Chazelle's algorithm (Text 1,\nChapter 3)\nVoronoi Diagrams - Definition and properties, Incremental construction\nalgorithm, Fortune's sweep line algorithm (Text 1, Chapter 7)\nDelaunay Triangulations - Definition and properties, Relationship with\nVoronoi diagrams, Bowyer-Watson algorithm, Lawson's flip algorithm (Text\n1,  Chapter 9)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Range Searching and Point Location :-\nRange Searching - Problem definition and applications, 1-dimensional range\nsearching, K-dimensional range trees, Fractional cascading (Text 1, Chapter\n5)\nPoint Location - Problem definition and applications, Trapezoidal map and\nrandomized incremental algorithm, Kirkpatrick’s point location algorithm\n(Text 1, Chapter 6)\nBinary Space Partitioning - Definition and applications, BSP trees\nconstruction and properties, Use in computer graphics and collision detection\n(Text 1, Chapter 12)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Advanced Topics and Applications :-\nArrangements of Lines and Duality - Arrangements of lines and complexity,\nZone theorem, Duality transform and its applications (Text 1, Chapter 8)\nMotion Planning and Geometric Optimization - Problem definition and\napplications, Visibility graphs and shortest path problems, Art gallery\nproblem, Linear programming in geometry (Text 1, Chapters 10, 11)\nComputational Geometry in Practice - Computational geometry libraries and\nsoftware, Applications in robotics, computer graphics, GIS (Text 3, Chapters\n9, 10)",
+    "contact_hours": "unknown"
+  }
+]

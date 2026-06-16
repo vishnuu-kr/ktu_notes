@@ -1,0 +1,101 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Definitions - perception",
+      "localization",
+      "cognition",
+      "motion control Perception: Sensors for Perception - Schematic representation of the sensing unit",
+      "Obstacle Sensor (Bumper",
+      "the odometry sensor",
+      "Heading sensors - Gyroscopes",
+      "IMUs",
+      "Distance sensors - ToF",
+      "Phase shift",
+      "triangulation",
+      "ultrasonic rangefinders",
+      "Ground based beacons",
+      "Motion field and optical flow",
+      "Color tracking sensors",
+      "Feature Extraction - Feature Definition",
+      "Target Environment",
+      "Environment representation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "General schematic for mobile robot localization",
+      "Challenge of Localization - Sensor noise and Sensor aliasing",
+      "Effector noise",
+      "Error model for odometric position estimation Localization-Based Navigation versus Programmed Solutions",
+      "Belief Representation",
+      "Map Representation - Continuous Representation",
+      "Decomposition Strategies",
+      "current challenges in map representation",
+      "Probabilistic Map-Based Localization - Markov localization",
+      "Kalman filter localization",
+      "Application to mobile robots: Kalman filter localization -schematic",
+      "Robot position prediction",
+      "Observation",
+      "Measurement prediction",
+      "Matching",
+      "Estimation",
+      "Landmark-based navigation",
+      "Globally unique localization",
+      "Positioning beacon systems",
+      "Route-based localization",
+      "Autonomous Map Building - stochastic map technique",
+      "Challenges - Cyclic environments",
+      "Dynamic environments"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Motion in Potential Field and Navigation Function Problem Statement",
+      "configuration space",
+      "free configuration space",
+      "Gradient Descent Method of Optimization",
+      "Gradient Descent without and with Constraints",
+      "Minkowski Sum",
+      "Potential Field",
+      "Navigation Function - in Static Deterministic Environment",
+      "in Static Uncertain Environment",
+      "Navigation Function and Potential Fields in Dynamic Environment -Estimation",
+      "Prediction",
+      "Optimization"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Satellite Navigation Introduction to Satellite Navigation",
+      "Trilateration",
+      "Position Calculation -Multipath Signals",
+      "GNSS Accuracy Analysis",
+      "Dilution of Precision",
+      "Coordinate Systems",
+      "UTM Projection",
+      "Local Cartesian Coordinates",
+      "Velocity Calculation",
+      "Urban Navigation - Urban Canyon Navigation",
+      "Map Matching",
+      "Dead Reckoning - Inertial Sensors",
+      "Incorporating GNSS Data with INS - Modified Particle Filter",
+      "Estimating Velocity by Combining GNSS and INS",
+      "A-GPS",
+      "DGPS Systems",
+      "RTK Navigation",
+      "GNSS Threats"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

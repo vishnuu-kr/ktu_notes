@@ -1,0 +1,419 @@
+Course Code 
+PEEIT525 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To offer learners an introduction to Industry 4.0 and its applications. 
+2. To impart knowledge about various data monitoring and control techniques. 
+3. To give an overview of the Interconnection and Integration of the Physical World with Cyber 
+Space. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Industry 4.0: The Various Industrial Revolutions - 
+Digitalization and the Networked Economy - Internet Principles - Definition 
+and Characteristics - IoT enabling technologies – Levels of deployment – 
+Domain specific IoTs - SDN and NFV for IoT – ISO/OSI model – MAC 
+address and IP address -Overview of TCP/IP and UDP – - Basics of DNS - 
+Classes of IP addresses - Static and dynamic addressing – Salient features of 
+IPV4 – Specifications of IPV6 and 6LoPAN 
+9 
+2 
+Physical and Logical Design Methodologies: Requirements and 
+Specifications: Device and Component Integration ––Physical design using 
+prototyping boards - Sensors and actuators, choice of processor, interfacing 
+and networking - Logical Design – Open source platforms - Techniques for 
+writing embedded code - Case studies and examples using Python 
+programming and Arduino/Raspberry Pi prototyping boards – IoT 
+application development using Wireless Sensor Networks - Single Node 
+ 
+10 
+
+ 
+ 
+Architecture - Hardware Components, Energy Consumption of Sensor 
+Nodes.  
+3 
+Protocols and Clouds for IOT: Application layer protocols for IoT – 
+MQTT and –Introduction to cloud storage models and communication APIs 
+– Web application framework – Designing a web API – Web services - IoT 
+device management - Cloud Computing and Industry 4.0  
+7 
+4 
+Introduction to the Industrial Internet: Networked Control Systems – 
+Network delay modeling - Architecture and design methodologies for 
+developing IoT application for Networked Control Systems – Example using 
+SCADA system - Software Design Concepts - Middleware IIOT platforms- 
+securing the Industrial Internet - Process analytics - open source and 
+commercial tools for Process analytics - Process data management in the 
+cloud.  
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance
+Internal Ex
+Evaluate
+Analyse
+Total
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+Evaluation Methods: 
+ 
+Each student should develop an IoT based system  
+ 
+The system developed should include IoT Protocols and web/smartphone based user 
+interface/dashboard for controlling/monitoring the IoT based system 
+ 
+The project details and the outcomes to be evaluated are as follows 
+ 
+Project: Design, simulate and realize an IoT/IIoT based system 
+ 
+ 
+ 
+Design Specifications  
+ 
+Detailed specifications of the system are to be made after conducting study of the 
+place/facility where the system is to be deployed 
+
+ 
+ 
+ 
+System design 
+ 
+Develop a block diagram of the system 
+ 
+Select sensors, actuators, embedded boards and power source required for the system 
+ 
+Select the communication protocol required for the system 
+ 
+System development 
+ 
+Develop the code for the embedded components of the system 
+ 
+Develop the application code for IoT/IIoT protocols (eg, MQTT, CoAP) 
+ 
+Develop network communication FoG, Edge Gateway etc.. 
+ 
+Develop the user interface/dashboard for controlling/monitoring the IoT based system 
+ 
+Hardware implementation and integration of the system 
+ 
+Assemble the various hardware components of the system 
+ 
+Test the functionality of the system in a controlled environment 
+ 
+Deployment of the system in the field  
+ 
+Sensor data collection and analysis 
+ 
+Sample Projects: 
+ 
+Smart energy monitoring 
+ 
+Smart metering 
+ 
+Logistics tracking 
+ 
+Precision agriculture 
+ 
+Air Quality Monitoring System 
+ 
+Health Monitoring System 
+Evaluation parameters: 
+ 
+Relevance of the project idea 
+ 
+Design of the system 
+ 
+Use of IoT protocols and web/smartphone based user interfacce 
+ 
+Hardware Implementation and Testing 
+ 
+Innovation and Creativity 
+ 
+Final Report and Presentation 
+Project Deliverables: 
+1. Detailed design specifications  of the IoT/IIoT based system 
+2. Hardware implementation and deployment of  the system in field condition 
+3. Comprehensive project report including methodology, results, challenges, and 
+recommendations 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A
+Part B
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+To understand the concept of IoT and acquire adequate knowledge 
+over computer networking and communication protocols. (Cognitive 
+Knowledge level: Understand) 
+K2 
+CO2 
+To develop IoT enabled embedded applications employing wireless 
+sensor networks and development boards employing open source 
+platforms. (Cognitive Knowledge level: Apply)  
+K3 
+CO3 
+To identify the requirements of a given application and use appropriate 
+protocols and recognize the role of cloud computing and the associated 
+services for IoT based applications. (Cognitive Knowledge level: 
+Apply)  
+K3 
+CO4 
+To apply the acquired knowledge towards the development of 
+architectural design for IoT enabled Networked Control Systems.  
+(Cognitive Knowledge level: Apply) 
+K3 
+CO5 
+To implement process data analytics using open source tools.  
+(Cognitive Knowledge level: Apply) 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Internet of Things A Hands-on 
+Approach 
+ArshdeepBahga and 
+Vijay Madisetti 
+Universities Press
+(India) 
+2015 
+2 
+Industry 4.0: The Industrial 
+Internet of Things 
+Alasdair Gilchrist 
+Apress 
+2016 
+3 
+Hands-On Industrial Internet of 
+Things: Create a powerful 
+Industrial IoT 
+Giacomo
+Veneri, Antonio 
+Capasso,  
+Packt,  
+2018 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+1 
+ 
+2 
+1 
+1 
+ 
+1 
+CO2 
+3 
+1 
+ 
+ 
+2 
+1 
+ 
+2 
+1 
+1 
+ 
+1 
+CO3 
+3 
+1 
+ 
+ 
+1 
+1 
+ 
+2 
+1 
+1 
+ 
+1 
+CO4 
+3 
+1 
+ 
+ 
+1 
+1 
+1 
+2 
+1 
+1 
+ 
+1 
+CO5 
+3 
+1 
+ 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+ 
+1 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Designing the Internet of 
+Things 
+Adrian McEwen and 
+Hakim Cassimally 
+John Wiley & Sons 
+2014 
+2 
+Rethinking the Internet of 
+Things 
+Francis Dacosta 
+Apress Open 
+2013 
+3 
+Process Analytics Concepts and 
+Techniques for Querying and 
+Analyzing 
+Process Data 
+Beheshti, S.-M.-R., 
+Benatallah, B., Sakr, S., 
+Grigori, D., Motahari-
+Nezhad, H.R., Barukh, 
+M.C., 
+Gater, A., Ryu, S.H. 
+Springer International 
+Publishing Switzerland
+2016 
+4 
+Internet of Things: A Hands-On 
+Approach 
+Arshdeep Bahga, Vijay 
+Madisetti 
+Universities Press,  
+2015 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106105195; https://www.youtube.com/watch?v=pj8ApxsymB4;  
+2 
+https://nptel.ac.in/courses/106105195; https://www.udemy.com/course/introduction-to-
+industrial-iot-for-it-professionals/; https://www.mouser.in/new/phoenix-contact/phoenix-
+contact-iiot/;  
+3 
+https://nptel.ac.in/courses/106105195; https://www.udemy.com/course/introduction-to-
+industrial-iot-for-it-professionals/;  
+4 
+https://nptel.ac.in/courses/106105195; https://www.yokogawa.com/eu/solutions/featured-
+topics/digital-infrastructure-wiki/architecture/the-industrial-internet-of-things/;  
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S5 
+ROBOTICS AND AUTOMATION

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basics of Computer graphics - Basics of Computer Graphics and its\napplications. Video Display devices - LED, OLED, LCD, PDP and FED and\nreflective displays. Random and  Raster scan displays and systems.\nLine and Circle drawing Algorithms - Line drawing algorithms-\nBresenham’s algorithm, Liang-Barsky Algorithm, Circle drawing algorithms\n- Midpoint Circle generation algorithm, Bresenham’s Circle drawing\nalgorithm.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Geometric transformations - 2D and 3D basic transformations - Translation,\nRotation, Scaling, Reflection and Shearing, Matrix representations and\nhomogeneous coordinates.\nFilled Area Primitives - Scan line polygon filling, Boundary filling and flood\nfilling.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Transformations and Clipping Algorithms - Window to viewport\ntransformation. Cohen Sutherland and Midpoint subdivision line clipping\nalgorithms, Sutherland Hodgeman and Weiler Atherton Polygon clipping\nalgorithms.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Three dimensional graphics - Three dimensional viewing pipeline.\nProjections- Parallel and Perspective projections. Visible surface detection\nalgorithms- Back face detection, Depth buffer algorithm, Scan line algorithm,\nA buffer algorithm.",
+    "contact_hours": "8"
+  }
+]

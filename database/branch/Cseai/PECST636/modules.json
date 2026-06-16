@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "The image, its representation and properties - Image representations, Image\ndigitization, Sampling, Quantization, Digital image properties, Metric and\ntopological properties of digital images, Histograms, Entropy, Visual\nperception of the image, Image quality, Noise in images; Color images -\nPhysics of color, Color perceived by humans, Color spaces, Color\nconstancy; Data structures for image analysis - Levels of image data\nrepresentation, Traditional image data structures - matrices, Chains,\nTopological data structures - Relational structures, Hierarchical Data\nStructures, Pyramids, Quadtrees, Other pyramidal structures.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Image pre-processing - Pixel brightness transformations-, Position-\ndependent brightness correction, Gray-scale transformation, Geometric\nTransformations\n-\nPixel\ncoordinate\ntransformations,\nBrightness\ninterpolation.\nLocal pre-processing,  Image Smoothing, Edge detectors,  Zero-crossings\nthe second derivative,Scale in Image Processing, Canny Edge Detection,\nParametric Edge Models, Edges Multi-spectral images,, Line detection by\nlocal pre-processing operators, Detection of corners(interest points),\nImage Restoration - Degradations that are easy to restore, Inverse Filtering,\nWiener Filtering",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Image Segmentation - Thresholding, Threshold Detection Methods-\nOptimal\nthresholding,\nMulti-spectral\nthresholding,\nEdge-based\nsegmentation, Edge Image Thresholding, Edge Relaxation, Border Tracing,\nBorder Detection As Graph Searching, Border Detection As Dynamic\nProgramming, Hough Transforms, Border Detection Using Border location\ninformation,\nRegion construction from borders, Region-based segmentation - Region\nmerging, Region Splitting - Splitting And Merging, Watershed\nsegmentation\nMatching, Template Matching, Control Strategies Templating, Evaluation\nIssues In Segmentation",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Image Transforms - Discrete Cosine Transform, Wavelet transform, Eigen-\nanalysis, Singular value decomposition, Principal component analysis\nRadon Transform;\nImage Compression - Image data Properties, Discrete Image Transforms In\nImage data compression, Predictive compression methods, Vector\nquantization,\nHierarchical\nand\nProgressive\nCompression\nmethods,\nComparison Of Compression Methods, JPEG and MPEG image\ncompression JPEG still image compression, JPEG–2000 compression,\nMPEG full-motion video compression.",
+    "contact_hours": "10"
+  }
+]

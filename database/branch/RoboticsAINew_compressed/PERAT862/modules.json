@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to robotics: Components, Odometry, Kinematics, Control,\nFinite State Machines as Robot Controllers, State Transitions based on\nRobot–Robot Interactions, Early Micro-Macro Problems, Macroscopic\nPerspective, Expected Macroscopic Dynamics and Feedback",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Discrete Consensus Achievement in Artificial Systems: Consensus\nAchievement, The Best-of-n Problem, Overview of Current Design\nApproaches,\nBottom–Up\nDesign\nApproaches,\nTop–Down\nDesign\nApproaches.\nConsensus Algorithms in Cooperative Control: Fundamental Consensus\nAlgorithms, Convergence Analysis of Consensus Algorithms, Synthesis and\nExtensions of Consensus Algorithms, Design of Coordination Strategies via\nConsensus Algorithms",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Consensus-based Design Methodologies for Distributed Multivehicle\nCooperative Control: Coupling in Cooperative Control Problems: Objective\nCoupling, Local Coupling, Full Coupling, Dynamic Coupling.\nApproach to Distributed Cooperative Control Problems with an Optimization\nObjective: Cooperation Constraints and Objectives, Coordination Variables\nand Coordination Functions, Centralized Cooperation Scheme, Consensus\nBuilding\nApproach to Distributed Cooperative Control Problems Without an\nOptimization Objective: Coordination Variable Constituted by a Group-level\nReference State, Coordination Variable Constituted by Vehicle States",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Applications to Multivehicle Cooperative Control:Rendezvous and Axial\nAlignment with Multiple Wheeled Mobile Robots, Distributed Formation\nControl of Multiple Wheeled Mobile Robots with a Virtual Leader, Deep\nSpace Spacecraft Formation Flying, Cooperative Fire Monitoring with\nMultiple UAVs, Cooperative Surveillance with Multiple UAVs",
+    "contact_hours": "9"
+  }
+]

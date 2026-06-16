@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Algebra-Overview of Groups",
+            "Rings",
+            "Finite Fields -Binary field arithmetic",
+            "Primitive elements Irreducible and Primitive Polynomials",
+            "Conjugate elements and Minimal Polynomials- Field extension-Construction of Finite Fields from Polynomial rings Vector spaces - Subspace and Dual spaces-matrices"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Error Control Coding - Relevance of error control codes in Communication System",
+            "concepts of Code rate",
+            "Hamming Distance",
+            "Minimum Distance",
+            "Error detecting and correcting capability. Review on LBC-Generator matrix",
+            "Parity Check Matrix. Maximum Likelihood Decoding-syndrome decoding Simple bounds on block codes - Singleton bound",
+            "Hamming Bound",
+            "Gilbert-Varshamov bound. Maximum-distance-separable (MDS) codes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "systematic and systematic encoding, syndrome decoding",
+            "complete decoding of cyclic codes Hamming Codes",
+            "properties",
+            "Examples BCH codes, Reed",
+            "Solomon Codes (Properties and encoding only"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Review on Convolution Codes- Systematic Encoders",
+            "Decoding of Convolution Codes - Viterbi algorithm",
+            "Turbo Codes",
+            "Encoding parallel concatenated codes. Low Density Parity Codes",
+            "Construction",
+            "Tanner Graphs",
+            "Message passing decoding. Example of message passing decoding over binary erasure channels. Message passing of LLR and decoding over AWGN channels. Polar Codes - Introduction",
+            "polarization of BEC channels",
+            "Polar transform and frozen bits. LDPC and Polar codes in 5G"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

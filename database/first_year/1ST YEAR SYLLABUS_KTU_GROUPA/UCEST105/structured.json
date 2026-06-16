@@ -1,0 +1,99 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "PROBLEM-SOLVING STRATEGIES:- Problem-solving strategies defined",
+      "Importance of understanding multiple problem-solving strategies",
+      "Trial and Error",
+      "Heuristics",
+      "Means-Ends Analysis",
+      "and Backtracking (Working backward). THE PROBLEM-SOLVING PROCESS:- Computer as a model of computation",
+      "Understanding the problem",
+      "Formulating a model",
+      "Developing an algorithm",
+      "Writing the program",
+      "Testing the program",
+      "and Evaluating the solution. ESSENTIALS OF PYTHON PROGRAMMING:- Creating and using variables in Python",
+      "Numeric and String data types in Python",
+      "Using the math module",
+      "Using the Python Standard Library for handling basic I/O - print",
+      "input",
+      "Python operators and their precedence. 7 B.Tech 2024 - S1/S2 APJ Abdul Kalam Technological University"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "ALGORITHM AND PSEUDOCODE REPRESENTATION:- Meaning and Definition of Pseudocode",
+      "Reasons for using pseudocode",
+      "The main constructs of pseudocode - Sequencing",
+      "selection (if-else structure",
+      "case structure) and repetition (for",
+      "while",
+      "repeat-until loops",
+      "Sample problems* FLOWCHARTS** :- Symbols used in creating a Flowchart - start and end",
+      "arithmetic calculations",
+      "input/output operation",
+      "decision (selection",
+      "module name (call",
+      "for loop (Hexagon",
+      "flow-lines",
+      "on-page connector",
+      "off-page connector. * - Evaluate an expression",
+      "d=a+b*c",
+      "find simple interest",
+      "determine the larger of two numbers",
+      "determine the smallest of three numbers",
+      "determine the grade earned by a student based on KTU grade scale (using if-else and case structures",
+      "print the numbers from 1 to 50 in descending order",
+      "find the sum of n numbers input by the user (using all the three loop variants",
+      "factorial of a number",
+      "largest of n numbers (Not to be limited to these exercises. More can be worked out if time permits). ** Only for visualizing the control flow of Algorithms. The use of tools like RAPTOR (https://raptor.martincarlisle.com/) is suggested. Flowcharts for the sample problems listed earlier may be discussed"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "SELECTION AND ITERATION USING PYTHON:- if-else",
+      "elif",
+      "for loop",
+      "range",
+      "while loop. Sequence data types in Python - list",
+      "tuple",
+      "strings",
+      "dictionary",
+      "Creating and using Arrays in Python (using Numpy library). DECOMPOSITION AND MODULARIZATION* :- Problem decomposition as a strategy for solving complex problems",
+      "Modularization",
+      "Motivation for modularization",
+      "Defining and using functions in Python",
+      "Functions with multiple return values 10 B.Tech 2024 - S1/S2 APJ Abdul Kalam Technological University RECURSION:- Recursion Defined",
+      "Reasons for using Recursion",
+      "The Call Stack",
+      "Recursion and the Stack",
+      "Avoiding Circularity in Recursion",
+      "Sample problems -Finding the nth Fibonacci number",
+      "greatest common divisor of two positive integers",
+      "the factorial of a positive integer",
+      "adding two positive integers",
+      "the sum of digits of a positive number **. * The idea should be introduced and demonstrated using Merge sort",
+      "the problem of returning the top three integers from a list of n>=3 integers as examples. (Not to be limited to these two exercises. More can be worked out if time permits). ** Not to be limited to these exercises. More can be worked out if time permits"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "COMPUTATIONAL APPROACHES TO PROBLEM-SOLVING (Introductory diagrammatic/algorithmic explanations only. Analysis not required) :-Brute-force Approach --Example: Padlock, Password guessing Divide-and-conquer Approach --Example: The Merge Sort Algorithm -Advantages of Divide and Conquer Approach -Disadvantages of Divide and Conquer Approach Dynamic Programming Approach -Example: Fibonacci series -Recursion vs Dynamic Programming Greedy Algorithm Approach -Example: Given an array of positive integers each indicating the completion time for a task, find the maximum number of tasks that can be completed in the limited amount of time that you have. -Motivations for the Greedy Approach -Characteristics of the Greedy Algorithm -Greedy Algorithms vs Dynamic Programming Randomized Approach -Example 1: A company selling jeans gives a coupon for each pair of jeans. There are n different coupons. Collecting n different coupons would give you free jeans. How many jeans do you expect to buy before getting a free one? 10 B.Tech 2024",
+      "S1/S2 APJ Abdul Kalam Technological University",
+      "Example 2: n people go to a party and drop off their hats to a hat-check person. When the party is over, a different hat-check person is on duty and returns the n hats randomly back to each person. What is the expected number of people who get back their hats",
+      "Motivations for the Randomized Approach"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

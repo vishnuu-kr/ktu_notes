@@ -1,0 +1,52 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definitions and Classification of Signals (Continuous-time and Discrete-time, Periodic and Aperiodic, Even and Odd, Energy and Power)",
+            "Basic Operations on Signals (Scaling, Shifting, Folding)",
+            "Systems: Definitions and Classification (Linear and Nonlinear, Time-Invariant and Time-Variant, Causal and Non-Causal, Stable and Unstable)",
+            "Examples of Systems",
+            "Linear Time-Invariant (LTI) Systems: Properties, Stability, and Causality",
+            "Representation of Systems: Differential Equation (Continuous-time) and Difference Equation (Discrete-time)",
+            "Discrete-time LTI Systems and Linear Convolution"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Representation of Periodic Signals: Fourier Series and Convergence",
+            "Continuous-Time Fourier Transform (CTFT) and its Properties",
+            "Review of Laplace Transform",
+            "Region of Convergence (ROC): Properties, Stability, and Causality Conditions",
+            "Relation between Fourier and Laplace Transforms"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Discrete-Time Fourier Series (DTFS) and its Properties",
+            "Discrete-Time Fourier Transform (DTFT) and its Properties",
+            "Analysis of Discrete-Time LTI Systems using DTFT",
+            "Z-Transform: Mapping of s-plane to Z-plane, Inverse Transform, and Properties",
+            "Relation between DTFT and Z-Transform",
+            "Analysis of Discrete-Time LTI Systems using Z-Transform",
+            "Stability and Causality using Z-Transform"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Sampling: Definition and Importance in Signal Processing",
+            "Nyquist-Shannon Sampling Theorem and Conditions for Perfect Reconstruction",
+            "Aliasing: Definition, Causes, Effects of Undersampling, and Methods of Prevention",
+            "Ideal vs. Practical Sampling (Impulse Sampling, Zero-Order Hold, First-Order Hold)",
+            "Quantization: Process, Quantization Error, Uniform and Non-uniform Quantization",
+            "Reconstruction of Continuous-time Signals from Discrete-time Samples",
+            "Interpolation Methods (Zero-Order Hold, First-Order Hold, Sinc Interpolation)",
+            "Oversampling and Undersampling: Benefits, Conditions, and Applications",
+            "Sampling in the Frequency Domain and Sampling of Band-Pass Signals",
+            "Introduction to Multi-rate Systems: Decimation and Interpolation",
+            "Applications of Sampling in Digital Signal Processing"
+        ]
+    }
+]

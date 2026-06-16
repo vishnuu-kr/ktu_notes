@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of Machine Learning - Introduction to Machine Learning,\nExamples of Machine Learning Applications - Learning Associations,\nClassification, Regression, Unsupervised Learning, Reinforcement Learning.\nParametric Methods - Maximum Likelihood Estimation- Bernoulli Density,\nMultinomial Density, Gaussian (Normal) Density, Evaluating an Estimator:\nBias and Variance, The Bayes’ Estimator, Parametric Classification,\nRegression, Tuning Model Complexity: Bias/Variance Trade-off.\nDimensionality Reduction – Principal Component Analysis, Linear\nDiscriminant Analysis.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Supervised Learning - Linear Regression - Least squares, Gradient\nDescent, Assessing Performance: Error Metrics, Overfitting, Linear\nClassifiers - Logistic regression, Naïve Bayes’, Measuring Classifier\nPerformance – Confusion Matrix, Cross Validation. Bootstrapping, Model\nSelection Procedures, Regularization Techniques – LASSO, RIDGE.\nLearning with Trees - Decision Trees, Types- Classification and Regression\nTrees, Feature Selection Measures - Entropy, Information Gain, ID3\nAlgorithm, Issues in Decision tree Learning, Ensemble Learning – Boosting\n– Bagging.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Support Vector Machine – Optimal Separating hyper plane, Soft-margin &\nHard- margin, Kernel trick, Kernel functions.\nNeural Networks – The Perceptron Algorithm, Activation Functions, Feed\nForward Network, Back Propagation Algorithm.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Unsupervised Learning - Clustering Methods - K-means, Expectation-\nMaximization Algorithm, Density based clustering.\nReinforcement Learning - Monte Carlo, TD Learning, Q Learning.\nBasics of Deep Learning - Convolutional Neural Networks – Convolution,\nPooling Layers, Hyperparameters, Transformers.",
+    "contact_hours": "12"
+  }
+]

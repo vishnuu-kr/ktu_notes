@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to signals and systems:\nContinuous time and discrete time signals - Elementary signals,\nClassification of signals, Basic signal operations.\nContinuous time and discrete time systems – Representation and\nClassification (memory, causal, stable, linear, time-invariant, invertible)\nConvolution integral and convolution sum operations.\nContinuous time and discrete time LTI systems-Stability and causality of\nLTI systems.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Frequency domain representation of continuous time signals:\nContinuous time Fourier series - Exponential Fourier series representation\nof periodic signals.\nContinuous time Fourier transform - Convergence and Gibbs phenomenon,\nContinuous time Fourier transform of standard signals, Properties of\nContinuous time Fourier transform, Inverse Transform.\nBilateral Laplace Transform, Concept of ROC, Relation of Laplace\ntransform to Fourier Transform.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Sampling of continuous time signals to discrete signals and frequency\ndomain representation of discrete time signals:\nConversion of continuous time signal to discrete time signal, Sampling\ntheorem for lowpass signals, Nyquist criteria, Aliasing.\nDiscrete time Fourier series for discrete periodic signals.\nDiscrete time Fourier transform (DTFT)-Convergence condition, DTFT of\nstandard signals, Properties of DTFT, Inverse transform.\nZ transform- ROC, Properties (Proof not needed), Inverse transform,\nRelation between DTFT and Z-Transform.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Analysis of LTI systems using Transforms\nConcept of transfer function-Frequency response, Magnitude response and\nphase response.\nAnalysis of Continuous time LTI systems using Laplace and Fourier\ntransforms.\nAnalysis of discrete time LTI systems using DTFT and Z transforms,\nStability and causality using Z transform.",
+    "contact_hours": "11"
+  }
+]

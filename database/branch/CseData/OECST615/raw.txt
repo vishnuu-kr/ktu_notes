@@ -1,0 +1,344 @@
+Course Code 
+OECST615 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L:T:P:R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type
+Theory 
+Course Objectives: 
+1. To teach the core object-oriented principles such as abstraction, encapsulation, inheritance, and 
+polymorphism, robust error-handling using exception mechanisms to ensure program 
+reliability. 
+2. To equip the learner to develop object oriented programs encompassing fundamental 
+structures, environments, and the effective utilization of data types, arrays, strings, operators, 
+and control statements for program flow in Java. 
+3. To enable the learner to design and develop event-driven graphical user interface (GUI) 
+database applications using Swing and database connection components. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Java - Java programming Environment and Runtime 
+Environment (Command Line & IDE); Java compiler; Java Virtual Machine; 
+Primitive Data types and Wrapper Types; Casting and Autoboxing; Arrays; 
+Strings; Vector class; Operators - Arithmetic, Bitwise, Relational, Boolean 
+Logical, Assignment, Conditional (Ternary); Operator Precedence; Control 
+Statements - Selection Statements, Iteration Statements and Jump 
+Statements; Functions; Command Line Arguments; Variable Length 
+Arguments; Classes; Abstract Classes; Interfaces; OOP Concepts - Data 
+abstraction, encapsulation, inheritance, polymorphism, Procedural and object 
+oriented 
+programming 
+paradigm; 
+Microservices; 
+Object 
+Oriented 
+Programming in Java - Declaring Objects; Object Reference; Introduction to 
+10 
+
+ 
+ 
+Methods; Constructors; Access Modifiers; this keyword. 
+2 
+Polymorphism - Method Overloading, Using Objects as Parameters, 
+Returning Objects, Recursion; Static Members, Final Variables, Inner 
+Classes. Inheritance - Super Class, Sub Class, Types of Inheritance, The 
+super keyword, protected Members, Calling Order of Constructors; Method 
+Overriding, Dynamic Method Dispatch, Using final with Inheritance. 
+8  
+3 
+Packages and Interfaces – Packages - Defining a Package, CLASSPATH, 
+Access Protection, Importing Packages; Interfaces - Interfaces v/s Abstract 
+classes, 
+defining 
+an 
+interface, 
+implementing 
+interfaces, 
+accessing 
+implementations through interface references, extending interface(s); 
+Exception Handling - Checked Exceptions, Unchecked Exceptions, try Block 
+and catch Clause, Multiple catch Clauses, Nested try Statements, throw, 
+throws and finally, Java Built-in Exceptions, Custom Exceptions. 
+9  
+4 
+Swings fundamentals – Overview of AWT, Swing v/s AWT, Swing Key 
+Features, Swing Controls, Components and Containers, Swing Packages, 
+Event Handling in Swings, Swing Layout Managers, Exploring Swings–
+JFrame, JLabel, The Swing Buttons, JTextField; Event handling – Event 
+Handling Mechanisms, Delegation Event Model, Event Classes, Sources  of 
+Events, Event Listener Interfaces, Using the Delegation Event Model; 
+Developing Database Applications using JDBC – JDBC overview, Types, 
+Steps, Common JDBC Components, Connection Establishment.  
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the process of developing Java programs, including their structure 
+and components, to demonstrate proficiency. 
+K2 
+CO2 
+Utilize object-oriented programming principles in the design and 
+implementation of Java applications. 
+K3 
+CO3 
+Develop and manage Java packages and interfaces, enhancing code 
+modularity and reusability. 
+K3 
+CO4 
+Implement error handling using Java's exception mechanisms and leverage 
+interfaces for modular applications. 
+K3 
+CO5 
+Develop event-driven Java GUI applications with database connectivity. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Java: The Complete Reference 
+Herbert Schildt 
+Tata McGraw Hill 
+13/e, 2024 
+2 
+Introduction to Java Programming, 
+Comprehensive Version 
+Y Daniel Liang 
+Pearson 
+10/e, 2014 
+3 
+Head First Design Patterns 
+Eric Freeman, Elisabeth 
+Robson, Bert Bates, 
+Kathy Sierra 
+O'Reilly Media 
+1/e, 2004 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Head First Java: A Brain Friendly 
+Guide 
+Kathy Sierra & Bert 
+Bates 
+O’Reilly 
+3/e, 2022 
+2 
+JAVA™ for Programmers 
+Paul Deitel 
+PHI 
+11/e, 2018 
+3 
+Clean Code : A Handbook of Agile 
+Software Craftsmanship 
+Robert C. Martin 
+Prentice Hall 
+1/e, 2008 
+4 
+Programming with Java 
+E Balagurusamy 
+McGraw Hill 
+6/e, 2019 
+5 
+Java For Dummies 
+Barry A. Burd 
+Wiley 
+8/e, 2022 
+6 
+Effective Java  
+Joshua Bloch 
+Pearson 
+3/e, 2018 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://nptel.ac.in/courses/106105191  (Lecture no: 9, 10, 1, 2, 3, 4) 
+2 
+https://nptel.ac.in/courses/106105191  (Lecture no: 1, 7, 8, 11, 12, 13, 14, 15, 16) 
+3 
+https://nptel.ac.in/courses/106105191  (Lecture no: 17, 18, 19, 20, 21, 22, 23, 24, 25, 26) 
+4 
+https://nptel.ac.in/courses/106105191  
+ (Lecture no: 43, 44, 45, 46, 47, 50, 51, 52, 53, 54, 55) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+SEMESTER S6 
+BIG DATA PROCESSING LAB

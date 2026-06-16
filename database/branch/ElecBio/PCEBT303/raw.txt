@@ -1,0 +1,347 @@
+Course Code 
+PCEBT303 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+ 
+3:1:0:0 
+ 
+ESE Marks 
+ 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GYEST104 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+ 
+1. To get familiarized with the basics of digital circuits and logic families 
+2. To design and implement digital circuits 
+SYLLABUS 
+ 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+ 
+ 
+ 
+ 
+1 
+Introduction to Digital logic: Binary, Octal, and Hexadecimal number 
+systems – Representation of negative numbers in binary – Binary arithmetic. 
+Binary codes: BCD & BCD addition, XS-3 & Gray Codes, Error detection 
+and correction codes – Parity & Hamming codes. Boolean algebra: 
+Operations, Laws & Theorems, De Morgan’s theorems – SOP & POS 
+Boolean expressions and truth tables - Formation of switching functions 
+from word statements, Minterm and Maxterm expansions, Incompletely 
+specified functions. Minimization of Boolean Expressions: 
+Algebraic, Karnaugh map (up to 5 variables) - Realization using basic gates 
+and universal gates. 
+ 
+ 
+ 
+ 
+11 
+ 
+ 
+ 
+ 
+ 
+2 
+Combinational Logic Circuits & Design: Adders & Subtractors – Types, 
+Ripple carry & Carry look ahead adders, BCD adder. Code converters – 
+examples & Comparators. Multiplexers, Demultiplexers, Decoders & 
+Encoders. Basics of Verilog programming: Basic language elements - 
+identifiers, data objects, scalar data types, operators. Modelling and 
+Implementation of logic gates using Verilog codes. Modelling and 
+Implementation of simple combinational circuits at the gate level using 
+Verilog codes. Sequential Logic circuits & Design: Latches – SR Latch. 
+Flip-Flops – SR, JK, D & T Flip Flops – Level & Edge triggered flip flops 
+– Synchronous & Asynchronous inputs - Conversion between flip flops. 
+Master slave flip flops. 
+ 
+ 
+ 
+ 
+ 
+14 
+
+ 
+ 
+3 
+Shift Registers: SISO, SIPO, PISO, PIPO shift registers, Right & Left 
+shifts, Bidirectional & Universal shift registers. Applications: Serial binary 
+adder Counters: Asynchronous counters - Up, Down and Up/ Down 
+counter, Mod n counters. Shift register counters: Ring & Johnson counters. 
+Design of Synchronous counters Introduction to design of synchronous 
+sequential circuits using Finite State Machines: Mealy & Moore types – 
+Flip flops. 
+ 
+11 
+ 
+ 
+4 
+Logic families: Introduction to different logic families, Standard logic 
+levels – Current and voltage parameters – fan in and fan out – Propagation 
+delay, noise consideration. TTL: Basic working principle of a TTL NAND 
+gate – Totem pole and Open collector gate output configurations – Tri-state 
+logic – characteristics of a TTL NAND gate. CMOS: Basic working 
+principle of a CMOS inverter, Comparison of TTL & CMOS, Interfacing 
+TTL & CMOS ICs. 
+ 
+ 
+8 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+ 
+Attendance 
+ 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+ 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks. 
+● Two questions will be given from each module, out 
+of which 1 question should be answered. 
+● Each question can have a maximum of 3 sub 
+divisions. 
+(4x9 = 36 marks) 
+ 
+ 
+60 
+ 
+ 
+
+ 
+Course Outcomes (COs) 
+ 
+At the end of the course students should be able to: 
+ 
+ 
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the fundamentals of logic circuits, number systems and 
+digital codes and Boolean algebra. 
+K2 
+CO2 
+Design and implement combinational logic circuits. 
+K3 
+CO3 
+Design and implement sequential logic circuits. 
+K3 
+CO4 
+Familiarize with the concepts of different logic families. 
+K2 
+CO5 
+Simulate gate level logic circuits using Verilog HDL 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals of Logic Design 
+Charles Roth 
+Cengage 
+7e/ 2021 
+2 
+Fundamentals of Digital 
+Circuits 
+A. Ananthakumar 
+PHI 
+4e/ 2016 
+3 
+VHDL 
+Basics to Programming 
+Gaganpreet Kaur 
+Dorlin Kindersley 
+1e/ 2011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Modern digital Electronics 
+R.P. Jain 
+McGraw Hill 
+5e/ 2022 
+2 
+Digital Design 
+Mano M.M., Ciletti M.D.
+Pearson 
+4e/ 2008 
+3 
+Digital Fundamentals 
+Thomas L. Floyd 
+Pearson 
+11e/ 2017 
+4 
+Verilog HDL: A Guide to 
+Digital Design and Synthesis 
+Samir Palnikar 
+McGraw Hill 
+2e/ 2003 
+5 
+VHDL: A Design Oriented 
+Approach 
+S. S. Limaye 
+McGraw Hill 
+2e/ 2009 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/117/106/117106086/ 
+2 
+https://archive.nptel.ac.in/courses/106/105/106105185/ 
+
+ 
+SEMESTER S3 
+BIOSENSORS AND TRANSDUCERS

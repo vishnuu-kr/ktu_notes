@@ -1,0 +1,66 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Power diodes",
+            "Power transistors",
+            "MOSFETS and IGBTs. Structure",
+            "fabrication",
+            "Regions of operations",
+            "Switching characteristics- turn ON and turn OFF switching waveforms",
+            "Safe operating area",
+            "Paralleling of transistors. Thyristor family: SCRs",
+            "DIAC",
+            "TRIAC and GTOs. V I characteristics of SCR. Introduction to classification of power electronic circuits: AC-DC converters",
+            "DC-DC converters",
+            "DC-AC converters and AC-AC converters. Application of power devices in renewable energy systems and Electric vehicles"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Single phase-controlled rectifiers - half wave",
+            "full-wave",
+            "half-controlled and fully controlled. typical waveforms with R",
+            "RL with diode and RL with voltage source - voltage and current equation for half-wave-controlled rectifier. Three phase half-wave and full-wave controlled rectifier with R load",
+            "waveforms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Basic chopper operation using semiconductor switches",
+            "Buck",
+            "Boost and Buck-Boost converters",
+            "Selection of devices",
+            "Electrical and thermal stress",
+            "Isolated converters",
+            "Half bridge and full bridge converters",
+            "Understanding governing equations and switching waveforms. DC-AC Inverters",
+            "Square wave operations",
+            "half bridge and full bridge inverters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Solar power plants",
+            "ON grid and OFF grid types",
+            "Traction control in EVs",
+            "Forward motoring and generating modes",
+            "PWM control techniques: voltage mode",
+            "current mode and gated oscillator controls",
+            "Closed loop responses and stabilization. Gate driver circuits",
+            "Isolated and non-isolated",
+            "types"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

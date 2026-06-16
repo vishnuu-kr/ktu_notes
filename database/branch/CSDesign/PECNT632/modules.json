@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of machine learning & basics of neural network:\nMachine learning paradigms-supervised, semi-supervised, unsupervised,\nreinforcement learning. Basics of parameter estimation - maximum\nlikelihood\nestimation(MLE)\nand\nmaximum\na\nposteriori\nestimation(MAP).Neural Networks: Multilayer feed forward network,\nActivation functions (Sigmoid, ReLU, Tanh).Linear Methods for\nClassification- Logistic regression, Perceptron, Naive Bayes.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Supervised Learning :\nDecision tree algorithm ID3,Regression - Linear regression with one\nvariable, Linear regression with multiple variables, solution using\ngradient descent algorithm and matrix method, basic idea of overfitting in\nregression.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Supervised Learning (cont):\nBackpropagation algorithm. SVM - Introduction, Maximum Margin\nClassification, Mathematics behind Maximum Margin Classification,\nMaximum Margin linear separators, soft margin SVM classifier, non-\nlinear SVM, Kernels for learning non-linear functions, polynomial kernel.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Unsupervised Learning &Classification Assessment\nClustering - Similarity measures, Hierarchical Agglomerative Clustering,\nK-means partitional clustering. Dimensionality reduction – Principal\nComponent Analysis. Classification Performance measures - Precision,\nRecall, Accuracy, F-Measure, Receiver Operating Characteristic\nCurve(ROC), Area Under Curve(AUC). Bootstrapping, Cross Validation,\nEnsemble methods, Bias-Variance decomposition. Case Study: Develop a\nclassifier for face detection.",
+    "contact_hours": "9"
+  }
+]

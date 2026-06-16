@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "ARPANET",
+            "Internet, Physical Layer: Guided Transmission Media - Twisted Pairs",
+            "Coaxial Cable",
+            "Fiber Optics",
+            "Wireless Transmission, Data Link Layer: Design Issues",
+            "Framing",
+            "Error Detection and Correction"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Simplex Protocol",
+            "Simplex Stop-and-Wait Protocol for an Error-Free Channel",
+            "Simplex Stop-and-Wait Protocol for Noisy Channel, Sliding Window Protocols: One-Bit Sliding Window Protocol",
+            "Protocol Using Go-Back-N",
+            "Protocol Using Selective Repeat",
+            "Example Data Link Protocols, Medium Access Sub-Layer: The Channel Allocation Problem",
+            "Multiple Access Protocols: ALOHA",
+            "Carrier Sense Multiple Access Protocols",
+            "Collision-Free Protocols, Wireless LANs",
+            "Data Link Layer Switching"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Design Issues",
+            "Routing Algorithms: Shortest Path Routing",
+            "Flooding",
+            "Hierarchical Routing",
+            "Broadcast",
+            "Multicast",
+            "Distance Vector Routing",
+            "Congestion Control Algorithms",
+            "Quality of Service, Internetworking",
+            "The Network Layer in the Internet"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Transport Services, Elements of Transport Protocols, Connection Management, TCP and UDP Protocols, Application Layer - Domain Name System, SNMP, Electronic Mail",
+            "The World Wide Web, HTTP, Streaming Audio and Video"
+        ]
+    }
+]

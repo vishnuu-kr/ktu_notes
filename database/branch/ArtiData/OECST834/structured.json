@@ -1,0 +1,52 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to IoT - Physical Design of IoT",
+      "Logical Design of IoT",
+      "IoT levels and Deployment templates",
+      "Domain Specific IoT- Home automation",
+      "Energy",
+      "Agriculture",
+      "Health and lifestyle"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "IoT and M2M-M2M, Difference between IoT and M2M, Software Defined Networking, Network Function virtualization, Need for IoT System Management, Simple Network Management Protocol (SNMP), NETCONF, YANG",
+      "LPWAN - LPWAN applications, LPWAN technologies, Cellular (3GPP) and Non 3GPP standards, Comparison of various protocols like Sigfox, LoRA, LoRAWAN, Weightless, NB-IoT, LTE-M"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Developing IoT - IoT design methodology",
+      "Case study on IoT system for weather monitoring",
+      "Motivations for using python",
+      "IoT-system Logical design using python",
+      "Python Packages of Interest for IoT - JSON",
+      "HTTPlib & URLLib",
+      "SMTPLib"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Programming Raspberry Pi with Python-Controlling LED with Raspberry Pi",
+      "Interfacing an LED and switch with Raspberry Pi",
+      "Other IoT devices-PcDino",
+      "Beagle bone Black",
+      "Cubieboard",
+      "Data Analytics for IoT"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

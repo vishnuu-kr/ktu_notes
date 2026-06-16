@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Virtual Instrumentation\nIntroduction and definition of Virtual Instrumentation (VI), block diagram\nand architecture of a virtual instrument, Virtual instruments versus traditional\ninstruments, advantages of VI.\nOverview of Virtual Instrumentation in the Engineering Process – Design,\nTest and Control, Virtual Instruments Beyond the Personal Computer.\nOverview of graphical programming for VI.\nSoftware tools used in VI (Features and advantages only) – LabView,\nMATLAB/Scilab, Python\nIntroduction to Smart Instruments (Basic concepts only)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to LabVIEW\nIntroduction to Graphical system design using LabVIEW,  Advantages of\nLabVIEW, Key elements in LabVIEW(Overview only) - Front Panel and\nBlock Diagram. Concept of Virtual Instruments (VIs) and SubVIs, Steps\ninvolved in Developing Virtual Instruments using LabVIEW, Real time data\nacquisition - analog and digital Input/Output operations in LabVIEW, Basic\nconcept of clusters in LabVIEW, Simple design examples using LabVIEW\n(Data Logging, Monitoring, Control Systems), Introduction to LabVIEW\nRealtime, LabVIEW FPGA and LabVIEW Embedded.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Data Acquisition Systems (DAQ)\nIntroduction to data acquisition on PC, Components of a Data Acquisition\nSystem, Analog vs. Digital signals, Sampling fundamentals and sampling\ntheorem, Basics of ADC and DAC, Overview and need of Signal\nConditioning (Amplification and Filtering), Interfacing sensors with data\nacquisition systems, Calibration, Resolution, Data acquisition interface\nrequirements.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Common Instrument Interfaces\nOverview of Instrument control using VISA (Virtual Instrument Software\nArchitecture), Basics of 4-20mA current loop.\nSerial versus parallel data transfer, concept of baud rate, overview of RS-\n232.\nGPIB – Introduction, types of messages, overview of physical bus structure,\nadvantages, Overview of IEEE 488.2, Basics of Standard Commands for\nProgrammable Instruments (SCPI).\nUSB – Introduction, need for USB, overview of USB data format,\nadvantages.\nOverview of MOD Bus.",
+    "contact_hours": "9"
+  }
+]

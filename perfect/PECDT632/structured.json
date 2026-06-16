@@ -1,0 +1,46 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Data Warehousing :-Overview of Data Warehousing - Need, Definition, Characteristics, Benefits, Operational vs. Analytical Systems, Applications in Industry",
+            "Architecture of Data Warehousing - Data Sources, Staging Area, Data Marts, ETL (Extract, Transform, Load) Processes, Components of a Data Warehouse (Data Models, OLAP, Metadata",
+            "Data Warehouse Models - Enterprise Data Warehouse, Virtual Warehouse, Data Mart"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Dimensional Modeling & Design :-Dimensional Modeling Basics - Facts, Dimensions, Star Schema, Snowflake Schema",
+            "Steps in Dimensional Modeling",
+            "Fact Tables, Dimension Tables",
+            "Data Warehouse Design - Top-Down & Bottom-Up, Fact Table Granularity",
+            "Slowly Changing Dimensions",
+            "Advances in Dimensional Modeling - Aggregates & Roll-Up, Time Dimension, Junk Dimensions, Degenerate Dimensions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "ETL Processes & Tools :-ETL Concepts and Process - Extracting Data from Multiple Sources, Data Transformation and Cleansing, Loading Data",
+            "ETL Tools and Platforms -Common ETL Tools (Informatica, Talend, Microsoft SSIS), Scheduling and Automation of ETL Processes",
+            "Data Quality and Data Governance in ETL -Handling Incomplete and Inconsistent Data, Ensuring Data Accuracy, Consistency, and Integrity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Data Warehouse Optimization & OLAP :-Query Optimization in Data Warehouses - Indexing Strategies, Partitioning, Performance Tuning",
+            "OLAP - Architectures: MOLAP, ROLAP, HOLAP",
+            "Operations: Drill-Down, Roll-Up, Slicing, Dicing",
+            "Data Warehouse Maintenance - Data Loading Automation, Backup, and Recovery, Data Warehouse Evolution and Scalability"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

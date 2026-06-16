@@ -1,0 +1,450 @@
+Course Code 
+PBECT604 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCECT302 Solid State Devices, 
+PCECT303 Analog Circuits,   
+PBECT304 Logic Circuit Design 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide a comprehensive understanding of VLSI design methodologies, including ASIC 
+types, SoCs and FPGA devices, design flows, methodologies. 
+2. To provide a comprehensive understanding of VLSI fabrication techniques. 
+3. To provide a solid foundation in static CMOS logic design and analysis, layout design and the 
+application of design rules in layout design. 
+4. To cover dynamic logic design principles and the design and operation of storage cells. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+VLSI Design Methodologies: Introduction, Moore’s law, ASIC design, Full 
+custom ASICs, Standard cell based ASICs, Gate array based ASICs, SoCs, 
+FPGA devices, ASIC and FPGA Design flows, Top-Down and Bottom-Up 
+design methodologies, Logical and Physical design. 
+ 
+6 
+2 
+Fabrication techniques: Material Preparation Purification and Crystal 
+growth (CZ process), Wafer preparation, Epitaxy - molecular beam 
+epitaxy, Thermal Oxidation- Dry and Wet oxidation, Diffusion and ion 
+implantation techniques, Lithography- Photo lithographic sequence, 
+Electron Beam Lithography, Etching, Chemical Vapor Deposition and 
+Physical Vapor Deposition. 
+MOSFET Fabrication techniques: Twin-Tub fabrication sequence, 
+Fabrication process flow. 
+ 
+8 
+
+ 
+ 
+3 
+Static CMOS Logic Design: MOSFET Logic Design - NMOS Inverter 
+(Static analysis only), basic logic gates, CMOS logic, Static and transient 
+analysis of CMOS inverter, Static and dynamic power dissipation (detailed 
+analysis not required), Propagation delays. Realization of logic functions 
+with static CMOS logic. 
+Layout Design and Design rules: Stick Diagram and Design rules-micron 
+rules and Lambda rules. (definitions only). Layout of CMOS Inverter, two 
+input NAND and NOR gates. 
+11  
+4 
+Pass transistors and Transmission gate logic: Basic concepts, Realisation 
+of logic gates using pass transistors and complementary pass transistors. 
+Dynamic logic Design: Pre charge, Logic evaluation, Issues in dynamic 
+logic, Domino Logic, NP domino logic, Realisation of logic gates circuits 
+using dynamic logic (NAND and NOR). 
+Sequential Logic and Memory design: Behaviour of bistable elements, 
+CMOS D latch and edge triggered flip flop, Read Only Memory- 4x4 MOS 
+ROM Cell Arrays (NOR, NAND), Random Access Memory- SRAM-Six 
+transistor CMOS SRAM cell, DRAM-Three transistor and One transistor 
+Dynamic Memory Cell. 
+ 
+11  
+ 
+Suggestion on Project Topics 
+Sample Projects: 
+1.Create a standard cell library including basic logic gates, flip-flops, and multiplexers. 
+Tasks: 
+● 
+Design cells using schematic capture. 
+● 
+Perform logic synthesis to verify functionality. 
+● 
+Simulate the cells using Verilog testbenches. 
+ 
+2. Design and implement a simple RISC processor on an FPGA. 
+Tasks: 
+●Design the processor architecture using Verilog. 
+●Implement and synthesize the design using FPGA tools (e.g., Xilinx Vivado). 
+●Verify functionality through simulation and hardware testing. 
+3. Simulate the fabrication process of a MOSFET using TCAD tools. 
+Tasks: 
+●Model the different stages of MOSFET fabrication (e.g., oxidation, lithography, doping). 
+●Analyze the effects of various parameters on device characteristics. 
+
+ 
+ 
+ 
+4. Create the layout of CMOS logic gates and perform design rule checking. 
+Tasks: 
+● 
+Draw the stick diagrams for a CMOS inverter and two-input NAND/NOR gates. 
+● 
+Create the corresponding layout using layout tools. 
+● 
+Verify the layout against micron and lambda design rules. 
+5. Design and simulate basic memory cells including SRAM and DRAM. 
+Tasks: 
+● 
+Design a 4x4 MOS ROM cell array and SRAM/DRAM cells using Verilog. 
+● 
+Simulate the memory cells to verify their read and write operations. 
+● 
+Analyze the performance and area of different memory cell designs. 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● 
+Total of 8 Questions, each 
+carrying 2 marks 
+(8x2 =16 marks) 
+2 questions will be given from each module, out of which 1 
+question should be answered. Each question can have a 
+maximum of 2 sub divisions. Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain VLSI design methodologies including ASIC types, SoC and 
+FPGA devices, design flows, methodologies. 
+K2 
+CO2 
+Describe VLSI fabrication techniques.  
+K2 
+CO3 
+Design, analyse and create the layout of static CMOS logic circuits 
+adhering to design rules and specifications. 
+K3 
+CO4 
+Design and analysis of dynamic logic circuits and the implementation 
+of basic storage cells. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+2 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+CMOS Digital Integrated 
+Circuits- Analysis & Design 
+Sung-Mo Kang, Yusuf 
+Leblebici, Chulwoo Kim 
+Mc Graw Hill  
+4/e, Indian 
+Edition, 
+2016 
+2 
+VLSI Technology 
+S.M. SZE 
+Mc Graw Hill 
+2/e, Indian 
+Edition, 
+2017 
+3 
+Modern VLSI Design 
+Wayne Wolf 
+Prentice Hall; 4th 
+edition  
+4/e, 2008 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Application Specific Integrated 
+Circuits 
+Michael John Sebastian 
+Smith 
+Pearson 
+1/e, 2002 
+2 
+Principles of CMOS VLSI 
+Design -A Systems Perspective 
+Neil H. E. Weste, 
+Kamran Eshraghian 
+Pearson    
+2/e, 2007 
+3 
+Digital Integrated Circuits 
+Jan M. Rabaey 
+Pearson   
+2/e, 2016 
+4 
+Design of Analog CMOS 
+Integrated Circuits 
+Behzad Razavi 
+McGraw Hill 
+Education 
+2/e, 2017 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://nptel.ac.in/courses/117106092 
+https://nptel.ac.in/courses/106103116 
+2 
+https://nptel.ac.in/courses/108101089 
+3 
+https://nptel.ac.in/courses/108107129 
+https://nptel.ac.in/courses/117101105  Lecture 26 - Layout of Analog Circuit 
+4 
+https://nptel.ac.in/courses/108107129 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture 
+delivery 
+Project identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops 
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group 
+discussion 
+Project Analysis 
+Data Collection 
+Evaluation  
+Question 
+answer 
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical 
+thinking 
+and 
+ self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project 
+reformation 
+(If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case 
+Study/ 
+Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 
+5 minutes video 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+ 
+
+ 
+ 
+1. Project Planning and Proposal (5 Marks) 
+● Clarity and feasibility of the project plan  
+● Research and background understanding  
+● Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+● Individual contribution to the presentation  
+● Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+● Active participation and individual contribution  
+● Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+● Adherence to the project timeline and milestones  
+● Application of theoretical knowledge and problem-solving  
+● Final Result 
+5. Final Presentation (5 Marks) 
+● Quality and clarity of the overall presentation  
+● Individual contribution to the presentation  
+● Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+● Overall quality and technical excellence of the project  
+● Innovation and originality in the project  
+Creativity in solutions and approaches
+
+ 
+ 
+SEMESTER S6 
+ENTERTAINMENT ELECTRONICS

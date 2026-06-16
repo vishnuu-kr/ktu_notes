@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Generative Modeling  - Introduction, Generative Vs. Discriminative\nModeling, Advances in Machine Learning, The Rise of Generative Modeling,\nThe Generative Modeling Framework, Challenges of Generative Modeling,\nEthical Considerations in Generative AI, Bias and Fairness in Generative AI\nsystems, responsible use and deployment of generative models.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Autoencoders - Autoencoders, The Encoder, The Decoder, Joining the\nEncoder to the Decoder, Analysis of Autoencoder, Variational Autoencoders;\nKullback–Leibler (KL) divergence loss function; Generative Adversarial\nNetwork - Introduction to GANs, The Discriminator, The Generator, Training\nthe GAN, GAN Challenges, Oscillating Loss, Mode Collapse, Uninformative\nLoss, Hyper parameters.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Recurrent Neural Network (RNN). Architecture of RNN, Long Short-Term\nMemory (LSTM), Architecture of LSTM, Gated Recurrent Unit (GRU),\nArchitecture of GRU, Encoder-Decoder Models, Question-Answer Generator\nusing RNN and Encoder-Decoder, Architecture, Attention mechanisms,\nTransformer Architecture, Self Attention, Analysis of the Transformer, BERT,\nGPT-2 ,Large Language Models (LLM).",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Cost Optimization in the Development and Operation of Generative AI\nApplications, Fine Tuning and customizability, Parameter Efficient Fine\nTuning Methods, Prompt Tuning, Prefix Tuning, P‐Tuning, IA3, Low‐Rank\nAdaptation, Prompt Engineering, Clear and Direct Prompts, Adding\nQualifying Words for Brief Responses, Breaking Down the Request, In‐\ncontext learning (ICL) in LLMs.",
+    "contact_hours": "8"
+  }
+]

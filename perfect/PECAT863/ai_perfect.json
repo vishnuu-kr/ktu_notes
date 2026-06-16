@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Authentication Protocols - Message Authentication Requirements",
+            "Authentication Functions",
+            "Message Authentication Codes - Hash Functions",
+            "Digital Signatures",
+            "Authentication Protocols - Mutual Authentication",
+            "One Way Authentication",
+            "Kerberos Version 4",
+            "Kerberos Version 5",
+            "X.509 Authentication Service",
+            "Public Key Infrastructure (PKI) - Trust Models",
+            "Revocation"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Electronic Mail Security - Pretty Good Privacy (PGP) - Operational Description",
+            "Cryptographic Keys and Key Rings",
+            "Message Format",
+            "PGP Message Generation",
+            "PGP Message Reception",
+            "Public Key Management",
+            "S/MIME - Functionality",
+            "Messages",
+            "Certificate Processing",
+            "Enhanced Security Services"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Network Layer Security and Web Security - Internet Protocol Security (IPSec) - Overview",
+            "IP Security Architecture",
+            "Authentication Header (AH)",
+            "Encapsulating Security Payload (ESP)",
+            "Combining Security Associations",
+            "Key Management",
+            "Internet Key Exchange (IKE) - Phases",
+            "Web Security Considerations",
+            "Secure Socket Layer and Transport Layer Security (SSL/TLS) - SSL Architecture",
+            "SSL Protocols"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Application Layer Security and System Security - Hypertext Transfer Protocol Secure (HTTPS) - Connection Initiation",
+            "Connection Closure",
+            "Secure Shell (SSH) - Transport Layer Protocol",
+            "User Authentication Protocol",
+            "Connection Protocol",
+            "Secure Electronic Transaction (SET) - Overview",
+            "Features",
+            "Participants",
+            "Dual Signature",
+            "Payment Processing",
+            "Firewalls - Firewall Characteristics",
+            "Types of Firewalls",
+            "Firewall Configurations",
+            "Encrypted Tunnels",
+            "Trusted Systems - Data Access Control",
+            "Concept of Trusted Systems",
+            "Trojan Horse Defense"
+        ]
+    }
+]

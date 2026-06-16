@@ -1,0 +1,88 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Security goals",
+      "Cryptographic Attacks",
+      "Services and Mechanism",
+      "Techniques. Traditional Symmetric Key Ciphers: Introduction",
+      "Substitution Ciphers",
+      "Transposition Ciphers",
+      "Stream and Block Ciphers. Introduction to Modern Symmetric-Key Ciphers: Modern Block Ciphers",
+      "Modern Stream Ciphers"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Introduction",
+      "DES Structure",
+      "DES Analysis",
+      "Multiple DES",
+      "Security of DES. Advanced Encryption Standard (AES): Introduction",
+      "Transformations",
+      "Key Expansion",
+      "AES Ciphers",
+      "Analysis of AES. Asymmetric-Key Cryptography: Introduction",
+      "RSA Cryptosystem",
+      "Rabin Cryptosystem",
+      "Elgamal Cryptosystem",
+      "Elliptic Curve Crypto systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Introduction",
+      "Iterated Hash function",
+      "SHA-512",
+      "WHIRLPOOL. Digital Signature: Comparison",
+      "Process",
+      "Services",
+      "Attacks on Digital Signature",
+      "Digital Signature Standard. Data Hiding in Text: Basic Features",
+      "Applications of Data Hiding",
+      "Watermarking",
+      "Intuitive Methods",
+      "Simple Digital Methods",
+      "Data Hiding in Text",
+      "Innocuous Text",
+      "Mimic Functions. Data Hiding in Images: LSB Encoding",
+      "BPCS Steganography",
+      "Lossless Data Hiding",
+      "Spread Spectrum Steganography",
+      "Data Hiding by Quantization",
+      "Patchwork",
+      "Signature Casting in Images",
+      "Transform Domain Methods",
+      "Robust Data Hiding in JPEG Images",
+      "Robust Frequency Domain Watermarking",
+      "Detecting Malicious Tampering"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Privacy Concepts",
+      "Privacy Principles and Policies",
+      "Authentication and Privacy",
+      "Data Mining",
+      "Privacy on the Web",
+      "E-Mail Security",
+      "Impacts on Emerging Technologies. Legal and Ethical Issues in Computer Security: Protecting Programs and Data",
+      "Information and the Law",
+      "Rights of Employees and employers",
+      "Redress for Software Failures",
+      "Computer Crime",
+      "Ethical Issues in Computer Security"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

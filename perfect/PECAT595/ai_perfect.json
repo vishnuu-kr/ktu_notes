@@ -1,0 +1,74 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Modular Arithmetic: Integer Arithmetic - Integer Division",
+            "Divisibility",
+            "Greatest Common Divisor (GCD)",
+            "Euclid's Algorithm for GCD",
+            "Extended Euclid's Algorithm. Prime Numbers and Factorization: Prime Numbers - Prime-Power Factorization",
+            "Fermat and Mersenne Primes",
+            "Fermat's Theorem",
+            "Applications",
+            "Euler's Theorem",
+            "Euler's Totient Function",
+            "Applications. Factorization - Fermat's Factorization",
+            "Pollard p-1 Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Symmetric Cipher Models: Substitution Techniques - Caesar Cipher",
+            "Monoalphabetic Cipher",
+            "Playfair Cipher",
+            "Hill Cipher",
+            "Polyalphabetic Cipher",
+            "One Time Pad. Transposition Techniques",
+            "Block Cipher Principles - The Data Encryption Standard (DES)",
+            "Strength of DES",
+            "Block Cipher Operation - Electronic Code Book",
+            "Cipher Block Chaining Mode",
+            "Cipher Feedback Mode",
+            "Output Feedback Mode",
+            "Counter Mode. Advanced Encryption Standard (AES) - Basic Structure",
+            "Transformation Functions",
+            "Key Expansion"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Public Key Cryptography: Principles of Public Key Cryptosystems",
+            "RSA Algorithms - Description of the Algorithm",
+            "Computational Aspects",
+            "The Security of RSA",
+            "Diffie Hellman Key Exchange - The Algorithm",
+            "Key Exchange Protocols",
+            "Man-in-the-Middle Attack",
+            "Elliptic Curve Cryptography - Analog of Diffie Hellman Key Exchange",
+            "Elliptic Curve Encryption/Decryption",
+            "Security of Elliptic Curve Cryptography"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Operating System Security: Security in the Operating System",
+            "Security in the Design of the Operating System. Database Security: Security Requirements of Databases",
+            "Reliability and Integrity",
+            "Database Disclosure. Cloud Security: Cloud Computing Concepts",
+            "Moving to the Cloud",
+            "Cloud Security Tools and Techniques",
+            "Cloud Identity Management"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

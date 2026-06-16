@@ -1,0 +1,339 @@
+Course Code 
+PECDT745 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To introduce the foundational principles and models of information retrieval, including 
+indexing, query processing, and relevance feedback. 
+2. To help learners develop the skills to design, implement, and evaluate basic search engines 
+and retrieval systems. 
+3. To equip learners with the ability to analyze the ethical implications of information retrieval 
+and to introduce them to advanced IR topics such as web search, multimedia retrieval, and the 
+use of machine learning in IR. 
+SYLLABUS  
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Overview of Information Retrieval Systems:-  
+History and Evolution of IR, Basic Concepts of Information Retrieval, 
+Differences between Data Retrieval and Information Retrieval, IR Models: 
+Boolean, Vector Space, Probabilistic Models. 
+Indexing and Search: Document Representation and Preprocessing, 
+Tokenization, Stemming, and Lemmatization, Inverted Index and Boolean 
+Queries, Term Frequency and Document Frequency.  
+Relevance Feedback and Query Expansion: Query Reformation 
+Techniques, User Feedback in IR Systems, Pseudo Relevance Feedback. 
+9 
+
+ 
+ 
+2 
+Retrieval Models and Evaluation:- 
+Retrieval Models: Vector Space Model (VSM), Probabilistic Retrieval 
+Model, Language Models for IR, Latent Semantic Indexing (LSI), Topic 
+Models (LDA) 
+Evaluation of Information Retrieval Systems: Precision, Recall, and F-
+Measure, Receiver Operating Characteristic (ROC) Curves, Mean Average 
+Precision (MAP), Discounted Cumulative Gain (DCG), Test Collections and 
+Benchmarks (TREC).  
+Text Similarity and Ranking: Cosine Similarity, TF-IDF Weighting, 
+BM25 Ranking Algorithm 
+9 
+3 
+Web Search and Information Retrieval :-  
+Web Search Fundamentals, Web Crawling and Indexing, Link Analysis 
+Algorithms: PageRank and HITS, Search Engine Architecture and 
+Components, Web Content Mining and Structure Mining 
+Search Engine Optimization (SEO):Concepts of SEO and Ranking Factors, 
+On-Page and Off-Page Optimization, User Behavior Modeling and 
+Personalized Search.  
+Distributed and Scalable Search: Distributed Indexing and Search 
+Architectures,  Map Reduce for Large Scale Search Engines, Parallel Query 
+Processing and Web-Scale IR 
+9 
+4 
+Advanced Topics in Information Retrieval:- 
+Multimedia and Cross-Language Information Retrieval: Image and Video 
+Retrieval Techniques, Content-Based Image Retrieval (CBIR), Cross-
+Language Information Retrieval (CLIR) and Challenges, Natural Language 
+Processing (NLP) in IR 
+Social Media and Sentiment Analysis: Social Media Mining and Opinion 
+Retrieval, 
+Sentiment 
+Analysis 
+and 
+Opinion 
+Mining 
+Techniques, 
+Collaborative Filtering and Recommendation Systems 
+Ethical Issues and Emerging Trends: Privacy and Bias in Information 
+Retrieval, Ethics of Search Engines and IR Systems, AI in Information 
+Retrieval: Deep Learning and Neural IR Models, Future Directions in IR 
+Research 
+9 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Sample Questions at Evaluate Level  
+1. Evaluate the effectiveness of the Vector Space Model (VSM) compared to the Probabilistic 
+Retrieval Model in handling queries with ambiguous terms. Which model provides more 
+accurate results, and under what conditions? 
+2. Evaluate the effectiveness of Mean Average Precision (MAP) compared to Discounted 
+Cumulative Gain (DCG) in assessing the performance of ranked retrieval systems. Which 
+metric better reflects the user experience when interacting with search results, and why? 
+ 
+Sample Questions at Analyze Level  
+ 
+1. Evaluate the impact of different design choices in the query processor and ranking 
+components of a search engine on the relevance and ranking of search results. How do these 
+choices influence the user experience? 
+2. Analyze how the application of web content mining and structure mining techniques 
+influences the ranking of search results. What are the trade-offs between relevance and 
+computational efficiency? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose 
+any one full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each question 
+can have a maximum of 3 subdivisions. Each 
+question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the fundamental concepts of Information Retrieval, indexing
+and searching  
+K2 
+CO2 Evaluate the effectiveness of IR systems using standard metrics. 
+K5 
+CO3 Examine Web Search and Information Retrieval Techniques 
+K4 
+CO4 
+Explore advanced topics in information retrieval including multimedia
+retrieval, sentiment analysis, and ethical issues in IR. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Introduction to Information 
+Retrieval 
+C. Manning, P. Raghavan, 
+and H. Schütze, 
+Cambridge University 
+Press 
+1/e, 2008 
+2 
+Modern Information Retrieval: 
+The Concepts and Technology 
+behind Search,  
+Ricardo Baeza-Yates and 
+Berthier Ribeiro-Neto 
+ACM Press Books 
+2/e, 2011 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Information Retrieval: 
+Implementing and Evaluating 
+Search Engines 
+Stefan Büttcher, Charles L. 
+A. Clarke, Gordon V. 
+Cormack C 
+MIT Press, 
+1/e, 2016. 
+2 
+Search Engines: Information 
+Retrieval in Practice 
+Bruce Croft, Donald 
+Metzler, and Trevor 
+Strohman 
+Addison-Wesley 
+1/e, 2009 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+3 
+ 
+ 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+ 
+3 
+3 
+ 
+ 
+3 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+3 
+CO4 
+3 
+3 
+ 
+3 
+ 
+3 
+ 
+3 
+ 
+ 
+3 
+3 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No.
+Link ID 
+1 
+https://nptel.ac.in/courses/106/105/106105158 
+2 
+https://nptel.ac.in/courses/106/105/106105158/ 
+3 
+https://swayam.gov.in/nd1_noc19_cs61/preview 
+4 
+https://nptel.ac.in/courses/106/106/106106139/ 
+5 
+https://nptel.ac.in/courses/106/106/106106142/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S7 
+ADVANCED DATABASE SYSTEMS

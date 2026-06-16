@@ -1,0 +1,2055 @@
+Course Code 
+PCEVT602 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs.30 Min. 
+Prerequisites (if any) 
+PCEVT501 Digital 
+CMOS Design
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Understand the SoC design process, including the differences between waterfall and spiral 
+models, and the significance of top-down versus bottom-up approaches in meeting 
+specification requirements. 
+2. Develop the ability to create a comprehensive design specification and execute top-level 
+macro design, utilizing appropriate tools and methodologies for macro integration and 
+productization. 
+3. Apply best practices in RTL coding, with a focus on proper clock and reset handling to ensure 
+reliable and efficient design implementation. 
+4. Master the design and integration of hard macros, addressing key issues such as design for 
+testability, power distribution, and model development, to produce robust and deliverable 
+macro products. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+System On Chip Design Process: A canonical SoC Design, SoC Design 
+flow - Waterfall vs spiral, Top-down vs Bottom up, Specification 
+requirement, Types of specification, System design process, System level 
+design issues- Soft IP vs Hard IP. 
+9 
+2 
+Macro Design Process: Contents of a design specification, Top level 
+Macro Design,Top level Macro Design Process, Activities and tools, 
+Subblock design, Macro integration, Soft macro productization.  
+9 
+3 
+RTL coding guidelines: Overview of coding guidelines, Guidelines for 
+9 
+
+ 
+ 
+clocks and resets - Mixed clock edges, Clock buffers, Gated clocks, 
+Internally generated clocks, Gated clocks, Internally generated resets. 
+4 
+Developing hard macros: Design issues for hard macros – Design for test, 
+Clock and reset, Aspect ratio, Porosity, Pin placement, Power distribution. 
+The hard macro design process, Block integration for hard macros, 
+Productization for hard macros, Model development for hard macros, Soft 
+macro deliverables, Hard macro deliverables.  
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the SoC design flow, differentiate between design 
+methodologies, and address system-level design issues. 
+K2 
+CO2 
+Develop and implement design specifications for macro design, 
+including integration and productization of soft macros. 
+K3 
+CO3 
+Demonstrate proficiency in applying RTL coding guidelines, 
+effectively managing clocks and resets in their designs. 
+K3 
+CO4 
+Design, integrate, and productize hard macros, with an understanding 
+of design issues and deliverables specific to hard macro development 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Reuse Methodology manual for 
+System-On-A-Chip Designs 
+Michael Keating, Pierre 
+Bricaud 
+Springer 
+2002 
+2 
+System-on-Chip Design with 
+Arm® Cortex® -M Processors 
+JOSEPH YIU 
+arm Education Media 
+2019 
+3 
+Digital VLSI Chip Design with 
+Cadence and Synopsys CAD 
+Tools 
+Erik Brunvand 
+Pearson 
+1st, July 
+2009 
+4 
+SoC Verification-Methodology 
+and   Techniques, 
+Prakash Rashinkar, Peter 
+Paterson and Leena 
+Singh, 
+Kluwer Academic 
+Publishers, 
+2001 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+1 
+1 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+CO2 
+3 
+3 
+2 
+1 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+CO3 
+3 
+3 
+2 
+1 
+2 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+CO4 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+1 
+1 
+ 
+1 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital systems Testing and  
+testable Design 
+Miron Abramovici, 
+Melvin A. Breur, Arthur 
+D. Friedman 
+ Jaico Publishing 
+House, 
+2001 
+2 
+Hardware Design 
+Verification: Simulation and 
+Formal Method-based 
+Approaches 
+William K.Lam 
+Prentice Hall 
+Professional Technical 
+Reference 
+2005 
+3 
+Design of System on a 
+ChipDevices & Components 
+Ricardo Reis, Jochen A. 
+G. Jess 
+Springer 
+2004 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/108106191 
+2 
+https://nptel.ac.in/courses/108106177 
+3 
+https://nptel.ac.in/courses/106105161 
+4 
+https://www.arm.com/why-arm/custom-socs 
+5 
+https://www.youtube.com/watch?v=dokgLSAhqHI 
+
+ 
+ 
+SEMESTER S6 
+CONTROL SYSTEMS 
+ 
+Course Code 
+PEEVT 631 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs.30 Min. 
+Prerequisites (if any) 
+None
+ 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. 
+Teach mathematical modelling and calculate the transfer function of a system. 
+2. 
+Discuss the time domain response of first and second order systems. 
+3. 
+Demonstrate the steps to find the absolute stability of a system. 
+4.       Demonstrate the steps frequency analysis of systems. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction: Basic Components of a Control System, Open-Loop Control 
+Systems and Closed-Loop Control Systems, Examples of control system.  
+Mathematical modelling of control systems: Electrical Systems and 
+Mechanical systems.  
+Transfer Function from Block Diagrams and Signal Flow Graphs: 
+impulse response and its relation with transfer function of linear systems. 
+Block diagram representation and reduction methods, Signal flow graph and 
+Mason’s gain formula. 
+ 
+9  
+2 
+Time Domain Analysis of Control Systems: Introduction- Standard Test 
+signals, Time response specifications. Time response of first and second 
+order systems to unit step input and ramp inputs, time domain 
+specifications.  
+Steady state error and static error coefficients. 
+Frequency domain analysis: Frequency domain specifications, correlation 
+between time and frequency responses. 
+9  
+
+ 
+ 
+3 
+Stability of linear control systems: Concept of BIBO stability, absolute 
+stability, Routh Hurwitz Criterion, Effect of P, PI & PID controllers.  
+Root Locus Techniques: Introduction, properties and its construction, 
+Application to system stability studies. Illustration of the effect of addition of 
+a zero and a pole. 
+9  
+4 
+Nyquist stability criterion: Fundamentals and analysis. 
+Relative stability: gain margin and phase margin. Stability analysis with 
+Bode plot.  
+Design of Compensators: Need of compensators, design of lag and lead 
+compensators using Bode plots. 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Determine transfer function of electromechanical systems using block 
+diagram reduction and SFG. 
+APPLY 
+CO2 
+Determine Transient and Steady State behaviour of systems using 
+standard test signals. 
+APPLY 
+CO3 
+Determine absolute stability and relative stability of a system using 
+Routh Hurwitz Criterion and Root Locus Techniques. 
+APPLY 
+CO4 
+Design a control system with suitable compensation techniques using 
+frequency domain techniques. 
+APPLY 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Automatic Control 
+Systems 
+Farid Golnaraghi, 
+Benjamin C. Kuo 
+Wiley India 
+9th Edition, 
+2009 
+2 
+Control Systems 
+Engineering 
+I.J. Nagarath, M.Gopal 
+New Age International 
+Pub. Co. 
+5th Edition, 
+2007 
+3 
+Schaum's Outline of 
+Feedback and Control 
+Systems 
+Joseph J. DiStefano, 
+Allen Stubberud, Ivan J. 
+Williams 
+Mc Graw Hill 
+3rd Edition, 
+2013 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO2 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO3 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO4 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO5 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Control System 
+Engineering 
+Norman S. Nise 
+Wiley India. 
+5th Edition and 
+2009 
+2 
+Modern Control 
+Engineering 
+Ogata K., 
+Prentice Hall of India, 
+Pearson Education 
+4th Edition and 
+2002 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://youtu.be/RcuGxWc0HyQ 
+https://youtu.be/PLgxjVQ6sZ8 
+https://youtu.be/fsxSst10_cE 
+https://youtu.be/E56sENH6hLU 
+https://youtu.be/2hK8RGVWwJs 
+2 
+https://youtu.be/8-J0Y7bvVz0 
+https://youtu.be/z2IpQaGHNlU 
+https://youtu.be/LQ46V5OzEws 
+https://youtu.be/8WYLEsa6dlY 
+3 
+https://youtu.be/UTQOQzIYKu0 
+https://youtu.be/3IM57uKQnXc 
+https://youtu.be/86uzST3SM-0 
+https://youtu.be/wRnz0JgMIsY 
+4 
+https://youtu.be/gueIWqhJDn8 
+https://youtu.be/JbuTgcb7Tys 
+https://youtu.be/g-ptzF3w94Y 
+https://youtu.be/VCQVsolxCCE 
+https://youtu.be/VSDLCdKfzMo 
+https://youtu.be/w741WYd4Fe4 
+https://youtu.be/zkdhvPbqJLM 
+https://youtu.be/JCBsyUp3CPw 
+https://youtu.be/_3e6xFyFmAQ 
+https://youtu.be/8zpb1nb082g 
+
+ 
+ 
+SEMESTER S6 
+VLSI VERIFICATION  
+Course Code 
+PEEVT 632 
+CIE Marks 
+40 
+Teaching Hours/Week (L: 
+T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBECT304 
+Course Type 
+Theory 
+ 
+Course Objectives:  
+This Course aims to impart the knowledge of 
+1. The fault modelling and fault detection.  
+2. The concepts of test generation for combinational circuits   
+3. The concepts of test generation methods – DFT, BIST.  
+4. concepts of fault diagnosis 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction, VLSI design flow, need of Pre-silicon verification and post-
+silicon validation and debug -Role of Testing -Yield-ATE. Fault Modelling - 
+single stuck-at-faults, Bridging faults, delay faults -functional equivalence 
+and fault collapsing, Dominance collapsing and check point theorem. Logic 
+and Fault Simulation - serial and parallel fault simulation.   
+9 
+2 
+Testability Measures- Combinational Controllability - Combinational 
+Observability. Combinational ATPG-Path sensitization method , Boolean 
+Difference Method-D-Algorithm-PODEM 
+9 
+3 
+Design for Testability – DFT Fundamentals, Scan design, Partial Scan, 
+Random Access Scan 
+9 
+4 
+BIST- LFSR Pattern Generation-Output Response Analysis-BILBO.  
+Boundary Scan standard. Introduction to Formal Design Verification. 
+Introduction to Fault Diagnosis and Self-checking design. 
+9 
+ 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply Fault equivalence and Fault collapsing 
+KL3 
+CO2 
+Apply basic ATPG Algorithms used in VLSI Testing. 
+KL3 
+CO3 
+Explain the concept of DFT   
+KL2 
+CO4 
+Apply BIST for output response analysis 
+KL3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Essentials of Electronic Testing 
+of Digital Memory and Mixed 
+Signal VLSI Circuits 
+Viswani D Agarwal and 
+Michael L Bushnell 
+Kluwer Academic 
+Publishers 
+2000 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+High-Level 
+Synthesis: 
+Introduction 
+to 
+Chip 
+and 
+System Design 
+D. D. Gajski, N. D. Dutt, 
+A.C.-H. Wu and S.Y.-L. 
+Lin 
+Springer 
+1st edition, 
+1992. 
+2 
+Digital systems Testing and 
+Testable Design 
+M. Abramovici, M A 
+Breuer and A D 
+Friedman 
+ IEEE Press 
+1994 
+3 
+Testing of Digital Systems 
+Niraj Jha and Sanjeep K 
+Gupta 
+ Cambridge University 
+Press 
+2003 
+4 
+Digital Circuit Testing and 
+Testability 
+P.K. Lala 
+Academic Press 
+2002 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://youtu.be/kW70cVmWSR8?si=B0u137fAG1Nrzu7X 
+2 
+https://youtu.be/zekvZgaK54o?si=wU-Uiu8LucspC7W4 
+3 
+https://youtu.be/FBjTy-JMZ8Y?si=7tU4qs353srSPjsg 
+4 
+https://youtu.be/5jBAVSN_U0g?si=tGa7U4OjiiojAYfw 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+SEMESTER S6 
+EMBEDDED LINUX SYSTEMS 
+ 
+Course Code 
+PEEVT 633 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBEVT504 
+Embedded System 
+Design
+Course Type 
+Elective 
+ 
+Course Objectives: 
+1. Understand the fundamental concepts of Embedded Linux, including its advantages, system 
+architecture, development setups, and supported processor architectures. 
+2. Gain proficiency in setting up and using the GNU toolchain for cross-platform development, 
+including configuring and using various development tools and IDEs. 
+3. Learn to select, configure, compile, and install the Linux kernel, along with understanding the 
+structure and components of the root file system and storage device manipulation. 
+4. Develop the ability to set up various types of filesystems for embedded devices, configure 
+bootloaders, and gain an introduction to device drivers. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction: Embedded Linux, Real Time Linux, Types of Embedded Linux 
+systems, Advantages of Linux OS, Using distributions, Examples of 
+Embedded Linux systems - system architecture, Types of host/target 
+architectures for the development of Embedded Linux Systems, Debug 
+setups, Boot Configurations, Processor architectures supported by Linux. 
+9 
+2 
+Cross platform Development toolchain: GNU tool chain basics, Kernel 
+Headers Setup, Binutils setup, Bootstrap Compiler Setup, Library Setup, Full 
+Compiler Setup, Using the tool chain. C library alternatives, JAVA, Perl, 
+Python, Ada, IDEs , Terminal Emulators. 
+9 
+
+ 
+ 
+3 
+Kernel and Root File System, Kernel Considerations- selection, 
+configuration, Compiling and Installing the kernel Root File System 
+Structure, Libraries, Kernel Modules, Kernel Images, Device Files, Main 
+System Applications, Custom Applications, System Initialization. Storage 
+Device Manipulation. MTD Supported Devices, Disk Devices, Swapping. 
+9 
+4 
+Root Filesystem Setup : Filesystem Types for Embedded Devices, Writing a 
+Filesystem Image to Flash using an NFS-Mounted Root Filesystem, Placing 
+a Disk Filesystem on a RAM Disk, Rootfs and Initramfs, Setting Up the 
+Bootloader, Embedded Bootloaders, Introduction to Device Drivers. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the components, advantages, and architectures of Embedded 
+Linux systems, as well as the development and debugging setups used. 
+K2 
+CO2 
+Gain proficiency in setting up and using the GNU toolchain and other 
+development tools for cross-platform development, including various 
+programming languages and IDEs. 
+K3 
+CO3 
+Demonstrate the ability to select, configure, compile, and install the 
+Linux kernel, and understand the root file system structure and storage 
+device manipulation. 
+K3 
+CO4 
+Gain the capability to set up different types of filesystems for 
+embedded devices, configure bootloaders, and understand the basics of 
+device drivers 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Building Embedded Linux 
+Systems 
+Karim Yaghmour, Jon 
+Masters, Gilad Ben-
+Yossef, and Philippe 
+Gerum 
+O’Reilly Media, Inc. 
+2nd , 2008 
+2 
+Linux Device Drivers 
+Alessandro Rubini, 
+Jonathan Corbet 
+O’Reilly Media, Inc. 
+3rd, 2005 
+3 
+Embedded Linux Primer A 
+Practical Real – World 
+Approach 
+Christopher Hallinan 
+Prentice Hall 
+1st  2006 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+1 
+1 
+1 
+1 
+ 
+ 
+ 
+1 
+1 
+ 
+ 
+CO2 
+2 
+2 
+2 
+1 
+3 
+ 
+ 
+ 
+1 
+1 
+ 
+ 
+CO3 
+2 
+2 
+3 
+2 
+3 
+ 
+ 
+ 
+2 
+2 
+ 
+ 
+CO4 
+2 
+2 
+3 
+2 
+3 
+ 
+ 
+ 
+2 
+2 
+ 
+ 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Embedded Linux System 
+Design and Development 
+P Raghavan, Amol Lad, 
+Sriram Neelakandan 
+CRC Press 
+2005 
+2 
+Essential Linux Device Drivers 
+Alan Cox, Sreekrishnan, 
+Venkateswaran 
+Prentice Hall 
+1st, 2008 
+3 
+Embedded Linux - Hardware, 
+Software and Interfacing 
+Craig Hollabaugh 
+Pearson Education 
+2002 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://nptel.ac.in/courses/106105193 
+2 
+https://nptel.ac.in/courses/117106113 
+3 
+https://elearn.nptel.ac.in/shop/partnering-courses/embedded-linux-batch-3/?v=c86ee0d9d7ed 
+4 
+https://www.youtube.com/watch?v=Sk9TatW9ino 
+ 
+
+ 
+ 
+SEMESTER S6 
+SPEECH AND AUDIO PROCESSING 
+ 
+Course Code 
+PEEVT 634 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To impart the basic concepts of speech signal processing 
+ 
+2. To familiarize the auditory mechanism and speech perception 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Speech Production: - Acoustic theory of speech production- -Source/Filter 
+model - Pitch, Formant, Spectrogram-- Discrete model for speech 
+production, Articulatory Phonetics -Acoustic Phonetics- Basic speech units 
+and their classification. 
+ 
+9 
+2 
+Short-Time Speech Analysis, Windowing, STFT, spectra of windows- Wide 
+and narrow band spectrogram -Time domain parameters (Short time energy, 
+short time zero crossing Rate, ACF). Frequency domain parameters-Filter 
+bank analysis. STFT Analysis. Prosody of speech. MFCC-computation, LPC 
+Model, Pitch and Formant Estimation. 
+ 
+9 
+3 
+ Speech Enhancement:  Spectral subtraction and Filtering, Harmonic 
+filtering, parametric resynthesis. Speaker Recognition: Speaker verification 
+and speaker identification- log-likelihood.  Machine learning models in 
+Speaker Recognition. Language identification: implicit and explicit models.    
+9 
+4 
+Signal Processing models of audio perception: Basic anatomy of hearing 
+System: Basilar membrane behaviour.   Sound perception:  Auditory Filter 
+Banks, Critical Band Structure, Absolute Threshold of Hearing, Masking-
+ 
+9 
+
+ 
+ 
+Simultaneous Masking, Temporal Masking. Models of speech perception 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+To describe the fundamental concepts, principles, and theories of 
+speech production 
+K1 
+CO2 
+To analyse the speech signal in the time and frequency domain 
+K2 
+CO3 
+To apply speech processing concepts in real-world applications 
+K3 
+CO4 
+To describe the fundamental concepts, principles, and theories of 
+hearing mechanism  
+K1 
+CO5 
+To develop applications by combining concepts of speech production 
+and hearing mechanism  
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Speech 
+Communications: 
+Human 
+and 
+Machine, 
+2nd 
+Edition 
+Douglas O'Shaughnessy 
+Wiley-IEEE Press 
+2nd edition 
+2 
+Discrete-Time Speech Signal 
+Processing: 
+Principles 
+and 
+Practice 
+Thomas F. Quatieri 
+Prentice-Hall Signal 
+Processing Series 
+2001 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital 
+Processing 
+of 
+Speech Signals 
+Rabinar 
+Pearson 
+2003 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+Speech and Audio Processing 1: Introduction to Speech Processing - Professor E. 
+Ambikairajah https://www.youtube.com/watch?v=Xjzm7S__kBU 
+2 
+Speech Analysis - Professor E. Ambikairajah 
+https://www.youtube.com/watch?v=Y_mSQ7tTlvQ&t=38s 
+3 
+Speech and Audio Processing 1: Introduction to Speech Processing - Professor E. 
+Ambikairajah https://www.youtube.com/watch?v=Xjzm7S__kBU 
+4 
+Video Links available  on hearing anatomy 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+2 
+3 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S6 
+SEMICONDUCTOR DEVICE MODELING 
+Course Code 
+PEEVT 636 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Solid State Devices 
+(PCECT302)
+Course Type 
+Elective 
+ 
+Course Objectives: 
+1. This course explains the qualitative understanding of the physics of the semiconductor 
+devices and conversion of this understanding into equations 
+2. To introduce students to the field of compact modeling and familiarize them with the methods 
+for the model development 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Semiconductor device modeling overview: Types of device models- 
+Numerical Models, Analytical models, compact models. 
+PN Junction diode: DC Current-Voltage Characteristics, Limitations of the 
+ideal diode model, Static model of the ideal diode and its implementation in 
+SPICE2, Static model of the real diode and its implementation in SPICE2, 
+Large-signal model of the diode, Small-signal model of the diode, 
+Temperature and area effects on the diode model parameters. 
+9 
+2 
+Bipolar junction transistor : Ebers-Moll static model, Ebers-Moll large 
+signal mode , Ebers-Moll small signal model, Gummel – Poon static model, 
+Temperature and area effects on the BJT model parameters. 
+Heterojunction Bipolar junction transistor (HBT):  SiGe HBT, Static 
+operation and characteristics, HICUM level 2: Internal transistor model. 
+9 
+3 
+The four terminal MOS structure: strong inversion, complete symmetric 
+strong inversion model, simplified symmetric strong inversion model, 
+simplified source referenced strong inversion model. 
+MOS Transistor SPICE models: Level 1 static model, level 2 static model, 
+9 
+
+ 
+ 
+level 1 and level 2 large signal model, small signal model, effect of 
+temperature on the model parameters. 
+MOSFET BSIM models:  BSIM1 model, parameter listing, BSIM1 static 
+model, BSIM1 charge model. 
+4 
+MOSFET BSIM models:  BSIM1 model, parameter listing, BSIM1 static 
+model, BSIM1 charge model. 
+Advanced semiconductor device modeling: Tunnel FET: need of TFET, 
+device structure, TFET modelling approach, modelling the surface potential  
+source channel junction: pseudo 2D method, modelling drain current: 
+constant polynomial term assumption, tangent line approximation. 
+Modeling of novel unipolar devices: Device structures and principles of 
+operation of FinFET, HEMT, TFET. Basic modeling concepts- ………. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Implement the static model of an ideal diode and a real diode in 
+SPICE2 software, demonstrating the ability to set up and run 
+simulations. 
+K3 
+CO2 
+Implement and simulate the Ebers-Moll and Gummel-Poon static 
+models for BJTs in SPICE2, demonstrating practical application skills. 
+K3 
+CO3 
+Explain the differences between the complete symmetric strong 
+inversion model, the simplified symmetric strong inversion model, and 
+the simplified source-referenced strong inversion model for MOS 
+structures. 
+K2 
+CO4 
+Explain the TFET modeling approach and the importance of modeling 
+the surface potential at the source-channel junction. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+COMPACT HIERARCHICAL 
+BIPOLAR TRANSISTOR 
+MODELING WITH HICUM 
+Michael Schroter 
+World Scientific 
+1/e, 2010 
+2 
+Semiconductor Device 
+Modeling With SPICE 
+Giuseppe Massobrio 
+McGraw-Hill 
+2/e, 1993 
+3 
+Tunnel Field-Effect Transistors 
+(TFET) Modelling and 
+Simulation 
+Jagadesh Kumar 
+Mamidala 
+John Wiley 
+1/e, 2017 
+4 
+Operation and Modelling of the 
+MOS Transistor 
+Yannis Tsividis 
+Oxford University 
+Press 
+3/e,2010 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+2 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+2 
+2 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+2 
+2 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+SEMICONDUCTOR 
+DEVICES MODELLING AND 
+TECHNOLOGY 
+Nandita Das Gupta 
+PHI learning 
+1e/2004 
+2 
+Semiconductor Device 
+Modelling 
+Christopher M. Snowden 
+Springer 
+1e/2012 
+3 
+Semiconductors Physics and 
+Devices 
+Donald Neamen 
+Tata Mc Graw Hill 
+4e/2017 
+4 
+Physics of Semiconductor 
+Devices 
+S M Sze 
+Wiley 
+3e/2007 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://nptel.ac.in/courses/117106033 
+2 
+https://nptel.ac.in/courses/117106033 
+3 
+https://nptel.ac.in/courses/117106033 
+4 
+https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2k2HAGHFENB4a2nI8OppN 
+
+ 
+ 
+SEMESTER S6 
+SEMICONDUCTOR PACKAGING AND TESTING 
+Course Code 
+PEEVT 637 
+CIE Marks 
+40 
+Teaching Hours/Week (L: 
+T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCECT302 Solid State 
+Devices
+Course Type 
+Elective 
+ 
+Course Objectives: 
+1. Understand the various semiconductor packaging techniques, including hermetic and plastic 
+packaging, wire bonding, and flip-chip processes, as well as package form factors and 
+standardizations. 
+2. Learn the principles and challenges of surface-mount technology, including the comparison of 
+peripheral leads versus area array packages, and explore current and future trends in lead-free 
+and halogen-free packaging. 
+3. Explore the packaging requirements for various applications, such as MEMS, image sensors, 
+memory cards, and solar technology, and understand the role of copper interconnects and 
+low-k dielectric materials in future packaging options. 
+4. Gain knowledge of reliability testing methodologies for semiconductor packages, including 
+preconditioning, temperature cycling, thermal shock, and the limitations of current reliability 
+testing techniques. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Semiconductor 
+packaging: 
+Introduction, 
+Hermetic 
+packaging, 
+Plastic 
+packaging, Wire bonding process flow, flip-chip process flow comparison, 
+Equipment, Material interactions. Package form factors and families: 
+Introduction, Package outline standardization, Leaded package families, Quad 
+lead package family, Substrate-based package families, Chip scale packages, 
+Stacked-die package, Package-on-package, Flip-chip packages, Wafer-level
+chip scale packages. 
+9 
+
+ 
+ 
+2 
+Surface-mount technology: Objectives, Introduction, Package cracking, 
+Surface-mount packages: peripheral leads versus area array, Issues with 
+advanced packaging, Current and future trends: Lead-free and halogen-free 
+packaging.  
+9 
+3 
+Packaging needs: Introduction, Tape automated bonding, Micro electro-
+mechanical systems (MEMS), Package types used for MEMS, MEMS 
+packaging examples, Image sensor modules, Memory cards, Packaging needs 
+for solar technology. Copper interconnects and low-k dielectric materials.
+Dielectric constant requirements at each technology node. Future interconnect 
+and dielectric materials. Future packaging options.  
+9 
+4 
+Package reliability: Reliability testing – Introduction, Background, Examples 
+of reliability tests: Preconditioning, Package failure mode, Temperature cycling 
+and thermal shock, High-temperature storage life, Temperature-humidity-bias 
+tests, Limitations of reliability testing. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Part A 
+Part B 
+Total
+● 2 Questions from each module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 3 sub divisions. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe and differentiate various semiconductor packaging techniques 
+and identify package form factors and standardizations. 
+K2 
+CO2 
+Understand the principles of surface-mount technology, identify the 
+challenges of advanced packaging, and recognize trends in lead-free and
+halogen-free packaging. 
+K2 
+CO3 
+Explain the packaging requirements for MEMS, image sensors, memory 
+cards, and solar technology, and understand the importance of copper
+interconnects and low-k dielectric materials in future packaging
+solutions. 
+K2 
+CO4 
+Conduct and interpret various reliability tests for semiconductor 
+packages, and understand the limitations and significance of these tests in
+ensuring package reliability. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+1 
+1 
+1 
+1 
+1 
+ 
+ 
+ 
+2 
+1 
+ 
+1 
+CO2 
+2 
+1 
+1 
+1 
+2 
+ 
+ 
+ 
+2 
+1 
+ 
+1 
+CO3 
+2 
+1 
+1 
+1 
+2 
+ 
+ 
+ 
+2 
+2 
+ 
+2 
+CO4 
+2 
+2 
+1 
+2 
+3 
+ 
+ 
+ 
+2 
+2 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Semiconductor Packaging – 
+Materials Interaction and 
+Reliability 
+Andrea Chen, Randy 
+Hsiao-Yu Lo 
+CRC Press , Taylor & 
+Francis Group 
+2012 
+2 
+Semiconductor Advanced 
+Packaging. 
+John H Lau 
+Springer 
+2021 
+3 
+Microelectronic Packaging 
+Tummala, Rao R. 
+Springer 
+2001 
+4 
+Electronic Packaging and 
+Interconnection Handbook 
+Charles A Harper 
+McGraw-Hill 
+Professional 
+4th, 2004 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Advanced Electronic Packaging Richard K. Ulrich, William 
+D. Brown 
+Wiley-Interscience 
+2nd Edition, 
+2006 
+2 
+Chip Scale Package 
+John H. Lau,  Ricky S.W. 
+Lee  
+McGraw-Hill 
+ 
+2002 
+3 
+Electronic Packaging, 
+Microelectronics, and 
+Interconnection Dictionary 
+Charles Harper, Martin 
+Miller 
+McGraw-Hill Education
+2005 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No.
+Link ID  
+1 
+https://archive.nptel.ac.in/noc/courses/noc22/SEM1/noc22-me61/ 
+2 
+https://archive.nptel.ac.in/courses/108/108/108108031/ 
+3 
+https://www.youtube.com/watch?v=RpLnIiegXbg 
+4 
+https://www.youtube.com/watch?v=k2CognMJ_9I 
+
+ 
+ 
+SEMESTER S6 
+VLSI VERIFICATION & TESTING

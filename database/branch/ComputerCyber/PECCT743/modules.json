@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Big Data:\nDefinition and characteristics: Volume, Velocity, Variety, Veracity, and\nValue, Importance of Big Data in modern industries, Security Challenges in\nBig Data:- Data breaches, privacy concerns, and compliance issues ,The CIA\ntriad in the context of Big Data.\nBig Data Architecture: Hadoop ecosystem: HDFS, Map Reduce, YARN,\nApache Spark: Resilient Distributed Datasets (RDDs) and Data Frames,\nNoSQL databases: Cassandra, MongoDB.\nCase Studies:\nReal-world examples of Big Data security breaches and their implications.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Security Mechanisms:\nAuthentication and Authorization: Kerberos, LDAP,\nAccess Control Frameworks: Apache Ranger, Apache Sentry, Data\nEncryption: AES, RSA, SSL/TLS for data in transit and at rest.\nData Privacy Issues -Overview of data privacy in Big Data: PII, sensitive data,\nand business data.\nAnonymization Techniques: - Techniques like k-anonymity, l-diversity, t-\ncloseness, Differential Privacy: -Concept, mechanisms, and applications.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Legal and Compliance Frameworks:- Overview of GDPR, CCPA, HIPAA,\nand their implications for Big Data,\nThreat Landscape: - Common threats: Insider threats, APTs, ransomware, and\nDDoS attacks in Big Data.\nVulnerabilities:   - Vulnerabilities in distributed frameworks: Hadoop, Spark,\nand NoSQL databases, Security flaws in data aggregation and integration\nprocesses.\nCase studies on compliance challenges and solutions.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Risk Management - Risk assessment frameworks and tools specific to Big\nData, Threat modelling: STRIDE, DREAD models for Big Data systems.\nSecurity Best Practices: - Data masking, tokenization, and maintaining audit\ntrails, Secure coding practices for Big Data applications.\nSecurity Monitoring and Incident Response:- Security Information and Event\nManagement (SIEM) for Big Data, Incident response strategies for Big Data\nbreaches",
+    "contact_hours": "10"
+  }
+]

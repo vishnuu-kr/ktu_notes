@@ -1,0 +1,47 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "State Space Representation of Systems Introduction to state space and state model concepts- State equation of linear continuous time systems, matrix representation",
+            "features",
+            "Examples of electrical circuits and dc servomotors. Phase variable forms of state representation",
+            "Diagonal Canonical forms",
+            "Similarity transformations to diagonal canonical form"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Solution of time response of autonomous systems and forced systems. State space analysis of Discrete Time control systems: Phase variable form and Diagonal canonical form representations",
+            "Pulse transfer function from state matrix",
+            "Computation of State Transition Matrix (problems from 2nd order systems only"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Kalman’s, Gilbert’s and PBH tests",
+            "Duality principle State feedback controller design: State feed",
+            "back design via pole placement technique State observers for LTI systems- types",
+            "Design of full order observer"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Concepts",
+            "Singular points",
+            "Classification of singular points. Definition of stability",
+            "asymptotic stability and instability. Construction of phase trajectories using Isocline method for linear and nonlinear systems. Lyapunov stability analysis: Lyapunov function",
+            "Lyapunov methods to stability of nonlinear systems- Lyapunov methods to LTI continuous time systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "History of AI",
+            "Forms of learning - Supervised and unsupervised learning",
+            "Perceptron Learning rule",
+            "Bio-inspired learning",
+            "Artificial Neural Networks",
+            "Backpropagation",
+            "Multi-layer Perceptron model",
+            "Activation Functions Loss functions",
+            "Optimization",
+            "Training Neural Networks - gradient descent",
+            "stochastic gradient descent",
+            "momentum",
+            "weight initialization",
+            "batch normalization",
+            "hyper parameter optimization",
+            "parameter updates",
+            "model ensembles"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Overview of deep learning: deep feedforward networks",
+            "and training deep models",
+            "including optimization techniques such as Gradient Descent (GD",
+            "GD with momentum",
+            "Stochastic GD",
+            "AdaGrad",
+            "RMSProp",
+            "and Adam. Regularization methods -L1 and L2",
+            "early stopping",
+            "dataset augmentation",
+            "parameter sharing and tying",
+            "input noise injection",
+            "ensemble methods",
+            "dropout",
+            "and parameter initialization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Convolutional Neural Networks: convolution layer",
+            "pooling layer",
+            "fully connected layer",
+            "Conv Net",
+            "Case study of ImageNet challenge: LeNet",
+            "AlexNet",
+            "Google Net",
+            "ResNet",
+            "Inception Net",
+            "Efficient Net etc. Regularization Techniques",
+            "Data Augmentation: zooming",
+            "rotation",
+            "cropping",
+            "blurring",
+            "noise addition",
+            "self-supervision techniques",
+            "semi-supervised and weakly supervised learning",
+            "adversarial training Transfer Learning",
+            "freezing the input layers",
+            "fine tuning output layers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Auto encoders (standard",
+            "sparse",
+            "denoising",
+            "contractive",
+            "Variational Autoencoders",
+            "Adversarial Generative Adversarial Networks",
+            "Auto encoder and DBM",
+            "Multi- task Deep Learning",
+            "Multi-view Deep Learning Suggestion on Project Topics ● Applications of Deep Learning to Computer Vision ● Applications of Deep Learning to NLP"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

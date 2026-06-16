@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Generation and demodulation of Pulse amplitude modulation",
+            "Pulse time modulation",
+            "Pulse width modulation Principles of Pulse Code Modulation-Delta Modulation",
+            "PSK, ASK, FSK"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to waveguides",
+            "Types of waveguides",
+            "Principles of Radio wave Propagation Principles of antennas",
+            "Basic Definitions",
+            "Types of Antennas",
+            "Antennas for Telemetry. Principles of Satellite Communications",
+            "Geostationary Orbits",
+            "Attitude control",
+            "Satellite station keeping",
+            "Transponders-Power Budget Calculations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Telemetry: functional blocks of telemetry and telecontrol systems",
+            "Telemetry methods- Classical ones- Pneumatic and electrical telemetry- Electrical telemetry systems- Voltage",
+            "current",
+            "position telemetry-Optical telemetry. Transducers for Telemetry Methods of Improving signal to noise ratio- Signal filters- Signal averaging- Box car integration-Signal correlation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Grounding and shielding techniques-Introduction to Magnetic Tape Recording Modern telemetry techniques- Radio telemetry- Multiplexing",
+            "TDM- FDM",
+            "comparison of TDM and FDM.Methods of data transmission in telemetry- FM/FM, PCM/FM and PAM/FM techniques Introduction to telemetry standards- Introduction to satellite telemetry- Typical telemetry and Telecontrol schemes related to industry and space exploration"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,462 @@
+Course Code 
+PBITT304 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+UCEST105: Algorithmic 
+Thinking with Python 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Students will be able to understand the elementary concepts of a database management 
+system. 
+2. Students will be able to design and implement a database project based on these concepts. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction: 
+ 
+Overview of a database project and its scope and objectives. 
+ 
+Importance of database management system in real-world 
+applications. 
+Database Design: 
+ 
+Conceptual Design: Create an Entity-Relationship Diagram (ERD) 
+to model the entities, relationships, and attributes involved in your 
+project. 
+ 
+Logical Design: Translate the ERD into a relational schema.  
+Database Creation: 
+ 
+Implement a sample schema in a DBMS of your choice (e.g., 
+MySQL, PostgreSQL, SQLite). 
+Tables and Relationships: 
+ 
+Define tables with appropriate attributes (columns). 
+ 
+Establish relationships (foreign keys) between tables. 
+9 
+2 
+Normalization:  
+ 
+Ensure your schema is normalized to minimize redundancy and 
+dependency issues. 
+9 
+
+ 
+ 
+SQL Queries:  
+ 
+Develop a set of SQL queries to demonstrate CRUD operations 
+(Create, Read, Update, Delete), complex joins, aggregations, and any 
+specialized queries required by your project. 
+Timeline:  
+ 
+Create a timeline or project plan with milestones to ensure timely 
+completion. 
+3 
+Constraints: 
+ 
+Entity Integrity 
+ 
+Referential Integrity 
+ 
+Domain Constraints 
+Transaction Management: 
+ 
+Definition of transactions and transaction properties (ACID 
+properties). 
+ 
+Implementation of transaction processing logic. 
+Concurrency Control: 
+ 
+Techniques to manage concurrent access (e.g., locking, time 
+stamping). 
+Backup and Recovery: 
+ 
+Strategies for database backup and recovery in case of failures. 
+9 
+4 
+Testing and Validation: 
+ 
+Execute queries to validate the correctness of the schema and 
+constraints. 
+Integration with Applications: 
+ 
+Develop simple applications (eg; using Python) to interact with the 
+database. 
+Documentation: 
+ 
+Prepare comprehensive documentation covering project objectives, 
+database schema, constraints, transactions, and implementation 
+details. 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Suggestions on Project Topics: 
+ No. 
+Project Topics 
+1 
+E-commerce Database Platform 
+2 
+Registered Vehicle Database Management 
+3 
+Library Database Management System 
+4 
+Student Database Management 
+5 
+Pharmacy Database Management System 
+6 
+Restaurant Database Management 
+7 
+Payroll Database Management System 
+8 
+Insurance Products Database Management 
+9 
+Hospital management system. 
+10 
+Bank transactions management system. 
+ 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 
+Questions 
+from 
+each 
+module.  
+ Total of 8 Questions, each 
+carrying 2 marks 
+ 
+(8x2 =16 marks) 
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 2 sub 
+divisions. 
+  Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Develop a relational database schema for a given project, utilizing 
+Entity-Relationship Diagrams (ERDs) and translating them into a 
+relational schema. 
+K3 
+CO2 
+Normalize a database schema and develop complex SQL queries to 
+manipulate and retrieve data efficiently. 
+K3 
+CO3 
+Implement and manage database constraints, transactions, concurrency 
+control mechanisms, and backup/recovery strategies to ensure data 
+integrity and system reliability. 
+K3 
+CO4 
+Develop database application and prepare detailed documentation. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Database Systems: Models, 
+Languages, Design and 
+Application Programming  
+Elmasri R. and S. 
+Navathe 
+Pearson Education 
+7th Edition 
+2016 
+2 
+Database System Concepts 
+Silberschatz A., H. F. 
+Korth and S. Sudarshan 
+McGraw Hill 
+7th Edition 
+2019 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+3 
+2 
+2 
+- 
+- 
+- 
+3 
+- 
+3 
+- 
+CO2 
+3 
+- 
+3 
+- 
+- 
+- 
+- 
+- 
+3 
+- 
+3 
+- 
+CO3 
+3 
+- 
+3 
+- 
+2 
+- 
+- 
+- 
+3 
+2 
+3 
+- 
+CO4 
+- 
+- 
+3 
+2 
+2 
+- 
+- 
+- 
+3 
+3 
+3 
+- 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+An Introduction to Database 
+Systems 
+C. J. Date, S. 
+Swamynathan and A. 
+Kannan 
+Pearson Education 
+8th Edition 
+2006 
+2 
+Database Management Systems 
+G.K.Gupta 
+Tata McGraw Hill 
+2011 
+ 
+Video Links (NPTEL, SWAYAM…) 
+ No. 
+Link ID 
+1 
+https://onlinecourses.swayam2.ac.in/ini24_cs01 
+ 
+ 
+Project Based Learning - Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery 
+Project identification 
+Simulation/ 
+Laboratory Work/ 
+Workshops
+Presentation 
+(Progress and Final 
+Presentations)
+Group discussion
+Project Analysis
+Data Collection
+Evaluation 
+Question answer 
+Sessions/ 
+Brainstorming 
+Sessions
+Analytical thinking and 
+ self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project reformation (If required) 
+Guest Speakers 
+(Industry Experts) 
+Case Study/ Field Survey 
+Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 5 
+minutes video
+ 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. 
+No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+
+ 
+ 
+1. Project Planning and Proposal (5 Marks) 
+● 
+Clarity and feasibility of the project plan  
+● 
+Research and background understanding  
+● 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+● 
+Individual contribution to the presentation  
+● 
+Effectiveness in answering questions and handling feedback  
+3. Involvement in the Project Work and Team Work (3 Marks) 
+● 
+Active participation and individual contribution  
+● 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+● 
+Adherence to the project timeline and milestones  
+● 
+Application of theoretical knowledge and problem-solving  
+● 
+Final Result 
+5. Final Presentation (5 Marks) 
+● 
+Quality and clarity of the overall presentation  
+● 
+Individual contribution to the presentation  
+● 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+● 
+Overall quality and technical excellence of the project  
+● 
+Innovation and originality in the project  
+● 
+Creativity in solutions and approaches  
+ 
+
+ 
+ 
+SEMESTER S3 
+DIGITAL ELECTRONICS AND LOGIC DESIGN 
+(Common to Group A)

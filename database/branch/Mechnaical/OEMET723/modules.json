@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction FEM, Mathematical Modelling of field problems in\nEngineering, Governing Equations – Discrete and continuous models,\ndiscretization-convergence behavior. General procedure of Finite\nElement analysis, Types of elements, Formulation of stiffness matrix-\none dimensional spring, bar element assembly and solution procedure.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Types of coordinate system in FEM, coordinate transformation Plane truss\nstiffness formulation and its assembly.  Shape functions, Derivation of\nshape functions using polynomial of One-Dimensional bar, 2-Dimensional\nCST.  Convergence requirement of shape functions, Pascal triangle.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Derivation of strain -displacement relation- B matrix- bar, CST and beam\nelement.  Potential energy and equilibrium, principle of minimum potential\nenergy, Variational formulation in FEM . Element stiffness-bar,and CST\nelement, consistent loads.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Strong and Weak form , , Galerkin’s weighted residual FEM formulation ;\nOne dimensional axially loaded bar, heat flow in a bar, natural coordinate\nsystem, Iso parametric elements, Quadrilateral elements- Serendipity\nelements Isoparametric formulations, Jacobian matrix, stiffness matrices.",
+    "contact_hours": "9"
+  }
+]

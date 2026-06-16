@@ -1,0 +1,81 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Basic components: transmitters",
+      "receivers",
+      "transmission media",
+      "Data flow types: simplex",
+      "half-duplex",
+      "full-duplex. Transmission Media: Guided media: twisted pair",
+      "coaxial",
+      "fiber optics",
+      "Unguided media: radio waves",
+      "microwaves",
+      "infrared. Data Encoding and Modulation: Digital-to-digital conversion",
+      "Analog-to-digital conversion",
+      "Digital-to-analog modulation (ASK",
+      "Analog-to-analog modulation (AM"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "OSI reference model: layers and functions",
+      "TCP/IP model: layers and functions",
+      "Addressing schemes: MAC addresses",
+      "IP addresses Network Topologies: Bus",
+      "star",
+      "ring",
+      "mesh topologies: structure",
+      "advantages",
+      "disadvantages Basic Networking Devices: Routers",
+      "switches",
+      "hubs",
+      "bridges",
+      "and their roles in a network"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Error detection and correction: CRC",
+      "Hamming code",
+      "Flow control mechanisms: stop-and-wait",
+      "sliding window",
+      "MAC protocols: CSMA/CD",
+      "CSMA/CA",
+      "Ethernet. Network Layer Protocols: IPv4 and IPv6 addressing",
+      "subnetting",
+      "Routing algorithms: distance vector",
+      "link state Routing protocols: RIP",
+      "OSPF"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "UDP Application Layer Protocols: DNS",
+      "DHCP",
+      "HTTP",
+      "SMTP",
+      "SNMP Network Design: LAN and WAN planning",
+      "VLANs",
+      "wireless technologies (Wi-Fi",
+      "Bluetooth) Emerging Technologies and Future Trends in Networking: Cloud Computing and Data Centers",
+      "Internet of Things (IoT",
+      "Edge computing",
+      "fog computing",
+      "blockchain",
+      "quantum networking (Basic concepts only"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

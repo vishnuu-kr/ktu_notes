@@ -1,0 +1,63 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Natural Language Processing",
+      "Various stages of traditional NLP",
+      "Challenges",
+      "Basic Text Processing techniques",
+      "Common NLP Tasks. N-gram Language Models",
+      "Naive Bayes for Text Classification, and Sentiment Analysis",
+      "Evaluation-Precision, Recall and F-measure-Test sets and cross validation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Annotating Linguistic Structures - Context-Free Grammars",
+      "Constituency Parsing",
+      "Ambiguity",
+      "CYK Parsing",
+      "Dependency Parsing - Transition-Based Dependency Parsing",
+      "Graph-Based Dependency Parsing",
+      "Evaluation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Word representations - Lexical Semantics",
+      "Vector Semantics",
+      "TF-IDF",
+      "Pointwise Mutual Information (PMI",
+      "Neural Word embeddings - Word2vec",
+      "GloVe",
+      "Contextual Word Embeddings. Evaluating Vector Models -Feedforward Neural Networks for Text Classification"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Sequence Modelling - Recurrent Neural Networks",
+      "RNNs as Language Models",
+      "RNNs for NLP tasks",
+      "Stacked and Bidirectional RNN architectures",
+      "Recursive Neural Networks",
+      "LSTM & GRU",
+      "Common RNN NLP Architectures",
+      "Encoder-Decoder Model with RNNs",
+      "Attention models",
+      "Transformers. NLP Applications - Machine Translation",
+      "Question Answering and Information Retrieval",
+      "Introduction to Large Language Models"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

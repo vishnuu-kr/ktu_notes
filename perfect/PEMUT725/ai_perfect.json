@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Automotive Embedded Systems: Basic Overview",
+            "Embedded vs General Computing Systems",
+            "Components and Applications of Automotive Embedded Systems",
+            "Microcontroller Based Embedded System Architecture",
+            "Microcontrollers Used in Automotives: Types, Features, and Selection Criteria",
+            "8051 Microcontroller: Features, Architecture, Pin Configurations, Interrupts, Registers, Timers, and Applications (Description Only, No Programming)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Automotive Sensors and Actuators: Types and Functionality of Sensors - Position, Temperature, Lambda, Speed, Pressure, and Radar",
+            "Linear and Rotary Actuators: Principle of Operation",
+            "Piezoelectric Actuators",
+            "Integration of Sensors and Actuators in Embedded Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Vehicle Communication Protocols: Introduction",
+            "Requirements of Communication Protocols",
+            "Vehicle Networking and Data Communication Systems",
+            "Basic Functionalities of CAN, PSI5, FlexRay, and Automotive Ethernet",
+            "Diagnosis System Protocols: OBD (General Descriptions Only)",
+            "Automotive Real-Time Operating Systems (RTOS): Introduction, Types, and Importance (General Descriptions Only)",
+            "Automotive Open System Architecture (AUTOSAR): Architecture, Advantages, and Applications (General Descriptions Only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Embedded System Components, Functionalities, and Features: ADAS",
+            "Powertrain Control Module (PCM)",
+            "Engine Control Module (ECM)",
+            "Transmission Control Module (TCM)",
+            "Brake and Stability Control System",
+            "Navigation and Telematics",
+            "Vehicle to Vehicle Communication",
+            "Vehicle to Everything Communication"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

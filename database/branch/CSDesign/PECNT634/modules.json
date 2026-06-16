@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Software faults, Introduction to Model checking, Introduction to\nAutomated Testing, Model Based Software Development (MBSD) –\nNeed, MBSD Approach, Learning MBSD from the perspective of\nArchitecture Analysis and Design Language (AADL).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "MBSD based software development – Requirements, Analysis, Design\nand Implementation. Model-Driven Architecture - Definitions and\nAssumptions, Overview of MBSD methodology, The modelling levels-\nComputation Independent Model (CIM), Platform Independent Model\n(PIM), Platform Specific Model (PSM). Introduction to AADL, Basic\nComparison of AADL with other modeling languages - Comparison\nwith UML.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Modeling: Developing a Simple Model - Define the components -\nExplain with example (powerboat autopilot system), Develop a top-\nlevel model - Use example Powerboat Autopilot (PBA) system. AADL:\nComponents - Software, Hardware, Composite, Runtime semantics,\nLanguage syntax, AADL declarations, AADL classifiers, AADL system\nmodels and specifications.\nCase Study: Powerboat Autopilot System.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Safety Analysis -Fault tree analysis, Minimal cutsets. Error Modeling in\nAADL-Error Model Libraries and Subclause Annotations, Error Types\nand Common Type Ontology, Error Sources and Their Impact,\nComponent Error Behavior, Compositional Abstraction of Error\nBehavior, Use of Properties in Architecture Fault Models, Error\nmodeling example.\nNeed for code generation, Categorization, Code Generation Techniques,\nCode Generation in AADL Model – Ocarina.",
+    "contact_hours": "9"
+  }
+]

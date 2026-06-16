@@ -1,0 +1,69 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Lane keeping assist",
+            "adaptive cruise control",
+            "automated parking",
+            "Benefits",
+            "and challenges of ADAS Fundamentals of Autonomous Driving - Levels of vehicle autonomy (SAE levels 0-5",
+            "Key components of autonomous vehicles",
+            "Overview of autonomous vehicle architectures Vehicle Communication and Networking - In-vehicle networking (CAN",
+            "FlexRay",
+            "Vehicle-to-everything (V2X) communication",
+            "Role of wireless technology in autonomous driving"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Radar and Lidar Systems - Basics of radar technology",
+            "Applications",
+            "and limitations of radar in vehicles",
+            "Fundamentals of Lidar technology",
+            "Lidar applications in 3D mapping and obstacle detection Camera Systems and Image Processing - Types of cameras used in ADAS",
+            "Image processing techniques for vehicle safety",
+            "Night vision technology and applications Ultrasonic and Infrared Sensors - Principles of ultrasonic sensor operation",
+            "Applications in parking assist and obstacle detection Infrared sensors and their role in ADAS Sensor Data Fusion - Introduction to sensor data fusion",
+            "Techniques for combining data from different sensors",
+            "Benefits of sensor fusion in enhancing system accuracy and reliability"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "ROS (Robot Operating System",
+            "Autoware",
+            "Apollo",
+            "Software development and simulation tools Path Planning and Control Systems - Fundamentals of path planning algorithms",
+            "Control systems for vehicle stability and navigation",
+            "Real-time decision-making",
+            "and obstacle avoidance Cloud Computing and Edge Processing - Role of cloud computing in autonomous vehicle ecosystems",
+            "Edge processing for real-time data handling",
+            "Examples of cloud-based autonomous driving platforms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "System Integration and Calibration - Integration of ADAS components into vehicle systems",
+            "Calibration techniques for sensors and actuators",
+            "Challenges in system integration Testing and Validation - Testing methodologies for autonomous and ADAS systems",
+            "Simulation environments and test tracks",
+            "Validation processes and safety assessments Maintenance and Troubleshooting - Common issues in ADAS and autonomous systems",
+            "Diagnostic tools and software",
+            "Maintenance best practices for autonomous vehicles Case Studies and Future Trends- Case studies of leading autonomous vehicle projects",
+            "Emerging trends in autonomous driving and ADAS technology",
+            "Future directions",
+            "and research opportunities"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

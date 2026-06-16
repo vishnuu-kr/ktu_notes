@@ -1,0 +1,95 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Degrees of freedom",
+            "Robot types",
+            "Manipulators",
+            "Anatomy of a robotic manipulator-links",
+            "joints",
+            "actuators",
+            "sensors",
+            "controllers. Robot configurations-PPP",
+            "Mobile robots-wheeled",
+            "legged",
+            "aerial robots",
+            "underwater robots",
+            "surface water robots",
+            "Dynamic characteristics- speed of motion",
+            "load carrying capacity & speed of response",
+            "Introduction to End effectors - mechanical grippers",
+            "special tools",
+            "Magnetic grippers",
+            "Vacuum grippers",
+            "adhesive grippers",
+            "Active and Passive grippers. Ethics in robotics - 3 laws - applications of robots"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sensor classification",
+            "Internal sensors-Position sensors",
+            "velocity sensors",
+            "acceleration sensors",
+            "Force sensors external sensors-contact type",
+            "non-contact type",
+            "Digital Camera - CCD camera -CMOS camera - Omnidirectional cameras Sensor characteristics",
+            "Actuators -DC Motors - H-Bridge - Pulse Width Modulation",
+            "Stepper Motors - Servos",
+            "Hydraulic & pneumatic actuators",
+            "Control - On-Off Control - PID Control",
+            "Velocity Control and Position Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Representation of a Pure Translation",
+            "Pure Rotation about an Axis",
+            "Combined Transformations Transformations Relative to the Rotating Frame",
+            "Basic understanding of Differential-Drive Wheeled Mobile Robot",
+            "Car-Like Wheeled Mobile Robot",
+            "Kinematic model of a differential drive and a steered mobile robot",
+            "Degree of freedom and manoeuvrability",
+            "Degree of steerability",
+            "Degree of mobility",
+            "Different wheel configurations",
+            "holonomic and nonholonomic robots",
+            "Omnidirectional Wheeled Mobile Robots",
+            "Position and Orientation -Representing robot position Basics of reactive navigation",
+            "Robot Localization",
+            "Challenges in localization",
+            "An error model for odometric position estimation",
+            "Map Representation Continuous representations",
+            "Decomposition strategies",
+            "Current challenges in map representation",
+            "Probabilistic map-based localization (only Kalman method",
+            "Autonomous map building",
+            "Simultaneous localization and mapping (SLAM"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Graph search",
+            "deterministic graph search",
+            "breadth first search - depth first search- Dijkstra’ s algorithm",
+            "D* algorithms",
+            "Potential field based path planning",
+            "Obstacle avoidance - Bug algorithm -Vector Field Histogram - Dynamic window approaches",
+            "Navigation Architectures - Modularity for code reuse and sharing - Control localization",
+            "Techniques for decomposition",
+            "Alternatives for navigation - Neural networks",
+            "Processing the image - Training the neural network for navigation - Convolutional neural network robot control implementation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

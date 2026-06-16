@@ -1,0 +1,325 @@
+Course Code 
+PECST639  
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GAMAT301 
+PCCST302 
+PCCST303 
+PCCST502 
+Course Type 
+Theory 
+Course Objectives: 
+1. To equip with the knowledge and skills to design and analyze algorithms that leverage 
+randomness to improve performance, solve complex problems, and achieve better average-
+case or worst-case guarantees. 
+2. To provide a deep understanding of advanced randomization techniques and their applications 
+in various domains, including hashing, graph algorithms, probabilistic method, and 
+complexity theory. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Basics of Randomization - Introduction to randomized algorithms, 
+Probabilistic analysis and expectations, Benefits and applications of 
+randomization. (Text 1 - Chapter 1) 
+Probability Review - Basic probability theory, Random variables and 
+distributions, Linearity of expectation. (Text 2 - Chapters 1, 2) 
+Basic Randomized Algorithms - Randomized quicksort, Randomized 
+selection, Randomized data structures. (Text 3 - Sections 5.3, 9.2) 
+9 
+2 
+Randomized Graph Algorithms - Randomized algorithms for graph 
+problems, Minimum cut problems, Randomized algorithms for network 
+flows. (Text 1 - Chapters 5, 6) 
+Hashing and Randomized Data Structures - Universal and perfect hashing, 
+Skip lists, Bloom filters. (Text 3 - Chapter 11) 
+9 
+
+ 
+ 
+Markov Chains and Random Walks - Introduction to Markov chains, 
+Random walks on graphs, Applications in randomized algorithms. (Text 2 -  
+Chapters 6, 7) 
+3 
+The Probabilistic Method - Basics of the probabilistic method, Linearity of 
+expectation, First and second-moment methods. (Text 4 - Chapters 1, 2) 
+Chernoff Bounds and Concentration Inequalities - Markov's inequality, 
+Chebyshev's inequality, Chernoff bounds, Applications of concentration 
+inequalities. (Text 1 - Chapter 4) 
+9 
+4 
+Randomized Rounding and Martingales - Randomized rounding techniques, 
+Applications in approximation algorithms, Introduction to martingales, 
+Azuma's inequality. (Text 5 - Chapter 14) 
+Randomized Complexity Classes - RP, ZPP, and BPP, Relationships 
+between complexity classes, Amplification and derandomization techniques 
+(Text 6 - Chapter 7) 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Demonstrate a strong understanding of the basics of randomized 
+algorithms, including probabilistic analysis, expectations, and the 
+benefits of randomization 
+K3 
+CO2 
+Illustrate basic randomized algorithms, such as randomized quicksort, 
+selection, and data structures, and evaluate their performance against 
+deterministic alternatives.  
+K3 
+CO3 
+Apply advanced randomized techniques, including randomized graph 
+algorithms, hashing, and Markov chains, to address complex graph and 
+data structure problems. 
+K3 
+CO4 
+Show expertise in probabilistic methods, including Chernoff bounds, 
+concentration inequalities, and randomized rounding, and use these 
+methods to solve approximation and analysis problems in algorithms. 
+K3 
+CO5 
+Understand and apply concepts related to randomized complexity 
+classes, such as RP, ZPP, and BPP, and explore amplification and 
+derandomization techniques. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Randomized Algorithms 
+Rajeev Motwani and Prabhakar 
+Raghavan 
+Cambridge 
+University Press 
+1/e, 2004 
+2 
+Probability and Computing: 
+Randomization and 
+Probabilistic Techniques in 
+Algorithms and Data Analysis 
+Michael Mitzenmacher and Eli 
+Upfal 
+Cambridge 
+University Press 
+3/e, 2017 
+3 
+Introduction to Algorithms 
+Thomas H. Cormen, Charles E. 
+Leiserson, Ronald L. Rivest,  
+Clifford Stein 
+The MIT Press 
+4/e,  2023 
+4 
+The Probabilistic Method 
+Noga Alon and Joel H. Spencer 
+Wiley-Blackwell 4/e 2016 
+5 
+Approximation Algorithms 
+Vijay V. Vazirani 
+Springer Nature 
+(SIE) 
+2/e, 2013 
+6 
+Computational Complexity: A 
+Modern Approach 
+Sanjeev Arora and Boaz Barak 
+Cambridge 
+University Press 
+1/e, 2019 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Concentration of Measure for 
+the analysis of randomized 
+algorithms 
+Devdatt Dubhashi and 
+Alessandro Panconesi 
+Cambridge University 
+Press 
+1/e, 2012 
+2 
+The design of approximation 
+algorithms 
+David Williamson and 
+David Shmoys 
+Cambridge University 
+Press 
+1/e, 2011 
+3 
+Algorithms 
+Robert Sedgewick and 
+Kevin Wayne 
+Addison-Wesley 
+4/e, 2023 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/103/106103187/ 
+
+ 
+ 
+SEMESTER S6 
+CLOUD COMPUTING 
+(Common to CS/CA/CM/AM)

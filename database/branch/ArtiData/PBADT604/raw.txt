@@ -1,0 +1,453 @@
+Course Code 
+PBADT604 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+4 
+ESE Marks 
+40 
+Credits 
+3:0:0:1 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBADT304 
+Course Type 
+Theory 
+Course Objectives: 
+1. To understand the principles of Data warehousing and Data Mining. 
+2. To be familiar with the Data warehouse architecture and its Implementation 
+3. To perform classification, association, and prediction of data 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Data Mining: Introduction, What is Data Mining, 
+Definition, KDD, Challenges, Data Mining life cycle, Data Pre-processing 
+concepts Association Rule Mining: - Efficient and Scalable Frequent Item 
+set Mining Methods – Mining Various Kinds of Association Rules – 
+Association Mining to Correlation Analysis – Constraint-Based Association 
+Mining. 
+10 
+2 
+Cluster Analysis: - Types of Data in Cluster Analysis – A Categorization of 
+Major Clustering Methods – Partitioning Methods – Hierarchical methods – 
+Density-Based Methods – Grid-Based Methods – Model-Based Clustering 
+Methods – Clustering High-Dimensional Data – Constraint-Based Cluster 
+Analysis – Outlier Analysis. 
+11 
+3 
+Classification and Prediction: - Issues Regarding Classification and 
+Prediction – Classification by Decision Tree Introduction – Bayesian 
+Classification – Rule Based Classification – Classification by Back 
+propagation – Support Vector Machines – Associative Classification – Lazy 
+Learners – Other Classification Methods – Prediction – Accuracy and Error 
+Measures – Evaluating the Accuracy of a Classifier or Predictor – Ensemble 
+Methods – Model Section. 
+15 
+
+ 
+ 
+4 
+Introduction To Data Warehousing.- Evolution of Decision Support 
+Systems- Data warehousing Components –Building a Data warehouse, Data 
+Warehouse and DBMS, Data marts, Metadata, Multidimensional data model, 
+OLAP 
+vs 
+OLTP, 
+OLAP 
+operations, 
+Data 
+cubes, 
+Schemas 
+for 
+Multidimensional Database: Stars, Snowflakes and Fact constellations. 
+10 
+ 
+Suggestion on Project Topics 
+Students can implement various data related projects, from any domain, using the techniques 
+studied in the syllabus. It may contain sections for data storage, data pre-processing and small 
+levels of data mining to recognize patterns in the data. Socially relevant project domains are highly 
+appreciated. Check the datasets available at  https://www.kaggle.com/datasets/ and perform data 
+pre-processing operations such as data cleaning, missing value management and mine useful 
+information from the dataset.                                                     
+A suggestive list of projects are added here. Similar projects could be added by concerned 
+faculty: 
+1.  Perform association technique on customer data set/ agriculture data set 
+2. Create the data warehouse for any medical shop having 2 or more branches 
+3. Predict traffic conditions for allocating more buses on various routes by bus controller 
+3. Predict Job opportunities Computer/IT field looking into the work generated last year. 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+ 
+2 questions will be given from each module, 
+out of which 1 question should be answered.  
+ 
+Each question can have a maximum of 2 
+subdivisions.  
+ 
+Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Comprehend the key process of data mining and Analyse the kinds 
+of patterns that can be discovered by association rule mining
+K3 
+CO2 
+Implement various clustering methods 
+K3 
+CO3 
+Identify interesting patterns from large amounts of data for predictions 
+and classification.
+K3 
+CO4 
+Understand warehousing architectures for organizing large database  
+K2 
+CO5 
+Use tools for systematically organizing large databases and use their 
+data to make strategic decisions. 
+ 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Data mining Concepts and 
+Techniques 
+Jiawei Han, Michelin Kamber, 
+Jian Pei 
+Elsevier 
+3/e, 2011 
+2 
+Data Mining: Introductory And 
+Advanced Topics 
+Margaret H Dunham 
+Pearson 
+Education 
+1/e,2006 
+3 
+Data Warehousing, Data 
+Mining & OLAP 
+Alex Berson and Stephen J. 
+Smith 
+Mc 
+Graw Hill  
+1/e, 2008. 
+4 
+Introduction to Data Mining,  
+Pang-Ning Tan, Michael 
+Steinbach and Vipin Kumar 
+Pearson 
+Education 
+1/e, 2007 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Insight into Data mining 
+Theory and Practice 
+K.P. Soman, Shyam Diwakar 
+and V. Ajay 
+Prentice Hall of 
+India 
+1/e2006. 
+2 
+Data Mining Techniques 
+Arun K. Pujari 
+Universities 
+Press 
+4/e, 2016 
+3 
+Introduction to Data Min Data 
+Mining with Case Studies 
+G. K. Gupta 
+Prentice Hall of 
+India 
+3/e, 2014 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://nptel.ac.in/courses/110107092 
+2 
+https://nptel.ac.in/courses/106105174 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture 
+delivery 
+Project identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops 
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group 
+discussion 
+Project Analysis 
+Data Collection 
+Evaluation  
+Question 
+answer 
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical 
+thinking 
+and 
+ self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project 
+reformation 
+(If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case 
+Study/ 
+Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 
+5 minutes video 
+ 
+ 
+
+ 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+1. Project Planning and Proposal (5 Marks) 
+● 
+Clarity and feasibility of the project plan  
+● 
+Research and background understanding  
+● 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+● 
+Individual contribution to the presentation  
+● 
+Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+● 
+Active participation and individual contribution  
+● 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+● 
+Adherence to the project timeline and milestones  
+● 
+Application of theoretical knowledge and problem-solving  
+● 
+Final Result 
+ 
+ 
+
+ 
+ 
+5. Final Presentation (5 Marks) 
+● 
+Quality and clarity of the overall presentation  
+● 
+Individual contribution to the presentation  
+● 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+● 
+Overall quality and technical excellence of the project  
+● 
+Innovation and originality in the project 
+● 
+Creativity in solutions and approaches 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER 6 
+DATA STRUCTURES

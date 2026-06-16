@@ -1,0 +1,343 @@
+Course Code 
+PCEOT501 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+NIL 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Provide a solid foundation in the principles, programming, and applications of the 8051 
+micro controller 
+2. Develop expertise in the architecture and programming of ARM processors 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Microprocessors and Microcontrollers-comparison of 
+microprocessors and microcontrollers-Introduction to Embedded Systems-
+Application domain of embedded systems, features and characteristics, hard 
+and soft real time systems 
+8051-Microcontrollers Hardware: Microcontroller Architecture: IO Port 
+structure, Register organization, general purpose RAM, Bit Addressable 
+RAM, Special Function Registers (SFRs). 
+ 
+9  
+2 
+Assembly programming of 8051: Introduction to8051 
+assembly 
+programming, Data types and Assembler directives, 8051 Addressing 
+Modes, simple Assembly language programs(data transfer and arithmetic 
+operations only) 
+8051 programming in C: Data types and time delay in 8051, I/O 
+ 
+11 
+ 
+
+ 
+ 
+programming in 8051 
+8051 Timer/Counter programming in embedded C: Programming 8051 
+timers, Counter programming, 
+3 
+8051 serial port programming in embedded C: Basics of serial 
+communication, 8051 connections to RS232, serial port programming in 
+8051. 
+8051 Interrupt programming in embedded C: 8051 interrupts, external 
+hardware and serial communication interrupt, Interrupt priority in 8051, 
+Interrupt programming in C. 
+Interfacing:  LCD, ADC & DAC. Motor control: Relays and, stepper motor 
+interfacing, DC motor interfacing and PWM using 8051 
+12 
+4 
+Introduction to ARM processors –ARM core-ARM Microcontroller-RISC 
+vs 
+CISC-Advanced 
+features 
+of 
+ARM-Architecture 
+versions-ARM 
+Architecture-Instruction set architecture, operating modes, register set, 
+General purpose registers- mode switching, conditional flags, Simple ALP 
+programs on Arithmetic & logical operation, addition, subtraction, 
+multiplication, division and factorial. 
+ 
+12 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the general characteristics of embedded system and distinguish 
+hard and soft real time systems 
+K2 
+CO2 
+Explain the architecture of a 8051 microcontroller 
+K2 
+CO3 
+Develop assembly language and Embedded C program for 8051 
+microcontroller. 
+K3 
+CO4 
+Develop assembly language for interfacing of different peripheral 
+devices with 8051 
+K3 
+CO5 
+Explain the architecture of an ARM processor 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The 8051 Microcontroller and 
+Embedded Systems using 
+assembly and C 
+Muhammad Ali Maidu 
+and Janice Gillespie 
+Pearson 
+2nd 
+Edition, 
+2007 
+2 
+Embedded Systems: An 
+Integrated Approach, 
+Lyla B Das 
+Pearson Education 
+2013 
+3 
+The 8051 Microcontroller 
+Kenneth J. Ayala 
+Thomson /Cengage 
+Learning 
+3rd 
+Edition,20
+07 
+4 
+Microcontroller: Architecture 
+Assembly 
+Craig Steiner 
+Publisher: WP 
+Publishers / 
+Microsoft Press 
+ 
+5 
+ 
+ARM system-on-chip 
+architecture 
+Steve Furber 
+Addison Wesley 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+2 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+1 
+CO4 
+3 
+2 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The 
+8051 
+Microcontroller 
+Based Embedded Systems 
+Manish K Patel 
+McGraw Hill 
+July 2017 
+2 
+Microcontrollers: Architecture, 
+Programming, Interfacing and 
+System Design 
+Raj Kamal 
+Pearson Education 
+January 
+2011 
+3 
+The 
+8051 
+microcontrollers, 
+architecture and programming 
+and applications 
+K Uma Rao & Andhe 
+Pallavi 
+Pearson 
+January 
+2010 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/108105102 
+2 
+https://nptel.ac.in/courses/108105102 
+3 
+https://nptel.ac.in/courses/108105102 
+4 
+https://nptel.ac.in/courses/108105102 
+
+ 
+ 
+SEMESTER S5 
+POWER ELECTRONICS

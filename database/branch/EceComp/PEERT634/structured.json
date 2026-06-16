@@ -1,0 +1,53 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Analysis of the source program - Analysis and synthesis phases",
+      "Phases of a compiler. Lexical Analysis - Role of Lexical Analyzer",
+      "Input Buffering",
+      "Specification of Tokens",
+      "Recognition of Tokens"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Role of the Syntax Analyser. Review of Context Free Grammars - Derivation and Parse Trees. Basic parsing approaches - Eliminating left recursion",
+      "left factoring. Top-Down Parsing - Recursive Descent parsing",
+      "Predictive Parsing",
+      "LL(1) Grammars"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Handle Pruning. Shift Reduce parsing. LR parsing - Constructing SLR",
+      "LALR and canonical LR parsing tables. Syntax directed translation - Syntax directed definitions",
+      "S-attributed definitions",
+      "L-attributed definitions",
+      "Storage organization",
+      "Storage-allocation strategies"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Intermediate code generation-Intermediate languages",
+      "Graphical representations",
+      "Three-Address code",
+      "Quadruples",
+      "Triples. Code Optimization - Principal sources of optimization",
+      "Local and global optimizations. Code generation - Issues in the design of a code generator",
+      "Target Language",
+      "A simple code generator"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Digital Image Fundamentals: Image representation, Types of images,\nElements of DIP system, Basic relationship between pixels, Distance\nMeasures, Simple image formation model. Brightness, contrast, hue,\nsaturation, Mach band effect. Colour image fundamentals-RGB, CMY, HIS\nmodels, 2D sampling and quantization.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "2D Image transforms: DFT, Properties, Walsh transform, Hadamard\ntransform, Haar transform, DCT, KL transform and Singular Value\nDecomposition.\nImage\nCompression:\nImage\ncompression\nmodel,\nLossy,\nlossless\ncompression, Concept of transform coding, JPEG Image compression\nstandard.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Image Enhancement: Spatial domain methods: Basic Gray Level\nTransformations,\nHistogram\nProcessing,\nEnhancement\nUsing\nArithmetic/Logic Operations, Basics of Spatial Filtering, Smoothing spatial\nFilters, Sharpening spatial Filters.\nFrequency domain methods: low pass filtering, high pass filtering,\nhomomorphic filtering.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Image Restoration: Degradation model, Inverse filtering- removal of blur\ncaused by uniform linear motion, Minimum Mean Square Error (Wiener)\nFiltering.\nImage segmentation: Region based approach, clustering , Segmentation\nbased on thresholding, edge based segmentation, Hough Transform.",
+    "contact_hours": "9"
+  }
+]

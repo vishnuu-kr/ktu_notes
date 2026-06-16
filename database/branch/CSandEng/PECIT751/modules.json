@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction - Compiler Structure, Overview of Translation: The Front End; The\nOptimizer; The Back End.\nScanners - Recognizing Words, Regular Expressions, From Regular Expression\nto Scanner: FSA (Brush-up only), Implementing Scanners",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Parsing - Introduction, Expressing Syntax\nTop-Down Parsing - Transforming A Grammar: Eliminating Left Recursion;\nBacktrack-free Parsing; Left-Factoring To Eliminate Backtracking, Recursive\nDescent Parsers, Table-Driven LL(1) Parsers",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Bottom-Up Parsing - Shift Reduce Parser, The LR(1) Parsing Algorithm,\nBuilding LR(1) Tables, Errors in the Table Construction, Reducing the Size of\nLR (1) Tables.\nIntermediate Representations: An IR Taxonomy, Graphical IRs - Syntax-\nRelated Trees, Graphs; Linear IRs - Stack-Machine Code - Three-Address Code\n- Representing Linear Codes\nSyntax-Driven Translation:  Introduction, Translating Expressions, Translating\nControl-Flow Statements",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Code generation: Code Shape - Arithmetic Operators, Boolean and Relational\nOperators, Control-Flow Constructs (Conditional Execution, Loops and\nIteration, Case Statements only), Procedure Calls\nCode Optimization - Introduction, Opportunities for Optimization, Scope Of\nOptimization\nLocal Optimization: Local Value Numbering, Tree-Height Balancing\nRegional Optimization: Superlocal Value Numbering, Loop Unrolling\nGlobal Optimization: Finding Uninitialized Variables with Live Sets,  Global\nCode Placement",
+    "contact_hours": "10"
+  }
+]

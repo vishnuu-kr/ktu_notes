@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Software faults",
+            "Introduction to Model checking",
+            "Introduction to Automated Testing",
+            "Model Based Software Development (MBSD) - Need",
+            "MBSD Approach",
+            "Learning MBSD from the perspective of Architecture Analysis and Design Language (AADL"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "MBSD based software development - Requirements",
+            "Analysis",
+            "Design and Implementation. Model-Driven Architecture - Definitions and Assumptions",
+            "Overview of MBSD methodology",
+            "The modelling levels-Computation Independent Model (CIM",
+            "Platform Independent Model (PIM",
+            "Platform Specific Model (PSM). Introduction to AADL",
+            "Basic Comparison of AADL with other modeling languages - Comparison with UML"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Developing a Simple Model - Define the components -Explain with example (powerboat autopilot system",
+            "Develop a top-level model - Use example Powerboat Autopilot (PBA) system. AADL: Components - Software",
+            "Hardware",
+            "Composite",
+            "Runtime semantics",
+            "Language syntax",
+            "AADL declarations",
+            "AADL classifiers",
+            "AADL system models and specifications. Case Study: Powerboat Autopilot System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Safety Analysis -Fault tree analysis",
+            "Minimal cutsets. Error Modeling in AADL-Error Model Libraries and Subclause Annotations",
+            "Error Types and Common Type Ontology",
+            "Error Sources and Their Impact",
+            "Component Error Behavior",
+            "Compositional Abstraction of Error Behavior",
+            "Use of Properties in Architecture Fault Models",
+            "Error modeling example. Need for code generation",
+            "Categorization",
+            "Code Generation Techniques",
+            "Code Generation in AADL Model - Ocarina"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

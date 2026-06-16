@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Review: supervised, unsupervised machine learning techniques,\ndimensionality reduction techniques-PCA, SVD\nInstance-Based vs   Model-Based Learning, Machine Learning models,\nHyper parameters, regularization, Training - Batch and Online Learning,\nChallenges of Machine Learning: Data Issues-Quality, Relevancy, Over\nfitting, under fitting. Bias, variance, Performance metrics: Accuracy\nRecall, Precision, ROC curve",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Regression: linear regression, logistic regression error functions in\nregression, MSE, L1, L2, Cross entropy multivariate regression.\nClassification: Naive Bayes classifier, Support Vector machines,\nDecision trees -random forests, Ensemble methods: boosting, bagging.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Unsupervised learning: Clustering-K-means, High, Hierarchical\nclustering, criterion functions for clustering, proximity measures,\nEuclidean, Manhattan, Minkowski Distances, Cosine Similarity.\nReinforcement\nLearning:\nAgent\nbased\nlearning,\nQ-learning,\nIntroduction to HMM models",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to Artificial Neural Networks: Biological Neuron,\nPerceptron, Training, limitations, XOR problem, Multilayer perceptron,\nGradient based learning, stochastic gradient descent, Activation\nFunctions-Sigmoid, ReLU, tanh. Back propagation- Chain rule,\nRegularization- L1, L2,",
+    "contact_hours": "11"
+  }
+]

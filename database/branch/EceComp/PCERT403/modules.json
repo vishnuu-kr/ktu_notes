@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Operational amplifiers\nIntroduction of op-amp – block diagram of op-amp –Basic information of\nop-amp (741 op-amp) - Power supply requirements. Characteristics of\nOperational Amplifiers Ideal op amp characteristics - DC characteristics -\ninput bias current, input offset current, input offset voltage, thermal drift,\nCMRR, PSRR - AC characteristics - frequency response, slew rate.  Basic\napplications-inverting amplifier, non-inverting amplifier.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Applications of Operational amplifiers\nDifferential amplifier, summing amplifier, scale changer, voltage follower,\nV-I converter (grounded load type and floating load type), I-V converter.\nInstrumentation amplifier (3 op amp) - op amp integrator - op amp\ndifferentiator, precision rectifier (half and full wave), peak detector, sample\nand hold circuit, Comparator (inverting and non-inverting type) –\napplications of comparator - zero crossing detector, Schmitt trigger, window\ndetector",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Waveform generators and Oscillators\nTimer IC 555- Functional block diagram – Waveform generators –\nAstable and mono stable – Design and working (using 555 and 741).\nTriangular and sawtooth –RC phase shift and Wien bridge oscillators (No\nanalysis required)\nVoltage regulator - Introduction, series op amp regulator -IC regulators -\n78XX and 79XX characteristics - voltage regulator as current source using\n7805, Low voltage and high voltage regulators using 723 general purpose IC.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Filters, PLL and Data Converters\nTypes of filters, first and second order LPF and HPF.\nPhase Locked Loop – Operation, Lock and capture range (No analysis),\nPLL IC 565, Applications - frequency multiplier, frequency translation.\nData Converters: Digital to Analog converters, Specifications, Weighted\nresistor type and R-2R Ladder type. Analog to Digital Converters:\nSpecifications, ADC –Direct type – Flash type, counter type, successive\napproximation type - Integrating type ADC - Single slope type.\nSuggestion on Project Topics",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to CAD/CAM",
+            "Historical Development",
+            "Industrial Look at CAD/CAM",
+            "Application of computers in design",
+            "Basics of geometric and solid modelling. Packages for CAD/CAM. Line drawing -Clipping",
+            "Bresenham's line algorithm",
+            "Solid modelling techniques- CSG and B-rep"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Geometric transformations in CAD: 2D and 3D",
+            "transformations of geometric models like translation, scaling, rotation, reflection, homogeneous representations, concatenated representation. Simple problems Standards for computer graphics- Graphical Kernel System (GKS) - standards for exchange images- Open Graphics Library (OpenGL) - Data exchange standards - IGES, STEP, CALS etc"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to NC systems and CNC",
+            "Machine axis and Co-ordinate system- CNC machine tools- Principle of operation CNC- Construction features including structure Drives and CNC controllers- 2D and 3D machining on CNC. Introduction of Part Programming",
+            "Functions of CNC, Features of CNC systems, Introduction of Part Programming",
+            "Simple turning and drilling programs using G codes and M codes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Cellular Manufacturing and Flexible Manufacturing System - Fundamentals of Cellular Manufacturing",
+            "Group Technology (GT",
+            "Part Families - Parts Classification and coding",
+            "Simple Problems in Opitz Part Coding system",
+            "Flexible Manufacturing System (FMS) - Components",
+            "Types",
+            "FMS work stations - FMS Application & Benefits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

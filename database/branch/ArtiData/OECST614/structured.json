@@ -1,0 +1,66 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to ML Machine Learning vs. Traditional Programming",
+      "Machine learning paradigms - supervised",
+      "semi-supervised",
+      "unsupervised",
+      "reinforcement learning. Basics of parameter estimation - maximum likelihood estimation (MLE) and maximum aposteriori estimation (MAP",
+      "Bayesian formulation. Supervised Learning Feature Representation and Problem Formulation",
+      "Role of loss functions and optimization Regression - Linear regression with one variable",
+      "Linear regression with multiple variables - solution using gradient descent algorithm and matrix method"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Classification - Naïve Bayes",
+      "KNN Generalisation and Overfitting - Idea of overfitting",
+      "LASSO and RIDGE regularization",
+      "Idea of Training",
+      "Testing",
+      "Validation Evaluation measures - Classification - Precision",
+      "Recall",
+      "Accuracy",
+      "F-Measure",
+      "Receiver Operating Characteristic Curve (ROC",
+      "Area Under Curve (AUC). Regression - Mean Absolute Error (MAE",
+      "Root Mean Squared Error (RMSE",
+      "R Squared/Coefficient of Determination"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Neural Networks (NN) - Perceptron",
+      "Neural Network - Multilayer feed-forward network",
+      "Activation functions (Sigmoid",
+      "ReLU",
+      "Tanh",
+      "Back propagation algorithm. Decision Trees - Information Gain",
+      "Gain Ratio",
+      "ID3 algorithm"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Unsupervised Learning Clustering - Similarity measures",
+      "Hierarchical Clustering - Agglomerative Clustering",
+      "partitional clustering",
+      "K-means clustering Dimensionality reduction -Principal Component Analysis",
+      "Multidimensional scaling Ensemble methods - bagging",
+      "boosting Resampling methods - Bootstrapping",
+      "Cross Validation. Practical aspects -Bias-Variance trade-off"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

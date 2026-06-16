@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Complexity Theory - Basic concepts and motivations,\nDeterministic and nondeterministic models, Turing machines, and\ncomputational models. (Text 2 - Ch 7)\nComplexity Classes P and NP - Definitions and examples of P and NP,\nPolynomial-time algorithms, NP-completeness and the Cook-Levin theorem.\n(Text 2 - Ch 7, 8)\nReductions and Completeness - Polynomial-time reductions, NP-complete\nproblems, and their significance, Examples of NP-complete problems (Text 1\n- Ch 2)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Space Complexity - Space complexity classes: L, NL, PSPACE, Savitch's\ntheorem and NL-completeness, PSPACE-completeness. (Text  2 - Ch 8)\nPolynomial Hierarchy and Alternation - Definition of the polynomial\nhierarchy (PH), Complete problems for each level of PH, Relationship\nbetween PH and other classes. (Text 1 - Ch 5)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Interactive Proofs - Definition and examples of interactive proofs, IP =\nPSPACE theorem, Zero-knowledge proofs. (Text 1 - Ch 8)\nProbabilistically Checkable Proofs (PCPs) - Introduction to PCPs, PCP\ntheorem and implications, Applications in hardness of approximation. (Text 1\n- Ch 9)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Circuit Complexity - Boolean circuits and circuit complexity, Circuit lower\nbounds, Complexity of specific functions. (Text 2 - Ch 9)\nQuantum Complexity - Basics of quantum computation, Quantum complexity\nclasses: BQP, QMA, Quantum algorithms and their complexity. (Text 3 - Ch\n10, 11)",
+    "contact_hours": "9"
+  }
+]

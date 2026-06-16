@@ -1,0 +1,47 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Compilers - The Translation Process",
+            "Major Data Structures",
+            "Other Issues",
+            "Bootstrapping and Porting. Scanning Process - Finite state automata and Regular expressions (Basic idea only). Use of LEX to generate automatic scanners (basic idea only). Parsing Process - Context free Grammars (Basic idea only",
+            "Parse Trees and Abstract Syntax Trees",
+            "Ambiguity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Top-down Parsing - Recursive Descent",
+            "LL(1",
+            "First and Follow. Error Recovery in Top-down Parsers. Bottom-up Parsing - Overview of Bottom -up parsing",
+            "Shift-reduce parser",
+            "LR(0) Items and LR(0) Parsing",
+            "SLR(1) parsing",
+            "General LR(1) and LALR(1) Parsing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Attributes and attribute grammars. Dependency graphs and Evaluation order, Synthesized and Inherited attributes. Intermediate code generation",
+            "Three address code, P",
+            "code. Intermediate code as a synthesized attribute"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Principal sources of code optimization, Classification of optimizations, Data Structures and Implementation Techniques for Optimizations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

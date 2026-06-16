@@ -1,0 +1,66 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Embedded Systems Definition of Embedded System",
+      "Embedded Systems Vs General Computing Systems",
+      "History of Embedded Systems",
+      "Classification",
+      "Major Application Areas",
+      "Purpose of Embedded Systems",
+      "Characteristics and Quality Attributes of Embedded Systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Typical Embedded System Core of the Embedded System - General Purpose and Domain Specific Processors",
+      "ASICs",
+      "PLDs",
+      "Commercial Off-The-Shelf Components (COTS). Memory - ROM",
+      "Memory according to the type of Interface",
+      "Memory Shadowing",
+      "Memory selection for Embedded Systems",
+      "Sensors and Actuators",
+      "Communication Interface - Onboard and External Communication Interfaces"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "RTOS Based Embedded System Design Operating System Basics",
+      "Types of Operating Systems",
+      "Tasks",
+      "Process and Threads",
+      "Multi processing and Multi-tasking",
+      "Task Scheduling",
+      "Task Communication - Shared Memory",
+      "Message Passing",
+      "Device Drivers",
+      "How to Choose an RTOS"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Embedded system development process Requirements",
+      "Architecture",
+      "Selection of Operating system",
+      "Processor Selection",
+      "Development platform",
+      "Programming language - Coding issues",
+      "Code optimization",
+      "Efficient input/output-Testing and debugging",
+      "Verify the software on the host system",
+      "Verify the software on the embedded system"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basics: Overview of Database Management Systems - Characteristics of\ndatabase approach vs file system approach – Advantages & Applications –\nThree Schema Architecture - Three tier Architecture.\nEntity Relationship model:  Entity Types and Sets – Attributes and types,\nKeys - Relationships and types - Cardinality, Participation - Structural\nConstraints – Conventional and min-max Notations – Drawing and\ninterpreting ER diagrams.\nRelational Model Concepts: Structure of Relational Databases - Domains,\nAttributes, Tuples, Relations – Types of Keys -Integrity Constraints -\nSynthesizing ER diagram to Relational Schema – Examples.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to Relational Algebra: Select, Project, Rename, Union,\nIntersection, Difference, Division - Cartesian product – Join and its types –\nRelational algebra query examples.\nStructured Query Language (SQL): Data Types – Data Definition\nLanguage (DDL): Create, Alter, Drop, Truncate, rename – Data\nManipulation Language (DML): Select, Insert, Update, Delete - Nested\nqueries (correlated and non-correlated) - Aggregation and Grouping –\nViews – Example SQL queries on single and multiple tables – Query\nPractise.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Normalization: DB Design Anomalies - Functional Dependencies -\nArmstrong’s Axioms – Closures - Equivalence of FDs, Minimal Cover -\nFirst Normal Form (1NF) - Second Normal Form (2NF) - Third Normal\nForm (3NF) - Boyce Codd Normal Form (BCNF) - Lossless Join\nDecomposition - Dependency Preserving Decomposition.\nPhysical Data Organization: Physical and Logical records - Blocking\nFactor - Pinned and unpinned organization - Heap files – Sorted files –\nIndexing - Single-Level Ordered Indexes - Multilevel Indexes – Dynamic\nindexing – B Trees & B+ Trees.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Transaction Processing Concepts: Transaction States and Operations –\nACID Properties - Serial Schedules - Concurrent and Serializable\nSchedules - Conflict Equivalence and Conflict Serializability –\nRecoverable, Cascade-less & Strict Schedules - Locking - Two-phase\nlocking and its variations - System Log – Log based recovery - Deferred\ndatabase modification – Check pointing.",
+    "contact_hours": "9"
+  }
+]

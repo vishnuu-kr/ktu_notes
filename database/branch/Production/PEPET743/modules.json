@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to design: System design, morphology of design, concept of\nworkable design, practical example on workable system and optimal design.\nNewton Raphson method, one unknown - examples, multiple unknowns -\nexamples. Gauss Seidel method - examples, rudiments of finite difference\nmethod for partial differential equations with example.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Regression and curve fitting: Need for regression in simulation and\noptimization, concept of best fit and exact fit. Exact fit - Lagrange\ninterpolation, Newton's divided difference - examples. Least square\nregression - theory, Gauss Newton method for nonlinear least squares\nregression - examples.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Optimization and algorithms: Method of steepest ascent/steepest descent,\nconjugate gradient method, power law forms, geometric programming.\nOptimization algorithms, complex R-F, genetic algorithms, multi objective\noptimization, priori methods, posteriori methods.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Advanced optimization: Interactive methods, interpreting the Pareto front,\nmultidisciplinary optimization,  multidisciplinary feasible MDF, bi-level\nintegrated system synthesis (BLISS), surrogate models, types - polynomial\nresponse surfaces,  kriging, neural networks, radial basis functions - case\nstudies.",
+    "contact_hours": "9"
+  }
+]

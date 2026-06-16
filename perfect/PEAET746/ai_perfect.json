@@ -1,0 +1,68 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Cryptography",
+            "Need for Cryptography",
+            "Kirchhoff's Principle",
+            "Symmetric Cipher Models",
+            "Substitution Techniques",
+            "Transposition Techniques",
+            "Rotor Machines",
+            "Steganography",
+            "Block Cipher - Design Principles and Modes of Operation",
+            "The Data Encryption Standard",
+            "Strength of DES, Differential and Linear Cryptanalysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "IDEA - Primitive Operations",
+            "Key Expansions",
+            "One Round",
+            "Odd Round",
+            "Even Round",
+            "Inverse Keys for Decryption",
+            "AES - Basic Structure",
+            "Primitive Operation",
+            "Inverse Cipher - Key Expansion",
+            "Rounds",
+            "Inverse Rounds",
+            "Stream Cipher - RC4"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Number Theory - Fundamental Theorem of Arithmetic",
+            "Fermat's Theorem",
+            "Euler's Theorem",
+            "Euler's Totient Function",
+            "Extended Euclid's Algorithm",
+            "Modular Arithmetic",
+            "Public Key Cryptography - Principles of Public Key Cryptography Systems",
+            "RSA Algorithm",
+            "Key Management - Diffie-Hellman Key Exchange"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Basics of Elliptic Curve Cryptography",
+            "Authentication - Authentication Functions",
+            "Message Authentication Codes",
+            "Hash Functions - SHA-1",
+            "Security of Hash Functions and MACs",
+            "Introduction to Digital Signatures - Digital Signature Standards"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

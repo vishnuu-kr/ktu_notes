@@ -1,0 +1,86 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Financial data and their properties",
+            "financial time series and their characteristics",
+            "means",
+            "variances",
+            "covariances",
+            "correlation and autocorrelation",
+            "correlogram",
+            "stationarity",
+            "trends",
+            "seasonal variation",
+            "univariate and multivariate data",
+            "decomposition of series",
+            "the spectral density",
+            "smoothing and filtering",
+            "white noise",
+            "autoregressive models",
+            "moving average models",
+            "ARMA and ARIMA models"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Characteristics of volatility",
+            "ARCH model",
+            "GARCH model",
+            "GARCH-M model",
+            "EGARCH model",
+            "threshold GARCH model",
+            "CHARMA model",
+            "random coefficient autoregressive model",
+            "asymmetric power ARCH model",
+            "nonsymmetric GARCH model",
+            "stochastic volatility model",
+            "long-memory stochastic volatility model",
+            "applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Nonlinear time series",
+            "univariate parametric nonlinear models - general formulation",
+            "threshold autoregressive models",
+            "Markov switching models",
+            "smooth transition autoregressive models",
+            "time-varying coefficient models. Univariate nonparametric models - kernel smoothing",
+            "local conditional mean",
+            "local polynomial fitting",
+            "splines",
+            "wavelet smoothing",
+            "nonlinear additive models",
+            "index model and sliced inverse regression"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Nonsynchronous trading",
+            "bid-ask spread of trading prices",
+            "empirical characteristics of trading data",
+            "models for price changes",
+            "duration models",
+            "value at risk (VaR",
+            "risk metrics",
+            "extreme value theory. Multivariate linear time series: Stationary vector autoregressive time series",
+            "vector autoregressive moving average time series. Multivariate volatility models: Multivariate GARCH models",
+            "GARCH models for bivariate returns",
+            "higher dimensional volatility models",
+            "factor-volatility models",
+            "multivariate t distribution"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Digital filters",
+      "linear filters-Homomorphic filtering",
+      "Point operators- Histogram",
+      "neighbourhood operators",
+      "thresholding Mathematical morphology",
+      "Binary shape analysis",
+      "Binary shape analysis",
+      "Erosion",
+      "Dilation",
+      "Opening and Closing",
+      "Hit-or-Miss Transform",
+      "connectedness",
+      "object labelling and counting",
+      "Boundary descriptors - Chain codes. Properties of Binary Regions",
+      "Geometric Features",
+      "Statistical Shape Properties"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Feature Detection and Image Synthesis",
+      "Edge detection - edges",
+      "lines",
+      "active contours",
+      "Split and merge",
+      "Mean shift and mode finding",
+      "Normalized cuts",
+      "Graph cuts",
+      "energy- based methods- Cranny’s Algorithm",
+      "Corner detection",
+      "Harris corner detection algorithm. Hough transform-Line and curve detection"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Shape from X - Shape from shading",
+      "Photometric stereo",
+      "Texture Occluding contour detection. Motion Analysis- Regularization theory",
+      "Optical Flow: brightness constancy equation",
+      "aperture problem",
+      "Horn-Shunck method",
+      "Lucas-Kanade method. Structure from motion"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Scene analysis Examples of real time applications: In-vehicle vision system"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

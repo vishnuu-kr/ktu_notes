@@ -1,0 +1,80 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to ML - Machine Learning vs. Traditional Programming",
+            "Machine learning paradigms - supervised",
+            "semi-supervised",
+            "unsupervised",
+            "reinforcement learning. Basics of parameter estimation - maximum likelihood estimation (MLE) and maximum aposteriori estimation (MAP",
+            "Bayesian formulation. Supervised Learning - Feature Representation and Problem Formulation",
+            "Role of loss functions and optimization Regression - Linear regression with one variable",
+            "Linear regression with multiple variables - solution using gradient descent algorithm and matrix method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Classification - Naive Bayes",
+            "KNN Generalisation and Overfitting - Idea of overfitting",
+            "LASSO and RIDGE regularization",
+            "Idea of Training",
+            "Testing",
+            "Validation Evaluation Measures - Classification - Precision",
+            "Recall",
+            "Accuracy",
+            "F-Measure",
+            "Receiver Operating Characteristic Curve(ROC",
+            "Area Under Curve (AUC). Regression - Mean Absolute Error (MAE",
+            "Root Mean Squared Error (RMSE",
+            "R Squared/Coefficient of Determination"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Neural Networks (NN) - Perceptron",
+            "Neural Network - Multilayer feed-forward network",
+            "Activation functions (Sigmoid",
+            "ReLU",
+            "Tanh",
+            "Back propagation algorithm",
+            "Issues in Back Propagation Learning (Vanishing and Exploding Gradient Problems",
+            "Local Minima and Saddle Points",
+            "Overfitting",
+            "Slow Convergence",
+            "Sensitivity to the selection of the Initial weights",
+            "Computational Cost",
+            "Use of Adaptive Learning Rate Methods (Back Propagation Algorithm with Momentum",
+            "Adaptive Gradient Descent Algorithm (ADAGRAD",
+            "Root Mean Square Propagation (RMSProp",
+            "Adaptive Momentum Estimation (ADAM)) Decision Trees - Information Gain",
+            "Gain Ratio",
+            "ID3 algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Clustering - Similarity measures",
+            "Hierarchical Clustering - Agglomerative Clustering",
+            "partitional clustering",
+            "K-means clustering Dimensionality reduction:- Principal Component Analysis",
+            "Multidimensional scaling Ensemble methods:- Bagging",
+            "Boosting Resampling methods:- Bootstrapping",
+            "Cross Validation. Practical aspects -Bias-Variance trade-off Suggestion on Project Topics Students may identify a real life problem that can be solved using the concepts of machine learning. They may either use a standard dataset or build their own",
+            "for the purpose of applying machine learning algorithms. Besides",
+            "they may make use of various evaluation parameters to measure the efficiency of the methods. A few sample questions are given below. 1. Classification of Handwritten Digits: Classify handwritten digits (0-9) from the MNIST dataset using various machine learning algorithms and compare their performance. This will involve pre-processing the data",
+            "applying different classification techniques and using ensemble methods to improve accuracy. 2. Predicting Student Examination Performance Based on Internal Marks: Develop a real life dataset using the historical data of your institution. Use various machine learning algorithms to build models to predict students’ final examination scores based on their internal assessment marks and evaluate their performance. Use ensemble methods to improve accuracy of prediction. Also",
+            "segment the students using clustering techniques to identify potential students at academic risk so that the educators can make timely interventions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

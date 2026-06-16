@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Definitions- Robots, Robotics; Types of Robots- Manipulators, Mobile\nRobots-wheeled & Legged Robots, Aerial Robots; Anatomy of a robotic\nmanipulator-links, joints, actuators, sensors, controller; open kinematic vs\nclosed kinematic chain; degrees of freedom; Robot configurations-PPP, RPP,\nRRP, RRR; features of SCARA, PUMA Robots; Classification of robots\nbased on motion control methods and drive technologies; 3R concurrent\nwrist; Classification of End effectors - mechanical grippers, special tools,\nMagnetic grippers, Vacuum grippers, adhesive grippers, Active and passive\ngrippers, selection and design considerations of grippers in robot.\nTrajectory planning Tasks, Path planning, Trajectory Planning. Joint space\ntrajectory planning- cubic polynomial, linear trajectory with parabolic\nblends, trajectory planning with via points; Cartesian space planning, Point\nto point vs continuous path planning. Obstacle avoidance methods- Artificial\nPotential field.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Robot Kinematics\nDirect Kinematics- Rotations-Fundamental and composite Rotations,\nHomogeneous co- ordinates, Translations and rotations, Composite\nhomogeneous\ntransformations,\nScrew\ntransformations,\nKinematic\nparameters, The Denavit-Hartenberg (D-H) representation, The arm\nequation, direct kinematics problems (upto 3DOF)\nInverse kinematics- general properties of solutions, Problems (upto 3DOF)\nInverse\nkinematics\nof\n3DOF\nmanipulator with\nconcurrent\nwrist\n(demo/assignment only) Tool configuration Jacobian, relation between joint\nand end effector velocities.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Manipulator Dynamics\nLagrange’sformulation – Kinetic Energy expression, velocity Jacobian and\nPotential Energy expression, Generalised force, Euler-Lagrange equation,\nDynamic model of planar and spatial serial robots upto 2 DOF, modelling\nincluding motor and gearbox.\nRobot Control\nThe control problem, Single axis PID control-its disadvantages, PD gravity\ncontrol, computed torque control.\nSimulation of\nsimple robot-control system-Matlab programming\nfor\ncontrol of robots (demonstration/assignment only)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Locomotion, Key issues for locomotion, Legged Mobile Robots, Wheeled\nMobile Robots, Aerial Mobile Robots. Mobile Robot Kinematics\n(Differential Drive Robot), Mobile Robot Workspace- Degree of freedom,\nHolonomic and nonholonomic robots. Motion Control, Open Loop control,\nfeedback control.\nIndustrial application- Medical, material handling, pick and place robot.\nRobot selection- number of axes, work volume, capacity and speed, stroke\nand reach, repeatability , precision and accuracy, operating environment",
+    "contact_hours": "9"
+  }
+]

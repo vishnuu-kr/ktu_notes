@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Fundamentals\nof\nMetaheuristics:\nClassical\nOptimization\nModels,\nOptimization\nMethods-Exact\nMethods\nand\nApproximate\nMethods,\nMetaheuristics Concepts–Representation, Objective Function, Constraint\nHandling, Parameter Tuning and Performance Analysis.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Single Solution Based Metaheuristics: Local Search- Neighbor Selection and\nEscaping from Local Optima, Simulated Annealing- Move Acceptance and\nCooling Schedule, Tabu Search- Types of memory, Iterated Local Search-\nPerturbation Method and Acceptance Criteria, Variable Neighbourhood\nSearch-\nVariable\nNeighborhood\nDescent\nand\nGeneral\nVariable\nNeighborhood Search.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Ant Colony Optimization (ACO): Inspiration from Nature-Ant Foraging\nBehavior, Ant System, Basic Principles of ACO- Pheromone Deposition,\nPheromone Updating Rules, Construction of Solutions and Pheromone\nEvaporation, Ant System Variants-Elitist Ant System, Rank Based Ant\nSystem, Max Min Ant System, Application of ACO to the Travelling\nSalesman Problem.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Particle Swarm Optimization (PSO): Inspiration from Nature- Social\nBehavior of Bird Flock, Basic Models of PSO- Local Best PSO and Global\nBest PSO, gbest versus lbest PSO, Velocity Update Equations, Position\nUpdate Equations, Velocity Clamping, Inertia Weight, Constriction\nCoefficients, Synchronous and Asynchronous Updates, Velocity Models,\nBasic PSO Parameters, Guaranteed Convergence PSO, Problem Formulation\nof PSO algorithm, Advantages and Disadvantages of PSO.",
+    "contact_hours": "9"
+  }
+]

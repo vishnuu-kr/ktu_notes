@@ -1,0 +1,314 @@
+Course Code 
+PEAET744 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+- 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To familiarize types of locomotion and sensors for mobile Robots 
+2. To perform localization, path planning, kinematic modelling and control of mobile robots 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Legged locomotion - Leg configurations and stability, Examples of legged 
+robot locomotion. 
+Wheeled locomotion - conventional wheels, special wheels, drive types - 
+Differential drive, Tricycle, Omnidirectional, Synchro drive, Ackerman 
+steering, Skid steering. 
+Case study - Basic simulation of a turtle bot in ROS, Building a Visual 
+Robot Model with URDF from Scratch, Building a Movable Robot Model 
+with URDF. 
+9 
+2 
+Sensors for Mobile Robots - Sensor classification, characterizing sensor 
+performance, Wheel/motor sensors, Heading sensors, Ground-based 
+beacons, Active ranging, Motion/speed sensors, Vision-based sensors. 
+Representing 
+Uncertainty 
+in 
+sensor 
+measurements 
+- 
+Statistical 
+representation, Error propagation - combining uncertain measurements. 
+Case study -  Adding sensors to the robot models in ROS 
+9 
+3 
+Robot Localization, Error propagation model, Probabilistic map-based 
+localization - Kalman method, Other Examples of Localization Systems, 
+9 
+
+ 
+ 
+Landmark-based navigation, Positioning beacon systems. 
+Path planning of mobile robots - Road map, Cell decomposition, Potential 
+field - Obstacle avoidance (Bug algorithm), Vector field histogram, Dynamic 
+window approach 
+Case study - Familiarization with 2D navigation stack, Basic ROS 
+Navigation, Start robots in simulation 
+4 
+Kinematic model of unicycle robot and differential drive robot, and car like 
+mobile robot or steered robot. 
+Control of mobile robots - Control of differential drive robot and steered 
+robot based on its kinematic model. 
+Case study (Overview only) - design and implementation of a differential 
+drive robot capable of moving to a point, following a line and following a 
+path. 
+Case study - Control of a differential drive robot in ROS to move to a goal 
+location 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Familiarize types of locomotion and sensors for mobile Robots 
+K2 
+CO2 
+Perform localization and path planning for mobile robots 
+K3 
+CO3 
+Develop kinematic model of mobile robots 
+K3 
+CO4 
+Control the mobile robots to follow different paths 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Autonomous 
+Mobile Robots 
+R. Siegwart, I. R. 
+Nourbakhsh and Davide 
+Scaramuzza 
+The MIT Press 
+2nd Edition, 
+2011 
+2 
+Introduction to Mobile Robot 
+Control 
+Spyros G. Tzafestas 
+Elsevier 
+1st Edition, 
+2013 
+3 
+Robotics, Vision and Control: 
+Fundamental Algorithms in 
+MATLAB,  
+Peter Corke 
+Springer Tracts in 
+Advanced Robotics,  
+2nd Edition, 
+2017 
+4 
+ Robot Operating Systems 
+(ROS) for Absolute Beginners  
+Lentin Joseph and 
+Aleena Johny 
+Apress  
+1st Edition, 
+2018 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+2 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+2 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Learning ROS for Robotics 
+Programming 
+Aaron Martinez and Enrique 
+Fernández 
+Packt Publishing 
+Ltd 
+2nd Edition, 
+2015 
+2 
+Building Smart Robots Using 
+ROS 
+Robin Tommy, Ajithkumar 
+Narayanan Manaparampil 
+and Rinu Michael 
+BPB 
+1st Edition, 
+2022 
+3 
+Programming Robots with 
+ROS: A Practical Introduction 
+to the Robot Operating System 
+Morgan Quigley, Brian 
+Gerkey, William D. Smart 
+O’Reilly 
+Greyscale 
+Indian 
+Edition, 
+2016 
+4 
+Modern Robotics: Mechanics, 
+Planning, and Control 
+Kevin M. Lynch, Frank C. 
+Park 
+Cambridge 
+University Press 
+1st Edition, 
+2017 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/112106298 
+2 
+https://nptel.ac.in/courses/112106298 
+3 
+https://nptel.ac.in/courses/112106298 
+4 
+https://nptel.ac.in/courses/112106298 
+
+ 
+ 
+SEMESTER S7 
+CRYPTOGRAPHY

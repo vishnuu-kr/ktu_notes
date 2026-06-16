@@ -1,0 +1,63 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Current and Voltage Division Rule",
+            "Relative Potential, Capacitors and Inductors: V-I Relations and Energy Stored, Ohm's Law and Kirchhoff's Laws",
+            "Star-Delta Conversion (Resistive Networks Only)",
+            "Analysis of DC Electric Circuits: Mesh Current Method, Matrix Representation, Solution of Network Equations",
+            "Node Voltage Methods: Matrix Representation, Solution of Network Equations by Matrix Methods",
+            "Elementary Concepts of Magnetic Circuits: MMF, Field Strength, Flux Density, Reluctance",
+            "Comparison Between Electric and Magnetic Circuits",
+            "Series and Parallel Magnetic Circuits with Composite Materials"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Faraday's Laws, Lenz's Law: Statically Induced and Dynamically Induced EMF, Self-Inductance and Mutual Inductance, Coefficient of Coupling",
+            "Alternating Current Fundamentals: Generation of Alternating Voltages, Representation of Sinusoidal Waveforms (Frequency, Period, Average Value, RMS Value, Form Factor)",
+            "AC Circuits: Phasor Representation of Sinusoidal Quantities, Trigonometric, Rectangular, Polar and Complex Forms",
+            "Analysis of Simple AC Circuits: Purely Resistive, Inductive and Capacitive Circuits, Inductive and Capacitive Reactance, Concept of Impedance",
+            "RL, RC and RLC Series Circuits: Power Factor, Active, Reactive and Apparent Power",
+            "Three Phase AC Systems: Generation of Three Phase Voltages, Advantages of Three Phase Systems, Star and Delta Connections (Balanced Only), Relation Between Line and Phase Voltages, Line and Phase Currents"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Passive and Active Components in Electronics",
+            "Working of PN Junction Diode, V-I Characteristics of PN Junction Diode",
+            "Zener Diode and Avalanche Breakdown, Basics of Zener Voltage Regulator",
+            "Block Diagram of DC Power Supply, Circuit and Working of Half Wave, Full Wave and Bridge Rectifiers, Ripple Factor (With and Without Capacitor Filters)",
+            "Construction, Working and V-I Characteristics of BJT",
+            "Input Output Characteristics of CE Configuration, Comparison of CE, CB and CC Configurations",
+            "Concept of Biasing and Load Line",
+            "Transistor as a Switch, Transistor as an Amplifier (Circuit Diagram and Working)",
+            "RC Coupled Amplifier: Circuit Diagram and Frequency Response",
+            "Introduction to FET, Construction and Working of N-Channel and P-Channel MOSFETs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "General Block Diagram of a Communication System",
+            "Block Diagram of Fiber Optic Communication System",
+            "Concept of AM and FM (No Derivation Required)",
+            "Block Diagram of AM and FM Super-Heterodyne Receiver",
+            "Basic Concepts of Wired and Wireless Communication",
+            "Block Diagram of GSM, Comparison of 3G, 5G and 6G Communication Technologies",
+            "Block Diagrams of Electronic Instrumentation System, Digital Multimeter, Function Generator",
+            "Introduction to CRO and Lissajous Patterns",
+            "Applications of Modern Electronics: IoT Based Smart Homes, Healthcare and Agriculture (Case Study Only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

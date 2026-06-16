@@ -1,0 +1,79 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Traditional computing- Limitations. Overview of Computing Paradigms-Grid Computing",
+            "Cluster Computing",
+            "Distributed Computing",
+            "Utility Computing",
+            "Cloud Computing. NIST reference Model-Basic terminology and concepts. Cloud characteristics",
+            "benefits and challenges",
+            "Roles and Boundaries. Cloud delivery (service) models-Infrastructure-as-a-Service (IaaS",
+            "Platform-as-a-Service(PaaS",
+            "Software-as-a-Service (SaaS",
+            "XaaS (Anything-as-a-service)-Cloud deployment models-Public cloud",
+            "Community cloud",
+            "Private cloud",
+            "Hybrid cloud"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to virtualization-Virtualizing physical computing resources",
+            "Virtual Machines (Machine virtualization",
+            "Non-virtualized v/s Virtualized machine environments. Types of VMs- Process VM v/s System VM. Emulation",
+            "Interpretation and Binary translation. Virtualization layers. Hypervisors/VMM - Types of Hypervisors. Full Virtualization",
+            "Para Virtualization",
+            "Hardware-assisted virtualization",
+            "OS level virtualization. Basics of Network Virtualization",
+            "Storage Virtualization and Desktop Virtualization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Static and Dynamic Resource provisioning in cloud. Open Source Software platforms for Private Cloud : OpenStack",
+            "Eucalyptus",
+            "Open Nebula",
+            "Nimbus Popular public cloud platforms: AWS - AWS ecosystem",
+            "Compute services: EC2",
+            "Advanced compute services",
+            "Storage services: Amazon S3",
+            "Amazon EBS",
+            "Database services",
+            "other major services. Google Cloud: IaaS offerings- Compute Engine",
+            "Storage PaaS offerings-GAE. SaaS offerings. Microsoft Azure: Azure Platform Architecture",
+            "Hyper-V",
+            "Azure VM",
+            "Compute services",
+            "Storage services"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Parallel Computing and Programming Paradigms",
+            "Map Reduce - Hadoop Library from Apache",
+            "HDFS",
+            "Pig Latin Basics",
+            "Apache Spark Fundamentals of Cloud Security: Basic terms & concepts in security - Threat agents",
+            "Cloud security threat/risks",
+            "Trust. OS security - Virtual Machine security - Security of Virtualization - Security risk posed by Shared Images",
+            "Security risk posed by Management OS",
+            "Infrastructure security - Network Level",
+            "Host Level",
+            "Application Level",
+            "Security of the Physical systems",
+            "Identity and Access Management"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

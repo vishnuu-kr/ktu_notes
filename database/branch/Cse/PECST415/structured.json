@@ -1,0 +1,77 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "CPN junction",
+      "MOS transistor theory and operation",
+      "PMOS",
+      "NMOS",
+      "CMOS",
+      "CMOS Inverter",
+      "Voltage Transfer Curve",
+      "CMOS logic gates",
+      "Tristate Inverter",
+      "Tristate buffer. Combinational Circuits Timing - Rise Time",
+      "Fall time",
+      "Propagation Delay. Introduction to sequential logic circuits",
+      "flip-flops and latches",
+      "Timing analysis - Set-up time",
+      "Hold Time",
+      "Propagation Delay",
+      "Frequency of Operation",
+      "Static and Dynamic Timing Analysis",
+      "Pipelining"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "CMOS fabrication process overview- Photolithography",
+      "Structure of an Integrated Circuit",
+      "Types of Design flow - Custom design",
+      "Semi-custom design",
+      "array based design. A System Perspective",
+      "Hardware - Software Partitioning",
+      "example Video compression",
+      "Functional Specification to RTL",
+      "Behavioural Synthesis"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Semi-custom Design flow Abstraction in VLSI Design Flow- Gajski-Kuhn’s Y-chart",
+      "Hardware design using hardware description Languages",
+      "Design Verification- Simulation using Testbench",
+      "Property Checking",
+      "Equivalence Checking",
+      "Static Timing Analysis",
+      "Logic Synthesis",
+      "Physical Design- Min-cut Partitioning",
+      "Floor plan",
+      "Global and Detailed Placement",
+      "Global and Detailed Routing",
+      "Micro project"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Mealy and Moore models. Verilog HDL Design and implementation of RISC stored programmed Machine. Field Programmable Gate Arrays (FPGAs) : FPGA Architecture-Programming Technology",
+      "Programmable logical blocks",
+      "Programmable Interconnects",
+      "Programmable I/O blocks",
+      "FPGA Design Flow",
+      "SoC Design on FPGA",
+      "Micro project*. * Micro-project on FPGA / Semi-Custom Flow"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

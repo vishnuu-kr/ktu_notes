@@ -1,0 +1,63 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "C Fundamentals - Character Set, Constants, Identifiers, Keywords, Basic Data Types, Variables, Operators and its Precedence, Bit-wise Operators, Expressions",
+            "Statements - Input and Output Statements",
+            "Structure of a C Program",
+            "Simple Programs; Control Statements - if, if-else, nested if, switch, while, do-while, for, break & continue, nested loops"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Arrays - Single Dimensional Arrays, Defining an Array, Array Initialization, Accessing Array Elements",
+            "Enumerated Data Type",
+            "Type Definition",
+            "Two-dimensional Arrays - Defining a Two-dimensional Array",
+            "Programs for Matrix Processing",
+            "Programs for Sequential Search",
+            "Bubble Sort",
+            "Strings - Declaring a String Variable, Reading and Displaying Strings, String Related Library Functions, Programs for String Matching"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Functions - Function Definition, Function Call, Function Prototype, Parameter Passing",
+            "Recursion",
+            "Passing Array to Function",
+            "Macros - Defining and Calling Macros",
+            "Command Line Arguments; Structures - Defining a Structure Variable, Accessing Members, Array of Structures, Passing Structure to Function",
+            "Union; Storage Class - Storage Classes Associated with Variables: Automatic, Static, External and Register"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Pointers - Declaration",
+            "Operations on Pointers",
+            "Passing Pointer to a Function",
+            "Accessing Array Elements Using Pointers",
+            "Processing Strings Using Pointers",
+            "Pointer to Pointer",
+            "Array of Pointers",
+            "Pointer to Function",
+            "Pointer to Structure",
+            "Dynamic Memory Allocation",
+            "Files - Different Types of Files in C",
+            "Opening & Closing a File",
+            "Writing to and Reading from a File",
+            "Processing Files",
+            "Library Functions Related to File - fseek, ftell, fread, fwrite"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

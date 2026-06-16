@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Review of Neural Networks - Biological Neuron vs. Artificial Neuron",
+            "Activation Functions (Step, Sign, Sigmoid, Softmax, Tanh, ReLU, Leaky ReLU, ELU)",
+            "Single Layer Perceptron",
+            "Linear Separability",
+            "XOR Problem",
+            "Multilayer Perceptron",
+            "Back-Propagation Algorithm"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Convolutional Neural Networks (CNN) - Architectural Overview",
+            "Motivation",
+            "Layers",
+            "Filters",
+            "Parameter Sharing",
+            "Regularization",
+            "Convolution and Pooling as Infinitely Strong Prior",
+            "Variants of Convolution Operation",
+            "Efficient Convolution Computation Methods",
+            "Popular CNN Architectures (ResNet, AlexNet, VGGNet, Inception)"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Recurrent Neural Networks (RNN) - Model of a Typical RNN",
+            "Computation Graph",
+            "Bidirectional RNNs",
+            "Encoder-Decoder Sequence-to-Sequence Architectures",
+            "BPTT for Training RNN",
+            "Deep Recurrent Networks",
+            "Recursive Recurrent Networks",
+            "Long Short Term Memory Networks (LSTM), Gated Recurrent Networks (GRU)"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Unsupervised Deep Learning Models - Autoencoders",
+            "Types of Autoencoders (Undercomplete AE, Sparse AE, Deep AE, Contractive AE, Denoising AE, Convolutional AE, Variational AE)",
+            "Boltzmann Machines",
+            "Types of Boltzmann Machines (Restricted Boltzmann Machines, Deep Belief Networks, Deep Boltzmann Machines)",
+            "Applications of Deep Learning - Speech Processing",
+            "Computer Vision",
+            "Natural Language Processing",
+            "Word Embedding Techniques (TF-IDF, Word2Vec, GloVe)"
+        ]
+    }
+]

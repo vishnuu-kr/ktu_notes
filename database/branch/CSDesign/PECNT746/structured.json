@@ -1,0 +1,82 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Big data",
+      "Conventional Data vs Big data",
+      "Big data architecture",
+      "Big data platforms",
+      "Nature of data",
+      "Analytic processes and tools",
+      "5 V’s of Big data",
+      "Big data analytical method",
+      "Intelligent data analysis",
+      "Big data analytics life cycle. Introduction to stream concepts - Streaming data architecture",
+      "Stream data model",
+      "Sampling techniques for efficient stream processing",
+      "Filtering streams - Bloom filter",
+      "Count distinct problem - Flajolet martin algorithm",
+      "Estimating moments",
+      "Counting oneness in a window - DGIM Algorithm"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Execution Pipeline",
+      "Runtime Coordination and Task Management in MapReduce",
+      "Designing MapReduce implementations: Using MapReduce as a framework for parallel processing",
+      "Example-Road Enrichment"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Introduction to PIG",
+      "Execution Modes of Pig",
+      "Comparison of Pig with Databases",
+      "Grunt",
+      "Pig Latin",
+      "User Defined Functions",
+      "Data Processing operators. Hive: Hive Shell",
+      "Hive Services",
+      "Hive Metastore",
+      "Comparison with Traditional Databases",
+      "HiveQL",
+      "Tables",
+      "Querying Data and User Defined Functions. Hbase: HBasics",
+      "Concepts",
+      "Clients",
+      "Example",
+      "Hbase Versus RDBMS"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Introduction to R - Overview of modern data analytic tools",
+      "Introduction to R",
+      "R Graphical User Interfaces - Features of R Language",
+      "Vectors",
+      "Filtering",
+      "Creating Matrices",
+      "Applying Functions to Matrix Rows and Columns",
+      "Lists",
+      "Creating List",
+      "General List Operations",
+      "Data Frames",
+      "Creating Data Frames",
+      "Matrix like Operations in Frames",
+      "Applying Functions to Data Frames",
+      "Reading and Writing Files"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

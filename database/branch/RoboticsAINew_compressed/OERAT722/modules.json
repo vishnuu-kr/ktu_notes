@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "ROS Fundamentals, Topics:\nThe ROS Graph, roscore, catkin, Workspaces, and ROS Packages, rosrun,\nNames, Namespaces, and Remapping, roslaunch, tf: Coordinate Transforms\n- Poses, Positions, and Orientations, tf, Publishing to a Topic, Subscribing\nto a Topic, Latched Topics, Defining Message Types, Mixing Publishers\nand Subscribers",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Services and Actions:\nDefining a Service, Implementing a Service, Using a Service, Defining an\nAction, Implementing a Basic Action Server, Using an Action,\nImplementing a More Sophisticated Action Server, Using the More\nSophisticated Action",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Robots and Simulators:\nSubsystems - Actuation: Mobile Platform, Actuation: Manipulator Arm,\nSensors, Computation Complete Robots – PR2, Fetch, Robonaut 2,\nTurtleBot, Simulators – Stage, Gazebo. Other Simulators",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Building Maps of the World and Navigating About the World: Maps in\nROS, Recording Data with rosbag, Building Maps, Starting a Map Server\nand Looking at a Map, Localizing the Robot in a Map, Using the ROS\nNavigation Stack, Navigating in Code",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Locomotion, manipulation and their representation: Static and dynamic\nstability – Degrees of freedom – Coordinate systems and Frames of\nReference – Matrix notation – Mapping from one frame to another –\nConcatenation of Transformations\nKinematics: Forward Kinematics – The Denavit-Hartenberg notation -\nInverse Kinematics –- Differential Kinematics – Inverse Differential\nKinematics",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Forces: Statics – Kineto- Static Duality – Manipulability Ellipsoid in\nVelocity Space, Force Space, Manipulability considerations\nGrasping: The theory of grasping – Simple Grasping Mechanisms – 1-DoF\nscissor like gripper, Parallel Jaw, 4-bar linkage parallel gripper, Multi-\nfingered hands\nActuators: Electric Motors - Hydraulic and pneumatic actuators – Safety\nConsiderations\nSensors: Terminology – Sensors that measure the robot’s joint\nconfiguration – sensors that measure ego-motion, measuring force –\nSensors to measure distance – Sensors to measure global pose",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Vision: Images as two dimensional signals – Translation of Signal to\ninformation - Basic image operations – Extracting structure from Vision –\nComputer vision and Machine learning\nFeature Extraction: Feature detection as an information-reduction\nproblem – Features – Line recognition – Scale-invariant feature transforms\n– Feature detection and Machine learning",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Artificial Neural Network: The simple perception – Activation function -\nSimple perceptron to multilayer neural network – Single outputs to higher\ndimensional data – Objective Functions and optimization\nTask Execution: Reactive Control – Finite State Machines – Hierarchical\nFinite State Machine- Behaviour Trees – Mission Planning\nMapping: Map representations – Iterative Closest point for sparse mapping\n– Octomap:  dense mapping of voxels – RGB-D mapping: dense mapping\nof surfaces",
+    "contact_hours": "9"
+  }
+]

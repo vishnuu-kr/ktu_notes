@@ -1,0 +1,282 @@
+Course Code 
+PEADT418 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L:T:P:R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To introduce the ARM architecture and ARM-based microcontroller architecture. 
+2. To impart knowledge on the hardware and software components to develop embedded systems 
+using STM32 microcontrollers. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Embedded Systems and ARM Cortex-M Architecture:-  
+Overview of embedded systems including definition, applications, and 
+characteristics, Embedded C Programming Basics and Key Concepts, 
+Differences and use cases of microcontrollers versus microprocessors, 
+Classification of processors including RISC, CISC, and other architectures, 
+Overview of ARM Cortex-M Series features and applications, Introduction 
+to Cortex-M23 and Cortex-M33 Processors: Armv8-M Architecture, Core 
+Features (Registers, Memory, Bus Architecture),Comparison with Previous 
+Cortex-M Generations. 
+8 
+2 
+STM32 Microcontroller Overview and Development Environment 
+Setup:- 
+Overview of the STM32 Family and Features of the STM32U575, 
+Development Environment and HAL- Introduction, Writing, and Debugging 
+Your First Program (LED Interfacing); Interfacing - Seven-Segment Display, 
+10 
+
+ 
+ 
+LCD Display, Matrix Keypad, Relay, Analog to Digital Conversion-
+Potentiometer, Temperature Sensor, LDR, Microphone, Digital to Analog 
+Conversion - Simple DAC Output, Sine Wave Generation, Audio Signal 
+Generation, Interrupt Handling Basics and Applications, Timers and PWM: 
+Configuration, Real-Time Clock (RTC), LED Brightness Control, Motor 
+Speed Control 
+3 
+Communication Protocols :- 
+Overview of Serial Communication Protocols- USART, I2C, and SPI, 
+Interfacing an I2C Temperature Sensor and Displaying Data on an LCD, 
+writing to and Reading from an SPIbased EEPROM, Implementing CAN 
+Communication Between STM32 Microcontrollers; Creating a USB HID 
+Device for Keyboard and Mouse Emulation. 
+9 
+4 
+IoT and RTOS:-  
+Introduction to IoT and its Layers of Architecture, Introduction to IoT 
+Communication Protocols including MQTT, CoAP, and HTTP, Securing IoT 
+Data Using Encryption Techniques, Wireless Communication Basics- GSM, 
+Interfacing GSM (Sending SMS, Making Calls, Internet Connectivity Using 
+AT Commands), Bluetooth(Data Transfer between STM32U575 and Mobile 
+Devices), 
+RTOS 
+Concepts: 
+FreeRTOS 
+Overview, 
+Task 
+Creation, 
+Scheduling, Timers, Inter-task Communication (Queues, Semaphores), 
+Designing an IoT-Based Home Automation System. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions. 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, 
+out of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain  the architectural features and instructions of the ARM 
+microcontrollers. 
+K2 
+CO2 
+Develop applications involving interfacing of external devices and I/O 
+with ARM microcontroller. 
+K3 
+CO3 
+Use various communication protocols of interaction with peer devices 
+and peripherals. 
+K3 
+CO4 
+Demonstrate the use of a real time operating system in embedded 
+system applications. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+The Definitive Guide to ARM Cortex-
+M3 and Cortex-M4 Processors 
+Joseph Yiu 
+Newnes - Elsevier 
+3/e, 2014 
+2 
+Mastering STM32 
+Carmine Noviello 
+Learnpub 
+2/e, 2022 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+ARM System Developer’s 
+Guide 
+Andrew N. Sloss, Dominic 
+Symes, Chris Wright 
+Morgan Kaufman 
+1/e, 2008 
+2 
+Embedded System Design with 
+Arm Cortex-M 
+Microcontrollers  
+Cem Ünsalan, Hüseyin Deniz 
+Gürhan, Mehmet Erkin Yücel 
+Springer 
+1/e, 2022 
+3 
+Introduction to ARM ® 
+Cortex-M Microcontrollers 
+Jonathan W. Valvano 
+Self-Published 
+5/e, 2014 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/106/105/106105193/ 
+2 
+https://www.st.com/resource/en/datasheet/ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+FOUNDATIONS OF PATTERN RECOGNITION

@@ -1,0 +1,295 @@
+Course Code 
+PCADT601 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCCST503 
+Course Type 
+Theory 
+Course Objectives: 
+1. To get an insight into various design parameters of a deep learning model. 
+2. To introduce deep learning architectures for various domains such as text, multimedia and 
+GenAI tools. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Deep learning: Introduction, Deep feed forward network. 
+Activation functions – Sign, Sigmoid, Tanh, ReLU, leaky ReLU, Hard Tanh, 
+Softmax. Loss function. Training a Neural Network with Backpropagation. 
+Practical issues in neural network training. Overfitting, Underfitting, Hyper 
+parameters and Validation sets, Estimators -Bias and Variance. 
+10 
+2 
+Network Design parameters: Introduction, setup and initialization 
+Kaiming, Xavier weight initialization, Vanishing and exploding gradient 
+problems, Optimization techniques - Gradient Descent (GD), Stochastic GD- 
+GD with momentum- GD with Nesterov momentum; Parameter specific 
+learning rates: AdaGrad- RMSProp- Adam; Regularization Techniques - L1 
+and L2 regularization- Early stopping. Dataset augmentation- Parameter 
+tying and sharing- Ensemble methods- Dropout- Batch normalization. 
+      12 
+3 
+Convolutional Neural Network: Basic structure of a CNN; Basic layers and 
+operations in CNN: Convolution operation- effect of stride and padding- 
+Fully Connected layers- CNN layers; Building a CNN model: Training a 
+CNN; Estimation of Tensor size number of features in CNN layers, Transfer 
+11 
+
+ 
+ 
+learning (size similarity matrix)-Pre-trained architectures- AlexNet, ResNet-
+50, GoogleNet. 
+4 
+Deep learning models for text processing: Recurrent Neural Network 
+architecture; Variants of RNN architectures: Deep Recurrent Neural 
+Network- Recursive Neural Network- Bidirectional recurrent neural network, 
+Encoder-Decoder architecture, LSTM, GRU. 
+Auto Encoders and Generative models. Autoencoders- Variational 
+AutoEncoder-under complete Auto-encoder, stochastic encoder, denoising 
+encoder; Applications of Autoencoders. Generative models - Boltzmann 
+machines- Deep Belief Networks- Generative Adversarial Networks 
+      11 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Outline the standard regularization and optimization techniques for the 
+effective training of deep neural networks 
+K2 
+CO2 
+Use Convolutional Neural Network (CNN) models and pretrained 
+networks for different use cases. 
+K3 
+CO3 
+Apply the concepts of Recurrent Neural Network, its variants and 
+familiarize natural language processing fundamentals . 
+K3 
+CO4 
+Apply the concepts of auto encoder, generative models for advanced 
+AI operations. 
+K3 
+CO5 
+Apply the concept of generative models for advanced AI operations 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Deep Learning 
+Goodfellow, I., Bengio,Y., 
+and Courville, A. 
+MIT Press 
+1/e, 2016 
+2 
+Neural Networks and Deep 
+Learning 
+Aggarwal, Charu C 
+Springer 
+International 
+1/e, 2018 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+  
+  
+  
+ 
+  
+  
+  
+3 
+CO2 
+3 
+3 
+3 
+3 
+3 
+  
+  
+ 
+  
+  
+  
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+  
+  
+ 
+  
+  
+  
+3 
+CO4 
+3 
+3 
+3 
+3 
+  
+  
+  
+ 
+  
+  
+  
+3 
+CO5 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Deep Learning, Core Concepts, 
+Methods and Applications 
+M Gopal 
+Pearson Education 
+1/e, 2022 
+2 
+Fundamentals of Deep 
+Learning: Designing Next-
+Generation Machine 
+Intelligence Algorithm 
+Nikhil Buduma and 
+Nicholas Locascio 
+O'Reilly Media 
+1/e, 2017 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https:d2l.ai 
+2 
+https://nptel.ac.in/courses/106106184 
+3 
+https://cs230.stanford.edu/ 
+4 
+https://study.iitm.ac.in/ds/course_pages/BSCS3004.html 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S6 
+  INTERNET OF THINGS

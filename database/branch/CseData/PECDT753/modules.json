@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Mobile Application Development: Overview and Key\nConcepts\nOverview of Mobile Platforms: iOS and Android-Introduction to Cross\nPlatform Development with Flutter: Key Benefits -Flutter vs. Other Cross-\nPlatform Frameworks\nSetting Up the Flutter Development Environment: Installing Flutter SDK\nand Tools-Building and Running the \"Hello World\" App-Brief Introduction to\nGit (Cloning and Basic Commands)\nMobile App Architectures:  Overview of MVC and MVVM-Brief\nIntroduction to the BLoC Pattern in Flutter\nBasics of Dart Programming Language: Syntax and Data Types-\nIntroduction to Asynchronous Programming",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "User Interface Design and User Experience: Principles of Mobile UI/UX\nDesign-Overview -Importance of Usability, Accessibility, and User-Centered\nDesign\nDesigning Responsive UIs with Flutter Using Flutter Widgets: Stateless\nWidget and Stateful Widget-Practical Examples and Use Cases\nLayouts in Flutter: Deep Dive into Layout Widgets: Container, Column,\nRow, Stack-Aligning and Positioning Widgets Effectively\nNavigation and Routing in Flutter: Implementing Basic Navigation:\nNavigator and Routes-Managing Multiple Screens and Passing Data Between\nThem\nCustomizing UI with Themes and Styles: Introduction to Flutter's Theming\nCapabilities-Creating Custom Themes and Applying Styles\nIntroduction to Material Design and Cupertino Widgets: Overview of\nMaterial Design Principles and Components-Using Cupertino Widgets for iOS\nDesign in Flutter",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Advanced Flutter Development:\nState Management in Flutter: Overview of State Management Concepts-\nIntroduction to Provider: Basic State Management-Exploring Riverpod:\nAdvanced State Management Patterns-Deep Dive into the BLoC Pattern:\nManaging Complex State\nNetworking in Flutter: Making HTTP Requests: GET, POST, PUT,\nDELETE, JSON Parsing: Working with APIs, Integrating RESTful APIs in\nFlutter Apps\nData Persistence: Introduction to SQLite: Local Database Storage-Using\nShared Preferences for Simple Key-Value Storage-Overview of Hive\nAsynchronous Programming with Dart: Futures, async/await, and Streams\nWorking with Firebase: Setting Up Firebase - Firebase Authentication: Sign-\nIn/Sign-Up Flow",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Industry Practices and App Deployment:\nAdvanced UI Components and Animations:Building Complex UI\nComponents in Flutter-Implementing Animations\nApp Security Best Practices:Securing Mobile Applications: Common Threats\nand Mitigations-Implementing Secure Authentication and Data Storage\nTesting and Debugging Flutter Applications:Introduction to Unit Testing,\nWidget Testing, and Integration Testing-Debugging Techniques and Tools in\nFlutter\nContinuous Integration/Continuous Deployment (CI/CD) with Flutter-\nPublishing Apps to Google Play Store and Apple App Store-Industry Trends\nand Future of Mobile Development with Flutter.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "ARPANET",
+            "Internet. Physical Layer: Guided Transmission media: twisted pairs",
+            "coaxial cable",
+            "fiber optics",
+            "Wireless transmission. Data link layer: Design issues",
+            "framing",
+            "Error detection and correction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Simplex protocol",
+            "A simplex stop and wait protocol for an error-free channel",
+            "A simplex stop and wait protocol for noisy channel. Sliding Window protocols: A one-bit sliding window protocol",
+            "A protocol using Go-Back-N",
+            "A protocol using Selective Repeat",
+            "Example data link protocols. Medium Access sub layer: The channel allocation problem",
+            "Multiple access protocols: ALOHA",
+            "Carrier sense multiple access protocols",
+            "collision free protocols. Wireless LANs",
+            "Data link layer switching"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Design issues",
+            "Routing algorithms: shortest path routing",
+            "Flooding",
+            "Hierarchical routing",
+            "Broadcast",
+            "Multicast",
+            "distance vector routing",
+            "Congestion Control Algorithms",
+            "Quality of Service Internetworking",
+            "The Network layer in the internet"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Transport Services, Elements of Transport protocols, Connection management, TCP and UDP protocols. Application Layer - Domain name system, SNMP, Electronic Mail",
+            "the World WEB, HTTP, Streaming audio and video"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

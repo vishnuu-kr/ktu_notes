@@ -1,0 +1,45 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to NLP:-NLP Tasks and Applications",
+            "Language-Building Blocks",
+            "Challenges of NLP",
+            "Machine Learning for NLP - Neural Networks, Transformers",
+            "Approaches to NLP - Transformer-Based NLP, Pre-trained Language Models",
+            "Ethics in NLP"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Pre-Processing Text Representation & Information Extraction:-NLP System Pipeline - Modern Approaches, Including Transfer Learning",
+            "Text Representation - Word Embeddings (Word2Vec, GloVe, FastText), Transformer-based Embeddings (BERT, GPT). Advanced Feature Engineering techniques:-Information Extraction - Deep Learning approaches, Relation Extraction using Transformers",
+            "Advanced NER techniques"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Text Classification, Relation Detection, and Information Retrieval:-Text Classification - Transformer-Based Classifiers, Fine-Tuning Pre-Trained Models",
+            "Relation Detection and Classification - Supervised and Lightly Supervised Approaches, Evaluation of Relation Analysis Systems",
+            "Information Retrieval - Term weighting, Document scoring, Inverted Index, Neural IR, Transformer-Based IR models, Evaluation of IR Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "QA Systems, Machine Translation, and Large Language Models:-Question-Answering Systems - Transformer-Based QA models, Open-Domain QA",
+            "Machine Translation - Neural Machine Translation (NMT), Transformer-Based NMT, Multilingual NLP Models",
+            "Introduction to Large Language Models - GPT-3, GPT-4, and their applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

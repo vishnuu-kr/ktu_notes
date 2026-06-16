@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basics of Randomization - Introduction to randomized algorithms,\nProbabilistic analysis and expectations, Benefits and applications of\nrandomization. (Text 1 - Chapter 1)\nProbability Review - Basic probability theory, Random variables and\ndistributions, Linearity of expectation. (Text 2 - Chapters 1, 2)\nBasic Randomized Algorithms - Randomized quicksort, Randomized\nselection, Randomized data structures. (Text 3 - Sections 5.3, 9.2)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Randomized Graph Algorithms - Randomized algorithms for graph problems,\nMinimum cut problems, Randomized algorithms for network flows. (Text 1 -\nChapters 5, 6)\nHashing and Randomized Data Structures - Universal and perfect hashing,\nSkip lists, Bloom filters. (Text 3 - Chapter 11)\nMarkov Chains and Random Walks - Introduction to Markov chains, Random\nwalks on graphs, Applications in randomized algorithms. (Text 2 -\nChapters 6, 7)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "The Probabilistic Method - Basics of the probabilistic method, Linearity of\nexpectation, First and second-moment methods. (Text 4 - Chapters 1, 2)\nChernoff Bounds and Concentration Inequalities - Markov's inequality,\nChebyshev's inequality, Chernoff bounds, Applications of concentration\ninequalities. (Text 1 - Chapter 4)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Randomized Rounding and Martingales - Randomized rounding techniques,\nApplications in approximation algorithms, Introduction to martingales,\nAzuma's inequality. (Text 5 - Chapter 14)\nRandomized Complexity Classes - RP, ZPP, and BPP, Relationships between\ncomplexity classes, Amplification and derandomization techniques\n(Text 6 - Chapter 7)",
+    "contact_hours": "9"
+  }
+]

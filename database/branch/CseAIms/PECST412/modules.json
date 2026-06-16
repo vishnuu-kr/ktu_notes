@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Foundations of Pattern Recognition\nIntroduction to Pattern Recognition - Definitions and applications of\npattern recognition, Overview of pattern recognition systems (Text 2,\nChapter 1)\nStatistical Pattern Recognition - Bayes decision theory, Parametric methods:\nMaximum likelihood estimation, Bayesian estimation (Text 1, Chapters 1, 2)\nNon-Parametric Methods - k-Nearest neighbors, Parzen windows  (Text 2,\nChapter 4)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Feature Extraction and Selection\nFeature Extraction - Importance of feature extraction, Techniques for feature\nextraction: PCA, LDA, Feature extraction in image and signal processing\n(Text 1, Chapter 3)\nFeature Selection - Importance of feature selection, Techniques for feature\nselection: filter methods, wrapper methods, Feature selection criteria (Text 2,\nChapter 6)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Supervised and Unsupervised Learning\nSupervised Learning - Basics of supervised learning, Linear classifiers:\nperceptron, logistic regression, Support vector machines (SVM) (Text 1,\nChapter 4)\nUnsupervised Learning - Basics of unsupervised learning, Clustering\ntechniques: k-means, hierarchical clustering, Gaussian Mixture Models\n(GMM) (Text 1, Chapter 9)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Advanced Topics and Applications\nHidden Markov Models (HMMs) - Basics of HMMs, HMM for sequence\nmodeling, Applications of HMMs in speech and language processing (Text 1,\nChapter 13)\nEnsemble Methods - Basics of ensemble methods, Bagging, boosting, and\nrandom forests, Applications and case studies (Text 1, Chapter 14)\nApplications and Case Studies - Real-world applications of pattern\nrecognition, Case studies in image and speech recognition, Future trends in\npattern recognition (Text 2, Chapter 10)",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Vehicle fundamentals – general description, vehicle resistances, tractive\neffort, vehicle performance - maximum speed, power, gradability, etc.\nElectric vehicles – introduction, history, social and environmental\nimportance of hybrid and electric vehicles, Types of EVs.\nEV transmission – configurations – front wheel drive and rear-wheel drive.\nTraction\nmotor\ncharacteristics\nand\ncomparison\nwith\nIC\nengine\ncharacteristics.\nHybrid electric vehicles – concept, architecture, classification, series,\nparallel, series-parallel and complex, hybrid drivetrains, the configuration of\nthe series hybrid electric drive train, the configuration of the parallel hybrid\nelectric drive train.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Energy storage – Battery basics, battery parameters, battery technologies -\nLead-Acid\nBattery,\nNickel-Cadmium\nBattery,\nNickel-Metal-Hydride\n(NiMH) Battery, Li-Ion Battery, Li-Polymer Battery.\nAlternative energy sources – fuel cell, supercapacitors and ultracapacitors,\nflywheel (Overview only).\nBattery pack design, battery management system (BMS), sensors used in\nBMS, thermal management systems of battery, battery safety standards in\nIndia, AIS 156 (2020) and AIS 038 Rev (2020).\nEV charging – types, layout of AC and DC chargers, different charging\nprotocols-CHAdeMO, CCS2, GB/T, battery swapping.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Electric propulsion system – electric motors, classification, induction motors,\nbasic principles and construction, torque–slip characteristics.\nPermanent magnets, ferrite, SmCo and NdFeB types, PM motors-BLDC,\nPMSM, basic principles and construction, switched reluctance motors\n(SRM), basic principles and construction.\nRegenerative braking – principle, block diagram.\nGearbox, selection of gear ratio, Different kinds of gearboxes.\nEV motor sizing – need of gearbox.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Motor controllers – motor drive components, power electronic switches,\nMOSFET and IGBT, bidirectional switch.\nInduction motor controls – constant speed/frequency control, variable\nDC/AC inverter with sinusoidal PWM, field orientation control.\nBLDC motor controls – torque control and speed control methods, principles\nand block diagrams.\nSRM drive converter - classical half-bridge converter.\nVehicle Sensors specific to EV sensors interfaced to the ECU’s in the vehicle\nnetwork.\nController Area Networking (CAN) – frame types of CAN, layered\narchitecture of CAN.\nVehicle Validation - 6 levels of EV validations.\nAdvances in electric and hybrid vehicle technology – autonomous driving,\nconnected vehicles (overview only).",
+    "contact_hours": "9"
+  }
+]

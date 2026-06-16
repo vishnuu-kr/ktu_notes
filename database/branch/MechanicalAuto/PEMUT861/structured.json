@@ -1,0 +1,70 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Automotive Navigation Systems: - Introduction",
+      "Recent technology developments in navigation system. Key components",
+      "Navigation data standards. GPS based navigation in autonomous vehicles - Introduction",
+      "Basic architecture of autonomous GPS vehicle",
+      "distance",
+      "and direction calculation",
+      "Global Navigation Satellite System (GNSS) based positioning in autonomous vehicles- introduction",
+      "key features",
+      "components",
+      "GPS vs GNSS"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Vision based navigation systems- Introduction",
+      "Lane positioning techniques",
+      "Lidar based positioning techniques",
+      "camera-based positioning techniques. Position",
+      "speed",
+      "heading navigation with vision measurements. Basic sensors used in vehicle navigation- Speed estimation sensors- types",
+      "principle and working. Accelerometers - types",
+      "working",
+      "GPS sensors",
+      "Wheel speed sensors",
+      "Heading sensors",
+      "Yaw rate gyroscopes. Laser radar principle and working - Non contact ground velocity sensors. Road surface recognition sensor. Looking out sensors and looking in sensors"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Vehicle dynamics estimation using GPS- Side slip- effects",
+      "calculation",
+      "tyre parameters. Vehicle control using GNSS/GPS- Introduction",
+      "techniques",
+      "Speed controlling techniques",
+      "Speed controllers used in vehicles- description. Vehicle steering control",
+      "yaw rate controller",
+      "lateral movement controller",
+      "lateral position controller"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Vision in cars - Lane recognition",
+      "Traffic sign recognition",
+      "Stereo vision",
+      "road recognition",
+      "Object recognition - Traffic lights and signals",
+      "pedestrian recognition- basic principle",
+      "architecture and working. Building intelligent systems in new generation cars. Communication technologies in vehicle information system - Vision for ITS communication - ITS communication in automobiles",
+      "vehicle to Vehicle and road-vehicle communication systems- basic principle",
+      "working. Relative merits and demerits"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

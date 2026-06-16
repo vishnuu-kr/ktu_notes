@@ -1,0 +1,82 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Electric and Hybrid Vehicles: - History and Evolution",
+            "social and environmental importance. Types of Electric and Hybrid vehicles",
+            "Basic Components and Architecture of Electric vehicles and Hybrid vehicles. Basic component of an electric and hybrid vehicles",
+            "Fundamentals of Hybrid electric vehicles: - Types",
+            "Induction motors and drives",
+            "configuration",
+            "controls",
+            "and applications. Permanent magnet motors-neodymium and ferrite and samarium cobalt types and drives configuration",
+            "Brushless DC Motor (BLDC",
+            "Interior Permanent magnet (IPM",
+            "Switch reluctance motors (SRM) W-Axial",
+            "3 phase Induction controls and its applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Batteries and Storage devices: - Types of batteries - Lithium ion",
+            "Nickel Metal hydride",
+            "Sodium based batteries",
+            "Metal- air batteries",
+            "Supercapacitors and flywheels",
+            "Battery charging strategies",
+            "charge equalisation. Fuel cells and applications: - Basic principle of Hydrogen fuel cell",
+            "practical efficiency of fuel cells. Motor Controllers/Inverters",
+            "Selection of automotive IGBT and MOSFET’s",
+            "Field Oriented Control (FOC) & Space Vector Pulse Width Modulation (SVPWM) of Motors",
+            "Gearbox",
+            "selection of gear ratio",
+            "Different kinds of gearboxes",
+            "Gearbox optimisation",
+            "Transmission",
+            "Different kinds of transmission"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "EV charging infrastructure and technology: - Fast charger",
+            "DC charger",
+            "AC charger",
+            "Wireless charging and Battery swapping",
+            "Different charging protocols CHAdeMO",
+            "CCS2",
+            "GB/T",
+            "Customised charging protocols",
+            "Battery Box Engineering",
+            "Battery Management Bus Bar design",
+            "Battery Pack Design",
+            "Various Sensors and Sensing methods",
+            "Battery Safety Standards",
+            "power electronics - Inverters",
+            "converters",
+            "and controllers",
+            "Thermal Management system of power electronics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Vehicle Validation",
+            "System Integration",
+            "Controller Area Networking (CAN) and Vector Tools Simulation",
+            "Vehicle Sensors specific to EV sensors interfaced to the ECUs in the vehicle network",
+            "Hardware & Software Interfaces and Implementation challenges and examples to solve",
+            "Chassis design",
+            "Battery Positioning"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

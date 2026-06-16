@@ -1,0 +1,335 @@
+Course Code 
+PECBT414 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Familiarity with basics in linear 
+algebra, probability and Python 
+programming. 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. This course enables the learners to understand the fundamental concepts and algorithms in 
+machine learning. The course covers the standard and most popular supervised learning 
+algorithms such as linear regression, logistic regression, decision trees, Bayesian learning & the 
+naive Bayes algorithm, support vector machines& kernels, basic clustering algorithms and 
+dimensionality reduction methods. This course helps the students to provide machine learning 
+based solutions to real world problems 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Overview of machine learning 
+Machine learning paradigms-supervised, semi-supervised, unsupervised, 
+reinforcement learning. 
+Basics of parameter estimation - maximum likelihood estimation(MLE) and 
+maximum a posteriori estimation(MAP). Introduction to Bayesian 
+formulation. 
+8   
+2 
+Supervised and Unsupervised Learning 
+Regression - Linear regression with one variable, Linear regression with 
+multiple variables, solution using gradient descent algorithm and matrix 
+method, basic idea of over fitting in regression. Linear Methods for 
+Classification- Logistic regression, Perceptron, Naive Bayes, and Decision 
+tree algorithm ID3. 
+10   
+
+ 
+ 
+Clustering - Similarity measures, Hierarchical Agglomerative Clustering, K-
+means partitional clustering, Expectation maximization (EM) for soft 
+clustering. Dimensionality reduction –Principal Component Analysis, factor 
+Analysis, Multidimensional scaling, Linear Discriminant Analysis. 
+3 
+Neural Networks (NN) and Support Vector Machines (SVM) 
+NN - Multilayer feed forward network, Activation functions (Sigmoid, 
+ReLU, Tanh), Back propagation algorithm. SVM - Introduction, Maximum 
+Margin Classification, Mathematics behind Maximum Margin 
+Classification, Maximum Margin linear separators, soft margin SVM 
+classifier, non-linear SVM, 
+Kernels for learning non-linear functions, polynomial kernel, Radial Basis 
+Function(RBF). 
+9 
+4 
+ Classification Assessment and Genetic Algorithms 
+Classification Performance measures - Precision, Recall, Accuracy, F-
+Measure, Receiver Operating Characteristic Curve(ROC), Area Under 
+Curve(AUC. Bootstrapping, Cross 
+Validation, Ensemble methods, Bias-Variance decomposition. Case Study: 
+Develop a classifier for face detection. 
+Motivation, Genetic Algorithms: Representing Hypotheses, Genetic 
+Operator, Fitness Function and Selection, An Illustrative Example, 
+Hypothesis Space Search, Genetic Programming 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Micro project 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Illustrate Machine Learning concepts and basic parameter estimation 
+methods 
+K3 
+CO2 
+Demonstrate supervised learning and unsupervised concepts  
+K3 
+CO3 
+Illustrate the concepts of Multilayer neural network and Support 
+Vector Machine  
+K3 
+CO4 
+Solve real life problems using appropriate machine learning models 
+and evaluate the performance measures  
+K3 
+CO5 
+   Design, implement, and evaluate genetic algorithms and genetic 
+programming solutions for complex optimization and search problems. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Machine 
+Learning.  
+Ethem Alpaydin 
+MIT Press 
+2nd edition, 
+2010 
+2 
+Data Mining and Analysis: 
+Fundamental Concepts and 
+Algorithms 
+Mohammed J. Zaki and 
+Wagner Meira 
+Cambridge 
+University Press 
+First South 
+Asia 
+edition, 
+2016. 
+3 
+Python Data Science Handbook 
+Jake VanderPlas 
+O'Reilly Media 
+2016 
+4 
+ Machine Learning,  
+Tom Mitchell 
+McGraw-Hill 
+ 
+1997 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Neural Networks for Pattern 
+Recognition 
+Christopher Bishop. 
+Oxford University 
+Press 
+1995. 
+ 
+2 
+Machine Learning: A 
+Probabilistic Perspective, 
+Kevin P. Murphy 
+MIT Press. 
+ 
+2012 
+3 
+The Elements Of Statistical 
+Learning,  
+Trevor Hastie, Robert 
+Tibshirani, Jerome 
+Friedman, 
+ 
+Second 
+edition 
+Springer 
+2007. 
+4 
+Elements of Machine Learning, 
+P. Langley 
+Morgan Kaufmann 
+1995. 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+ 
+ 
+3 
+  
+3 
+  
+3 
+  
+3 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+  
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+ 
+ 
+3 
+  
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+CO5 
+3 
+3 
+3 
+ 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+SEMESTER S4 
+SIGNALS AND SYSTEMS

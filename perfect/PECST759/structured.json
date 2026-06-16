@@ -1,0 +1,45 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Parallel Computing - Overview of parallel computing and its importance, Types of parallelism: data parallelism, task parallelism, Parallel computing architectures: SIMD, MIMD, shared memory, distributed memory. Parallel Programming Models - Parallel programming models: Parallel Random Access Machine (PRAM), bulk synchronous parallel (BSP), LogP, Shared memory vs. distributed memory models",
+            "Performance Metrics - Performance metrics for parallel algorithms: speedup, efficiency, scalability, Amdahl's Law and Gustafson's Law"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Parallel Algorithms for Basic Operations - Parallel algorithms for matrix addition, matrix multiplication, and reduction, Parallel prefix sum (Parallel scan) algorithms. Case Studies of Parallel Addition, Multiplication, Reduction, and Prefix Sum in Modern Computing Systems",
+            "Parallel Sorting Algorithms -Parallel sorting algorithms: parallel merge sort, parallel quicksort, bitonic merge sort, Comparison of parallel sorting techniques"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Parallel algorithms for minimum spanning tree (MST) and shortest path. Parallel Search Algorithms - Parallel search algorithms: parallel binary search",
+            "parallel search trees",
+            "Applications and analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Parallel Programming with OpenMP - Introduction to OpenMP",
+            "Parallel programming constructs in OpenMP",
+            "Performance tuning and optimization Parallel Programming with MPI - Introduction to MPI",
+            "Message passing model and MPI basics",
+            "Advanced MPI features and applications Parallel Numerical Algorithms - Solving linear systems: parallel Gaussian elimination",
+            "parallel LU decomposition",
+            "Parallel algorithms for eigenvalue problems",
+            "Applications and analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

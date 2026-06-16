@@ -1,0 +1,328 @@
+Course Code 
+PEICT633 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PEICT 522 
+Biomedical 
+Instrumentation
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Understand the fundamental concepts and characteristics of biomedical signals. 
+2. Understand signal acquisition systems and advanced signal processing techniques. 
+3. Apply signal processing knowledge to practical biomedical engineering challenges, 
+including cardiological and neurological signal processing. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Biomedical Signals 
+Introduction to Biomedical Signals, Characteristics of Biomedical Signals, 
+Time-domain vs. frequency-domain representation 
+Acquisition of Biomedical Signals 
+Signal Acquisition Systems,  acquisition of biomedical signals like ECG, 
+EEG and EMG , Analog-to-digital conversion (ADC),  
+Nyquist theorem and its importance in signal acquisition, Aliasing,  Signal 
+conversion circuits 
+ 
+9 
+2 
+The Fourier transform, Correlation, Convolution, Power spectrum estimation 
+Adaptive filters: Principle of noise canceller model, 60 Hz adaptive 
+cancelling using a sine wave model 
+Adaptive and optimal filtering ‐ Modelling of Biomedical signals ‐ Detection 
+of biomedical signals in noise ‐ removal of artifacts of one signal embedded 
+in another ‐ Maternal‐Fetal ECG  
+Signal Averaging: Basics of signal averaging, signal averaging as a digital 
+filter, a typical averager. 
+9 
+
+ 
+ 
+Turning point algorithm, AZTEC algorithm, CORTES algorithm, Fan 
+algorithm, Huffman coding 
+3 
+Cardiological Signal Processing 
+Basics of ECG, Anatomy of the heart and electrical activity 
+Basics of ECG waveform and lead systems,  Methods and devices for ECG 
+signal acquisition, Noise & artifacts, Preprocessing of ECG Signals Noise 
+removal and baseline correction, Feature Extraction-detection of P, QRS, and 
+T waves, Heart rate variability analysis 
+Advanced ECG Processing 
+ Arrhythmia 
+Detection- 
+Algorithms 
+for 
+arrhythmia 
+detection 
+and 
+classification 
+9 
+4 
+Neurological signal processing  
+ Basics of EEG and its characteristics, Brain anatomy and electrical 
+activity, basics of EEG waveform and electrode placement, methods and 
+devices for EEG signal acquisition, detection of EEG rhythms, template 
+matching for EEG spike and wave detection 
+Preprocessing of EEG Signals- Noise removal and artifact reduction 
+Feature Extraction- Time-frequency analysis, power spectral density 
+ Advanced EEG Processing 
+ Brain-Computer Interface (BCI), Introduction to BCI and its applications 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the basic concepts and characteristics of biomedical signals 
+and acquisition techniques 
+K2 
+CO2 
+Apply the concepts of  Fourier transform, Correlation, Convolution and 
+Power spectrum estimation in biomedical signals and explain the 
+concepts of adaptive filtering and signal averaging 
+K3 
+CO3 
+Perceive the concepts and methods used for cardiological signal 
+processing   
+K2 
+CO4 
+Perceive the concepts and methods used for neurological signals 
+K2 
+CO5 
+Implement the methods learnt in the subject using advanced signal 
+processing tools 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+2 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+2 
+ 
+ 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Biomedical Signal Analysis 
+Rangayyan 
+Wiley  
+3rd, 2024 
+2 
+Biomedical Signal Processing 
+& Signal Modeling 
+Bruce 
+Wiley 
+1st, 2001 
+3 
+Discrete time Signal Processing 
+Alan V Oppenheim, 
+Schafer 
+Pearson 
+3rd, 2014 
+4 
+Bioelectrical Signal Processing 
+in Cardiac & Neurological 
+Applications 
+ Sörnmo 
+Elsevier 
+1st, 2005 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Biomedical 
+Engineering 
+Enderle 
+Elsevier 
+2nd, 2005 
+2 
+Biomedical Signal Processing: 
+Principles and techniques 
+D.C.Reddy 
+Tata McGraw Hill 
+1st, 2005 
+3 
+Biosignal and Biomedical 
+Image Processing 
+Semmlow, Marcel 
+Dekker 
+Taylor & Francis 
+3rd,2014 
+4 
+Biomedical Signal Processing 
+A Modern Approach 
+Sergio Cerutti, Carrlo 
+Marchesi  
+CRC press 
+1st, 2023 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+ 
+https://youtu.be/ezfPl8kUdbg?si=QYbbxDPh0vjkPun1 
+
+ 
+ 
+SEMESTER S6 
+COMMUNICATION SYSTEM AND TELEMETRY

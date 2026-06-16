@@ -1,0 +1,49 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Review of Basics Concepts Review of linear algebra",
+            "Principles of quantum mechanics",
+            "Review of Information theory",
+            "Review of Theory of Computation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to Quantum Information Qubit - Bloch sphere representation",
+            "Multiple qubit states",
+            "Quantum logic gates - single qubit and multi-qubit",
+            "Quantum circuits",
+            "Density matrix",
+            "Quantum entanglement"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Quantum Algorithms",
+            "Simple Quantum Algorithms, Quantum Integral Transforms, Grover’s Search Algorithm and Shor’s Factorization Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Quantum Communication: -Von Neumann entropy",
+            "Holevo Bound",
+            "Data compression",
+            "Classical information over noisy quantum channels",
+            "Quantum information over noisy quantum channels",
+            "Quantum Key Distribution",
+            "Quantum Communication protocols"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to R:The R Environment – Overview, Command Line\nInterface, and Batch processing. R Packages. Basic Data Types – Vectors,\nLists, Data Frames, Matrices, and Arrays. Control Statements – If-Else,\nSwitch, For loops, While loops. Functions – Writing and using functions,\nScope of variables, Function arguments, Returning values.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Data Import, Cleaning, and Preprocessing:Data Import and Export –\nReading and writing data from/to Text files, CSV, Excel, and other software.\nDatabase Connections – Connecting to databases and importing data using\npackages. Handling Missing Data – NA, NULL values. Data Cleaning and\nPreprocessing – Detecting and removing duplicates, Handling outliers, Data\ntransformation and normalization, combining data sets, Binning Data,\nSubsets, summarizing functions.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Statistical Analysis and Data Visualization:Introduction to Data analytics,\nSummary statistics, Statistical Tests – Continuous Data and Discrete Data.\nCommon distributions-type arguments. Probability distributions – Normal\ndistributions.\nR Graphics – Overview, Customizing Charts, Graphical parameters, Basic\nGraphics functions. Lattice Graphics – Lattice functions, Customizing Lattice\nGraphics, Ggplot.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Machine Learning with R:Basic concepts, Supervised vs. Unsupervised\nlearning, Simple regression, and classification models. Building linear models\n- model fitting, predict values using models, Analyzing the fit, Refining the\nmodel. Regression – Types, Unusual observation and corrective measures,\nComparison of models.\nCase Studies and Applications – Real-world applications of R in various\nfields like finance, healthcare, and social sciences.",
+    "contact_hours": "9"
+  }
+]

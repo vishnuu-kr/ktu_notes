@@ -1,0 +1,326 @@
+Course Code 
+PCAMT302 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives 
+1. To teach different machine learning paradigms and parameter estimation methods. 
+2. To enable the learner to apply the various algorithms of supervised learning in real world contexts 
+and analyse the overfitting and underfitting issues in machine learning models. Also equip them 
+with various ensemble mechanisms. 
+3. To impart the knowledge on how to evaluate the different performance measures for analysing the 
+performance of classification models. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Machine Learning Paradigms:-  
+Supervised Learning, Unsupervised Learning,  Semi Supervised Learning,  
+Reinforcement Learning 
+Parameter Estimation Methods:-  
+Maximum Likelihood Estimation (MLE), Maximum Aposteriori Estimation 
+(MAP), Bayes Estimation, Least Square Estimation (LS),  Minimum Mean 
+Square Estimation (MMSE),  The Gradient Descent Method and its variants 
+(Simple Gradient Descent Method, Stochastic Gradient Method, Batch 
+Gradient Method), Illustrative examples of parameter estimation using different 
+methods 
+12 
+2 
+Supervised Learning Models:-  
+Regression - Regression Models (Simple Regression, Multivariable linear 
+Regression, Polynomial Regression, Logistic Regression), Illustrative 
+examples of designing regression models;  
+Decision Trees - Working Principle, Decision Tree formation using ID3 
+Algorithm,   The Classification and Regression Trees Algorithm (CART),  
+Illustrative examples on designing decision trees;  
+Overfitting and Underfitting :- Bias and Variance, Bias-Variance Trade-off, 
+Regularization (Ridge, Lasso and Elastic Net Regularization techniques) 
+12 
+
+ 
+ 
+3 
+More Supervised Learning Methods:- 
+Support Vector machines (SVM) - Maximum Margin Classification,  
+Mathematics behind Maximum Margin Classification, Hard Margin SVM, Soft 
+Margin SVM, Non-Linear SVM, The Kernel Trick, Different Kernel Functions 
+(Linear Kernel, Polynomial Kernel, RBF Kernel, Sigmoid Kernel); 
+K-Nearest Neighbour Classifier (KNN):-  Working Principle, Illustrative 
+examples on designing KNN Classifiers; 
+Naive Bayes Classifier - Working Principle, Types of Naive Bayes Classifiers, 
+Illustrative examples. 
+12 
+4 
+Ensemble Learning:-   
+Basic Techniques (Voting, Simple and Weighted Averaging Techniques), 
+Advanced Techniques (Bagging, Boosting, Stacking) - The Random Forest 
+Classifier 
+Assessment of Classification Models:-   
+Performance measures- Confusion Matrix, Accuracy,  Precision, Recall, F1-
+Score,  Receiver Operating Characteristics Curve (ROC), Area Under the Curve 
+(AUC), Illustrative examples on Classification model assessment 
+8 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks. 
+● Two questions will be given from each module, out 
+of which 1 question should be answered. 
+● Each question can have a maximum of 3 sub 
+divisions. 
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain different machine learning paradigms and parameter estimation 
+methods. 
+K2 
+CO2 
+Demonstrate the various algorithms of supervised learning. 
+K3 
+CO3 
+Illustrate the notions of bias, variance and analyse the overfitting and 
+underfitting issues in machine learning models. 
+K2 
+CO4 
+Evaluate the different performance measures for analysing the performance 
+of different classification models. 
+K4 
+CO5 
+Make use of different ensembling techniques to form better machine learning 
+models than conventional ones. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Machine Learning  
+Tom M. Mitchell 
+Tata McGraw Hill 
+1/e, 2017 
+2 
+The Elements of Statistical 
+Learning 
+Data 
+Mining, 
+Inference, and Prediction 
+Trevor Hastie Robert 
+Tibshirani Jerome 
+Friedman 
+Springer  Publishers 
+2/e, 2017 
+3 
+Understanding 
+Machine 
+Learning: From Theory 
+to 
+Algorithms 
+Shai Shalev-Shwartz,  
+Shai Ben-David 
+Cambridge University 
+Press 
+1/e, 2014 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction 
+to 
+Machine 
+Learning 
+Ethem Alpaydin 
+MIT Press 
+3/e, 2015 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No.
+Link ID  
+1 
+https://youtu.be/W0UPlwETZWM?si=OR-iRu9pybEhVYsJ (MLE Estimator) 
+ 
+https://youtu.be/qpGo87YV1R0?si=DvOiuRj973ogvhak (MAP Estimator) 
+2 
+https://youtu.be/MXTsSXIa4i0?si=QtAToZt5EbtQ6914 (Linear Regression) 
+ 
+https://youtu.be/d_bynTkE9yY?si=2Q2ZlVxSjdVsQWRO (Logistic Regression) 
+ 
+https://youtu.be/yG1nETGyW2E?si=CKpG_MY4PqsQjddn (Decision Trees) 
+3 
+https://youtu.be/SRVswRH5Q7E?si=JViz8hye8WIzXjNe (SVM) 
+ 
+https://youtu.be/2ATqoglcHus?si=6h1LTNeKsuHWHfwP (KNN) 
+ 
+https://youtu.be/uQSn3oLVu-8?si=1XnPc-YZco0HGqz7 (Naive Bayes) 
+4 
+https://youtu.be/foWzsWFAmas?si=wG0L6iB6G_3Y3vJc (Ensemble Methods) 
+ 
+https://youtu.be/Sowy3iZyRVk?si=k7OEthBZU6t9S4TJ (Performance Measures)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S3 
+DATA STRUCTURES AND ALGORITHMS  
+(Common to CS/CA/CM/CD/CR/AI/AM/AD/CB/CN/CC/CU/CI/CG)

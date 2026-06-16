@@ -1,0 +1,75 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Definition and characteristics: Volume",
+      "Velocity",
+      "Variety",
+      "Veracity",
+      "and Value",
+      "Importance of Big Data in modern industries",
+      "Security Challenges in Big Data:- Data breaches",
+      "privacy concerns",
+      "and compliance issues",
+      "The CIA triad in the context of Big Data. Big Data Architecture: Hadoop ecosystem: HDFS",
+      "Map Reduce",
+      "YARN",
+      "Apache Spark: Resilient Distributed Datasets (RDDs) and Data Frames",
+      "NoSQL databases: Cassandra",
+      "MongoDB. Case Studies: Real-world examples of Big Data security breaches and their implications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Authentication and Authorization: Kerberos",
+      "LDAP",
+      "Access Control Frameworks: Apache Ranger",
+      "Apache Sentry",
+      "Data Encryption: AES",
+      "SSL/TLS for data in transit and at rest. Data Privacy Issues -Overview of data privacy in Big Data: PII",
+      "sensitive data",
+      "and business data. Anonymization Techniques: - Techniques like k-anonymity",
+      "l-diversity",
+      "t-closeness",
+      "Differential Privacy: -Concept",
+      "mechanisms",
+      "and applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Legal and Compliance Frameworks:- Overview of GDPR",
+      "CCPA",
+      "HIPAA",
+      "and their implications for Big Data",
+      "Threat Landscape: - Common threats: Insider threats",
+      "APTs",
+      "ransomware",
+      "and DDoS attacks in Big Data. Vulnerabilities: - Vulnerabilities in distributed frameworks: Hadoop",
+      "Spark",
+      "and NoSQL databases",
+      "Security flaws in data aggregation and integration processes. Case studies on compliance challenges and solutions"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "STRIDE",
+      "DREAD models for Big Data systems. Security Best Practices: - Data masking",
+      "tokenization",
+      "and maintaining audit trails",
+      "Secure coding practices for Big Data applications. Security Monitoring and Incident Response:- Security Information and Event Management (SIEM) for Big Data",
+      "Incident response strategies for Big Data breaches"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

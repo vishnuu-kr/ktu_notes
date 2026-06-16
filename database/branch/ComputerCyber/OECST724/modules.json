@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Computer Networks:-\nIntroduction, Network Components, Network Models, ISO/OSI, TCP/IP,\nPhysical Topology,Overview of the Internet, Protocol layering; Physical Layer-\nTransmission media (copper, fiber, wireless), Datagram Networks, Virtual\nCircuit networks, Performance.",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Data Link Layer:-\nError Detection and Correction - Introduction, Hamming Code, CRC,\nChecksum; Framing-Methods, Flow Control- Noiseless Channels, Noisy\nChannels; Medium Access Control- Random Access, Controlled Access; Wired\nLANs - IEEE Standards, Ethernet, IEEE 802.11;",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Network Layer:-\nLogical Addressing- IPv4 and IPv6 Addresses; Internet Protocol- IPV4 and\nIPv6; Unicast Routing Protocols- Distance Vector Routing, Link State Routing\nMulticast Routing Protocols.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Transport Layer:-\nTransport Layer Protocols- UDP, TCP; Congestion Control- Open Loop Vs\nClosed Loop Congestion Control, Congestion Control in TCP; Application\nLayer - Application Layer Paradigms, Client-server applications, World Wide\nWeb and HTTP, FTP. Electronic Mail, DNS; Peer-to-peer paradigm - P2P\nNetworks.",
+    "contact_hours": "8"
+  }
+]

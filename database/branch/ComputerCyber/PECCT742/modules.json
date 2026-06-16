@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction-Intrusion Detection and Prevention Systems, IDPS terminology,\nNetwork attacks- Probes, Privilege Escalation Attacks, Denial of Service\n(DoS) and Distributed Denial of Service (DDoS) Attacks, Worms Attacks,\nRouting Attacks, Why use an IDPS, Types of IDPS, IDPS Detection methods-\nSignature-Based IDPS, Statistical Anomaly-Based IDPS, Stateful Protocol\nAnalysis IDPS, Log File Monitors, IDPS Response Options Selecting IDPS\nApproaches and Products, Strengths and Limitations of IDPSs.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "IDPS Control Strategies-Centralized Control Strategy, Fully Distributed\nControl Strategy, Partially Distributed Control Strategy, IDPS Deployment-\nDeploying Network-Based IDPSs, Deploying Host Based IDPSs, Measuring\nthe Effectiveness of IDPSs, Intrusion Detection systems-How the IDS\nWatches Your Network -Packet Sniffing, Log Parsing, System Call\nMonitoring, Filesystem Watching, What the IDS Does When It Finds an\nAttack Attempt, Passive Response, Active Response, Analyzing Your IDS\nDesign and Investment, False Positives versus False Negatives.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "IDPS Technologies-components and architecture, Network architectures,\nsecurity capabilities, prevention capabilities, Network based IDPS,\nNetworking overview, components and architecture, Security Capabilities,\nInformation Gathering Capabilities, Logging Capabilities, Detection\nCapabilities, Types of Events Detected, Detection Accuracy , Tuning and\nCustomization,\nTechnology\nLimitations,\nPrevention\nCapabilities,\nImplementation, Wireless IDPS, WLAN Standards, WLAN Components,\nThreats against WLANs, Components and Architecture, Sensor Locations,\nInformation Gathering Capabilities, Types of Events Detected, Prevention\nCapabilities.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Host-Based IDPS-Components and Architecture, Typical Components,\nNetwork Architectures, Agent Locations, Host Architectures, Security\nCapabilities, Logging Capabilities, Detection Capabilities, Types of Events\nDetected,\nTechnology\nLimitations,\nPrevention\nCapabilities,\nOther\nCapabilities, Implementation, The Need for Multiple IDPS Technologies,\nDirect IDPS Integration, Indirect IDPS Integration, Network Forensic\nAnalysis Tool (NFAT) Software, Anti-Malware Technologies, Firewalls and\nRouters, Honeypots.\nIDPS Detection Approaches-Misuse detection-pattern matching, Rule based\ntechniques,state based techniques, Anomaly Detection-Advanced Statistical\nModels, Rule based Techniques, Biological Models, Learning Models,\nSpecification-based\nDetection,\nHybrid\nDetection,\nArchitecture\nand\nImplementation-Centralized, Distributed-Intelligent Agents,Mobile Agents,\nCooperative Intrusion Detection",
+    "contact_hours": "11"
+  }
+]

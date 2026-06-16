@@ -1,0 +1,59 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic Structure of Computers",
+            "Functional Units",
+            "Basic Operational Concepts - Bus Structures. Memory Locations and Addresses - Memory Operations, Instructions and Instruction Sequencing, Addressing Modes. Basic Processing Unit",
+            "Fundamental Concepts",
+            "Instruction Cycle",
+            "Execution of a Complete Instruction - Single Bus and Multiple Bus Organization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Inter Register Transfer",
+            "Arithmetic, Logic and Shift Micro-Operations. Processor Logic Design",
+            "Processor Organization",
+            "Arithmetic Logic Unit - Design of Arithmetic Circuit",
+            "Design of Logic Circuit",
+            "Design of Arithmetic Logic Unit",
+            "Status Register",
+            "Design of Shifter",
+            "Processor Unit",
+            "Design of Accumulator (Basic Concept Only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Hardwired Control - Microprogrammed Control - Microinstructions",
+            "Microprogram Sequencing. Arithmetic Algorithms: Signed-Operand Multiplication",
+            "Booth Algorithm",
+            "Fast Multiplication - Bit Pair Recoding of Multipliers. Pipelining: Basic Principles",
+            "Classification of Pipeline Processors",
+            "Instruction and Arithmetic Pipelines (Design Examples Not Required)",
+            "Hazard Detection and Resolution"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Types of Memory (Concepts Only)",
+            "Virtual Memory",
+            "Content Addressable Memory",
+            "Cache Memories - Mapping Functions. I/O Organization: Characteristics of I/O Devices",
+            "Data Transfer Schemes - Programmed Controlled I/O Transfer",
+            "Interrupt Controlled I/O Transfer. Organization of Interrupts - Vectored Interrupts - Servicing of Multiple Input/Output Devices - Polling and Daisy Chaining Schemes. Direct Memory Access (DMA)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

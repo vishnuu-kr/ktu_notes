@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Distributed System Models and Enabling Technologies:-\nThe age of internet computing:- – High performance and high throughput\ncomputing, Centralized, Parallel, Distributed and Cloud Computing. Design\nobjectives of HPC and HTC. IoT and Cyber Physical systems.\nTechnologies for Network-Based systems:- Multicore CPUs and\nMultithreading Technologies. GPU Computing. Virtual Machines.\nSystem models for distributed and cloud computing:- Clusters, Grids,\nP2P Systems, Clouds.",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Computer Clusters :-\nClustering for massive parallelism:- Design objectives, Design Issues –\nEnsuring high availability, Cluster families. Cluster Architecture. GPU\nClusters – Components.\nComputer Clusters – Design principles – Single  System Image features.\nHigh availability through redundancy. Fault tolerant cluster configurations,\ncheckpoint and recovery techniques.\nCluster Job and Resource Management:- – Job Scheduling methods, Job\nmanagement system – administration, job types, migration schemes.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Virtualization:- Introduction, Virtualization at different levels and their\ncomparison.\nVMM\ndesign\nrequirements,\nOS\nlevel\nvirtualization.\nVirtualization structures and mechanisms. CPU, Memory and I/O\nVirtualization. Virtual clusters and resource management. Live VM\nmigration steps, migration of memory, files and network resources.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Cloud Computing, Microservices and Containers:-\nCloud Computing and Service models:- Private, Public and Hybrid clouds.\nCloud Design objectives and Cost Model. Infrastructure-as-a-Service,\nPlatform-as-a-Service, Software-as-a-Service.\nMicroservices:- – Introduction, advantages and disadvantages. Interprocess\nCommunication – Types of interactions, Protocol, Standard and Message\nFormat,  Discovery Service, API Gateway, Service Registry\nContainers – Comparison of Virtual Machines and Containers. Introduction\nto Docker. Case Study - Docker Containers – Architecture, Components,\nExamples.",
+    "contact_hours": "9"
+  }
+]

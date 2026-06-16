@@ -1,0 +1,413 @@
+Course Code 
+PEITT865 
+CIE Marks 
+40 
+Teaching 
+Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCITT501: Machine Learning, 
+PCITT602: Advanced Artificial 
+Intelligence 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce students to the fundamental concepts and history of robotics, and familiarize 
+them with basic robotic systems and programming. 
+ 
+2. To provide an in-depth understanding of the kinematics and dynamics of robotic systems, and 
+to develop skills in trajectory planning and control.  
+3. To introduce automation concepts and industrial robots, focusing on their application in 
+modern manufacturing and production systems.  
+4. To explore advanced topics in robotics and automation, including machine learning, human-
+robot interaction, and future trends.  
+5. To develop students' abilities to critically analyze, evaluate, and design complex robotics and 
+automation systems by applying advanced concepts, tools, and frameworks. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours  
+1 
+History and Overview of Robotics: Evolution of robotics, types of robots, 
+and applications. 
+Fundamental Concepts in Robotics: Kinematics, dynamics, control 
+systems, sensors, and actuators. 
+Robot Classification: Based on geometry, degrees of freedom, and 
+application areas. 
+Basic Programming for Robots: Introduction to robot programming 
+languages and simulators (e.g., Python, ROS basics). 
+9 
+
+ 
+ 
+2 
+History and Overview of Robotics: Evolution of robotics, types of robots, 
+and applications. 
+Fundamental Concepts in Robotics: Kinematics, dynamics, control 
+systems, sensors, and actuators. 
+Robot Classification: Based on geometry, degrees of freedom, and 
+application areas. 
+Basic Programming for Robots: Introduction to robot programming 
+languages and simulators (e.g., Python, ROS basics). 
+9 
+3 
+Introduction to Automation: Concepts of automation, types of automation 
+(fixed, programmable, flexible). 
+Industrial 
+Robots: 
+Types 
+of 
+industrial 
+robots, 
+applications 
+in 
+manufacturing, assembly, and inspection. 
+PLC and SCADA Systems: Basics of Programmable Logic Controllers 
+(PLCs), Supervisory Control and Data Acquisition (SCADA) systems. 
+Sensors and Actuators in Automation: Types of sensors (proximity, 
+vision, force), actuators (electric, hydraulic, pneumatic). 
+9 
+4 
+Machine Learning in Robotics: Introduction to machine learning 
+algorithms and their applications in robotics (e.g., vision, decision-making). 
+Human-Robot Interaction (HRI): Fundamentals of HRI, collaborative 
+robots (cobots), safety in HRI. 
+Robot Operating System (ROS): Advanced ROS concepts, ROS packages 
+for manipulation and navigation. 
+Future Trends in Robotics and Automation: Autonomous systems, 
+robotics in healthcare, AI-driven automation. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Examination 
+(Written) 
+Evaluate Level 
+Assessment 
+Analyze Level 
+Assessment 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+
+ 
+ 
+Evaluate and Analyze Level Assessment [20 Marks] 
+Students should evaluate and analyze a real-world optimization problem, assess the proposed 
+solutions, provide a conclusion on which solution is most appropriate for the problem. 
+ 
+Criteria for evaluation: 
+1. Case Study Analysis (K4 - 4 points) 
+Assignment: 
+● Provide students with a case study of a real-world robotics or automation 
+system. This could involve a specific robot used in manufacturing, a 
+robotic surgery system, or an automated warehouse system. 
+● Task: Ask students to analyze the system by breaking it down into its 
+components (e.g., sensors, actuators, control systems, software). They 
+should evaluate how each component contributes to the overall 
+functionality and how these components interact with each other. 
+● Expected Output: A detailed report where students identify key elements, 
+explain their roles, and analyze the strengths and weaknesses of the 
+system's design. 
+2. Comparative Evaluation of Robotics Frameworks (K4 – 4 Points) 
+Project: 
+● Have students work on a project where they compare two different 
+robotics frameworks or automation tools (e.g., ROS vs. a proprietary 
+robotics framework, or different PLC brands in automation). 
+● Task: They should evaluate the frameworks/tools based on criteria such as 
+ease of use, scalability, cost, community support, and performance in 
+specific tasks. 
+● Expected Output: A comparative study report or presentation that not 
+only compares the tools but also provides a well-reasoned conclusion 
+about which tool is better suited for particular applications, supported by 
+evidence and critical evaluation. 
+3. Design and Critique (K5 - Evaluating) 
+Design Task: 
+● 
+Ask students to design a simple robotic system or automation process for a 
+given problem, such as automating a repetitive task in a manufacturing 
+line or designing a robot for a specific healthcare application. 
+
+ 
+ 
+● 
+Task: Once the design is completed, have them critique their own design 
+by identifying potential weaknesses, risks, and areas for improvement. This 
+self-evaluation should consider factors like efficiency, safety, and cost-
+effectiveness. 
+● 
+Expected Output: A design document with a critical evaluation section 
+where students justify their design choices and propose enhancements 
+based on their evaluation. 
+4. Simulation-Based Problem Solving (K5 - 4 points) 
+Lab Task: 
+● 
+Use a robotics simulation software (e.g., Gazebo with ROS) where 
+students are given a scenario with specific goals (e.g., navigate an 
+environment, complete a task). 
+● 
+Task: Students must analyze the problem, develop a solution within the 
+simulation environment, and then evaluate the effectiveness of their 
+solution, including how they could optimize the process or improve 
+performance. 
+● 
+Expected Output: A simulation report or demonstration video, 
+accompanied by an analysis of the performance and a critique of the 
+solution, with suggestions for improvements. 
+5. Peer Review  (K4- 2 points, K5 – 2 points) 
+Activity: 
+● 
+Organize a peer review session where students present their projects to 
+their peers. Each student group reviews another group's project, analyzing 
+its strengths and weaknesses. 
+● 
+Task: Students must provide constructive feedback and evaluate the 
+feasibility and effectiveness of the approach taken by their peers, based on 
+criteria such as technical soundness, innovation, and potential for real-
+world application. 
+● 
+Expected Output: Written feedback and evaluation reports from peers 
+(K4), followed by a discussion where students defend their design 
+decisions based on the critiques received (K5). 
+ 
+
+ 
+ 
+Scoring: 
+1. Accomplished (4 points): Exceptional analysis, clear implementation, and depth 
+of understanding. 
+2. Competent (3 points): Solid performance with minor areas for improvement. 
+3. Developing (2 points): Adequate effort but lacks depth or clarity. 
+4. Minimal (1 point): Incomplete or significantly flawed. 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 
+Questions 
+from 
+each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply basic principles of robotics to program and simulate simple 
+robotic tasks.  
+K3 
+CO2 
+Apply kinematic and dynamic models to design and control robotic 
+manipulators. 
+K3 
+CO3 
+Implement automation systems using industrial robots, PLCs, and 
+SCADA systems. 
+K3 
+CO4 
+Apply advanced techniques in robotics and automation to develop 
+innovative solutions in emerging areas. 
+K3 
+CO5 
+Critically evaluate and optimize robotics and automation systems by 
+analyzing their design, performance, and impact. 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Introduction to Robotics: 
+Mechanics and Control 
+John J. Craig 
+Pearson 
+4th Edition, 
+2017 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Robotics: Modelling, Planning 
+and Control 
+Bruno Siciliano, Lorenzo 
+Sciavicco, Luigi Villani, 
+Giuseppe Oriolo 
+Springer 
+2nd Edition, 
+2010 
+2 
+Robot Modeling and Control 
+Mark W. Spong, Seth 
+Hutchinson, M. 
+Vidyasagar 
+Wiley 
+1st Edition, 
+2005 
+3 
+Automation, Production 
+Systems, and Computer-
+Integrated Manufacturing 
+Dafydd Stuttard, Marcus 
+Pinto 
+Wiley 
+2nd Edition, 
+2011 
+4 
+Probabilistic Robotics 
+Sebastian Thrun, 
+Wolfram Burgard, Dieter 
+Fox 
+MIT Press 
+1st Edition, 
+2005 
+ 
+Video Links (NPTEL, SWAYAM…) 
+ Sl. No 
+Link ID 
+1 
+https://www.youtube.com/watch?v=rYWJdZ5qg6M&list=PLbRMhDVUMngcdUbBySzyzcPiFTY
+Wr4rV_ 
+2 
+https://www.youtube.com/watch?v=gXX-
+4rrB4tw&list=PLQ3sZ7NCnFlEej8AWH_BfO9W7xlirvK6l 
+3 
+https://www.youtube.com/watch?v=uOtdWHMKhnw 
+4 
+https://www.youtube.com/watch?v=LyC9RAYE96M 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+3 
+- 
+2 
+- 
+- 
+- 
+2 
+- 
+- 
+- 
+CO2 
+3 
+3 
+3 
+2 
+2 
+- 
+2 
+- 
+3 
+- 
+2 
+- 
+CO3 
+3 
+2 
+3 
+3 
+2 
+2 
+3 
+- 
+3 
+2 
+3 
+- 
+CO4 
+3 
+3 
+3 
+3 
+3 
+2 
+3 
+2 
+3 
+3 
+3 
+2 
+CO5 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+
+ 
+ 
+SEMESTER S8  
+COMPUTER VISION

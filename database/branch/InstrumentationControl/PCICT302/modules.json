@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "BJT: Review of biasing- AC and DC load lines, Q point, fixing of operating\npoint, biasing stability, stability factors ( 1 Hour)\nsimple biasing circuit design -various biasing methods of BJT: fixed,\nvoltage divider, biasing independent of power supply. Thermal stability. ( 1\nHour)\nMOSFET: n channel- structure and operation, regions of operation, pinch-\noff. Biasing methods: by fixing gate source voltage, fixing gate voltage and\nconnecting source resistance, using two power supplies, drain-gate feedback\nresistor. MOSFET as amplifier. channel length modulation (3 Hours)\nSMALL\nSIGNAL\nANALYSIS\nOF\nMOSFET:\nvoltage\ntransfer\ncharacteristics, small signal operation-equivalent circuit, hybrid pi model.\nCS, CG, CD configurations, expressions for characteristic parameters: input\nand output impedance, voltage gain and transconductance. (6 Hours)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "MULTISTAGE AND DIFFERENTIAL AMPLIFIERS:\nMulti stage amplifier - Differential amplifier- basic MOSFET differential\npair operation. (3 Hours)\nFEEDBACK AMPLIFIERS: Effect of negative feedback on bandwidth,\ngain and noise reduction. Voltage, Current, Transconductance, and\nTransresistance amplifiers. (5 Hours)\nPOWER AMPLIFIERS: classifications (basic operation using input output\nsignal and circuit diagram) and power efficiency - class A (series fed/\ntransformer coupled) - class B (transformer coupled push pull amplifier,\ncomplementary symmetry) - class C - power amplifier (3 Hours)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "BASIC CIRCUITS ANALYSIS:\nReview of fundamental laws: Ohm’s law, resistors in series and parallel\ncircuits voltage and current division, Source transformation technique, star -\ndelta transformation (1 Hour)\nKirchoff’s laws - mesh current and node voltage - method of mesh and nodal\nanalysis (1 Hour)\nNETWORK THEOREMS FOR RESISTIVE CIRCUITS WITH\nDEPENDENT AND INDEPENDENT SOURCES:\nThevenin’s and Norton theorems, Superposition theorem, Maximum power\ntransfer theorem, Reciprocity theorem, Millman's theorem. related problems\n(8 Hours)\nLAPLACE TRANSFORM: Review of\nLaplace transform and inverse\nLaplace transform of common functions and properties. solution of\ndifferential equations using Laplace transform (1 Hour)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Steady state And transient response of RL, RC and RLC circuits , application\nof Laplace transform in RLC circuit analysis.\nAnalysis of electrical and mechanical systems-Mass Spring Damper\nsystem,Electric motor,Liquid level System  (7 Hours)\nTWO PORT NETWORKS: Types Of Two Port Networks- Z , Y, H,\nABCD. Concept of symmetry and reciprocity, Conversions. (4 Hours)",
+    "contact_hours": "11"
+  }
+]

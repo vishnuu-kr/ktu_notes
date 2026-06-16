@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of Computer graphics - Basics of Computer Graphics and its applications. Video Display devices - LED",
+            "OLED",
+            "PDP and FED and reflective displays. Random and Raster scan displays and systems. Line and Circle drawing Algorithms - Line drawing algorithms-Bresenham’s algorithm",
+            "Liang-Barsky Algorithm",
+            "Circle drawing algorithms - Midpoint Circle generation algorithm",
+            "Bresenham’s Circle drawing algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Geometric transformations - 2D and 3D basic transformations - Translation",
+            "Rotation",
+            "Scaling",
+            "Reflection and Shearing",
+            "Matrix representations and homogeneous coordinates. Filled Area Primitives - Scan line polygon filling",
+            "Boundary filling and flood filling"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Transformations and Clipping Algorithms - Window to viewport transformation. Cohen Sutherland and Midpoint subdivision line clipping algorithms",
+            "Sutherland Hodgeman and Weiler Atherton Polygon clipping algorithms. Three dimensional graphics - Three dimensional viewing pipeline. Projections- Parallel and Perspective projections. Visible surface detection algorithms- Back face detection",
+            "Depth buffer algorithm",
+            "Scan line algorithm",
+            "A buffer algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Fundamental of Multimedia - Introduction to Multimedia",
+            "Authoring and Tools",
+            "Graphics and Image Data Representations",
+            "Popular File Formats",
+            "Fundamental Concepts and types of Video",
+            "Basics of Digital Audio and its types. Compression Methods - Lossless Compression Algorithms- Run-Length Coding",
+            "Arithmetic Coding. Lossy Compression Algorithms- Transform Coding. JPEG and JPEG-LS Standard Image Compression",
+            "H.261. Video Compression Technique"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

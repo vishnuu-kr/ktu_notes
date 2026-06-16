@@ -1,0 +1,294 @@
+Course Code 
+PCAMT403 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCAMT302 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce the learners the in depth theory of neural networks and their optimization. 
+2. To enable the learners to design real life solutions using unsupervised learning. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Neural Networks:-  Biological Neuron versus Artificial 
+Neuron, The Perceptron Model, Notion of Bias and Activation Functions, 
+Different Activation Functions (Sign Function, Sigmoid Function, Hyperbolic 
+Tangent Function,  ReLU Function, Leaky ReLU function, Softmax function). 
+Architecture of Neural Networks:- Feedforward and Feedback Neural 
+Networks, Single Layer Perceptron, Linear Separability, The Perceptron 
+Learning Algorithm and its Convergence, The XOR Problem,  Designing 
+simple mathematical functions using Single Layer Perceptron. 
+8 
+2 
+Multilayer Neural Networks:- Multilayer Perceptron, Representational 
+Capability, Universal Approximation Capability, Kolmogorov’s Theorem,  
+Size versus depth, MLP Representational Capability. 
+Back Propagation Algorithm:- Back Propagation Learning Law, The Back 
+Propagation Learning Algorithm (Derivation of the Algorithm is required), 
+Issues in Back Propagation Learning (Vanishing and Exploding Gradient 
+Problems, Local Minima and Saddle Points, Overfitting, Slow  Convergence, 
+Sensitivity to the selection of the Initial weights, Computational Cost) 
+12 
+
+ 
+ 
+3 
+Methods to Rectify the Issues in Backpropagation :-  Gradient Clipping, 
+Batch Normalization, Regularization, Dropout, Use of Adaptive Learning 
+Rate Methods (Back Propagation Algorithm with Momentum, Adaptive 
+Gradient Descent Algorithm (ADAGRAD), Root Mean Square Propagation 
+(RMSProp),  Adaptive Momentum Estimation (ADAM)) 
+Weight Initialization Techniques:-  Random Initialization methods, Non-
+random Initialization methods 
+10 
+4 
+Unsupervised Learning Models:- Clustering, Similarity measures, Different 
+Types (Partitional Clustering, Hierarchical Clustering, Density Based 
+Clustering,  Model Based Clustering), K-means Clustering Algorithm, 
+Hierarchical Agglomerative Clustering Algorithm, Expectation maximization 
+(EM) Algorithm, DBSCAN Algorithm.  
+Dimensionality reduction, Principal Component Analysis. 
+10 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks. 
+● Two questions will be given from each module, out 
+of which 1 question should be answered. 
+● Each question can have a maximum of 3 sub 
+divisions. 
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the fundamentals of Artificial Neural Networks. 
+K2 
+CO2 
+Illustrate how the Back Propagation Learning method can be used to train 
+Perceptron models. 
+K3 
+CO3 
+Identify different issues in the Back Propagation Training Algorithm and 
+design solutions to rectify these issues. 
+K3 
+CO4 
+Use Unsupervised Machine Learning Methods such as Clustering to solve 
+real world problems. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Neural Smithing - Supervised 
+Learning in Feedforward 
+Artificial Neural Networks 
+Russell D. Reed and 
+Robert J. Marks II 
+MIT Press 
+1/e, 2014 
+2 
+Neural Networks and Deep 
+Learning 
+Charu C Agarwal 
+Springer 
+ 
+2/e, 2023 
+3 
+Introduction to Machine 
+Learning with Python: A Guide 
+for Data Scientists 
+Andreas Muller, 
+Sarah Guido 
+O’ Reilly 
+1/e,  2016 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+2 
+2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+2 
+2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+2 
+2 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+2 
+2 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Artificial Neural Networks 
+B. Yegnanarayana 
+PHI Learning Private 
+Limited 
+1/e,  1999 
+2 
+Applied Machine Learning  
+M. Gopal 
+Tata McGraw Hill 
+2/e, 2018 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Sl. No. 
+Link ID 
+1 
+Introduction to Neural Networks 
+https://youtu.be/xbYgKoG4x2g?si=6qYK55wDC18JrpV6  
+2 
+Perceptron Convergence 
+https://youtu.be/tRG-OnnQ9g4?si=za8uY4Tc3Q23Ep4A  
+3 
+Back Propagation Algorithm 
+https://youtu.be/nz3NYD73H6E?si=XYauYJbTUW2Q8pET  
+4 
+Principal Component Analysis 
+https://youtu.be/H0HjNuNvFVI?si=Ee_e0VRDLmViDSFo  
+5 
+Dimensionality Reduction 
+https://youtu.be/HnVYF6VQryU?si=46_e8bO4eiEPevU9  
+6 
+Unsupervised Learning 
+https://youtu.be/NhimXdFenrg?si=WZoxnlT2zqj77Fwj  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+DATABASE SYSTEMS 
+(Common to CM/AM)

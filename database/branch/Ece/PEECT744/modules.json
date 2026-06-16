@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Algebra-Overview of Groups, Rings , Finite Fields -Binary\nfield arithmetic, Primitive elements (3hrs)\nIrreducible and Primitive Polynomials, Conjugate elements and Minimal\nPolynomials- Field extension-Construction of Finite Fields from Polynomial\nrings (3hrs)\nVector spaces – Subspace and Dual spaces-matrices(3hrs)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Error Control Coding – Relevance of error control codes in Communication\nSystem, concepts of Code rate, Hamming Distance, Minimum Distance,\nError detecting and correcting capability. (3hrs)\nReview on LBC-Generator matrix, Parity Check Matrix. Maximum\nLikelihood Decoding-syndrome decoding (3hrs)\nSimple bounds on block codes - Singleton bound, Hamming Bound, Gilbert-\nVarshamov bound. Maximum-distance-separable (MDS) codes. (3hrs)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Basic concepts of cyclic codes – Polynomial and matrix description.\nInterrelation between polynomial and matrix view point (2 hrs)\nEncoding: Non-systematic and systematic encoding, syndrome decoding-\ncomplete decoding of cyclic codes(4hrs)\nHamming Codes-properties-Examples (1 hr)\nBCH codes, Reed-Solomon Codes (Properties and encoding only) (2hrs)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Review on Convolution Codes- Systematic Encoders, Decoding of\nConvolution Codes –Viterbi algorithm, Turbo Codes, Encoding parallel\nconcatenated codes. (3hrs)\nLow Density Parity Codes, Construction, Tanner Graphs, Message passing\ndecoding. Example of message passing decoding over binary erasure\nchannels. Message passing of LLR and decoding over AWGN channels.\n(3hrs)\nPolar Codes – Introduction, polarization of BEC channels, Polar transform\nand frozen bits. LDPC and Polar codes in 5G. (3hrs)",
+    "contact_hours": "9"
+  }
+]

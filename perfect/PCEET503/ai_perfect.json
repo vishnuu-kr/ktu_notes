@@ -1,0 +1,50 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Elementary Signals: Classification and Representation of Continuous Time and Discrete Time Signals, Signal Operations",
+            "Concept of System: Continuous Time and Discrete Time Systems",
+            "Properties of Systems: Time Invariance, Linearity, Causality, Memory and Memoryless Systems, Stability",
+            "Convolution Integral and Sum, Impulse and Step Response"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Fourier Transform: Existence and Properties of Continuous Time Fourier Transform",
+            "Concept of Frequency Response",
+            "Significance of Fourier Transform and Difference from Fourier Series",
+            "Review of Laplace Transforms",
+            "Characterization of LTI Systems: Differential Equation Representation of Continuous Time LTI Systems, Transfer Function Representation in Laplace Domain",
+            "Modeling of LTI Systems: Electrical, Translational and Rotational Mechanical Systems, DC Servo-Motor",
+            "Force-Voltage and Force-Current Analogy"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Sampling Process",
+            "Impulse Train Sampling, Sampling Theorem, Aliasing Effect, Zero-Order and First-Order Hold Circuits",
+            "Signal Reconstruction",
+            "Z-Transform: Region of Convergence, Properties, Inverse Z-Transform",
+            "Pulse Transfer Function, Difference Equation Representation Using Z-Transform and Its Solution",
+            "Impulse and Step Response of Discrete-Time Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Open Loop and Closed Loop Systems, Effect of Feedback in Systems, Block Diagram Representation",
+            "Block Diagram Reduction, Signal Flow Graph and Mason's Gain Formula, Type and Order of the Systems",
+            "Pole-Zero Representation of Systems, Characteristic Equation, Routh Stability Criterion"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

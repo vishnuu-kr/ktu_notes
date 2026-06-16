@@ -1,0 +1,71 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction and Standards Concepts of instrument design",
+      "functional requirements and specifications. Standards - Military",
+      "Industrial",
+      "and Commercial standards. BIS standards",
+      "ANSI standards",
+      "NEMA standards",
+      "DIN standards. Piping and Instrumentation Diagram P & I D Symbols",
+      "line numbering",
+      "line schedule",
+      "overview of various stages in P&I D development",
+      "P&I D for pumps",
+      "compressors process vessels",
+      "absorber and evaporator. Design of signal conditioning circuits Design of V/I Converter and I/V Converter",
+      "Signal conditioning circuit for pH electrodes",
+      "Design of Air-purge Level Measurement",
+      "Signal conditioning circuit for Thermocouple",
+      "RTD and Thermistor",
+      "Overview of Cold Junction Compensation and Linearization - software and Hardware approaches"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Design of Transmitters - Overview of 2 wire and 4 wire transmitters",
+      "Design of RTD based Temperature Transmitter",
+      "Thermocouple based Temperature Transmitter and Smart Transmitters. Control Valves - Characteristics",
+      "valve equation",
+      "types of valves- Globe valve",
+      "ball valve",
+      "gate valve",
+      "butterfly valve",
+      "needle valve",
+      "valve positioner",
+      "valve selection criteria"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Orifice and Control valve sizing - Orifice",
+      "Venturi and flow nozzle sizing - Liquid",
+      "Gas and steam services. Control valve sizing - Liquid",
+      "Gas and steam services. Overview of Rotameter Design Design of Data logger and PID controller Design of ON/OFF Controller using Linear Integrated Circuits",
+      "Electronic PID Controller",
+      "Basics of Microcontroller based digital two-degree of freedom PID Controller",
+      "Microcontroller based Data Logger",
+      "Basic architecture of PC based Data Acquisition Cards"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Control Panel Design Basics of operating console and control room panel design. Control room environment for electronic equipment",
+      "heat dissipation, forced air circulation and humidity considerations. Grounding and shielding- protection against electrostatic discharge. Design of Alarm and Annunciation circuit",
+      "Alarm and Annunciation Circuits using Analog and Digital Circuits",
+      "Design of Programmable Logic Controller for any two simple applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

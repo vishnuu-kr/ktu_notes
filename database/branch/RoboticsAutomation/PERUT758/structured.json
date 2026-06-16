@@ -1,0 +1,80 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction Physical Layer and Data Link Layer) Introduction - Uses of computer networks",
+      "Network hardware",
+      "Network software.Reference models-The OSI reference model",
+      "The TCP/IP reference model",
+      "Comparison of OSI and TCP/IP reference models. Physical Layer Modes of communication",
+      "Physical topologies",
+      "Signal encoding",
+      "Performance indicators-Bandwidth",
+      "Throughput",
+      "Latency",
+      "Queuing time",
+      "Bandwidth Delay product"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Data link layer - Data link layer design issues",
+      "Error detection and correction",
+      "Sliding window protocols. Medium Access Control (MAC) sublayer - Channel allocation problem",
+      "Multiple access protocols",
+      "Ethernet",
+      "Wireless LANs - 802.11",
+      "Bridges & switches - Bridges from 802.x to 802.y",
+      "Repeaters",
+      "Hubs",
+      "Bridges",
+      "Switches",
+      "Routers and Gateways"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Network Layer) Network layer design issues. Routing algorithms - The Optimality Principle",
+      "Shortest path routing",
+      "Flooding",
+      "Distance Vector Routing",
+      "Link State Routing",
+      "Congestion control algorithms IP protocol",
+      "IP addresses",
+      "Internet Control Message Protocol (ICMP",
+      "Address Resolution Protocol (ARP",
+      "Reverse Address Resolution Protocol (RARP",
+      "BOOTP",
+      "Dynamic Host Configuration Protocol (DHCP",
+      "IPv6",
+      "ICMPv6"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Transport Layer and Application Layer) User Datagram Protocol (UDP). Transmission Control Protocol (TCP) Overview of TCP",
+      "TCP segment header",
+      "Connection establishment &release",
+      "Connection management modeling",
+      "Application Layer File Transfer Protocol (FTP",
+      "Domain Name System (DNS",
+      "Electronic mail",
+      "Multipurpose Internet Mail Extension (MIME",
+      "Simple Network Management Protocol (SNMP",
+      "World Wide Web(WWW",
+      "SMTP",
+      "HTTP"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

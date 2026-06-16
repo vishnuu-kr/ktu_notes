@@ -1,0 +1,60 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Definition of a digital signal processing system",
+      "Sampling",
+      "Sampling rate",
+      "DFT and IDFT (Properties of DFT). Linear Convolution using Circular Convolution",
+      "Convolution of long data sequences- Overlap add method",
+      "overlap save method. Linear filtering methods based on DFT - FFT (DIT-FFT only) - efficient computation of the DFT of a 2N point real sequences - correlation - use of FFT in linear filtering and correlation",
+      "Symmetries in the DFT"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Simple FIR digital filters (Low pass and high pass",
+      "Simple IIR digital filters (Low pass and high pass",
+      "All pass and minimum phase transfer function Design of FIR filter : window based design (Rectangular",
+      "Hamming",
+      "Hanning windows). Applications of DSP-Spectral analysis of sinusoidal signals"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Realization structures for FIR filters- direct, cascade, parallel. IIR Filter realization structures (Direct form I, II, cascade and Parallel and transposed structures",
+      "Computational accuracy in DSP implementation- Number formats for signals and coefficients in DSP systems, Dynamic range and precision, Sources of error in DSP implementation - A/D conversion error, DSP computational error, D/A Conversion error"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "FFT and FIR Filter realization on a fixed point processor -finite wordlength effects - Quantization",
+      "rounding and truncation",
+      "overflow and scaling. DSP Algorithm representations",
+      "data flow",
+      "control flow",
+      "signal flow graphs",
+      "block diagrams - Loop bound",
+      "iteration bound",
+      "critical path - Pipelining",
+      "parallel processing",
+      "low power architectures - Retiming",
+      "folding and unfolding techniques",
+      "applications. Hands-on : -● FPGA based hardware realization of the FFT algorithm",
+      "circular convolution",
+      "IIR and FIR filter structures using iVerilog. ● To realize different DSP algorithms including basic multiply accumulation and shifting operations on a fixed point processor. ● Analyze the effect of the finite wordlength by implementing the FFT algorithm and FIR filters by using fixed point coefficient representation in different formats like Q7",
+      "Q15 etc. ● Design an FIR low pass filter using MATLAB/SCILAB and check how it filters a speech signal by recording it and playing the result"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

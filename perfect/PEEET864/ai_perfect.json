@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Communication Systems",
+            "Classification of Channels",
+            "Need for Modulation. Amplitude Modulation: Equation and Frequency Spectrum of AM Signal",
+            "Double-Side Band Suppressed Carrier (DSB-SC) Modulation",
+            "Single Sideband Modulation (SSB)",
+            "Comparison of Spectrum",
+            "Power and Efficiency of All the Three Variants",
+            "Amplitude Modulator Circuits - Balanced Modulator",
+            "AM Demodulators - Envelope Detector"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Frequency and Phase Modulation",
+            "Narrow and Wide Band FM and their Spectra",
+            "Modulation and Demodulation Techniques for FM",
+            "Pre-emphasis and De-emphasis",
+            "FM Transmitter and Receiver",
+            "Noise in Receivers",
+            "Noise Figures",
+            "Performance of Analog Modulation Schemes in AWGN: SNR and Figure of Merit for Different Schemes"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Elements of Digital Communication System. Sources",
+            "Channels and Receivers",
+            "Sampling and Reconstruction of Analog Signals: Nyquist Sampling Theorem",
+            "Ideal Reconstruction Filter",
+            "Pulse Amplitude Modulation (PAM)",
+            "Time Division Multiplexing with PAM",
+            "Pulse Code Modulation (PCM)",
+            "A-law and Mu-law Quantization"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Digital Bandpass Communication System",
+            "Bandpass Modulation Techniques: Amplitude Shift Keying",
+            "Phase Shift Keying",
+            "Frequency Shift Keying",
+            "Methods of Generation and Detection",
+            "Signal Constellations",
+            "M-ary Digital Modulation Schemes",
+            "Quadrature Phase Shift Keying",
+            "Minimum Shift Keying",
+            "Quadrature Amplitude Modulation"
+        ]
+    }
+]

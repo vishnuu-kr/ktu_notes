@@ -1,0 +1,328 @@
+Course Code 
+PBMUT604 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCMUT303 
+PCMUT402 
+PBMUT504
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Examine the dynamics of automotive systems and assessing their performance parameters. 
+2. Provide students with hands-on experience in simulating the dynamics of ground vehicles. 
+3. Determine the longitudinal, lateral, and vertical stability of the vehicle and their influence on 
+vehicle dynamics. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to vehicle dynamics: History of road and off-road vehicle 
+system dynamics. Vehicle coordinate systems- vehicle fixed coordinates 
+system, earth fixed coordinate system, SAE coordinate system. Fundamental 
+approaches to vehicle dynamics modelling lumped mass, vehicle fixed 
+coordinate system, motion variables, Euler angles, forces, Newton’s second 
+law. Modelling and simulation of dynamic behaviour of vehicle, motion 
+analysis, force analysis, and energy analysis using software (simple models).  
+Performance of road vehicles: Forces and moments on vehicle, equation of 
+motion, tire forces, rolling resistance, weight distribution, tractive 
+effort/tractive resistance and power available from the engine/ power required 
+for propulsion, road performance curves- acceleration, grade ability, drawbar 
+pull and the problems related to these terms. 
+11 
+2 
+Longitudinal dynamics: Calculation of maximum acceleration braking 
+torque, braking force, brake proportioning, braking efficiency, stopping 
+distance, load distribution (three wheeled and four wheeled vehicles), 
+calculation of acceleration, tractive effort and reactions for different drives, 
+11 
+
+ 
+ 
+Stability of a vehicle on slope, (Problems related to these). Weight transfer 
+during acceleration, cornering and braking 
+MATLAB simulation for longitudinal dynamic response during acceleration 
+and braking of automotive system. Vehicle dynamic Control, modelling of 
+actuators, sensors for automobile control, sensors for detecting vehicle 
+environment, central tyre inflation system. Prediction of vehicle performance. 
+ABS, stability control, traction control. 
+3 
+Introduction to lateral dynamics - Development of lateral forces. slip angle, 
+cornering force, cornering stiffness, pneumatic trail, self-aligning torque, 
+power consumed by tire, tire stiffness, hysteresis effect in tires, steady state 
+handling characteristics. yaw velocity, lateral acceleration, curvature response 
+& directional stability. Stability of a rigid vehicle and equations of motion of 
+a rigid vehicle, cross wind handling, the problems related to these terms. 
+MATLAB simulation for lateral dynamic response during cornering of 
+automotive system. Stability of a vehicle on a curved track and a banked road. 
+gyroscopic effects.,  
+11 
+4 
+Introduction to vertical dynamics - Human response to vibrations, 
+classification of vibration, specification and vibration, sources of vibration, 
+suspension systems, Modal Analysis, One DOF, two DOF, free and forced 
+vibration, damped vibration, magnification and transmissibility, body 
+vibrations: bouncing and pitching. doubly conjugate points (only basic idea). 
+body rolling. roll centre and roll axis, roll axis and the vehicle under the action 
+of side forces, stability against body rolling.  
+Vehicle dynamics and suspension design for stability. Design and analysis 
+of passive, semi-active and active suspension using quarter car, half car and 
+full car model. Matlab simulation for vertical dynamic response to analyze 
+ride, pitch and roll of automotive system, Matlab simulation for Half Car 
+Model, Matlab simulation for Quarter Car Model 
+11 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microprojects 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+1 Questions from each 
+module.  
+ 
+Total of 4 Questions, 
+each carrying 2 marks 
+ 
+(4x2 =8 marks) 
+ 
+2 questions will be given from each module, out 
+of which 1 question should be answered. 
+ 
+ Each question can have a maximum of 2 sub 
+divisions.  
+ 
+Each question carries 8 marks.  
+(4x8 = 32 marks) 
+ 
+40 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+To understand the vehicle system dynamics and performance of road 
+vehicles  
+K5 
+CO2 
+To develop an analytical model in MATLAB to assess the stability of a 
+ground vehicle during braking and acceleration. 
+K5 
+CO3 
+To asses the lateral dynamics of ground vehicle using MATLAB 
+package. 
+K5 
+CO4 
+To Simulate the vertical dynamic response to analyze ride, pitch, and 
+roll of an automotive system, including MATLAB simulations for both 
+the Half Car Model and the Quarter Car Model. 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+- 
+- 
+- 
+- 
+1 
+- 
+- 
+- 
+1 
+1 
+1 
+CO2 
+3 
+3 
+3 
+- 
+3 
+2 
+- 
+- 
+2 
+3 
+2 
+2 
+CO3 
+3 
+3 
+3 
+- 
+3 
+2 
+- 
+- 
+2 
+3 
+2 
+2 
+CO4 
+2 
+3 
+2 
+- 
+3 
+2 
+- 
+- 
+2 
+3 
+2 
+2 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals of Vehicle 
+Dynamics 
+Thomas D. Gillespie 
+Society of Automotive 
+Engineers Inc 
+1992 
+2 
+Automotive Mechanics 
+N.K.Giri 
+Khanna Publishers 
+2013 
+3 
+Road Vehicle Dynamics: 
+Fundamentals and Modeling 
+with MATLAB 
+Georg Rill, Abel Arrieta 
+Castro 
+CRC  
+2020 
+4 
+Vehicle Dynamics and Control 
+Rajesh Rajamani 
+Springer 
+1st, 2005 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Vehicle Dynamics: Theory and 
+Application 
+Reza N Jazar 
+Springer 
+2008 
+2 
+Theory of Ground Vehicles 
+J. Y. Woung 
+John Willey & Sons 
+2008 
+3 
+Mechanics of Road Vehicles 
+W. Steed 
+Iliffe & Sons 
+1962 
+4 
+Fundamentals of Vehicle 
+Dynamics and Modelling: A 
+Textbook for Engineers with 
+Illustrations and Examples 
+Bruce P. Minaker 
+Wiley 
+2019 
+5 
+Vehicle Handling Dynamics 
+Theory and Application 
+Masato Abe 
+Science direct 
+2015 
+6 
+The Multibody Systems 
+Approach to Vehicle Dynamics 
+Blundell 
+Butterworth-
+Heinemann 
+2014 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/107106080 
+2 
+https://nptel.ac.in/courses/107106080 
+3 
+https://nptel.ac.in/courses/107106080 
+4 
+https://nptel.ac.in/courses/107106080 
+
+ 
+ 
+SEMESTER S6 
+DESIGN THINKING AND PRODUCT DEVELOPMENT 
+(Common to Group C & Group D)

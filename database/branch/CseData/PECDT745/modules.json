@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of Information Retrieval Systems:-\nHistory and Evolution of IR, Basic Concepts of Information Retrieval,\nDifferences between Data Retrieval and Information Retrieval, IR Models:\nBoolean, Vector Space, Probabilistic Models.\nIndexing and Search: Document Representation and Preprocessing,\nTokenization, Stemming, and Lemmatization, Inverted Index and Boolean\nQueries, Term Frequency and Document Frequency.\nRelevance Feedback and Query Expansion: Query Reformation\nTechniques, User Feedback in IR Systems, Pseudo Relevance Feedback.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Retrieval Models and Evaluation:-\nRetrieval Models: Vector Space Model (VSM), Probabilistic Retrieval\nModel, Language Models for IR, Latent Semantic Indexing (LSI), Topic\nModels (LDA)\nEvaluation of Information Retrieval Systems: Precision, Recall, and F-\nMeasure, Receiver Operating Characteristic (ROC) Curves, Mean Average\nPrecision (MAP), Discounted Cumulative Gain (DCG), Test Collections and\nBenchmarks (TREC).\nText Similarity and Ranking: Cosine Similarity, TF-IDF Weighting,\nBM25 Ranking Algorithm",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Web Search and Information Retrieval :-\nWeb Search Fundamentals, Web Crawling and Indexing, Link Analysis\nAlgorithms: PageRank and HITS, Search Engine Architecture and\nComponents, Web Content Mining and Structure Mining\nSearch Engine Optimization (SEO):Concepts of SEO and Ranking Factors,\nOn-Page and Off-Page Optimization, User Behavior Modeling and\nPersonalized Search.\nDistributed and Scalable Search: Distributed Indexing and Search\nArchitectures,  Map Reduce for Large Scale Search Engines, Parallel Query\nProcessing and Web-Scale IR",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Advanced Topics in Information Retrieval:-\nMultimedia and Cross-Language Information Retrieval: Image and Video\nRetrieval Techniques, Content-Based Image Retrieval (CBIR), Cross-\nLanguage Information Retrieval (CLIR) and Challenges, Natural Language\nProcessing (NLP) in IR\nSocial Media and Sentiment Analysis: Social Media Mining and Opinion\nRetrieval,\nSentiment\nAnalysis\nand\nOpinion\nMining\nTechniques,\nCollaborative Filtering and Recommendation Systems\nEthical Issues and Emerging Trends: Privacy and Bias in Information\nRetrieval, Ethics of Search Engines and IR Systems, AI in Information\nRetrieval: Deep Learning and Neural IR Models, Future Directions in IR\nResearch",
+    "contact_hours": "9"
+  }
+]

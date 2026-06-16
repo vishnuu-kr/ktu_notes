@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Cryptography and Security\nIntroduction to Cryptography: Definition and History of Cryptography -\nImportance and Applications - Key Terminologies and Concepts - Types of\nAttacks\nClassical Encryption Techniques: Substitution Ciphers: Caesar Cipher,\nMonoalphabetic Cipher, Playfair Cipher, Hill Cipher, Polybius Square\nTransposition Ciphers: Rail Fence, Columnar Transposition\nSteganography: Principles of Steganography, Types of Steganography,\nSteganography Versus Digital Watermarking, Types of Digital Watermarking,\nGoals of Digital Watermarking.\nQuick Review of Number Theory: Prime Numbers, Modular Arithmetic,\nGreatest Common Divisor, Fermat's and Euler's Theorems, Chinese\nRemainder Theorem",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Cryptographic Concepts and Techniques\nSymmetric Key Cryptography: Block Ciphers: DES, 3DES, AES (Block\nLevel only) - Stream Ciphers: RC4 - Modes of Operation: ECB, CBC, CFB,\nOFB, CTR\nAsymmetric Key Cryptography: Principles of Public Key Cryptosystems-\nRSA Algorithm-Diffie-Hellman Key Exchange-Elliptic Curve Cryptography",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Cryptographic Hash Functions: Hash Function Requirements and\nProperties, SHA-256, SHA-3, MD5, HMAC\nMessage Authentication and Cryptographic Protocols\nMessage Authentication Codes: Structure and Usage, CMAC, GMAC,\nDigital Signatures: RSA, DSA, ECDSA\nCryptographic Protocols: Key Management and Distribution, Public Key\nInfrastructure (PKI), SSL/TLS Protocol",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Secure Electronic Transactions: E-commerce Security Requirements,\nPayment\nProtocols\n-\nSET,\n3D\nSecure,\nCryptographic\nTokens\nAdvanced Cryptographic Applications and Emerging Trends\nAdvanced Cryptographic Techniques: Homomorphic Encryption, Zero-\nKnowledge Proofs Quantum Cryptography: Basics and Algorithms;\nCryptography in Cloud Computing and IoT: Security Challenges  and\nCryptographic Solutions in Cloud Computing, Challenges and Cryptographic\nSolutions in IoT",
+    "contact_hours": "11"
+  }
+]

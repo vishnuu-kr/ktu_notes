@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction\nto\nformal\nlanguage\ntheory–\nAlphabets,\nStrings,\nConcatenation of strings,\nLanguages. Regular Languages - Deterministic Finite State Automata\n(DFA)\n(Proof\nof\ncorrectness\nof\nconstruction\nnot\nrequired),\nNondeterministic Finite State Automata (NFA), Equivalence of DFA and\nNFA, Regular Grammar (RG), Equivalence of RGs and DFA.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Regular Languages -Regular Expression (RE), Equivalence of REs and\nDFA, Homomorphisms, Necessary conditions for regular languages,\nClosure Properties of Regular Languages, DFA state minimization (No\nproof required).Context Free Grammar (CFG)- CFG representation of\nContext Free Languages (proof of correctness is required), derivation trees\nand ambiguity, Normal forms for CFGs",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Context-Free Languages -Nondeterministic Pushdown Automata (PDA),\nDeterministic Pushdown Automata (DPDA), Equivalence of PDAs and\nCFGs (Proof not required), Pumping Lemma for Context-Free\nLanguages\n(Proof not required), Closure Properties of Context Free Languages",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Context Sensitive Languages - Context Sensitive Grammar (CSG), Linear\nBounded Automata.\nTuring Machines - Standard Turing Machine, Robustness of Turing\nMachine, Universal Turing Machine, Halting Problem, Recursive and\nRecursively\nEnumerable\nLanguages.\nChomsky\nclassification\nof\nformal languages",
+    "contact_hours": "9"
+  }
+]

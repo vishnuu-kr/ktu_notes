@@ -1,0 +1,31 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of industrial automation systems (e.g., SCADA, PLC). Importance of cybersecurity in protecting critical infrastructure. Key differences between IT (Information Technology) and OT (Operational Technology) networks.",
+            "Fundamentals of cybersecurity: threats, vulnerabilities, and risks"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Industrial Control Systems (ICS) architecture: components of ICS (sensors, actuators, controllers, and communication protocols). Understanding network topologies in industrial environments. Typical architectures (e.g., Purdue model).",
+            "Threat landscape for industrial cyber threats to ICS (e.g., malware, ransomware, insider threats). Case studies of historical cyber incidents in industrial settings."
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Cyber attacks: impact of cyber attacks on industrial operations and safety. Security challenges and vulnerabilities in ICS, specific vulnerabilities in ICS components and protocols (e.g., insecure protocols, lack of authentication). Human factors: challenges in securing ICS due to operational needs and legacy systems.",
+            "Risk assessment and management for ICS: conducting risk assessments specific to industrial environments. Identifying critical assets and vulnerabilities. Developing risk mitigation strategies and incident response."
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Secure design and configuration of ICS: best practices for secure system design and architecture, secure configuration of ICS components (e.g., PLCs, HMIs), principles of secure coding and application development for ICS.",
+            "Network security for ICS: segmentation and isolation strategies for ICS networks, secure communication protocols (e.g., TLS, VPNs) and encryption methods, intrusion detection and prevention systems (IDPS) for ICS.",
+            "Emerging technologies and future trends: IoT (Internet of Things) and IIoT (Industrial Internet of Things) in industrial cybersecurity."
+        ]
+    }
+]

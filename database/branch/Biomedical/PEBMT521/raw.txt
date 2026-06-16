@@ -1,0 +1,1554 @@
+Course Code 
+PEBMT521 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+2:1:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Basic skill in applying 
+Laplace transform 
+Course Type 
+PE 
+ 
+Course Objectives: The main objectives of the course are: 
+1. Understand the fundamental concepts of control systems and their applications in biomedical 
+engineering. 
+2. Mathematical modelling of simple electrical and mechanical systems. 
+3. Analyse system behaviour and stability in time domain and frequency domain. 
+4. Represent systems in state-space form and understand the relationship between state-space 
+and transfer function models 
+SYLLABUS 
+ 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Control System – Concepts of control system-
+Applications, Examples (including physiological control systems), Open 
+loop and closed loop control systems, Control system design process. 
+Review of Laplace Transforms, Transfer function, Mathematical modelling 
+of simple electrical and mechanical systems. Block diagram reduction, 
+Signal flow graphs-Mason’s Gain Formula. 
+ 
+9  
+2 
+Time domain analysis- Standard test signals, Transient and steady state 
+response, time response of first order system, Time domain specifications, 
+step response of second order systems, Steady state error and static error 
+coefficients. Concept of stability, Effect of location of poles on stability. 
+ 
+9 
+3 
+Stability Analysis in s-Domain: Routh-Hurwitz’s stability criterion, Root 
+locus -construction of root locus  
+Frequency domain analysis-Frequency domain specifications, Stability in 
+9  
+
+ 
+Frequency Domain: Frequency response plots: Polar plots, Bode plots - 
+determination of Phase margin and Gain margin, minimum phase and non- 
+minimum phase systems. 
+4 
+State space modelling – Concepts of state, state variables, state space and 
+state model, State space representation of nth order differential equation, 
+State model of simple mechanical and electrical systems, State-Space 
+representation of Transfer Function, Transfer function from state model, 
+State transition matrix-properties of state transition matrix, computation of 
+state transition matrix using Laplace method, Controllability and 
+Observability. 
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Represent control systems in s domain and analyse it. 
+K2 
+CO2 
+Apply time domain analysis to investigate transient and steady state 
+performance of a system. 
+K3 
+CO3 
+Analyse the nature of stability of a system by employing different types of 
+frequency domain techniques. 
+K3 
+CO4 
+Illustrate state space models of mechanical and electrical systems. 
+K3 
+CO5 
+Compute state transition matrix and analyse the controllability & 
+observability of systems.  
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Control Systems Engineering
+Nagarath, I.J. and Gopal, 
+M 
+New Age International 
+Publishers 
+2017 
+2 
+Control Systems Engineering  
+Nagoor Kani 
+CBS Publishers & 
+Distributors Pvt. Ltd 
+5/e, 2020 
+3 
+Automatic Control Systems 
+S. Hasan Saeed 
+KATSON BOOKS 
+2018 
+4 
+Linear Control Systems with 
+MATLAB Applications 
+B.S. Manke 
+Khanna Publishers 
+13/e, 2019 
+5 
+Control System: Principle 
+and design 
+M. Gopal 
+McGraw Hill Education 
+India Education 
+4/e, 2012 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO2 
+3 
+2 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO3 
+3 
+2 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO5 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Modern Control Engineering 
+Katsuhiko Ogata 
+Pearson 
+6/e,2015 
+2 
+Modern Control Systems 
+Richard C. Dorf and 
+Bishop, R.H. 
+Pearson Education 
+2009. 
+3 
+Control Systems Theory and 
+Applications 
+S. K Bhattacharya 
+Pearson 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/107/106/107106081 
+2 
+https://archive.nptel.ac.in/courses/108/106/108106098 
+3 
+https://nptel.ac.in/courses/108102043 
+
+ 
+SEMESTER S5 
+   BIOMEDICAL OPTICS & BIOPHOTONICS  
+  
+Course Code 
+PEBMT 522 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+PE 
+ 
+ 
+Course Objectives: 
+1. To know the different applications of lasers in medical field. 
+2. To understand the working principles of different lasers used in medicine. 
+3. To learn the optical properties of tissue and the opto-thermal interaction of the tissue. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Basic optics: polarized waves-linear, circular and elliptical, propagation of a 
+light wave through a quarter wave plate, reflection at a plane interface, two 
+beam interference, concept of coherence. 
+ 
+Basic characteristics of optical fibres: numerical aperture, coherent bundle, 
+attenuation in optical fibres, pulse dispersion in step index optical fibres, loss 
+mechanisms: absorptive losses, radiative losses. 
+9  
+2 
+Introduction to Lasers: principle, construction and classification of Lasers 
+- Nd-YAG.  
+Fibre optics and Medical Applications - Endoscopic imaging: formation, 
+resolution, signal to noise ratio – Optical coherence tomography.  
+ 
+Minimally Invasive cardio-vascular technologies- Angioplasty, Stents, 
+Aneurysm treatment, Embolic filters, Cardiac ablation catheters. 
+9  
+
+ 
+3 
+Optical Micromanipulation tools: Laser tweezer and Laser scissor: principle 
+of working. Applications- Manipulation of single DNA molecules, 
+molecular motors, protein-protein interaction.  
+ 
+Biosensor- an introduction, Fiber - Optic biosensors, Planar waveguide 
+biosensors, Evanescent wave biosensors, Interferometric biosensors, 
+Surface plasmon resonance biosensors. 
+ 
+Photobiology: Interaction of light with tissues–Optical biopsy- Tissue 
+Engineering and light activation: 
+Laser tissue contouring and restructuring, Laser tissue welding, and 
+regeneration. 
+9  
+4 
+Thermal therapy- mechanism, Image guided thermal therapy: device 
+placement, thermometry, assessment of thermal damage. 
+ 
+Photodynamic therapy - basic principle, mechanism of photodynamic 
+action, applications. 
+ 
+Light irradiation for photodynamic therapy: laser source, laser dosimetry, 
+light delivery. Interface of nanotechnology and photonics, Biomaterials for 
+Photonics – an introduction. 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Get an exposure to the basics of optics and characteristics of optical 
+fibre. 
+ 
+K1 
+CO2 
+Understand the importance of fibre optics in medical applications. 
+K2 
+CO3 
+Acquire the knowledge on micromanipulation tools and biosensor. 
+K3 
+CO4 
+Evaluate the interaction of light with tissues and mechanism of thermal 
+therapy. 
+K5 
+CO5 
+Introduce the therapeutic applications of laser in medical field. 
+ 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO4 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO5 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fiber Optics  
+Ghattak & Thyagarajan 
+Cambridge University 
+Press 
+1989 
+2 
+Introduction to Biomedical 
+Photonics 
+Paras N Prasad 
+John Wiley 
+2003 
+3 
+BIOMEDICAL 
+TECHNOLOGY and 
+DEVICES 
+HANDBOOK 
+James Moore and George 
+Zouridakis 
+CRC Press 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Biomechatronics in Medicine 
+and Health Care 
+Raymond K. Y. Tong 
+Pan Stanford 
+Publishing  
+Pvt. Ltd. 
+ 
+2 
+Biomedical Photonics 
+Handbook 
+Taun Vo-Dinh 
+CRC Press 
+ 
+3 
+Biomedical Engineering and 
+Design Handbook 
+Myer Kutz 
+McGraw Hill 
+Vol 2 
+4 
+Advances in Biomedical 
+Engineering 
+Pascal Verdonck 
+Elsevier 
+ 
+5 
+Biomedical Applications of 
+Light Scattering 
+Adam Wax and 
+VadimBackman 
+McGraw Hill 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://nptel.ac.in/courses/108106135 
+2 
+https://nptel.ac.in/courses/108106135 
+3 
+https://nptel.ac.in/courses/112103312 
+
+ 
+SEMESTER S5 
+RADIOLOGICAL EQUIPMENTS   
+Course Code 
+PEBMT 523 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs.30 Min. 
+Prerequisites (if any) 
+Basic knowledge of 
+medical physics and 
+medical imaging 
+techniques
+Course Type 
+PE 
+ 
+ 
+Course Objectives: 
+1.  To provides an in-depth understanding of various radiological equipment used in medical 
+imaging and therapy.  
+2. To cover the principles, design, operation, and applications of various imaging modalities and 
+radiotherapy machines. 
+ 
+ 
+                                            SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Introduction to Radiological Equipment 
+Overview of radiological equipment- Historical development of radiological 
+devices- Basic principles of medical imaging and radiotherapy- Regulatory 
+standards and guidelines. 
+Review of contemporary imaging modalities (X-Ray, CT, MRI,ultrasound 
+Nuclear medicineand PET)  
+9 
+2 
+Radiotheraphy Equipment 
+Linear accelerators (LINAC) and their components-Cobalt-60 teletherapy 
+units- Brachytherapy sources and applicators- Gamma Knife- Cyber Knife-
+Proton therapy and heavy ion therapy systems-Clinical applications and 
+quality assurance in radiotherapy 
+9 
+3 
+Advanced Imaging Techniques 
+Dual-energy X-ray absorptiometry (DEXA)-Mammography and breast 
+imaging systems-Interventional radiology equipment-Hybrid imaging 
+systems (PET/CT, SPECT/CT, PET/MRI). 
+9 
+
+ 
+Emerging Technologies in Radiotherapy 
+Adaptive radiotherapy-Stereotactic radiosurgery (SRS) and stereotactic body 
+radiotherapy (SBRT)-Image-guided radiotherapy (IGRT)-Intraoperative 
+radiotherapy (IORT)-Future trends and research in radiotherapy equipment 
+4 
+Radiation Protection and Safety 
+Principles of radiation protection- Radiation protection in radiotherapy- 
+Radiation 
+measuring 
+instruments-Dosimeter, 
+film 
+Badges, 
+Thermo 
+Luminescent dosimeters- electronic dosimeter.Regulatory requirements and 
+guidelines-Quality assurance and control in radiotherapy-Maintenance and 
+calibration of radiotherapy equipment 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/M
+icroproject 
+Internal 
+examination-1 
+(Written) 
+Internal 
+examination-2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+ 
+Part A
+Part B
+Total
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each question 
+can have a maximum of 3 sub divisions. Each question 
+carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the basic principles of medical imaging and radiotherapy. 
+K1 
+CO2 
+Explain the radiation therapy techniques, equipment, and quality 
+assurance measures. 
+K2 
+CO3 
+Discuss a variety of advanced imaging techniques and emerging 
+technologies in the field of radiotherapy. 
+K2 
+CO4 
+Explain the regulatory aspects and protection measures of radiation 
+safety and the utilization of radiology information systems in healthcare 
+environments. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Radiation Therapy Physics 
+Faiz M. Khan and John 
+P. Gibbons 
+Wolters Kluwer 
+Health 
+2014 
+2 
+Radiologic Science for 
+Technologists: Physics, 
+Biology, and Protection  
+Stewart C. Bushong 
+Elsevier 
+11th edition, 
+2017 
+3 
+Physics for Diagnostic 
+Radiology 
+ Philip Palin Dendy and 
+Brian Heaton 
+Crc press 
+3rd 
+Edition,2011 
+4 
+Principles and Practice of 
+Radiation Therapy 
+Charles M. Washington 
+and Dennis T. Leaver 
+Elsevier Health 
+Sciences 
+2015 
+5 
+ Fundamentals of Diagnostic 
+Radiology,  
+Jeffrey S Klein, William 
+E Brant, Clyde A 
+Helms, Emily N Vinson 
+Wolters Kluwer 
+Fifth 
+Edition,2019. 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+1 
+CO2 
+3 
+2 
+ 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+ 
+2 
+ 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+1 
+CO4 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+ 
+ 
+ 
+2 
+CO5 
+3 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+1 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Handbook of radiotherapy 
+physics: theory and practice  
+P Mayles, A Nahum, JC 
+Rosenwald 
+CRC Press 
+2007 
+2 
+Introduction to Radiologic and 
+Imaging Sciences and Patient 
+Care 
+Arlene Adler, Richard 
+Carlton 
+Elsevier 
+Seventh 
+Edition, 2019 
+3 
+ Radiation Detectors for 
+Medical Imaging,  
+Jan S Iwanczyk 
+CRC Press Taylor & 
+Francis Group 
+1st 
+Edition,2016 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc21_bt50/preview 
+
+ 
+SEMESTER S5 
+IMPLANTS AND PROSTHETIC ENGINEERING 
+Course Code 
+PEBMT 524 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+NONE  
+Course Type 
+PE 
+ 
+Course Objectives: 
+1. This course gives an overview of various types of prostheses with specific emphasis on visual 
+and auditory implants and neural prostheses. 
+2. To illustrate the technical design characteristics of the main components that go into forming 
+a smart prosthetic arm for adults. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Microelectronic visual implant technologies: Retinal stimulation and retinal 
+implant - Epiretinal, Subretinal and Extraocular implants, Visual stimulation 
+in the brain, Optic Nerve Stimulation, Engineering challenges in the 
+development of visual prostheses, Stimulation microelectrode arrays - types 
+and electrode materials, optic nerve stimulation using penetrating 
+microelectrode arrays, Neural electrical stimulator, DSP-based image 
+processing system for visual prostheses. 
+9 
+2 
+Modern Cochlear Implant: System Review - Architecture and functional 
+block diagram of a modern cochlear implants, External unit, RF link, Internal 
+unit, Electrodes, Safety Considerations, Auditory Prosthesis Using Deep 
+Brain 
+Stimulation: 
+Development 
+and 
+Implementation 
+– 
+Design 
+considerations, approaches for implementation, Electrode technologies, 
+Stimulation strategies. 
+9 
+
+ 
+3 
+Signals and Signal Processing for Myoelectric Control: Brief history of 
+artificial hands - Origin and nature of the myoelectric signal, Anatomy, 
+Contraction Process, Connections to the CNS, Fibre membrane and the 
+action 
+potential, 
+Measurement 
+of 
+the 
+potentials 
+associated 
+with 
+depolarization, Spatial variation in the arrangement of motor units, Muscle 
+force mediation, Myoelectric Signal - Acquisition, Processing, Control of 
+prosthetic function, Terminal device electronics 
+9 
+4 
+Upper Limb Prosthetics: Pre-prosthetic Assessment, Prosthetic Options, 
+Components for the Upper Limb Prosthesis – Hands and Work Hands 
+(Terminal Devices), Pinch Force, Weight, Work Hands, Cosmetic/Protective 
+Covers, Electric wrist rotation, Wrist Flexion, Electronic Controllers, 
+proportional Versus Digital control, Elbow components, All electric 
+alternatives 
+control 
+Systems, 
+Interface 
+designs, 
+Indications 
+and 
+contraindications, Training and outcome measurement Mechatronic hands: 
+prosthetic and robotic design Myoelectrically controlled hand - Mechanisms 
+- Materials, actuators, Sensors - instrumentation, Control - finger position, 
+object slip, EMG reference control, Artificial prehension, Brain control and 
+sensing of artificial limbs. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out of 
+which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describes state-of-the-art advances in techniques associated with 
+implantable neural prosthetic devices and their applications 
+K2, K3 
+CO2 
+Understand the concepts of cochlear implants and auditory prosthetics. 
+K2, K4 
+CO3 
+Analyse the concept of Signals and Signal Processing for Myoelectric 
+Control. 
+K2, K3 
+CO4 
+Design and implementation of upper limb prostheses and smart prosthetic 
+hands 
+K2, K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+3 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+2 
+ 
+2 
+CO2 
+3 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+2 
+ 
+2 
+CO3 
+3 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+2 
+ 
+2 
+CO4 
+3 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+2 
+ 
+2 
+
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Implantable Neural Prostheses 
+1: Devices and Applications 
+David D. Zhou 
+Elias Greenbaum 
+Springer 
+2009 
+2 
+Powered Upper Limb 
+Prostheses: Control, 
+Implementation and Clinical 
+Application 
+L. McLean, 
+R. N.Scott, 
+Ashok Muzumdar 
+Springer 
+2012 
+3 
+Mechatronic Hands Prosthetic 
+and Robotic Design 
+Paul H. Chappell 
+The Institution of 
+Engineering and 
+Technology 
+2016 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Orthotics And Prosthetics In 
+Rehabilitation 
+Kevin Chui Milagros 
+Jorge, Sheng-Che Yen, 
+Michel M. Lusardi 
+Elsevier 
+Fourth 
+Edition 
+2 
+Active Above-Knee Prosthesis 
+– A Guide to a Smart Prosthetic 
+Leg 
+Zlata Jelacic, Remzo 
+Dedic, Haris Dindo 
+Elsevier 
+2020 
+3 
+Mechanics of Biomaterials 
+Fundamental Principles for 
+Implant Design 
+Lisa A. Pruitt and 
+Ayyana M. 
+Chakravartula 
+Cambridge University 
+Press 
+2011 
+ 
+
+ 
+ SEMESTER S5 
+    FUNDAMENTALS OF BIOMEMS AND MICROFLUIDS 
+Course Code 
+PEBMT 526 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+PE 
+ 
+Course Objectives: 
+1. To understand fundamentals of BioMEMS. 
+2. To understand the concepts of micro-systems.  
+3. To study various diagnostic and therapeutic applications including intelligent biochips and 
+sensors. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Overview of MEMS and Microsystems: MEMS and microsystems, Typical 
+MEMS and microsystem products. Materials for MEMS - active substrate 
+materials-Silicon and its compounds, Silicon piezoresistors, Gallium 
+Arsenide, quartz, polymers. Fabrication- Micromachining photolithography, 
+thin film deposition, doping, etching, bulk machining, wafer bonding, LIGA. 
+9 
+2 
+Mechanical Sensors and Actuators: Mechanical sensors and actuators – beam 
+and cantilever –microplates, strain, pressure and flow measurements 
+Thermal sensors and actuators: actuator based on thermal expansion, thermal 
+couples, thermal resistors. Electrostatic sensors and actuators- Inertia sensor, 
+Pressure sensor, flow sensor. 
+Piezoelectric sensors and actuators: Properties of piezoelectric materials, 
+Piezoelectric sensor and actuator – inchworm motor, inertia sensor, flow 
+sensor. 
+9 
+
+ 
+3 
+Microfluidic Systems: Fluid dynamics, continuity equation, momentum 
+equation, equation of motion, laminar flow in circular conduits, fluid flow in 
+micro conduits, in submicrometer and nanoscale. Microscale fluid, 
+expression for liquid flow in a channel, fluid actuation methods, 
+dielectrophoresis, microfluid dispenser, microneedle, micropumps 
+9 
+4 
+Application of BioMEMS: CAD for MEMS, Drug delivery, micro total 
+analysis systems (MicroTAS) detection and measurement, microsystem 
+approaches to polymerase chain reaction (PCR), MEMS based drug delivery. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Analyse concept of MEMS and BioMEMS. 
+K1, K2 
+CO2 
+Describe various materials used for MEMS fabrication. 
+K2, K3 
+CO3 
+Compare different types of sensors and actuators and their principles of 
+operation. 
+K2, K3 
+CO4 
+Analyse the concept of microfluidic systems.  
+K2, K4 
+CO5 
+Explore the application of MEMS in healthcare.  
+K2, K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+MEMS and Microsystems 
+Design and Manufacture 
+Tai Ran Hsu 
+Tata McGraw Hill 
+Publishing Company, 
+New Delhi 
+First 
+edition, 
+2017 
+2 
+BioMEMS: Technologies and 
+Applications 
+Wanjun Wang, Stephen 
+A. Soper 
+CRC Press, New York 
+First 
+edition, 
+2007 
+3 
+Fundamentals of BioMEMS 
+and Medical Microdevices 
+Steven S. Saliterman 
+Wiley Blackwell 
+First 
+edition, 
+2006 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO4 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+CO5 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+An introduction to 
+Microelectromechanical 
+Systems Engineering 
+Nadim Maluf, Kirt 
+Williams 
+Artech House Inc, MA 
+Second 
+edition, 
+2004 
+2 
+Fundamentals of 
+Microfabrication: the Science 
+of Miniaturization 
+Marc J. Madou 
+CRC Press 
+Second 
+edition, 
+2002 
+3 
+Introduction to BioMEMS 
+Folch Albert 
+CRC Press 
+First 
+edition. 
+2016 
+4 
+Electromechanics and MEMS 
+Thomas B. 
+Jones 
+Cambridge University 
+Press 
+First 
+edition. 
+2013 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://www.youtube.com/watch?v=j9y0gfN9WMg&amp;list=PL5873EDBDFB69BAD8&amp;index=1&amp;pp=iAQB 
+2 
+https://www.youtube.com/watch?v=9qh_7spq6sw&amp;list=PL5873EDBDFB69BAD8&amp;index=16&amp;pp=iAQB 
+3 
+https://www.youtube.com/watch?v=Vb1ca8fSFxw&amp;list=PLbMVogVj5nJTzzBpZgmCsGV6kTPrUrGdG&amp;index=1&amp;pp=iAQB 
+4 
+https://www.youtube.com/watch?v=tOg1ClLF2Gk 
+
+ 
+SEMESTER S5 
+ARTIFICIAL NEURAL NETWORKS

@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic elements of DSP system. Advantages and applications. Review of Discrete-Time Fourier transform (DTFT) and its properties. Frequency domain sampling",
+            "Discrete Fourier transform (DFT) - DFT pair",
+            "properties of DFT",
+            "frequency response analysis of signals using the DFT",
+            "circular convolution using DFT",
+            "linear filtering based on DFT. Fast Fourier transform (FFT): Introduction",
+            "Radix -2 decimation in time FFT algorithm",
+            "Radix-2 decimation in frequency algorithm",
+            "IDFT using FFT algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to IIR and FIR systems. Structures for IIR Systems: Direct-Form Structures",
+            "Cascade-Form Structures",
+            "Parallel-Form Structures",
+            "Lattice Structures for IIR Systems. Structures for FIR Systems: Direct-Form Structure",
+            "Cascade-Form Structures",
+            "Lattice Structure. Linear Phase FIR filters. Signal Flow Graphs and Transposed Structures"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "General considerations",
+            "Causality and its implications",
+            "characteristics of practical frequency selective filters. IIR filter design: Discrete time IIR filter from analog filter (Butterworth",
+            "IIR filter (LPF",
+            "BRF) design by Impulse Invariance",
+            "Bilinear transformation. FIR filter design: Structures of FIR filter",
+            "Linear phase FIR filter Filter design using windowing techniques (Rectangular",
+            "Hanning",
+            "Hamming",
+            "frequency sampling Techniques"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Fixed point and floating-point number representations, Comparison, Truncation and Rounding errors. Quantization noise, Derivation for quantization noise power, coefficient quantization error, Product quantization error. Overflow error, Round-off noise power. Limit cycle oscillations due to product round-off and overflow errors, signal scaling. Introduction to TMS320 Family: Architecture, C24x CPU and other components",
+            "Assembly language Instructions, Instruction Set summary, simple programs. Design & Implementation and Filter Structures: MATLAB functions and TMS320 Implementation (Demo/Assignment only"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,276 @@
+Course Code 
+PEAET754 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBECT404 
+Microcontrollers 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To identify the basic Operating System concepts and scheduling techniques 
+2. To familiarize Real-Time system characteristics and synchronization mechanisms 
+3. To familiarize and implement Real-Time task scheduling algorithms 
+4. To apply Real-Time operating systems in practical scenarios 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Operating Systems 
+Objectives and Functions of Operating Systems, Types of OS, concept of the 
+kernel within an operating system. 
+Process Management - Process States, Process Control Block and  
+Operations on process. 
+Process Scheduling - Scheduling Algorithms – First Come First-Served 
+(FCFS), Shortest Job First (SJF), Priority Scheduling, Round Robin (RR). 
+Advanced Scheduling Techniques (Basics only) - Multilevel Queue 
+Scheduling, Multilevel Feedback Queue Scheduling. 
+10  
+2 
+Real Time Operating Systems (RTOS) - Structure and characteristics of 
+RTOS.  
+Task Management - Task states and Task synchronization.  
+Semaphores - Type, usage of semaphores for synchronization.  
+Inter task communication mechanisms (Basics only) - message queues, 
+pipes, event registers and signals. 
+8  
+
+ 
+ 
+3 
+Real-Time Task Scheduling and Constraints - Task Constraints. 
+Task Scheduling - Aperiodic Task Scheduling (Jackson’s Algorithm and 
+Horn’s Algorithm). 
+Scheduling with Precedence Constraints - LDF and EDF. 
+Periodic Task Scheduling (Basics only) - Rate Monotonic Scheduling 
+(RMS), Deadline Monotonic Scheduling (DMS). 
+Real-Time Kernel - Structure, State transition diagram and Kernel 
+primitives. 
+9  
+4 
+Real-Time Operating Systems in Practice 
+Feature and applications of FreeRTOS and Linux.  
+Overview of commercial real-time operating systems - PSOS, VRTX and 
+RT. 
+Case Study - MicroC/OS-II (Features, threads and task scheduling basics 
+only). 
+Real-Life Applications - Adaptive cruise control - practical implementation 
+challenges and solution. 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Identify the functions of operating systems and solve process 
+scheduling problems. 
+K3 
+CO2 
+Illustrate the different types of semaphores used for process 
+synchronization and explain different inter task communication 
+mechanisms. 
+K2 
+CO3 
+Model and solve aperiodic task scheduling problems by utilizing 
+scheduling algorithms. 
+K4 
+CO4 
+Illustrate the implementation of a real time system. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Real-Time Concepts for 
+Embedded Systems 
+Qing Li with Caroline 
+Yao 
+CMP Books 
+1/e, 2003 
+2 
+Hard Real Time Computing 
+Systems Predictable Scheduling 
+Algorithms and Applications 
+Giorgio C. Buttazzo 
+Springer 
+3/e, 2011 
+3 
+Operating System  
+Rohit Khurana 
+Vikas 
+2/e, 2016 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+ 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+3 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Operating Systems 
+Internals and Design Principles 
+William Stallings 
+Pearson 
+9/e, 2018 
+2 
+Operating System Concepts 
+Abraham Silberschatz 
+Wiley 
+10/e, 2018 
+3 
+MicroC/OS-II The Real-Time 
+Kernel 
+Jean J Labrosse 
+CRC Press 
+2022 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/105/106105172/ 
+2 
+https://archive.nptel.ac.in/courses/106/105/106105172/ 
+3 
+https://archive.nptel.ac.in/courses/106/105/106105172/ 
+4 
+https://archive.nptel.ac.in/courses/106/105/106105172/ 
+
+ 
+ 
+SEMESTER S7 
+WIRELESS SENSOR NETWORKS

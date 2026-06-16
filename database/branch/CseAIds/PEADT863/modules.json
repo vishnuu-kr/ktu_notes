@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Authentication\nprotocols:-\nMessage\nAuthentication\nRequirements,\nAuthentication functions, Message authentication codes-Hash functions,\nDigital signatures, Authentication Protocols – Mutual authentication, One way\nauthentication. Kerberos –\nKerberos Version 4, Kerberos Version 5.X.509 Authentication service. Public\nKey Infrastructure (PKI) – Trust models, Revocation.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Electronic Mail Security- Pretty Good Privacy (PGP) – Operational\nDescription, Cryptographic keys and key rings, Message format, PGP message\ngeneration, PGP message reception, Public key management.  S/MIME –\nFunctionality, Messages, Certificate processing, Enhanced security services.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Network Layer Security and Web Security-Internet Protocol Security\n(IPSec) – Overview, IP security architecture, Authentication Header (AH),\nEncapsulating Security Payload (ESP), Combining Security Associations, Key\nmanagement. Internet Key Exchange (IKE) - Phases.\nWeb Security – Web security considerations. Secure Socket Layer and\nTransport Layer Security (SSL/TLS) – SSL Architecture, SSL protocols",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Application Layer Security and System Security-Hypertext Transfer\nProtocol Secure (HTTPS) –Connection initiation, Closure. Secure Shell (SSH)\n–Transport layer protocol, User authentication protocol, Connection\nprotocol.Secure Electronic Transaction (SET) – Overview, Features,\nParticipants, Dual signature, Payment processing.\nFirewalls\n–\nFirewall\ncharacteristics,\nTypes\nof\nFirewalls,\nFirewall\nconfigurations, Encrypted Tunnels, Trusted systems – Data access control, The\nconcept of Trusted Systems, Trojan horse defense.",
+    "contact_hours": "10"
+  }
+]

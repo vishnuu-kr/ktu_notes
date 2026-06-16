@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Application Areas of Robot Motion Planning - Personal Transport Vehicles, Planetary Exploration, Demining, Fixed-Base Robot Arms in Industry, Search and Rescue Robots, Surgical Robots",
+            "Concepts in Motion Planning - Task, Properties of the Robot, Properties of the Algorithm",
+            "Basic Topological Concepts: Basic Definitions of Topological Spaces, Homeomorphism, Diffeomorphism, Differentiable Manifolds, Paths and Connectivity - Paths, Connected vs. Path Connected",
+            "Configuration Space: Specifying a Robot's Configuration, Obstacles and the Configuration Space - Circular Mobile Robot, Two-Joint Planar Arm, C-Obstacles, Topology of the Configuration Space"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Definition",
+            "Accessibility",
+            "Departability",
+            "Connectivity",
+            "Types of Roadmaps: Visibility Maps - Visibility Graphs",
+            "Deformation Retracts - Generalized Voronoi Diagram (GVD)",
+            "Sensor-Based Construction of the GVD",
+            "Polygonal Spaces",
+            "Grid Configuration Spaces - The Brushfire Method",
+            "Silhouette Methods - Canny's Roadmap Algorithm",
+            "Cell Decomposition: Exact Cell Decomposition",
+            "Approximate Cell Decomposition",
+            "Trapezoidal Decomposition",
+            "Morse Cell Decomposition",
+            "Boustrophedon Decomposition",
+            "Potential Field Planning: Potential Field Method",
+            "Attractive",
+            "Repulsive Potential"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Characteristics of Sampling-Based Planners",
+            "Probabilistic Roadmaps: Basic PRM - Roadmap Construction",
+            "Query Phase",
+            "PRM Sampling Strategies - Sampling Near the Obstacles",
+            "Sampling Inside Narrow Passages",
+            "Visibility-Based Sampling",
+            "Manipulability-Based Sampling",
+            "Single-Query Sampling-Based Planners - Expansive-Spaces Trees (EST)",
+            "Rapidly-Exploring Random Trees (RRTs)"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Bug 1",
+            "Bug 2",
+            "Tangent Bug Algorithms",
+            "Dynamic Window Approaches",
+            "D* Algorithms",
+            "Multiple Robot Motion Planning: Problem Formulation",
+            "Composite Configuration Space",
+            "Centralized Planning",
+            "Decoupled Planning - Prioritized Planning - Fixed-Path Coordination",
+            "Fixed-Roadmap Coordination",
+            "Dynamic Motion Planning: Moving Obstacles",
+            "Configuration Time Space",
+            "Planning Without Velocity Bound - Exact Cell Decomposition",
+            "Approximate Cell Decomposition",
+            "Planning With Velocity Bound - Asteroid Avoidance Problem",
+            "Approximate Cell Decomposition",
+            "Velocity Tuning"
+        ]
+    }
+]

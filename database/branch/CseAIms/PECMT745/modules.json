@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction:Deep Reinforcement Learning, Suitability of Reinforcement\nLearning, Components of Reinforcement Learning - Agent, Environment,\nObservations, Actions.Examples - The Bandit Walk Environment, Agent-\nEnvironment interaction cycle.\nMarkov Decision Process (MDP):The Engine of the Environment - States,\nActions, Transition Function, Reward Signal.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Planning:Objective of a decision making agent-environment, Plan, Optimal\npolicy, Comparison of Policies, Bellman Equation/State-Value Function,\nAction-Value Function, Action-Advantage Function, Optimality.\nExploitation and Exploration of Reinforcement Learning:Bandits- Single\nState Decision Problem (Multi-Armed Bandit(MAB) problem), The cost of\nexploration, Approaches to solve MAB environments, Greedy Strategy,\nRandom Strategy, Epsilon-Greedy Strategy, Decaying Epsilon-Greedy\nStrategy, Optimistic Initialization Strategy, Strategic Exploration, Softmax\nExploration Strategy, Upper Confidence Bound (UCB) Equation Strategy,\nThompson Sampling Strategy.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Model Free Reinforcement Learning:Monte Carlo Prediction (MC), First-\nVisit MC (FVMC), Every-Visit MC (EVMC), Temporal Difference Learning\n(TD), Learning to Estimate from Multiple Steps, N-step TD Learning,\nForward-View\nTD(λ),\nBackward-View\nTD(λ),\nGeneralized\nPolicy\nIteration(GPI), Monte Carlo Control, SARSA: On-Policy TD control, Q-\nlearning: Off-Policy TD control, Double Q-learning, SARSA(λ), Watkins’s\nQ(λ).\nModel Based Reinforcement Learning:Dyna-Q, Trajectory sampling",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Value Based Reinforcement Learning:Deep Reinforcement Learning\nAgents with Sequential Feedback, Evaluative Feedback, Sampled Feedback,\nFunction Approximation for Reinforcement Learning - High-Dimensional\nState and Action Spaces, Continuous State and Action Spaces, State-Value\nFunction and Action-Value Function with and without Function\nApproximation,\nNeural Fitted Q (NFQ), Deep Q-Network (DQN), Double Deep-Q Networks\n(DDQN), Duelling DDQN, Prioritized Experience Replay (PER).",
+    "contact_hours": "8"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Concept & Overview of Database Management Systems (DBMS) -\nCharacteristics of Database\nsystem, Structured, semi-structured and unstructured data. Data Models and\nSchema - Three Schema architecture. Database Languages.\nER model - Basic concepts, entity set & attributes, notations, Relationships\nand constraints, cardinality, participation, notations, weak entities,\nrelationships of degree 3.\nPhysical Data Organization - Review of terms: physical and logical records,\nblocking factor, pinned and unpinned organization. Heap files, Indexing,\nSinge level indices, numerical examples, Multi-level-indices, numerical\nexamples",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Structure of Relational Databases - Integrity Constraints, Synthesizing ER\ndiagram to relational schema\nStructured Query Language (SQL), Data Definition Language (DDL), Table\ndefinitions and operations – CREATE, DROP, ALTER, INSERT, DELETE,\nUPDATE.SQL DML (Data Manipulation Language) - SQL queries on single\nand multiple tables, Nested queries (correlated and non-correlated),\nAggregation and grouping, Views, assertions, Triggers, SQL data types,\nRecursive queries, Accessing SQL from a Programming Language",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Different anomalies in designing a database, The idea of normalization,\nFunctional dependency, Armstrong’s Axioms (proofs not required), Closures\nand their computation, Equivalence of Functional Dependencies (FD),\nMinimal Cover (proofs not required). First Normal Form (1NF), Second\nNormal Form (2NF), Third Normal Form (3NF), Boyce Codd Normal Form\n(BCNF), Lossless join and dependency preserving decomposition,\nAlgorithms for checking Lossless Join (LJ) and Dependency Preserving (DP)\nproperties",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Transaction Processing Concepts - overview of concurrency control,\nTransaction Model, Significance of concurrency Control & Recovery,\nTransaction States, System Log, Desirable\nProperties of transactions. Serial schedules, Concurrent and Serializable\nSchedules, Conflict equivalence and conflict\nserializability, Recoverable and cascade-less schedules, Locking, Two-\nphase locking, and its variations. Log-based recovery, Deferred database\nmodification, check-pointing.\nIntroduction to NoSQL Databases, Main characteristics of Key-value DB\n(examples from Redis), Document DB (examples from MongoDB) Main\ncharacteristics of Column-Family DB (examples from Cassandra), and\nGraph DB (examples from ArangoDB)",
+    "contact_hours": "9"
+  }
+]

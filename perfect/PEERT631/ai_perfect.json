@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Electrical Circuits: Circuit Concept, Types of Elements, Source Transformation, Voltage-Current Relationship for Passive Elements",
+            "Network Reduction Techniques: Series",
+            "Parallel",
+            "Series-Parallel",
+            "Examples",
+            "Time and Frequency Domain Analysis of RLC Circuits",
+            "Introduction to Control Systems: Basic Components of a Control System",
+            "Types of Control Systems",
+            "Examples of Control Systems",
+            "Effect of Feedback Systems",
+            "Laplace Transforms",
+            "Transfer Function",
+            "Modelling of Electrical Networks",
+            "Block Diagram Reduction",
+            "Signal Flow Graphs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Modelling of Mechanical Systems: Translational and Rotational Systems",
+            "Transfer Function for Typical Mechanical Systems",
+            "Analogous Systems: Force-Voltage and Force-Current Analogy",
+            "Impulse Response and Its Relation with Transfer Function"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Time Domain Analysis of Feedback Control Systems: Transient and Steady-State Response",
+            "Standard Test Signals",
+            "Type and Order of Systems",
+            "Concept of Poles and Zeros",
+            "Time Response of First and Second Order Systems to Unit Impulse and Step Input",
+            "Time Domain Specifications",
+            "Steady-State Response",
+            "Steady-State Error",
+            "Static and Dynamic Error Coefficients"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Frequency Domain Specifications",
+            "Stability from Bode Plots",
+            "Relative Stability",
+            "Gain Margin and Phase Margin",
+            "Introduction to Lead",
+            "Lag and Lead-Lag Compensating Networks (Excluding Design)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

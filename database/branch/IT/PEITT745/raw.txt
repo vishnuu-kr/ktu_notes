@@ -1,0 +1,383 @@
+Course Code 
+PEITT745 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCITT501: Machine Learning
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To enable students to understand the fundamental deep learning techniques and apply them to 
+solve real-world problems. 
+2. To enable students to analyze and evaluate advanced deep learning models and their applications 
+to determine the most suitable approach for complex problems. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours  
+1 
+Deep 
+Learning 
+Fundamentals: 
+Principal 
+Component 
+Analysis, 
+Conditional Probability- Chain Rule, Bayes’ Rule, Hyper parameter 
+Optimization - Gradient- Based Optimization – SGD, Adaptive GD, 
+RMSprop, Constrained Optimization, Regularization - L1 and L2 
+regularization. 
+Deep Feedforward Networks: Gradient-Based Learning, Hidden Units, 
+Architecture Design, Backpropagation 
+9 
+2 
+Recurrent Neural Networks:  
+Architecture, 
+Challenges, 
+Bi-directional 
+RNN, 
+Enocder- 
+Decoder 
+Sequence-to-Sequence 
+Application, 
+LSTM, 
+Gated 
+Recurrent 
+Unit 
+networks, Applications of RNN. 
+9 
+
+ 
+ 
+3 
+Convolutional Networks:   
+Basic Structure of Convolutional Network, Training a Convolutional 
+Network, Transfer learning models - AlexNet, GoogleNet, VGG Net, 
+ResNet, Applications of CNN 
+9 
+4 
+Advanced Deep Learning:  
+Transformers and Pre-trained networks, Generative Adversarial Network, 
+Autoencoder: 
+Basic 
+Principles, 
+Deep 
+Autoencoder, 
+Applications, 
+Competitive Learning- Self Organising Map, Applications of Deep 
+Learning 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal 
+Examination 
+(Written) 
+Evaluate 
+Level 
+Assessment 
+Analyze Level 
+Assessment 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Evaluate and Analyze Level Assessment [20 Marks] 
+Students should evaluate and analyze a real-world problem, assess the proposed solutions, 
+provide a conclusion on which solution is most appropriate for the problem, and implement 
+the chosen solution. 
+ 
+Criteria for evaluation: 
+1. Problem Definition (K2 - 4 points) 
+a. Clearly defines the real-world problem, ensuring it is specific and relevant. 
+b. Problem is excellently defined with precise, impactful objectives that 
+highlight the importance and scope of the issue. 
+2. Problem Analysis (K4 - 4 points) 
+a. Break-down and presents a well-reasoned solution approach, including the 
+rationale behind chosen methods. 
+b. Performance metrics are expertly selected, analysis is deep, insightful, and 
+
+ 
+ 
+demonstrates strong understanding of the problem and proposed solutions. 
+3. Evaluate (K5 - 4 points) 
+a. Thoroughly evaluate the proposed solutions, comparing their effectiveness 
+and relevance. 
+b. Data is excellently selected; preprocessing is sophisticated and enhances 
+model performance. 
+c. Training process is expertly handled, validation is extensive, demonstrating 
+strong generalization and robustness of the model. 
+4. Implementation (K3 - 4 points) 
+a. Select the most feasible solution based on evaluation and implements it. 
+b. Successfully translates the chosen solution into code with a clear, working 
+implementation. 
+c. Design is innovative, implementation is flawless and optimized for 
+performance. 
+5. Conclusion (K4- 2 points, K5 – 2 points) 
+a. Provides a highly creative and innovative conclusion, pushing the boundaries 
+of standard methods. (K4) 
+b. Demonstrates an excellent grasp of deep learning concepts, applied 
+creatively and effectively in the context of the solution. (K5) 
+Scoring: 
+1. Accomplished (4 points): Exceptional analysis, clear implementation, and depth of 
+understanding. 
+2. Competent (3 points): Solid performance with minor areas for improvement. 
+3. Developing (2 points): Adequate effort but lacks depth or clarity in analysis or 
+implementation. 
+4. Minimal (1 point): Incomplete or significantly flawed analysis or implementation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 
+Questions 
+from 
+each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply fundamental concepts of deep learning to design, train, and 
+evaluate deep feedforward networks. 
+K3 
+CO2 
+Implement 
+and 
+compare 
+various 
+gradient-based 
+optimization 
+techniques to optimize deep learning models. 
+K3 
+CO3 
+Design and develop deep feedforward networks and recurrent neural 
+networks, including architectures like LSTM and GRUs, to address 
+specific tasks. 
+K3 
+CO4 
+Explore and apply various CNN to solve complex visual recognition 
+tasks. 
+K3 
+CO5 
+Analyze and evaluate advanced deep learning techniques, to innovative 
+applications.  
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the Publisher 
+Edition and 
+Year 
+1 
+Neural Networks and 
+Deep Learning: A 
+Textbook 
+Charu C. Aggarwal 
+Springer International 
+Publishing AG 
+1st ed. 2018 
+2 
+Speech and Language 
+Processing 
+James H Matin, Dan 
+Jurafsky 
+https://web.stanford.edu/~
+jurafsky/slp3/ 
+(3rd ed. draft) 
+3 
+Deep Learning: 
+Foundations and 
+Concepts 
+Christopher M. 
+Bishop, Hugh Bishop 
+Springer-Nature New 
+York Inc 
+2 November 
+2023 
+ 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and Year 
+1 
+Machine Learning: Theory and 
+Practice 
+M. Narasimha Murty, 
+Ananthanarayana V S 
+Univerities 
+Press 
+1st Edition, 2024 
+2 
+Deep Learning (Adaptive 
+Computation and Machine 
+Learning Series) 
+Ian Goodfellow, Yoshua 
+Bengio, Aaron Courville 
+MIT Press 
+2016 
+ 
+3 
+Pattern Recognition and 
+Machine Learning 
+Bishop C M 
+Springer 
+1st Edition 
+Reprint, Jan 2009 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO2 
+3 
+2 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO3 
+3 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO4 
+3 
+3 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO5 
+3 
+3 
+3 
+3 
+3 
+3 
+- 
+- 
+3 
+3 
+2 
+3 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc21_cs76/preview 
+2 
+https://onlinecourses.nptel.ac.in/noc20_cs62/preview 
+
+ 
+ 
+SEMESTER S7 
+APPROXIMATION ALGORITHMS

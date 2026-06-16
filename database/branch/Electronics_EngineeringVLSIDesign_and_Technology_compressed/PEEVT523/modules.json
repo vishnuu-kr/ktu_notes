@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Graphs : Introduction- Basic definition – Application of\ngraphs – finite, infinite and bipartite graphs – Incidence and Degree –\nIsolated vertex, pendant vertex and Null graph. Paths and circuits –\nIsomorphism, sub graphs, walks, paths and circuits, connected graphs,\ndisconnected graphs and components.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Eulerian and Hamiltonian graphs : Euler graphs, Operations on graphs,\nHamiltonian paths and circuits, Travelling salesman problem. Directed\ngraphs – types of digraphs, Digraphs and binary relation, Directed paths,\nFleury’s algorithm.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Trees and Graph Algorithms : Trees – properties, pendant vertex, Distance\nand centres in a tree - Rooted and binary trees, counting trees, spanning trees,\nPrim’s algorithm and Kruskal’s algorithm, Dijkstra’s shortest path algorithm,\nFloyd-Warshall shortest path algorithm.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Connectivity and Planar Graphs : Vertex Connectivity, Edge Connectivity,\nCut set and Cut Vertices, Fundamental circuits, Planar graphs, Kuratowski’s\ntheorem (proof not required), Different representations of planar graphs,\nEuler's theorem, Geometric dual.\nGraph Representations and Vertex Colouring : Matrix representation of\ngraphs-Adjacency matrix, Incidence Matrix, Circuit Matrix, Path Matrix.\nColoring- Chromatic number, Chromatic polynomial, Matchings, Coverings,\nFour color problem and Five color problem. Greedy colouring algorithm.",
+    "contact_hours": "11"
+  }
+]

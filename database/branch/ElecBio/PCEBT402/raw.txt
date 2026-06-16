@@ -1,0 +1,331 @@
+Course Code 
+PCEBT402 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCEBT302 
+Course Type 
+Theory 
+Course Objectives: 
+1. To impart extensive knowledge to students of Integrated Circuit fabrication technology and 
+the concepts of operational amplifiers.  
+2. To enable students to acquire the design and analysis skills for circuits using op-amps and 
+other specialized ICs. 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Microelectronic fabrication technology: Brief overview of 
+microelectronic fabrication technology - Epitaxial Growth, Diffusion, 
+Ion Implantation Processes -Description - Fabrication of BJT, 
+MOSFETs. Operational amplifiers: Introduction to operational 
+amplifiers, Internal block schematic of op amp- equivalent circuit - 
+Voltage transfer curve-– input and output impedance –Slew rate, Input 
+bias current –Input offset current- Offset voltage- CMRR, SVRR. 
+Open loop op- amp configurations- open loop gain – Frequency 
+response- finite gain bandwidth -–Ideal op amp parameters. Offset 
+voltage compensating networks-offset minimizing resistor. 
+11 
+2 
+Closed loop op amp configurations: Feedback topologies- Voltage 
+series, voltage shunt, current series and current shunt feedbacks – 
+Frequency response, concept of virtual ground - Closed loop gain, 
+input resistance, output resistance, band width and output offset 
+voltage of feedback configurations, voltage follower. Summing 
+amplifier, Difference amplifiers with one op amp and 3 op amps-
+Instrumentation amplifier, Log and Antilog amplifiers. Voltage to 
+11 
+
+ 
+ 
+current and current to voltage converter - Integrator and differentiator. 
+Peak detector circuit, Precision rectifiers. Comparators and Schmitt 
+trigger circuits 
+3 
+Active Filters: Transfer functions – LPF, HPF, BPF, BRF. First and 
+second order filters. Approximation methods–Butterworth –
+Chebyshev. Sample and hold circuit, ADC -successive approximation, 
+flash, integrating types. DAC – weighted, R-2R types, Multi vibrators 
+- Astable and mono stable – Design and working. Wave generators- 
+Triangular and saw tooth - RC phase shift and Wien bridge oscillators.
+11 
+4 
+Specialized ICs and applications: IC regulators - 723 -block diagram, 
+typical low voltage regulator circuit, 78XX and 79XX IC regulators, 
+317 - applications. Timers - 555 – Functional block diagram- Astable 
+and monostable multi vibrators using 555. VCO – 566. PLL-IC 565-
+Block diagram, working and applications. 
+11 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Micro project
+Internal 
+Examination-1 
+(Written)
+Internal 
+Examination- 2 
+(Written)
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, 
+out of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the steps of micro-fabrication technology and the 
+constructional details of op amp.   
+K2 
+CO2 
+Apply the fundamental concepts of op amp to design analog 
+circuits for different applications.  
+K3 
+CO3 
+Analyze the important circuits using op-amps.  
+K4 
+CO4 
+Select a suitable circuit for doing a specified analog signal 
+processing operation. 
+K4 
+CO5 
+Choose specialized ICs to design and develop application circuits.  
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Op-Amps and Linear 
+Integrated Circuits 
+Ramakant A. 
+Gayakwad 
+Pearson Education 
+Asia 
+Fourth 
+edition,. 
+2015
+2 
+Operational Amplifiers 
+Theory and Design 
+Johan Huijsing 
+Springer 
+International 
+Publishing 
+Third 
+illustrated 
+edition, 
+2016
+3 
+Op Amps for Everyone 
+Bruce Carter, Ron 
+Mancini 
+Elsevier Science 
+Fifth 
+illustrated 
+edition, 
+2017
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO1
+0 
+PO1
+1 
+PO1
+2 
+CO1 
+3 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO2 
+3 
+2 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO3 
+3 
+2 
+2 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO4 
+3 
+2 
+2 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+2 
+2 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of 
+the 
+Publisher 
+Edition 
+and Year 
+1 
+Op amps and Linear Integrated 
+circuits 
+Coughlin & Driscoll 
+Pearson 
+Education 
+Asia.
+Sixth 
+Edition. 
+2000
+2 
+Microelectronics 
+Millman & Grabel 
+McGraw 
+Hill 
+Internatio
+nal
+Second 
+edition.2
+017 
+3 
+Microelectronic circuits 
+Sedra & Smith 
+Oxford 
+University 
+Press
+Seventh 
+Edition, 
+2014
+4 
+Op amps and Linear integrated 
+Circuits 
+D A Bel 
+Prentice 
+Hall of 
+India
+1997 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://youtu.be/lpXNCwsnxjM 
+2 
+https://youtu.be/Iv4Cj2A3ldw?si=m0jNXOfP9-9m1uwH, 
+https://youtu.be/4HV1ZZjvDn0?si=oJ7E5DF_k7NIplMO 
+3 
+https://youtu.be/M3yI0byaqKc?si=SHzcyMQToWpMpUjK 
+4 
+https://youtu.be/WFsPI8_ZKbc 
+
+ 
+SEMESTER S4 
+ANALYTICAL & DIAGNOSTIC EQUIPMENTS

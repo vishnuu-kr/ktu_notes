@@ -1,0 +1,70 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Definition of scheduling",
+      "role of scheduling",
+      "terminologies involved in scheduling",
+      "classification of scheduling models -Graham et al. 𝛼/𝛽/𝛾 notations to classify scheduling problems",
+      "performance measures",
+      "relationship between performance measures",
+      "theorems related to performance measures (proof and problems). Classes of schedules - non-delay schedules",
+      "active schedules and semi-active schedules. Single machine models without due dates (proof of theorems and problems) - permutation schedules theorems",
+      "shortest processing time (SPT) rule",
+      "weighted shortest processing time (WSPT) rule"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Problems with due dates",
+      "minimizing total lateness",
+      "minimizing maximum lateness and maximum tardiness",
+      "minimizing the number of tardy jobs - Moore and Hodgson algorithm",
+      "minimizing mean tardiness - Wilkerson-Irwin algorithm",
+      "minimizing regular performance measures with precedence constraints -Lawler’s algorithm",
+      "application of Smith’s algorithm. General purpose methodologies for single machine problem - neighborhood search techniques",
+      "dynamic programming approach",
+      "branch & bound approach"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Parallel identical processors and independent jobs with preemptions and without preemptions",
+      "parallel identical processors and dependent jobs",
+      "permutation schedule-Johnson’s algorithm",
+      "two jobs and m machine problems - Aker’s graphical method. Special cases of three-machine problem - extension of Johnson’s algorithm",
+      "branch & bound algorithms for makespan problems",
+      "heuristic approaches - Palmer’s algorithm",
+      "CDS algorithm and insertion heuristics"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Types of schedules",
+      "schedule generation",
+      "heuristic procedure - shifting bottleneck procedure",
+      "integer programming formulation",
+      "simulation studies of the dynamic job shop (overview only). Stochastic models - preliminaries",
+      "stochastic based on expectation",
+      "stochastic dominance based on variance",
+      "impact of randomness on fixed schedules",
+      "classes of policies - non-preemptive static list policy",
+      "preemptive static list policy",
+      "non-preemptive dynamic policy and preemptive dynamic policy",
+      "stochastic single machine models - arbitrary distributions without preemptions",
+      "arbitrary distributions with preemptions - the Gittins Index",
+      "likelihood ratio ordered distributions and exponential distributions"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

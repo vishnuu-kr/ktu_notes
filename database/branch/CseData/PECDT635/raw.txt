@@ -1,0 +1,356 @@
+Course Code 
+PECDT635 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide essential skills in web mining and social network analysis, covering theoretical 
+foundations, association rule and sequential pattern mining, information retrieval, text 
+preprocessing, advanced search techniques, and web crawling, preparing them to tackle real-
+world data analysis challenges effectively. 
+2. To impart in-depth knowledge and practical skills in structured data extraction and web usage 
+mining, including wrapper generation, schema matching, and various extraction techniques.  
+3. To learn to handle data collection, preprocessing, and modelling for web usage, analyze 
+patterns, and apply methods in recommender systems and query log mining. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction – Web Mining – Theoretical background – Association rule 
+mining – Sequential Pattern Mining -Information retrieval and Web search 
+– Information retrieval Models-Relevance Feedback- Text and Web page 
+Pre-processing – Inverted Index – Latent Semantic Indexing –Web Search 
+– Meta-Search – Web Spamming. 
+9 
+2 
+Introduction -Social Networks Analysis- Co-Citation and Bibliographic 
+Coupling- Page Rank: PageRank Algorithm, Link-Based Similarity Search, 
+Enhanced Techniques for Page Ranking - HITS: HITS Algorithm, Finding 
+Other Eigenvectors-Community Discovery: Problem Definition, Bipartite 
+Core Communities. 
+9 
+
+ 
+ 
+Web Crawling -A Basic Crawler Algorithm: Breadth-First Crawlers, 
+Preferential Crawlers, Universal Crawlers- Focused Crawlers and Topical 
+Crawlers 
+3 
+Structured Data Extraction: Wrapper Generation – Preliminaries- Wrapper 
+Induction- Instance Based Wrapper Learning - Automatic Wrapper 
+Generation: Problems - String Matching and Tree Matching -Multiple 
+Alignment - Building DOM Trees - Extraction Based on a Single List Page 
+and Multiple pages- Introduction to Schema Matching – Schema Level 
+Match -Domain and Instance Level Matching – Extracting and Analysing 
+Web Social Networks. 
+9  
+4 
+Web Usage Mining - Data Collection and Pre-Processing: Sources and 
+Types of Data, Key Elements of Web Usage Data - Data Modelling for 
+Web Usage Mining - Discovery and Analysis of Web Usage Patterns – 
+Applications- Recommender Systems and Collaborative Filtering –Query 
+Log Mining 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+Sample Questions at Analyse Level  
+1. Analyze the PageRank algorithm by implementing it on a sample network of webpages. 
+Describe how the algorithm calculates the rank of each page based on the link structure and 
+the concept of the damping factor. Compare the results of your implementation with a 
+modified version. 
+2. Develop and implement both a Breadth-First Crawler and a Preferential Crawler to traverse a 
+subset of web pages. Compare their efficiency and effectiveness in terms of speed, coverage, 
+and relevance of the pages they collect. Analyze the differences in their crawling strategies 
+and how they impact the quality of the data retrieved. 
+
+ 
+ 
+3. Analyse Apriori to perform Market Basket Analysis, discovering frequent itemsets and 
+association rules from a retail transaction dataset. You will analyze customer buying patterns 
+to uncover relationships between items commonly bought together.  Goal is use to perform 
+the data preprocessing, frequent itemset mining, and association rule generation. Can use any 
+real time data sets. 
+4. Analyze the impact of co-citation and bibliographic coupling on the understanding of 
+relationships between academic papers or web pages. Examine how these methods reveal 
+hidden connections and influence metrics within the network. 
+5. Analyse how Latent Semantic Indexing (LSI) improves the relevance of search results by 
+capturing latent relationships between terms and documents through dimensionality reduction 
+and latent semantic representation. 
+6. Analyze the role of DOM trees in structured data extraction. Discuss how building and 
+traversing DOM trees contribute to accurate data extraction from HTML pages. 
+ 
+Sample Questions at Evaluate Level 
+1.  Evaluate the performance of the HITS algorithm in identifying hub and authority nodes in a 
+network. Discuss how well the algorithm's hub and authority scores align with the actual 
+importance and relevance of nodes within the network. Include an assessment of how the 
+HITS algorithm compares to PageRank in terms of accuracy and practical application. 
+2. Evaluate the performance of schema matching techniques at different levels (schema level, 
+domain level, and instance level). 
+3. Evaluate the impact of query log mining on improving search engine performance and user 
+experience. 
+4. Evaluate the effectiveness of various preliminary techniques in wrapper generation. How do 
+these techniques impact the accuracy and adaptability of data extraction from web pages with 
+differing structures and content? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain data mining process and techniques, specifically those that are 
+relevant to Web mining. 
+K2 
+CO2 
+Identify the use of Social Networks Analysis in Web Mining and 
+basics of Information retrieval  
+K3 
+CO3 
+Use different web crawling algorithms, such as breadth-first, 
+preferential, universal, focused, and topical crawlers, to evaluate their 
+effectiveness in gathering and processing web data 
+K3 
+CO4 
+create and implement advanced solutions for structured data extraction, 
+including innovative methods for wrapper generation, automatic 
+wrappers, and matching techniques for various web pages. 
+K5 
+CO5 
+Use schema matching and data extraction techniques to analyze web 
+social networks and integrate diverse data sources to gain useful 
+insights 
+K4 
+CO6 
+Analyze web usage mining techniques and their effectiveness in data 
+modeling, pattern discovery, and applications like recommender 
+systems and query log analysis. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Web Data Mining: Exploring Hyperlinks, 
+Contents, and Usage Data (Data- Centric 
+Systems and Applications) 
+Bing Liu, 
+Springer 
+2/e, 2009 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Data Mining the Web: Uncovering 
+Patterns in Web Content, Structure, and 
+Usage 
+Zdravko Markov, 
+Daniel T. Larose 
+John Wiley & 
+Sons, 
+1/e, 2007 
+2 
+Web Mining and Social Networking: 
+Techniques and Applications 
+Guandong Xu, Yanchun 
+Zhang, Lin Li, 
+Springer 
+1/e, 2010 
+3 
+Mining the Web: Discovering Knowledge 
+from Hypertext Data 
+Soumen Chakrabarti 
+Morgan 
+Kaufmann 
+1/e. 2002 
+4 
+ Graph-Theoretic Techniques for Web 
+Content Mining  
+Adam Schenke 
+World 
+Scientific 
+Publishing 
+1/e, 2005 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+    3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+C05  
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+C06 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+SEMESTER S6 
+ DEEP LEARNING

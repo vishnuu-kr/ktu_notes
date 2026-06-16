@@ -1,0 +1,84 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Computer Storage Technologies - Magnetic Bubble Memories",
+            "Charged Coupled Devices (CCDs)",
+            "Micro-Electro-Mechanical Systems (MEMS)",
+            "Flash Memories",
+            "Processing In Memory (PIM)",
+            "Optical Storage",
+            "Data Deduplication in Storage Systems",
+            "Storage Arrays - Architectural Principles",
+            "Replication",
+            "Local Snapshot",
+            "Redundant Arrays of Independent Disks (RAID) - RAID 0",
+            "RAID 2",
+            "RAID 3",
+            "RAID 4",
+            "RAID 5",
+            "RAID 6",
+            "Hybrid RAID"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Fibre Channel SAN - FC SAN Components",
+            "SAN Topologies",
+            "iSCSI SAN - iSCSI Names",
+            "Sessions",
+            "iSNS",
+            "Network Attached Storage - NAS Protocols",
+            "NAS Arrays",
+            "NAS Performance",
+            "Object Storage - Objects and Object IDs",
+            "Metadata",
+            "API Access"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Business Continuity",
+            "Replication - Synchronous Replication",
+            "Asynchronous Replication",
+            "Application Layer Replication",
+            "Logical Volume Manager-Based Replication",
+            "Backup Methods - Hot Backups",
+            "Offline Backups",
+            "LAN-Based Backups",
+            "LAN-Free Backups (SAN-Based)",
+            "Serverless Backups",
+            "NDMP",
+            "Backup Types - Full Backups",
+            "Incremental Backups",
+            "Differential Backups",
+            "Synthetic Full Backups",
+            "Application-Aware Backups"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Capacity Management - Capacity Reporting",
+            "Thin Provisioning Considerations",
+            "Deduplication and Compression",
+            "Quotas and Archiving",
+            "Showback and Chargeback",
+            "Performance Management - Latency/Response Time",
+            "IOPS",
+            "MBps and Transfer Rate",
+            "Factors Affecting Storage Performance",
+            "Management Protocols and Interfaces"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

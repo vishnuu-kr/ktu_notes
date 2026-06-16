@@ -1,0 +1,79 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Digital systems - Binary and hexadecimal number systems",
+            "Methods of base conversions",
+            "Binary and hexadecimal arithmetic",
+            "Representation of signed numbers(1’s complement",
+            "2’s complement",
+            "9’s complement",
+            "10’s complement forms). Fixed and floating point numbers",
+            "decimal codes - BCD",
+            "Gray codes",
+            "Excess 3 code",
+            "ASCII code. Boolean Algebra - Basic definitions and axiomatic definition of Boolean algebra",
+            "Basic theorems and properties of Boolean algebra",
+            "11 B.Tech 2024 - S1/S2 APJ Abdul Kalam Technological University De-Morgan’s Theorems",
+            "Boolean functions",
+            "canonical and standard forms",
+            "Digital logic gates and their truth table. Minimization of Boolean expressions",
+            "Sum of Products (SOP",
+            "Product of Sums (POS",
+            "Karnaugh map Minimization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Combinational Logic Systems - Half and full adders",
+            "4 bit ripple carry adder",
+            "Subtractors",
+            "BCD Adder",
+            "Magnitude Comparators",
+            "Decoders and Encoders",
+            "Multiplexers and Demultiplexer. Basic Introduction to Programmable logic devices (PLD) and FPGA. Verilog HDL - Basic language elements",
+            "identifiers and operators. Verilog implementation of logic gates and combinational circuits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Latches and Flipflops - SR Latch",
+            "SR Flipflop",
+            "D and T flipflops",
+            "Master slave JK FF",
+            "Excitation table and characteristic equation",
+            "conversion of flipflops. Registers - Shift registers-SIPO",
+            "SISO",
+            "PISO",
+            "PIPO",
+            "Bidirectional. Verilog modeling of flipflops"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Counters- Ripple counter",
+            "Mod 10 Counter",
+            "Ring counter and Johnsons-Design of Asynchronous and Synchronous counters",
+            "Mod N counter",
+            "sequence generator. Verilog modelling of asynchronous and synchronous counters. Verilog implementation of sequence generator. Electrical characteristics of TTL and CMOS logic families - logic levels and noise margins",
+            "fan-out",
+            "propagation delay",
+            "transition time",
+            "power consumption and power delay product. TTL inverter - circuit description and operation",
+            "CMOS inverter - circuit description and operation",
+            "CMOS NAND",
+            "CMOS NOR. 11 B.Tech 2024 - S1/S2 APJ Abdul Kalam Technological University"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

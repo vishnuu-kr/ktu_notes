@@ -1,0 +1,46 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to ANN and CNN: Overview of Biological Neuron",
+            "Concept of Perceptrons",
+            "Multi-Layer Perceptrons (MLPs), Activation Functions - Sigmoid, ReLU, and Softmax, Loss Functions - Mean Squared Error",
+            "Cross Entropy, Convolutional Neural Networks - Convolution Operation, CNN Architecture - Convolutional Layers",
+            "Kernels",
+            "Padding",
+            "Pooling Layers",
+            "Fully Connected Layers"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Training CNNs - Backpropagation and Initialization, Optimization Algorithms - SGD",
+            "Adam, Hyperparameter Optimization - Learning Rate, Regularization Methods - L1",
+            "L2 Regularization",
+            "Dropout",
+            "Data Augmentation",
+            "Early Stopping",
+            "Batch Normalization, Introduction to Transfer Learning"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Sequence Models, Recurrent Neural Networks (RNN)",
+            "Cell Structure and Architecture, Training RNN",
+            "Backpropagation Through Time, Vanishing and Exploding Gradients, Architecture of Long Short-Term Memory (LSTM), Architecture of Gated Recurrent Units (GRU)"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Generative Models, GANs - Adversarial Training, Discriminator",
+            "Generator, Introduction to Transformer Models - Architecture",
+            "Word Embedding",
+            "Position Encoding",
+            "Attention",
+            "Basics of Training Transformer Models, Basics of Large Language Model - GPT"
+        ]
+    }
+]

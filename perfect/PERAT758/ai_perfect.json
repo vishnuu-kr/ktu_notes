@@ -1,0 +1,45 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Digital Filtering - Review of Z-Transform",
+            "Z-Domain Transfer Function, Concept of Poles and Zeroes, Location of Poles and Zeroes and Their Effect on Filter Responses",
+            "FIR and IIR Type of Digital Filters, Ideal and Practical Responses of Low Pass, High Pass, Band Pass and Band Reject Filters",
+            "Analog Filter Responses - Butterworth, Chebyshev and Elliptic Responses, Applications and Advantages of Digital Filtering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "FIR Filter Design - Linear Phase Filters, Location of Zeroes, Design Using Fourier Series, Window Method - Rectangular, Hanning, Hamming Windows, Comparison of Window Frequency Responses",
+            "LP, HP, BP and BR Type Designs, FIR Filter Banks - Quadrature Mirror Sub Band Filters, Tree Structured Design"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "IIR Filter Design from Analog Filters - Design of Butterworth Analog Filter Transfer Function",
+            "Specifications of Analog and Digital Frequency Responses",
+            "Conversion to Digital Responses - Impulse Invariant and Bi-linear Transformations",
+            "Frequency Transformation in Analog Domain",
+            "Design of LP and HP Filters",
+            "Design of Comb Filter by Pole-Zero Placement"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "FIR Filter Structures - Direct, Linear Phase and Lattice Structures",
+            "IIR Filter Structures - Direct, Cascade, Parallel and Lattice Structures",
+            "Coefficient Quantization Effects in FIR and IIR Filters - Basic Concepts"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

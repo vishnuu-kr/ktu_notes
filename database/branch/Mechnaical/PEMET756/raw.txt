@@ -1,0 +1,333 @@
+Course Code 
+PEMET756 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+NONE 
+Course Type 
+Theory 
+Course Objectives: 
+1. 
+Providing a foundation to the theory behind numerical computation and optimization   
+       techniques used in robotic systems  
+2. 
+This course will equip the students with mathematical framework for the robotic systems  
+       and optimization techniques necessary for mobile robotic systems. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction: Wheeled Mobile Robots, Wheeled locomotion: The design 
+space, wheeled locomotion: Case studies. Mobile manipulators, Legged 
+Mobile Robots- Leg configurations and stability, Examples of legged robot 
+locomotion, aerial robots, underwater robots and surface water robots 
+ 
+8 
+2 
+Kinematic model: of a differential drive and a steered mobile robot, 
+degree of freedom and maneuverability, Degree of steerability, different 
+wheel configurations, holonomic and non-holonomic robots.  
+Dynamics of mobile robot: Lagrange-Euler method, Newton-Euler 
+methods, Differential-Drive WMR, Dynamics of WMR with Slip, Car-
+Like WMR Dynamic Model, Three-Wheel Omnidirectional Mobile Robot 
+ 
+10 
+3 
+Sensors for mobile robot navigation: Sensor classification, Characterizing 
+sensor 
+performance, 
+Wheel 
+/motor 
+sensors, 
+Heading 
+sensors, 
+Accelerometers, 
+IMUs, 
+Ground-based 
+beacons, 
+Active 
+ranging, 
+Motion/speed sensors, and Vision-based sensors.  
+Robot navigation: Localization, Error propagation model, Probabilistic map-
+9 
+
+ 
+based localisation-Kalman method, Autonomous map building, Simultaneous 
+localization and mapping (SLAM). 
+4 
+Path Planning: local vs global path planning, Graph search, Potential field-
+based path planning; Map based path planning- Dijkstra’s algorithm, A*, D* 
+algorithms. 
+Obstacle avoidance- Bug algorithm, Vector field histogram, Dynamic 
+window approach. 
+Control of mobile robots: Control of differential drive robot and steered 
+robot based on its kinematic model, Case study- design and implementation 
+of a differential drive robot capable of moving to a point, following a line and 
+following a path. 
+ 
+9 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Familiarise types of locomotion for mobile Robots 
+K2 
+CO2 
+Derive the kinematic model of mobile robots 
+K4 
+CO3 
+Derive dynamic model of mobile robots 
+K4 
+CO4 
+ Choose appropriate Sensors for mobile robot navigation 
+K3 
+CO5 
+Perform navigation and path planning mobile robots 
+K3 
+CO6 
+Control the mobile robots to follow different paths 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+CO-PO Mapping Table: 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+- 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+3 
+CO2 
+3 
+- 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+3 
+CO3 
+3 
+- 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+3 
+CO4 
+3 
+- 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+3 
+CO5 
+3 
+- 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+3 
+CO6 
+3 
+- 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Autonomous 
+Mobile Robots 
+R. Siegwart, I. R. 
+Nourbakhsh, 
+The MIT Press,
+ 
+2011 
+2 
+Robotics, Vision and Control: 
+Fundamental Algorithms in 
+MATLAB,  
+Peter Corke, 
+ 
+Springer Tracts in 
+Advanced Robotics 
+2011
+ 
+ 
+3 
+Introduction to Mobile Robot 
+Control,  
+Spyros G. Tzafestas 
+Elsevier.
+ 
+ 
+4 
+Planning Algorithms 
+S. M. La Valle 
+Cambridge University 
+Press 
+2009 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Probabilistic Robotics. 
+Thrun, S., Burgard,W., 
+and Fox, D., 
+MIT Press, 
+Cambridge, MA, 
+2005 
+2 
+Arduino and Kinect Projects: 
+Design, Build 
+Melgar, E. R., Diez, C. C 
+Blow Their Minds,. 
+2012 
+3 
+Introduction to Autonomous 
+Mobile Robots 
+Siegwart, Roland, 
+Cambridge, Mass.: 
+MIT Press, 
+Second 
+Edition, 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/112/106/112106298/
+2 
+https://archive.nptel.ac.in/courses/112/106/112106298/
+3 
+https://archive.nptel.ac.in/courses/112/106/112106298/
+4 
+https://archive.nptel.ac.in/courses/112/106/112106298/
+
+ 
+SEMESTER S7 
+FLEXIBLE MANUFACTURING SYSTEMS

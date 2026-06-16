@@ -1,0 +1,74 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Structure of Mechatronics system. Sensors - Characteristics - Temperature",
+      "flow",
+      "pressure sensors. Displacement",
+      "position and proximity sensing by magnetic",
+      "optical",
+      "ultrasonic",
+      "inductive",
+      "capacitive Hall Effect and eddy current methods. Encoders: incremental and absolute",
+      "gray coded encoder. Resolvers and synchros. Piezoelectric sensors. Acoustic Emission sensors. Actuators: Mechanical actuators",
+      "Electrical actuators",
+      "Hydraulic and Pneumatic actuators Working of Sensors and actuators in Automobile - MAF",
+      "Throttle position",
+      "crank shaft position",
+      "steering torque",
+      "lambda",
+      "knock sensors"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Microprocessor architecture",
+      "open and closed loop control strategies",
+      "PID control",
+      "Look up tables",
+      "introduction to modern control strategies like Fuzzy logic and adaptive control. Applications of Mechatronics in Modern vehicles like ABS",
+      "Airbag",
+      "active suspension",
+      "rain sensing wipers",
+      "ADAS driverless cars - working with sensing & Actuating components"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Timers",
+      "Internal Relays",
+      "Counters and Shift registers. Development of simple ladder programs for specific purposes. Micro Electro Mechanical Systems (MEMS): Fabrication: Deposition",
+      "Lithography",
+      "Micromachining methods for MEMS",
+      "Deep Reactive Ion Etching (DRIE) and LIGA processes. Principle",
+      "fabrication and working of MEMS based pressure sensor",
+      "accelerometer and gyroscope"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "SI Engine Management - parameters to be controlled",
+      "Electronic Fuel Injection",
+      "Electronic Ignition System and its advantages",
+      "Fuel control maps",
+      "CI Engine Management - parameters to be controlled",
+      "Fuel injection system",
+      "parameters affecting combustion",
+      "noise and emissions in CI engines. Pilot",
+      "main",
+      "advanced",
+      "post injection and retarded post injection"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

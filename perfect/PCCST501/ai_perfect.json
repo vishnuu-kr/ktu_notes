@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Application-Layer Paradigms",
+            "Client-Server Applications: World Wide Web and HTTP",
+            "FTP and Electronic Mail",
+            "DNS and Peer-to-Peer Paradigm: P2P Networks",
+            "Case Study: BitTorrent"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Services",
+            "Protocols",
+            "TCP and Hands-on: Sockets Introduction",
+            "Elementary TCP Sockets",
+            "TCP Client/Server Example",
+            "I/O Multiplexing: The select and poll Functions",
+            "Elementary UDP Sockets",
+            "Advanced I/O Functions",
+            "Network Layer: Introduction",
+            "Network-Layer Protocols",
+            "Unicast Routing",
+            "Multicast Routing: Multicasting Basics",
+            "Intra-Domain and Inter-Domain Routing",
+            "Next Generation IP",
+            "Quality of Service and Hands-on: Linux Kernel Implementation of Routing Table and Caches",
+            "Routing Cache Implementation Overview",
+            "Adding New Entry in the Routing Table Using IP Command"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Data Link Control (DLC)",
+            "Multiple Access Protocols (MAC)",
+            "Link-Layer Addressing",
+            "Ethernet Protocol",
+            "Connecting Devices and Wireless LANs",
+            "Mobile IP and Hands-on: Datalink Provider Interface",
+            "SOCK_PACKET and PF_PACKET"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Data and Signals",
+            "Digital Transmission",
+            "Analog Transmission",
+            "Bandwidth Utilization",
+            "Transmission Media"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

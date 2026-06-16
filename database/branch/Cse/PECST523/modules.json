@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Data Analytics:-\nAnalytics Process Model, Analytical Model Requirements, Data\nAnalytics Life Cycle overview; Association of two variables - Discrete\nvariables, Ordinal and Continuous variable; Probability calculus -\nprobability distributions; Hypothesis Testing - Basic definitions.\nProximity Measures - Data Objects, Attribute types, Dissimilarity and\nSimilarity measures.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Association of Two Variables:-\nSummarizing the Distribution of Two Discrete Variables, Contingency\nTables for Discrete Data, Joint, Marginal, and Conditional Frequency\nDistributions, Graphical Representation of Two Nominal or Ordinal\nVariables, Measures of Association for Two Discrete Variables,\nAssociation Between Ordinal and Continuous Variables, Visualization of\nVariables from Different Scales.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Statistical Description of data - Central tendency, Dispersion, Range,\nQuartiles, Variance, Standard Deviation, and Interquartile Range.\nData Preprocessing - Cleaning, Integration, Reduction, Transformation,\nDiscretization.\nMining Frequent Patterns - Associations, Correlations, and Apriori\nAlgorithms.\nClassification - General approach to classification, ID3, Attribute\nselection measures, Naive Bayesian Classification.\nClustering - K-Means, Agglomerative versus Divisive Hierarchical\nClustering, BIRCH, DBSCAN.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Text Processing :-\nBoolean retrieval, Example IR problem, inverted index, processing\nBoolean queries, tokenization, stemming, phrase queries, vector space\nmodel, finite automata and language model, query likelihood model,\nnaïve bayes text classification.",
+    "contact_hours": "9"
+  }
+]

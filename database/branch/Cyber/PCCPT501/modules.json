@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Control System - Definition, Open loop vs closed loop control systems-\ncomponents of atypical control system- Necessity of a control system in a\nRobot, bird’s eye view of typicalactuators in robot control systems-\nhydraulic, pneumatic and electric actuators- over view of basic types-DC\nmotors for speed control, DC and AC servo motors for position control,\nBrushless DC motors for speed control of quadcopters and linear actuation\nmechanisms. Basic idea of feedbacks in robotic systems-sensors-eg. Linear\nand rotary encoders.\nLinear time invariant Systems- Transfer function, Necessity of knowing\nthe transfer function,Modelling -Mechanical and Electromechanical systems\n–block diagram representation -block diagram reduction, characteristic\nequation, signal flow graph, overview Mason's gainformula",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Time domain analysis of control systems: Transient and steady state\nresponses - time domain specifications - first and second order systems - step\nresponses of first and second order systems, steady state error analysis -\nstatic error coefficient of type 0,1, 2 systems –Dynamic error coefficients.\nConcept of stability: Time response for various pole locations - stability of\nfeedback system -Routh's stability criterion.\nRoot locus - General rules for constructing Root loci – stability from root\nloci - effect of addition of poles and zeros.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Frequency domain analysis: Frequency domain specifications- Analysis\nbased on Bode plot -Log magnitude vs. phase plot.\nDesign of P, PI and PID controller using Ziegler-Nichols tuning method,\nOverview-Necessity of using Lag, lead and lag-lead compensators in Control\nSystems.\nState space analysis of systems: Introduction to state concept - state\nequation of linear continuous time systems, matrix representation of state\nequations. Phase variable and canonical forms of state representation-\ncontrollable, observable, diagonal and Jordan\ncanonical forms- solution of time invariant autonomous systems",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Nonlinear systems: Introduction - characteristics of nonlinear systems.\nTypes of nonlinearities. Determination of describing function of\nnonlinearities (relay, dead zone and saturation only) - application of\ndescribing function for stability analysis of autonomous system with single\nnonlinearity. Singular points – Classification of singular points.\nDefinition of stability- asymptotic stability and instability, overview of\nLyapunov methods to stability of linear and nonlinear, continuous time\nsystems.\nCase study-kinematic modelling of a differential drive robot and controlling\nthe same to move to a point",
+    "contact_hours": "11"
+  }
+]

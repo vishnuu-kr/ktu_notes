@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Deep learning: Introduction, Deep feed forward network.\nActivation functions – Sign, Sigmoid, Tanh, ReLU, leaky ReLU, Hard Tanh,\nSoftmax. Loss function. Training a Neural Network with Backpropagation.\nPractical issues in neural network training. Overfitting, Underfitting, Hyper\nparameters and Validation sets, Estimators -Bias and Variance.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Network Design parameters: Introduction, setup and initialization\nKaiming, Xavier weight initialization, Vanishing and exploding gradient\nproblems, Optimization techniques - Gradient Descent (GD), Stochastic GD-\nGD with momentum- GD with Nesterov momentum; Parameter specific\nlearning rates: AdaGrad- RMSProp- Adam; Regularization Techniques - L1\nand L2 regularization- Early stopping. Dataset augmentation- Parameter\ntying and sharing- Ensemble methods- Dropout- Batch normalization.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Convolutional Neural Network: Basic structure of a CNN; Basic layers and\noperations in CNN: Convolution operation- effect of stride and padding-\nFully Connected layers- CNN layers; Building a CNN model: Training a\nCNN; Estimation of Tensor size number of features in CNN layers, Transfer\nlearning (size similarity matrix)-Pre-trained architectures- AlexNet, ResNet-\n50, GoogleNet.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Deep learning models for text processing: Recurrent Neural Network\narchitecture; Variants of RNN architectures: Deep Recurrent Neural\nNetwork- Recursive Neural Network- Bidirectional recurrent neural network,\nEncoder-Decoder architecture, LSTM, GRU.\nAuto Encoders and Generative models. Autoencoders- Variational\nAutoEncoder-under complete Auto-encoder, stochastic encoder, denoising\nencoder; Applications of Autoencoders. Generative models - Boltzmann\nmachines- Deep Belief Networks- Generative Adversarial Networks",
+    "contact_hours": "11"
+  }
+]

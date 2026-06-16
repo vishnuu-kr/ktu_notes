@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "High Speed Digital Design: Fundamentals: Frequency and time, Time and\ndistance, Lumped versus distributed systems, four kinds of reactance-\nordinary capacitance and inductance, mutual capacitance and inductance,\nRelation of mutual capacitance and mutual inductance to cross talk.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "High Speed properties of Logic gates: Power, Quiescent vs active\ndissipation, Active power driving a capacitive load, Active power due to\noverlapping bias currents, Input power, Speed, Packaging (Power dissipation\nanalysis of only CMOS logic gates are required)\nMeasurement Techniques: Rise time and bandwidth of oscilloscope\nprobes, self inductance of probe ground loop, spurious signal pick up from\nprobe ground loops, special probing fixtures, Avoiding pickup from probe\nshield currents, slowing down of a system clock, observing metastable states.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Transmission Lines: Problems of point to point wiring, signal distortion,\nEMI, cross talk. Infinite Uniform transmission line; ideal distortion less\nlossless transmission line, RC transmission line, Skin effect, Proximity\neffect, Dielectric loss. Effects of source and load impedance. Termination:\nEnd terminator, Source terminators, middle terminators, AC biasing for end\nterminators, Resistor selection, Cross talk in terminators.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Power system: Stable voltage reference, Uniform voltage distribution,\ndistribution problems, choosing a bypass capacitor.\nClock Distribution: Timing margin, Clock skew, Using low impedance\ndrivers, using low impedance distribution lines, delay adjustments,\nDifferential distribution, Clock signal duty cycle, Decoupling clock receivers\nfrom the clock bus. Clock Oscillators, Canned clock oscillator, Clock Jitter.",
+    "contact_hours": "9"
+  }
+]

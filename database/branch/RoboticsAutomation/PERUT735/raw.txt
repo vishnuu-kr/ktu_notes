@@ -1,0 +1,303 @@
+Course Code 
+PERUT735 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+NONE 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Robot navigation deals with the ability of the robot to determine its own position in its frame of 
+reference and then to plan a path towards a goal location 
+2. Students will learn the various aspects and techniques associated with robot navigation 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Building blocks of navigation: Definitions - perception, localization, 
+cognition, motion control 
+Perception:  Sensors for Perception - Schematic representation of the 
+sensing unit, Obstacle Sensor (Bumper), the odometry sensor, Heading 
+sensors - Gyroscopes, IMUs, Distance sensors -  ToF, Phase shift, 
+triangulation, ultrasonic rangefinders, Ground based beacons, GPS, Motion 
+field and optical flow, Color tracking sensors, Feature Extraction - Feature 
+Definition, Target Environment, Environment representation 
+9 
+2 
+Localization: General schematic for mobile robot localization, Challenge of 
+Localization - Sensor noise and Sensor aliasing, Effector noise, Error model 
+for odometric position estimation 
+Localization-Based Navigation versus Programmed Solutions,  Belief 
+Representation, 
+Map 
+Representation 
+- 
+Continuous 
+Representation, 
+Decomposition Strategies, current challenges in map representation, 
+Probabilistic Map-Based Localization - Markov localization, Kalman filter 
+localization, Application to mobile robots: Kalman filter localization - 
+schematic, Robot position prediction, Observation, Measurement prediction, 
+9 
+
+ 
+ 
+Matching, Estimation, Landmark-based navigation, Globally unique 
+localization, 
+Positioning 
+beacon 
+systems, 
+Route-based 
+localization, 
+Autonomous Map Building - stochastic map technique, Challenges - Cyclic 
+environments, Dynamic environments 
+3 
+Motion in Potential Field and Navigation Function 
+Problem Statement, configuration space, free configuration space, Gradient 
+Descent Method of Optimization, Gradient Descent without and with 
+Constraints, Minkowski Sum, Potential Field, Navigation Function - in Static 
+Deterministic Environment, in Static Uncertain Environment, Navigation 
+Function and Potential Fields in Dynamic Environment - Estimation, 
+Prediction, Optimization 
+9 
+4 
+Satellite Navigation 
+Introduction to Satellite Navigation, Trilateration, Position Calculation - 
+Multipath Signals, GNSS Accuracy Analysis, Dilution of Precision, 
+Coordinate Systems, UTM Projection, Local Cartesian Coordinates, Velocity 
+Calculation, Urban Navigation - Urban Canyon Navigation, Map Matching, 
+Dead Reckoning – Inertial Sensors, Incorporating GNSS Data with INS - 
+Modified Particle Filter, Estimating Velocity by Combining GNSS and INS, 
+A-GPS, DGPS Systems, RTK Navigation, GNSS Threats 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+Criteria for Evaluation(Evaluate and Analyse): 20 marks 
+ 
+Two Course Project applying the principles of nonlinear control system analysis:(10 marks 
+each) 
+Project phases: Proposal, Implementation, Testing, Final Report, Presentations and Viva 
+Voce: 
+Faculty may direct students for the selection of topics for projects from real time examples. 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+          (8x3 =24marks) 
+ 
+2 questions will be given from each 
+module, out of which 1 question should be 
+answered. Each question can have a 
+maximum of 3 sub divisions. Each question 
+carries 9 marks. 
+                                (4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe sensors for perception in navigation 
+K2 
+CO2 
+Compare various methods for robot localization 
+K2 
+CO3 
+Explain the techniques of motion in Potential Field and Navigation 
+Function 
+K2 
+CO4 
+Apply information from satellites for navigation 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Autonomous 
+Mobile Robots 
+Roland Siegwart and 
+Illah R. Nourbakhsh 
+MIT Press 
+ 
+2 
+Autonomous Mobile Robots and 
+Multi-Robot Systems - Motion-
+Planning, Communication, and 
+Swarming 
+ Kagan, Shvalb, Ben-
+Gal 
+Wiley 
+ 
+3 
+Probabilistic Robots 
+Thrun, Burgard 
+MIT Press 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Planning Algorithms 
+Steven M. LaValle 
+Cambridge University 
+Press
+ 
+2 
+Robot Motion Planning 
+Jean- Claude Latombe 
+Springer 
+Science+Business 
+Media
+ 
+ 
+
+ 
+ 
+SEMESTER S7 
+UNDER WATER ROBOTICS

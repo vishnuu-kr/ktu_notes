@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Differential Amplifier Configurations Using BJT, DC Analysis - Transfer Characteristics",
+            "AC Analysis - Differential and Common Mode Gains, CMRR, Input and Output Resistance, Voltage Gain, Constant Current Bias, Constant Current Source",
+            "Concept of Current Mirror: Two-Transistor Current Mirror, Wilson and Widlar Current Mirrors",
+            "Operational Amplifiers (Op Amps): The 741 Op Amp, Block Diagram, Ideal Op Amp Parameters, Typical Parameter Values for 741, Equivalent Circuit, Open Loop Configurations, Voltage Transfer Curve, Frequency Response Curve"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "General Concept of Voltage Series",
+            "Voltage Shunt",
+            "Current Series and Current Shunt Negative Feedback",
+            "Op Amp Circuits with Voltage Series and Voltage Shunt Feedback",
+            "Virtual Ground Concept, Analysis of Inverting and Non-Inverting Amplifier for Closed Loop Gain",
+            "Input Resistance and Output Resistance, Op Amp Applications: Summer",
+            "Voltage Follower",
+            "Differential and Instrumentation Amplifiers",
+            "Voltage to Current and Current to Voltage Converters",
+            "Integrator",
+            "Differentiator",
+            "Precision Rectifiers",
+            "Comparators",
+            "Schmitt Triggers",
+            "Log and Antilog Amplifiers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Phase Shift and Wien-Bridge Oscillators",
+            "Triangular and Sawtooth Waveform Generators",
+            "Astable and Monostable Multivibrators, Active Filters: Comparison with Passive Filters",
+            "First and Second Order Low Pass",
+            "High Pass",
+            "Band Pass and Band Reject Active Filters",
+            "State Variable Filters, Voltage Regulators: Fixed and Adjustable Voltage Regulators",
+            "IC 723 - Low Voltage and High Voltage Configurations",
+            "Current Boosting",
+            "Current Limiting",
+            "Short Circuit and Fold-Back Protection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Timer IC 555 - Functional Diagram",
+            "Astable and Monostable Operations",
+            "Basic Concepts of Voltage Controlled Oscillator and Application of VCO IC LM566, Phase Locked Loop: Basic Building Block",
+            "Operation",
+            "Closed Loop Analysis",
+            "Lock and Capture Range",
+            "Applications of PLL",
+            "PLL IC565, Data Converters: Digital to Analog Converters",
+            "Specifications",
+            "Weighted Resistor Type and R-2R Ladder Type, Analog to Digital Converters: Specifications",
+            "Flash Type and Successive Approximation Type"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

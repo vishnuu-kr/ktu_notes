@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction To  Machine Learning\nIntroduction\nto\nMachine\nLearning\n-\nsupervised,\nsemi-supervised,\nunsupervised, reinforcement learning. Regression - Linear regression with\none variable, Linear regression with multiple variables. Linear Methods for\nClassification - Logistic regression, Naive Bayes, Decision tree algorithm\nID3. Perceptron, Neural Network - Multilayer feed forward network,\nActivation functions (Sigmoid, ReLU, Tanh), Backpropagation algorithm.\nClassification Performance Measures - Precision, Recall, Accuracy, F-\nMeasure, Receiver Operating Characteristic Curve (ROC), Area Under\nCurve (AUC), Regression Performance Measures.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Support Vector Machine\nSVM - Introduction, Maximum Margin Classification, Mathematics behind\nMaximum Margin Classification, Maximum Margin linear separators, soft\n.\nmargin SVM classifier, non-linear SVM, Kernels for learning non-linear\nfunctions, polynomial kernel, Radial Basis Function(RBF). Clustering -\nSimilarity measures, Hierarchical Agglomerative Clustering, K-means\npartitional clustering. Dimensionality Reduction –Principal Component\nAnalysis. Bootstrapping, Cross Validation, Ensemble methods.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction To Big Data Analytics\nIntroduction to Big Data Analytics: Definition-overview of big data - Types of\nDigital Data- Characteristics–Big data applications. Apache Hadoop,\nAnalysing Data with Hadoop, Hadoop ecosystem, MapReduce – Algorithms.\nFrameworks: Applications on Big Data Using Pig and Hive – Data processing\noperators in Pig – Hive services – HiveQL – Querying Data in Hive -\nfundamentals of HBase and ZooKeeper. Introduction to R programming, initial\nexploration - analysis of the data using R - basic visualization using R –Basic\nScripting-Data Set Analysis",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction To Stream Concepts\nIntroduction To Streams Concepts – Stream Data Model and Architecture -\nStream Computing - Sampling Data in a Stream – Filtering Streams – Counting\nDistinct Elements in a Stream. Link Analysis: PageRank - Hubs and\nAuthorities. Real-time Analytics Platform (RTAP) Applications - Case Studies\n- Real Time Sentiment Analysis- Stock Market. Visualizations - Visual data\nanalysis techniques- interaction techniques - Systems and applications.",
+    "contact_hours": "10"
+  }
+]

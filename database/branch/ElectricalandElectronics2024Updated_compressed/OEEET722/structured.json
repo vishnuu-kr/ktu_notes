@@ -1,0 +1,56 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "History of hybrid and electric vehicles",
+      "Social and environmental importance of hybrid and electric vehicles. Vehicle Dynamics & Load Forces : mathematical models to describe vehicle performance",
+      "vehicle load forces (concept only): aerodynamic drag",
+      "rolling resistance",
+      "grading resistance",
+      "vehicle acceleration",
+      "calculation of motor power from traction torque. Hybrid Electric Drive-trains: Basic concept of hybrid traction",
+      "introduction to various hybrid drive-train topologies (Block diagram only",
+      "power flow control in various hybrid drive-train topologies (Block diagram only). Electric Drive-trains: Basic concept of electric traction",
+      "introduction to various electric drive-train topologies (Block diagram only",
+      "power flow control in electric drive-train topologies (Block diagram only"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Block diagram",
+      "Introduction to electric motors used in hybrid and electric vehicles. DC Motor Drives: Introduction",
+      "Configuration and control of separately excited DC motors Motoring using a PM DC Machine - DC motor drive using DC-DC converter - Generating/Braking using a PM DC Machine (concept only) Induction Motor Drives: Introduction",
+      "Speed control of induction motor",
+      "V/f control of induction motor (block diagram only"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Types of battery-battery parameters-units of battery energy storage - capacity rate",
+      "cell voltage -specific energy - cycle life - self-discharge- static battery equivalent circuit model - series-parallel battery pack equivalent circuits Other storage topologies (Basics only): Fuel Cell based energy storage systems- Supercapacitors- flywheel- Hybridization of different energy storage devices Types of charging stations (Basics only)- AC Level 1 & 2",
+      "DC - Level 3 (block diagram only) -Types of Connectors - CHAdeMO",
+      "CCS Type1 and 2",
+      "GB/T - PIN diagrams and differences"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Introduction to energy management strategies",
+      "Classification of Battery management system (concept only) Vehicle Communication protocols: Need & requirements - Functions of Control Pilot (CP) and Proximity Pilot (PP) pins",
+      "Communication Protocols -CAN",
+      "FLEXRAY (Basics only)- Power line communication (PLC) in EV Autonomous Vehicles: Levels of automation",
+      "significance & effects of automation in vehicles"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,1723 @@
+Course Code 
+PEERT636 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCERT302 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce the concepts of Algorithm Analysis, Time Complexity, Space Complexity. 
+2. To discuss various Algorithm Design Strategies with proper illustrative examples. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Characteristics of Algorithms, Criteria for Analysing Algorithms, Time and 
+Space Complexity - Best, Worst and Average Case Complexities, 
+Asymptotic Notations - Big-Oh (O), Big- Omega (Ω), Big-Theta (Θ), Little-
+oh (o) and Little- Omega (ω) and their properties. 
+Analysis of Recursive Algorithms: Recurrence Equations, Solving 
+Recurrence Equations – Iteration Method, Recursion Tree Method, 
+Substitution method and Master’s Theorem (Proof not required). 
+9 
+2 
+Self-Balancing Tree - AVL Trees (Insertion and deletion operations with all 
+rotations in detail, algorithms not expected); DFS and BFS traversals - 
+Analysis, Strongly Connected Components of a Directed graph, Topological 
+Sorting. 
+9 
+3 
+The Control Abstraction of Divide and Conquer- 2-way Merge sort, 
+Strassen’s Algorithm for Matrix Multiplication-Analysis. The Control 
+Abstraction of Greedy Strategy- Fractional Knapsack Problem, Minimum 
+Cost Spanning Tree Computation- Kruskal’s Algorithms - Analysis, Single 
+Source Shortest Path Algorithm - Dijkstra’s Algorithm-Analysis. 
+9 
+4 
+The Control Abstraction- The Optimality Principle- Matrix Chain 
+Multiplication-Analysis, All Pairs Shortest Path Algorithm - Floyd-Warshall 
+Algorithm-Analysis. The Control Abstraction of Back Tracking – The N 
+9 
+
+ 
+ 
+Queen’s Problem. Branch and Bound Algorithm for Travelling Salesman 
+Problem. 
+Introduction to Complexity Theory - Tractable and Intractable Problems, 
+Complexity Classes – P, NP, NP- Hard and NP-Complete Classes 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 3 sub divisions. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Evaluate the efficiency of algorithms using asymptotic notations, solve 
+recurrence relations for recursive algorithms, and apply these concepts 
+to optimize algorithmic solutions. 
+K3 
+CO2 
+Implement AVL trees, perform DFS and BFS traversals, analyze 
+strongly connected components of directed graphs, and apply 
+topological sorting. 
+K3 
+CO3 
+Implement divide and conquer algorithms, apply greedy strategies, and 
+evaluate shortest path solutions. 
+K3 
+CO4 
+Apply dynamic programming, backtracking, and branch and bound 
+techniques, and understand complexity theory concepts. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Algorithms 
+Ellis Horowitz, SartajSahni, 
+Sanguthevar Rajasekaran 
+Universities 
+Press 
+2007 
+2 
+Introduction to Algorithms 
+Thomas H. Cormen, 
+Charles E. Leiserson, 
+Ronald L. Rivest, Clifford 
+Stein 
+MIT Press 
+2009 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO3 
+1 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The Design and Analysis of  
+Computer Algorithms 
+Alfred V. Aho, John E. 
+Hopcroft and Jeffrey D. 
+Ullman 
+Pearson Education 
+1999 
+2 
+Introduction to the Design and 
+Analysis of Algorithms 
+Anany Levitin, 
+Pearson 
+3/e, 2011 
+3 
+ Fundamentals ofAlgorithmics 
+Gilles Brassard, Paul 
+Bratley 
+Pearson Education 
+1995 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/106/106/106106131/ 
+2 
+https://archive.nptel.ac.in/courses/106/106/106106131/ 
+3 
+https://archive.nptel.ac.in/courses/106/106/106106131/ 
+4 
+https://archive.nptel.ac.in/courses/106/106/106106131/ 
+
+ 
+ 
+SEMESTER S6 
+DESIGN AND ANALYSIS OF ALGORITHMS 
+ 
+Course Code 
+PEERT 635 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory  
+ 
+Course Objectives: 
+ 
+1. To introduce the concepts of Algorithm Analysis, Time Complexity, Space Complexity. 
+2. To discuss various Algorithm Design Strategies with proper illustrative examples. 
+3. To introduce Complexity Theory. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Algorithm - Analysis Time and Space Complexity 
+Elementary operations and Computation of Time Complexity Best, worst 
+and Average Case Complexities- Complexity Calculation of simple 
+algorithms. 
+Recurrence Equations - Solution of Recurrence Equations – Iteration Method 
+and Recursion Tree Methods. 
+6 
+2 
+Master’s Theorem (Proof not required) – examples, Asymptotic Notations 
+and their properties- Application of Asymptotic Notations in Algorithm 
+Analysis- Common Complexity Functions. 
+AVL Trees – rotations, Red-Black Trees insertion and deletion (Techniques 
+only; algorithms not expected). B-Trees – insertion and deletion operations. 
+Sets- Union and find operations on disjoint sets.  
+8 
+
+ 
+ 
+3 
+Graphs – DFS and BFS traversals, complexity, Spanning trees – Minimum 
+Cost Spanning Trees, single source shortest path algorithms, Topological 
+sorting, strongly connected components. 
+Divide and Conquer - The Control Abstraction, 2-way Merge sort, Strassen’s 
+Matrix Multiplication, Analysis. 
+Dynamic Programming - The control Abstraction- The Optimality Principle- 
+Optimal matrix multiplication, Bellman-Ford Algorithm. 
+Analysis, Comparison of Divide and Conquer and Dynamic Programming 
+strategies. 
+10 
+4 
+Greedy Strategy - The Control Abstraction- the Fractional Knapsack 
+Problem, Minimal Cost Spanning Tree Computation- Prim’s Algorithm – 
+Kruskal’s Algorithm Back Tracking -The Control Abstraction – The N 
+Queen’s Problem, 0/1 Knapsack Problem  
+Branch and Bound: Travelling Salesman Problem. Introduction to 
+Complexity Theory - Tractable and Intractable Problems- The P and NP 
+Classes- Polynomial Time Reductions - The NP- Hard and NP-Complete 
+Classes. 
+12 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Assignment: 20 Marks 
+ 
+Students should design and implement a real-world application using object-oriented programming 
+principles, evaluate and refine their class structures and relationships, provide a conclusion on the 
+effectiveness of their design, and demonstrate the functionality of their application using Java. 
+ 
+Criteria for evaluation: 
+1. 
+Problem Definition (K4 - 4 points) 
+ . Clearly defines the real-world problem. 
+a. Examine and identifies relevant contextual factors (constraints, resources, objectives). 
+
+ 
+ 
+2. 
+Problem Analysis (K4 - 4 points) 
+ . Break-down and presents a well-reasoned solution approach. 
+ . Compare and justify the proposed solutions with evidence and logical reasoning. 
+2. 
+Evaluate (K5 - 4 points) 
+ . Thoroughly evaluate the proposed solutions. 
+ . Compares trade-offs, advantages, and disadvantages. 
+ . Considers feasibility, scalability, and practical implications. 
+2. 
+Implementation (K5 - 4 points) 
+ . Select the most feasible solution by implementing the proposed solutions. 
+ . Successfully translates the chosen solution into code. 
+ . Demonstrates proficiency in coding practices (readability, efficiency, error handling). 
+2. 
+Conclusion (K4- 2 points, K5 – 2 points) 
+ . Summarizes findings and insights. State which solution is most appropriate for the 
+problem. (K4) 
+ . Reflects critical thinking and informed decision-making. (K5) 
+Scoring: 
+1. Accomplished (4 points): Exceptional analysis, clear implementation, and depth of 
+understanding. 
+2. Competent (3 points): Solid performance with minor areas for improvement. 
+3. Developing (2 points): Adequate effort but lacks depth or clarity. 
+4. Minimal (1 point): Incomplete or significantly flawed. 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 
+Questions 
+from 
+each 
+module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+(8x3 =24marks) 
+ 
+2 questions will be given from each 
+module, out of which 1 question should be 
+answered. Each question can have a 
+maximum of 3 sub divisions. Each question 
+carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Analyze any given algorithm and express its time and space 
+complexities in asymptotic notations.  
+K4 
+CO2 
+Derive recurrence equations and solve it using Iteration, Recurrence 
+Tree, Substitution and Master’s Method to compute time complexity of 
+algorithms. 
+K3 
+CO3 
+Analyze and compare the functionality and applications of various 
+graph traversal algorithms, and critically evaluate the structure and 
+performance of advanced data structures 
+K4 
+CO4 
+Demonstrate 
+Divide-and-conquer, 
+Greedy 
+Strategy, 
+Dynamic 
+programming, Branch-and Bound and Backtracking algorithm design 
+techniques. 
+K3 
+CO5 
+Classify a problem as computationally tractable or intractable, and 
+discuss strategies to address intractability. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO3 
+1 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+1 
+2 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Algorithms 
+Ellis Horowitz, 
+SartajSahni, Sanguthevar 
+Rajasekaran 
+Universities Press 
+2007 
+2 
+Introduction to  
+Algorithms 
+Thomas H. Cormen, 
+Charles E. Leiserson, 
+Ronald L. Rivest, Clifford 
+Stein 
+MIT Press 
+2009 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The Design and Analysis of  
+Computer Algorithms 
+Alfred V. Aho, John E. 
+Hopcroft and Jeffrey D. 
+Ullman 
+Pearson Education 
+1999 
+2 
+Introduction to the Design and 
+Analysis of Algorithms 
+Anany Levitin 
+Pearson 
+3/e, 2011 
+3 
+ Fundamentals of Algorithmics 
+Gilles Brassard, Paul 
+Bratley 
+Pearson Education 
+1995 
+4 
+Foundations of Algorithms 
+using C++  Psuedocode 
+Richard E. Neapolitan, 
+Kumarss Naimipour 
+Jones and Bartlett 
+Publishers, Inc 
+2/e, 1997 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/106/106106131/ 
+2 
+https://archive.nptel.ac.in/courses/106/106/106106131/ 
+3 
+https://archive.nptel.ac.in/courses/106/106/106106131/ 
+4 
+https://archive.nptel.ac.in/courses/106/106/106106131/ 
+ 
+
+ 
+ 
+SEMESTER S6 
+EMBEDDED SYSTEMS AND IOT 
+Course Code 
+PBERT 604 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To give students a thorough understanding of designing embedded and internet of things 
+systems for a range of applications 
+2. Expertise in the design and analysis of IOT and embedded systems  
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Embedded Systems and IoT 
+Introduction to Embedded Systems:- Desirable features and general 
+characteristics of Embedded Systems -Comparison: Microcontroller Vs 
+Microprocessors - Model of Embedded Systems. 
+Introduction to IoT:- Evolution and enabling technologies of IoT - 
+Complex 
+Interdependence 
+of 
+Technologies 
+- 
+IoT 
+Networking 
+Components and Addressing Strategies. 
+Basics of Networking:- Network Types and Layered Network Models - 
+Addressing and TCP/IP Transport Layer. 
+  Project Task: Create a basic embedded system using a microcontroller, 
+establish simple networking, and demonstrate data transfer over the network. 
+ 
+9 
+2 
+Embedded Systems & IoT - Sensors, Actuators, and Processing 
+Sensors:-  Sensor Characteristics, Sensorial Deviations, and Sensing 
+Types - Sensing Considerations. 
+ 
+9 
+
+ 
+ 
+Actuators:- Actuator Types and Characteristics. 
+IoT Processing:- IoT Processing Topologies and Types - Data Format 
+and Importance of Processing in IoT - Device Design and Selection 
+Considerations - Processing Offloading. 
+Project Task: Develop an IoT device integrating sensors and actuators with 
+processing capabilities. 
+3 
+IoT Connectivity and Communication Technologies 
+IoT Connectivity Technologies:- Overview of IEEE 802.15.4, Zigbee, 
+ISA100.11A, Wireless HART, RFID, NFC, Z-Wave, Weightless, LoRa, 
+NB-IoT, Wi-Fi, Bluetooth. 
+IoT Communication Technologies:-  Infrastructure Protocols - 
+Discovery Protocols - Data Protocols - Identification Protocols - Device 
+Management - Semantic Protocols. 
+Project Task:  Implement connectivity and communication protocols for an 
+IoT device. 
+9 
+4 
+Developing IoT Applications with Arduino/NodeMCU 
+Arduino Platform:- Hardware features and Arduino IDE - Interfacing 
+LEDs, switches, and LCDs 
+NodeMCU Platform:- Hardware features and programming with 
+Arduino IDE - Interfacing sensors and actuators with NodeMCU. 
+Introduction to Raspberry Pi - Raspberry Pi hardware details - 
+installing OS in Raspberry Pi 
+IoT Physical Servers and Cloud Offerings:- Overview of AWS IoT, 
+Microsoft Azure IoT, and Blynk. 
+Project Task:  Build comprehensive IoT applications using various 
+platforms. 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Suggestion on Project Topics 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the basics of embedded systems, IoT and networking. 
+K2 
+CO2 
+Illustrate various sensors and actuators for embedded systems and IoT. 
+K2 
+CO3 
+Apply the understanding of IoT requirements and constrains to select the 
+suitable IoT connectivity and communication technologies for specific IoT 
+applications. 
+K3 
+CO4 
+Illustrate various IoT physical servers and cloud offerings. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+ 
+2 questions will be given from each module, 
+out of which 1 question should be answered. 
+Each question can have a maximum of 2 sub 
+divisions. Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to IoT 
+Sudip Misra, Anandarup 
+Mukherjee, Arijit Roy 
+Cambridge University 
+Press 
+First 
+edition, 
+2021 
+2 
+Arduino Cookbook: Recipes to 
+Begin, Expand, and Enhance 
+Your Projects 
+Michael Margolis 
+O’Reilly Media 
+3rd edition, 
+2020 
+3 
+Internet Of Things With 
+Raspberry Pi And Arduino 
+Rajesh Singh, Anita 
+Gehlot, Lovi Raj 
+Gupta,Bhupendra Singh, 
+and Mahendra Swain 
+CRC press 
+1st Edition, 
+2019 
+4 
+NodeMCU ESP8266 
+Communication Methods and 
+Protocols _ Programming with 
+Arduino IDE 
+Manoj R. Thakur 
+Amazon Media EU S.à 
+r.l. 
+2018 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+2 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+2 
+ 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and 
+Year 
+1 
+Internet of Things_ A Hands-On approach 
+Arshdeep Bahga, 
+Vijay Madisetti 
+ 
+ 
+2 
+https://docs.aws.amazon.com/whitepapers/latest/aws-
+overview/introduction.html 
+ 
+ 
+ 
+3 
+https://azure.microsoft.com/en-us/explore 
+ 
+ 
+ 
+4 
+https://docs.blynk.io/en/  
+ 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://nptel.ac.in/courses/128108016 
+2 
+https://nptel.ac.in/courses/128108016 
+3 
+https://nptel.ac.in/courses/128108016 
+4 
+https://nptel.ac.in/courses/128108016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery 
+Project identification 
+Simulation/ 
+Laboratory Work/ 
+Workshops 
+Presentation 
+(Progress and Final 
+Presentations) 
+Group discussion 
+Project Analysis 
+Data Collection 
+Evaluation 
+Question answer 
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical thinking and 
+self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project reformation (If required) 
+Guest Speakers 
+(Industry Experts) 
+Case Study/ Field Survey 
+Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 5 
+minutes video 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+ 
+ 
+
+ 
+ 
+1. Project Planning and Proposal (5 Marks) 
+ 
+Clarity and feasibility of the project plan  
+ 
+Research and background understanding  
+ 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+ 
+Active participation and individual contribution  
+ 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+ 
+Adherence to the project timeline and milestones  
+ 
+Application of theoretical knowledge and problem-solving  
+ 
+Final Result 
+5. Final Presentation (5 Marks) 
+ 
+Quality and clarity of the overall presentation  
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ 
+Overall quality and technical excellence of the project  
+ 
+Innovation and originality in the project  
+Creativity in solutions and approaches
+
+ 
+ 
+SEMESTER S6 
+   BASICS OF ANAOLG AND DIGITAL COMMUNICATION 
+ 
+Course Code 
+OEERT 611 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the main components and principles of analog and digital communication 
+systems. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction, Elements of communication systems, Amplitude modulation 
+(AM), Double-side band suppressed carrier (DSB-SC) modulation Single 
+sideband modulation (SSB) – spectrum, power, efficiency of all the three 
+variants. (Study of only tone modulation in DSB-SC, AM, and SSB.) 
+Amplitude-modulator 
+implementations 
+–balanced 
+modulator. 
+AM 
+demodulators -. Envelope detector. 
+9 
+2 
+Frequency modulation – modulation index, frequency deviation, average 
+power, spectrum of tone modulated FM, bandwidth of FM, Narrow band FM 
+and wide-band FM. FM generation: Varactor diode modulator, Armstrongs 
+method. FM demodulation – slope detection. 
+9 
+3 
+Elements of digital communication system. Sources, channels and receivers. 
+Sampling theorem. Sampling and reconstruction. Pulse code modulation. 
+Sampling, quantization and encoding. Differential PCM, adaptive PCM, 
+Delta modulator and adaptive delta modulator. Issues in delta modulation. 
+Slope overload.   
+9 
+
+ 
+ 
+4 
+Digital modulation schemes. Baseband BPSK system and the signal 
+constellation. BPSK transmitter and receiver. Base band QPSK system and 
+Signal constellations. Plots of BER Vs SNR (Analysis not required). QPSK 
+transmitter and receiver. Quadrature amplitude modulation. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the main components in analog and digital communication 
+systems. 
+K2 
+CO2 
+Understand the different analog modulation schemes. 
+K2 
+CO3 
+Illustrate the main principles of pulse code modulation. 
+K2 
+CO4 
+Understand different digital modulation schemes. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Electronic 
+Communication 
+Systems  
+ Kennedy, Davis 
+TATA McGraw-Hill 
+Fourth 
+Edition 
+2 
+Electronic Communication 
+Systems – Fundamentals 
+through Advanced 
+Wayne Tomasi 
+Pearson 
+Fifth 
+edition 
+3 
+ Communication Systems 
+Simon Haykin 
+Wiley 
+Fourth 
+edition 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital and Analog 
+Communication Systems  
+Leon W. Couch 
+Prentice Hall 
+Eighth 
+edition 
+2 
+Digital Communications: 
+Fundamentals and 
+Applications 
+Sklar 
+Pearson. 
+Third 
+edition 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://youtu.be/S8Jod9AtpN4 
+2 
+https://youtu.be/jqJpbPseX2c 
+3 
+https://youtu.be/l_SqkcP6hZ4 
+4 
+https://youtu.be/ZW1glqkIgcw?si=zJ_ijYp7t6uh9WHx 
+
+ 
+ 
+SEMESTER S6 
+ROBOTICS AND AUTOMATION 
+Course Code 
+OEERT 612 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min.  
+Prerequisites (if any) 
+None  
+Course Type 
+Open Elective I 
+ 
+Course Objectives: 
+1. Aims to provide students with a comprehensive understanding of robotics and their wide-
+ranging applications.  
+2. Aims to provide students with a detailed understanding of sensor and actuator technologies in 
+robotics. 
+3. Aims to equip students with a thorough understanding of robotic configurations, and the 
+classification, selection, and design of end effectors and their operational criteria. 
+4. Aims to provide students with a comprehensive understanding of robotic coordinate systems, 
+transformations, and control techniques. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction To Robotics:  
+Definitions- Robots, Robotics; Types of Robots- Manipulators, Mobile 
+Robots-wheeled & Legged Robots, Aerial Robots; Anatomy of a robotic 
+manipulator-wrist configurations, links, joints, open kinematic vs closed 
+kinematic chain; degrees of freedom;  
+Robot Applications- medical, mining, space, defence, security, domestic, 
+entertainment, Industrial Applications-Material handling, welding, Spray 
+painting, Machining. 
+9 
+2 
+Sensors and Actuators:  
+Sensor classification- touch, force, proximity, vision sensors. Internal 
+sensors-Position sensors, velocity sensors, acceleration sensors, Force 
+9 
+
+ 
+ 
+sensors; External sensors-contact type, noncontact type; Vision - Elements of 
+vision sensor, image acquisition, image processing; Selection of sensors. 
+Actuators for robots- classification-Electric, Hydraulic, Pneumatic actuators; 
+their advantages and disadvantages; Electric actuators- Stepper motors, DC 
+motors, DC servo motors, AC motors, Hydraulic actuators- Components and 
+typical circuit, advantages and disadvantages; Pneumatic Actuators- 
+Components and typical circuit, advantages and disadvantages. 
+3 
+Robotic configurations and End effectors: Robot configurations-PPP, 
+RPP, RRP, RRR; features of SCARA, PUMA Robots; Robot considerations 
+for an application- number of axes, work volume, capacity & speed, stroke 
+&reach, Repeatability, Precision and Accuracy, Operating environment, 
+point to point control or continuous path control.  
+Classification of End effectors - mechanical grippers, special tools, Magnetic 
+grippers, Vacuum grippers, adhesive grippers, Active and passive grippers, 
+selection and design considerations of grippers in robot. 
+9 
+4 
+Kinematics and Control of Robots:  
+Robot Coordinate Systems- Matrix representation of a point, vector, frame 
+and a rigid body in space, Representation of transformations-translation, 
+Fundamental and composite rotations, homogeneous transformations, 
+combined transformations, D-H representation.   
+Control Techniques- Transfer function and state space representation, 
+Performance and stability of feedback control, PID control of a single link 
+manipulator, selection of PID controller gains. 
+9 
+   
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+10 
+10 
+10 
+10 
+40 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Familiarise with anatomy, specifications and applications of Robots. 
+K2 
+CO2 
+Choose the appropriate sensors and actuators for robots. 
+K2 
+CO3 
+Choose appropriate Robotic configuration and gripper for a particular 
+application. 
+K2 
+CO4 
+Obtain kinematic model of robotic manipulators and design the 
+controller for robotic manipulators 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+ Introduction to Robotics   
+S. K. Saha, 
+Tata McGraw Hill 
+Education Pvt. Ltd., 
+2nd Edition, 
+2008 
+2 
+ Fundamentals of robotics – 
+Analysis and control 
+Robert. J. Schilling 
+Dorling Kindersley 
+(India) Pvt Ltd 
+2006. 
+3 
+Introduction to Robotics: 
+Mechanics and Control 
+John J. Craig, 
+Pearson Publishers 
+3rd Edition, 
+2008 
+4 
+Introduction to Robotics: 
+Analysis, Systems, Applications 
+Saeed B. Niku 
+Wiely Publishers 
+3rd Edition, 
+2020 
+5 
+ Robotics and Control 
+R K Mittal and I J 
+Nagrath, 
+Tata McGraw Hill, 
+New Delhi 
+1st Edition, 
+2003 
+6 
+Introduction to measurements 
+and Instrumentation 
+Arun K Ghosh 
+PHI Learning 
+4th Edition, 
+2012 
+7 
+Control Systems Engineering 
+I.J Nagrath &         
+M. Gopal 
+New Age International 
+Publishers 
+7th Edition, 
+2021 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+ Robot Modeling and Control  
+Mark W. Spong, Seth 
+Hutchinson, M. 
+Vidyasagar 
+Wiley (India), 
+2nd Edition 
+2020. 
+2 
+Fundamentals of Robotics 
+D.K. Pratihar 
+Narosa Publishing 
+House, New-Delhi 
+1st Edition, 
+2017 
+3 
+Robotics  
+K.S. Fu, R.C. Gonzalez, 
+C.S.G. Lee 
+McGraw-Hill Book 
+Company 
+1987 
+4 
+Robotics Technology and 
+Flexible Automation, Second 
+Edition,  
+S. R. Deb 
+McGraw Hill Education 
+(India) Private Limited 
+2nd Edition 
+2010. 
+5 
+Control Systems 
+Les Fenical 
+Cenage Learning India 
+Pvt. Ltd. 
+2nd Edition 
+2011. 
+6 
+Robotics: A Very Short 
+Introduction 
+Alan Winfield 
+Oxford University 
+Press 
+2012 
+
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+Robotics, Prof. D. K Pratihar, IIT Kharagpur 
+https://onlinecourses.nptel.ac.in/noc24_me88/preview  
+Industrial Robotics: Theories for implementation, Prof. Arun Dayal Udai IIT (ISM Dhanbad) 
+https://onlinecourses.nptel.ac.in/noc24_me117/preview 
+2 
+Robotics, Prof. D. K Pratihar, IIT Kharagpur 
+https://onlinecourses.nptel.ac.in/noc24_me88/preview  
+Industrial Robotics: Theories for implementation, Prof. Arun Dayal Udai IIT (ISM Dhanbad) 
+https://onlinecourses.nptel.ac.in/noc24_me117/preview 
+3 
+Robotics, Prof. D. K Pratihar, IIT Kharagpur 
+https://onlinecourses.nptel.ac.in/noc24_me88/preview  
+Industrial Robotics: Theories for implementation, Prof. Arun Dayal Udai IIT (ISM Dhanbad) 
+https://onlinecourses.nptel.ac.in/noc24_me117/preview 
+4 
+Robotics, Prof. D. K Pratihar, IIT Kharagpur 
+https://onlinecourses.nptel.ac.in/noc24_me88/preview  
+Industrial Robotics: Theories for implementation, Prof. Arun Dayal Udai IIT (ISM Dhanbad) 
+https://onlinecourses.nptel.ac.in/noc24_me117/preview 
+
+ 
+ 
+SEMESTER SN6 
+OBJECT ORIENTED CONCEPTS

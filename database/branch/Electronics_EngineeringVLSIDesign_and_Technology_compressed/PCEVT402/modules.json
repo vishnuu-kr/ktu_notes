@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Clocked Synchronous Networks, Analysis of Clocked Synchronous\nSequential Networks (CSSN), Modelling of CSSN, State assignment and\nreduction, Design of CSSN, ASM Chart and its realization.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Asynchronous Sequential Circuits, Analysis of Asynchronous Sequential\nCircuits (ASC), Flow table reduction, Races in ASC, State assignment\nproblem and the transition table, Design of Asynchronous Sequential\nCircuits, Design of ALU.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Hazards – static and dynamic hazards in combinational networks,\nEssential Hazards, Design of Hazard free circuits, Data synchronizers,\nMixed operating mode asynchronous circuits, Practical issues- clock\nskew and jitter, Synchronous and asynchronous inputs, Flip-Flops and\nSimple Flip-Flop Applications, switch debouncer.\nFaults, Fault table method – path sensitization method – Boolean\ndifference method, Kohavi algorithm, Automatic test pattern generation\n– Built in Self-Test (BIST)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "VLSI Design flow: Design entry: Schematic, FSM & HDL, different\nmodeling styles in VHDL, Data types and objects, Dataflow, Behavioral\nand Structural Modeling, Synthesis, simulation.\nVHDL constructs and codes for combinational and sequential circuits.",
+    "contact_hours": "11"
+  }
+]

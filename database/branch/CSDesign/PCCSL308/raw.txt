@@ -1,0 +1,402 @@
+Course Code 
+PCCSL308 
+CIE Marks 
+50 
+Teaching Hours/Week 
+(L: T:P: R) 
+0:0:3:0 
+ESE Marks  
+50 
+Credits 
+2 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Lab 
+ 
+Course Objectives:  
+1. 
+To enable the learner to design and implement basic digital logic circuits using 
+logic gates and ICs. 
+2. 
+To familiarize digital system design using HDL. 
+ 
+Expt.  
+No. 
+EXPERIMENTS 
+(All HDL based experiments should be done using Verilog HDL. At Least three experiments 
+of PART A & B together should be implemented on a breadboard . Use any open source 
+circuit simulation software or web based logic simulator softwares for the rest of the 
+experiments (refer to https://circuitverse.org, https://simulator.io, 
+https://www.logiccircuit.org) 
+ 
+                                                                  Part A  
+(All experiments in this part are  mandatory. These experiments give an introduction to the 
+digital design by familiarising the basic gates and combinational circuits on breadboard / 
+circuit simulation softwares along with their HDL based realisation.) 
+A1. 
+Study of basic digital ICs and verification of Boolean theorems using digital logic 
+gates. 
+A2.. 
+Familiarisation of the working of circuit simulation software. 
+a. Realize the basic logic gates and analyze their waveforms 
+b. Realize a given Boolean function using basic gates and verify the
+ 
+waveform with the truth table. 
+A3. 
+Familiarisation of Verilog HDL - Modelling of the basic gates using 
+a. gate level modelling 
+
+ 
+ 
+b. behavioural modelling 
+c. structural modelling 
+d. dataflow modelling 
+A4. 
+Realization of an SOP and its corresponding POS expression using NAND gates 
+alone and NOR gates alone (to be do on breadboard and simulated using software) 
+A5. 
+Model a given Boolean function (SOP and POS) in Verilog using 
+a. continuous assignment with logical operators 
+b. continuous assignment with conditional operators 
+c. using gate level primitives 
+ 
+                                                               Part B  
+(All experiments to be done using any circuit simulation softwares.) 
+B1. 
+ Design and implement a combinational logic circuit for arbitrary functions (any 
+two) 
+a) Code converters 
+b) Half adder, full adder, half subtractor, full subtractor 
+c) Multiplexer, Demultiplexer,Encoder, Decoder 
+B2. 
+Design and implement combinational circuits using MSI devices: (any three) 
+1. 4-bit adder and subtractor using  MSI device IC 7483.  
+2. Parity generator / checker using  MSI device IC 74180 
+3. Magnitude Comparator using MSI device IC 7485 
+4. Implement a boolean function using MUX IC 
+B3. 
+Study of D flip flop and JK flip flops using ICs  
+B4. 
+To design and implement the following shift registers using D flip flops  
+(i) Serial in serial out  
+(ii) Serial in parallel out 
+(iii) Parallel in serial out  
+(iv) Parallel in parallel out  
+B5. 
+Design and implement an asynchronous counter - 3 bit up counter, 3-bit down 
+counter, 3 bit up down counter with mode control, mod-N counter 
+B6. 
+Design and implement a synchronous counter - 3 bit up counter, 3-bit down 
+
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 50 marks, ESE: 50 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Preparation/Pre-Lab Work 
+experiments, Viva and Timely 
+completion of Lab Reports / Record 
+(Continuous Assessment) 
+Internal 
+Examination 
+Total 
+5 
+25 
+20 
+50 
+ 
+ 
+ 
+ 
+counter, sequence generator. 
+ 
+PART C 
+using Verilog HDL 
+For the all the experiments in part C: 
+1. Write Verilog program code in the IDE/Software (Other open source or 
+online softwares such as Icarus Verilog / EDAplayground may be used) 
+2. Simulate the code using a test bench or by giving input values. 
+3. Synthesize the design and verify the waveforms  
+C1. 
+Model a 4:1 MUX, 1:4 DEMUX, 4 to 2 encoder, and 2 to 4 decoder and a 7-
+Segment Display Decoder in Verilog using 
+a. continuous assignment with logical operators 
+b. continuous assignment with conditional operators 
+C2. 
+Design and synthesize the behavioural model for a D flip flop in Verilog HDL 
+C3. 
+Design and synthesize the behavioural model for a synchronous counter in Verilog 
+C4. 
+Design a Verilog HDL  behavioral model to implement a finite-state machine - a 
+serial bit sequence detector 
+
+ 
+ 
+End Semester Examination Marks (ESE):  
+ 
+Procedure/ 
+Preparatory 
+work/Design/ 
+Algorithm 
+Conduct of experiment/ 
+Execution of work/ 
+troubleshooting/ 
+Programming 
+Result with 
+valid inference/ 
+Quality of 
+Output 
+Viva 
+voce 
+Record 
+Total 
+10 
+15 
+10 
+10 
+5 
+50 
+ 
+● Submission of Record: Students shall be allowed for the end semester examination only upon 
+submitting the duly certified record. 
+● Endorsement by External Examiner: The external examiner shall endorse the record 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL)
+CO1 
+Model and construct combinational logic circuits. 
+K3 
+CO2 
+Develop modular combinational circuits with MUX,DEMUX and 
+decoder. 
+K3 
+CO3 
+Experiment with synchronous and asynchronous sequential circuits. 
+K3 
+CO4 
+Model and implement FSM. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO- PO Mapping (Mapping of Course Outcomes with Program Outcomes)  
+1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Logic Circuits 
+& Logic Design with Verilog 
+Brock J. LaMeres 
+Springer International 
+Publishing 
+2/e, 2017 
+2 
+Digital Design and Computer 
+Architecture - RISC-V Edition 
+Sarah L. Harris, David 
+Harris 
+Morgan Kaufmann 
+1/e, 2022 
+3 
+Verilog HDL Synthesis: A 
+Practical Primer 
+J Bhasker 
+Star Galaxy Publishing
+1/e, 1998 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Design with an Introduction to the 
+Verilog HDL, VHDL, and System 
+Verilog 
+M Morris Mano, 
+Michael D Ciletti 
+Pearson 
+6/e, 2018 
+2 
+Fundamentals of Digital Logic with 
+Verilog Design 
+Stephen Brown, 
+Zvonko Vranesic 
+McGrawHill 
+3/e, 2014 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/117105080 
+2 
+https://archive.nptel.ac.in/courses/108/103/108103179/ 
+3 
+https://www.youtube.com/watch?v=JU0RKPe7AhA (Introduction to CircuitVerse) 
+ 
+Continuous Assessment (25 Marks) 
+1. Preparation and Pre-Lab Work (7 Marks) 
+● Pre-Lab Assignments: Assessment of pre-lab assignments or quizzes that test understanding 
+of the upcoming experiment. 
+● Understanding of Theory: Evaluation based on students’ preparation and understanding of the 
+theoretical background related to the experiments. 
+ 
+
+ 
+ 
+2. Conduct of Experiments (7 Marks) 
+● Procedure and Execution: Adherence to correct procedures, accurate execution of 
+experiments, and following safety protocols. 
+● Skill Proficiency: Proficiency in handling equipment, accuracy in observations, and 
+troubleshooting skills during the experiments. 
+● Teamwork: Collaboration and participation in group experiments. 
+3. Lab Reports and Record Keeping (6 Marks) 
+● Quality of Reports: Clarity, completeness and accuracy of lab reports. Proper documentation 
+of experiments, data analysis and conclusions. 
+● Timely Submission: Adhering to deadlines for submitting lab reports/rough record and 
+maintaining a well-organized fair record. 
+ 
+4. Viva Voce (5 Marks) 
+● Oral Examination: Ability to explain the experiment, results and underlying principles 
+during a viva voce session. 
+Final Marks Averaging: The final marks for preparation, conduct of experiments, viva, 
+and record are the average of all the specified experiments in the syllabus. 
+Evaluation Pattern for End Semester Examination (50 Marks) 
+1. Procedure/Preliminary Work/Design/Algorithm (10 Marks) 
+● Procedure Understanding and Description: Clarity in explaining the procedure and 
+understanding each step involved. 
+● Preliminary Work and Planning: Thoroughness in planning and organizing 
+materials/equipment. 
+● Algorithm Development: Correctness and efficiency of the algorithm related to the 
+experiment. 
+● Creativity and logic in algorithm or experimental design. 
+ 
+2. Conduct of Experiment/Execution of Work/Programming (15 Marks) 
+● Setup and Execution: Proper setup and accurate execution of the experiment or programming 
+task. 
+ 
+
+ 
+ 
+3. Result with Valid Inference/Quality of Output (10 Marks) 
+● Accuracy of Results: Precision and correctness of the obtained results. 
+● Analysis and Interpretation: Validity of inferences drawn from the experiment or quality of 
+program output. 
+ 
+4. Viva Voce (10 Marks) 
+● Ability to explain the experiment, procedure results and answer related questions 
+● Proficiency in answering questions related to theoretical and practical aspects of the subject. 
+ 
+5. Record (5 Marks) 
+● Completeness, clarity, and accuracy of the lab record submitted 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEMESTER 4 
+ 
+COMPUTER SCIENCE AND DESIGN
+
+SEMESTER S4 
+COURSE NAME: Mathematics for Computer and Information Science – 4 
+(Group A)

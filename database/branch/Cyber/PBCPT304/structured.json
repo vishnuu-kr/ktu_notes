@@ -1,0 +1,72 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "BJT Amplifiers",
+      "RC Coupled amplifier: Need of different components and design. Multistage amplifiers: Effect of cascading on gain and bandwidth. NMOSFET amplifiers: MOSFET circuits at DC",
+      "MOSFET as an amplifier",
+      "Biasing of discrete MOSFET amplifier. Oscillator Circuits: Effect of positive and negative feedback on gain",
+      "frequency response and distortion. The four basic feedback topologies -voltage gain",
+      "input and output impedance. Criterion for oscillation",
+      "Wien bridge oscillator: working and design. Hartley and Crystal oscillator (working principle and design equations"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Basics",
+      "Block diagram of an Op Amp",
+      "Op Amp parameters-Slew Rate",
+      "Band Width",
+      "CMRR",
+      "Gain",
+      "Offset Voltage and Offset Current",
+      "differential and common mode operation of Op Amps",
+      "Inverting & Non Inverting Amplifier",
+      "Closed Loop",
+      "Inverting and Non inverting summing amplifier. Op-Amp based Phase Shift Oscillator"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Binary logic functions",
+      "Boolean laws",
+      "truth tables",
+      "associative and distributive properties",
+      "De- Morgans theorems",
+      "realization of switching functions using logic gates. Classification of Logic Families. Combinational Logic: Canonical logic forms",
+      "sum of product & product of sums",
+      "Karnaugh maps",
+      "two and three variable Karnaugh maps",
+      "simplification of expressions"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Analysis & design of Combinational Logic: Introduction to combinational circuits",
+      "code conversions",
+      "decoder",
+      "encoder",
+      "priority encoder",
+      "binary adder",
+      "subtractor . Sequential Logic: Sequential circuits",
+      "flip-flops: JK",
+      "D & T",
+      "clocked and edge triggered flipflop",
+      "asynchronous and synchronous counters",
+      "registers",
+      "serial in serial out shift registers. Project based learning  The objective of Project based learning to strengthen the understanding of student’s fundamentals through effective application of theoretical concepts. Projects can help to boost student’s skills and widen the horizon of their thinking.  The ultimate aim of an engineering student is to resolve a problem by applying theoretical knowledge.  In the beginning",
+      "students shall be given an awareness and/or guideline on how to implement and learn this course through a project and form groups in the first few weeks.  Each group should identify a project that can be done to understand a part of the contents of this course and perform a literature survey.  Choose a suitable platform for your application and the input output devices to be interfaced.  Develop the block diagram and present before the jury within first month after the commencement of classes.  Implement necessary hardware and software to develop the prototype.  Prepare a report and present before the jury for final evaluation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

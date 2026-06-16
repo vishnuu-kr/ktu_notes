@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction – Uses of computer networks, Network hardware, Network\nsoftware - Protocol hierarchies – Design issues for the layers – Connection\noriented versus connectionless service. Reference models – The OSI reference\nmodel, The TCP/IP reference model, Comparison of OSI and TCP/IP\nreference models.\nPhysical Layer –Transmission media overview – Twisted pair and fiber\noptics. Performance indicators – Bandwidth, Throughput, Latency,\nBandwidth–Delay product.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Data link layer - Data link layer design issues, Error detection and correction,\nSliding window protocols.\nMedium Access Control (MAC) sublayer, Channel allocation problem,\nMultiple access protocols – CSMA, Collision free protocols.\nEthernet – Switched Ethernet, fast Ethernet and gigabit Ethernet.\nWireless LANs - 802.11 – Architecture and protocol stack, Use of Bridges,\nRepeaters, Hubs, Switches, Routers and Gateways.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Network layer design issues. Routing algorithms - The Optimality Principle,\nShortest path routing, Flooding, Distance Vector Routing, Link State Routing,\nRouting for mobile hosts.\nCongestion control algorithms – Approaches to congestion control (Details\nnot required). Quality of Service (QoS) - Requirements, Techniques for\nachieving good QoS – Traffic shaping, Packet scheduling.\nIPv4 protocol, IP addresses, IPv6, Internet Control Protocols - Internet\nControl Message Protocol (ICMP), Address Resolution Protocol (ARP),\nDynamic Host Configuration Protocol (DHCP). Open Shortest Path First\n(OSPF) Protocol, Border Gateway Protocol (BGP), Internet multicasting.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Transport service – Services provided to the upper layers, Transport service\nprimitives. User Datagram Protocol (UDP) – Introduction, Remote\nprocedure call. ELECTRICAL AND ELECTRONICS Transmission\nControl Protocol (TCP) – Introduction, TCP service model, TCP protocol,\nTCP segment header, Connection establishment & release. Application\nLayer –Domain Name System (DNS) – overview of DNS name space and\nName servers, Electronic mail – Architecture and services- SMTP – IMAP\n- POP3, World Wide Web (WWW) - Architectural overview, HTTP, File\nTransfer Protocol (FTP).",
+    "contact_hours": "8"
+  }
+]

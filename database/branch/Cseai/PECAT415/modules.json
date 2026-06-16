@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Algorithm Analysis :- Characteristics of Algorithms,\nCriteria for Analysing Algorithms, Time and Space Complexity - Best,\nWorst and Average Case Complexities, Asymptotic Notations - Big-Oh (O),\nBig - Omega (Ω), Big-Theta (Θ), Little-oh (o) and Little- Omega (ω) and\ntheir properties. Classifying functions by their asymptotic growth rate, Time\nand Space Complexity Calculation of simple algorithms. Analysis of\nRecursive Algorithms: Recurrence Equations, Solving Recurrence Equations\n– Iteration Method, Recursion Tree Method, Substitution method and\nMaster’s Theorem (Proof not required).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Divide & Conquer and Greedy Strategy:- General method, Binary\nsearch, Recurrence equation for divide and conquer, Finding  the  maximum\nand  minimum,  Merge  sort,  Strassen’s  matrix multiplication,  Advantages\nand  Disadvantages  of  divide  and  conquer; Decrease and Conquer\nApproach - Topological Sort;\nThe Control Abstraction of Greedy Strategy- Fractional Knapsack Problem,\nMinimum Cost Spanning Tree Computation - Kruskal’s Algorithms,\nAnalysis; Single Source Shortest Path Algorithm - Dijkstra’s Algorithm,\nAnalysis.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Dynamic Programming - General method with Examples, Multistage\nGraphs;  Transitive  Closure - Warshall’s Algorithm; All Pairs  Shortest\nPaths -  Floyd's  Algorithm,  Optimal  Binary  Search  Trees; Knapsack\nproblem;  Bellman-Ford  Algorithm;  Travelling  Salesperson Problem;\nReliability design.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Backtracking and Branch & Bound:-\nBacktracking - General method, N-queen problem, Sum of subsets problem,\nGraph coloring, Hamiltonian cycles.\nBranch and Bound - General method, Travelling Salesperson Problem, 0/1\nknapsack problem, LC branch and bound solution, FIFO branch and bound\nsolution.",
+    "contact_hours": "9"
+  }
+]

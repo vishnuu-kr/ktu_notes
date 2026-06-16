@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basics of Signals and Systems:\nDefinitions and Classification of Signals (Continuous-time and Discrete-\ntime, Periodic and Aperiodic, Even and Odd, Energy and Power signals) Basic\nOperations on Signals (Scaling, Shifting, Folding)\nSystems:\nDefinitions and Classification of Systems (Linear and Nonlinear, Time-\nInvariant and Time-Variant, Causal and Non-Causal, Stable and Unstable)\nExamples of Systems\nSystem Properties:\nLinear Time-Invariant (LTI) Systems ,Stability and Causality in LTI Systems\nRepresentation of systems: Differential equation representation of\ncontinuous time systems. Difference equation representation of discrete\nsystems.\nDiscrete time LTI systems and linear convolution.\nStability and causality of LTI systems.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Overview of Fourier Series:\nRepresentation of Periodic Signals ,Convergence of Fourier series.\nContinuous-Time Fourier Transform (CTFT)-Properties\nReview of Laplace Transform, ROC of Transfer function, Properties of ROC,\nStability and causality conditions.\nRelation between Fourier and Laplace transforms.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Discrete time fourier series for discrete periodic signals.\nProperties of DTFS.\nDiscrete time fourier transform (DTFT) and its properties. Analysis\nof discrete time LTI systems using DTFT.\nZ transform, Mapping of s plane to Z plane ,ROC , Inverse transform,\nproperties,\nRelation between DTFT and Z-Transform, Analysis of discrete time LTI\nsystems using Z transforms, Stability and causality using Z transform.",
+    "contact_hours": "13"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Sampling\nDefinition and importance of sampling in signal processing\nNyquist-Shannon Sampling Theorem, Conditions for perfect reconstruction,\nDefinition and causes of aliasing, Effects of undersampling, Methods to\nprevent aliasing, Ideal vs. Practical Sampling, Ideal sampling (impulse\nsampling), Practical sampling methods (zero-order hold, first-order hold)\nProcess of quantization, Quantization error and its effects, Uniform and non-\nuniform quantization, Reconstruction of continuous-time signals from\ndiscrete-time samples, Interpolation methods (zero-order hold, first-order\nhold, sinc interpolation), Oversampling: benefits and applications, Under\nsampling: conditions and applications\nSampling in the frequency domain, Sampling of band pass signals\nIntroduction   to  multi  rate  systems,  Decimation  and  interpolation.\nApplications in digital signal processing",
+    "contact_hours": "9"
+  }
+]

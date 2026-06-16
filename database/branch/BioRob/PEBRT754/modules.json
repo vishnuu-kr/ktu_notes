@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Definition of reliability– key elements; failure analysis – failure density –\nfailure rate – probability of failure - bathtub curve. Basic reliability\nequations: Reliability in terms of – failure rate – failure density- relation\nbetween reliability, failure density and hazard rate - Mean time to failure\n(MTTF) – Integral equation of MTTF in terms of reliability",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Hazard models – constant hazard model - linearly increasing hazard model -\nWeibull model. Expressions for reliability, failure density, and probability of\nfailure of these models – problems",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "System reliability - reliability block diagrams (RBD), Components\nconnected in series – components connected in parallel – mixed\nconfiguration – problems. Fault Tree Analysis (FTA) Symbols used in FTA,\nFault Tree Construction -Estimation of system reliability from Fault tree\nproblems.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Reliability improvement methods –Redundancy –unit redundancies –element\nredundancies -problems. Simplification of design –parts derating –operating\nenvironment; Cost of reliability –factors to be considered for optimizing the\nreliability cost.\nReliability allocation -basic concepts. Reliability allocation for a series system\n- Proportional to uniform failure rate method of reliability allocation (Other\nmethods need not be introduced)",
+    "contact_hours": "9"
+  }
+]

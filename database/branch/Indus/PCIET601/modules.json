@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to system modelling: Concepts of a system, system\nenvironment, continuous and discrete systems, system models, comparison\nof analytical methods and simulation, areas of application of simulation,\nsteps in discrete event simulation study.\nRandom Numbers: Properties of random numbers, generation of pseudo-\nrandom numbers, random number generators. Tests for random numbers-\nfrequency, gap, run, and Poker tests, test for autocorrelation, Monte Carlo\nmethod.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Generation of random variates: Inverse transformation method for\nexponential, uniform, Weibull, triangular, and discrete distributions, Direct\ntransformation method for normal and lognormal distributions, Acceptance-\nrejection technique for Poisson and Gamma distributions.\nInput modelling: Data collection, identifying the distribution with the\ncollected data, goodness of fit tests, selecting input models without data.\nVerification and validation of simulation models, Output data analysis,\nVariance reduction techniques.\nTime Advance Mechanisms for discrete event simulation: Next-Event\ntime advance and fixed increment time advance methods.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "System dynamic modelling: Evolution of system dynamics as a system\nenquiry methodology, elements of system dynamics modelling- physical\nflows, information flows, level & rate variables, delays, information\nsmoothing, table functions and table function multipliers, causal loop\ndiagramming, flow diagrams. Steps for Modelling in system dynamics.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Behaviour of linear lower order systems: Analytical approach - first order\npositive and negative feedback systems, pure second order positive and\nnegative feedback systems.\nModes of dynamic behaviour:  Exponential growth, goal seeking,\noscillation, interactions of fundamental modes. Principles of simulation\nmodelling, developing model equations, algorithms for Euler integration,\nhand simulation of system dynamics models. S-Shaped growth- epidemics,\ninnovation, diffusion and growth of new products. Overview of Software\npackages for System modelling and simulation.",
+    "contact_hours": "11"
+  }
+]

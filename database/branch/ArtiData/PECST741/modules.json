@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction :-\nStages in software development; software defects –causes of software defects;\ntechniques for dealing with software defects-Testing and verification, formal\nmethods and tools.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Ensuring reliability in the design phase :-\nConceptual modelling, the tool Alloy, conceptual modelling in Alloy,\nAnalysing Alloy models, Fixing bugs in modelling, How Alloy works? Show\nthat the Konigsberg Bridge Problem has no solution.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Verification by Model Checking :-\nVerifier for Concurrent C (VCC): a Hoare-Triple- based tool for Verifying\nConcurrent C, intra procedure verification of programs, ghost statements.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Program Verification:-\nInter-procedure verification of programs in VCC, function contracts, pure\nfunctions, loop invariants, proving total correctness of programs in VCC.",
+    "contact_hours": "9"
+  }
+]

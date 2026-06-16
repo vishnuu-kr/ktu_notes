@@ -1,0 +1,62 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction:\n\nOverview of a database project and its scope and objectives.\n\nImportance of database management system in real-world\napplications.\nDatabase Design:\n\nConceptual Design: Create an Entity-Relationship Diagram (ERD)\nto model the entities, relationships, and attributes involved in your\nproject.\n\nLogical Design: Translate the ERD into a relational schema.\nDatabase Creation:\n\nImplement a sample schema in a DBMS of your choice (e.g.,\nMySQL, PostgreSQL, SQLite).\nTables and Relationships:\n\nDefine tables with appropriate attributes (columns).\n\nEstablish relationships (foreign keys) between tables.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Normalization:\n\nEnsure your schema is normalized to minimize redundancy and\ndependency issues.\nSQL Queries:\n\nDevelop a set of SQL queries to demonstrate CRUD operations\n(Create, Read, Update, Delete), complex joins, aggregations, and any\nspecialized queries required by your project.\nTimeline:\n\nCreate a timeline or project plan with milestones to ensure timely\ncompletion.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Constraints:\n\nEntity Integrity\n\nReferential Integrity\n\nDomain Constraints\nTransaction Management:\n\nDefinition of transactions and transaction properties (ACID\nproperties).\n\nImplementation of transaction processing logic.\nConcurrency Control:\n\nTechniques to manage concurrent access (e.g., locking, time\nstamping).\nBackup and Recovery:\n\nStrategies for database backup and recovery in case of failures.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Testing and Validation:\n\nExecute queries to validate the correctness of the schema and\nconstraints.\nIntegration with Applications:\n\nDevelop simple applications (eg; using Python) to interact with the\ndatabase.\nDocumentation:\n\nPrepare comprehensive documentation covering project objectives,\ndatabase schema, constraints, transactions, and implementation\ndetails.\n9\nSuggestions on Project Topics:\nNo.\nProject Topics\n1\nE-commerce Database Platform\n2\nRegistered Vehicle Database Management\n3\nLibrary Database Management System\nStudent Database Management",
+    "contact_hours": "4"
+  },
+  {
+    "type": "module",
+    "title": "Module 5",
+    "content": "Pharmacy Database Management System",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 6",
+    "content": "Restaurant Database Management",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 7",
+    "content": "Payroll Database Management System",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 8",
+    "content": "Insurance Products Database Management",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 9",
+    "content": "Hospital management system.",
+    "contact_hours": "unknown"
+  },
+  {
+    "type": "module",
+    "title": "Module 10",
+    "content": "Bank transactions management system.",
+    "contact_hours": "unknown"
+  }
+]

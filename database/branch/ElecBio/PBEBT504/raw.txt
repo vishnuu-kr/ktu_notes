@@ -1,0 +1,456 @@
+Course Code 
+PBEBT504 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None
+ 
+Course Type 
+Theory 
+Course Objectives: 
+1. This course makes students familiarized with basics of digital signal processing & concepts of 
+digital filters & its design and applications of biomedical signal processing. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Basics of biomedical signal processing: Introduction & relevance of 
+biomedical signal processing. Biomedical signals –ECG, EMG, EEG, PCG, 
+VAG, carotid pulse, speech signal, concurrent signals. Signal representation, 
+Aliasing-Sampling theorem. Elementary signals. Classification of discrete 
+signals - Energy and Power signals – periodic and aperiodic, even and odd 
+signals. Discrete time systems - Properties of discrete systems. LTI system-
+Impulse Response of a Linear Time-Invariant System -convolution- 
+correlation - difference equation representation of discrete systems 
+9 
+2 
+Fourier Analysis: Fourier Analysis for Continuous Time Processes-Synthesis 
+of an ECG signal using pure sinusoid. Frequency Domain Analysis of 
+discrete time signals: Discrete Fourier series - Discrete Time Fourier 
+Transform- Discrete Fourier Transform-properties - Fast Fourier Transform- 
+FFT algorithms (Radix 2)- decimation in - time - decimation in - 
+frequency. 
+9 
+3 
+Spectrum analysis & Z Transform: Spectrum analysis of bio signals – 
+Introduction to parametric & non parametric methods. Z transform – ROC, 
+properties of ROC, Properties of Z transform: Linearity, Time shifting, 
+Scaling, Time reversal, Differentiation in Z domain, Convolution, 
+8 
+
+ 
+ 
+Correlation, Multiplication, Parseval’s relation, initial value theorem- 
+rational Z transform-poles &zeros-LTI system function - inverse Z 
+transform-long division-partial fraction expansion method-residue method-
+convolution method. 
+4 
+Digital filters: Concept of digital filtering, types of digital filters. 
+Comparison with analog filters. FIR filter design using Fourier series - use of 
+window functions, IIR Digital Filters - Analog filter approximations - 
+Butterworth approximation - Frequency transformation techniques - impulse 
+invariant transformation - Matched Z transform technique- bilinear 
+transformation 
+10 
+ 
+ 
+Suggestion on Project Topics  
+ 
+Students are asked to form groups of maximum five members. Each group should identify a project 
+on the areas specified below and choose suitable data base. Develop a methodology to implement the 
+project. Develop the algorithm and code for the project  
+ 
+Areas of Projects Topics: 
+ 
+Filtering for removal of artefacts: Implementation of time domain Filters & Frequency 
+domain filters for removal of high frequency and low frequency and periodic artefacts  
+ 
+Event detection in biomedical signals – ECG: QRS wave detection, P wave and T wave 
+detection, PPG: dicrotic notch detection - Heart sound detection- EEG rhythm detection  
+ 
+Frequency Domain characterisation of Biomedical signal: Power spectrum density estimation 
+of biomedical signals  
+ 
+Wave shape and Waveform Complexity analysis: Normal and Ectopic beat, Arrhythmia 
+analysis, Analysis of exercise ECG, Analysis of respiration  
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project  
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written) 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Analyse the basics of discrete time signals &systems and their time 
+domain processing techniques with specific reference to biomedical 
+signals.
+K4 
+CO2 
+Apply the different methods of analysing digital signals using 
+frequency domain analysis.
+K3 
+CO3 
+Analyse the discrete time system using Z Transform. 
+K4 
+CO4 
+Design of different types of digital filters such as FIR &IIR filters. 
+K3 
+CO5 
+Analyse the signal processing techniques for different biomedical 
+applications 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+2 
+- 
+1 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO2 
+3 
+2 
+- 
+1 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO3 
+3 
+2 
+2 
+1 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO4 
+3 
+2 
+2 
+1 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO5 
+3 
+2 
+3 
+2 
+2 
+2 
+2 
+2 
+ 
+ 
+1 
+1 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Digital Signal Processing-
+Principles, 
+Algorithms and Applications
+John G Proakis & Dimitris 
+G Manolakis 
+PHI 
+4 th Edition, 
+2016 
+2 
+Digital Signal Processing 
+P. Ramesh Babu 
+Scitech Publications, 
+India 
+6th Edition, 
+2014 
+3 
+Biomedical Signal Analysis 
+Rangaraj M Rangayyan 
+John Wiley 
+2 nd Edition, 
+2015 
+4 
+Signals and Systems 
+Alan V Oppenheim, Alan S 
+Willsky 
+Prentice Hall India 
+2nd Edition, 
+2014 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Signals & Systems in 
+Biomedical Engineering
+Suresh R Devasahayam 
+Springer 
+2nd Edition, 
+2013
+2 
+Digital Signal Processing 
+Andreas Antoniou 
+Prentice Hall of 
+India
+4th Edition, 
+2006
+3 
+Digital Filters Analysis & 
+Design 
+Andreas Antoniou 
+Prentice Hall of 
+India 
+ 
+2018
+4 
+Theory & Application of 
+Digital Signal processing 
+R Rabiner& B. Gold 
+PHI 
+3rd  
+Edition, 2000
+5 
+Digital Signal Processing – A 
+Practical Guide for Engineers 
+and Scientists
+Steven W. Smith 
+Elsevier India Pvt 
+Ltd 
+2006 
+6 
+Digital Signal Processing 
+Sanjit K. Mithra 
+Tata McGraw Hill 
+4th Edition, 
+2013
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+LINK ID 
+1 
+https://archive.nptel.ac.in/courses/117/105/117105134/ 
+https://archive.nptel.ac.in/courses/108/101/108101174/ 
+https://nptel.ac.in/courses/117102060 
+2 
+https://archive.nptel.ac.in/courses/117/105/117105134/ 
+https://archive.nptel.ac.in/courses/108/101/108101174/ 
+https://nptel.ac.in/courses/117102060 
+3 
+https://archive.nptel.ac.in/courses/108/101/108101174/ 
+https://archive.nptel.ac.in/courses/117/105/117105134/ 
+https://nptel.ac.in/courses/117102060 
+4 
+https://archive.nptel.ac.in/courses/117/105/117105134/ 
+https://archive.nptel.ac.in/courses/108/101/108101174/ 
+https://nptel.ac.in/courses/117102060 
+
+ 
+ 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery 
+Project 
+identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops
+Presentation 
+(Progress and Final 
+Presentations) 
+Group discussion 
+Project Analysis 
+Data Collection 
+Evaluation 
+Question answer 
+Sessions/ 
+Brainstorming 
+Sessions 
+Analytical thinking 
+and self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project reformation (If 
+required) 
+Guest Speakers 
+(Industry Experts) 
+Case Study/ Field 
+Survey Report 
+Prototyping 
+Poster Presentation / Video 
+Presentation: Students present 
+their results in a 2 to 5 minutes 
+video 
+Assessment and Evaluation for Project Activity 
+Sl. No
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+Project Assessment and Evaluation criteria (30 Marks) 
+1. Project Planning and Proposal (5 Marks) 
+ Clarity and feasibility of the project plan  
+ Research and background understanding  
+ Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ Individual contribution to the presentation  
+ Effectiveness in answering questions and handling feedback  
+
+ 
+ 
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+ Active participation and individual contribution  
+ Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+ Adherence to the project timeline and milestones  
+ Application of theoretical knowledge and problem-solving  
+ Final Result 
+5. Final Presentation (5 Marks) 
+ Quality and clarity of the overall presentation  
+ Individual contribution to the presentation  
+ Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ Overall quality and technical excellence of the project  
+ Innovation and originality in the project  
+ Creativity in solutions and approaches  
+ 
+ 
+
+ 
+ 
+SEMESTER S5 
+MEASUREMENTS AND INSTRUMENTATION

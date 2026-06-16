@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Bioinformatics and Biological Databases Introduction to Bioinformatics: definitions",
+            "historical overview",
+            "applications and scope",
+            "Biology to understand the Bioinformatics - Important Biological Databases: Retrieving and analyzing data from biological databases",
+            "Genbank",
+            "NCBI",
+            "DDBJ",
+            "Pubmed",
+            "UniProt",
+            "PROSITE",
+            "SCOP",
+            "RCSB-PDB",
+            "EMBL-EB"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Substitution matrices",
+            "BLOSUM",
+            "Gap penalties",
+            "pairwise sequence alignment using Dynamic Needleman-Wunsch",
+            "Smith-Waterman",
+            "and Heuristic programming algorithms",
+            "FASTA and BLAST-Multiple sequence alignments: Common multiple alignment methods",
+            "CLUSTALX",
+            "identification of motifs and patterns",
+            "Hidden Markov model-Phylogenetic Analysis: Elements of phylogenetic models",
+            "Determining the substitution model tree",
+            "Evaluating phylogenetic trees"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Structure Prediction and Analysis Predictive methods",
+            "Codon bias detection",
+            "Modular nature of proteins - Protein identity based on the primary",
+            "secondary",
+            "and tertiary structure of proteins",
+            "protein homology modeling",
+            "Bioinformatics approaches for Molecular modeling in drug discovery",
+            "Protein-Protein interactions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Human Genome Project",
+            "Next generation sequencing",
+            "Detection of SNPs and their relevance",
+            "Detection of functional sites in the DNA sequences",
+            "Gene predictions",
+            "Microarray data analysis",
+            "Gene expression analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

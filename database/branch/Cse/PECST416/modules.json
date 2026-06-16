@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "1D Signals - A general introduction to real time signals - CT and DT signals,\nSinusoids, Spectrum representation, Sampling and Aliasing (Concept only),\nAnalog frequency and Digital frequency.\nElementary sequences- Real Sinusoidal Sequences, Complex Exponential\nSequences. - Unit impulse, step and ramp sequences, Representation of\ndiscrete time signals- (Graphical representation, Functional representation,\nSequence representation)\nProperties of DT Signals - Even and Odd, Periodic and non periodic signal,\nEnergy and Power signals. Periodicity and Symmetry property of DT signals,\nsupport of sequences, Bounded Sequences.\nOperations on Signals - Time shifting (Translation), Time Reversal\n(Reflection), Time scaling - Upsampling and downsampling\nDTFS - Determining the Fourier-Series Representation of a Sequence,\nProperties of Discrete-Time Fourier Series - Linearity, Translation (Time\nShifting) , Modulation (Frequency Shifting), Reflection (Time Reversal),\nConjugation, Duality,\nMultiplication,\nParseval’s\nRelation,\nEven/Odd\nsymmetry, Real sequence.\n(Practice of Visualization of a discrete time signal and operations on the DT\nsignal using python. Demonstration of sampling and reconstruction using\nPython/Matlab.)",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Discrete-Time Fourier Transform for Aperiodic Sequences - Properties of the\nDiscrete-Time Fourier Transform (Periodicity, Linearity, Translation (Time\nShifting), Modulation (Frequency-Domain Shifting), Conjugation, Time\nReversal, Convolution, Multiplication, Frequency-Domain Differentiation,\nDifferencing, Parseval's theorem, Even/Odd symmetry, real sequences)\nDTFT of periodic sequences - Frequency Spectra of Sequences, Bandwidth of\nSequences, Energy density spectra, Characterizing LTI Systems Using the\nFourier Transform.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Discrete time systems - Block diagram representation and mathematical\nrepresentation of discrete-time systems-Some common elements of Discrete-\ntime systems (adder, constant multiplier, signal multiplier, unit delay, unit\nadvance), Recursive DT systems and non recursive discrete time systems,\nRelaxed system, Linearity and time invariance property of a DT system.\nDiscrete time LTI systems - Discrete time convolution, Properties of\nConvolution, Characterizing LTI Systems and Convolution - Impulse\nresponse of an LTI system, Difference equation, Properties of an LTI system -\nCausality, Memory, Invertibility,  BIBO Stability, Eigen Sequences/ eigen\nfunctions for discrete-Time LTI Systems.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Z transform - motivation for z transform,  Relationship Between z Transform\nand Discrete-Time Fourier Transform, Region of Convergence for the z\nTransform.\nProperties of z transform - Translation (Time Shifting),  Complex Modulation\n(z-Domain Scaling), Conjugation, Time Reversal,  Upsampling (Time\nExpansion, Downsampling,\nConvolution,  z-Domain Differentiation,\nDifferencing,  Initial and Final Value Theorems\nDetermination of the Inverse z Transform\nLTI systems and difference equations, Characterizing LTI systems using z\ntransform, Transfer function of an LTI system. Solving Difference Equations\nUsing the Unilateral z Transform\nBlock\nDiagram\nRepresentation\nof\nDiscrete-Time\nLTI\nSystems,\nInterconnection of LTI systems.",
+    "contact_hours": "9"
+  }
+]

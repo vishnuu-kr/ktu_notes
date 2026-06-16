@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Analog Electronics;\nBJT:\nOperating point of BJT- BJT as amplifier (CE configuration)-input chara-\noutput chara-current amplification factor of BJT;\nPower amplifier (using Transistor):\nClass A- Class B- Class AB- Class C- (working, chara, power and efficiency\ncalculation for Class A & Class B, comparison of power amplifiers)\nFET:\nConstruction and characteristics of JFET & MOSFET –Enhancement &\nDepletion type-Comparison of BJT & FET\nUJT:\nConstruction-working and characteristics of UJT- Overview of online &\noffline UPS- SMPS operation",
+    "contact_hours": "13"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Feedback- concept, positive and negative feedback\nOscillator:\nBarkhausen criteria-difference between LC & RC oscillator-classification-\nworking of Hartley and Colpitts Oscillator(using BJT)-analysis of Rc phase\nshift oscillator (Using BJT)\n555  Timer IC:\nFunctional diagram -Astable and Monostable Multivibrator using\n555(working & derivation of time period)\nPLL:\nBlock diagram- PLL IC 565(Pin diagram)-VCO(Analysis)-Capture range,\nlock in range -Applications of PLL",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "OP-Amp:\nBlock diagram of op-amp- Ideal &  Practical OP- Amp parameters-frequency\nresponse- voltage transfer curve-inverting op-amp-non inverting op-amp-\nvoltage follower-Integrator- Differentiator- comparator-Schmitt trigger-S/H-\nV to I & I to V converter, Instrumentation Amplifier\nActive Filters using op-Amp:\nDifference between active & passive Filters- Active filters: Analysis of First\norder HPF & LPF-working of Band pass and Band Stop Filters",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Op- Amp Oscillators and Multivibrators:\nPhase shift and wein bridge oscillator-Triangular and sawtooth waveform\ngenerators- Astable and Monostable multivibrators\nData convertors:\nDAC: Specifications-Weighted Resistor type, R-2R ladder type\nADC: Specification-Flash type & Successive approximation type",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Realization of compensators",
+      "lag, lead and lag",
+      "lead",
+      "Design of compensator using bode plot. Design of P, PI and PID controller using Ziegler",
+      "Nichols tuning method"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Controllability & observability. State feed",
+      "back design via pole placement technique. Sampled data control system: Pulse Transfer Function",
+      "Stability of sampled data system",
+      "Routh Hurwitz criterion and Jury's test. Introduction to state-space representation of sampled data systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Introduction",
+      "characteristics of nonlinear systems. Types of nonlinearities. Analysis through Harmonic Linearisation -Determination of describing function of nonlinearities (relay, dead zone and saturation only",
+      "application of describing function for stability analysis of autonomous system with single nonlinearity"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Concepts- Construction of phase trajectories for nonlinear systems and linear systems with static nonlinearities",
+      "Singular points",
+      "Classification of singular points. Definition of stability- asymptotic stability and instability Liapunov methods to stability of linear and nonlinear, continuous time systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Number Systems and Codes – binary, octal and hexadecimal –\nconversions – ASCII code, Excess – 3 code, Gray code, BCD code Signed\nnumbers – 1’s complement and 2’s complement – addition and subtraction\nBasic logic gates – universal gates – TTL – CMOS – Internal diagram of\nTTL NAND gate and CMOS NOR gate – comparison of CMOS and TTL\nperformance.\nBoolean laws and theorems – Sum of products and Product of sums\nforms – K map representation and simplification (up to four variables) –\npairs, quads, octets – don’t care conditions.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Combinational circuits – half adder and full adder, half subtractor and full\nsubtractor – 4-bit parallel binary adder/subtractor.\nComparators – parity generators and checkers – encoders –\ndecoders – BCD to seven segment decoder.\nMultiplexers – implementation of boolean expressions using\nmultiplexers – demultiplexers.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Flip-Flops – SR, JK, D and T flip-flops – characteristic table and\nexcitation table – JK Master Slave Flip-flop – Conversion of flip- flops –\nSR to JK and JK to SR only.\nUp/Down counters – asynchronous counters – mod-6 and mod-10\ncounters.\nSynchronous counters – design of synchronous counters – Ring counter\n– Johnson Counter.\nShift registers - SISO, SIPO, PISO, PIPO.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "State Machines – state transition diagram – Moore and Mealy\nmachines.\nDigital to Analog converter –weighted resistor type, R-2R Ladder type.\nAnalog\nto\nDigital\nConverter\n–\nflash\ntype,\nsuccessive\napproximation type.\nIntroduction to Verilog – Implementation of AND, OR, half adder and\nfull adder.\nSuggestion on Project Topics",
+    "contact_hours": "8"
+  }
+]

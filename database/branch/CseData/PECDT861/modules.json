@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to time series forecasting- Forecasting, Types of forecasting –\nShort term, long term. Forecasting data and methods – Qualitative\nforecasting, Quantitative forecasting. Simple Forecasting methods- Average\nmethod, Naïve method, Drift Method. Steps in forecasting.\nIntroduction to Time series forecasting – Time Series Characteristics –\nTypes of Data – Time Series Data, Cross-Section Data, Longitudinal Data.\nUnderstanding Time Series Data, Time series pattern- trend, seasonality,\ncyclicity, and irregularity. Detecting Trends using Hodrick-Prescott filter\nand Detrending time series. Detect Seasonality and De-seasoning, Detecting\nCyclic Variation. Error, Irregular Component and residuals. Time Series\nDecomposition- Additive Models, Multiplicative models.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Exponential Smoothing – Simple exponential smoothing, Methods with\ntrend, methods with seasonality, estimation and modelling, Forecasting with\nETS models.\nRegression Extension Techniques for time series data – Types of stationary\nbehaviour in time series, Making data stationary, Augmented Dickey-Fuller\nTest, Using stationary data techniques – Differencing, Random walk, Trend\nDifferencing, Seasonal Differencing.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Time series as a discrete parameter stochastic process, Auto- correlation\nFunction (ACF), Partial Autocorrelation Function (PACF) and cross\ncorrelations, Auto Correlation Plots – Trend and seasonality in ACF plots.\nAutoregressive (AR), Moving Average (MA), Autoregressive Moving\nAverage (ARMA), Autoregressive Integrated Moving Average (ARIMA)\nmodels, Seasonal ARIMA (SARIMA) models.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to Multivariate Time series Modelling, Vector Autoregressive\nmodels, Vector ARMA Models, Fitting VAR and VARMA models.\nDynamic Regression Models – Estimation, Regression with ARIMA errors\nusing R packages (fable), forecasting, stochastic and deterministic trends.",
+    "contact_hours": "9"
+  }
+]

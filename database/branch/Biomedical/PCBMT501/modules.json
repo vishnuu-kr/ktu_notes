@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Signals and Signal Processing-\nCharacterization and Classification of Signals- Elementary Signals , Typical\nsignal Processing Operations,  Examples of Biomedical Signals , Analog-to-\nDigital Conversion (block diagram only)\nDiscrete-Time Signals –Typical Sequences and Sequence-Representation,\nDiscrete-Time Systems-Classification of Discrete-Time Systems",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Discrete-Time Fourier Transform (DTFT)-Definition, Properties\nDiscrete Fourier Transform (DFT)-Definition, Properties\nFast Fourier Transform (FFT)-Decimation-in-Time, Decimation-in-\nFrequency.\nz Transform- Properties of the z-Transform, Poles and Zeros, Inversion of\nthe z-Transform Using partial fraction expansion, Analysis of Linear Time-\nInvariant Systems in the z-Domain, Transfer function, Frequency response",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "LTI systems as frequency selective filters- Ideal filter characteristics,\nSimple Digital Filter Design-Preliminary Considerations, Design of linear-\nphase FIR Filter using windows (Bartlett) and frequency sampling method\nIIR Filter Design- Approximation of Derivatives, Impulse invariance,\nBilinear Transform Method, Analog filter approximation -Butterworth\napproximation, Frequency Transformations (Analog and Digital domain)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Periodogram- Averaged periodogram, QRS detection in ECG, Analysis of\nHeart Rate Variability using periodogram\nAdaptive Filters- Principle of Wiener Filters, Principle of adaptive filtering,\nPrinciple of adaptive noise cancellation, Cancellation of 50-Hz interference\nin ECG",
+    "contact_hours": "11"
+  }
+]

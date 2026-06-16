@@ -1,0 +1,66 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Legged Locomotion - Leg Configurations and Stability",
+            "Examples of Legged Robot Locomotion. Wheeled Locomotion - Conventional Wheels",
+            "Special Wheels",
+            "Drive Types - Differential Drive",
+            "Tricycle",
+            "Omnidirectional",
+            "Synchro Drive",
+            "Ackerman Steering",
+            "Skid Steering. Case Study - Basic Simulation of a Turtle Bot in ROS",
+            "Building a Visual Robot Model with URDF from Scratch",
+            "Building a Movable Robot Model with URDF"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sensors for Mobile Robots - Sensor Classification",
+            "Characterizing Sensor Performance",
+            "Wheel/Motor Sensors",
+            "Heading Sensors",
+            "Ground-Based Beacons",
+            "Active Ranging",
+            "Motion/Speed Sensors",
+            "Vision-Based Sensors. Representing Uncertainty in Sensor Measurements - Statistical Representation",
+            "Error Propagation - Combining Uncertain Measurements. Case Study - Adding Sensors to the Robot Models in ROS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Robot Localization",
+            "Error Propagation Model",
+            "Probabilistic Map-Based Localization - Kalman Method",
+            "Other Examples of Localization Systems",
+            "Landmark-Based Navigation",
+            "Positioning Beacon Systems. Path Planning of Mobile Robots - Road Map",
+            "Cell Decomposition",
+            "Potential Field - Obstacle Avoidance (Bug Algorithm)",
+            "Vector Field Histogram",
+            "Dynamic Window Approach Case Study - Familiarization with 2D Navigation Stack",
+            "Basic ROS Navigation",
+            "Start Robots in Simulation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Kinematic Model of Unicycle Robot and Differential Drive Robot, and Car Like Mobile Robot or Steered Robot. Control of Mobile Robots",
+            "Control of Differential Drive Robot and Steered Robot Based on Its Kinematic Model. Case Study (Overview Only)",
+            "Design and Implementation of a Differential Drive Robot Capable of Moving to a Point, Following a Line and Following a Path. Case Study",
+            "Control of a Differential Drive Robot in ROS to Move to a Goal Location"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

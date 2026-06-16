@@ -1,0 +1,304 @@
+Course Code 
+PEBMT745 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs.30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+PE 
+ 
+Course Objectives: 
+1. Illustrate the basic concepts of neural networks and its practical issues (Cognitive     
+Knowledge level: Apply) 
+2. Outline the standard regularization and optimization techniques for deep neural network 
+(Cognitive Knowledge Level: Understand) 
+3. Implement the foundation layers of CNN (Cognitive Knowledge Level: Apply) 
+4. Implement a sequence model using recurrent neural networks (Cognitive Knowledge 
+Level: Apply) 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Neural networks, Perceptron model-Single layer perceptron 
+and Multi-layer perceptron, Activation functions-Sigmoid, Tanh and ReLu, 
+McCulloch & Pitts model, Back propagation, The Problem of Overfitting, 
+Vanishing and exploding gradient problems, Difficulties in convergence, 
+Local and spurious optima. 
+9 
+2 
+Introduction to Deep Learning Bayesian Learning, Decision Surfaces , Deep 
+feed forward network, Training deep models, Optimization  techniques - 
+Gradient Descent (GD), GD with momentum, Nesterov accelerated GD, 
+Stochastic  GD, AdaGrad, RMSProp, Adam. Regularization Techniques - L1 
+and L2 regularization, Early stopping, Dataset augmentation, Parameter 
+9 
+
+ 
+ 
+sharing and tying, Injecting noise at input, Ensemble methods, Dropout, 
+Parameter initialization 
+3 
+Introduction to convolution neural networks– Convolution, pooling, 
+architecture, Convolution and Pooling as an infinitely strong prior, variants 
+of convolution functions, structured outputs, data types, efficient convolution 
+algorithms.    
+7 
+4 
+Recurrent neural networks – Computational graphs, RNN design, encoder – 
+decoder sequence to  sequence architectures, deep recurrent networks, 
+recursive neural networks, modern RNNs LSTM . Recent Trends in Deep 
+Learning Architectures, Residual Network, Skip Connection Network, Fully 
+Connected CNN etc 
+11 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+Criteria for Evaluation(Assignment/microproject):15 marks 
+Students should Analyse and apply deep learning technique for implementing a network for the 
+application in biomedical  field. 
+Criteria for evaluation 
+1.Problem Definition(K4- 5 points) 
+   a)Identify the problem 
+   b)Examine the relevant factors causing the problem 
+2.Problem Analyse(K4-5 points) 
+    a)Find the best solution  
+3)Apply(K3 -5 points) 
+    a)Apply any deep learning technique for implementing the solution 
+Scoring 
+
+ 
+ 
+1 Accomplished (4 points) :Analysis and depth of understanding the concept 
+2 Competent(3 points): Solid performance with minor area for improvement 
+3 Developing(2 points) :Adequate effort but lacks clarity 
+4 Minimal(1 point):Incomplete 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all 32questions need to be answered and in Part B, each student can choose any 
+one full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Illustrate the basic concepts of neural networks and its practical issues  
+K2 
+CO2 
+Outline the standard regularization and optimization techniques for 
+deep neural network 
+K3 
+CO3 
+Outline the standard regularization and optimization techniques for 
+deep neural network 
+K3 
+CO4 
+Implement a sequence model using recurrent neural networks 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+CO-PO Mapping Table 
+
+ 
+ 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference Books 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO1
+0 
+PO1
+1 
+PO1
+2 
+CO1 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO2 
+2 
+2 
+2 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+2 
+2 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Neural Networks and Deep 
+learning 
+Charu C. Aggarwal 
+Springer 
+International 
+Publishing 
+2018 
+2 
+Deep Learning 
+Goodfellow, I., 
+Bengio,Y., and 
+Courville 
+MIT Press 
+2016 
+3 
+Fundamentals of Deep 
+Learning: Designing Next-
+Generation Machine 
+Intelligence  Algorithms 
+Nikhil Buduma and 
+Nicholas Locascio 
+ 
+2017 
+
+ 
+ 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Principles of soft computing 
+Deepa, S. N., and S. N. 
+Sivanandam 
+WILEY 
+2011 
+2 
+Neural Networks and Deep 
+Learning 
+Michael Nielsen 
+ 
+2018 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://elearn.nptel.ac.in/shop/nptel/introduction-to-soft-computing/?v=c86ee0d9d7ed 
+2 
+https://onlinecourses.nptel.ac.in/noc22_cs124/preview 
+3 
+https://elearn.nptel.ac.in/shop/nptel/introduction-to-soft-computing/?v=c86ee0d9d7ed 
+4 
+https://onlinecourses.nptel.ac.in/noc22_cs124/preview 
+
+ 
+ 
+SEMESTER S7 
+COMMUNICATION TECHNIQUES

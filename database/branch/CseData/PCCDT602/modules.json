@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to ML:-\nMachine Learning vs. Traditional Programming, Machine learning\nparadigms - supervised, semi-supervised, unsupervised, reinforcement\nlearning.\nParameter Estimation - Maximum likelihood estimation (MLE) and\nmaximum aposteriori estimation (MAP), Bayesian formulation.\nSupervised Learning:-\nFeature Representation and Problem Formulation, Role of loss functions and\noptimization\nRegression - Linear regression with one variable, Linear regression with\nmultiple variables: solution using gradient descent algorithm and matrix\nmethod.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Classification - Logistic regression, Naïve Bayes, KNN, Decision Trees –\nID3\nGeneralisation and Overfitting - Idea of overfitting, LASSO and RIDGE\nregularization, Idea of Training, Testing, Validation\nEvaluation measures – Classification - Precision, Recall, Accuracy, F-\nMeasure, Receiver Operating Characteristic Curve(ROC), Area Under\nCurve (AUC).\nRegression - Mean Absolute Error (MAE), Root Mean Squared Error\n(RMSE), R Squared/Coefficient of Determination.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "SVM – Linear SVM, Idea of Hyperplane, Maximum Margin Hyperplane,\nNon-linear SVM, Kernels for learning non-linear functions\nNeural Networks (NN) - Perceptron, Neural Network - Multilayer feed-\nforward network, Activation functions (Sigmoid, ReLU, Tanh), Back\npropagation algorithm.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Unsupervised Learning\nClustering - Similarity measures, Hierarchical Clustering - Agglomerative\nClustering, partitional clustering, K-means clustering\nDimensionality reduction - Principal Component Analysis, Multidimensional\nscaling\nEnsemble methods - bagging, boosting; Resampling methods -\nBootstrapping, Cross Validation.  Practical aspects - Bias-Variance tradeoff.",
+    "contact_hours": "9"
+  }
+]

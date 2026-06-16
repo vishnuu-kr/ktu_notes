@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of Financial Systems - Financial markets, instruments, and data;\nData Science in Finance - Role of data science, types of data in finance\n(structured, unstructured, time-series, etc.); Financial Data Acquisition -\nSources of financial data, Data retrieval from the Internet; Data Preprocessing -\nData cleaning, handling missing data, outlier detection, normalization, and\nscaling; Exploratory Data Analysis  - Visualizing financial data (candlestick\ncharts, histograms), statistical summaries.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Supervised Learning in Finance - Decision trees, random forests, and support\nvector machines (SVM) for stock prediction; Unsupervised Learning for\nFinancial Clustering - K-means clustering and principal component analysis\n(PCA) for risk classification; Neural Networks in Finance - Overview of deep\nlearning techniques, simple models for predicting financial outcomes; Model\nEvaluation and Performance Metrics: Evaluation metrics like RMSE, R²,\nconfusion matrix, accuracy, precision, and recall.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Financial Risk Types - Credit risk, market risk, liquidity risk; Risk Modeling\nTechniques - Value at Risk (VaR), Monte Carlo simulations; Stress Testing\nand Scenario Analysis - Techniques for testing portfolio resilience under\nextreme conditions; Fraud Detection Algorithms - Anomaly detection\ntechniques in transaction data (e.g., autoencoders, isolation forests); Case\nStudy: Implementing a credit risk scoring model.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to Algorithmic Trading - Basics of trading strategies, high-\nfrequency trading, algo-bots; Financial Portfolio Theory - Modern Portfolio\nTheory (MPT), Efficient Frontier; Optimization Algorithms - Gradient\nDescent, Genetic Algorithms for portfolio optimization; Backtesting Trading\nStrategies - Python libraries for backtesting (e.g., Backtrader, QuantConnect).",
+    "contact_hours": "9"
+  }
+]

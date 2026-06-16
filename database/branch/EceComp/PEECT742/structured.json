@@ -1,0 +1,67 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Perceptrons Convolutional Neural Networks: Convolution operation",
+      "CNN Architecture kernels",
+      "padding- Convolutional layers",
+      "Pooling Layers",
+      "fully connected layers. Feature and weight visualization",
+      "t-SNE"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Loss functions-Mean Squared Error",
+      "Cross Entropy Activation functions",
+      "Sigmoid Relu",
+      "Softmax Training CNNs:-Initialization Back-propagation Optimization algorithms:-SGD",
+      "Momentum",
+      "Adagrad",
+      "RMS Prop",
+      "Adam",
+      "Hyper parameter optimization-Learning rate Regularization methods: L1",
+      "L2 regularizaton dropout",
+      "Data Augmentation",
+      "Early stopping batch normalization Introduction to Transfer learning",
+      "feature extraction",
+      "fine tuning"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Sequence models",
+      "Recurrent Neural Networks (RNN): cell structure and architecture",
+      "Training RNN",
+      "back propagation through time. Vanishing and exploding gradients. Long Short-Term Memory (LSTM",
+      "architecture and training. Gated Recurrent Units (GRU",
+      "architectture and training"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Introduction to Generative models: parameter estimation",
+      "Maximum Likelyhood Estimation. GANs : adversarial training. Discriminator",
+      "Generator",
+      "up sampling",
+      "Transformer models",
+      "architecture Word embedding",
+      "position encoding",
+      "attention",
+      "training transformer models Large language models BERT",
+      "GPT ( Detailed mathematical treatment not required for this module) Note:- Assignments/ Micro project should be given for modules 2",
+      "3 and 4 using standard machine learning frameworks such as tensorflow/keras/ pytorch. They may also be introduced to GPUs and standard data sets on hugging face/kaggle"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

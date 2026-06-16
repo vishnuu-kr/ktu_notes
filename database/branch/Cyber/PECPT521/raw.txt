@@ -1,0 +1,318 @@
+Course Code 
+PECPT521 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+ PCCPT205 
+Course Type 
+Theory 
+Course Objectives: 
+1. To understand the knowledge of interfacing sensors and actuators with embedded 
+controllers using various circuits and communication protocols. 
+2. To understand advanced techniques for interfacing resistive and capacitive sensors, 
+focusing on linearity improvement and error reduction. 
+3. To understand the principles of miniaturization technology for smart sensors and actuators 
+and their fabrication processes. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction:Overview of embedded system; Importance of sensors, 
+actuators and interfacing circuits in embedded control system 
+Embedded Sensors and Actuators:Various types of important sensors, 
+actuators and their working principles: e.g, thermal, mechanical, electrical, 
+magnetic, optical, chemical, smart material and meta material based. 
+ 
+9 
+2 
+Interfacing Aspects of Sensors and Actuators to Embedded Controller 
+and their Communication Protocols: Signal conditioning circuits; Various 
+Op-Amp based interfacing circuit implementation: Amplifier, Filter, ADC, 
+DAC etc.; Various Serial Communication protocols for interfacing. 
+Advancement in Interfacing Schemes of Resistive Sensors for Linearity 
+Improvement and Error Reduction: Resistive sensor examples; Non-
+idealities in basic interfacing circuits; Linearization techniques; Error 
+reduction schemes due to environmental effects and remote communication. 
+Advanced Techniques for Direct Interfacing of Resistive Sensors with 
+ 
+9 
+
+ 
+ 
+Embedded controller: Embedded controller based excitation system; Direct 
+interfacing schemes of various resistive sensors topologies (e.g., single, 
+differential and bridge type) to microcontrollers; Interfacing scheme for 
+sensor array. 
+3 
+Advanced Techniques for Direct Interfacing of Capacitive Sensors with 
+Embedded Controller: Capacitive sensor examples; Interfacing scheme for 
+different capacitive sensor configurations; Direct interfacing schemes. 
+Advancement in Design of Interfacing Circuits for Lossy Capacitive 
+Sensors: Lossy Capacitive sensor characteristics; Various advanced 
+interfacing schemes for lossy capacitive sensor. 
+9  
+4 
+Miniaturization Technology for Smart Sensors and Actuators: 
+Background of miniaturization; Miniaturized device fabrication process 
+technology for Smart sensors and actuators. 
+Miniaturized Sensors, Actuators and their Interfacing Electronics: 
+Various types of important MEMS sensors and actuators: Design and 
+operation; Interfacing Electronics for MEMS Devices; System-on-Chip 
+integration; Applications. 
+ 
+9  
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written)
+Internal 
+Examination- 2 
+(Written)
+Total 
+5 
+15 
+10 
+10 
+40 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge Level 
+(KL) 
+CO1 
+Explain the working principles of various sensors and actuators used in 
+embedded systems. 
+K2 
+CO2 
+Develop signal conditioning circuits for interfacing sensors with 
+embedded controllers. 
+K3 
+CO3 
+Develop advanced interfacing techniques for resistive and capacitive 
+sensors to improve linearity and reduce errors. 
+K3 
+CO4 
+Illustrate an understanding of miniaturization technology and the 
+fabrication process for smart sensors and actuators. 
+K2 
+CO5 
+Understand various types of MEMS sensors and actuators. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+1: Slight (Low), 2: Moderate (Medium),3: Substantial (High), : No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Sensors, Actuators, and their 
+Interfaces 
+Nathan Ida 
+SciTech Publishing, 
+1/e, 2014 
+2 
+Advanced Interfacing 
+Techniques for Sensors  
+B. George, J. Roy, V. 
+Jagadeesh Kumar, S. C. 
+Mukhopadhyay 
+Springer 
+1/e, 2017 
+3 
+Analog Interfacing to 
+Embedded Microprocessor 
+Systems 
+Stuart R. Ball 
+Elsevier 
+1/e, 2004 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+4 
+Sensors and Signal 
+Conditioning 
+John G. Webster and 
+Ramón Pallás-Areny 
+John Wiley & Sons 
+2/e, 2000 
+5 
+Fundamentals of 
+Microfabrication and 
+Nanotechnology 
+Marc Madou 
+CRC press 
+3/e, 2018 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher
+Edition and 
+Year
+1 
+Smart Sensors and MEMS 
+S. Nihtianov, A. Luque 
+Elsevier 
+1/e, 2014 
+2 
+Instrument Engineers 
+Handbook 
+Bela G Liptak 
+CRC press 
+4/e, 2003 
+3 
+Understanding Automotive 
+Electronics: An Engineering 
+Perspective 
+William B. Ribbens 
+Elsevier 
+8/e, 2017 
+4 
+Advanced Digital Design with 
+the Verilog HDL  
+Michael D Ciletti 
+Pearson education 
+2/e, 2017 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 - 4 
+https://youtu.be/kTLoQskfPx0 
+
+ 
+ 
+SEMESTER S5 
+COMPUTER COMMUNICATION

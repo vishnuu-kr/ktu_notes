@@ -1,0 +1,66 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Finite Automata:Need for mathematical modelling",
+      "Symbols",
+      "Alphabets",
+      "Strings",
+      "Languages",
+      "Formal definition of a finite automaton",
+      "Deterministic Finite Automata (DFA",
+      "Regular languages",
+      "Formal definition of a nondeterministic finite automaton",
+      "Equivalence of NFAs and DFAs (Proof not expected) - Subset Construction. Minimization of DFA NFA with epsilon transitions",
+      "Eliminating epsilon transitions",
+      "Moore and Mealy machines"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Formal definition of a regular expression",
+      "Building Regular Expressions",
+      "Equivalence with finite automata (Proof not expected) - Converting FA to Regular Expressions",
+      "Converting Regular Expressions to FA",
+      "Regular languages. Properties of Regular Languages: Closure and Decision Properties of Regular Languages",
+      "Pumping Lemma for Regular Languages",
+      "Myhill-Nerode Theorem(MNT) without proof",
+      "Applications of MNT. Context-Free Grammars and Applications: Formal definition of a context-free grammar",
+      "Designing context-free grammars",
+      "Parse Trees",
+      "Ambiguous Grammars",
+      "CYK-Algorithm"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Formal definition of a pushdown automaton (PDA",
+      "Design of Deterministic PDA and Nondeterministic PDA. Simplification of Context-Free Languages: Chomsky normal form",
+      "Greibach normal form. Properties of Context-Free Languages: The Pumping Lemma for Context-Free Languages",
+      "Closure and Decision Properties of Context-Free Languages. Linear Bounded Automata"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Definition of a Turing machine (TM",
+      "Design of Turing machines - TM as language acceptors",
+      "TM as computers of functions",
+      "Variants of Turing Machines",
+      "Recursive and recursively enumerable languages Chomsky hierarchy. Computability: Universal Machine",
+      "Church Turing thesis",
+      "Decidable and Undecidable Problems",
+      "Halting problem of TM"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

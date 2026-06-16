@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Biological neural networks",
+            "model of an artificial neuron",
+            "architecture",
+            "activation functions",
+            "learning methods",
+            "History of ANN- McCulloch & Pitts model- algorithm and architecture"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Hebb network - algorithm and problems",
+            "Perceptron network",
+            "ADALINE",
+            "MADALINE",
+            "Back Propagation Network -architecture",
+            "training algorithm",
+            "Problems. Competitive network: Maxent"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Hetero associative networks",
+            "Auto associative memory networks",
+            "Discrete Hopfield nets",
+            "Bidirectional associative memory networks. Practical issues in neural network training -The Problem of Overfitting",
+            "Vanishing and exploding gradient problems",
+            "Difficulties in convergence",
+            "Local and spurious Optima",
+            "Computational Challenges"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Convolutional Neural Networks (CNN) - convolution operation",
+            "pooling",
+            "ReLU layer",
+            "structure of CNN(basic concepts only) Recurrent Neural Networks- (RNN) basic concept and simple architecture with practical examples",
+            "LSTM",
+            "GRU. Case studies of application of neural networks in healthcare"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

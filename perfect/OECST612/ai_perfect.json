@@ -1,0 +1,92 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Communication Model - Simplex",
+            "Half Duplex",
+            "Full Duplex Transmission",
+            "Periodic Analog Signals - Sine Wave",
+            "Amplitude",
+            "Phase",
+            "Wavelength",
+            "Time and Frequency Domain",
+            "Bandwidth",
+            "Analog & Digital Data and Signals",
+            "Transmission Impairments - Attenuation",
+            "Delay Distortion",
+            "Noise",
+            "Data Rate Limits - Noiseless Channel",
+            "Nyquist Bandwidth",
+            "Noisy Channel",
+            "Shannon's Capacity Formula",
+            "Guided Transmission Media - Twisted Pair",
+            "Coaxial Cable",
+            "Optical Fiber",
+            "Unguided Media - Radio Waves",
+            "Terrestrial Microwave",
+            "Satellite Microwave",
+            "Infrared",
+            "Wireless Propagation - Ground Wave Propagation",
+            "Sky Wave Propagation",
+            "Line-of-Sight (LoS) Propagation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Digital Data to Digital Signal - Non-Return-to-Zero (NRZ)",
+            "Return-to-Zero (RZ)",
+            "Multilevel Binary",
+            "Biphase",
+            "Analog Data to Digital Signal - Sampling Theorem",
+            "Pulse Code Modulation (PCM)",
+            "Delta Modulation (DM)",
+            "Digital Data to Analog Signal - Amplitude Shift Keying (ASK)",
+            "Frequency Shift Keying (FSK)",
+            "Phase Shift Keying (PSK)",
+            "Analog Data to Analog Signal - Amplitude Modulation (AM)",
+            "Frequency Modulation (FM)",
+            "Phase Modulation (PM)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Multiplexing - Frequency Division Multiplexing (FDM)",
+            "Wavelength Division Multiplexing (WDM)",
+            "Time Division Multiplexing (TDM)",
+            "Characteristics",
+            "Synchronous TDM",
+            "Statistical TDM",
+            "Spread Spectrum Techniques - Direct Sequence Spread Spectrum (DSSS)",
+            "Frequency Hopping Spread Spectrum (FHSS)",
+            "Code Division Multiplexing",
+            "Code Division Multiple Access (CDMA)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Digital Data Communication Techniques - Asynchronous Transmission",
+            "Synchronous Transmission",
+            "Detecting and Correcting Errors - Types of Errors",
+            "Parity Check",
+            "Checksum",
+            "Cyclic Redundancy Check (CRC)",
+            "Forward Error Correction (FEC)",
+            "Hamming Distance",
+            "Hamming Code",
+            "Basic Principles of Switching - Circuit Switching",
+            "Packet Switching",
+            "Message Switching"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

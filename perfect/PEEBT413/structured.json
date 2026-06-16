@@ -1,0 +1,44 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Control Systems - Definition, Examples (including physiological control systems), System configurations, Design considerations, Control system design process",
+            "Review of Laplace Transforms, Transfer function of LTI system, Model of simple electrical and mechanical systems",
+            "Concept of feedback, Reduction of Block diagrams, Signal flow graph- Use of Mason's gain formula"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Time domain analysis- Standard test signals",
+            "Time response specifications",
+            "First order system response",
+            "S-plane root location and transient response",
+            "impulse and step response of second order systems",
+            "performance and characteristics in the time domain",
+            "Steady state response - Steady state error and static error coefficients"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Frequency domain analysis - Frequency response techniques -frequency response specifications, bode plots, gain margin and phase margin via Bode plots",
+            "Routh - Hurwitz criterion, Root Locus techniques, Concepts of relative stability. Overview of compensators for design improvement"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "State space models - Introduction to the state variable concept, State model of mechanical and electrical systems. Various forms of representing state space systems",
+            "Solution of continuous time state equations - (Homogeneous case only), State transition matrix -properties, Controllability, Observability"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

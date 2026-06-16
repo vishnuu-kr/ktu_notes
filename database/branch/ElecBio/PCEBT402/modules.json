@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Microelectronic fabrication technology: Brief overview of\nmicroelectronic fabrication technology - Epitaxial Growth, Diffusion,\nIon Implantation Processes -Description - Fabrication of BJT,\nMOSFETs. Operational amplifiers: Introduction to operational\namplifiers, Internal block schematic of op amp- equivalent circuit -\nVoltage transfer curve-– input and output impedance –Slew rate, Input\nbias current –Input offset current- Offset voltage- CMRR, SVRR.\nOpen loop op- amp configurations- open loop gain – Frequency\nresponse- finite gain bandwidth -–Ideal op amp parameters. Offset\nvoltage compensating networks-offset minimizing resistor.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Closed loop op amp configurations: Feedback topologies- Voltage\nseries, voltage shunt, current series and current shunt feedbacks –\nFrequency response, concept of virtual ground - Closed loop gain,\ninput resistance, output resistance, band width and output offset\nvoltage of feedback configurations, voltage follower. Summing\namplifier, Difference amplifiers with one op amp and 3 op amps-\nInstrumentation amplifier, Log and Antilog amplifiers. Voltage to\ncurrent and current to voltage converter - Integrator and differentiator.\nPeak detector circuit, Precision rectifiers. Comparators and Schmitt\ntrigger circuits",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Active Filters: Transfer functions – LPF, HPF, BPF, BRF. First and\nsecond order filters. Approximation methods–Butterworth –\nChebyshev. Sample and hold circuit, ADC -successive approximation,\nflash, integrating types. DAC – weighted, R-2R types, Multi vibrators\n- Astable and mono stable – Design and working. Wave generators-\nTriangular and saw tooth - RC phase shift and Wien bridge oscillators.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Specialized ICs and applications: IC regulators - 723 -block diagram,\ntypical low voltage regulator circuit, 78XX and 79XX IC regulators,\n317 - applications. Timers - 555 – Functional block diagram- Astable\nand monostable multi vibrators using 555. VCO – 566. PLL-IC 565-\nBlock diagram, working and applications.",
+    "contact_hours": "11"
+  }
+]

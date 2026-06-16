@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Entropy, Properties of Entropy, Joint and Conditional Entropy, Mutual\nInformation, Properties of Mutual Information.\nDiscrete memoryless sources, Source code, Average length of source code,\nBounds on average length, Uniquely decodable and prefix-free source codes.\nKraft Inequality (with proof), Huffman code. Shannon’s source coding\ntheorem (both achievability and converse) and operational meaning of\nentropy.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Discrete memoryless channels. Capacity of discrete memoryless channels.\nBinary symmetric channels (BSC), Binary Erasure channels (BEC). Capacity\nof BSC and BEC. Channel code. Rate of channel code. Shannon’s channel\ncoding theorem (both achievability and converse without proof) and\noperational meaning of channel capacity.\nModeling of Additive White Gaussian channels. Continuous-input channels\nwith average power constraint. Differential entropy. Differential Entropy of\nGaussian random variable. Relation between differential entropy and\nentropy. Shannon-Hartley theorem (with proof – mathematical subtlities\nregarding power constraint may be overlooked).\nInferences from Shannon Hartley theorem – spectral efficiency versus SNR\nper bit, power-limited and bandwidth-limited regions, Shannon limit,\nUltimate Shannon limit.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Overview of Groups, Rings, Finite Fields, Construction of Finite Fields from\nPolynomial rings, Vector spaces.\nBlock codes and parameters. Error detecting and correcting capability.\nLinear block codes. Two simple examples -- Repetition code and single\nparity-check code. Generator and parity-check matrix. Systematic form.\nMaximum likelihood decoding of linear block codes. Bounded distance\ndecoding. Syndrome. Standard array decoding.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Cyclic codes. Polynomial and matrix description. Interrelation between\npolynomial and matrix view point. Systematic encoding. Decoding of cyclic\ncodes. (Only description, no decoding algorithms) Hamming Codes, BCH\ncodes, Reed-Solomon Codes\nConvolutional Codes. State diagram. Trellis diagram. Maximum likelihood\ndecoding. Viterbi algorithm.\nLow-density parity check (LDPC) codes. Tanner graph representation.\nMessage-passing decoding for transmission over binary erasure channel.",
+    "contact_hours": "9"
+  }
+]

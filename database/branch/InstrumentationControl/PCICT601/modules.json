@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "DISCRETE FOURIER TRANSFORM\nReview of Discrete Time Fourier Transform.\nFrequency domain sampling and reconstruction of Discrete time signals -\nDFT- properties of DFT. Circular convolution - Dentition, Linear\nconvolution using DFT.\nComputation of DFT - Direct computation of DFT – DFT as linear\nTransformation – Fast Fourier Transform (Radix – 2 FFT only) –\nDecimation in time and decimation in frequency algorithms.\nProblem solving using software tools.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "DIGITAL FILTER STRUCTURES\nZ-Transform representation of FIR and IIR filters- FIR filter structures: -\nDirect form, Cascade form and Lattice structures\nIIR filter structure: Direct form Transpose form, Cascade form and Parallel\nform structures.\nFINITE WORD LENGTH EFFECTS\nQuantization noise, Round off effects, Limit cycle oscillations.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "IIR DIGITAL FILTERS\nDigital Filter Specifications – Design of IIR digital filters from analog filters\n– Butterworth and Chebyshev filters – Design of Low pass filters – Spectral\ntransformation of IIR filters –Analogue to digital transfer function: impulse\ninvariant method, bilinear transformation method.\nProblem solving using software tools.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "FIR DIGITAL FILTERS\nDesign of FIR filters: Estimation of filter order - FIR filter design - Impulse\nresponse of ideal filters - Gibbs Phenomenon – Fixed window functions:\nRectangular, Hamming, Blackman –Adjustable window function: Kaiser\nwindow.\nProblem solving using software tools.",
+    "contact_hours": "11"
+  }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of machine learning Machine learning paradigms-supervised",
+            "semi-supervised",
+            "unsupervised",
+            "reinforcement learning. Basics of parameter estimation - maximum likelihood estimation(MLE) and maximum a posteriori estimation(MAP). Introduction to Bayesian formulation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Supervised and Unsupervised Learning Regression - Linear regression with one variable",
+            "Linear regression with multiple variables",
+            "solution using gradient descent algorithm and matrix method",
+            "basic idea of over fitting in regression. Linear Methods for Classification- Logistic regression",
+            "Perceptron",
+            "Naive Bayes",
+            "and Decision tree algorithm ID3. Clustering - Similarity measures",
+            "Hierarchical Agglomerative Clustering",
+            "K-means partitional clustering",
+            "Expectation maximization (EM) for soft clustering. Dimensionality reduction - Principal Component Analysis",
+            "factor Analysis",
+            "Multidimensional scaling",
+            "Linear Discriminant Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Neural Networks (NN) and Support Vector Machines (SVM) NN - Multilayer feed forward network",
+            "Activation functions (Sigmoid",
+            "ReLU",
+            "Tanh",
+            "Back propagation algorithm. SVM - Introduction",
+            "Maximum Margin Classification",
+            "Mathematics behind Maximum Margin Classification",
+            "Maximum Margin linear separators",
+            "soft margin SVM classifier",
+            "non-linear SVM",
+            "Kernels for learning non-linear functions",
+            "polynomial kernel",
+            "Radial Basis Function(RBF"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Develop a classifier for face detection. Motivation",
+            "Genetic Algorithms: Representing Hypotheses",
+            "Genetic Operator",
+            "Fitness Function and Selection",
+            "An Illustrative Example",
+            "Hypothesis Space Search",
+            "Genetic Programming"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

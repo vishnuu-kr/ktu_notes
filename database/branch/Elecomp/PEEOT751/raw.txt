@@ -1,0 +1,338 @@
+Course Code 
+PEEOT751 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PEEET414 Theory of 
+Computation
+Course Type 
+PE - Theory 
+Course Objectives 
+1. To provide a thorough understanding of the internals of Compiler Design, compiler parsing 
+techniques, intermediate machine representation and optimization. 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Introduction to compilers – Analysis of the source program, 
+Phases of a compiler, Grouping of phases 
+Lexical Analysis-The role of Lexical Analyzer, Input Buffering, Specification 
+of Tokens using Regular Expressions, Finite Automata,  Recognition of 
+Tokens. Syntax Analysis: 
+Grammers,Context-Free Grammars,Derivation trees and Parse, Ambiguity 
+ 
+9 
+2 
+Top-Down Parsing: Recursive Descent parsing, Predictive parsing, LL(1) 
+Grammars.  
+Bottom-Up Parsing:Shift Reduce parsing – Operator precedence parsing 
+(Concepts only) 
+LR parsing – Constructing SLR parsing tables, Constructing, Canonical LR 
+parsing tables and Constructing LALR parsing tables. 
+ 
+9 
+3 
+Syntax directed translation: Syntax directed definitions, Bottom- up evaluation 
+of S-attributed definitions, L- attributed definitions, Bottom-up evaluation of 
+inherited attributes. 
+Type Checking : Type systems, Specification of a simple type checker. 
+Run-Time Environments: Source Language issues, Storage organization, 
+Storage- allocation strategies. 
+9 
+4 
+Intermediate Code Generation (ICG): Intermediate languages – Graphical 
+ 
+9 
+
+ 
+ 
+representations, Three- Address code, Quadruples, Triples 
+ Code Optimization: Principal sources of optimization, Optimization of Basic 
+blocks 
+Code generation: Issues in the design of a code generator. The target machine, 
+A simple code generator. 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the concepts and different phases of compilation with compile 
+time error handling 
+K2
+CO2 
+Represent language tokens using regular expressions, context free 
+grammar and finite automata . 
+K2
+CO3 
+Illustrate  top down and  bottom up parsers, and develop appropriate 
+parser to produce parse tree representation of the input. 
+K3
+CO4 
+Generate intermediate code for statements in high level language and 
+understand different storage allocation strategies. 
+K3
+CO5 
+Illustrate syntax directed translation schemes for a given context free 
+grammar.. 
+K2
+CO6 
+Apply optimization techniques to intermediate code and generate 
+machine code for high level language program 
+K3
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Compilers-Principles, 
+Techniques and Tools 
+Aho A.V,Ravi Sethi and 
+D. Ullman 
+Addison Wesley 
+2nd 
+edition,20
+06
+2 
+System Programming and 
+Operating Systems,Tata 
+D. M.Dhamdhare, 
+ McGraw Hill & 
+Company 
+2nd
+edition 
+,1996
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+2 
+2 
+1 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO2 
+3 
+2 
+2 
+1 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO3 
+3 
+2 
+2 
+1 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO4 
+3 
+2 
+2 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO5 
+3 
+2 
+2 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO6 
+3 
+2 
+2 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Compiler Construction – 
+Principles and Practice 
+Kenneth C. Louden 
+Cengage Learning 
+ 
+Indian 
+Edition, 
+2006
+2 
+The Theory and Practice of 
+Compiler Writing 
+Tremblay and Sorenson 
+Tata McGraw 
+Hill & Company 
+English 
+Edition 
+1984
+3 
+Introduction to the Theory of 
+Computation 
+Michael Sipser 
+Cengage 
+Learning. 
+3rd 
+edition,2012 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc21_cs07/preview 
+2 
+https://onlinecourses.nptel.ac.in/noc21_cs07/preview 
+3 
+https://onlinecourses.nptel.ac.in/noc21_cs07/preview 
+4 
+https://onlinecourses.nptel.ac.in/noc21_cs07/preview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S7 
+ELECTRICAL SYSTEM DESIGN

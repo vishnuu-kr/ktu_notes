@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Operating Systems (Book 1 Ch 2 introductory part),\nOperating System Services (Book 3 Ch 2) Overview of Operating Systems\nand Kernels, Linux Versus Classic Unix Kernels (Book 2 Ch 1)\nProcess concepts: Process Creation, Process States, Data Structures, Process\nAPI (Book 1 Ch 4, 5), Sharing processor among processes - user and kernel\nmodes, context switching (Book 1 Ch 6), System boot sequence (Book 3 Ch\n2)\nCase study: Linux kernel process management (Book 2, Ch 3)\nThreads and Concurrency: Concept of a thread, Multithreading benefits,\nMultithreading models (Book 3 Ch 4)\nCase study: The Linux Implementation of Threads (Book 2, Ch 3)\nProcess scheduling: Concepts and basic algorithms (Book 1 Ch 7), The\nMultilevel Feedback Queue: Basic Rules (Book 1 Ch 8)\nCase study: The Linux Completely Fair Scheduler (CFS) (Book 1 Ch 9,\nImplementation with RB trees not required), The Linux Scheduling\nImplementation, Preemption and Context Switching (Book 2, Ch 4)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Concurrency and Synchronization - Basic principles (Book 3 Sections 6.1,\n6.2), Mechanisms - Locks: The Basic Idea, Building Spin Locks with Test-\nAnd-Set, Compare and Swap, Using Queues: Sleeping Instead Of Spinning\n(Book 1 Ch 28), Semaphores - Definition, Binary Semaphores, The\nProducer/Consumer (Bounded Buffer) Problem and its solution using\nsemaphores, Reader-Writer Locks (Book 1 Ch 31)\nCase study: Linux Kernel Synchronization Methods - Spin Locks, Semaphores,\nMutexes (Book 2 Ch 10)\nConcurrency: Deadlock and Starvation - Deadlock Characterization,\nDeadlock Prevention and Avoidance, Deadlock Detection and recovery (Book\n3 Ch 8), Dining Philosophers Problem and its solution (Book 1 Ch 31)",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Memory management - Address Space, Memory API, Address Translation -\nAn Example, Dynamic (Hardware-based) Relocation, Segmentation:\nGeneralized Base/Bounds, Address translation in segmentation, Support for\nSharing (Book 1 Ch 13 to 16)\nVirtual memory - Paging: Introduction, page tables and hardware support,\nTLBs, Example: Accessing An Array, - TLB hits and misses, Handling TLB\nmisses, TLB structure, Reducing the page table size (Book 1 Ch 18 to 20)\nGoing beyond physical memory  -  Swap space, page fault and its control\nflow, page replacement policies, Thrashing  (Book 1 Ch 21, 22)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "I/O system: Modern System architecture, Programmed I/O, Interrupts, DMA,\nDevice interaction methods, The Device Driver (Book 1 Ch 36),\nHard disk:  Geometry (Book 1 Ch 37), disk scheduling (Book 3 Section 11.2)\nCase study: Linux I/O schedulers - Elevator, Complete Fair Queuing (Book 2\nCh 14)\nFiles and Directories: The File System Interface - File descriptor, reading and\nwriting files (sequential and random access), Removing files - Hard links and\nSymbolic links, Creating, reading and deleting directories, Permission bits and\nAccess Control Lists, Mounting a file system (Book 1 Ch 39)\nFile Organization: The Inode, The Multi-Level Index (Book 1 Ch 40)\nCase study: VFS Objects and Their Data Structures - The Inode Object, Inode\nOperations (Book 2 Ch 13)",
+    "contact_hours": "10"
+  }
+]

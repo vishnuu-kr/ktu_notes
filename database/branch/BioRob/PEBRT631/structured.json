@@ -1,0 +1,49 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Position definitions- Coordinate frames",
+      "Different orientation descriptions",
+      "Free vectors- Translations, rotations and relative motion -Position and Orientation of a Rigid Body- Rotation Matrix- Elementary Rotations- Representation and rotation of a Vector",
+      "Composition of Rotation Matrices-Euler Angles- YZY angles- Roll-Pitch-Yaw Angles-Angle and axis"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Kinematic Chains",
+      "Denavit Hartenberg Representation-Kinematics of manipulator structures- Three link planar arm- parallelogram arm- spherical arm",
+      "anthropomorphic arm- spherical arm",
+      "Stanford manipulator. Manipulator Kinematics-2 Inverse Kinematics- The General Inverse Kinematics Problem- kinematic decoupling",
+      "inverse position",
+      "inverse orientation- joint space and operational space -workspace"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Differential Kinematics and Statics:- Geometric Jacobian- Derivative of a Rotation Matrix",
+      "Link Velocity -Jacobian Computation.-Jacobian of Typical Manipulator Structures- Three- link Planar Arm",
+      "Anthropomorphic Arm-Stanford Manipulator",
+      "Kinematic Singularities- Singularity Decoupling -Wrist Singularities- Arm Singularities -Analysis of Redundancy -Differential Kinematics Inversion -Redundant Manipulators",
+      "Kinematic Singularities"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Joint Space Control",
+      "Independent Joint Control",
+      "Feedback Control",
+      "Decentralized Feedforward Compensation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

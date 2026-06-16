@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to ARM Cortex-M Architecture:-\nOverview of Embedded Systems, Applications of Embedded Systems,\nIntroduction to\nEmbedded\nC,\nMicrocontrollers\nvs.\nMicroprocessors,\nClassification of processors, Overview of ARM Cortex-M Series, Introduction\nto the Cortex-M23 and Cortex-M33 processors and the Armv8-mArchitecture,\nARM Core Features: Registers, Memory, and Bus Architecture, Comparison\nwith previous generations of Cortex-M processors.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "STM32 Microcontroller Overview and Peripheral Programming:-\nIntroduction to STM32 Family, STM32U575 Features and Specifications,\nPower Management and Low-Power Features Libraries, Introduction to\nIntegrated Development Environment and HAL, Writing, and Debugging Your\nFirst Program(LED Interfacing), Interfacing Seven-Segment Display, LCD\nDisplay, and Matrix Keypad, Relay Interfacing, Analog to Digital Conversion:\nPotentiometer, temperature sensor, LDR, Microphone, Digital to Analog\nConversion: Simple DAC Output Generation, Generating a Sine Wave, Audio\nSignal Generation, Interrupt Handling, Timer and Counter Applications: Basic\nTimer Configuration, Timers as Counters, Timer-Based Real-Time Clock\n(RTC)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Communication Protocols and USB:-\nSerial port terminal Application, Serial communication (USART, I2C, SPI,\nCAN), Interfacing an I2C Temperature Sensor and Displaying Data on an LCD,\nwriting to and Reading from an SPI-based EEPROM, Configuring and\nImplementing\nCAN\nCommunication\nbetween\nMultiple\nSTM32U575\nMicrocontrollers, Creating a USB HID Device for Keyboard / Mouse\nEmulation",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "IoT, Wireless Communication, and RTOS:-\nIntroduction to IoT, IoT Architecture, Protocols (MQTT, CoAP), IoT Security\nPrinciples and Common Threats Wireless Communication: Interfacing GSM\n(Call, SMS, Internet), Bluetooth Communication Basics, LoRa Communication\nBasics and Applications, Designing an IoT-Based Home Automation System,\nIntroduction to RTOS Concepts, FreeRTOS with STM32: Task Creation,\nScheduling, and Management, RTOS Timers, Delays, and RTC Integration,\nInter-task Communication: Queues and Semaphores\nTrust Zone Technology: Introduction to ARM Trust Zone, Trust Zone\nArchitecture and Features, Secure and Non-Secure Worlds: Configuration and\nManagement, Implementing Trust Zone in STM32U575, Advanced Debugging\nand Optimization: Code and Memory Optimization Techniques, Debugging\nStrategies and Tools\nSuggestion on Project Topics\n● Identify real world problems requiring hardware solutions and develop them using\nperipheral devices. Some of the examples would be - Home automation, Small\nhome/office security system, ARM based voice response system etc.",
+    "contact_hours": "14"
+  }
+]

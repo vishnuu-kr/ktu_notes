@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Artificial Intelligence (AI) and Python: Overview of AI and\nAgents- Definition and History of AI, Narrow AI vs. General AI, AI\nApplications, Definition and Components of AI Agents, Types of Agents-\nSimple Reflex, Model Based, Goal Based, and Utility Based Agents, Agent\nArchitectures and Environments. Python for AI- Python basic data\nstructures, Setting Up Python Environment, Key Libraries and Tools-\nNumPy, Pandas, Matplotlib.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "AI Problems: Definition and formulation of AI problems, State space\nrepresentation, actions, and goals, Problem characteristics- problem\ndecomposability,\nsolution\nsteps\nconsideration,\nproblem\nsolution\npredictability, absolute or relative problem solution, state or path solution,\nrole of knowledge in problem solving, human interaction in problem solving.\nProblem definition and Python implementation of Water Jug Problem,\n8-Puzzle Problem & Missionaries and Cannibals Problem.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "AI Search Algorithms: Uninformed Search Algorithm- Breadth First Search\nand Depth First Search algorithms description and implementation using\nPython, Informed Search Algorithms- Hill Climbing, A* Search algorithm,\nand AO* Search algorithm description and implementation using Python,\nComparison of informed and uninformed search algorithms.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Game Playing and Constraint Satisfaction Problem (CSP): Minimax\nalgorithm and Alpha-Beta Pruning, Game Playing Implementation- Tic-Tac-\nToe with minimax and alpha-beta pruning, Introduction to CSP- Definitions\nand basic concepts, Techniques for CSP- Backtracking and Constraint\nPropagation.",
+    "contact_hours": "9"
+  }
+]

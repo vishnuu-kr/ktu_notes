@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definitions - Robots, Robotics",
+            "Types of Robots - Manipulators, Mobile Robots - Wheeled and Legged Robots, Aerial Robots",
+            "Anatomy of a Robotic Manipulator - Links, Joints, Actuators, Sensors, Controller",
+            "Open Kinematic vs Closed Kinematic Chain",
+            "Degrees of Freedom",
+            "Robot Configurations - PPP, RPP, RRP, RRR",
+            "Features of SCARA and PUMA Robots",
+            "Classification of End Effectors - Mechanical Grippers, Special Tools, Magnetic Grippers, Vacuum Grippers, Adhesive Grippers, Active and Passive Grippers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Direct Kinematics - Rotations - Fundamental and Composite Rotations",
+            "Homogeneous Coordinates",
+            "Translations and Rotations",
+            "Composite Homogeneous Transformations",
+            "Screw Transformations",
+            "Kinematic Parameters",
+            "The Denavit-Hartenberg (D-H) Representation",
+            "The Arm Equation",
+            "Direct Kinematics Problems (up to 3DOF)",
+            "Inverse Kinematics - General Properties of Solutions and Problems (up to 3DOF)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Lagrange's Formulation - Kinetic Energy Expression",
+            "Velocity Jacobian and Potential Energy Expression",
+            "Generalised Force",
+            "Euler-Lagrange Equation",
+            "Dynamic Model of Planar and Spatial Serial Robots up to 2 DOF",
+            "Modelling Including Motor and Gearbox"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "The Control Problem",
+            "Single Axis PID Control - Its Disadvantages",
+            "PD Gravity Control",
+            "Computed Torque Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

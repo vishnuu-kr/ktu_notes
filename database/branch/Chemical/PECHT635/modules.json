@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Need of CFD as an analysis tool, Applications of CFD. CFD\nsoftware packages and tools. CFD solution procedure: pre-processing,\nnumerical solution – CFD solver, post-processing. Classification of partial\ndifferential equations (PDE) and boundary conditions: well-posed problems.\nReview of governing equations: Continuity equation, Momentum equation,\nEnergy equation, Navier – Stokes equation, generic form of governing\nequations.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Basic concepts of CFD: Introduction to discretization, Finite difference\napproximation of a derivative, discretization of differential equations using\nfinite differences, consistency, convergence and stability (concepts alone),\nconcept of explicit and implicit methods, Crank Nicholson scheme (FTCS\nonly).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Finite Volume Discretization: Diffusion problem, convection-diffusion\nproblem, properties of discretization schemes – conservativeness,\nboundedness, transportiveness. Solution to discretized equations: TDMA,\nJacobi, Gauss-Seidel, Gauss elimination methods.\nDetailed study of Navier stokes Equation-Solution of the Navier Stokes\nEquations. Grid arrangement-collocated and staggered grid. SIMPLE\nalgorithm.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Turbulence modelling: Need for turbulence modelling. Closure problem.\nReynolds averaged Navier Stokes equation. Turbulence modelling.\nMultiphase flow modelling in CFD: Classification of multiphase flow,\nIndustrial examples, Examples for multiphase reactors, Multiphase flow\nmodelling approaches Eulerian-Lagrangian approach, Eulerian – Eulerian\nApproach, Volume of fluid approach.\nSuggestions on Project Topics\nAssignment/Project: 20 Marks\nStudents should evaluate and analyze a real-world problem, assess the proposed solutions,\nprovide a conclusion on which solution is most appropriate for the problem, and implement\nthe chosen solution using any computational tools like ANSYS, Open Foam, Matlab etc.\nLevel: Analyze\n1. Problem Definition and Decomposition:\n Clarity and Completeness (2 points): Evaluate the clarity and completeness of the\nproblem definition. Are the objectives well-defined? Is the problem broken down into\nmanageable sub-problems?\n\nIdentification of Key Parameters (2 points): Assess the identification and justification of\nkey parameters influencing the fluid dynamics problem. Are all relevant variables and\nboundary conditions considered?\n2. Analytical Approach:\n\nMethodological Soundness (1 points): Evaluate the soundness of the chosen analytical\nmethods. Are the equations and principles correctly applied to the problem?\n\nCritical Analysis (1 points): Assess the depth of critical analysis in the approach. Are\nassumptions and limitations clearly stated and justified?\n3. Data Interpretation:\n\nAccuracy and Consistency (2 points): Evaluate the accuracy and consistency of the data\ninterpretation. Are the results logically derived from the data?\n\nComparison with Theoretical Predictions (2 points): Assess how well the results are\ncompared with theoretical predictions or existing literature. Are discrepancies analyzed\nand explained?\nLevel: Evaluate\n1. Simulation Setup and Execution:\n\nAppropriateness of CFD Tool (1 point): Evaluate the appropriateness of the chosen CFD\ntool for the problem at hand. Is the tool well-suited to model the specific fluid dynamics\nscenario?\n\nSimulation Accuracy and Robustness (2 points): Assess the accuracy and robustness of\nthe simulation setup. Are the mesh, time steps, and convergence criteria appropriately\nchosen?\n2. Results Validation:\n\nValidation against Experimental Data (1 point): Evaluate the extent and rigor of\nvalidation against experimental or benchmark data. Are the validation methods\nappropriate and convincingly presented?\n\nError Analysis (1 point): Assess the thoroughness of error analysis. Are sources of error\nidentified and quantified? Are their impacts on the results discussed?\n3. Conclusions and Recommendations:\n\nLogical Consistency (1 point): Evaluate the logical consistency of the conclusions drawn\nfrom the analysis and simulation results. Are the conclusions supported by the data?\n\nPractical Implications and Recommendations (1 point): Assess the practical\nimplications and recommendations based on the findings. Are the recommendations\nfeasible and well-grounded in the analysis?\n4. Presentation and Communication:\n\nClarity and Organization (1 point): Evaluate the clarity and organization of the project\nreport or presentation. Is the information logically structured and easy to follow?\n\nTechnical Writing and Visual Aids (2 points): Assess the quality of technical writing\nand the effectiveness of visual aids (graphs, charts, simulations). Are complex concepts\nclearly explained and visually supported?",
+    "contact_hours": "9"
+  }
+]

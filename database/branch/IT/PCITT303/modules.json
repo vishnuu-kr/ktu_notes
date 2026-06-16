@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Data Structures: Definitions, Classifications of Data\nStructures- ADT and CDT, Linear and Non-Linear, Static and Dynamic.\nAlgorithm/Program\nDevelopment:\nAnalysis\nof\nAlgorithms-\nSpace\nComplexity, Understanding the notion of Time Complexity using graphical\nand tabular representation for Linear, Quadratic, Cubical, Logarithmic and\nExponential functions. Asymptotic Notations- Best Case, Worst Case,\nAverage Case. Arrays: Definition, Properties of Array. Representation of\nSingle/Two-dimensional Arrays, Sparse Matrix, Polynomial representation,\nand manipulation using Arrays (Addition only). Stack:  Operations on Stack\nusing Array   Queues: Definition, Operations on Queue using Array, Circular\nQueue implementation using Array, Other types of Queues: Dequeue,\nPriority Queue (Concept only)\nApplications of Stack: Infix to Postfix conversion and Postfix evaluation.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Searching: Linear Search and Binary search.\nSorting: Bubble Sort, Selection Sort, Insertion Sort. Quicksort and Merge\nSort (Recursive Algorithms only) Complexity analysis of sorting algorithms\n(Detailed analysis is not required) and Heap sort.\nHash Tables: Different Hash Functions: Division method, Multiplication\nMethod, Mid Square Method, Folding Method, Collision Resolution\nTechniques: Closed Hashing (Linear Probing) -Drawbacks, Open Hashing\n(Separate Chaining). Remedies-Random Probing, Quadratic Probing, Double\nHashing. Load Factor and Re-hashing",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Linked List: Definition, Array Vs Linked List, Dynamic memory\nmanagement. Representation of a Linked List, Classification (Singly Linked\nList, Doubly Linked List, Circular singly linked list), Operations on Singly\nLinked List- Traversal, Insertion, Deletion and Searching.\nApplications of Linked List: Polynomial representation and manipulation\n(Addition only). Operations on Doubly Linked List- Traversal, Insertion,\nDeletion and Searching, Circular Linked List (Concept only) Linked List\nrepresentation of Stack and Queue, Stack implementation and Operations on\nStack using Linked List, Queue implementation and Operations on Queue\nusing Linked list.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Trees: Definition, Height, Depth, Degree, Level.\nBinary Trees: Properties of Binary Trees, Complete, Perfect and Full Binary\nTree, Linear and Linked List representations of Binary Trees, Binary Tree\nTraversals - Preorder, In order, and Post order (Recursive Algorithms only),\nBinary Tree Applications: Expression Tree creation.\nBinary Search Tree: Creation, Insertion, Deletion, and Search operations.\nHeap: Creation Graph: Definition, set representations, Directed and\nUndirected Graph, Adjacency Matrix and Adjacency List representation,\nGraph Traversal: Breadth First Search (BFS), Depth First Search (DFS),\nGraph Applications: Shortest Path Problem-Dijkstra’s Algorithm.",
+    "contact_hours": "11"
+  }
+]

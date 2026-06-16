@@ -1,0 +1,49 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Evolution from 1G to 5G. Analog voice systems in 1G",
+      "digital radio systems in 2G, voice and messaging services, TDMA based GSM, CDMA, 2.5G (GPRS), 2.75G (EDGE",
+      "IMT2000: 3G UMTS, W-CDMA, HSPA, HSPA+, 3G services and data rates",
+      "IMT Advanced: 4G, LTE, VoLTE, OFDM, MIMO, LTE Advanced Pro (3GPP Release 13",
+      "IMT2020: 5G, enhancements in comparison to IMT Advanced. Evolution of LTE Technology to 5G Roadmap"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Basics of 5G. 5G potential and applications",
+      "Usage scenarios: enhanced mobile broadband (eMBB), ultra reliable low latency communications (URLLC), massive machine type communications (MMTC), D2D communications, V2X communications",
+      "Spectrum for 5G, spectrum access/sharing",
+      "millimeter Wave communication, channels and signals/waveforms in 5G, carrier aggregation, small cells, dual connectivity"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "PHY API Specification, flexible frame structure, Service Data Adaptation Protocol (SDAP",
+      "centralized RAN, open RAN",
+      "multi-access edge computing (MEC",
+      "software defined networking (SDN), network function virtualization (NFV",
+      "network slicing",
+      "restful API for service-based interface",
+      "private networks"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "LMLC",
+      "possible solutions for connectivity in rural areas (BharatNet, TVWS, Long-range WiFi, FSO",
+      "non-terrestrial fronthaul/backhaul solutions: LEOs, HAP/UAV"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,322 @@
+Course Code 
+OECST614 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To provide the basic concepts and algorithms in machine learning.  
+2. To discuss the standard and most popular supervised and unsupervised learning algorithms. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to ML 
+Machine Learning vs. Traditional Programming, Machine learning 
+paradigms - supervised, semi-supervised, unsupervised, reinforcement 
+learning. 
+Basics of parameter estimation - maximum likelihood estimation (MLE) 
+and maximum aposteriori estimation (MAP), Bayesian formulation. 
+Supervised Learning 
+Feature Representation and Problem Formulation, Role of loss functions 
+and optimization 
+Regression - Linear regression with one variable, Linear regression with 
+multiple variables - solution using gradient descent algorithm and matrix 
+method. 
+     10 
+2 
+Classification - Naïve Bayes, KNN 
+Generalisation and Overfitting - Idea of overfitting, LASSO and RIDGE 
+regularization, Idea of Training, Testing, Validation 
+     8 
+
+ 
+ 
+Evaluation measures – Classification - Precision, Recall, Accuracy, F-
+Measure, Receiver Operating Characteristic Curve(ROC), Area Under 
+Curve (AUC).  
+Regression - Mean Absolute Error (MAE), Root Mean Squared Error 
+(RMSE), R Squared/Coefficient of Determination. 
+3 
+Neural Networks (NN) - Perceptron, Neural Network - Multilayer feed-
+forward network, Activation functions (Sigmoid, ReLU, Tanh), Back 
+propagation algorithm. 
+Decision Trees – Information Gain, Gain Ratio, ID3 algorithm 
+      8 
+4 
+Unsupervised Learning 
+Clustering - Similarity measures, Hierarchical Clustering - Agglomerative 
+Clustering, partitional clustering, K-means clustering 
+Dimensionality 
+reduction 
+- 
+Principal 
+Component 
+Analysis, 
+Multidimensional scaling 
+Ensemble methods - bagging, boosting 
+Resampling methods - Bootstrapping, Cross Validation. Practical aspects - 
+Bias-Variance trade-off 
+     10 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Illustrate Machine Learning concepts and basic parameter estimation 
+methods 
+K2 
+CO2 
+Demonstrate supervised learning concepts (regression, classification) 
+K3 
+CO3 
+Illustrate the concepts of Multilayer neural network and Decision trees 
+K3 
+CO4 
+Describe unsupervised learning concepts and dimensionality reduction 
+techniques 
+K3 
+CO5 
+Use appropriate performance measures to evaluate machine learning 
+models 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Machine Learning 
+Ethem Alpaydin 
+MIT Press 
+2/e, 2010 
+2 
+Data Mining and Analysis: 
+Fundamental Concepts and Algorithms 
+Mohammed J. Zaki, | 
+Wagner Meira 
+Cambridge 
+University Press 
+1/e, 2016 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Machine Learning 
+Tom Mitchell 
+McGraw-Hill 
+1997 
+2 
+Applied Machine Learning 
+M Gopal 
+Pearson 
+2/e, 2018 
+3 
+Neural Networks for Pattern 
+Recognition 
+Christopher Bishop Oxford University Press
+1995 
+4 
+Machine Learning: A Probabilistic 
+Perspective 
+Kevin P Murphy 
+MIT Press 
+1/e, 2012 
+5 
+ The Elements Of Statistical 
+Learning 
+Trevor Hastie, 
+Robert Tibshirani, 
+Jerome Friedman 
+Springer 
+2/e, 2007 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://youtu.be/fC7V8QsPBec?si=8kqBn-_7x1RG5V1J 
+2 
+https://youtu.be/g__LURKuIj4?si=Xj10NPfMfpQSOhVx 
+3 
+https://youtu.be/yG1nETGyW2E?si=ySlxpeWuFAUQBf7- 
+4 
+https://youtu.be/zop2zuwF_bc?si=W7TpSHLdi4rykva4 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S6 
+OBJECT ORIENTED PROGRAMMING 
+(Common to CS/CA/CD/CM/AM/AD)

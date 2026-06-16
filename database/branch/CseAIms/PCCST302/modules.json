@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Foundations (Linz, Hopcroft)\nMotivation for studying computability, need for mathematical modeling -\nautomata, Introducing automata through simple models - On/Off switch,\ncoffee vending machine. Three basic concepts: Alphabet, Strings, and\nLanguages\nFinite Automata (Linz, Hopcroft)\nFormal definition of a finite automaton, Deterministic Finite Automata\n(DFA), Regular languages,  Nondeterminism (guess and verify paradigm),\nFormal definition of a nondeterministic finite automaton, NFA with epsilon\ntransitions,\nEliminating\nepsilon\ntransitions\n(Proof\nnot\nexpected),\nEquivalence of NFAs and DFAs (Proof not expected) - The Subset\nConstruction. DFA State Minimization, Applications of finite automata -\ntext search, keyword recognition",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Regular Expressions (Linz)\nThe formal definition of a regular expression, Building Regular\nExpressions, Equivalence with finite automata (Proof not expected) -\nConverting FA to Regular Expressions, Converting Regular Expressions\nto FA, Pattern Matching and Regular Expressions, Regular grammar,\nEquivalence with FA - Conversion in both directions\nProperties of Regular Languages (Linz)\nClosure and Decision Properties of Regular Languages (with proofs), The\nPumping Lemma for Regular Languages (with formal proof), Pumping\nlemma as a tool to prove non regularity of languages\nContext-Free Grammars and Applications (Linz)\nFormal definition of a context-free grammar, Designing context-free\ngrammars, Leftmost and Rightmost Derivations Using a Grammar,  Parse\nTrees, Ambiguous Grammars, Resolving ambiguity, Inherent ambiguity,\nCFGs, and programming languages",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Pushdown Automata (Linz)\nFormal definition of a pushdown automaton, DPDA and NPDA, Examples\nof pushdown automata\nEquivalence NPDAs and CFGs (Proof not expected) -  conversions in both\ndirections\nSimplification of Context-Free Languages (Linz)\nElimination of useless symbols and productions, Eliminating epsilon\nproductions, Eliminating unit productions, Chomsky normal form,\nGreibach normal form,\nProperties of Context-Free Languages (Linz)\nThe Pumping Lemma for Context-Free Languages (with formal proof),\nClosure and Decision Properties of Context-Free Languages (with formal\nproofs)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Turing Machines (Kozen)\nThe formal definition of a Turing machine, Examples of Turing machines -\nTuring machines as language acceptors,  Turing machines as computers of\nfunctions, Variants of Turing Machines (Proofs for equivalence with basic\nmodel not expected), Recursive and recursively enumerable languages\nChomskian hierarchy, Linear bounded automaton as a restricted TM.\nComputability (Kozen)\nChurch Turing thesis, Encoding of TMs, Universal Machine and\nDiagonalization, Reductions, Decidable and Undecidable Problems, Halting\nproblem, Post Correspondence Problem and the proofs for their\nundecidability.",
+    "contact_hours": "11"
+  }
+]

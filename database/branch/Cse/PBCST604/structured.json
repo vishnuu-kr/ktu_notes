@@ -1,0 +1,88 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Information Security Introduction",
+      "Threats to Information Systems",
+      "Cyber Security and Security risk analysis",
+      "Information Gathering- Reconnaissance",
+      "Reco-ng",
+      "Software Vulnerabilities- Buffer Overflow",
+      "Stack Overflow",
+      "Format String",
+      "Vulnerability Assessment and Penetration Testing- Burpsuite",
+      "Metasploit"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Web Security Web Attacks- SQL Injection Attacks",
+      "Cross-Site Scripting (XSS",
+      "Cross-Site Request Forgery (CSRF",
+      "Domain Name System- Security Issues with DNS",
+      "DNS attacks",
+      "DNSSEC",
+      "OWASP ZAP",
+      "WebGoat",
+      "Damn Vulnerable Web Application (DVWA",
+      "Website Mirroring",
+      "HTTRACK",
+      "Email Security-Email risks",
+      "Protocols",
+      "Operating safely when using email"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Network Security Terminologies",
+      "DDoS",
+      "ARP Spoofing and Session Hijacking",
+      "Capturing the Network Traffic- Promiscuous Mode",
+      "Flooding",
+      "DHCP Redirection",
+      "Redirection and Interception with ICMP. Port Scanning-TCP and UDP",
+      "Port Scanning Tools- Nmap",
+      "SuperScan",
+      "Wireshark-Analysing and Filtering Traffic"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Windows Security: Attacks against windows system",
+      "Installing applications",
+      "Authentication and access control",
+      "Upgrades and Patches",
+      "Operating Windows safely",
+      "Windows Defender Firewall. Linux Security- Attacks in Linux system",
+      "Physical security",
+      "Controlling the configuration",
+      "Authentication and access control",
+      "Upgrades and Patches",
+      "Operating Linux safely",
+      "SELinux. Suggestion on Project Topics Network Traffic Monitoring and Analysis using Wireshark: ● Development: Capture network traffic in a controlled environment using Wireshark. ● Security Analysis & Fixing: Analyze captured traffic to identify potential vulnerabilities (e.g",
+      "plaintext passwords) and recommend security enhancements. OWASP ZAP (Zed Attack Proxy) Security Testing Framework: ● Development: Create a web application with some common vulnerabilities. ● Security Analysis & Fixing: Use OWASP ZAP to perform security testing on the application",
+      "identify vulnerabilities",
+      "and then fix these issues by implementing secure coding practices. Web Application Vulnerability Identification Using Burp Suite: ● Development: Develop a simple web application with common security flaws",
+      "such as SQL injection",
+      "and broken authentication mechanisms. ● Security Analysis & Fixing: Use Burp Suite to scan the application",
+      "identify vulnerabilities",
+      "and analyze the attack surface. Afterward",
+      "secure the application by fixing these vulnerabilities and re-running the scan to verify the fixes. Penetration Testing Framework Using Metasploit: ● Development: Set up a vulnerable virtual environment using tools like Metasploitable or create your own vulnerable system or network services. ● Security Analysis & Fixing: Use Metasploit to exploit the system",
+      "demonstrate various attacks like privilege escalation",
+      "and then apply patches",
+      "configuration changes",
+      "and security best practices to mitigate the discovered vulnerabilities"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

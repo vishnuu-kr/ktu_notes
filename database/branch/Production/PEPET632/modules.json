@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to finite element method (FEM): FEM as a numerical tool for\ndesign, basic concepts, formulation procedures.\nFE modelling direct approach: One dimensional bar element, element\nstiffness, assembly of elements, properties of stiffness matrix, treatment of\nboundary conditions, temperature effects, stress computation, support\nreaction analogous one dimensional problems of torsion and heat conduction.\nBeam element: Beam relationships, one dimensional beam element FE\nformulation, element stiffness matrix, load considerations, boundary\nconditions, member end forces.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "FE modelling Direct approach: Plane truss element formulation, coordinate\ntransformation, local and global coordinates, element matrices, assembly of\nelements, treatment of boundary conditions, stress calculation, simple\nproblems. Convergence requirements, patch test.\nVariational methods: Functionals, weak and strong form, essential and non-\nessential boundary conditions, principle of stationary potential energy,\nRayleigh-Ritz method, simple examples.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Interpolation: Shape function, Lagrange interpolation.\nFE formulation from virtual work principle: Displacement differentiation\nmatrix [B-matrix], element matrices for bar and constant strain triangle\nelement [CST element], load considerations, consistent nodal loads, simple\nproblems.\nTwo dimensional FE formulation: Two dimensional steady state heat\nconduction, element matrices for a triangular element, boundary conditions,\nsimple problems. FE formulation for two dimensional stress analysis from\npotential energy, element matrices, plane bilinear element.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Weighted residual methods: Galerkin FE formulation, axially loaded bar –\nheat flow in a bar.\nIsoparametric formulation: Natural coordinates, linear and quadratic bar\nelement, linear triangle and plane bilinear elements for scalar fields, jacobian\nmatrix, element matrices, Gauss quadrature, requirements for isoparametric\nelements, accuracy and mesh distortion.",
+    "contact_hours": "9"
+  }
+]

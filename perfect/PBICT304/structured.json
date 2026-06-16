@@ -1,0 +1,68 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Binary",
+            "Octal",
+            "and Hexadecimal - Representation of negative numbers in binary -binary arithmetic Binary Codes: BCD",
+            "BCD addition",
+            "Excess-3",
+            "Gray code. Concept of parity Logic Gates: Introduction to logic families. Basic gates and universal gates",
+            "Realisation of logic gates using transistors and diodes",
+            "internal diagram and basic working of TTL NAND and CMOS NOT gates"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Minimization Techniques Boolean Algebra - Operations",
+            "Laws and theorems",
+            "De Morgan’s theorems",
+            "SOP and POS Boolean expressions",
+            "truth tables",
+            "Karnaugh map (up to 4 variables",
+            "Minterm and Maxterm expansions",
+            "incompletely specified functions",
+            "formation of switching functions from word statement",
+            "realization using basic gates and universal gates Functions of combinational logic Adders and subtractors",
+            "ripple carry adders",
+            "BCD adder",
+            "binary to gray and gray to binary code converters",
+            "comparators",
+            "multiplexers",
+            "demultiplexers",
+            "decoders",
+            "encoders"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Sequential Logic circuits Latches - SR Latch. Flip- Flops - SR",
+            "D & T Flip Flops - Level & Edge triggered flip flops - Synchronous & Asynchronous inputs -Conversion between flip flops. Master slave flip flops",
+            "waveform diagrams Shift Registers SISO",
+            "SIPO",
+            "PISO",
+            "PIPO shift registers",
+            "Right & Left shifts",
+            "Universal shift registers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Counters Asynchronous counters- Up",
+            "Down and Up/ Down counter",
+            "Mod n counters - Ring counter- Johnson counter. Introduction to design of synchronous sequential circuits using Finite State Machines - Mealy & Moore types with single input-single out problems-design of sequence detectors",
+            "synchronous counters and sequence generators"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

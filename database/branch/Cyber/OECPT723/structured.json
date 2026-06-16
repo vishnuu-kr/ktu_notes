@@ -1,0 +1,50 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Cyber-Physical Systems (CPS) in the real world",
+      "Basic principles of design and validation of CPS",
+      "Industry 4.0 AutoSAR",
+      "IIOT implications",
+      "Building Automation",
+      "Medical CPS"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "CPS HW platforms -Processors",
+      "Sensors",
+      "Actuators",
+      "CPS Network - WirelessHart",
+      "Automotive Ethernet",
+      "Scheduling Real Time CPS tasks: Table-driven and Event driven schedulers",
+      "Hybrid schedulers"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Dynamical Systems and Stability, Controller Design Techniques, Performance under Packet drop and Noise"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "From features to automotive software components",
+      "Mapping software components to ECUs CPS Performance Analysis: Effect of scheduling",
+      "bus latency",
+      "sense and actuation faults on control performance",
+      "network congestion",
+      "Building real-time networks for CPS"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,272 @@
+Course Code 
+PECNT526 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Develop finite-state models for hardware and software systems. 
+2. Translate system requirements into Linear Temporal Logic (LTL) specifications. 
+3. Perform LTL model checking using the Symbolic Analysis Laboratory (SAL) tool. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+System Verification – Hardware and Software Verification, Model 
+Checking, Characteristics of Model Checking.  
+Transition Systems – Transition System, Direct Predecessors and 
+Successors, Terminal State, Deterministic Transition System.  
+Executions - Execution Fragment, Maximal and Initial Execution 
+Fragment, Execution, Reachable States. 
+Linear-Time (LT) Properties - Deadlock. Linear-Time Behavior - Paths 
+and State Graph, Path Fragment, Maximal and Initial Path Fragment, 
+Path. Traces - Trace and Trace Fragment, LT Properties - LT Property, 
+Satisfaction Relation for LT Properties, Trace Equivalence and LT 
+Properties. Safety Properties and Invariants - Invariants, Safety 
+Properties, Trace Equivalence and Safety properties. Liveness Properties 
+- Liveness Property, Safety vs. Liveness Properties. Fairness - Fairness, 
+Unconditional, Weak and Strong Fairness, Fairness Strategies, Fairness 
+and Safety. (Definition and examples only for all topics - no proof 
+ 
+9 
+
+ 
+ 
+required).  
+2 
+ 
+Regular Properties - Model Checking Regular Safety properties - 
+Regular Safety property, Verifying Regular Safety Properties. 
+Automata on Infinite Words - ⍵ -Regular Languages and Properties, 
+Nondeterministic Buchi Automata (NBA), Deterministic Buchi 
+Automata (DBA),Generalised Buchi Automata (Definitions only). 
+Model Checking ⍵ -Regular Properties - Persistence Properties and 
+Product, Nested Depth-First Search (Only algorithms required).  
+9 
+3 
+Linear Temporal Logic (LTL) - Syntax, Semantics, Equivalence of LTL 
+Formulae, Weak Until, Release and Positive Normal Form, Fairness, 
+Safety and Liveness in LTL (Definitions only). Automata Based LTL 
+Model Checking (Algorithms and examples only).  
+9 
+4 
+Introduction - Introduction to the tool Symbolic Analysis Laboratory 
+(SAL). The Language of SAL - The expression language, The transition 
+Language, The module language, SAL Contexts. SAL Examples - Mutual 
+Exclusion, Peterson’s Protocol, Synchronous Bus Arbiter, Bounded 
+Bakery protocol, Bakery Protocol, Traffic Signalling System.  
+9 
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written ) 
+Total
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s Knowledge 
+Level (KL) 
+CO1
+Illustrate an application for model checking. 
+K2 
+CO2
+Describe finite-state modelling for hardware and software.  
+K2 
+CO3
+Identify 
+linear-time 
+properties 
+required 
+to 
+represent 
+the 
+requirements of a system.  
+K3 
+CO4
+Specify a given linear-time property in Linear Temporal Logic 
+(LTL). 
+K3 
+CO5
+Perform LTL model checking using the tool Symbolic Analysis 
+Laboratory (SAL).  
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PO12
+CO1
+3 
+3 
+2 
+3 
+CO2
+3 
+3 
+2 
+3 
+3 
+CO3
+3
+3
+3
+3
+3
+CO4
+3 
+3 
+3 
+3 
+3 
+3 
+CO5
+3 
+3 
+3 
+3 
+3 
+3 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Principles of Model Checking 
+Christel Baier,  Joost-
+Pieter Katoen,
+The MIT Press. 
+2008 
+2 
+The SAL Language Manual 
+Leonardo de Moura, 
+Sam Owre and N. 
+Shankar
+SRI International 
+2003 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+SAL Examples 
+ 
+(http://sal.csl.sri
+.com/examples.
+shtml 
+ 
+ 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No.
+Link ID 
+1 
+https://www.youtube.com/watch?v=piISG8bV2GI&list=PLK50zIm6tHRiKFJvKu1a7q
+_z2tcXnBUHp
+2 
+https://www.youtube.com/watch?v=uXziZ0t4gtU&list=PLK50zIm6tHRiKFJvKu1a7q_
+z2tcXnBUHp&index=19
+3
+https://www.youtube.com/watch?v=ZR2t5qFmxv8
+
+ 
+ 
+SEMESTER S5 
+MULTIMEDIA TECHNOLOGIES

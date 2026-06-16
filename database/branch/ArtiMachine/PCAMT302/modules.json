@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Machine Learning Paradigms:-\nSupervised Learning, Unsupervised Learning,  Semi Supervised Learning,\nReinforcement Learning\nParameter Estimation Methods:-\nMaximum Likelihood Estimation (MLE), Maximum Aposteriori Estimation\n(MAP), Bayes Estimation, Least Square Estimation (LS),  Minimum Mean\nSquare Estimation (MMSE),  The Gradient Descent Method and its variants\n(Simple Gradient Descent Method, Stochastic Gradient Method, Batch\nGradient Method), Illustrative examples of parameter estimation using different\nmethods",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Supervised Learning Models:-\nRegression - Regression Models (Simple Regression, Multivariable linear\nRegression, Polynomial Regression, Logistic Regression), Illustrative\nexamples of designing regression models;\nDecision Trees - Working Principle, Decision Tree formation using ID3\nAlgorithm,   The Classification and Regression Trees Algorithm (CART),\nIllustrative examples on designing decision trees;\nOverfitting and Underfitting :- Bias and Variance, Bias-Variance Trade-off,\nRegularization (Ridge, Lasso and Elastic Net Regularization techniques)",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "More Supervised Learning Methods:-\nSupport Vector machines (SVM) - Maximum Margin Classification,\nMathematics behind Maximum Margin Classification, Hard Margin SVM, Soft\nMargin SVM, Non-Linear SVM, The Kernel Trick, Different Kernel Functions\n(Linear Kernel, Polynomial Kernel, RBF Kernel, Sigmoid Kernel);\nK-Nearest Neighbour Classifier (KNN):-  Working Principle, Illustrative\nexamples on designing KNN Classifiers;\nNaive Bayes Classifier - Working Principle, Types of Naive Bayes Classifiers,\nIllustrative examples.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Ensemble Learning:-\nBasic Techniques (Voting, Simple and Weighted Averaging Techniques),\nAdvanced Techniques (Bagging, Boosting, Stacking) - The Random Forest\nClassifier\nAssessment of Classification Models:-\nPerformance measures- Confusion Matrix, Accuracy,  Precision, Recall, F1-\nScore,  Receiver Operating Characteristics Curve (ROC), Area Under the Curve\n(AUC), Illustrative examples on Classification model assessment",
+    "contact_hours": "8"
+  }
+]

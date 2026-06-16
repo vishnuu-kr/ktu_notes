@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Structure of biological neurons relevant to ANNs - Comparison Basic building blocks of ANN. Activation functions",
+            "McCulloch-Pitts Neuron Model Learning Rules-Hebbian Learning Rules",
+            "Perceptron",
+            "Delta",
+            "Competitive learning"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Perceptron networks",
+            "Gradient descent method",
+            "Back Propagation algorithm Architecture",
+            "training algorithm. Counter Propagation Network",
+            "Adaptive resonance Theory",
+            "ART 1 and ART 2 Learning",
+            "stability plasticity concept",
+            "Self-Organising feature maps",
+            "Kohonen network",
+            "SOM learning"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Algorithms for pattern association Hetero associative networks",
+            "Auto associative memory networks Bidirectional associative memory networks Energy Function. Hopfield networks. Support vector machines: hard-margin and soft-margin SVMs",
+            "concepts of kernels and feature spaces",
+            "Applications in Biomedical Engineering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Convolutional Neural Networks",
+            "Optimization Algorithms, Regularization Methods: L1 and L2 Regularization. Recurrent Neural Networks: RNN, LSTM, GRU. Transformers: BERT. Generative Models: GAN. Applications in Biomedical Engineering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Experiments",
+        "topics": [
+            "Familiarization with Software Defined Radio (Hardware and Control Software)",
+            "FM Reception Using SDR",
+            "FM Transmission Using SDR",
+            "Performance of Waveform Coding Using PCM",
+            "Pulse Shaping and Matched Filtering",
+            "Eye Diagram",
+            "Error Performance of BPSK",
+            "Error Performance of QPSK"
+        ]
+    },
+    {
+        "module": "Module 1: Information Theory and Source Coding",
+        "topics": [
+            "Entropy: Properties of Entropy, Joint and Conditional Entropy, Mutual Information",
+            "Discrete Memoryless Sources, Source Code, and Average Length",
+            "Bounds on Average Length, Uniquely Decodable and Prefix-Free Source Codes",
+            "Kraft Inequality and Shannon's Source Coding Theorem",
+            "Huffman Code and Operational Meaning of Entropy",
+            "Channel Capacity of Discrete Memoryless Channels",
+            "Binary Symmetric Channels (BSC) and Binary Erasure Channels (BEC)",
+            "Capacity of BSC and BEC, Shannon's Channel Coding Theorem"
+        ]
+    },
+    {
+        "module": "Module 2: Channel Capacity and Coding",
+        "topics": [
+            "Channel Capacity of AWGN Channel: Differential Entropy and Shannon-Hartley Theorem",
+            "Shannon Limit",
+            "Block Codes: Error Detecting and Correcting Capability, Linear Block Codes",
+            "Generator and Parity-Check Matrices, Encoding Circuit",
+            "Maximum Likelihood Decoding of Linear Block Codes, Syndrome and Standard Array Decoding",
+            "Convolutional Codes: State Diagram, Trellis Diagram, and Maximum Likelihood Decoding",
+            "Viterbi Algorithm"
+        ]
+    },
+    {
+        "module": "Module 3: Wireless Communication Systems",
+        "topics": [
+            "Introduction to Wireless Communication: Evolution and Paging",
+            "Wireless LAN, Bluetooth, Zig-Bee, and Personal Area Networks",
+            "Broadband Wireless Access: WiMax Technology and Wireless Spectrum Allocation Standards",
+            "Cellular System Design Fundamentals: Frequency Reuse and Channel Assignment Strategies",
+            "Handoff Strategies, Interference, and System Capacity",
+            "Trunking and Grade of Service, Improving Coverage and Capacity: Cell Splitting, Sectoring, Microcells",
+            "Multiple Access Techniques: FDMA, TDMA, CDMA, and OFDMA"
+        ]
+    },
+    {
+        "module": "Module 4: Wireless Channels and Receiver Techniques",
+        "topics": [
+            "Path Loss and Shadowing: Free Space Path Loss and Two-Ray Model",
+            "Statistical Multipath Channel Models: Time-Varying Channel Impulse Response, Narrowband and Wideband Fading",
+            "Delay Spread, Coherence Bandwidth, Doppler Spread, and Coherence Time",
+            "Flat Fading versus Frequency Selective Fading, Slow Fading versus Fast Fading",
+            "Multi-carrier Modulation: Data Transmission for Frequency-Selective Fading Channels, Overlapping Subchannels, Mitigation of Subcarrier Fading",
+            "Discrete Implementation of Multicarrier Modulation: OFDM",
+            "Diversity: Receiver Diversity (Selection Combining and Maximal Ratio Combining) and Transmitter Diversity (Alamouti Scheme for 2x2 MIMO)",
+            "Equalization: Linear and Non-Linear Equalizers, MMSE Equalizers"
+        ]
+    }
+]

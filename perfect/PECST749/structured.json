@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of Approximation Algorithms - Introduction to approximation algorithms",
+            "Performance guarantees: approximation ratio and factor",
+            "Examples of approximation problems. (Chapter 1) Greedy Algorithms - Introduction to greedy algorithms",
+            "Set cover problem",
+            "Vertex cover problem. (Chapter 2) Local Search Algorithms - Local search techniques",
+            "k-Median and k-Center problems",
+            "Analysis of local search algorithms. (Chapter 3"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Linear Programming Relaxation - Introduction to linear programming (LP",
+            "LP relaxation of combinatorial problems",
+            "Primal-dual method. (Chapter 4) Rounding Techniques - Randomized rounding",
+            "Deterministic rounding",
+            "Applications to various problems. (Chapter 5) Integer Programming and Cutting Planes - Integer programming formulation",
+            "Cutting plane methods",
+            "Applications in network design. (Chapter 6"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Semi-Definite Programming - Introduction to semi-definite programming (SDP",
+            "Goemans-Williamson algorithm for MAX-CUT",
+            "Other applications of SDP. (Chapter 8) Approximation Schemes - Polynomial-time approximation schemes (PTAS",
+            "Fully polynomial-time approximation schemes (FPTAS",
+            "Examples: knapsack problem",
+            "Euclidean TSP. (Chapter 9"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Inapproximability Results - Introduction to inapproximability",
+            "Reductions and hardness of approximation",
+            "PCP theorem and its implications. (Chapter 10) Network Design Problems - Steiner tree problem",
+            "Traveling Salesman Problem (TSP",
+            "Multicommodity flow problem. (Chapter 7"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

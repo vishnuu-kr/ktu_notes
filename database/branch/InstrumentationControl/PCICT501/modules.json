@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Control System (3 Hours)\nIntroduction to control systems; open-loop and closed-loop systems;\nFeedback and non-feedback systems; servomechanism; history and\ndevelopment of automatic control.\nFeedback Characteristics of Control Systems include reduction of\nparameter variation, control over system dynamics, and control of the\neffects of disturbance signals.\nReview of Mathematical Modelling and Transfer Function (1 Hour)\nBlock Diagram Algebra & Signal Flow Graphs (7 Hours)\nBlock diagram of an open-loop system; Block diagram of a\nclosed loop system; block diagram and transfer function of a\ntypical first-order system and second-order system.\nBlock diagram reduction techniques.\nConcept of signal flow graph; construction of signal flow graph; Finding\ntransfer function from Signal flow graph using Mason’s gain formula.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Time-domain Analysis of First-order Systems (5 Hours)\nTime response, transient and steady-state response; standard test signals\nand their application in system analysis.  Open-loop and closed-loop\ntransfer functions, type and order of systems; the concept of poles and\nzeros; type and order of the system; Response of first-order system to unit\nimpulse and unit step input (with derivation); Time response specifications\nof first-order systems.\nTime-domain Analysis of Second-order Systems (5 Hours)\nResponse of under-damped second-order system to unit-step input (with\nderivation); Response of under-damped second-order system to unit\nimpulse and unit ramp input (Derivation not required); Response of over-\ndamped, critically damped and un-damped second-order system to unit\nstep input (derivation not required); time response specifications of under-\ndamped second order system.\nSteady-state Errors and Error Constants (2 Hours)\nSteady-state error, static error constants.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Stability of Linear Systems (4 Hours)\nStability of linear systems: Definitions, characteristic polynomial and\ncharacteristic equation, general stability criterion with reference to s-plane;\nAbsolute and relative stability; necessary conditions for stability.\nRouth’s criterion of stability.\nThe Root Locus Technique (6 Hours)\nThe root-locus concept; Evan’s criteria; Construction of root locus;\ndetermination of roots from root locus; Effect of addition of zeros and\npoles on root locus; root contours.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Frequency Response Analysis (6 Hours)\nFrequency\nresponse\nrepresentation;\nsinusoidal\ntransfer\nfunction;\nFrequency domain specifications.\nPolar plot and bode plot: Construction.\nStability in Frequency Domain (5 Hours)\nStability in frequency domain; gain margin and phase margin; stability\nfrom bode plots.\nNyquist stability criterion; assessment of relative stability using Nyquist\ncriterion.",
+    "contact_hours": "11"
+  }
+]

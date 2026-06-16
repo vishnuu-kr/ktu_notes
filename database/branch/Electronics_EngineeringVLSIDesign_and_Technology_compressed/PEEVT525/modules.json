@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Graph Terminology: Basic graph theory terminology, Data structures for\nrepresentation of Graphs Search Algorithms: Breadth First Search, Depth\nFirst Search, Topological Sort Shortest Path Algorithms: Dijkstra’s Shortest-\nPath Algorithm for single pair shortest path, Floyd Warshall Algorithm for\nall pair shortest path",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "The VLSI Design Problem, The Design Domains, A Quick Tour of VLSI\nDesign Automation Tools: Algorithmic and System Design, Structural and\nLogic Design, Transistor-level Design, Layout Design, Verification Methods\nVLSI Design Flow, VLSI Design Styles\nPartitioning:\nLevels\nof\nPartitioning,\nParameters\nfor\nPartitioning,\nClassification of Partitioning Algorithms, Kernighan-Lin Algorithm,\nFiduccia-Mattheyses Algorithm",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Layout: Layout Layers and Design Rules, Physical Design Optimizations\nCompaction: Applications of Compaction, Informal Problem Formulation,\nGraph Theoretical Formulation, Maximum Distance Constraints, Longest\nPath algorithm for DAG,  Liao-Wong Algorithm, The Bellman-Ford\nAlgorithm\nPlacement: Optimization Objectives, Wirelength Estimation, Weighted\nWirelength, Maximum Cut Size, Wire Density\nPlacement Algorithms: Constructive Placement, Iterative Improvement\nPartitioning: The Kernighan-Lin Partitioning Algorithm",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Floorplanning: Optimization Objectives, Slicing Floorplan, Non-Slicing\nFloorplan. Floorplan Representations: Constraint Graph, Sequence Pair\nGlobal Routing: Terminology and Definitions, Optimization Goals,\nRepresentation of Routing Regions\nMaze Routing Algorithms: Lee’s Algorithm,\nDetailed Routing: Horizontal and Vertical Constraint Graph. Channel\nRouting Algorithms: Left-Edge algorithm\nGeneral Remarks on VLSI Simulation.",
+    "contact_hours": "9"
+  }
+]

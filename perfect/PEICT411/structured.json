@@ -1,0 +1,66 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Power diodes",
+            "power transistors",
+            "thyristor family",
+            "SCRs",
+            "Triac",
+            "GTOs",
+            "power MOSFETs",
+            "IGBTs",
+            "MCTs-static and dynamic characteristics",
+            "protection circuits",
+            "series and parallel connections",
+            "turn-on characteristics",
+            "turn off characteristics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "AC-DC Converters (Rectifiers) Operation of half-wave and full-wave rectifiers. Bridge rectifiers and performance parameters (ripple",
+            "efficiency). DC-DC Converters Types of DC-DC converters (buck",
+            "boost",
+            "buck-boost",
+            "Cuk). Mode of operation",
+            "duty cycle calculations",
+            "and efficiency analysis. Design and application examples in power supplies and renewable energy systems. DC-AC Converters (Inverters) Basic principles of inverters and types (square wave",
+            "sine wave",
+            "PWM inverters). Performance parameters and harmonic analysis. Applications in UPS",
+            "motor drives",
+            "and grid-tied renewable energy systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Control Techniques in Power Electronics",
+            "Pulse Width Modulation (PWM) Introduction to PWM techniques. Types of PWM (single-pulse, multiple",
+            "pulse, sinusoidal PWM). Applications in voltage regulation and motor control. Feedback Control Systems Basics of feedback control systems in power electronics. Implementation of feedback loops in power converters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Industrial Applications and Practical Considerations Power Electronics in Renewable Energy Role of power electronics in solar PV and wind energy systems",
+            "Maximum Power Point Tracking (MPPT) techniques",
+            "Grid integration and storage solutions",
+            "Motor Drives and Control Types of motors used in industrial applications (DC, induction, synchronous",
+            "Role of power electronics in motor control",
+            "Variable frequency drives (VFD) and their design considerations",
+            "Practical Issues and Emerging Trends Thermal management, EMI/EMC, and protection strategies in power electronics",
+            "Reliability and safety standards",
+            "Emerging technologies and future trends in power electronics (wide bandgap semiconductors, smart grids, IoT integration"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

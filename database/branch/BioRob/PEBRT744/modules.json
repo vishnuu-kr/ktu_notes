@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Scientific Computing in Biomedical engineering:\nNumerical Algorithms and Errors Approximations - Accuracy and precision,\ndefinitions of round off and truncation errors-Taylor series, error\npropagation. Algebraic equations - Formulation and solution of linear\nalgebraic equations, Gauss elimination method Gauss elimination, Gauss-\nJordan reduction Iterative Approach for Solution of Linear Systems Jacobi\nand Gauss-Seidel methods.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Non-Linear Models of Biological Systems: General Form of Nonlinear\nEquations Examples of Nonlinear Equations in Biomedical Engineering The\nMethod of Successive Substitution. The Method of False Position (Linear\nInterpolation) The Newton-Raphson Method Newton's Method for\nSimultaneous Nonlinear Equations. Applications: Friction factor in a\ncatheter, Ventricular pressure measurements",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Finite Difference Methods: Interpolation, Differentiation, and Integration\nBackward, Forward, and Central Differences- Interpolating of Equally\nSpaced Points Gregory-Newton, Stirling's interpolation Interpolating\nPolynomials-Interpolation of Equally Spaced Points- Gregory-Newton\ninterpolation, Interpolation of Unequally Spaced Points Lagrange and spline,\nIntegration Formulas-Newton-Cotes Formulas of Integration\nDynamic Systems: Examples of Ordinary differential equations in\nBiomedical Engineering, Solution of Nonlinear Ordinary Differential\nEquations- Euler, Runge-Kutta methods, Solution of Linear Ordinary\nDifferential Equations-Eigenvalue methods. Applications",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Glycolysis pathways of living cells, Dynamics of membrane and nerve cell\npotentials. Solution of Partial Differential Equations: elliptic, parabolic,\nhyperbolic equations. Applications: Dynamics of the basilar membrane,\nDrug diffusion\nComputational Modelling of Biosystems: Numerical Modelling of\nbioengineering Systems using numerical tools PhysioNet, PhysioBank, and\nPhysio Toolkit, Python packages to simulate neuronal activity. Applications:\nECG simulation; EEG simulation; Model of glucose regulation, Diabetes and\ninsulin regulation; Renal clearance",
+    "contact_hours": "9"
+  }
+]

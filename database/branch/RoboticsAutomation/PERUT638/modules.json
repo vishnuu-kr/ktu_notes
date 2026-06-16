@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to compilers-Phases of compiler, The role of Lexical Analyzer,\nRole of the Parser, Basic parsing approaches - Eliminating left recursion, left\nfactoring. Top-Down Parsing - Recursive Descent parsing, Nonrecursive\nPredictive Parsing, Bottom-up parsing-Shift Reduce Parsing, Simple LR\nParser, More Powerful LR Parsers",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Syntax directed definitions-Inherited and Synthesized Attributes. S-\nattributed definitions, L- attributed definitions. Intermediate Code\nGeneration-Variants of Syntax Tree. Three address code-Quadruple, Triple.\nRun Time Environments, Local optimizations, Principal Sources of\nOptimizations.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Operating system overview - Functions, Service - System calls, Types-\nSystem boot process.\nProcesses: Process states, Process control block, threads, scheduling, -Inter-\nprocess communication - shared memory systems, Message passing systems.\nProcess Scheduling: Basic concepts- Scheduling criteria -Scheduling\nalgorithms- First come First Served, Round robin scheduling",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Process synchronization: Race conditions – Critical section problem –\nPeterson’s solution - Semaphores – Synchronization problems - Producer\nConsumer.\nDeadlocks: Necessary conditions, Resource allocation graphs - Deadlock\navoidance – Banker’s algorithms.\nMemory Management: Concept of address spaces, Contiguous memory\nallocation, fixed and variable partitions.\nFile System: File concept - Attributes, Operations, types",
+    "contact_hours": "9"
+  }
+]

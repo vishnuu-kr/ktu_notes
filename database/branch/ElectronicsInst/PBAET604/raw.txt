@@ -1,0 +1,494 @@
+Course Code 
+PBAET604 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Nil 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To design logic control systems for industrial applications. 
+2. To design PLC based control systems using ladder programming. 
+3. To describe distributed control system (DCS) and its components. 
+4. To explain networking protocols at different levels in hierarchical control 
+. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Programmable Logic Controllers :– power supplies and isolators. 
+Program and Data organization in PLC – Input and Output modules, Discrete 
+AC/DC, Analog Input/Output, Modular PLC.  
+PLC programming Methods – IEC 61131-3 standard, Ladder programming.   
+Basic PLC with Load and Store operations, PLC with Conditional 
+Instructions.  
+ 
+9 
+2 
+General PLC programming procedures, programming on-off inputs/ outputs, 
+auxiliary commands and functions, PLC basic Functions, register basics, timer 
+functions, counter functions, Arithmetic functions, comparison functions, 
+Skip and MCR functions, data move systems.  
+PLC Advanced intermediate functions - Utilizing digital bits sequencer 
+functions, Basic ladder diagram examples. 
+ 
+9 
+
+ 
+ 
+3 
+Distributed control system (DCS): Introduction, DCS configuration with 
+associated accessories, analog control, direct digital control, control console 
+equipment, control unit (Relay Rack mounted equipment), local control units, 
+attributes of DCS and DCS Flow sheet symbols.  
+DCS System Integration I/O hardware stations, Set-point station control, 
+Engineering interface and operator interfaces in DCS. 
+ 
+9 
+4 
+Computers in process control - Direct Digital Control (DDC). Centralized 
+control, Hierarchical control, Supervisory Control and Data Acquisition 
+Systems (SCADA). 
+Standard communication protocols for Instrumentation - Introduction, 
+Advantages and limitations of HART Protocol, FIELDBUS and PROFIBUS. 
+Industrial applications of PLC, SCADA, DCS and open systems for following 
+plants - Thermal power plant and Steel Plant. 
+ 
+9 
+ 
+Note:  It is mandatory that a course project should be done by the students in a group of maximum 
+4 members. The project can be in any of the following areas. 
+1. A typical application level wired Logic control system using combinational and/or 
+sequential logic circuit. The entire logic control system (Both the system to be controlled 
+and the designed logic controller) need to be implemented in hardware. 
+2. A typical application level logic control system with PLC as the controller. The entire logic 
+control system (Both the system to be controlled and the PLC with ladder program) need 
+to be implemented in hardware. 
+ 
+The course project should have interim evaluations and final evaluation which also includes a 
+presentation and demonstration.  
+ 
+Steps involved in PBL: 
+ Selection of relevant topic. 
+ Selecting the system (mechanical/electrical/hydraulic/pneumatic) to be controlled. 
+ Selecting proper sensors. 
+ Designing the logic controller with digital circuits or using a PLC with Ladder 
+programming. 
+ Hardware implementation of the logic control system by integrating the system, sensors 
+and the controller developed. 
+ 
+Sample project ideas: 
+ Bottle filling system control 
+ Sensor based Traffic light controller 
+
+ 
+ 
+ Robotic arm/manipulator control 
+ Coffee wending machine 
+ Renewable power generation management 
+ Coin counter 
+ 
+Upon successful completion of the project, the student is expected to attain skills to design and 
+make medium complexity logic control systems using combinational and/or sequential logic 
+circuits and also using Programmable Logic Controllers (PLC) with ladder programming.  
+ 
+Evaluation parameters: 
+ Relevance of the topic 
+ Hardware  Implementation 
+ Presentation skills 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+ 
+ 
+Part A
+Part B
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+ 2 questions will be given from each module, 
+out of which 1 question should be answered. 
+ Each question can have a maximum of 2 sub 
+divisions.  
+ Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Design and implement logic control systems for industrial applications 
+K6 
+CO2 
+Design and implement PLC based control systems using ladder 
+programming
+K6 
+CO3 
+Describe distributed control system (DCS) and its components 
+K2 
+CO4 
+Explain networking protocols at different levels in hierarchical control 
+K2 
+CO5 
+Design and implement logic control systems for industrial applications 
+K6 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table: 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Programmable Logic 
+Controllers 
+W. Bolton 
+Elsevier 
+4th Edition 
+2006 
+2 
+Distributed computer control 
+for Industrial Automation 
+Popovic and Bhatkar 
+Mareeet Dekkar, 
+N.York 
+1990 
+3 
+Computer based Industrial 
+Control 
+Krishna Kant 
+Prentice Hall, New 
+Delhi 
+2010 
+4 
+Distributed Control Systems 
+Michael P Lukcas  
+Van Nostrand 
+Reinhold Co., New 
+York 
+1986 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+ 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+CO2 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+CO3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Programmable Logic 
+Controllers - Principles and 
+Applications
+John.W.Webb, Ronald A 
+Reis 
+Prentice Hall 
+5th Edition, 
+2002 
+2 
+Programmable Logic 
+Controllers 
+Frank D. Petruzella 
+McGraw Hill, New 
+York 
+2nd 
+Edition, 
+2019 
+3 
+Elements of Process Control 
+Applications 
+Deshpande P.B and Ash 
+R.H 
+ISA Press, New York 
+1981 
+4 
+Computer Aided Process 
+Control 
+Singh 
+Prentice Hall 
+2004 
+5 
+Programmable logic devices 
+and logic controllers 
+Enrique Mandado, Jorge 
+Marcos, Serafín A. Pérez 
+Prentice Hall 
+1996 
+6 
+Process Control 
+Instrumentation Technology 
+Curtis D. Johnson 
+Pearson 
+8th Edition, 
+2005 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/noc/courses/noc19/SEM1/noc19-me04/ 
+2 
+https://archive.nptel.ac.in/noc/courses/noc19/SEM1/noc19-me04/ 
+3 
+https://archive.nptel.ac.in/noc/courses/noc19/SEM1/noc19-me04/ 
+4 
+https://archive.nptel.ac.in/noc/courses/noc19/SEM1/noc19-me04/ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery Project identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group 
+discussion
+Project Analysis 
+Data Collection 
+Evaluation  
+Question answer
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical thinking and
+ self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project 
+reformation 
+(If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case 
+Study/ 
+Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 5 
+minutes video
+
+ 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions
+4 
+3 
+Involvement in the project work and Team Work
+3 
+4 
+Execution and Implementation
+10 
+5 
+Final Presentations
+5 
+6 
+Project Quality, Innovation and Creativity
+3 
+Total 
+30 
+ 
+1. Project Planning and Proposal (5 Marks) 
+ 
+Clarity and feasibility of the project plan  
+ 
+Research and background understanding  
+ 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+ 
+Active participation and individual contribution  
+ 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+ 
+Adherence to the project timeline and milestones  
+ 
+Application of theoretical knowledge and problem-solving  
+ 
+Final Result 
+5. Final Presentation (5 Marks) 
+ 
+Quality and clarity of the overall presentation  
+ 
+Individual contribution to the presentation  
+
+ 
+ 
+ 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ 
+Overall quality and technical excellence of the project  
+ 
+Innovation and originality in the project  
+ 
+Creativity in solutions and approaches 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S6 
+DESIGN THINKING AND PRODUCT DEVELOPMENT 
+(Common to Group A & Group B)

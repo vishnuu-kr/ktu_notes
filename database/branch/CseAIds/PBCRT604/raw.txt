@@ -1,0 +1,424 @@
+Course Code 
+PBCRT604 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+4 
+ESE Marks 
+40 
+Credits 
+3:0:0:1 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+4 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide a comprehensive understanding of the compiler construction process through its 
+various phases viz. lexical analysis, parsing, semantic analysis, code generation, and 
+optimization. 
+2. To give a project based experience in using compiler construction tools and use them in lexical 
+analysis and parsing. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction - Compiler Structure, Overview of Translation: The Front End; 
+The Optimizer; The Back End.  
+Scanners - Recognizing Words, Regular Expressions, From Regular 
+Expression to Scanner: FSA (Brush-up only), Implementing Scanners 
+8 
+2 
+Parsing - Introduction, Expressing Syntax 
+Top-Down Parsing - Transforming A Grammar: Eliminating Left Recursion; 
+Backtrack-free 
+Parsing; 
+Left-Factoring 
+To 
+Eliminate 
+Backtracking, 
+Recursive Descent Parsers, Table-Driven LL(1) Parsers 
+10 
+3 
+Bottom-Up Parsing - Shift Reduce Parser, The LR(1) Parsing Algorithm, 
+Building LR(1) Tables, Errors in the Table Construction, Reducing the Size 
+13 
+
+ 
+ 
+of LR (1) Tables. 
+Intermediate Representations: An IR Taxonomy, Graphical IRs - Syntax-
+Related Trees, Graphs; Linear IRs - Stack-Machine Code - Three-Address 
+Code - Representing Linear Codes 
+Syntax-Driven 
+Translation: 
+ 
+Introduction, 
+Translating 
+Expressions, 
+Translating Control-Flow Statements 
+4 
+Code generation: Code Shape - Arithmetic Operators, Boolean and 
+Relational Operators, Control-Flow Constructs (Conditional Execution, 
+Loops and Iteration, Case Statements only), Procedure Calls 
+Code Optimization - Introduction, Opportunities for Optimization, Scope Of 
+Optimization 
+Local Optimization: Local Value Numbering, Tree-Height Balancing 
+Regional Optimization: Super Local Value Numbering, Loop Unrolling 
+Global Optimization: Finding Uninitialized Variables with Live Sets,  Global 
+Code Placement 
+13 
+ 
+Suggestion on Project Topics 
+1. Develop a mini-compiler that parses and evaluates arithmetic expressions using recursive 
+descent parsing. 
+2. Build a basic calculator that parses mathematical expressions using YACC/equivalent, 
+generates intermediate code, and applies optimizations to improve execution. 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Use lexical analysis techniques to build a scanner for a given language 
+specification. 
+K3 
+CO2 
+Construct parse trees for input programs using parsing algorithms and 
+detect syntactic errors. 
+K3 
+CO3 
+Develop semantic analysis techniques to check program correctness. 
+K3 
+CO4 
+Build intermediate code representations by applying intermediate code 
+generation techniques.  
+K3 
+CO5 
+Optimize generated code using code optimization strategies to improve 
+performance.  
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each question 
+can have a maximum of 2 sub divisions. Each question 
+carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Engineering a Compiler 
+Keith D. Cooper, Linda 
+Torczon 
+Elsevier Science 
+3/e, 2023 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the Publisher 
+Edition and 
+Year 
+1 
+Lex and YACC 
+John R. Levine, Tony 
+Mason,  Doug Brown 
+O’ Reily 
+2/e, 1992 
+2 
+Compilers – Principles 
+Techniques and Tools 
+Aho A.V., Ravi Sethi and 
+D. Ullman. 
+Addison Wesley, 
+2/e, 2010. 
+3 
+Compiler Construction -  
+Principles and Practice 
+Kenneth C Louden 
+Thomson Learning 
+1/e, 2007 
+4 
+Compiler Design in C 
+Allen Holub 
+Prentice-Hall software 
+series 
+1/e, 1990 
+5 
+Modern Compiler 
+Implementation in C 
+Andrew W. Appel 
+Cambridge University 
+Press 
+2/e, 2004 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1-4 
+https://archive.nptel.ac.in/courses/106/105/106105190/ 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture 
+delivery 
+Project identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops 
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group 
+discussion 
+Project Analysis 
+Data Collection 
+Evaluation  
+Question 
+answer 
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical 
+thinking 
+and 
+ self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project 
+reformation 
+(If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case 
+Study/ 
+Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 
+5 minutes video 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+1. Project Planning and Proposal (5 Marks) 
+● Clarity and feasibility of the project plan  
+● Research and background understanding  
+● Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+● Individual contribution to the presentation  
+● Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+● Active participation and individual contribution  
+● Teamwork and collaboration  
+ 
+
+ 
+ 
+4. Execution and Implementation (10 Marks) 
+● Adherence to the project timeline and milestones  
+● Application of theoretical knowledge and problem-solving  
+● Final Result 
+5. Final Presentation (5 Marks) 
+● Quality and clarity of the overall presentation  
+● Individual contribution to the presentation  
+● Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+● Overall quality and technical excellence of the project  
+● Innovation and originality in the project  
+Creativity in solutions and approaches 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S6 
+DATA STRUCTURES

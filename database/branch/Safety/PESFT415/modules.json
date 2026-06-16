@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Computational Fluid Dynamics, Governing Equations of fluid\nflow and heat transfer, Conservative form of Navier-Stokes equation, General\ntransport equation. Physical and mathematical classifications of partial\ndifferentialequations. Elliptic, parabolic and hyperbolic equations, Comparison\nof  experimental,  theoretical  and  numericalapproaches;\napplications of CFD.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Discretization-converting  derivatives  to  their  finite  difference  forms-\nTaylor’s series approach and polynomial fitting approach.\nCentral\ndifference, backward difference, and forward difference of first and second\norder derivatives. Solution of partial differential equations using finite\ndifference equations. Discretization error, truncation error, round off error.\nConsistency and numerical stability. Iterative convergence, condition for\nconvergence, rate of convergence. Termination of iteration. Boundary and\nInitial conditions",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to finite volume method. Finite volume method for steady one–\ndimensional\nconduction\nproblems.\none–dimensional\ntransient\nheat\nconduction problems -explicit, implicit, Crank- Nicholson schemes, under\nand over relaxations, handling of boundary conditions; dealing with\nDirichlet, Neumann, and Robins type boundary conditions; two-dimensional\nsteady state conduction problems; point-by-point and line-by-line method of\nsolution; tri-diagonal matrix algorithm.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Finite volume method for steady-state diffusion and convection-diffusion\nproblems; Central difference and Upwind schemes for convection and\ndiffusion problems.\nTwo dimensional incompressible viscous flows.\nStaggered grid. Pressure correction methods. Solution algorithm for pressure-\nvelocity coupling in steady flows- SIMPLE algorithm to solve Navier -\nStokes equations. Computer graphics techniques to present CFD results.",
+    "contact_hours": "9"
+  }
+]

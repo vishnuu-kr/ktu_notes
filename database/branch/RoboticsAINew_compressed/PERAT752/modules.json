@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Estimation and Stochastic process-basics;\nBasic kinds of estimation, linear filter structures with finite and infinite\nmemory, approaches for developing linear adaptive filters, applications.\nDiscrete time Stochastic process-characterisation, mean ergodic theorem,\ncorrelation matrix-definition, properties, correlation matrix of sine wave plus\nnoise, stochastic models- AR, MA, ARMA, Wold decomposition, complex\ngaussian processes, power spectral desnsity-properties and estimation.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Wiener Filters: Linear optimum filtering, principle of orthogonality,\nminimum mean square error, Wiener Hopf equation\nThe steepest descent algorithm- basic ideas and stability consideration,\napplication to wiener filtering, advantages and limitations",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Least mean square (LMS) algorithm; Signal flow graph, convergence of\nLMS algorithm; optimality considerations, applications.\nnormalized LMS algorithm, affine projection adaptive filters.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "RLS Algorithm and Kalman filtering: Limitations of LMS algorithm,\nformulation of recursive least squares (RLS) based adaptive filters, matrix\ninversion lemma, exponentially weighted RLS algorithm, single-weight\nadaptive noise canceller.\nKalman filtering-recursive minimum mean square estimation, statement of\nkalman filtering problem, Innovations process, filtering.",
+    "contact_hours": "9"
+  }
+]

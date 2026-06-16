@@ -1,0 +1,367 @@
+Course Code 
+PCICT403 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+ 
+3:1:0:0 
+ 
+ESE Marks 
+ 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+ 
+Course Objectives: 
+ 
+1. Develop a comprehensive understanding of the fundamental concepts of signals and systems, 
+including various types of signals and system properties. 
+2. Equip students with the ability to mathematically analyze signals and systems using tools 
+such as convolution, Fourier series, Fourier transform, Laplace transform, and Z-transform. 
+3. Understand the fundamental concepts of sampling and its importance in signal 
+processing. 
+4. Learn about sampling theorem, aliasing, and reconstruction of signals 
+ 
+SYLLABUS 
+ 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Basics of Signals and Systems: 
+Definitions and Classification of Signals (Continuous-time and Discrete-
+time, Periodic and Aperiodic, Even and Odd, Energy and Power signals) Basic
+Operations on Signals (Scaling, Shifting, Folding) 
+Systems: 
+Definitions and Classification of Systems (Linear and Nonlinear, Time-
+Invariant and Time-Variant, Causal and Non-Causal, Stable and Unstable) 
+Examples of Systems 
+System Properties: 
+Linear Time-Invariant (LTI) Systems ,Stability and Causality in LTI Systems 
+Representation of systems: Differential equation representation of 
+continuous time systems. Difference equation representation of discrete 
+systems. 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+
+Discrete time LTI systems and linear convolution. 
+Stability and causality of LTI systems. 
+ 
+2 
+Overview of Fourier Series: 
+Representation of Periodic Signals ,Convergence of Fourier series. 
+Continuous-Time Fourier Transform (CTFT)-Properties 
+Review of Laplace Transform, ROC of Transfer function, Properties of ROC,
+Stability and causality conditions. 
+Relation between Fourier and Laplace transforms. 
+ 
+10 
+ 
+ 
+ 
+3 
+Discrete time fourier series for discrete periodic signals. 
+Properties of DTFS. 
+Discrete time fourier transform (DTFT) and its properties. Analysis 
+of discrete time LTI systems using DTFT. 
+Z transform, Mapping of s plane to Z plane ,ROC , Inverse transform,
+properties, 
+Relation between DTFT and Z-Transform, Analysis of discrete time LTI
+systems using Z transforms, Stability and causality using Z transform. 
+ 
+ 
+ 
+13 
+ 
+ 
+ 
+ 
+ 
+4 
+Sampling 
+Definition and importance of sampling in signal processing 
+Nyquist-Shannon Sampling Theorem, Conditions for perfect reconstruction, 
+Definition and causes of aliasing, Effects of undersampling, Methods to 
+prevent aliasing, Ideal vs. Practical Sampling, Ideal sampling (impulse 
+sampling), Practical sampling methods (zero-order hold, first-order hold) 
+Process of quantization, Quantization error and its effects, Uniform and non- 
+uniform quantization, Reconstruction of continuous-time signals from 
+discrete-time samples, Interpolation methods (zero-order hold, first-order 
+hold, sinc interpolation), Oversampling: benefits and applications, Under 
+sampling: conditions and applications 
+Sampling in the frequency domain, Sampling of band pass signals 
+Introduction   to  multi  rate  systems,  Decimation  and  interpolation.
+Applications in digital signal processing 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+ 
+Attendance 
+ 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+ 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+End Semester Examination Marks (ESE) 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module. 
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks. 
+ Two questions will be given from each module, out 
+of which 1 question should be answered. 
+ Each question can have a maximum of 3 sub 
+divisions. 
+(4x9 = 36 marks) 
+ 
+ 
+60 
+ 
+Course Outcomes (COs) 
+ 
+At the end of the course students should be able to: 
+ 
+ 
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Identify and classify various types of signals and systems. 
+K2 
+CO2 
+Apply Fourier series, Fourier transform, Laplace transform, and Z-
+transform for signal analysis. 
+K3 
+CO3 
+Model and solve signal processing problems using differential and 
+difference equations 
+K3 
+ 
+CO4 
+Understand the fundamental principles and practical techniques of 
+sampling, including the application of the sampling theorem, methods to
+prevent aliasing, and techniques for signal reconstruction. 
+ 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+ 
+1 
+Signals and Systems 
+Alan V. Oppenheim, 
+Alan S. Willsky, and S. 
+Hamid Nawab 
+ 
+Prentice Hall 
+2nd edn 
+1997 
+2 
+Signal and Systems 
+Simon Haykin and Barry 
+Van Veen 
+Wiely 
+2nd edition 
+2003 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Linear Systems and Signals, 
+B. P. Lathi 
+Oxford University 
+Press 
+2005 
+2 
+Signals and Systems, Scham’s 
+outlines 
+H. P Hsu, R. Ranjan 
+TMH 
+2006 
+3 
+Principles 
+of 
+Signals 
+and 
+Systems 
+Fred J. Taylor 
+McGraw-Hill 
+Education 
+1994 
+
+Module 
+No. 
+                                                     Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc20_ee15/preview, 
+2 
+https://onlinecourses.nptel.ac.in/noc20_ee15/preview 
+3 
+https://onlinecourses.nptel.ac.in/noc20_ee15/preview 
+4 
+https://onlinecourses.nptel.ac.in/noc20_ee15/preview 
+ 
+
+ 
+SEMESTER: S4 
+INTEGRATED CIRCUITS AND SYSTEMS

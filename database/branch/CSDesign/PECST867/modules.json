@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Storage technologies:-\nComputer storage technologies-Magnetic bubble memories, Charged\nCoupled Devices - CCDs, Micro-Electro-Mechanical Systems\n- MEMS, Flash memories, Processing In Memory - PIM, Optical storage -\nData deduplication in storage systems.\nStorage Arrays- Architectural Principles, Replication, Local Snapshot\nRedundant Arrays of Independent Disks (RAID) - RAID0,RAID2,RAID3,\nRAID4, RAID5, RAID6, Hybrid RAID.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Data Storage Networking:-\nFibre Channel SAN- FC SAN Components,SAN Topologies, iSCSI SAN-\niSCSI names, Sessions, iSNS,\nNetwork Attached Storage - NAS Protocols, NAS Arrays, NAS Performance\nObject Storage - Objects and Object IDs, metadata, API Access",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Business Continuity, Backup and Recovery:-\nReplication-\nSynchronous\nReplication,\nAsynchronous\nReplication\nApplication,\nLayer\nReplication,\nLogical\nVolume\nManager–Based\nReplication,\nBackup Methods- Hot Backups, Offline Backups, LAN-Based Backups,\nLAN-Free Backups (SAN Based), Serverless Backups, NDMP,\nBackup Types- Full Backups, Incremental Backups, Differential Backups ,\nSynthetic Full Backups, Application-Aware Backups",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Storage Management:-\nCapacity\nManagement-\nCapacity\nReporting,\nThin\nProvisioning\nConsiderations, Deduplication and Compression, Quotas and Archiving,\nShowback and Chargeback, Performance Management- Latency/Response\nTime, IOPS,MBps and Transfer Rate, Factors Affecting Storage\nPerformance\nManagement Protocols and Interfaces.",
+    "contact_hours": "9"
+  }
+]

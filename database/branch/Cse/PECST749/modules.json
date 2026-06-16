@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basics of Approximation Algorithms - Introduction to approximation\nalgorithms, Performance guarantees: approximation ratio and factor,\nExamples of approximation problems. (Chapter 1)\nGreedy Algorithms - Introduction to greedy algorithms, Set cover problem,\nVertex cover problem. (Chapter 2)\nLocal Search Algorithms - Local search techniques, k-Median and k-Center\nproblems, Analysis of local search algorithms. (Chapter 3)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Linear Programming Relaxation - Introduction to linear programming (LP),\nLP relaxation of combinatorial problems, Primal-dual method.  (Chapter 4)\nRounding Techniques - Randomized rounding, Deterministic rounding,\nApplications to various problems.  (Chapter 5)\nInteger Programming and Cutting Planes - Integer programming formulation,\nCutting plane methods, Applications in network design. (Chapter 6)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Semi-Definite Programming - Introduction to semi-definite programming\n(SDP), Goemans-Williamson algorithm for MAX-CUT, Other applications\nof SDP. (Chapter 8)\nApproximation Schemes - Polynomial-time approximation schemes (PTAS),\nFully polynomial-time approximation schemes (FPTAS), Examples:\nknapsack problem, Euclidean TSP. (Chapter 9)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Inapproximability Results - Introduction to inapproximability, Reductions\nand hardness of approximation, PCP theorem and its implications.  (Chapter\n10)\nNetwork Design Problems - Steiner tree problem, Traveling Salesman\nProblem (TSP), Multicommodity flow problem. (Chapter 7)",
+    "contact_hours": "9"
+  }
+]

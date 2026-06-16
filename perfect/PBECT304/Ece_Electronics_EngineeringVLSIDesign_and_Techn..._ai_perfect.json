@@ -1,0 +1,72 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Review of Number Systems Representation and Conversions",
+            "Arithmetic of Binary Number Systems",
+            "Signed and Unsigned Numbers",
+            "BCD and Boolean Algebra Theorems",
+            "Sum of Product and Product of Sum Simplification",
+            "Canonical Forms: Min Term and Max Term",
+            "Simplification of Boolean Expressions Using Karnaugh Map (up to 4 variables)",
+            "Implementation of Boolean Expressions Using Universal Gates"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Combinational Logic Circuits: Half Adder and Full Adders",
+            "Subtractors",
+            "BCD Adder",
+            "Ripple Carry and Carry Look Ahead Adders",
+            "Decoders",
+            "Encoders",
+            "Code Converters",
+            "Comparators",
+            "Parity Generator",
+            "Multiplexers",
+            "De-multiplexers",
+            "Implementation of Boolean Algebra Using MUX and Introduction to Verilog HDL Basic Language Elements",
+            "Basic Implementation of Logic Gates and Combinational Circuits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "SR Latch",
+            "Flip Flops: SR",
+            "Master-Slave JK",
+            "D and T Flip Flops and Conversion of Flip Flops",
+            "Excitation Table and Characteristic Equation; Shift Registers: SIPO",
+            "SISO",
+            "PISO",
+            "PIPO and Universal Shift Registers, Ring and Johnson Counters, Design of Asynchronous",
+            "Synchronous and Mod N Counters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Finite State Machines: Mealy and Moore Models",
+            "State Graphs",
+            "State Assignment",
+            "State Table",
+            "State Reduction and Logic Families: Electrical Characteristics of Logic Gates (Noise Margin",
+            "Fan-in",
+            "Fan-out",
+            "Propagation Delay",
+            "Transition Time",
+            "Power-Delay Product) - TTL",
+            "CMOS Circuit Description and Working of TTL and CMOS Inverter",
+            "CMOS NAND and CMOS NOR Gates and Suggestions on Project Topics: A random sequence generator; Traffic light controller; Multiplexer based person priority check in system at airport; Waveform generator; Object/Visitor counter; Fast adders; Hamming code-based parity checker; Arithmetic Logic Unit using FPGA"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "State Space Representation of Systems\nIntroduction to state space and state model concepts- State equation of linear\ncontinuous time systems, matrix representation- features- Examples of\nelectrical circuits and dc servomotors. Phase variable forms of state\nrepresentation- Diagonal Canonical forms- Similarity transformations to\ndiagonal canonical form",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "State Space Analysis\nState transition matrix- Properties of state transition matrix- Computation of\nstate transition matrix using Laplace transform and Cayley Hamilton method.\nDerivation of transfer functions from state equations. Solution of time\ninvariant systems: Solution of time response of autonomous systems and\nforced systems. State space analysis of Discrete Time control systems: Phase\nvariable form and Diagonal canonical form representations- Pulse transfer\nfunction from state matrix- Computation of State Transition Matrix\n(problems from 2nd order systems only)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "State Feedback Controller Design\nControllability & observability: Kalman’s, Gilbert’s and PBH tests. - Duality\nprinciple State feedback controller design: State feed-back design via pole\nplacement technique State observers for LTI systems- types- Design of full\norder observer",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Nonlinear Systems and stability\nTypes and characteristics of nonlinear systems- Jump resonance, Limit\ncycles and Frequency entrainment\nPhase plots: Concepts- Singular points – Classification of singular points.\nDefinition of stability- asymptotic stability and instability. Construction of\nphase trajectories using Isocline method for linear and nonlinear systems.\nLyapunov stability analysis: Lyapunov function- Lyapunov methods to\nstability of nonlinear systems- Lyapunov methods to LTI continuous time\nsystems",
+    "contact_hours": "9"
+  }
+]

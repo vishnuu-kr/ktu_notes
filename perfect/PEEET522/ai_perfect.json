@@ -1,0 +1,73 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of Vehicle Performance",
+            "Vehicle Power Source Characterization",
+            "Transmission Characteristics",
+            "Introduction to Electric Vehicles: History of Electric Vehicles",
+            "Classification of Electric Vehicles",
+            "Overview of EV Challenges",
+            "Overview of EV Technologies - Motor Drive Technology",
+            "Energy Source Technology",
+            "Battery Charging Technology",
+            "Vehicle-to-Grid Technology",
+            "Vehicle Dynamics and Load Forces: Mathematical Models to Describe Vehicle Performance",
+            "Vehicle Load Forces: Aerodynamic Drag",
+            "Rolling Resistance",
+            "Grading Resistance",
+            "Vehicle Acceleration",
+            "Calculation of Motor Power from Traction Torque",
+            "Numerical Problems",
+            "Electric Drive-Trains: Basic Concept of Electric Traction",
+            "Introduction to Various Electric Drive-Train Topologies",
+            "Power Flow Control in Electric Drive-Train Topologies",
+            "Fuel Efficiency Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Motoring Using a PM DC Machine - DC Motor Electric Drive Using DC-DC Converter - Generating/Braking Using a PM DC Machine",
+            "PMSM Drives: Review of PMSM Motor Basics - Independent Control of Orthogonal Flux and Torque (Concept Only) - Field Oriented Control (FOC) - Sensored and Sensorless Control (Block Diagram Only)",
+            "Sizing the Drive System: Matching the Electric Machine and the Internal Combustion Engine (ICE)",
+            "Sizing the Propulsion Motor",
+            "Sizing the Power Electronics - Switch Technology Selection",
+            "Ripple Capacitor Design",
+            "Switching Frequency and PWM"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Types of Battery - Battery Parameters - Units of Battery Energy Storage - Capacity Rate",
+            "Cell Voltage - Specific Energy - Cycle Life - Self-Discharge - Static Battery Equivalent Circuit Model - Series-Parallel Battery Pack Equivalent Circuits",
+            "Other Storage Topologies: Fuel Cell Based Energy Storage Systems - Supercapacitors - Flywheel - Hybridization of Different Energy Storage Devices",
+            "Sizing Considerations of Battery - Time and Charge/Discharge Cycles - Lifetime - Beginning of Life (BOL) - End of Life (EOL) - DOD - Efficiency of Battery Pack - Determination of Pack Voltage",
+            "Range for EV - Determination of Cell/Pack Voltage for a Given Output/Input Power",
+            "Battery Management System",
+            "Numerical Problems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Levels of Automation",
+            "Significance",
+            "Functional Architecture - Sensors",
+            "Actuators",
+            "Path Planning and Effects of Automation in Vehicles",
+            "Vehicle Communication Protocols: Need and Requirements - Functions of Control Pilot (CP) and Proximity Pilot (PP) Pins",
+            "Communication Protocols - CAN",
+            "FLEXRAY (Basics Only) - Power Line Communication (PLC) in EV"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

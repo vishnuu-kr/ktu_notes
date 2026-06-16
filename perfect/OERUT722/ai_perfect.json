@@ -1,0 +1,92 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Feedback Control",
+            "Feed Forward Control",
+            "Cascade Control",
+            "Ratio Control",
+            "Split Range Control",
+            "Computerized Control: Basic Building Blocks of Computer Controlled Systems",
+            "Programmable Logic Controller: Architecture of PLC",
+            "Types of PLC",
+            "PLC Modules",
+            "Input and Output Modules: Analog and Discrete I/O Modules",
+            "Examples of Digital and Analog Inputs/Outputs",
+            "PLC Configuration",
+            "Scan Cycle",
+            "Capabilities of PLC",
+            "Selection Criteria for PLC",
+            "PLC Communication with PC and Software",
+            "Power Supply of PLCs",
+            "PLC Wiring, Installation of PLC and Its Modules"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "PLC Programming Languages",
+            "Ladder Programming",
+            "Functional Block Diagram",
+            "Sequential Flowchart (SFC)",
+            "Structured Text",
+            "Instruction List",
+            "Relay Logic",
+            "Timers and Counters",
+            "Simple Programs in PLC: Ladder Programming",
+            "Math Operations",
+            "Sequencers",
+            "Program Control Instructions",
+            "PTO/PWM Generation",
+            "PLC Networking",
+            "Networking Standards and IEEE Standards",
+            "Protocols: Ethernet",
+            "PROFIBUS",
+            "CANopen",
+            "Case Studies: PLC-Based Traffic Light System",
+            "Stepper Motor and Servo Motor Control Using PLC",
+            "Analog Sensor Interfacing with PLC",
+            "Encoder Interfacing with PLC",
+            "Bottle Filling System",
+            "Gate Control System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "SCADA Fundamentals: Introduction and Types",
+            "Open System: Need and Advantages",
+            "Building Blocks of SCADA Systems",
+            "Remote Terminal Unit (RTU)",
+            "Human-Machine Interface (HMI) Subsystem",
+            "SCADA Communication Systems",
+            "Master Station: Software Components",
+            "Master Station: Hardware Components",
+            "Server Systems in the Master Station",
+            "Small, Medium, and Large Master Stations",
+            "Software Architecture of SCADA",
+            "Interfacing of SCADA with PLC, Drive and Other Field Devices",
+            "Distributed Control System (DCS): Architectures",
+            "Comparison",
+            "Local Control Unit",
+            "Process Interfacing Issues",
+            "Communication Facilities",
+            "Various Function Blocks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Design of Inspection Automation System Using Sensors, PLC and SCADA",
+            "Design of Simple Water Management System Using PLC, SCADA and Electrical Drive"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

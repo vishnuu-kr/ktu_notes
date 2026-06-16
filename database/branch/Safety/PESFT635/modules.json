@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Deterministic approach and Probabilistic approach, Introduction to\nfunctional safety, Overview, History and application of relevant\nstandards (IEC  61508,  ISO  26262,  IEC  61511),  Scope  of\nIEC  61508  in Electrical/Electronic/Programmable Electronics\n(E/E/PE)., Random Hardware failures, Systematic Failures, Common\ncause and Common Mode failures, Safety Instrumented Function,\nSafety Instrumented System, Safety Integrity Level, Systematic\nCapability, Probability of Failure on Demand (PFD), Probability of\nFailure per Hour (PFH), Process Safety Time (PST).",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "IEC 61511 General Principles, Risk reduction and layers of\nprotection, Evacuation Procedures Internal Emergency Plan (IEP),\nEmergency Services External Emergency Plan (EEP), SIS Safety\nlife-cycle phases, Risk Assessment methods, Risk Reduction Factor,\nTolerable risk, Inductive and Deductive approaches, HAZOP, Bow\nTie Method, Prevention safeguard and Protection safeguard, Exercise\non HAZOP and Bow Tie. Allocation of Safety functions to the protection\nlayer, Low demand Mode, High Demand mode, Continuous Mode,\nDetermination of SIL for every SIF, Risk assessment Matrix, SIL\nAllocation/Determination of SIF using Risk graph and LOPA Method,\nExercise on QRA.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "SIS Safety Requirement Specifications, Independency of the\nprotective layers, Demand rate and operational modes, SIF structure\nredundancies, Workshop reliability and acceptable level of spurious\ntrip. Design and realization of SIS, SIS Safety plan, Verification and\nvalidation plan, Safety requirement specification, SIS Failure\nManagement, Failure types, Fail-Safe Failures, Dangerous failures,\nSafe Failure Fraction, Hardware Fault Tolerance (HFT), Prior in use\nrequirements, Analysis and Fault detection – Basic Architecture,\nChoice safety, Choice availability, Mixed choice.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "PFD Calculation, Failure Rate of Electronic and Mechanical\ncomponents, MTTF, MTDF, MRT, MTTR, MTBF, PFD of SIF,\nReliability block diagram, Series and parallel System. Formula for\nPFD and PFH, Operating or system software, Utility Software,\nApplication software, Software Safety lifecycle: V Cycle, Software\ndesign Documentation, Installation and validation, Nominal Tests,\nOutside Limit tests, Performance tests, Interface tests, Operation and\nMaintenance of SIS, Proof tests, Impact of periodic tests, Test\nCoverage/depth, Importance of test depth in PFD Calculation,\nBypass Management, Process demand, Trip test, Spurious trip,\nFailures and process states, Decommissioning, Verification and\naudits, Functional Safety Assessment (FSA), Independence Level",
+    "contact_hours": "10"
+  }
+]

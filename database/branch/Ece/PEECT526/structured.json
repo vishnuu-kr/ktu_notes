@@ -1,0 +1,64 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Fundamentals: Frequency and time",
+      "Time and distance",
+      "Lumped versus distributed systems",
+      "four kinds of reactance-ordinary capacitance and inductance",
+      "mutual capacitance and inductance",
+      "Relation of mutual capacitance and mutual inductance to cross talk"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Power",
+      "Quiescent vs active dissipation",
+      "Active power driving a capacitive load",
+      "Active power due to overlapping bias currents",
+      "Input power",
+      "Speed",
+      "Packaging (Power dissipation analysis of only CMOS logic gates are required) Measurement Techniques: Rise time and bandwidth of oscilloscope probes",
+      "self inductance of probe ground loop",
+      "spurious signal pick up from probe ground loops",
+      "special probing fixtures",
+      "Avoiding pickup from probe shield currents",
+      "slowing down of a system clock",
+      "observing metastable states"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Problems of point to point wiring, signal distortion, EMI, cross talk. Infinite Uniform transmission line",
+      "ideal distortion less lossless transmission line, RC transmission line, Skin effect, Proximity effect, Dielectric loss. Effects of source and load impedance. Termination: End terminator, Source terminators, middle terminators, AC biasing for end terminators, Resistor selection, Cross talk in terminators"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Stable voltage reference",
+      "Uniform voltage distribution",
+      "distribution problems",
+      "choosing a bypass capacitor. Clock Distribution: Timing margin",
+      "Clock skew",
+      "Using low impedance drivers",
+      "using low impedance distribution lines",
+      "delay adjustments",
+      "Differential distribution",
+      "Clock signal duty cycle",
+      "Decoupling clock receivers from the clock bus. Clock Oscillators",
+      "Canned clock oscillator",
+      "Clock Jitter"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

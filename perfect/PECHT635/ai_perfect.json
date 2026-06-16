@@ -1,0 +1,66 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Need of CFD as an Analysis Tool",
+            "Applications of CFD, CFD Software Packages and Tools, and CFD Solution Procedure (Pre-processing)",
+            "Numerical Solution - CFD Solver",
+            "Post-processing, Classification of Partial Differential Equations (PDE) and Boundary Conditions, Well-posed Problems, and Review of Governing Equations: Continuity Equation",
+            "Momentum Equation",
+            "Energy Equation",
+            "Navier-Stokes Equation",
+            "Generic Form of Governing Equations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to Discretization",
+            "Finite Difference Approximation of a Derivative",
+            "Discretization of Differential Equations Using Finite Differences",
+            "Consistency",
+            "Convergence and Stability (Concepts only)",
+            "Concept of Explicit and Implicit Methods",
+            "Crank Nicholson Scheme (FTCS only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Diffusion Problem",
+            "Convection-Diffusion Problem",
+            "Properties of Discretization Schemes - Conservativeness",
+            "Boundedness",
+            "Transportiveness",
+            "Solution to Discretized Equations: TDMA",
+            "Jacobi Method",
+            "Gauss-Seidel Method",
+            "Gauss Elimination Method",
+            "Detailed Study of Navier-Stokes Equation - Solution of the Navier-Stokes Equations",
+            "Grid Arrangement - Collocated and Staggered Grid",
+            "SIMPLE Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Need for Turbulence Modelling",
+            "Closure Problem",
+            "Reynolds Averaged Navier-Stokes Equation",
+            "Turbulence Modelling",
+            "Multiphase Flow Modelling in CFD",
+            "Classification of Multiphase Flow",
+            "Industrial Examples",
+            "Examples for Multiphase Reactors",
+            "Multiphase Flow Modelling Approaches: Eulerian Approach, Lagrangian Approach, Eulerian-Eulerian Approach, and Volume of Fluid Approach"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

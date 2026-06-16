@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Big data and Hadoop Distributed File System:-\nEvolution of Big data, Big data characteristics, RDBMS and Big Data.\nHistory of Hadoop, Hadoop Ecosystem and Core Components, HDFS\nArchitecture:  Blocks, Name nodes and Data nodes, Using HDFS Files -\nBasic File system Operations, Hadoop Specific File Types. Anatomy of a file\nread and write.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "MapReduce Programming:-\nData\nProcessing\nwith\nMapReduce:\nExecution\nPipeline,\nRuntime\nCoordination and Task Management in MapReduce, Designing MapReduce\nimplementations: Using MapReduce as a framework for parallel processing,\nFace Recognition Example: Simple Data Processing with MapReduce,\nInverted Indexes Example, Road Enrichment Example. Projects using R,\nPython, Java",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "HBase and Stream Data Model:-\nHBase Architecture, HBase Schema Design, Introduction to Stream\nConcepts, Stream Data Model and Architecture, Sampling Data in a Stream,\nFiltering Streams, Counting Distinct Elements in a Stream.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Hive, Pig, Spark:-\nHive - Features, Data types and file formats, primitive and collection data\ntypes, HiveQL-Creating tables, Dropping Tables, Alter table.\nPig : Data Model, Pig Latin: Structure, Functions, Spark: Storage layers for\nspark, Core spark concepts, RDD basics, RDD Operations.\nProjects using R,Python,Java\nSuggestion on Project Topics\nLog File Analysis: Collect log files from web servers or applications and analyze them to extract\nuseful information like error rates, traffic patterns, and popular pages.\nSentiment Analysis on Social Media Data:   Collect tweets or social media posts and perform\nsentiment analysis to understand public opinion on a particular topic or product.\nRecommendation System: Build a recommendation system based on user behavior data, such as\npurchase history or viewing patterns.\nWord Count with MapReduce: Implement the classic word count problem where you count the\nfrequency of each word in a large set of text documents.",
+    "contact_hours": "11"
+  }
+]

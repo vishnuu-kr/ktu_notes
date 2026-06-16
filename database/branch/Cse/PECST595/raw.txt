@@ -1,0 +1,446 @@
+Course Code 
+PECST595 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GAMAT401 
+PCCST303 
+PCCST502 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To gain proficiency in designing and implementing sophisticated graph algorithms for 
+analyzing large-scale networks, and apply these techniques to real-world problems such as 
+social network analysis and transportation optimization. 
+2. To develop the ability to critically evaluate and enhance advanced graph algorithms for 
+dynamic and evolving graphs, using real-world case studies to illustrate their application and 
+performance in complex scenarios. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Maximum Flow Algorithms - Dinic's Algorithm, Push-Relabel Algorithm. 
+Applications - network bandwidth allocation, data center resource 
+management. 
+Minimum Cost Flow - Cycle-Canceling Algorithm, Capacity Scaling 
+Algorithm. Applications - transportation logistics, network routing with cost 
+constraints. 
+Assignments: 
+1. Network Bandwidth Allocation - Optimize bandwidth allocation in a 
+communication network using Dinic's Algorithm. 
+Implement Dinic's Algorithm to solve a network flow problem 
+where you are given a communication network represented as a 
+directed graph with capacities on edges. Your goal is to maximize 
+9 
+
+ 
+ 
+the flow from a source node to a sink node. Use a real-world 
+network dataset (e.g., a telecommunications network with nodes and 
+link capacities). 
+2. Logistics Optimization - Optimize the transportation of goods in a 
+supply chain network using the Capacity Scaling Algorithm. 
+Use the Capacity Scaling Algorithm to address a logistics problem 
+where you need to minimize transportation costs in a supply chain 
+network. The network is represented as a graph where nodes 
+represent locations (warehouses, distribution centers, etc.), and edges 
+represent transportation routes with associated costs. Use a dataset 
+representing a supply chain network with nodes, edges, and costs. 
+2 
+Strongly Connected Components (SCC) - Tarjan's Algorithm, Kosaraju's 
+Algorithm. Applications - analyzing web page link structures, understanding 
+connected components in social networks. 
+Dynamic Graph Connectivity - Dynamic connectivity algorithms, Eulerian 
+and Hamiltonian paths. Applications - real-time network monitoring, 
+dynamic route planning. 
+Assignments: 
+1. Web Page Link Analysis - Objective: Analyze strongly connected 
+components (SCC) in a web graph using Tarjan's Algorithm. 
+Implement Tarjan's Algorithm to find SCCs in a web graph where 
+nodes represent web pages and edges represent hyperlinks. SCCs 
+help in understanding the structure of the web and identifying 
+clusters of interconnected pages. Use a real-world web graph dataset 
+with nodes and edges. 
+2. Dynamic Route Planning - Manage and analyze routes in a 
+transportation network that evolves over time using dynamic 
+connectivity algorithms. 
+Implement 
+dynamic 
+connectivity 
+algorithms 
+to 
+handle 
+a 
+transportation network where edges and nodes may be added or 
+removed over time. The goal is to maintain and update the 
+connectivity information efficiently. Use a dataset representing a 
+transportation network with dynamic updates. 
+9 
+3 
+Graph Matching - Edmonds' Algorithm for finding maximum matchings. 
+Applications - job assignment, network design. 
+Graph Coloring - Colorings for special classes of graphs (e.g., planar graphs, 
+interval graphs). Applications - frequency assignment in wireless networks, 
+9 
+
+ 
+ 
+scheduling problems 
+Assignments: 
+1. Job Assignment Optimization - Solve job assignment problems using 
+Edmonds' Algorithm. 
+Implement Edmonds' Blossom Algorithm to address job assignment 
+problems where you need to match workers to jobs in a way that 
+maximizes the overall efficiency or minimizes the cost. Use a dataset 
+with job assignments and associated costs or efficiencies. 
+2. Frequency 
+Assignment 
+- 
+Allocate frequencies in wireless 
+communication systems using graph coloring techniques.  
+Apply graph coloring techniques to allocate frequencies to 
+transmitters in a wireless communication network to avoid 
+interference. The goal is to minimize the number of frequencies used 
+while ensuring that adjacent transmitters do not use the same 
+frequency. Use a dataset representing a network of transmitters with 
+potential interference. 
+4 
+Graph Partitioning and Community Detection - Kernighan-Lin Algorithm, 
+Spectral Partitioning. Applications - social network community detection, 
+large-scale data clustering. 
+Parameterized Algorithms for Graph Problems - Fixed-parameter tractability 
+for vertex cover, feedback vertex set. Applications -  network security, 
+bioinformatics. 
+Assignments: 
+1. Social Network Community Detection - Detect communities in a 
+social network using the Kernighan-Lin Algorithm.  
+Apply the Kernighan-Lin Algorithm to detect communities in a 
+social network where nodes represent individuals and edges 
+represent relationships. The goal is to find clusters of highly 
+interconnected individuals. Use a social network dataset with nodes 
+and edges representing social connections. 
+2. Network Security Analysis - Identify critical nodes in a network 
+using parameterized algorithms to assess network security. 
+Use parameterized algorithms to identify critical nodes and 
+vulnerabilities in a network. These nodes are crucial for the 
+network's connectivity, and their removal would impact the 
+network's security and robustness. Use a dataset representing a 
+network with nodes and edges, along with possible vulnerabilities. 
+9 
+
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+Criteria for Evaluation(Evaluate and Analyse): 20 marks 
+ 
+Assignment evaluation pattern: 
+● Correctness and Accuracy (30%) - Correct Solution and Implementation. 
+● Effectiveness and Efficiency (25%) - Algorithm Efficiency and Performance Metrics. 
+● Analytical Depth (25%) - Problem Understanding and Solution Analysis. 
+● Justification and Comparisons (20%) - Choice Justification and Comparative 
+Analysis. 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each 
+question can have a maximum of 3 subdivisions. 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Develop and implement advanced algorithms for network flow, graph 
+connectivity, and matching, and evaluate their performance on real-
+world datasets. 
+K3 
+CO2 
+Analyze and compare the efficiency and effectiveness of various graph 
+algorithms, including those for network optimization and community 
+detection. 
+K4 
+CO3 
+Apply advanced graph algorithms to solve practical problems such as 
+network optimization, job assignment, and frequency allocation, 
+demonstrating their utility in real-world scenarios. 
+K3 
+CO4 
+Formulate and solve complex graph-related problems using appropriate 
+algorithms, including those for graph traversal, minimum spanning 
+trees, and network security analysis. 
+K5 
+CO5 
+Critically assess the strengths and limitations of different graph 
+algorithms, 
+and 
+effectively 
+communicate 
+findings 
+and 
+recommendations through detailed reports and presentations. 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Algorithms 
+Thomas H. Cormen, 
+Charles E. Leiserson, 
+Ronald L. Rivest and 
+Clifford Stein 
+The MIT Press 
+Cambridge 
+4/e  2023 
+2 
+Algorithms 
+Robert Sedgewick and 
+Kevin Wayne 
+Addison-Wesley 
+4/e, 2023 
+3 
+Graph Algorithms  
+Shimon Even 
+ Cambridge University 
+Press 
+2/e, 2011 
+4 
+Graph Theory 
+Reinhard Diestel 
+ Springer 
+4/e, 2010 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+A Guide to Graph Algorithms  
+Mingyu Xiao and Ton 
+Kloks 
+ Springer Verlag, 
+Singapore; 
+1st, 2022 
+2 
+Network Science 
+             Albert-László 
+Barabási and Márton 
+Pósfai 
+Cambridge University 
+Press 
+1st, 2016 
+3 
+Modern Graph Theory 
+Bela Bollobas  
+Springer-Verlag New 
+York Inc 
+1st, 1998 
+4 
+Network Flows: Theory, 
+Algorithms, and Applications 
+Ravindra Ahuja, Thomas 
+Magnanti, and James 
+Orlin  
+Pearson 
+1st, 1993 
+5 
+Introduction to Graph Theory  
+Douglas B. West 
+Pearson 
+2nd, 2020 
+6 
+Modern Graph Theory 
+Algorithms with Python: 
+Harness the power of graph 
+algorithms and real-world 
+network applications using 
+Python 
+ Colleen M Farrelly and 
+Franck Kalala Mutombo 
+Packt Publishing  
+2024 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc21_cs48/preview 
+2 
+https://onlinecourses.nptel.ac.in/noc21_cs48/preview 
+3 
+https://onlinecourses.nptel.ac.in/noc21_cs48/preview 
+4 
+https://onlinecourses.nptel.ac.in/noc21_cs48/preview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S5 
+NETWORKS LAB 
+(Common to CS/CD/CM/CB/CU/CI)

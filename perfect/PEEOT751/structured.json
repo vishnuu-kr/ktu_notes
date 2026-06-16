@@ -1,0 +1,52 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Grammers",
+            "Context-Free Grammars",
+            "Derivation trees and Parse",
+            "Ambiguity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Recursive Descent parsing",
+            "Predictive parsing",
+            "LL(1) Grammars. Bottom-Up Parsing:Shift Reduce parsing - Operator precedence parsing (Concepts only) LR parsing - Constructing SLR parsing tables",
+            "Constructing",
+            "Canonical LR parsing tables and Constructing LALR parsing tables"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Syntax directed definitions",
+            "Bottom- up evaluation of S-attributed definitions",
+            "L- attributed definitions",
+            "Bottom-up evaluation of inherited attributes. Type Checking : Type systems",
+            "Specification of a simple type checker. Run-Time Environments: Source Language issues",
+            "Storage organization",
+            "Storage- allocation strategies"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Intermediate languages - Graphical representations",
+            "Three- Address code",
+            "Quadruples",
+            "Triples Code Optimization: Principal sources of optimization",
+            "Optimization of Basic blocks Code generation: Issues in the design of a code generator. The target machine",
+            "A simple code generator"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

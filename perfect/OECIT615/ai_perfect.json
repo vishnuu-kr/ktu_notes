@@ -1,0 +1,72 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to 8086",
+            "Microprocessor Architecture",
+            "Addressing Modes",
+            "Instruction Set and Assembler Directives",
+            "Assembly Language Programming",
+            "Modular Programming",
+            "Linking and Relocation",
+            "Stacks",
+            "Procedures",
+            "Macros",
+            "Interrupts and Interrupt Service Routines",
+            "Byte and String Manipulation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "8086 System Bus Structure: 8086 Signals",
+            "Basic Configurations",
+            "System Bus Timing",
+            "System Design Using 8086",
+            "I/O Programming",
+            "Introduction to Multiprogramming",
+            "System Bus Structure",
+            "Multiprocessor Configurations",
+            "Coprocessor, Closely Coupled and Loosely Coupled Configurations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Architecture of 8051",
+            "Special Function Registers (SFRs)",
+            "I/O Pins Ports and Circuits",
+            "Instruction Set - Addressing Modes",
+            "Programming 8051 Timers",
+            "I/O Interfacing with Microcontroller 8051",
+            "Serial Port Programming",
+            "Interrupt Programming",
+            "LCD & Keyboard - External Memory Interface - Stepper Motor"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "ARM Processor Fundamentals",
+            "ARM Architecture - Register",
+            "CPSR",
+            "Pipeline",
+            "Exceptions and Interrupts, Interrupt Vector Table",
+            "ARM Instruction Set - Data Processing",
+            "Branch Instructions",
+            "Load Store Instructions",
+            "Software Interrupt Instructions",
+            "Program Status Register Instructions",
+            "Loading Constants",
+            "Conditional Execution"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Differences between machine learning and deep learning",
+      "comparisons in applications. Introduction to neural networks: Neurons",
+      "layers",
+      "activation functions",
+      "concepts of forward and backward propagation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "TensorFlow",
+      "Keras",
+      "PyTorch. Setting up the environment and basic operations. Building and training a simple neural network using TensorFlow/Keras/PyTorch. Introduction to deep feedforward networks: Convolutional neural networks (CNNs) - architecture",
+      "operations",
+      "and applications",
+      "recurrent neural networks (RNNs) - architecture",
+      "operations",
+      "and applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Loss functions and optimization algorithms",
+      "techniques to avoid overfitting - Regularization",
+      "dropout",
+      "and batch normalization",
+      "identification of suitable algorithms"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Generative adversarial networks (GANs), concepts and applications, autoencoders and their applications in anomaly detection and compression",
+      "Case studies of deep learning applications in various industries"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

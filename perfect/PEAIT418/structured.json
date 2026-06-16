@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Defining computer security",
+            "the principles of secure software",
+            "trusted computing base",
+            "threat modeling",
+            "advanced techniques for mapping security requirements into design specifications. Secure software implementation",
+            "deployment and ongoing management"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Software design and an introduction to hierarchical design representations. Difference between high-level and detailed design. Handling security with high-level design. General Design Notions. Security concerns designs at multiple levels of abstraction",
+            "Design patterns",
+            "quality assurance activities and strategies that support early vulnerability detection",
+            "Trust models",
+            "security Architecture & design reviews"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Identify project security risks & selecting risk management strategies",
+            "Risk Management Framework",
+            "Security Best practices/ Known Security Flaws",
+            "Architectural risk analysis",
+            "Security Testing & Reliability (Penn testing",
+            "Risk Based Security Testing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Identification and authentication",
+            "Enterprise Information Security",
+            "Symmetric and asymmetric cryptography",
+            "including public key cryptography",
+            "data encryption standard (DES",
+            "advanced encryption standard (AES",
+            "algorithms for hashes and message digests. Authentication",
+            "authentication schemes",
+            "access control models",
+            "Kerberos protocol",
+            "public key infrastructure (PKI",
+            "protocols specially designed for e-commerce and web applications",
+            "firewalls and VPNs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

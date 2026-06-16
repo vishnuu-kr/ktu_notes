@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Automation introduction\nControl Systems and Automation Strategy, Evolution of instrumentation\nand control, Role of automation in industries, Benefits of automation,\nIntroduction to Descriptive automation tools PLC, DCS, SCADA, Hybrid\nDCS/PLC, Automation strategy evolution, Control system audit, and\nperformance criteria.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Instrumentation Standard Protocols\nDefinition of protocol, Introduction to Open System Interconnection (OSI)\nmodel, Communication standard (RS232, RS485), Modbus (ASCII/RTU),\nIntroduction to third party interface, concept of OPC (Object linking and\nembedding for Process Control), HART Protocol: Introduction, frame\nstructure, programming, implementation examples, benefits, advantages\nand limitation.\nFoundation Fieldbus H1: Introduction, frame structure, programming,\nimplementation examples,benefits, advantages and limitation. Comparison\nof HART, Foundation Fieldbus, Device net,Profibus, Controlnet,\nIndustrial Ethernet",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Programmable logic controllers (PLC)\nIntroduction, architecture, definition of discrete state process control, PLC\nVs PC, PLC Vs DCS, relay diagram, ladder diagram, ladder diagram\nexamples, relay sequencers, timers/counters, high speed counter, PTO,\nPWM  and PID blocks in PLC, PLC design, study of at least one industrial\nPLC.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Networking fundamentals\nAdvance Applications of PLC and SCADA, PLC programming methods as\nper IEC 61131, PLC applications for batch process using SFC, Analog\nControl using PLC, PLC interface to SCADA/DCS using communication\nlinks (RS232, RS485) and protocols (Modbus ASCII/RTU)\nDistributed Control Systems\nDCS introduction, functions, advantages and limitations, DCS as an\nautomation tool to support Enterprise Resources Planning, DCS\nArchitecture of different makes, Latest trends and developments.",
+    "contact_hours": "10"
+  }
+]

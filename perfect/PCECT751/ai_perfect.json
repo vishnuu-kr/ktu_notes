@@ -1,0 +1,75 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Satellite Orbit and Orbital Equations",
+            "Kepler's Laws of Planetary Motion",
+            "Locating Satellite in the Orbit",
+            "Locating Satellite with Respect to Earth",
+            "Look Angle Calculation",
+            "Coverage Angle and Slant Range",
+            "Orbital Perturbations",
+            "Satellite Launching",
+            "Orbital Effects in Communication Subsystem Performance",
+            "Satellite Subsystems",
+            "Attitude and Orbit Control System",
+            "Telemetry Tracking Command and Monitoring",
+            "Power System",
+            "Communication Subsystem",
+            "Satellite Antennas"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Satellite Link Design - Basic Link Analysis",
+            "Interference Analysis",
+            "Terrestrial Interference",
+            "Intermodulation Interference",
+            "Inter-symbol Interference and Rain Induced Attenuation",
+            "Uplink Power Control",
+            "System Availability",
+            "System Design for Link Without Frequency Reuse and System Design for Link With Frequency Reuse"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction",
+            "Range",
+            "Radar Waveforms",
+            "Simple Form of Radar Equation",
+            "Radar Block Diagram and Operation",
+            "Radar Frequencies and Applications",
+            "Prediction of Range Performance",
+            "Minimum Detectable Signal",
+            "Receiver Noise",
+            "Modified Radar Range Equation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Doppler Effect",
+            "CW Radar - Block Diagram",
+            "Applications of CW Radar",
+            "FM-CW Radar",
+            "Range and Doppler Measurement",
+            "Block Diagram and Characteristics (Approaching/Receding Targets)",
+            "FM-CW Altimeter",
+            "Multiple Frequency CW Radar",
+            "MTI and Pulse Doppler Radar: Introduction",
+            "Principle",
+            "MTI versus Pulse Doppler Radar",
+            "Tracking Radar - Various Techniques of Tracking with Radar"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

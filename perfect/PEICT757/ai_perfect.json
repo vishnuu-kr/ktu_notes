@@ -1,0 +1,56 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Models of LTI Systems: Linear Models, State Space Models, OE Model",
+            "Model Sets, Structures and Identifiability",
+            "Models for Time-Varying and Nonlinear Systems: Models with Nonlinearities",
+            "Linear State-Space Models",
+            "Black Box Models, Fuzzy Models"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Transient Response and Correlation Analysis",
+            "Frequency Response Analysis",
+            "Spectral Analysis",
+            "Least Squares",
+            "Recursive Least Squares",
+            "Forgetting Factor - Maximum Likelihood",
+            "Instrumental Variable Methods"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to Adaptive Control",
+            "Linear Feedback",
+            "Effects of Process Variations",
+            "Adaptive Schemes",
+            "Introduction to Deterministic Self-Tuning Regulators",
+            "Pole Placement Design",
+            "Indirect Self-Tuning Regulator",
+            "Design of Minimum Variance and Moving Average Controllers",
+            "Adaptive Predictive Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Model Reference Adaptive Systems",
+            "Lyapunov Theory",
+            "Design of MRAS Using Lyapunov Theory",
+            "Bounded-Input Bounded-Output Stability",
+            "Applications to Adaptive Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

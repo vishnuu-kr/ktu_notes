@@ -1,0 +1,445 @@
+Course Code 
+PEAET865 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L:T:P:R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+- 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide foundational knowledge of advanced neural network architectures like CNNs, 
+RNNs, and generative models. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to ANN and CNN 
+Overview of biological neuron, concept of Perceptrons, Multi-Layer 
+Perceptrons (MLPs) 
+Activation functions - Sigmoid Relu and Softmax. 
+Loss functions-Mean Squared Error, Cross Entropy 
+Convolutional Neural Networks - Convolution operation.  
+CNN Architecture - convolutional layers, kernels, padding, pooling layers, 
+fully connected layers. 
+ 
+9  
+2 
+Training CNNs - Back-propagation and initialization    
+Optimization algorithms - SGD, Adam 
+Hyper parameter optimization-Learning rate  
+Regularization 
+methods 
+- 
+L1, 
+L2 
+regularization, 
+dropout, 
+Data 
+Augmentation, Early stopping,  batch  normalization  
+Introduction to Transfer learning.  
+ 
+9  
+3 
+Sequence Models 
+Recurrent Neural Networks (RNN) - cell structure and architecture.  
+Training RNN - back propagation through time, vanishing and exploding 
+gradients. 
+Architecture of Long Short-Term Memory (LSTM) 
+Architecture of Gated Recurrent Units (GRU) 
+9  
+
+ 
+ 
+4 
+(Detailed mathematical treatment not required for this module) 
+Introduction to Generative Models 
+GANs - adversarial training. Discriminator, Generator.  
+ Introduction to Transformer models – architecture, word embedding, 
+position encoding, attention, basics of training transformer models.   
+ Basics of Large language model  - GPT 
+ 
+ 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance
+Internal Ex
+Evaluate
+Analyse 
+Total 
+5
+15 
+10
+10
+40
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+Evaluation Methods: 
+1: Practical Experiments Using Design and Analysis Tools (10 marks) 
+Students will perform specific experiments using tools like TensorFlow, PyTorch, or Keras. 
+Each experiment will focus on implementing and analyzing different types of neural network 
+architectures and techniques. 
+2: Course Project (10 marks) 
+Comprehensive project involving design, implementation, and analysis of neural network 
+models. Project phases: Proposal, Design, Implementation, Testing, Final Report, 
+Presentation, and Viva Voce. 
+Sample Experiments: 
+Experiment 1: Building a Convolutional Neural Network (CNN) 
+ 
+Objective: Design and train a CNN for image classification. 
+ 
+Tools: TensorFlow/Keras or PyTorch. 
+ 
+Steps: 
+ 
+Implement a CNN with convolutional layers, pooling layers, and fully connected layers. 
+ 
+Train the model on a dataset like CIFAR-10. 
+ 
+Analyze the model's performance using evaluation metrics like accuracy and loss curves. 
+Experiment 2: Visualizing Feature Maps and Weight Distributions 
+ 
+Objective: Visualize the internal workings of a neural network. 
+
+ 
+ 
+ 
+Tools: TensorFlow/Keras or PyTorch, Matplotlib. 
+ 
+Steps: 
+ 
+Train a CNN on a simple dataset. 
+ 
+Visualize the feature maps after each convolutional layer. 
+ 
+Use t-SNE for feature visualization and analyze the distribution of weights. 
+Experiment 3: Transfer Learning and Fine-Tuning 
+ 
+Objective: Use a pre-trained model for a new task. 
+ 
+Tools: TensorFlow/Keras or PyTorch. 
+ 
+Steps: 
+ 
+Use a pre-trained model like VGG or ResNet. 
+ 
+Fine-tune the model on a new dataset. 
+ 
+Analyze the performance improvement compared to training from scratch. 
+Experiment 4: Exploring Recurrent Neural Networks 
+ 
+Objective: Implement an RNN to predict time-series data(eg. Word prediction). 
+ 
+Tools: TensorFlow/Keras or PyTorch. 
+ 
+Steps: 
+ 
+Build an RNN model with LSTM or GRU cells.. 
+ 
+Train the model on a time-series dataset 
+ 
+Visualize and interpret the model's predictions. 
+Sample Project Topics: 
+1  Designing a Real-Time Object Detection System Using YOLO 
+2  Development of a Neural Network for Sentiment Analysis on Social Media 
+3 Implementing a GAN for Image-to-Image Translation 
+4  Building a Speech Recognition System Using RNNs and LSTMs 
+5   Creating a Transfer Learning Model for Medical Image Classification 
+Criteria for Evaluation: Lab Experiments (10 marks) 
+Understanding of Concepts (3 marks) 
+ 
+Demonstrates a thorough understanding of the theoretical concepts related to the experiments. 
+ 
+Correctly explains the purpose and expected outcomes. 
+Implementation and Accuracy (3 marks) 
+ 
+Correctly implements the neural network models using appropriate tools. 
+ 
+Ensures the design functions as expected with minimal errors. 
+
+ 
+ 
+Analysis and Problem-Solving (2 marks) 
+ 
+Effectively analyzes the model performance and identifies issues. 
+ 
+Demonstrates problem-solving skills in addressing challenges encountered during experiments. 
+Documentation and Reporting (1 mark) 
+ 
+Provides detailed documentation of the experimental setup, process, and outcomes. 
+ 
+Includes visualizations, code snippets, and analysis of results. 
+Presentation and Communication (1 mark) 
+ 
+Clearly presents the experiments and their results. 
+ 
+Able to answer questions and explain design choices. 
+Course Project (10 marks) 
+Project Proposal and Planning (2 marks) 
+ 
+Submits a well-defined project proposal outlining objectives, methodology, and expected 
+outcomes. 
+ 
+Demonstrates thorough planning and a clear timeline for the project. 
+Design and Implementation (3 marks) 
+ 
+Implements the project design accurately using appropriate tools and techniques. 
+ 
+The design is functional and meets the project objectives. 
+Innovation and Creativity (2 marks) 
+ 
+Introduces innovative ideas or unique approaches in the design and implementation. 
+ 
+Demonstrates creativity in solving problems or optimizing designs. 
+Analysis and Testing (2 marks) 
+ 
+Effectively analyzes the project design to identify and address any issues. 
+ 
+Conducts thorough testing to verify the functionality and performance of the model. 
+Final Report and Presentation (1 mark) 
+ 
+Submits a comprehensive final report detailing the project, including objectives, design, 
+methodology, analysis, and results. 
+ 
+Clearly presents the project and its outcomes, and effectively communicates the key points. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24marks) 
+ 
+2 questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+ 
+Each question can have a maximum of 3 
+sub divisions.  
+ 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Illustrate the basic concepts of neural networks 
+K2 
+CO2 
+Train CNN models and Solve real world problems 
+K6 
+CO3 
+Create solutions for real world problems using Sequence models 
+K6 
+CO4 
+Understand the concepts of GAN 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Learning Deep Learning 
+Magnus Ekman 
+Addison -Wesley 
+2022 
+2 
+Hands-on 
+Machine 
+learning 
+with Sc-kit Learn Keras and 
+Tensorflow 
+Aurelien Geron 
+Oreilly 
+2nd Edition 
+2019 
+3 
+Dive 
+Deep 
+into 
+Machine 
+Learning 
+Astan Zhang and 
+Zachary and Alexander 
+semola 
+Cambridge University 
+Press 
+ 
+ 2019 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Deep Learning.  
+Ian Goodfellow. Yoshua 
+Bengio and Aaron 
+Courville. 
+ MIT Press 
+2016.  
+2 
+ Neural Networks and Deep 
+Learning: A Textbook.. 
+Charu C. Aggarwal. 
+Springer 
+. 2019 
+3 
+Generative Deep Learning 
+David Foster 
+OReilly 
+2022 
+4 
+Build a Large Language 
+Model  
+Sebastian Raschka  
+Manning  
+2023  
+5 
+Deep Learning with Python 
+second Edition 
+Francois chollet 
+Manning 
+2021 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://www.cse.iitm.ac.in/~miteshk/CS6910.html      
+2 
+https://cs231n.github.io/ 
+3 
+https://wiki.pathmind.com/lstm 
+ 
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/ 
+ 
+4 
+https://jalammar.github.io/illustrated-transformer/  Jay Almar 
+ 
+
+ 
+ 
+SEMESTER S8 
+MECHATRONICS

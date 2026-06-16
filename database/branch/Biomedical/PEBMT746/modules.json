@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Preliminary Concepts: Reasons for studying concepts of programming\nlanguages, programming domains, language evaluation criteria, influences\non language design, language categories, language design trade-offs,\nimplementation methods, programming environments, Evolution of Major\nProgramming Languages.\nSyntax and Semantics: General problem of describing syntax, formal\nmethods of describing syntax, attribute grammars, describing the meanings\nof programs",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Names, Bindings, and Scopes: Introduction, names, variables, concept of\nbinding, scope, scope and lifetime, referencing environments, named\nconstants.\nData types: Introduction, primitive, character, string types, user defined\nordinal types, array, associative arrays, record, tuple types, list types, union\ntypes, pointer and reference types, type checking, strong typing, type\nequivalence\nExpressions and Statements: Arithmetic expressions, overloaded operators,\ntype conversions, relational and Boolean expressions, short- circuit\nevaluation, assignment statements, mixed mode assignment\nControl Structures – introduction, selection statements, iterative statements,\nunconditional branching, guarded commands.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Subprograms: Fundamentals of subprograms, design issues for subprograms,\nlocal referencing environments, parameter passing methods, parameters that\nare subprograms, calling subprograms indirectly, overloaded subprograms,\ngeneric subprograms, design issues for functions, user defined overloaded\noperators, closures, co routines.\nImplementing subprograms: General semantics of calls and returns,\nimplementing simple subprograms, implementing subprograms with stack-\ndynamic local variables, nested subprograms, blocks, implementing dynamic\nscoping.\nAbstract Data types: The concept of abstraction, introductions to data\nabstraction, design issues, language examples, parameterized ADT,\nencapsulation constructs, naming encapsulations",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Object Oriented Programming: Design issues for OOP, OOP in Smalltalk,\nC++, Java, Ada 95, Ruby, Implementation of Object-Oriented constructs.\nConcurrency: Introduction, introduction to subprogram level concurrency,\nsemaphores, monitors, message passing, Ada support for concurrency, Java\nthreads, concurrency in functional languages, statement level concurrency.\nException Handling and Event Handling: Introduction, exception handling in\nAda, C++, Java, introduction to event handling, event handling with Java and\nC#.\nScripting Language: Pragmatics, Key Concepts, Case Study : Python –\nValues and Types, Variables , Storage and Control, Bindings and Scope,\nProcedural Abstraction, Data Abstraction, Separate Compilation, Module\nLibrary.",
+    "contact_hours": "9"
+  }
+]

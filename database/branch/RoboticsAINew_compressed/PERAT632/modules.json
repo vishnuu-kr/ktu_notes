@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Adaptive Control – Introduction, block diagram, adaptive systems – 4\napproaches with block diagrams, applications of adaptive control,\nimportance of adaptive control, Robust Adaptive control – overview, robust\ncontrol laws",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Deterministic Self tuning regulators (STR): Pole placement design, Indirect\nself tuning regulators, Continuous time self tuners, Direct self tuning\nregulators, disturbances with known characteristics",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Stochastic and Predictive Self tuning regulators:  Design of minimum\nvariance and moving average controllers Stochastic self tuning regulators,\nUnification of direct self tuning regulators. Linear quadratic STR, adaptive\npredictive control",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Model reference adaptive control (MRAS): The MIT Rule, Determination of\nadaptation gain, Lyapunov theory, Design of MRAS using Lyapunov theory,\nBIBO stability, Output feedback, Relations between MRAS and STR",
+    "contact_hours": "9"
+  }
+]

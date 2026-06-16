@@ -1,0 +1,98 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "History of road and off-road vehicle system dynamics. Vehicle coordinate systems- vehicle fixed coordinates system",
+      "earth fixed coordinate system",
+      "SAE coordinate system. Fundamental approaches to vehicle dynamics modelling lumped mass",
+      "vehicle fixed coordinate system",
+      "motion variables",
+      "Euler angles",
+      "forces",
+      "Newton’s second law. Modelling and simulation of dynamic behaviour of vehicle",
+      "motion analysis",
+      "force analysis",
+      "and energy analysis using software (simple models). Performance of road vehicles: Forces and moments on vehicle",
+      "equation of motion",
+      "tire forces",
+      "rolling resistance",
+      "weight distribution",
+      "tractive effort/tractive resistance and power available from the engine/ power required for propulsion",
+      "road performance curves- acceleration",
+      "grade ability",
+      "drawbar pull and the problems related to these terms"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Calculation of maximum acceleration braking torque",
+      "braking force",
+      "brake proportioning",
+      "braking efficiency",
+      "stopping distance",
+      "load distribution (three wheeled and four wheeled vehicles",
+      "calculation of acceleration",
+      "tractive effort and reactions for different drives",
+      "Stability of a vehicle on slope",
+      "Problems related to these). Weight transfer during acceleration",
+      "cornering and braking MATLAB simulation for longitudinal dynamic response during acceleration and braking of automotive system. Vehicle dynamic Control",
+      "modelling of actuators",
+      "sensors for automobile control",
+      "sensors for detecting vehicle environment",
+      "central tyre inflation system. Prediction of vehicle performance. ABS",
+      "stability control",
+      "traction control"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Introduction to lateral dynamics - Development of lateral forces. slip angle",
+      "cornering force",
+      "cornering stiffness",
+      "pneumatic trail",
+      "self-aligning torque",
+      "power consumed by tire",
+      "tire stiffness",
+      "hysteresis effect in tires",
+      "steady state handling characteristics. yaw velocity",
+      "lateral acceleration",
+      "curvature response & directional stability. Stability of a rigid vehicle and equations of motion of a rigid vehicle",
+      "cross wind handling",
+      "the problems related to these terms. MATLAB simulation for lateral dynamic response during cornering of automotive system. Stability of a vehicle on a curved track and a banked road. gyroscopic effects"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Introduction to vertical dynamics - Human response to vibrations",
+      "classification of vibration",
+      "specification and vibration",
+      "sources of vibration",
+      "suspension systems",
+      "Modal Analysis",
+      "One DOF",
+      "two DOF",
+      "free and forced vibration",
+      "damped vibration",
+      "magnification and transmissibility",
+      "body vibrations: bouncing and pitching. doubly conjugate points (only basic idea). body rolling. roll centre and roll axis",
+      "roll axis and the vehicle under the action of side forces",
+      "stability against body rolling. Vehicle dynamics and suspension design for stability. Design and analysis of passive",
+      "semi-active and active suspension using quarter car",
+      "half car and full car model. Matlab simulation for vertical dynamic response to analyze ride",
+      "pitch and roll of automotive system",
+      "Matlab simulation for Half Car Model",
+      "Matlab simulation for Quarter Car Model"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

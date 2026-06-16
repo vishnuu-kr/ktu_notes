@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Neural networks, Perceptron model-Single layer perceptron\nand Multi-layer perceptron, Activation functions-Sigmoid, Tanh and ReLu,\nMcCulloch & Pitts model, Back propagation, The Problem of Overfitting,\nVanishing and exploding gradient problems, Difficulties in convergence,\nLocal and spurious optima.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to Deep Learning Bayesian Learning, Decision Surfaces , Deep\nfeed forward network, Training deep models, Optimization  techniques -\nGradient Descent (GD), GD with momentum, Nesterov accelerated GD,\nStochastic  GD, AdaGrad, RMSProp, Adam. Regularization Techniques - L1\nand L2 regularization, Early stopping, Dataset augmentation, Parameter\nsharing and tying, Injecting noise at input, Ensemble methods, Dropout,\nParameter initialization",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to convolution neural networks– Convolution, pooling,\narchitecture, Convolution and Pooling as an infinitely strong prior, variants\nof convolution functions, structured outputs, data types, efficient convolution\nalgorithms.",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Recurrent neural networks – Computational graphs, RNN design, encoder –\ndecoder sequence to  sequence architectures, deep recurrent networks,\nrecursive neural networks, modern RNNs LSTM . Recent Trends in Deep\nLearning Architectures, Residual Network, Skip Connection Network, Fully\nConnected CNN etc",
+    "contact_hours": "11"
+  }
+]

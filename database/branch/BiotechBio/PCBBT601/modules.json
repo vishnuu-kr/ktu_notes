@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to process control with the help of examples of a tank\nheater system- different control strategies- feedback, feed forward,\ninferential.\nGeneral modeling principles- Classification of variables in process control.\nImportance of state variables, state equations and degrees of freedom\nTools for solving models- Laplace Transforms: Definition of the Laplace\ntransform. Laplace transforms of some basic forcing functions - step,\nexponential, ramp, sinusoidal, cosine, pulse, impulse and translated\nfunctions, Laplace transform of derivatives and integrals, initial value\ntheorem and final value theorem. Numerical problems\nExample- Theoretical model development of tank heater system – input-\noutput model and its solution.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Transfer functions and their general characteristics -  Transfer functions\nof SISO systems - A general first order and second order systems.\nDevelopment of transfer function models for first order systems - First\norder systems and its general characteristics, Development of transfer\nfunction models for first order systems- a continuous single tank (mass\nstorage) system and a mercury in glass thermometer system (only linear\nsystems). Dynamics of a first order system for step and impulse input.\nDevelopment of transfer function models for second order systems –\nmulti-capacity systems - two tanks connected in series, inherently second\norder systems - damped vibrator, first order system in the presence of a\ncontroller.  Dynamics of second order systems - General characteristics of\nunder damped, over damped and critically damped systems.\nNumerical problems – Numerical Problems on overshoot, decay ratio,\nperiod of oscillation, ultimate value and maximum value. Numerical\nproblems on transfer functions and dynamic response of first and second\norder systems",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Hardware elements of a control system- Explanation with the help of an\nexample temperature control set up for a bioreactor.\nInstrumentation - Final control elements, Measuring devices for flow,\ntemperature, pressure, level, pH, Dissolved Oxygen\nTransfer function of components of feedback loop - Transfer functions of\nmeasuring devices, transmission lines and final control elements (pneumatic\ncontrol valves and control valve characteristics). Dead time processes. Types\nof feedback controllers. Control laws and transfer functions of P, PI and PID\ncontrollers.\nDynamic behaviour of feedback-controlled processes. Difference between\nopen loop and closed loop control system. Closed loop transfer function for\nfeedback (positive and negative) processes. Servo and regulatory responses\ndue to the presence of   proportional control, integral control, derivative\ncontrol action and composite control on the response of a feedback-\ncontrolled process.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Frequency response characteristics using substitution rule and their\ngraphical representations - General linear system, dead time process, pure\ncapacitive process, feedback controllers-P, PI, PD and PID controllers.\n(General representation of frequency response of typical transfer functions\nusing BODE plot is only expected and no problems are expected)\nStability analysis of feedback systems: Notion of stability, Stable and\nunstable systems, BIBO stability, Prediction of stability of transfer function\nfor open loop and closed loop systems based on transfer function analysis.\nThe characteristic equation, Routh Hurwitz criterion for stability. Cross over\nfrequency, Gain and Phase margin. Bode stability criterion, Nyquist stability\ncriterion. Numerical examples on Routh analysis, Cross over frequency, GM,\nPM.\nDesign of feedback controllers: Semi empirical tuning techniques -CC and\nZN Tuning. Numerical problems based on semi empirical tuning rules.\nIntroduction to other methods of Controller tuning- Internal Model\nControl (IMC) Tuning, Model Predictive Control (MPC), Fuzzy Logic PID\nTuning, Adaptive PID Control (No detailed study is required on these topics.\nA basic overview would be sufficient)",
+    "contact_hours": "11"
+  }
+]

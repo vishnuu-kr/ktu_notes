@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Wheeled Mobile Robots, Wheeled locomotion: The design\nspace, wheeled locomotion: Case studies. Mobile manipulators, Legged\nMobile Robots- Leg configurations and stability, Examples of legged robot\nlocomotion, aerial robots, underwater robots and surface water robots",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Kinematic model: of a differential drive and a steered mobile robot,\ndegree of freedom and maneuverability, Degree of steerability, different\nwheel configurations, holonomic and non-holonomic robots.\nDynamics of mobile robot: Lagrange-Euler method, Newton-Euler\nmethods, Differential-Drive WMR, Dynamics of WMR with Slip, Car-\nLike WMR Dynamic Model, Three-Wheel Omnidirectional Mobile Robot",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Sensors for mobile robot navigation: Sensor classification, Characterizing\nsensor\nperformance,\nWheel\n/motor\nsensors,\nHeading\nsensors,\nAccelerometers,\nIMUs,\nGround-based\nbeacons,\nActive\nranging,\nMotion/speed sensors, and Vision-based sensors.\nRobot navigation: Localization, Error propagation model, Probabilistic map-\nbased localisation-Kalman method, Autonomous map building, Simultaneous\nlocalization and mapping (SLAM).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Path Planning: local vs global path planning, Graph search, Potential field-\nbased path planning; Map based path planning- Dijkstra’s algorithm, A*, D*\nalgorithms.\nObstacle avoidance- Bug algorithm, Vector field histogram, Dynamic\nwindow approach.\nControl of mobile robots: Control of differential drive robot and steered\nrobot based on its kinematic model, Case study- design and implementation\nof a differential drive robot capable of moving to a point, following a line and\nfollowing a path.",
+    "contact_hours": "9"
+  }
+]

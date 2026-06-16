@@ -1,0 +1,62 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "A canonical SoC Design",
+      "SoC Design flow - Waterfall vs spiral",
+      "Top-down vs Bottom up",
+      "Specification requirement",
+      "Types of specification",
+      "System design process",
+      "System level design issues- Soft IP vs Hard IP"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Contents of a design specification",
+      "Top level Macro Design",
+      "Top level Macro Design Process",
+      "Activities and tools",
+      "Subblock design",
+      "Macro integration",
+      "Soft macro productization"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Overview of coding guidelines",
+      "Guidelines for clocks and resets - Mixed clock edges",
+      "Clock buffers",
+      "Gated clocks",
+      "Internally generated clocks",
+      "Gated clocks",
+      "Internally generated resets"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Design issues for hard macros - Design for test",
+      "Clock and reset",
+      "Aspect ratio",
+      "Porosity",
+      "Pin placement",
+      "Power distribution. The hard macro design process",
+      "Block integration for hard macros",
+      "Productization for hard macros",
+      "Model development for hard macros",
+      "Soft macro deliverables",
+      "Hard macro deliverables"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "X- Ray Imaging: Basic principles of image formation, Block diagram of an\nX-Ray machine, Digital radiography - Basic principles X-Ray Computed\nTomography: Basic principles, Contrast scale, Different generations of CT\nscanners, Basic principles of image reconstruction.\nUltrasonic Imaging: Physical principles, Transducer parameters, Different\nmodes - A-mode, M-mode (echocardiograph), B-mode, Principles of Doppler\nultrasonic imaging. Magnetic Resonance Imaging: Principles of MRI, T1\nweighted images, T2 weighted images, Proton density weighted images,\nApplications of MRI Nuclear Medicine Imaging Modalities: Emission\nComputed Tomography- SPECT & PET",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Image Perception: MTF of the visual system, Monochrome vision model,\nColor vision model - HSI model, Image sampling and quantization.\nImage Transforms: Two dimensional orthogonal and unitary transforms,\nProperties of unitary transforms- DCT, KL Transform",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Image Enhancement in Spatial Domain: Grey level transformations,\nHistogram processing - Histogram equalization and modification, Smoothing\nand sharpening spatial filters, Zooming and interpolation.\nImage Enhancement in Frequency Domain: Filtering- low pass, high\npass, band pass and band stop filters, Homomorphic filter",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Image Restoration: Inverse filtering, Wiener filtering.\nImage Segmentation: Detection of discontinuities- Point, line, edge, canny\nedge detector. Edge linking - Hough Transform. Segmentation based on\nthresholding - Basic global thresholding, variable thresholding. Region based\nsegmentation- region growing, region splitting and merging",
+    "contact_hours": "9"
+  }
+]

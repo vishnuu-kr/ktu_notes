@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Big data, Conventional Data vs Big data, Big data architecture,\nBig data platforms, Nature of data, Analytic processes and tools, 5 V’s of Big\ndata, Big data analytical method, Intelligent data analysis, Big data analytics\nlife cycle. Introduction to stream concepts – Streaming data architecture,\nStream data model, Sampling techniques for efficient stream processing,\nFiltering streams – Bloom filter, Count distinct problem– Flajolet martin\nalgorithm, Estimating moments, Counting oneness in a window – DGIM\nAlgorithm.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "History of Hadoop, Hadoop Ecosystem, Core Components, HDFS-\nArchitecture, Using HDFS Files, HDFS Design, Blocks, Name nodes and Data\nnodes, Basic File system Operations, Hadoop Specific File Types, Anatomy\nof a file read, Anatomy of a file write. Data Processing with MapReduce:\nExecution Pipeline, Runtime Coordination and Task Management in\nMapReduce, Designing MapReduce implementations: Using MapReduce as a\nframework for parallel processing, Example-Road Enrichment.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "PIG: Introduction to PIG, Execution Modes of Pig, Comparison of Pig with\nDatabases, Grunt, Pig Latin, User Defined Functions, Data Processing\noperators. Hive: Hive Shell, Hive Services, Hive Metastore, Comparison with\nTraditional Databases, HiveQL, Tables, Querying Data and User Defined\nFunctions. Hbase: HBasics, Concepts, Clients, Example, Hbase Versus\nRDBMS.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to R – Overview of modern data analytic tools, Introduction to R,\nR Graphical User Interfaces - Features of R Language, Vectors, Filtering,\nCreating Matrices, Applying Functions to Matrix Rows and Columns, Lists,\nCreating List, General List Operations, Data Frames, Creating Data Frames,\nMatrix like Operations in Frames, Applying Functions to Data Frames,\nReading and Writing Files.",
+    "contact_hours": "9"
+  }
+]

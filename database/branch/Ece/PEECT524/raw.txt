@@ -1,0 +1,260 @@
+Course Code 
+PEECT524 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Programming in C 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce ARM Cortex M programming in assembly and C 
+2. To lay the foundation for practical embedded system design 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Embedded C: Fixed-width integer data types in C99, boolean type, mixing 
+types, manipulating bits in memory and IO ports, accessing memory mapped 
+IO using pointers, structures, packed structures, bit fields, casting address of 
+an object, unions. 
+[1] Ch. 4 
+Review of computer organization: Memory, CPU, IO, Introduction to  Arm 
+cortex M architecture: Internal organization-general purpose and special 
+registers, instruction pipelining, memory model, bit banding, Arm assembly 
+language instruction format and operands 
+[1] Ch. 5 
+ 
+9 
+2 
+Arm assembly language programming: Loading constants into registers, 
+loading memory data into registers, storing data from registers to memory, 
+converting C assignment statements to assembly, memory address 
+calculations, Memory addressing examples: translating C pointer expressions 
+to assembly, translating C subscript expressions to assembly, translating 
+structure references to assembly, Stack instructions, data processing 
+instructions: updating flags in APSR, arithmetic instructions, bit 
+ 
+9 
+
+ 
+ 
+manipulation instructions, shift instructions, bit field manipulation 
+instructions 
+[1] Ch. 6 
+3 
+Control structures in assembly language: instruction sequencing, conditional 
+branch instructions, translating if-then and if-then-else statements to 
+assembly, compound conditionals, implementing loops, speeding up array 
+access, Implementing functions: function call and return, register usage, 
+parameter passing, return values, temporary variables, preserving registers 
+[1] Ch. 7. 
+9 
+4 
+IO programming in assembly: Interrupts and exceptions, thread and handler 
+modes, entering the exception handler, returning from exception handler, 
+latency 
+reduction 
+techniques, 
+priorities 
+and 
+nested 
+exceptions, 
+synchronization, transfer rate and latency, buffers and queues, double 
+buffering, polled waiting loops, interrupt driven IO, DMA 
+[1] Ch. 8. 
+System initialization: Memory layout, cpu and vector table, C run-time 
+environment, System Timer 
+[1] Ch. 13 
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+ 
+
+ 
+ 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Use the features of C that are frequently used in embedded systems 
+K3 
+CO2 
+Explain a programmer’s view of processor architecture  
+K2 
+CO3 
+Choose between programming at the level of assembly or C as 
+appropriate 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals 
+of 
+Embedded 
+Software with the ARM Cortex 
+M3 
+Daniel W Lewis 
+Pearson 
+2e, 2015 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3
+2
+3
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3
+2
+3
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3
+2
+3
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The Definitive Guide to ARM 
+Cortex-M3 
+and 
+Cortex-M4 
+Processors 
+Joseph Yiu 
+Elsevier 
+3e, 2014 
+2 
+Embedded systems with ARM 
+Cortex M Microcontrollers in 
+Assembly and C 
+Yifeng Zhu 
+E-man Press 
+3e, 2018 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/117/106/117106111/ 
+2 
+https://archive.nptel.ac.in/courses/106/105/106105193/ 
+3 
+https://onlinecourses.nptel.ac.in/noc22_cs93/preview 
+
+ 
+ 
+SEMESTER S5 
+HIGH SPEED DIGITAL DESIGN

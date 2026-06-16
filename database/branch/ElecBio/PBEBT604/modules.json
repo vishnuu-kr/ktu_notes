@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Image perception -MTF of the visual system –monochrome vision models -\ncolor vision model. Image sampling and quantization: Two-dimensional\nsampling theory, Image quantization - uniform quantizer. Image transforms -\nTwo dimensional orthogonal and unitary transforms - properties of unitary\ntransforms, 2D DFT, DCT, Hadamard, Haar, KL transforms.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Image enhancement: contrast enhancement, clipping and thresholding -\ndigital negative, intensity level slicing - bit extraction. Histogram processing,\nMagnification and interpolation. Image Enhancement in Spatial domain:\nSmoothing and sharpening operations in time domain, Filtering in frequency\ndomain: Smoothing and sharpening frequency domain filters, Homomorphic\nfiltering.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Image restoration: Image degradation, Noise, Blurring, Modelling image\ndegradation, Inverse filtering, Wiener filtering. Image segmentation-\nThresholding- optimal, adaptive, Region-based methods- region growing and\nregion merging, Boundary-based methods- edge detection and linking,\nboundary tracking.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Feature recognition and classification: Features - describing the contents\nand the shape of objects. Classification- Supervised and unsupervised\nlearning. Discriminant analysis, k-nearest-Neighbor (kNN) classifier.\nUnsupervised- k-means clustering. Deep Learning for Medical Image\nAnalysis, Convolutional Neural Networks. Image fusion for hybrid imaging,\nSuper resolution imaging.\nSuggestion on Project Implementation\n● In the first class, students shall be given an awareness and/ or guidelines on how to implement\nand learn this course through a project and are asked to form groups of maximum five\nmembers in the first week.\n● Each group should identify a project where different image processing techniques can be used\nfor biomedical image processing applications and perform a literature survey.\n● Choose a suitable dataset, proper processing techniques and suitable machine learning, deep\nlearning or computer vision algorithms for your application.\n● Develop the block diagram, the algorithms, the flowchart and necessary codes and present\nthem before the jury within the first month after the commencement of classes.\n● Implement the necessary algorithms.\n● Prepare a report and present before the jury for final evaluation.",
+    "contact_hours": "9"
+  }
+]

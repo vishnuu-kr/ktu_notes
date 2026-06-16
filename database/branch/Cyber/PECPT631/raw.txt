@@ -1,0 +1,283 @@
+Course Code 
+PECPT631 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCCPT302 
+Course Type 
+Theory 
+Course Objectives: 
+1. To understand RISC and ARM Design Philosophy 
+2. To gain in-depth knowledge of the ARM core data flow model. 
+3. To explore THUMB and ARM Programming 
+4. To provide a detailed understanding of exception handling in ARM processors 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+ARM Embedded Systems and ARM Processor Fundamentals: The RISC 
+design philosophy, ARM design philosophy, embedded system hardware- 
+AMBA bus protocol, embedded system software- applications. ARM core 
+data flow model, Registers, CPSR-Processor modes, Banked registers. 
+Pipeline- Characteristics. 
+9 
+2 
+ARM Instruction Set: Fundamentals of ARM instructions, Barrel shifter, 
+Classification and explanation of instructions with examples-Data 
+processing, Branch, Load-store, SWI and Program Status Register 
+instruction. 
+9 
+3 
+Introduction to THUMB and ARM Programming: Introduction to 
+THUMB, Differences between ARM and THUMB, Register usage in 
+Thumb, ARM Thumb Interworking. General Structure of ARM assembly 
+module, Assembler directives- AREA, ENTRY, END, SPACE, DCD, DCB, 
+DCW, DCI, DCQ, EQU, EXPORT, ALIGN, CODE16, CODE32, DATA. 
+Simple ALP programs on Arithmetic & logical operations, Factorial, string 
+operation, sorting, searching, and Scan 
+9 
+
+ 
+4 
+Exception and Interrupt handling schemes: Exception handling- ARM 
+processor exceptions and modes, vector table, exception priorities, link 
+register offsets. Interrupts- assigning interrupts, interrupt latency, IRQ and 
+FIQ exceptions with example- code for enabling and disabling IRQ and FIQ 
+exceptions, Comparison between exception and interrupts. Interrupt handling 
+schemes- nested interrupt handler, non-nested interrupt handler. Basic 
+interrupt stack design. 
+9 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge Level 
+(KL) 
+CO1 
+Describe the RISC design philosophy and ARM processor architecture. 
+K2 
+CO2 
+Understand and explain the ARM core data flow model, including 
+registers, CPSR, processor modes, and pipeline characteristics. 
+K2 
+CO3 
+Develop and debug assembly language programs using ARM and 
+THUMB instructions. 
+K3 
+CO4 
+Explain the concepts of exception and interrupt handling in ARM 
+processors and implement related schemes in assembly language. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+ARM System Developer’s 
+guide 
+Andrew N. SLOSS 
+ELSEVIER 
+Publications,ISBN 
+978-81-8147-646-3 
+2016 
+2 
+ARM Assembly Language  
+William Hohl, 
+CRC Press, 
+ISBN:978-81-89643-
+04-1 
+2e, 2014 
+3 
+ARM System-on-chip 
+Architecture  
+Steve Furber 
+Pearson 
+EducationISBN978-
+81- 317-0840-8 
+2e, 2012 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+CO2 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+CO3 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+CO4 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+http://www.ocfreaks.com/lpc2148-
+gpio-programming-tutorial/ 
+ 
+ 
+ 
+2 
+http://www.ocfreaks.com/lpc214x-
+pll-tutorial-for-cpu-and-
+peripheral-clock/ 
+ 
+ 
+ 
+3 
+http://www.ocfreaks.com/lpc2148-
+pwm-programming-tutorial/ 
+ 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No.
+Link ID  
+1 
+https://nptel.ac.in/courses/108105102 
+2 
+https://nptel.ac.in/courses/108105102 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+SEMESTER S6 
+NETWORKED CONTROL SYSTEMS

@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Adaptive Control - Introduction",
+            "block diagram",
+            "adaptive systems - 4 approaches with block diagrams",
+            "applications of adaptive control",
+            "importance of adaptive control",
+            "Robust Adaptive control - overview",
+            "robust control laws"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Pole placement design",
+            "Indirect self tuning regulators",
+            "Continuous time self tuners",
+            "Direct self tuning regulators",
+            "disturbances with known characteristics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Design of minimum variance and moving average controllers Stochastic self tuning regulators, Unification of direct self tuning regulators",
+            "Linear quadratic STR, adaptive predictive control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "The MIT Rule",
+            "Determination of adaptation gain",
+            "Lyapunov theory",
+            "Design of MRAS using Lyapunov theory",
+            "BIBO stability",
+            "Output feedback",
+            "Relations between MRAS and STR"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

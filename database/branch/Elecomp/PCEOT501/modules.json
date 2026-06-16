@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Microprocessors and Microcontrollers-comparison of\nmicroprocessors and microcontrollers-Introduction to Embedded Systems-\nApplication domain of embedded systems, features and characteristics, hard\nand soft real time systems\n8051-Microcontrollers Hardware: Microcontroller Architecture: IO Port\nstructure, Register organization, general purpose RAM, Bit Addressable\nRAM, Special Function Registers (SFRs).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Assembly programming of 8051: Introduction to8051\nassembly\nprogramming, Data types and Assembler directives, 8051 Addressing\nModes, simple Assembly language programs(data transfer and arithmetic\noperations only)\n8051 programming in C: Data types and time delay in 8051, I/O\nprogramming in 8051\n8051 Timer/Counter programming in embedded C: Programming 8051\ntimers, Counter programming,",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "8051 serial port programming in embedded C: Basics of serial\ncommunication, 8051 connections to RS232, serial port programming in\n8051.\n8051 Interrupt programming in embedded C: 8051 interrupts, external\nhardware and serial communication interrupt, Interrupt priority in 8051,\nInterrupt programming in C.\nInterfacing:  LCD, ADC & DAC. Motor control: Relays and, stepper motor\ninterfacing, DC motor interfacing and PWM using 8051",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to ARM processors –ARM core-ARM Microcontroller-RISC\nvs\nCISC-Advanced\nfeatures\nof\nARM-Architecture\nversions-ARM\nArchitecture-Instruction set architecture, operating modes, register set,\nGeneral purpose registers- mode switching, conditional flags, Simple ALP\nprograms on Arithmetic & logical operation, addition, subtraction,\nmultiplication, division and factorial.",
+    "contact_hours": "12"
+  }
+]

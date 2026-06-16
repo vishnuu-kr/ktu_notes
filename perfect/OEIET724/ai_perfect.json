@@ -1,0 +1,83 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Concepts of a System",
+            "System Environment",
+            "Continuous and Discrete Systems",
+            "System Models",
+            "Areas of Application of Simulation",
+            "Steps in Discrete Event Simulation Study",
+            "Random Numbers: Properties of Random Numbers",
+            "Generation of Pseudo-Random Numbers",
+            "Random Number Generators",
+            "Tests for Random Numbers: Frequency and Poker Tests",
+            "Test for Autocorrelation",
+            "Monte Carlo Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Generation of Random Variates",
+            "Inverse Transformation Method for Exponential, Uniform, Weibull, Triangular, and Discrete Distributions",
+            "Direct Transformation Method for Normal and Lognormal Distributions",
+            "Acceptance-Rejection Technique for Poisson and Gamma Distributions",
+            "Input Modelling: Data Collection",
+            "Identifying the Distribution with the Collected Data",
+            "Goodness of Fit Tests",
+            "Selecting Input Models Without Data",
+            "Verification and Validation of Simulation Models",
+            "Output Data Analysis",
+            "Variance Reduction Techniques",
+            "Time Advance Mechanisms for Discrete Event Simulation: Next-Event Time Advance and Fixed Increment Time Advance Methods"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Evolution of System Dynamics as a System Enquiry Methodology - General Systems Theory",
+            "Cybernetics",
+            "The Systems Approach",
+            "System Dynamics Approach",
+            "Elements of System Dynamics: Modelling",
+            "Physical Flows",
+            "Information Flows",
+            "Level and Rate Variables",
+            "Delays",
+            "Information Smoothing",
+            "Table Functions and Table Function Multipliers",
+            "Causal Loop Diagramming",
+            "Flow Diagrams",
+            "Steps for Modelling in System Dynamics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Analytical Approach to Behaviour of Linear Low-Order Systems - First Order Positive and Negative Feedback Systems",
+            "Pure Second Order Positive and Negative Feedback Systems",
+            "Fundamental Modes of Dynamic Behaviour - Exponential Growth",
+            "Goal Seeking",
+            "Oscillation",
+            "Interactions of Fundamental Modes",
+            "System Dynamics Modelling: Principles of Simulation Modelling",
+            "Developing Model Equations",
+            "Algorithm for Euler Integration",
+            "Hand Simulation of System Dynamics Models",
+            "S-Shaped Growth",
+            "Epidemics",
+            "Innovation Diffusion and Growth of New Products",
+            "Overview of Software Packages for System Modelling and Simulation",
+            "Case Studies"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

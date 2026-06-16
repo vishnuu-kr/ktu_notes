@@ -1,0 +1,72 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Setting up R and RStudio",
+            "overview of the R ecosystem",
+            "installing and loading R packages",
+            "getting help with R. Basic syntax and operations",
+            "introduction to R script",
+            "Basic data types",
+            "reading data into R",
+            "vectors",
+            "matrices and arrays",
+            "data frames",
+            "lists",
+            "factors and tables"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Functions",
+            "control statements and loops",
+            "math functions",
+            "simulation in R",
+            "object-oriented programming - S3 classes",
+            "S4 classes",
+            "R6 classes",
+            "input and output",
+            "reading and writing files",
+            "debugging",
+            "performance enhancement",
+            "parallel R. Rcpp: setup",
+            "basic syntax",
+            "writing functions",
+            "and interfacing. Optimize R performance with C++ for statistical computations and data processing. Develop",
+            "compile",
+            "and debug Rcpp modules",
+            "enhancing R code efficiency for real-world applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Group manipulation - apply family, aggregate, plyr, data table, faster group manipulation with dplyr-pipes, tbl, select, filter, slice, mutate, summarize, group by, arrange, do",
+            "iterating with purr, data reshaping, tidyverse, string manipulation, manipulating time series data with xts and zoo packages"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Probability distributions",
+            "exploratory data analysis",
+            "creating and customizing graphs",
+            "inferential statistics",
+            "parametric and nonparametric inference",
+            "linear regression models -simple and multiple regression",
+            "generalized linear models",
+            "experimental designs",
+            "multivariate statistical analysis",
+            "time series analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

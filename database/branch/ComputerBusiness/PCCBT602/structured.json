@@ -1,0 +1,72 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Basics of Security and Traditional Cryptosystems OSI security architecture - Security attacks",
+      "Services",
+      "Mechanisms. Cryptography vs Cryptanalysis. Classical encryption techniques - Symmetric cipher model. Substitution ciphers - Monoalphabetic vs Polyalphabetic ciphers",
+      "Caesar cipher",
+      "Affine cipher",
+      "Playfair cipher",
+      "Vigenere cipher",
+      "Hill cipher. Transposition ciphers - Keyless",
+      "Keyed",
+      "Double transposition"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Modern Symmetric Key Cryptosystems Symmetric key ciphers - Block vs Stream ciphers",
+      "Block cipher components",
+      "Product ciphers",
+      "Feistel and Non-Feistel ciphers. Data Encryption Standard (DES) - Structure",
+      "Key generation",
+      "Design criteria",
+      "Weaknesses",
+      "Double DES",
+      "Triple DES. Advanced Encryption Standard (AES) - Structure",
+      "Key expansion. Block cipher modes of operation - Electronic Codebook Mode (ECB",
+      "Cipher Block Chaining Mode (CBC",
+      "Cipher Feedback Mode (CFB",
+      "Output Feedback Mode (OFB",
+      "Counter Mode (CTR). Stream ciphers - Structure"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Public Key Cryptosystems Introduction to public key cryptosystems - Principles",
+      "Applications",
+      "Requirements",
+      "Conventional vs public key cryptosystems. RSA cryptosystem - Algorithm",
+      "Security",
+      "Attacks. ElGamal cryptosystem - Algorithm. Diffie-Hellman key exchange - Algorithm",
+      "Man-in-the middle attack. Elliptic Curve Cryptography (ECC) - ElGamal ECC",
+      "Key exchange using ECC"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Access Control Principles - Subjects",
+      "Objects",
+      "and Access Rights - Unix File Access Control",
+      "Role-Based Access Control",
+      "Attribute-Based Access Control. System security: Intruders",
+      "Intrusion detection techniques",
+      "Password management. Malicious software - Viruses",
+      "Related threats",
+      "Countermeasures. Distributed Denial of Service (DDoS) attacks - Types",
+      "Countermeasures"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

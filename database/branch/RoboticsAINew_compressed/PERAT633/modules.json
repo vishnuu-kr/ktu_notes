@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Process Control Loops: Feedback control, feed forward control, Cascade\ncontrol, Ratio control, Split range control. Computerized control: Basic\nbuilding blocks of Computer controlled systems, advantages.\nProgrammable Logic Controller: Definition of PLC Architecture of PLC,\nInput and output modules, Types of inputs and outputs, analog and discrete\nI/O modules, power supply of PLCs. PLC programming languages, Ladder\nprogramming, Relay logic, Timers and counters, simple programs in PLC,\nmath operations, sequencers, program control instructions, analog\ninstructions, case studies- bottle filling system, gate control system",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Direct digital control: block diagram, multiplexers, demultiplexers, ADC,\nData Acquisitions systems.\nSCADA: SCADA Fundamentals: Introduction, Open system: Need and\nadvantages, Building blocks of SCADA systems, Remote terminal unit\n(RTU), Human-Machine Interface (HMI) subsystem.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "SCADA communication systems, Master Station: Master station software\ncomponents, Master station hardware components, Server systems in the\nmaster station, Small, medium, and large master stations, Global positioning\nsystems (GPS), software architecture of SCADA\nDistributed Control System : DCS - Architectures, Comparison, Local\ncontrol unit, Process interfacing issues, Communication facilities. Various\nfunction Blocks",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "LCU communication Facilities - Communication system requirements –\nArchitectural Issues Operator displays, Operator Interfaces – Engineering\nInterfaces. Development of Field Control Unit (FCU) diagram for simple\ncontrol applications. Introduction to HART and Field bus protocol.\nInterfacing Smart field devices (wired and wireless) with DCS controller.\nIntroduction to Object Linking and Embedding (OLE) for Process Control,\nAutomation in the cloud with case studies.",
+    "contact_hours": "9"
+  }
+]

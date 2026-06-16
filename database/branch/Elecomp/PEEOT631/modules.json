@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to R and Data Structures\nThe R Environment: Command Line Interface and Batch processing,\nR Packages, Basic Concepts: Variables, Data Types.\nData Structures: Vectors (vector operations and factor vectors), Lists\nand their operations, Data Frames, Matrices and arrays, Control\nStatements: Branching and looping (for loops, while loops, controlling\nloops), Functions: Function as arguments, Named arguments",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Data Handling and Transformation\nReading and Writing Data: Importing data from Text files and other\nsoftware, exporting data, importing data from databases (Database\nConnection packages), Handling Missing Data: NA, NULL\nData Manipulation: Combining data sets, Transformations, Binning\nData, Subsets, summarizing functions, Data Cleaning (Finding and\nremoving duplicates, Sorting)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Statistical Analysis with R\nAnalysing Data: Summary statistics, Statistical Tests: Continuous\nData, Discrete Data, Power\nProbability Distributions: Common distributions (type arguments),\nProbability distributions, Normal distributions",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Data Visualization and Regression Models\nData Visualization: R Graphics (Overview, Customizing Charts,\nGraphical parameters, Basic Graphics functions), Lattice Graphics\n(Lattice functions, Customizing Lattice Graphics), Ggplot\nIntroduction to Regression Models: Building linear models (model\nfitting, predict values using models, analysing the fit),\nRefining the model, Generalized linear models (Logistic Regression,\nPoisson Regression)",
+    "contact_hours": "9"
+  }
+]

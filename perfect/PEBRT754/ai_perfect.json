@@ -1,0 +1,38 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Reliability in Terms of",
+            "Failure Rate",
+            "Failure Density - Relation Between Reliability, Failure Density and Hazard Rate",
+            "Mean Time to Failure (MTTF)",
+            "Integral Equation of MTTF in Terms of Reliability"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Hazard Models",
+            "Constant Hazard Model",
+            "Linearly Increasing Hazard Model - Weibull Model, Expressions for Reliability, Failure Density, and Probability of Failure of These Models",
+            "Problems"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "System Reliability",
+            "Reliability Block Diagrams (RBD), Components Connected in Series",
+            "Components Connected in Parallel",
+            "Mixed Configuration",
+            "Problems, Fault Tree Analysis (FTA), Symbols Used in FTA, Fault Tree Construction, Estimation of System Reliability from Fault Tree Problems"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Reliability Improvement Methods, Redundancy, Unit Redundancies, Element Redundancies, Problems, Simplification of Design, Parts Derating, Operating Environment",
+            "Cost of Reliability, Factors to Be Considered for Optimizing the Reliability Cost, Reliability Allocation - Basic Concepts, Reliability Allocation for a Series System, Proportional to Uniform Failure Rate Method of Reliability Allocation (Other Methods Need Not Be Introduced)"
+        ]
+    }
+]

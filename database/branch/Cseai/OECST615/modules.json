@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Java - Java programming Environment and Runtime\nEnvironment (Command Line & IDE); Java compiler; Java Virtual\nMachine; Primitive Data types and Wrapper Types; Casting and\nAutoboxing; Arrays; Strings; Vector class; Operators - Arithmetic, Bitwise,\nRelational, Boolean Logical, Assignment, Conditional (Ternary); Operator\nPrecedence; Control Statements - Selection Statements, Iteration Statements\nand Jump Statements; Functions; Command Line Arguments; Variable\nLength Arguments; Classes; Abstract Classes; Interfaces; OOP Concepts -\nData abstraction, encapsulation, inheritance, polymorphism, Procedural and\nobject oriented programming paradigm; Microservices; Object Oriented\nProgramming in Java - Declaring Objects; Object Reference; Introduction\nto Methods; Constructors; Access Modifiers; this keyword.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Polymorphism - Method Overloading, Using Objects as Parameters,\nReturning Objects, Recursion; Static Members, Final Variables, Inner\nClasses. Inheritance - Super Class, Sub Class, Types of Inheritance, The\nsuper keyword, protected Members, Calling Order of Constructors; Method\nOverriding, Dynamic Method Dispatch, Using final with Inheritance.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Packages and Interfaces – Packages - Defining a Package, CLASSPATH,\nAccess Protection, Importing Packages; Interfaces - Interfaces v/s Abstract\nclasses, defining an interface, implementing interfaces, accessing\nimplementations through interface references, extending interface(s);\nException Handling - Checked Exceptions, Unchecked Exceptions, try\nBlock and catch Clause, Multiple catch Clauses, Nested try Statements,\nthrow, throws and finally, Java Built-in Exceptions, Custom Exceptions.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Swings fundamentals – Overview of AWT, Swing v/s AWT, Swing Key\nFeatures, Swing Controls, Components and Containers, Swing Packages,\nEvent Handling in Swings, Swing Layout Managers, Exploring Swings–\nJFrame, JLabel, The Swing Buttons, JTextField; Event handling – Event\nHandling Mechanisms, Delegation Event Model, Event Classes, Sources  of\nEvents, Event Listener Interfaces, Using the Delegation Event Model;\nDeveloping Database Applications using JDBC – JDBC overview, Types,\nSteps, Common JDBC Components, Connection Establishment.",
+    "contact_hours": "9"
+  }
+]

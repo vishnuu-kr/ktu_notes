@@ -1,0 +1,42 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Continuous time and discrete time systems",
+      "Properties of systems: Time invariance, Linearity, Causality, Systems with and without memory, Stability. Convolution Integral and convolution sum (graphical and any one matrix method) Impulse and step response"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Fourier transform: Existence - Properties of Continuous time Fourier transform",
+      "Concept of Frequency response",
+      "Significance of Fourier transform and difference from Fourier series-Energy spectral density and power spectral density Characterization of LTI systems: Differential equation representation of continuous time LTI systems. Transfer function representation of differential equation in Laplace domain. Modeling of LTI systems: Electrical and translational Mechanical system -transfer function model"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Sampling process",
+      "Impulse train sampling-sampling theorem- Aliasing effect. Zero-order and First-order hold circuits",
+      "Signal reconstruction. Z-transform: Stability and causality conditions using ROC. Characterization of difference equations using Z-transform. Pulse transfer function. Impulse response of discrete-time systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Delay operator and block diagram representation",
+      "Direct form, cascade and parallel representations Discrete Fourier series: Fourier representation of discrete time signals",
+      "Discrete Fourier series",
+      "properties. Discrete Time Fourier Transform: Properties- Frequency response of simple DT systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

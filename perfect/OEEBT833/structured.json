@@ -1,0 +1,56 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Two-dimensional sampling theory",
+            "Image quantization - uniform quantizer. Image transforms -Two dimensional orthogonal and unitary transforms - properties of unitary transforms",
+            "2D DFT",
+            "Hadamard",
+            "Haar",
+            "KL transforms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Image enhancement: contrast enhancement",
+            "clipping and thresholding -digital negative",
+            "intensity level slicing - bit extraction. Histogram processing",
+            "Magnification and interpolation. Image Enhancement in Spatial domain: Smoothing and sharpening operations in time domain",
+            "Filtering in frequency domain: Smoothing and sharpening frequency domain filters",
+            "Homomorphic filtering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Image degradation",
+            "Noise",
+            "Blurring",
+            "Modelling image degradation",
+            "Inverse filtering",
+            "Wiener filtering. Image segmentation-Thresholding- optimal",
+            "adaptive",
+            "Region-based methods- region growing and region merging",
+            "Boundary-based methods- edge detection and linking",
+            "boundary tracking"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Features",
+            "describing the contents and the shape of objects. Classification",
+            "Supervised and unsupervised learning. Discriminant analysis, k-nearest",
+            "Neighbor (kNN) classifier. Unsupervised- k-means clustering. Deep Learning for Medical Image Analysis, Convolutional Neural Networks. Image fusion for hybrid imaging, Super resolution imaging"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

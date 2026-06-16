@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "8051\nmicrocontroller:\nDifference\nbetween\nmicroprocessor\nand\nmicrocontroller Architecture, 8051 pin diagram; Architecture, I/O Port\nstructure, Register organization - special function registers, Memory\norganization, Instruction set, Addressing modes\nSimple Assembly language programs: Arithmetic (Addition, Subtraction,\nMultiplication & Division),Transfer a block of data from one internal\nmemory location to another.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "8051 microcontroller Programming and Peripherals.\nTimers/Counters- Serial Communication, Interrupt structure-programming.\nInterfacing of peripherals – LED (ALP and embedded C programming).\nOLED, LCD, ADC, DAC, sensors, simple Switch and keyboard interfacing,\n7 segment LED (embedded C programming).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Embedded Systems Overview\nIntroduction to Embedded Systems: Definition, Features, Simple Example\nof Embedded Systems,Applications of embedded systems-Consumer\nelectronics, Robotics, Automobiles\nEmbedded System Architecture: HW - Processor, Controller, SoC,\nMemory, Peripherals; SW - Application, Middleware, OS, Device Drivers,\nTool chain- Assembler, Interpreter, Compiler, Linker, Loader, Debugger\nEmbedded system design process: Requirement Analysis, Specification\nDevelopment, HW & SW\nCo-Design and Development, Module Integration, Testing.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Embedded System Board Study (Arduino Uno)\nArduino Uno Board: Board Study (Board level Block schematic) - Chip\n(Features only – Architecture not needed), GPIO, Memory, Programming\nInterface\nProgramming: Arduino IDE, Sample Code (LED, Switch, DC motor,\nStepper motor control), Temperature monitoring system using LM35\nTemperature sensor & Seven Segment display\nEmbedded Operating system basic concepts: Functional layers in a\ncomputer system OS terminology, Kernel Functions (Overview only), Types\nof Kernels (Monolithic kernel & Microkernel), Tasks/ Processes.",
+    "contact_hours": "9"
+  }
+]

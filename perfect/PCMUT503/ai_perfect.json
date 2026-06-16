@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Electric Vehicles",
+            "Social and Environmental Importance of Electric Vehicles",
+            "Classification Based on Propulsion System, Electric Components Used in Electric Vehicles, Block Diagram of Electric Drive, Classification of Electric Motor Drives for EV, Role of Power Electronics Converters in Electric Propulsion System - DC-DC Converters and DC-AC Converters (Basic Principles Only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "DC Motors - Principle of Operation",
+            "Back EMF",
+            "Significance of Back EMF",
+            "Voltage Equation",
+            "Power Equation",
+            "Types, Torque and Speed Equations, Torque-Speed Characteristics, Speed Control of DC Motor, Pulse Width Modulation Control of DC Motor, Principles of Starting",
+            "Losses and Efficiency, Load Test, Regenerative Braking in DC Motors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Three Phase Induction Motors - Slip Ring and Squirrel Cage Types - Principle of Operation",
+            "Rotating Magnetic Field, Torque-Slip Characteristics, No Load and Blocked Rotor Tests, Methods of Starting",
+            "Direct Online",
+            "Auto Transformer Starting, Speed Control of Induction Motors - V/f Control, FOC Control, Field Weakening Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Principles of Operation of Synchronous Motors, Methods of Starting, Working of Permanent Magnet Synchronous Motor, BLDC - Brushless DC Motor - Construction",
+            "Working Principle",
+            "Speed-Torque Characteristics of BLDC Motor, Direct Torque Control Drive of BLDC Motor for EV Application, Switched Reluctance Motor - Working Principle",
+            "Speed-Torque Characteristics, Microprocessor Based Control for SRM"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

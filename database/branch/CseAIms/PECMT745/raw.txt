@@ -1,0 +1,282 @@
+Course Code 
+PECMT745 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+40 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce the concepts and components of reinforcement learning. 
+2. To enable the learners to develop real life solutions using reinforcement learning. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction:Deep Reinforcement Learning, Suitability of Reinforcement 
+Learning, Components of Reinforcement Learning - Agent, Environment, 
+Observations, Actions.Examples - The Bandit Walk Environment, Agent-
+Environment interaction cycle. 
+Markov Decision Process (MDP):The Engine of the Environment - States, 
+Actions, Transition Function, Reward Signal. 
+8 
+2 
+Planning:Objective of a decision making agent-environment, Plan, Optimal 
+policy, Comparison of Policies, Bellman Equation/State-Value Function, 
+Action-Value Function, Action-Advantage Function, Optimality. 
+Exploitation and Exploration of Reinforcement Learning:Bandits- Single 
+State Decision Problem (Multi-Armed Bandit(MAB) problem), The cost of 
+exploration, Approaches to solve MAB environments, Greedy Strategy, 
+Random Strategy, Epsilon-Greedy Strategy, Decaying Epsilon-Greedy 
+Strategy, Optimistic Initialization Strategy, Strategic Exploration, Softmax 
+Exploration Strategy, Upper Confidence Bound (UCB) Equation Strategy, 
+Thompson Sampling Strategy. 
+10 
+
+ 
+ 
+3 
+Model Free Reinforcement Learning:Monte Carlo Prediction (MC), First-
+Visit MC (FVMC), Every-Visit MC (EVMC), Temporal Difference Learning 
+(TD), Learning to Estimate from Multiple Steps, N-step TD Learning, 
+Forward-View 
+TD(λ), 
+Backward-View 
+TD(λ), 
+Generalized 
+Policy 
+Iteration(GPI), Monte Carlo Control, SARSA: On-Policy TD control, Q-
+learning: Off-Policy TD control, Double Q-learning, SARSA(λ), Watkins’s 
+Q(λ). 
+Model Based Reinforcement Learning:Dyna-Q, Trajectory sampling 
+10 
+4 
+Value Based Reinforcement Learning:Deep Reinforcement Learning 
+Agents with Sequential Feedback, Evaluative Feedback, Sampled Feedback,  
+Function Approximation for Reinforcement Learning - High-Dimensional 
+State and Action Spaces, Continuous State and Action Spaces, State-Value 
+Function and Action-Value Function with and without Function 
+Approximation, 
+Neural Fitted Q (NFQ), Deep Q-Network (DQN), Double Deep-Q Networks 
+(DDQN), Duelling DDQN, Prioritized Experience Replay (PER). 
+8 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation(Evaluate and Analyse): 20 marks 
+Ways of assessing at  
+1. Develop a reinforcement learning-based model to autonomously navigate a drone through an 
+environment with obstacles. The drone will learn to reach a designated target location while 
+avoiding collisions and optimizing its path. The environment can be simulated in a 2D or 3D 
+space, using a platform like OpenAI Gym, ROS (Robot Operating System), or a custom 
+simulation environment. 
+2. Develop a model-free reinforcement learning agent that can autonomously park a car in various 
+parking scenarios. The agent will learn to maneuver a car into a parking spot by taking actions 
+like steering, accelerating, and braking, without prior knowledge of the environment's 
+dynamics. Use a platform like OpenAI Gym for simulation.   
+
+ 
+ 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full question 
+out of two questions 
+ 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+(8x3 =24 marks) 
+ 
+2 questions will be given from each module, 
+out of which 1 question should be answered. 
+ 
+Each question can have a maximum of 3 
+subdivisions. 
+ 
+ Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Demonstrate various Components of Reinforcement Learning 
+K2 
+CO2 
+Make use of various exploration and exploitation strategies. 
+K3 
+CO3 
+Apply Model based and Model Free Prediction techniques 
+K3 
+CO4 
+Evaluate different value based Reinforcement Learning Algorithms. 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table: 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Grokking Deep Reinforcement 
+Learning 
+Miguel Morales 
+Manning Publications 
+1/e, 2020 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Reinforcement learning: An 
+Introduction 
+Richard S. Sutton and 
+Andrew G. Barto 
+MIT Press 
+2/e, 2019 
+2 
+Reinforcement Learning, State-
+of-the-Art, Adaptation 
+Marco Wiering and 
+Martijn van Otterlo(Eds.) 
+Springer 
+1/e, 2012 
+3 
+Foundations of Deep 
+Reinforcement Learning: 
+Theory and Practice in Python 
+Laura Graesser and Wah 
+Loon Keng 
+Pearson India 
+1/e, 2022 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Sl. No. 
+Link ID  
+1 
+https://onlinecourses.nptel.ac.in/noc19_cs55/preview 
+ 
+
+ 
+ 
+SEMESTER S7 
+TOPICS IN THEORETICAL COMPUTER SCIENCE

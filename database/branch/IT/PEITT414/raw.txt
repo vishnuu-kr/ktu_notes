@@ -1,0 +1,284 @@
+Course Code 
+PEITT414 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To build an understanding of the fundamental concepts of computer graphics. 
+2. To familiarize the working principles of various display technologies. 
+3. To understand the three dimensional transformations in  graphics. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours 
+1 
+Basics of Computer Graphics and its Applications. Raster Scan & Random 
+Scan systems. Display Technologies: Overview of CRT, LCD, Plasma, LED, 
+OLED, AMOLED, E-Paper displays. 
+Output Primitives – Line Drawing Algorithms - DDA, Bresenham’s, 
+Midpoint Circle generation algorithm.  
+Filled Area Primitives – Scan Fill, Flood Fill, Boundary Fill. Inside outside 
+tests.  
+9 
+2 
+Two-dimensional 
+transformations 
+- 
+Translation, 
+Rotation, 
+Scaling, 
+Reflection and Shearing, Composite transformations, Matrix representations, 
+and homogeneous coordinates. 
+2-D Clipping- Window to viewport transformation, Point Clipping, Cohen-
+Sutherland Line Clipping Algorithm, Sutherland-Hodgeman, and Weiler-
+Atherton Polygon clipping algorithms.  
+9 
+3 
+Three-Dimensional Concepts: Three-Dimensional Display, Methods Parallel 
+Projection, Perspective Projection, Depth Cueing, Visible Line and Surface, 
+Identification, Surface Rendering, Exploded and Cutaway Views, Three-
+9 
+
+ 
+ 
+Dimensional and Stereoscopic Views  
+Three-Dimensional transformation, Translations, Scaling, Rotation, Viewing 
+Transformation, The Perspective, Algorithms, Three-Dimensional Clipping, 
+Perspective view of Cube  
+4 
+Visible Surface Detection Methods: Depth Buffer, A-Buffer, Scan line, 
+Depth sorting methods. Hidden Surface Removal: Back face detection - Z-
+buffer method - Painter's algorithm - scan-line algorithm – BSP Trees - Area 
+sub-division method - Ray tracing - Animation - Morphing.  
+Introduction to Digital Image Processing. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 
+Questions 
+from 
+each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the working principles of graphics devices. Illustrate line 
+drawing, circle drawing and polygon filling algorithms.  
+K3 
+CO2 
+Demonstrate geometric representations and transformations on 2D 
+objects.  Explain the working of line and polygon clipping algorithms 
+K3 
+CO3 
+Apply 3D transformation and viewing into the real-world applications  
+K3 
+CO4 
+Describe visible surface detection methods and digital image 
+processing. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Graphics with 
+OpenGL 
+Donald Hearn and M. 
+Pauline Baker 
+Pearson 
+4th Edition 
+2013 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Principles of Interactive 
+Computer Graphics 
+William M. Newman and 
+Robert F. Sproull 
+McGraw Hill 
+2nd Edition 
+2001 
+2 
+Computer Graphics Using 
+OpenGL
+Francis Hill Jr. 
+Pearson Education 
+3rd Edition 
+2007
+3 
+Computer Graphics 
+Programming in OpenGL with 
+C++
+V. Scott Gordon, John 
+Clevenger 
+De Gruyter 
+2024 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO2 
+3 
+3 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO4 
+3 
+3 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+ No. 
+Link ID 
+1 
+https://youtu.be/V4mP2pQyou0?si=znq_J6ES0MB03Qkm 
+2 
+https://youtu.be/8HWvyahgesY?si=1k1hCqfNE19Z00S3 
+3 
+https://youtu.be/7iYggzuo6Ks?si=G0Xnf1UA_dRRJaLf 
+4 
+https://youtu.be/b1Qpvqm0UAo?si=M6ALob-iLJ9E0i_r 
+ 
+ 
+
+ 
+ 
+SEMESTER S4  
+OPERATIONS RESEARCH

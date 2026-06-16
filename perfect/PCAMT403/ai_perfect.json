@@ -1,0 +1,69 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Neural Networks: Biological Neuron versus Artificial Neuron",
+            "The Perceptron Model",
+            "Notion of Bias and Activation Functions",
+            "Different Activation Functions: Sign Function, Sigmoid Function, Hyperbolic Tangent Function, ReLU Function, Leaky ReLU Function, Softmax Function",
+            "Architecture of Neural Networks: Feedforward and Feedback Neural Networks",
+            "Single Layer Perceptron",
+            "Linear Separability",
+            "The Perceptron Learning Algorithm and Its Convergence",
+            "The XOR Problem",
+            "Designing Simple Mathematical Functions Using Single Layer Perceptron"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Multilayer Neural Networks: Multilayer Perceptron",
+            "Representational Capability",
+            "Universal Approximation Capability",
+            "Kolmogorov's Theorem",
+            "Size versus Depth",
+            "MLP Representational Capability",
+            "Back Propagation Algorithm: Back Propagation Learning Law",
+            "The Back Propagation Learning Algorithm (Derivation of the Algorithm is Required)",
+            "Issues in Back Propagation Learning: Vanishing and Exploding Gradient Problems",
+            "Local Minima and Saddle Points",
+            "Overfitting",
+            "Slow Convergence",
+            "Sensitivity to the Selection of the Initial Weights",
+            "Computational Cost"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Methods to Rectify the Issues in Backpropagation: Gradient Clipping",
+            "Batch Normalization",
+            "Regularization",
+            "Dropout",
+            "Use of Adaptive Learning Rate Methods: Back Propagation Algorithm with Momentum, Adaptive Gradient Descent Algorithm (ADAGRAD), Root Mean Square Propagation (RMSProp), Adaptive Momentum Estimation (ADAM)",
+            "Weight Initialization Techniques: Random Initialization Methods, Non-random Initialization Methods"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Unsupervised Learning Models: Clustering",
+            "Similarity Measures",
+            "Different Types of Clustering: Partitional Clustering, Hierarchical Clustering, Density Based Clustering, Model Based Clustering",
+            "K-means Clustering Algorithm",
+            "Hierarchical Agglomerative Clustering Algorithm",
+            "Expectation Maximization (EM) Algorithm",
+            "DBSCAN Algorithm",
+            "Dimensionality Reduction",
+            "Principal Component Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

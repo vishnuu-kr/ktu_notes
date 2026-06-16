@@ -1,0 +1,343 @@
+Course Code 
+PCBMT402 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GBEST204 
+Course Type 
+PC 
+ 
+Course Objectives: 
+1. Course aims to equip students with the knowledge and skills required to design, develop, and 
+troubleshoot embedded systems using microcontrollers effectively. 
+2. It combines theoretical concepts with practical hands-on experience to prepare students for careers 
+in fields such as embedded systems engineering, IoT (Internet of Things) development, and 
+robotics. 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Intel 8051: Architecture, Special Function Registers, Pin description, 
+Interrupts, Stack and stack pointer, Addressing modes, Port 
+organization and dual operations of 8051 ports, Instruction format, 
+Counter and Timer operation, Memory organization of 8051. 
+ 
+11 
+2 
+Instruction sets of 8051: Data transfer instructions, Arithmetic, 
+logical, compare and rotate instructions- Bit processing instructions- 
+Program flow control instructions. Assembly language programming 
+of 8051, Interfacing with 8051- stepper motor, keyboard& rolling 
+display, ADC & DAC interfacing. 
+ 
+11 
+3 
+PIC Microcontrollers :- Overview of PIC 16 Series, Architecture of 
+PIC16F877A, Pin description, Memory organization, Core and 
+11 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Micro project 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Tota
+l 
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+peripheral features, interrupts, Addressing modes, Instruction sets: 
+Arithmetic, logic, branch, call instructions, Basics of serial 
+communication, RS232, SPI overview, I2C for peripheral chip 
+access. 
+4 
+Arduino uno - Overview, Board description, Program structure - 
+Elements of programming, Interfacing sensors-LM35, PIR Sensors, 
+motor control - PWM. 
+Overview of ESP32, Board discriptiuon and programming structure 
+of ESP32, Interfacing: analog sensors, MPU6050 
+ 
+11 
+
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the architecture of the 8051 ,PIC16F877A, Arduino uno & 
+ESP32 microcontrollers. 
+K1,K2 
+CO2 
+Develop Programs for target microcontrollers to do simple 
+computational problems and control. 
+K2,K3 
+CO3 
+Interface different devices and peripheral chips to commonly used 
+microcontrollers. 
+K2,K3 
+CO4 
+Design simple microcontroller-based system for various applications. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO1
+0
+PO1
+1 
+PO1
+2
+CO1 
+3 
+2 
+1 
+3 
+1 
+1 
+ 
+1 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+3 
+2 
+1 
+ 
+1 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+3 
+3 
+1 
+ 
+1 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+3 
+3 
+2 
+ 
+1 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and 
+Year 
+1 
+The 8051 Microcontroller and 
+Embedded 
+Systems 
+using 
+Assembly and C 
+Muhammed Ali Mazidi 
+and Janice 
+GillispieMazidi 
+Pearson Education, 
+2e 
+2 
+The 8051 Microcontroller 
+Kenneth J Ayala 
+Cengage Learning 
+3e 
+3 
+Arduino Programming: Step-
+by-Step Guide to Master 
+Arduino Hardware and 
+Software 
+Mark Torvalds 
+ISBN-13: 978-
+1976097713 
+2nd 
+edition 
+4 
+Arduino Programming From 
+Beginning 
+to Advanced 
+Muhammad Ali Mazidi, 
+Shujen Chen, 
+EshraghGhaemi 
+MicroDigitalEd.com 
+2019 
+5 
+ESP32 Programming for the 
+Internet of Things: A step-by-
+step guide to the ESP32 
+Sever Spanulescu 
+CRC Press 
+2021 
+
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+PIC data sheets and manuals 
+such as 
+PIC18F2455/2550/4455/4550 
+Data Sheet- Microchip 
+ 
+Microchip 
+PIC data 
+sheets and 
+manuals such 
+as 
+PIC18F2455/
+2550/4455/4
+550 Data 
+Sheet- 
+Microchip 
+2 
+Arduino 101 Beginners Guide: 
+How to Get Started with Your 
+Arduino 
+Erik Savasgard 
+Createspace 
+Independent Pub 
+Arduino 101 
+Beginners 
+Guide: How 
+to Get 
+Started with 
+Your 
+Arduino 
+3 
+Internet of Things Projects with 
+ESP32: Build exciting and 
+powerful IoT projects using the 
+all-new Espressif ESP32 
+Agus Kurniawan 
+Packt Publishing 
+Internet of 
+Things 
+Projects with 
+ESP32: Build 
+exciting and 
+powerful IoT 
+projects 
+using the all-
+new 
+Espressif 
+ESP32 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+ https://nptel.ac.in/courses/108102045 
+2 
+  https://youtu.be/y9RAhEfLfJs 
+3 
+www.digimat.in/nptel/courses/video/108102045/L01.html 
+4 
+https://archive.nptel.ac.in/courses/106/105/106105193/ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+SEMESTER S4 
+  ELECTRICAL AND ELECTRONIC INSTRUMENTATION

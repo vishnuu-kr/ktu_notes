@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Traditional computing- Limitations. Overview of Computing Paradigms-\nGrid Computing, Cluster Computing, Distributed Computing, Utility\nComputing, Cloud Computing. NIST reference Model-Basic terminology\nand concepts. Cloud characteristics, benefits and challenges, Roles and\nBoundaries. Cloud delivery (service) models-Infrastructure-as-a-Service\n(IaaS), Platform-as-a-Service (PaaS), Software-as-a-Service (SaaS), XaaS\n(Anything-as-a-service) - Cloud deployment models- Public cloud,\nCommunity cloud, Private cloud, Hybrid cloud.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to virtualization-Virtualizing physical computing resources,\nVirtual Machines (Machine virtualization), non-virtualized v/s virtualized\nmachine environments. Types of VMs- process VM v/s system VM,\nEmulation,\ninterpretation\nand\nbinary\ntranslation.\nHardware-level\nvirtualization- Hypervisors/VMM. Types of Hypervisors. Full Virtualization,\nPara-\nVirtualization,\nHardware-assisted\nvirtualization,\nOS\nlevel\nvirtualization. Basics of Network Virtualization, Storage Virtualization and\nDesktop Virtualization, Pros and cons of virtualization.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Broadband networks and internet architecture- Internet Service Providers\n(ISPs), Data center technology, Web technology, Multitenant technology,\nService technology. Resource provisioning techniques-static and dynamic\nprovisioning.\nOpen-source software platforms for private cloud-OpenStack, Cloud Stack,\nBasics of Eucalyptus, Open Nebula, Nimbus.\nCloud Programming- Parallel Computing and Programming Paradigms. Map\nReduce – Hadoop Library from Apache, HDFS, Pig Latin High Level\nLanguages, Apache Spark.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Basic terms and concepts in security- Threat agents, Cloud security\nthreats/risks, Trust. Operating system security-Virtual machine security-\nSecurity of virtualization- Security Risks Posed by Shared Images, Security\nRisks Posed by Management OS. Infrastructure security- Network Level\nSecurity, Host Level Security, Application level security, Security of the\nPhysical Systems. Identity & Access Management- Access Control.\nAmazon Web Services (AWS):- AWS ecosystem- Computing services,\nAmazon machine images, Elastic Compute Cloud (EC2), Advanced compute\nservices. Storage services-Simple Storage System (Amazon S3), Elastic\nBlock Store (Amazon EBS).\nGoogle Cloud Platform:- IaaS Offerings: Compute Engine (GCE), Cloud\nStorage, PaaS Offerings: Google App Engine (GAE), Storage services,\nApplication services, Compute services, Database Services, SaaS Offerings:\nGmail, Docs, Google Drive.\nMicrosoft Azure: Azure Platform Architecture, Hyper-V, Azure Virtual\nMachine, Compute services, Storage services.",
+    "contact_hours": "12"
+  }
+]

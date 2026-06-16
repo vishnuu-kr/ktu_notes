@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Digital Image Formation and low-level processing:\nFundamentals of Image Formation, Transformation: Orthogonal, Euclidean,\nAffine, Projective, etc; Fourier Transform, Convolution and Filtering, Image\nEnhancement, Restoration, Histogram Processing.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Depth estimation and Multi-camera views:\nPerspective, Binocular Stereopsis: Camera and Epipolar Geometry;\nHomography, Rectification, DLT, RANSAC, 3-D reconstruction framework;\nAuto-calibration.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Feature Extraction:\nEdges - Canny, LOG, DOG; Line detectors (Hough Transform), Corners -\nHarris and Hessian Affine, Orientation Histogram, SIFT, SURF, HOG,\nGLOH, Scale-Space Analysis- Image Pyramids and Gaussian derivative\nfilters, Gabor Filters and DWT.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Image Segmentation:\nRegion Growing, Edge Based approaches to segmentation, Graph-Cut,\nMean-Shift, MRFs, Texture Segmentation; Object detection.",
+    "contact_hours": "9"
+  }
+]

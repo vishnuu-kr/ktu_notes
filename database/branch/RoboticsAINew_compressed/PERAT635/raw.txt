@@ -1,0 +1,317 @@
+Course Code 
+PERAT635 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs.30 Min. 
+Prerequisites (if any) 
+PCRAT501 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. This course aims to provide a strong foundation on advanced control methods for modelling, 
+time domain analysis, and stability analysis of linear and nonlinear systems. The course also 
+includes the design of feedback controllers and observers 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+State Space Representation of Systems 
+Introduction to state space and state model concepts- State equation of linear 
+continuous time systems, matrix representation- features- Examples of 
+electrical circuits and dc servomotors. Phase variable forms of state 
+representation- Diagonal Canonical forms- Similarity transformations to 
+diagonal canonical form 
+9 
+2 
+State Space Analysis 
+State transition matrix- Properties of state transition matrix- Computation of 
+state transition matrix using Laplace transform and Cayley Hamilton method. 
+Derivation of transfer functions from state equations. Solution of time 
+invariant systems: Solution of time response of autonomous systems and 
+forced systems. State space analysis of Discrete Time control systems: Phase 
+variable form and Diagonal canonical form representations- Pulse transfer 
+function from state matrix- Computation of State Transition Matrix 
+(problems from 2nd order systems only) 
+9 
+
+ 
+ 
+3 
+State Feedback Controller Design 
+Controllability & observability: Kalman’s, Gilbert’s and PBH tests. - Duality 
+principle State feedback controller design: State feed-back design via pole 
+placement technique State observers for LTI systems- types- Design of full 
+order observer 
+9 
+4 
+Nonlinear Systems and stability 
+Types and characteristics of nonlinear systems- Jump resonance, Limit 
+cycles and Frequency entrainment  
+Phase plots: Concepts- Singular points – Classification of singular points. 
+Definition of stability- asymptotic stability and instability. Construction of 
+phase trajectories using Isocline method for linear and nonlinear systems. 
+Lyapunov stability analysis: Lyapunov function- Lyapunov methods to 
+stability of nonlinear systems- Lyapunov methods to LTI continuous time 
+systems 
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Students should be able to solve control system problems and solve using Matlab or any other 
+programming language.  
+Evaluation Methods: 
+1. Simulations using software tools: (10 marks) 
+2. Course Project applying the principles of nonlinear control system analysis:(10 marks) 
+Project phases: Proposal, Implementation, Testing, Final Report, Presentations and Viva 
+Voce: 
+Faculty may direct students for the selection of topics for projects from real world examples. 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+2 questions will be given from each module, out 
+of which 1 question should be answered. 
+ 
+ Each question can have a maximum of 3 sub 
+divisions.  
+ 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Develop the state variable representation of physical systems 
+K3 
+CO2 
+Analyse the performance of linear and nonlinear systems using state 
+variable approach
+K4 
+CO3 
+Design state feedback controller for a given system 
+K3 
+CO4 
+Explain the characteristics of nonlinear systems 
+K2 
+CO5 
+Apply Lyapunov method for the stability analysis of physical systems 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Control System Engineering,  
+Nagarath I. J. and Gopal 
+M., 
+New Age Publishers, 
+5/e, 2007 
+2 
+Modern Control Engineering,  
+Ogata K., 
+Prentice Hall of India, 
+5/e, 2010 
+3 
+Modern 
+Control 
+System 
+Theory,  
+Gopal M, 
+New Age Publishers,  
+2/e, 1984 
+4 
+Analysis 
+and 
+Synthesis 
+of 
+Sampled Data Systems,  
+Kuo B.C, 
+Prentice Hall 
+Publications,  
+2012 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1
+Nonlinear Systems, 
+Khalil H. K
+Prentice Hall
+3/e, 2002
+2
+Nonlinear Automatic Control, 
+Gibson J.E.
+Mc Graw Hill
+1963
+3 
+Control Systems Principles and 
+Design
+Gopal M., 
+Tata McGraw Hill,  
+ 4/e, 2012 
+4 
+ Applied Nonlinear Control,  
+Slotine J. E and Weiping 
+Li,
+Prentice-Hall, 
+1991 
+5 
+Discrete Time Control Systems, 
+Ogata K., 
+Pearson Education, 
+Asia
+2/e,  2015 
+ 
+
+ 
+ 
+SEMESTER S6 
+MOBILE ROBOTICS

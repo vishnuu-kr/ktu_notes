@@ -1,0 +1,506 @@
+Course Code 
+PBEOT304 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCEOT205 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Explain the various number systems, Digital logic gates and Boolean expressions  
+2. Design and implement different types of combinational and sequential logic circuits  
+3. Design and implement digital circuits using Hardware Descriptive Language. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Number Systems and Codes – binary, octal and hexadecimal – 
+conversions – ASCII code, Excess –3 code, Gray code, BCD code 
+Signed numbers – 1’s complement and 2’s complement – addition and 
+subtraction  
+Basic logic gates – universal gates – TTL – CMOS – Internal diagram of 
+TTL NAND gate and CMOS NOR gate – comparison of CMOS and TTL 
+performance.  
+Boolean laws and theorems – Sum of products and Product of sums forms 
+– K map representation and simplification (up to four variables) – pairs, 
+quads, octets – don’t careconditions.  
+ 
+9 
+2 
+Combinational circuits– half adder and full adder, halfsubtractor and 
+fullsubtractor –4-bit parallel binary adder/subtractor. 
+Comparators – parity generators and checkers – encoders – decoders – 
+BCD to seven segment decoder. 
+Multiplexers– implementation of boolean expressions using multiplexers– 
+demultiplexers. 
+ 
+9 
+
+ 
+ 
+3 
+Flip-Flops– SR, JK, D and T flip-flops – characteristic table and 
+excitation table– JK Master Slave Flip-flop – Conversion of flip-flops – 
+SR to JK and JK to SR only. 
+Up/Down counters – asynchronous counters – mod-6 and mod-10 
+counters. 
+Synchronous counters – design of synchronous counters – Ring counter 
+–  Johnson Counter. 
+Shift registers - SISO, SIPO, PISO, PIPO. 
+10 
+4 
+State Machines – state transition diagram – Moore and Mealy machines. 
+Digital to Analog converter –weighted resistor type, R-2R Laddertype. 
+Analog to Digital Converter – flash type, successive approximation 
+type.  
+Introduction to Verilog– Implementation of AND, OR, half adder and full 
+adder. 
+ 
+8 
+ 
+Suggestion on Project Topics 
+Project based learning  
+Project-based learning (PBL) in digital electronics combines hands-on learning with theoretical 
+knowledge, providing a comprehensive understanding of digital systems and components. 
+Project-Based Learning Structure: 
+1. Selection of Topic 
+•Objective: Choose a relevant digital electronics project that incorporates both combinational and 
+sequential logic circuits. 
+•Guidance: Topics should be selected based on their applicability, innovation, and the depth of 
+knowledge they offer in digital electronics. 
+2. Design and Optimization of Digital Circuit 
+•Tools: Utilize design software to draft and optimize circuit layouts. 
+•Verilog HDL: Focus on coding the logic in Verilog, ensuring that the design is efficient and scalable. 
+3. Simulation and Hardware Implementation 
+•Discrete Components: Integrate additional discrete components as necessary to complete the project 
+setup. 
+
+ 
+ 
+•FPGA: Implement the design on FPGA boards, translating the Verilog HDL code into a physical, 
+functioning circuit. 
+This structured approach not only enhances the learning experience but also prepares students for 
+professional challenges in the field of digital electronics. 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each question 
+can have a maximum of 2 sub divisions. Each question 
+carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Identify various number systems, binary codes and formulate 
+digital functions using Boolean algebra.  
+K2 
+CO2 
+Design combinational logic circuits. 
+K3 
+CO3 
+Design sequential logic circuits. 
+K3 
+CO4 
+Describe the operation of various analog to digital and digital to 
+analog conversion circuits. 
+K2 
+CO5 
+Explain the basic concepts of programming using Verilog HDL 
+K2 
+CO6 
+Design and realize  medium complexity practical digital 
+hardware  circuits. 
+K6 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Fundamentals 
+Floyd T.L 
+Pearson Education 
+11/e, 2017 
+2 
+Digital Principles and 
+Applications 
+Albert Paul Malvino& 
+Donald P. Leach 
+Mc-GRAW Hill 
+International Editions 
+4/e, 2018 
+3 
+Digital Design: With an 
+Introduction to the Verilog 
+HDL, VHDL, and System 
+Verilog
+M. Morris Mano, 
+Michael D. Ciletti 
+Pearson Education 
+6/e, 2018 
+4 
+Digital Integrated Electronics 
+Herbert Taub   
+and Donald Schilling
+McGraw Hill 
+Education
+2017 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+2 
+ 
+2 
+2 
+ 
+ 
+2 
+2 
+ 
+ 
+3 
+CO3 
+3 
+2 
+ 
+2 
+2 
+ 
+ 
+2 
+2 
+ 
+ 
+3 
+CO4 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+2 
+ 
+2 
+2 
+ 
+ 
+2 
+2 
+ 
+ 
+3 
+CO6 
+3 
+3 
+3 
+3 
+3 
+2 
+2 
+3 
+3 
+ 
+2 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals of Digital Logic 
+with Verilog Design 
+Stephen Brown 
+McGraw Hill 
+Education 
+2nd  Edition 
+2 
+Fundamental of Digital 
+Circuits 
+A Anand Kumar 
+Prentice Hall 
+4/e, 2023 
+3 
+Digital Circuits and Design 
+S. Salivahanan 
+Oxford University 
+Press 
+2018 
+4 
+Digital Design Verilog HDL 
+and Fundamentals 
+Joseph Cavanagh  
+CRC Press 
+1st Edition, 
+2008 
+5 
+Digital Circuits and Systems 
+D.V. Hall 
+Tata McGraw Hill 
+1989 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/108/105/108105132/ 
+https://archive.nptel.ac.in/courses/18/106/108106177/ 
+2 
+https://archive.nptel.ac.in/courses/108/105/108105132/ 
+https://archive.nptel.ac.in/courses/108/106/108106177/ 
+3 
+https://archive.nptel.ac.in/courses/108/105/108105132/ 
+https://archive.nptel.ac.in/courses/108/106/108106177/ 
+4 
+https://archive.nptel.ac.in/courses/108/105/108105132/ 
+https://archive.nptel.ac.in/courses/108/106/108106177/ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery
+Project identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group 
+discussion
+Project Analysis 
+Data Collection 
+Evaluation  
+Question 
+answer 
+ Sessions/ 
+Brainstorming 
+Sessions
+Analytical 
+thinking 
+and 
+ self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project 
+reformation 
+(If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case 
+Study/ 
+Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 5 
+minutes video
+ 
+
+ 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions
+4 
+3 
+Involvement in the project work and Team Work
+3 
+4 
+Execution and Implementation
+10 
+5 
+Final Presentations
+5 
+6 
+Project Quality, Innovation and Creativity
+3 
+Total 
+30 
+ 
+1. Project Planning and Proposal (5 Marks) 
+ 
+Clarity and feasibility of the project plan  
+ 
+Research and background understanding  
+ 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions and handling feedback  
+3. Involvement in the Project Work and Team Work (3 Marks) 
+ 
+Active participation and individual contribution  
+ 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+ 
+Adherence to the project timeline and milestones  
+ 
+Application of theoretical knowledge and problem-solving  
+ 
+Final Result 
+5. Final Presentation (5 Marks) 
+ 
+Quality and clarity of the overall presentation  
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions 
+
+ 
+ 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ 
+Overall quality and technical excellence of the project  
+ 
+Innovation and originality in the project 
+ 
+Creativity in solutions and approaches 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S3 
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE AND DATA 
+SCIENCE

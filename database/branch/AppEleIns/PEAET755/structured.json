@@ -1,0 +1,58 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Basics of pattern recognition system - Introduction",
+      "various applications",
+      "classification of pattern recognition systems. Design of Pattern recognition system",
+      "Pattern recognition Life Cycle. Statistical Pattern Recognition - Review of probability theory",
+      "Gaussian distribution",
+      "Bayes decision theory and Classifiers",
+      "Optimal solutions for minimum error and minimum risk criteria",
+      "Normal density and discriminant functions",
+      "Decision surfaces"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Parameter estimation methods - Maximum-Likelihood estimation",
+      "Expectation-maximization method",
+      "Bayesian parameter estimation. Concept of feature extraction and dimensionality",
+      "Curse of dimensionality",
+      "Dimension reduction methods - Fisher discriminant analysis",
+      "Principal component analysis",
+      "Hidden Markov Models (HMM) basic concepts",
+      "Gaussian mixture models"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Non-Parameter methods - Non-parametric techniques for density estimation - Parzen-window method",
+      "K-Nearest Neighbour method. Non-metric methods for pattern classification - Non-numeric data or nominal data. Decision trees",
+      "Concept of construction",
+      "splitting of nodes",
+      "choosing of attributes",
+      "overfitting",
+      "pruning. Linear Discriminant based algorithm - Perceptron"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Bagging",
+      "Boosting/AdaBoost. Unsupervised learning - Clustering",
+      "Algorithms for clustering: K-means and Hierarchical methods",
+      "Cluster validation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

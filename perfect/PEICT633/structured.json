@@ -1,0 +1,63 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Biomedical Signals Introduction to Biomedical Signals",
+            "Characteristics of Biomedical Signals",
+            "Time-domain vs. frequency-domain representation Acquisition of Biomedical Signals Signal Acquisition Systems",
+            "acquisition of biomedical signals like ECG",
+            "EEG and EMG",
+            "Analog-to-digital conversion (ADC",
+            "Nyquist theorem and its importance in signal acquisition",
+            "Aliasing",
+            "Signal conversion circuits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Principle of noise canceller model",
+            "60 Hz adaptive cancelling using a sine wave model Adaptive and optimal filtering ‐ Modelling of Biomedical signals ‐ Detection of biomedical signals in noise ‐ removal of artifacts of one signal embedded in another ‐ Maternal‐Fetal ECG Signal Averaging: Basics of signal averaging",
+            "signal averaging as a digital filter",
+            "a typical averager. Turning point algorithm",
+            "AZTEC algorithm",
+            "CORTES algorithm",
+            "Fan algorithm",
+            "Huffman coding"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Cardiological Signal Processing Basics of ECG",
+            "Anatomy of the heart and electrical activity Basics of ECG waveform and lead systems",
+            "Methods and devices for ECG signal acquisition",
+            "Noise & artifacts",
+            "Preprocessing of ECG Signals Noise removal and baseline correction",
+            "Feature Extraction-detection of P",
+            "and T waves",
+            "Heart rate variability analysis Advanced ECG Processing Arrhythmia Detection-Algorithms for arrhythmia detection and classification"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Neurological signal processing Basics of EEG and its characteristics",
+            "Brain anatomy and electrical activity",
+            "basics of EEG waveform and electrode placement",
+            "methods and devices for EEG signal acquisition",
+            "detection of EEG rhythms",
+            "template matching for EEG spike and wave detection Preprocessing of EEG Signals- Noise removal and artifact reduction Feature Extraction- Time-frequency analysis",
+            "power spectral density Advanced EEG Processing Brain-Computer Interface (BCI",
+            "Introduction to BCI and its applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

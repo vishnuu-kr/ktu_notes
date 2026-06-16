@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basic Structure of computers :– Functional units - Basic operational\nconcepts; Memory map; Endianness.\nCISC vs RISC architectures:- RISC Introduction - Assembly Language,\nAssembler directives, Assembling.\nProgramming concepts - Program flow, Branching, Conditional statements,\nLoops, Arrays, Function calls; Instruction execution cycle.\nMachine language - Instructions, addressing modes, Stored program concept.\nEvolution of the RISC Architecture.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Microarchitecture -  Introduction; Performance analysis; Single-Cycle\nProcessor - Single Cycle Datapath, Single Cycle Control; Pipelined Processor\n- Pipelined Data Path, Pipelined Control:  Hazards, Solving Data/Control\nHazards, Performance Analysis.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Memory Systems: Introduction; performance analysis; Caches - basic\nconcepts, Cache mapping, Cache replacement, Multiple-Level Caches,\nReducing Miss Rate, Write Policy; Virtual Memory - Address Translation;\nPage Table; Translation Lookaside Buffer; Memory Protection.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Input / Output - External Devices; I/O Modules;  Programmed I/O, Interrupt\nDriven I/O; Direct Memory Access;  Embedded I/O Systems - Embedded I/O,\nGeneral Purpose I/O, Serial I/O, Other Peripherals.",
+    "contact_hours": "9"
+  }
+]

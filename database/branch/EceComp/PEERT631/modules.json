@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Electrical Circuits\nCircuit concept – Types of elements - source transformation-voltage - current\nrelationship for passive elements. Network reduction techniques: series,\nparallel, series parallel, examples, time and frequency domain analysis of\nRLC circuits.\nIntroduction to control systems\nBasic components of a control system, types of control systems, examples of\ncontrol systems, effect of feedback systems, Laplace Transforms, transfer\nfunction, modelling of electrical networks, block diagram reduction, signal\nflow graphs.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Modelling of mechanical systems\nTranslational and rotational systems, transfer function for typical mechanical\nsystems, analogous systems–force voltage & force-current analogy, impulse\nresponse and its relation with transfer function",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Time domain analysis of feedback control systems\nTransient and steady-state response, standard test signals, type and order of\nsystems, concept of poles and zeros, time response of first and second order\nsystems to unit impulse and step input, time domain specifications,\nSteady-state response, steady state error, static and dynamic error\ncoefficients.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Stability of linear control systems\nConcept of stability, methods of determining stability, Routh’s Hurwitz\ncriterion, Root locus - construction of root locus, effect of addition of poles\nand zeros on root locus.\nFrequency response analysis: Frequency domain specifications, stability\nfrom Bode plots, relative stability, gain margin and phase margin,\nintroduction to lead, lag and lead-lag compensating networks (excluding\ndesign).",
+    "contact_hours": "9"
+  }
+]

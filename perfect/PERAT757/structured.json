@@ -1,0 +1,67 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definition and types of real-time systems",
+            "Hard vs. soft real-time systems.Basic Concepts: Real-time tasks and their characteristics",
+            "Task scheduling",
+            "Timing constraints and requirements. RTOS Architectures: Monolithic kernels vs. microkernels. RTOS examples: commercial vs Open RTOS and their comparison",
+            "examples.Inter-Process Communication (IPC): Shared memory",
+            "Message passing. RTOS Environment Setup: Installation and setup of an RTOS on a microcontroller (e.g",
+            "ARM Cortex-M",
+            "Task Creation and Management: Writing simple tasks",
+            "Task states and transitions",
+            "Scheduling and Context Switching:Implementing basic scheduling algorithms",
+            "Demonstrating context switching with example tasks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Fixed-priority scheduling (Rate-Monotonic",
+            "Deadline-Monotonic",
+            "Dynamic priority scheduling (Earliest Deadline First",
+            "Priority based preemption",
+            "Round Robin",
+            "Task Synchronization: Mutual exclusion",
+            "Priority inversion and inheritance Inter-Task Communication: Semaphores",
+            "Mutexes",
+            "Event flags Implementing Scheduling Algorithms: Practical implementation of scheduling",
+            "Synchronization Mechanisms: Practical implementation of semaphores and mutexes in task synchronization",
+            "Demonstrating priority inversion and its mitigation: Real-Time Task Communication: Implementing inter-task communication using queues and mailboxes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Modular design",
+            "Time-triggered vs. event-triggered systems",
+            "Worst-Case Execution Time (WCET) Analysis: Techniques for WCET estimation",
+            "Timing analysis",
+            "Reliability and Fault Tolerance: Redundancy",
+            "Error detection and recovery. Designing a Real-Time System: Case study: Designing a real-time control system",
+            "WCET Analysis Tools: Using tools for WCET analysis and timing verification",
+            "Implementing Fault Tolerance: Practical implementation of redundancy and error recovery mechanisms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Memory management",
+            "I/O management. Real-Time Middleware: Middleware services for real-time systems",
+            "Case Studies and Applications: Automotive systems",
+            "Aerospace and defense",
+            "Medical devices Memory Management in RTOS: Implementing dynamic memory allocation",
+            "Real-Time Middleware Implementation: Developing middleware components for a real-time application Case Study Implementation: Implementing a real-time system for a specific application (e.g",
+            "real-time data acquisition"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

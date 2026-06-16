@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Uses of computer networks, Network hardware, Network\nsoftware,   Reference Models –The OSI Reference Model, TCP/IP Reference\nModel, Comparison of the OSI and TCP/IP Reference Models.\nPhysical Layer: Guided Transmission Media (twisted pair, coaxial cable,\nFiber Cables), Wireless Transmission (Radio Transmission, Microwave\nTransmission, Infrared Transmission), Communication satellites (GEO,\nLEO, MEO).\nInterfacing devices: Repeaters, Hubs, Bridges, Switches, Routers, And\nGateways",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Data link layer: Data link layer design issues, Error detection and correction\n- Error Correcting codes (Hamming codes, Reed-Solomon codes, Low-\nDensity Parity Check codes), Error-Detecting Codes (Parity, Checksums,\nCyclic Redundancy Checks), A Simplex Stop-and-Wait Protocol for a Noisy\nChannel, Sliding window protocols.\nMedium Access Control (MAC) sublayer: Channel allocation problem,\nMultiple access protocols (ALOHA, Slotted ALOHA, Carrier Sense Multiple\nAccess Protocols, Collision-Free Protocols -bit map protocol, token passing,\nbinary countdown, Wireless LAN Protocols).\nEthernet: Frame format, types- Fast Ethernet, Gigabit Ethernet, 10-Gigabit\nEthernet.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Network Layer: Network layer design issues. Routing algorithms - The\nOptimality Principle, Shortest path routing, Flooding, Distance Vector\nRouting, Link State Routing, Multicast routing, Routing for mobile hosts.\nCongestion control algorithms: Approaches to Congestion Control- Choke\nPackets, Random Early Detection. Quality-of-service - Application\nRequirements, Traffic Shaping - Leaky and Token Buckets.\nThe Network Layer in the internet: Internet Protocol, IP Version 4\nProtocol, IP Addresses, IP Version 6.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Transport Layer: Transport service – Services provided to the upper layers,\nTransport service primitives. Socket programming, User Datagram Protocol\n(UDP)- User Datagram, Checksum. Real-Time Transport Protocols (RTP,\nRTCP), Transmission Control Protocol (TCP)- TCP Service Model, TCP\nProtocol, TCP Segment Header, TCP Connection Establishment, TCP\nConnection Release, TCP Sliding Window, TCP Congestion Control.\nApplication Layer: Domain Name System (DNS)- Electronic mail. World\nWide Web - Architectural Overview, HTTP—The Hypertext Transfer\nProtocol.",
+    "contact_hours": "12"
+  }
+]

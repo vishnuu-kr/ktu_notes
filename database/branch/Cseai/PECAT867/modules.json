@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Stochastic process: Overview of stochastic processes and\ntheir relevance.\nDiscrete-Time Stochastic Processes: Markov chains: States, transition\nmatrices, steady-state analysis. Examples and practical applications\nContinuous-Time Stochastic Processes: Poisson processes continuous-time\nMarkov chains. Basic properties and applications",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Markov Decision Processes (MDPs): Introduction to MDPs- Components\nof MDPs: States, actions, rewards, and policies. Bellman equations and value\nfunctions.\nSolution Methods for MDPs- Dynamic programming methods: Value\niteration, policy iteration.\nAdvanced Topics in MDPs- Approximate solutions for large MDPs Policy\ngradients and actor-critic methods.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Stochastic Optimization: Introduction to Stochastic Optimization-\nFormulations and types of stochastic optimization problems. Basic principles\nand illustrative examples\nStochastic Gradient Descent : Algorithmic details, convergence, practical\nconsiderations. Comparison with deterministic optimization methods.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Applications and Case Studies: Real-world applications: Finance, AI,\nrobotics. Analysis of practical challenges and case studies\nApplications in AI and Robotics- Stochastic decision-making in AI: Natural\nlanguage processing, autonomous systems. Case studies in robotics: Path\nplanning, adaptive control\nApplications in Finance and Operations Research\nFinancial modeling: Risk management, portfolio optimization Operations\nresearch applications: Inventory management, queuing systems.",
+    "contact_hours": "9"
+  }
+]

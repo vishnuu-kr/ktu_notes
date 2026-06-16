@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to malware, malware threats, evolution of malware, malware\ntypes. Types of malware Analysis – Static Analysis, Dynamic Analysis,\nMalware Analysis Techniques - Obfuscated, Deobfuscated, Malware Analysis\nTools - Static Analysis Tools, Dynamic Analysis Tools. Static Analysis",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Dynamic analysis: Live malware analysis, dead malware analysis, analyzing\ntraces of malware, system-calls, api-calls, registries, network activities. Anti-\ndynamic analysis techniques anti-vm, runtime-evasion techniques, Malware\nSandbox, Monitoring with Process Monitor, Packet Sniffing with Wireshark,\nKernel vs. User-Mode, Debugging-OllyDbg, Breakpoints, Tracing, Exception\nHandling, Patching.\nMalware Detection Techniques: Signature-based techniques: malware\nsignatures, packed malware signature, metamorphic and polymorphic\nsignature.  Non-signature based techniques: similarity-based techniques,\nmachine-learning methods.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Malware Incident response: Volatile Data Collection and Examination on a\nLive Windows Systems - Volatile Data collection methodology from\nWindows systems- Preservation of Volatile data, Collecting Subject System\ndetails, Identifying users Logged into the System, Inspect Network\nConnections and Activity, Current and Recent Network Connections,\nCollecting Process Information, Correlate Open Ports with Running Processes\nand Programs, Identifying Services and Drivers, Determining Scheduled\nTasks, Collecting Clipboard Contents, Non-Volatile Data Collection from a\nLive Windows System, Volatile Data collection methodology from Linux\nsystems, Non volatile Data collection from a live Linux system",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Post-Mortem Forensics - Malware Discovery and Extraction from a Windows\nand Linux system, Examine Windows and Linux file system, Examine\napplication traces, Examine Windows registry, keyword searching from\nWindows and Linux systems, Forensic reconstruction of compromised Linux\nand Windows system.",
+    "contact_hours": "7"
+  }
+]

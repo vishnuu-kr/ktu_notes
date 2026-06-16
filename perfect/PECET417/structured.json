@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to numerical methods - Errors in numerical computation System of linear algebraic equations - Ill-conditioned systems - Symmetric and Banded systems. Elimination methods - Gauss Elimination (review",
+            "Gauss Seidel iteration",
+            "Factorization method-Choleski’s method. System of non-linear equations - Newton-Raphson method. Eigen value problems - largest and smallest Eigen values- Power method",
+            "Jacobi’s transformation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Approximation - Lagrangian and Hermite interpolation",
+            "Spline interpolation -Quadratic and Cubic splines (example of equal intervals). Data smoothing by least squares criterion- non-polynomial models like exponential model and power equation",
+            "Multiple linear regression. Numerical integration - Newton - Cotes open quadrature formulae",
+            "Trapezoidal rule",
+            "Simpson’s rules (Review"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Solution of first-order ordinary differential equations - stability of solution",
+            "Use of Taylor series",
+            "Euler’s method",
+            "Modified Euler’s method",
+            "Fourth order Runge-Kutta method. Higher order equations of initial value type by Runge-Kutta method. Ordinary differential equations of the boundary value type - Finite difference solution"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Partial differential equations in two-dimension - types",
+            "Laplace Equation and Poisson’s equation. Parabolic equations - Explicit finite difference method - Bender-Schmidt method. Crank-Nicholson implicit method. Elliptic equations - Finite difference method. Weighted residual methods for initial value problems and boundary value problems - Collocation method",
+            "Method of least squares",
+            "Galerkin’s method. Applications of the methods shall be based on Civil Engineering problems such as Structural analysis problems to determine member forces",
+            "traffic simulations",
+            "weather prediction",
+            "water flow estimation",
+            "fluid dynamics simulations",
+            "and geotechnical modelling of groundwater movement"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

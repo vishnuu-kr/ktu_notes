@@ -1,0 +1,341 @@
+Course Code 
+PCCPT501 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-1-0-0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+_ 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the fundamental principles of control systems, including the modeling, 
+analysis, and design of both linear and nonlinear systems. 
+2. To illustrate time domain analysis of first and second-order systems, including transient and 
+steady-state responses. 
+3. To construct frequency domain analysis using Bode plots and build P, PI, and PID controllers. 
+4. To understand state space analysis and represent systems in various canonical forms. 
+5. To summarize nonlinear systems using describing functions and classify singular points. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Control System - Definition, Open loop vs closed loop control systems- 
+components of atypical control system- Necessity of a control system in a 
+Robot, bird’s eye view of typicalactuators in robot control systems-
+hydraulic, pneumatic and electric actuators- over view of basic types-DC 
+motors for speed control, DC and AC servo motors for position control, 
+Brushless DC motors for speed control of quadcopters and linear actuation 
+mechanisms. Basic idea of feedbacks in robotic systems-sensors-eg. Linear 
+and rotary encoders. 
+Linear time invariant Systems- Transfer function, Necessity of knowing 
+the transfer function,Modelling -Mechanical and Electromechanical systems 
+–block diagram representation -block diagram reduction, characteristic 
+equation, signal flow graph, overview Mason's gainformula  
+11 
+
+ 
+ 
+2 
+Time domain analysis of control systems: Transient and steady state 
+responses - time domain specifications - first and second order systems - step 
+responses of first and second order systems, steady state error analysis - 
+static error coefficient of type 0,1, 2 systems –Dynamic error coefficients. 
+Concept of stability: Time response for various pole locations - stability of 
+feedback system -Routh's stability criterion. 
+Root locus - General rules for constructing Root loci – stability from root 
+loci - effect of addition of poles and zeros. 
+ 
+11 
+3 
+Frequency domain analysis: Frequency domain specifications- Analysis 
+based on Bode plot -Log magnitude vs. phase plot. 
+Design of P, PI and PID controller using Ziegler-Nichols tuning method, 
+Overview-Necessity of using Lag, lead and lag-lead compensators in Control 
+Systems. 
+State space analysis of systems: Introduction to state concept - state 
+equation of linear continuous time systems, matrix representation of state 
+equations. Phase variable and canonical forms of state representation-
+controllable, observable, diagonal and Jordan 
+canonical forms- solution of time invariant autonomous systems 
+11 
+4 
+Nonlinear systems: Introduction - characteristics of nonlinear systems. 
+Types of nonlinearities. Determination of describing function of 
+nonlinearities (relay, dead zone and saturation only) - application of 
+describing function for stability analysis of autonomous system with single 
+nonlinearity. Singular points – Classification of singular points. 
+Definition of stability- asymptotic stability and instability, overview of 
+Lyapunov methods to stability of linear and nonlinear, continuous time 
+systems. 
+Case study-kinematic modelling of a differential drive robot and controlling 
+the same to move to a point 
+11 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, 
+out of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge Level 
+(KL) 
+CO1 
+Compare open-loop and closed-loop control systems and identify their 
+components. 
+K2 
+CO2 
+Develop time domain analysis of first and second-order systems, 
+including transient and steady-state responses. 
+K3 
+CO3 
+Analyze frequency domain using Bode plots and build P, PI, and PID 
+controllers. 
+K3 
+CO4 
+Understand state space analysis and represent systems in various 
+canonical forms. 
+K2 
+CO5 
+Explain nonlinear systems using describing functions and classify 
+singular points. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table: 
+1: Slight (Low), 2: Moderate (Medium),3: Substantial (High), : No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Modern Control Engineering 
+Katsuhiko Ogata 
+Pearson Education 
+India 
+5/e, 2009 
+2 
+Control Systems Principles and 
+Design 
+M. Gopal 
+McGraw Hill 
+Education (India) 
+4/e, 2019 
+3 
+Control Systems Engineering  
+I. J. Nagrath and M. 
+Gopal 
+New Age 
+InternationalPvt Ltd 
+6/e, 2018 
+4 
+Control Systems. 
+A. Anand Kumar 
+PHI 
+2/e, 2018 
+5 
+Robotics, Vision and Control: 
+Fundamental Algorithms in 
+MATLAB 
+Peter Corke 
+Springer 
+2/e, 2017 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher
+Edition and 
+Year 
+1 
+Robotics- Fundamental 
+Concepts and Analysis 
+Ashitava Ghosal 
+Oxford University 
+press 
+1/e, 2009 
+2 
+Control Systems Engineering 
+Nise N. S 
+Wiley Eastern 
+6/e, 2010 
+3 
+Modern Control Systems 
+Dorf R. C. and R. H. 
+Bishop 
+Pearson Education 
+6/e, 2011 
+4 
+Nonlinear Systems, Prentice  
+Hassan K Khalil 
+Hall International 
+(UK) 
+3/e, 2002 
+ 
+ 
+ 
+PO1
+PO2
+PO3
+PO4
+PO5 PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PO12
+CO1
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2
+3 
+2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3
+3 
+2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5
+3 
+2 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/107/106/107106081/ 
+2 
+https://onlinecourses.nptel.ac.in/noc20_ee90/preview 
+3 
+https://onlinecourses.nptel.ac.in/noc17_ee12/preview 
+4 
+ https://nptel.ac.in/courses/107106081/ 
+
+ 
+ 
+SEMESTER S5 
+INTRODUCTION TO WIRELESS COMMUNICATION

@@ -1,0 +1,54 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Maximum Flow Algorithms",
+            "Dinic's Algorithm, Push-Relabel Algorithm",
+            "Applications: Network Bandwidth Allocation, Data Center Resource Management",
+            "Minimum Cost Flow",
+            "Cycle-Canceling Algorithm, Capacity Scaling Algorithm",
+            "Applications: Transportation Logistics, Network Routing with Cost Constraints",
+            "Assignment: Network Bandwidth Allocation using Dinic's Algorithm",
+            "Assignment: Logistics Optimization using Capacity Scaling Algorithm"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Strongly Connected Components (SCC)",
+            "Tarjan's Algorithm, Kosaraju's Algorithm",
+            "Applications: Web Page Link Analysis, Connected Components in Social Networks",
+            "Dynamic Graph Connectivity",
+            "Dynamic Connectivity Algorithms, Eulerian and Hamiltonian Paths",
+            "Applications: Real-Time Network Monitoring, Dynamic Route Planning",
+            "Assignment: Web Page Link Analysis using Tarjan's Algorithm",
+            "Assignment: Dynamic Route Planning using Dynamic Connectivity Algorithms"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Graph Matching",
+            "Edmonds' Algorithm for Maximum Matchings",
+            "Applications: Job Assignment, Network Design",
+            "Graph Coloring",
+            "Colorings for Special Classes of Graphs (Planar Graphs, Interval Graphs)",
+            "Applications: Frequency Assignment in Wireless Networks, Scheduling Problems",
+            "Assignment: Job Assignment Optimization using Edmonds' Algorithm",
+            "Assignment: Frequency Assignment using Graph Coloring"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Graph Partitioning and Community Detection",
+            "Kernighan-Lin Algorithm, Spectral Partitioning",
+            "Applications: Social Network Community Detection, Large-Scale Data Clustering",
+            "Parameterized Algorithms for Graph Problems",
+            "Fixed-Parameter Tractability for Vertex Cover, Feedback Vertex Set",
+            "Applications: Network Security, Bioinformatics",
+            "Assignment: Social Network Community Detection using Kernighan-Lin Algorithm",
+            "Assignment: Network Security Analysis using Parameterized Algorithms"
+        ]
+    }
+]

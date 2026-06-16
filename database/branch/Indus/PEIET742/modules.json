@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Linear time series models: Financial data and their properties, financial\ntime series and their characteristics, means, variances, covariances,\ncorrelation and autocorrelation, correlogram, stationarity, trends, seasonal\nvariation, univariate and multivariate data, decomposition of series, the\nspectral density, smoothing and filtering, white noise, autoregressive models,\nmoving average models, ARMA and ARIMA models.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Conditional heteroscedastic models: Characteristics of volatility, ARCH\nmodel, GARCH model, GARCH-M model, EGARCH model, threshold\nGARCH model, CHARMA model, random coefficient autoregressive model,\nasymmetric power ARCH model, nonsymmetric GARCH model, stochastic\nvolatility model, long-memory stochastic volatility model, applications.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Nonlinear time series and nonparametric models: Nonlinear time series,\nunivariate parametric nonlinear models - general formulation, threshold\nautoregressive models, Markov switching models, smooth transition\nautoregressive models, time-varying\ncoefficient\nmodels. Univariate\nnonparametric models - kernel smoothing, local conditional mean, local\npolynomial fitting, splines, wavelet smoothing, nonlinear additive models,\nindex model and sliced inverse regression.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "High frequency financial data: Nonsynchronous trading, bid-ask spread of\ntrading prices, empirical characteristics of trading data, models for price\nchanges, duration models, value at risk (VaR), risk metrics, extreme value\ntheory.\nMultivariate linear time series: Stationary vector autoregressive time\nseries, vector autoregressive moving average time series.\nMultivariate volatility models: Multivariate GARCH models, GARCH\nmodels for bivariate returns, higher dimensional volatility models, factor-\nvolatility models, multivariate t distribution.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,624 @@
+Course Code 
+PEBRT522 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Nil 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. With the increase in automation, robots are used in all walks of life. 
+2. It was observed by many researches that the ability of a robot can be increased several folds if 
+it was capable of movement. 
+3. To introduce the basic issues in bringing mobility to robots and how those issues are resolved 
+through its various modules. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Mobile Robots: Fundamental problems – Path Planning, Localization, 
+Sensing, Mapping, Simultaneous Localization and Mapping 
+Locomotion: Introduction to stepper Motor and Servo Motor Control, 
+Wheeled Mobile Robots -Differential Drive, Synchronous Drive, Steered 
+wheels, Tricycle Drive, Car drive - Limbed Locomotion – Vehicle Stability, 
+Number of legs, Limb design and Control, forward and inverse kinematics, 
+Gait and Body Control, Dynamic Gaits 
+Off-Board Communication: Tethered, Untethered, Radio Modems 
+9 
+2 
+Non Visual Sensors : Basic concepts – Sensors: Bumbers, Accelerometers, 
+Gyroscopes, 
+infrared 
+sensors, 
+Sonar 
+– 
+Transducer 
+Model, 
+Data 
+interpretation, Laser Range finders - Data Fusion: Kalman Filter 
+Visual Sensors :Perspective Camera, Planar Homography, Camera 
+Calibration, - Object Appearance and Shading–Signals and Sampling–Image 
+features and Their Combination– Measuring Depth – Active Vision 
+9 
+
+ 
+ 
+3 
+Representation and Reasoning about Space: Representing Space: Spatial 
+Decomposition, Geometric Representations, Topological Representations– 
+Representing the Robot: Configuration Space, Simplification of C-space– 
+Path Planning for Mobile Robots: Constructing a discrete search space, 
+Retraction Methods - Searching a Discrete State Space: Graph search, 
+Depth-first Search, Breadth-first Search, Dijkstra’s Algorithm – Searching a 
+Continuous State Space: Vector Field Algorithm, Bug algorithm – Spatial 
+Uncertainty – Dynamic Environments , Probabilistic path planning 
+9 
+4 
+System Control: Horizontal Decomposition – Vertical Decomposition – 
+Hybrid Control Architectures–Middleware–High Level Control–Alternative 
+Control Formalisms–The human Robot interface. 
+Pose Maintenance and Localization: Simple landmark measurement -
+Servo Control – Recursive Filtering – Non-Geometric methods: Perceptual 
+Structure – Correlation based localization – Global Localization 
+Mapping: Sensorial Maps–Geometric Maps–Topological Maps. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks,  ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the fundamental computational issues involved in mobile 
+robotics and issues related to locomotion 
+K2 
+CO2 
+Translate the working principle of different visual and non-visual 
+sensors to select the appropriate ones for a particular application 
+K3 
+CO3 
+Explain the techniques used for representing and reasoning about space 
+K2 
+CO4 
+Classify the different software architecture in the development of 
+robotic applications 
+K1 
+CO5 
+State the techniques used for pose maintenance and localization 
+techniques used in robotics 
+K1 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computational Principles of 
+Mobile Robotics 
+Gregory Dudek and 
+Michael Jenkin 
+Cambridge University 
+Press 
+ 
+2 
+Introduction to Autonomous 
+Mobile Robots 
+Scaramuzza 
+MITPress,USA 
+2011. 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Mobile Robot 
+Control 
+Spyros G. Tzafestas 
+Elsevier, USA 
+2014 
+2 
+Sensors for mobile robot 
+H R Everett 
+CRCPress 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3
+3 
+ 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4
+3 
+2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5
+3 
+2 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+SEMESTER S5 
+KINEMATICS AND DESIGN OF MACHINE ELEMENTS 
+Course Code 
+PEBRT 523 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+NIL 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To Understand the kinematic details of machines 
+2. To apply the concepts of stress analysis, theories of failure and material science to analyse 
+and design commonly used machine components 
+3. Provides an in-depth understanding on the design of gear, belt drives which are critical 
+components of automation. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Basics of mechanisms: Links, kinematic pairs, kinematic chain, mechanism 
+and machine, schematic diagrams and description of common mechanisms 
+like linkages, cams- follower mechanisms, gear trains, belt and chain drives-
+no derivations, degrees of freedom 
+(DoF), 
+Kutzbach’s 
+formula, 
+determination of DoF of planar linkages and mechanisms with cam-follower 
+pairs. Definition of position analysis problem, derivation of solutions for 
+simple mechanisms like fourbar, slider-crank, and multi DoF closed and 
+open loop mechanisms, multiple branches of solution, exposure to graphical 
+approach. 
+9  
+2 
+Velocity analysis: Definition of the velocity analysis problem, angular 
+velocity of a rigid link and relative velocity of points, analytical method of 
+velocity analysis, derivation of equations and numerical solutions, forward 
+and inverse velocity analysis of open loop 3R mechanism. Acceleration 
+analysis: Definition of the acceleration analysis problem, angular 
+9 
+
+ 
+ 
+acceleration of a rigid link and relative acceleration of points, analytical 
+method of acceleration analysis and derivation of equations, numerical 
+solution for simple mechanisms. 
+3 
+Introduction to Design- Definition, steps in design process, preferred 
+numbers, standards and codes in design. 
+Springs- classification, spring materials, stresses and deflection of helical 
+springs, Selection of springs, concentric springs, end constructions 
+Shafts, design based on strength, rigidity and critical speed, design for static 
+and fatigue loads, repeated loading, reversed bending; Design of Coupling- 
+selection, classification, rigid and flexible coupling, design of keys and pins 
+9  
+4 
+Gears- classification, Gear nomenclature, Tooth profiles, Materials of gears, 
+virtual or formative number of teeth, gear tooth failures, Lewis equation, 
+Buckingham’s equation for dynamic load, wear load, endurance strength of 
+tooth, surface durability, heat dissipation – lubrication of gears, Merits and 
+demerits of each type of gears. Design of spur gear. 
+Basic idea of flat belt-materials for belts Selection of V-belt drives, 
+Advantages and limitations of V-belt drive 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the kinematic details of machines, kinematic pairs
+and 
+degrees 
+of freedom and determining the loop closure 
+equations of various linkages and find known and unknown 
+coordinates 
+K2 
+CO2 
+Determine the velocity and acceleration of a point in open loop planar 
+mechanisms. 
+K2 
+CO3 
+To provide knowledge in the design of common machine elements 
+such as shafts, springs and couplings. 
+K1 
+CO4 
+To provide basic design methods for gear , belt drives and bearings 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1
+3 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Kinematics and Dynamics of 
+Machinery 
+Norton R L 
+McGraw-Hill 
+ 
+2 
+Theory of Machines and 
+Mechanisms 
+John J. Uicker. Jr, Gordon 
+R. Pennock, Joseph E. 
+Shigley 
+Oxford HED 
+4th Edition 
+3 
+Machine Design 
+Jalaludeen 
+Anuradha Publications 
+2016 
+4 
+Design of Machine elements 
+V. B. Bhandari 
+McGraw Hill 
+2016 
+5 
+Machine Design – An 
+Integrated Approach 
+R. L. Norton 
+Pearson Education 
+2001 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the Publisher 
+Edition 
+and Year
+1 
+Kinematics, Dynamics and 
+Design of Machinery 
+Kenneth J. Waldron, 
+Gary L. Kinzel, Sunil 
+K. Agrawal 
+Willey 
+ 
+3rd 
+Edition, 
+2016 
+2 
+Fundamentals of 
+Kinematics and Dynamics 
+of Machines and 
+Mechanisms 
+Oleg Vinogradov 
+CRC press 
+ 
+3 
+Theory of Machines 
+Rattan S S 
+Tata McGraw-Hill 
+ 
+4 
+Fundamentals of Machine 
+Component Design 
+Juvinall R.C 
+&Marshek K.M 
+John Wiley 
+2011 
+5 
+Design of Machine 
+Elements 
+M. F. Spotts, T. E. 
+Shoup 
+Pearson Education 
+2006 
+6 
+Machine Design 
+Rajendra Karwa 
+Laxmi Publications (P) LTD, 
+New Delhi 
+2006 
+7 
+Mechanical Design of 
+Machines 
+Siegel, Maleev & 
+Hartman 
+International Book Company 
+1983 
+ 
+
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://youtu.be/MJeRFzs4oRU?si=cw8vLLusOqOzFoKD 
+2 
+https://youtu.be/40RU9lWdfTA?si=5s9lZfWYuVRbXg0L 
+3 
+https://youtu.be/T4IgtIkBnOo?si=DabloxjpyKORzSVn 
+4 
+https://youtu.be/Fb4weO0HLxk?si=PbEdIojStbpM4NA7 
+
+ 
+ 
+SEMESTER S5 
+DESIGN FOR MANUFACTURING AND ASSEMBLY

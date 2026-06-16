@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of Embedded system: Embedded Hardware Architecture,\nCommunication Interface Standards, Embedded system development\nprocess, Embedded Operating systems, Types of Embedded Operating\nsystems.\nEmbedded\nProcessors\n-\nCPU\narchitecture\nof\nARM\nprocessor(ARM9)  - CPU Bus Organization and Protocol –Five stage\npipelining – Instruction sets- ARM instruction set-Thumb instruction set.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Integration and Testing of Embedded Hardware and Firmware-\nEmbedded firmware design approaches, Embedded System Development\nEnvironment – IDEs, Cross Compilers, Disassemblers, Decompilers,\nSimulators, Emulators and Debuggers.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "RTOS based Design – Basic operating system services-structure-kernel,\nprocess, tasks and threads. Process management-memory management-device\nmanagement, Task scheduling algorithms - Non pre-emptive scheduling and\nPre-emptive scheduling.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Inter Process Communication and Synchronization –Shared data– Inter\nprocess communication -Signals – Semaphore – Message Queues – Mailboxes\n– Pipes –Sockets – Remote Procedure Calls (RPCs).",
+    "contact_hours": "9"
+  }
+]

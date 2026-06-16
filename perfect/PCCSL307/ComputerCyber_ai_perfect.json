@@ -1,0 +1,52 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Find the sum of two sparse polynomials using arrays",
+            "Find the transpose of a sparse matrix and sum of two sparse matrices",
+            "Convert infix expression to postfix (or prefix) and then evaluate using stack",
+            "Implement Queue, Dequeue, and Circular Queue using arrays",
+            "Implement backward and forward navigation of visited web pages in a web browser using doubly linked list operations",
+            "Implement addition and multiplication of polynomials using singly linked lists",
+            "Create a binary tree for a given simple arithmetic expression and find the prefix / postfix equivalent",
+            "Implement a dictionary of word-meaning pairs using binary search trees",
+            "Find the shortest distance of every cell from a landmine inside a maze",
+            "Solve the water pouring problem (10-litre, 7-litre, and 4-litre containers) modeled as a graph problem",
+            "Implement the find and replace feature in a text editor",
+            "Implement an efficient search algorithm for a sorted array",
+            "Implement Bubble Sort, Insertion Sort, Radix Sort, Quick Sort, and Merge Sort and compare the number of steps involved",
+            "Generate the possible sequence of completion for customer categories (Defence personnel, Differently abled, Senior citizen, Ordinary) using priority",
+            "Implement a spell checker using a hash table to store a dictionary of words for fast lookup with suggestions for misspelled words",
+            "Simulation of a basic memory allocator and garbage collector using doubly linked list",
+            "Find the maximum activity points from at most k events using array",
+            "Merge K sorted lists into a single sorted list using a min-heap"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Introduction to Linux and usage of terminal editors (man, ls, echo, read, more, less, cd, mkdir, find, mv, tar, wc, paste, head, tail, grep, expr, chmod, chown, redirections and piping, useradd, usermod, userdel, passwd, df, ps, ssh, ssh-keygen, ssh-copy-id)",
+            "Study of Shell scripting aspects: bash syntax, environment variables, variables, control constructs (if, for, while), aliases and functions, and accessing command line arguments",
+            "Study of startup scripts, login and logout scripts, and familiarity with systemd and system V init scripts",
+            "Write a script to create a directory structure and implement a script to list all files and directories within a specified directory showing date of creation and serial number",
+            "Write a script to automate a task and schedule it using cron, and create a script to clean up old log files periodically",
+            "Write a script to monitor system resources (CPU, memory, and disk usage) and implement a script to send an alert if resource usage exceeds a specified threshold",
+            "Study of IPv4 networking, command line tools, and network commands (ping, traceroute, nslookup, tcpdump), configuring IP addresses (dynamic and static), subnet masks, CIDR address schemes, iptables, LAN firewall configuration, and application layer (L7) proxies",
+            "Write a script to ping a list of servers and log the results, and implement a script to check if a specific port is open on a remote server",
+            "Write a script to automate common network troubleshooting commands and write a script to capture network packets using tcpdump",
+            "Write a script to start, stop, and restart network services (Apache, Nginx, MySQL) and implement a script to check the status of these services and restart them if not running",
+            "Write a script to set up basic firewall rules using iptables or firewalld, and implement a script to allow or block specific IP addresses or ranges",
+            "Familiarizing Python: variables, decision statements, iteration statements, and functions",
+            "Write a Python program to check the strength of a password",
+            "Write a keylogger / key logger detection tool program using Python",
+            "Write a Python program to implement primality testing using Miller-Rabin method",
+            "Write a Python program to implement pseudo-random number generation",
+            "Implement client-server communication using socket programming and TCP as transport layer protocol",
+            "Implement client-server communication using socket programming and UDP as transport layer protocol"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

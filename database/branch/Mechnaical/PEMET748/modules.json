@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Definitions- Robots, Robotics; Types of Robots- Manipulators, Mobile\nRobots-wheeled & Legged Robots, Aerial Robots; Anatomy of a robotic\nmanipulator-links, joints, actuators, sensors, controller; open kinematic vs\nclosed kinematic chain; degrees of freedom; Robot configurations-PPP,\nRPP, RRP, RRR; features of SCARA, PUMA Robots.\nClassification of End effectors - mechanical grippers, special tools,\nMagnetic grippers, Vacuum grippers, adhesive grippers, Active and passive\ngrippers, selection and design considerations of grippers in the robot.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Direct Kinematics- Rotations-Fundamental and composite Rotations,\nHomogeneous\ncoordinates,\nTranslations\nand\nrotations,\nComposite\nhomogeneous\ntransformations,\nScrew\ntransformations,\nKinematic\nparameters, The Denavit-Hartenberg (D-H) representation, The arm\nequation, direct kinematics problems (up to 3DOF). Inverse kinematics-\ngeneral properties of solutions and problems (up to 3DOF).\nInverse kinematics of 3DOF manipulator with concurrent wrist\n(demo/assignment only). Tool configuration Jacobian, relation between\njoint and end effector velocities.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Manipulator Dynamics: Lagrange’s formulation – Kinetic Energy\nexpression, velocity Jacobian and Potential Energy expression, Generalised\nforce, Euler-Lagrange equation, Dynamic model of planar and spatial serial\nrobots up to 2 DOF, modelling including motor and gearbox.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Trajectory Planning. Joint space trajectory planning- cubic polynomial,\nlinear trajectory with parabolic blends, trajectory planning with via points;\nCartesian space planning, point-to-point vs. continuous path planning.\nObstacle avoidance methods- Artificial Potential field, A* algorithms.\nRobot Control: The control problem, Single axis PID control-its\ndisadvantages, PD gravity control, computed\ntorque control",
+    "contact_hours": "9"
+  }
+]

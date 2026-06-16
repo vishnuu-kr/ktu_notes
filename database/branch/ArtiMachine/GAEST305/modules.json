@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to digital Systems :- Digital abstraction\nNumber Systems – Binary, Hexadecimal, grouping bits, Base conversion;\nBinary Arithmetic – Addition and subtraction, Unsigned and Signed numbers;\nFixed-Point Number Systems;  Floating-Point Number Systems\nBasic gates- Operation of a Logic circuit; Buffer; Gates - Inverter, AND gate,\nOR gate, NOR gate, NAND gate, XOR gate, XNOR gate; Digital circuit\noperation - logic levels, output dc specifications, input dc specifications, noise\nmargins, power supplies; Driving loads - driving other gates, resistive loads\nand LEDs.\nVerilog (Part 1) :-\nHDL Abstraction; Modern digital design flow - Verilog constructs: data types,\nthe module, Verilog operators.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Combinational Logic Design: –\nBoolean Algebra - Operations, Axioms, Theorems; Combinational logic\nanalysis - Canonical SOP  and POS, Minterm and Maxterm equivalence; Logic\nminimization - Algebraic minimization, K-map minimization, Dont cares,\nCode convertors.\nModeling concurrent functionality in Verilog:-\nContinuous assignment - Continuous Assignment with logical operators,\nContinuous assignment with conditional operators, Continuous assignment\nwith delay.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "MSI Logic and Digital Building Blocks\nMSI logic - Decoders (One-Hot decoder, 7 segment display decoder),\nEncoders, Multiplexers, Demultiplexers; Digital Building Blocks - Arithmetic\nCircuits - Half adder, Full adder, half subtractor, full subtractor; Comparators.\nStructural design and hierarchy - lower level module instantiation, gate level\nprimitives, user defined primitives, adding delay to primitives.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Sequential Logic Design :- Latches and Flip-Flops- SR latch, SR latch with\nenable, JK flipflop, D flipflop, Register Enabled Flip-Flop, Resettable Flip-\nFlop. Sequential logic timing considerations; Common circuits based on\nsequential storage devices - toggle flop clock divider, asynchronous ripple\ncounter, shift register.\nFinite State Machines :-\nFinite State Machines - logic synthesis for an FSM, FSM design process and\ndesign examples; Synchronous Sequential Circuits - Counters;\nVerilog (Part 2) : -\nProcedural assignment; Conditional Programming constructs; Test benches;\nModeling a D flipflop in Verilog; Modeling an FSM in Verilog.",
+    "contact_hours": "14"
+  }
+]

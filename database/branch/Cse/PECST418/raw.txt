@@ -1,0 +1,334 @@
+Course Code 
+PECST418 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GAMAT101,  
+PCCST303 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To develop a solid understanding of the fundamental principles, techniques, and algorithms 
+used in computational geometry, including geometric data structures, convex hulls, Voronoi 
+diagrams, and Delaunay triangulations. 
+2. To equip students with the skills to apply computational geometry algorithms and techniques 
+to address real-world problems in areas such as computer graphics, robotics, and geographic 
+information systems (GIS). 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Computational Geometry:-  
+Basics of Computational Geometry - Introduction and applications of 
+computational geometry, Geometric objects, and their representations, Basic 
+geometric primitives: points, lines, segments, polygons (Text 1, Chapters 1, 
+2) 
+Convex Hulls - Definition and properties of convex hulls, Graham's scan 
+algorithm, Jarvis's march (gift wrapping) algorithm, Divide and conquer 
+algorithm for convex hulls (Text 2, Section 33.3) 
+Line Segment Intersection - Problem definition and applications, Plane 
+9 
+
+ 
+ 
+sweep algorithm, Bentley-Ottmann algorithm (Text 3, Chapter 7) 
+2 
+Polygon Triangulation and Voronoi Diagrams:- 
+Polygon Triangulation - Definition and applications, Triangulation of 
+monotone polygons, Ear clipping method, Chazelle's algorithm (Text 1, 
+Chapter 3) 
+Voronoi Diagrams - Definition and properties, Incremental construction 
+algorithm, Fortune's sweep line algorithm (Text 1, Chapter 7) 
+Delaunay Triangulations - Definition and properties, Relationship with 
+Voronoi diagrams, Bowyer-Watson algorithm, Lawson's flip algorithm (Text 
+1,  Chapter 9) 
+9 
+3 
+Range Searching and Point Location :- 
+Range Searching - Problem definition and applications, 1-dimensional range 
+searching, K-dimensional range trees, Fractional cascading (Text 1, Chapter 
+5) 
+Point Location - Problem definition and applications, Trapezoidal map and 
+randomized incremental algorithm, Kirkpatrick’s point location algorithm 
+(Text 1, Chapter 6) 
+Binary Space Partitioning - Definition and applications, BSP trees 
+construction and properties, Use in computer graphics and collision detection 
+(Text 1, Chapter 12) 
+9 
+4 
+Advanced Topics and Applications :- 
+Arrangements of Lines and Duality - Arrangements of lines and complexity, 
+Zone theorem, Duality transform and its applications (Text 1, Chapter 8) 
+Motion Planning and Geometric Optimization - Problem definition and 
+applications, Visibility graphs and shortest path problems, Art gallery 
+problem, Linear programming in geometry (Text 1, Chapters 10, 11) 
+Computational Geometry in Practice - Computational geometry libraries and 
+software, Applications in robotics, computer graphics, GIS (Text 3, Chapters 
+9, 10) 
+ 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand Fundamental Concepts and Applications of Computational 
+Geometry 
+K2 
+CO2 
+Apply Algorithms for Convex Hulls and Line Segment Intersection 
+Algorithms 
+K3 
+CO3 
+Perform Polygon Triangulation and Understand Voronoi Diagrams 
+K3 
+CO4 
+Build Delaunay Triangulations and Range Searching Techniques 
+K3 
+CO5 
+Apply Advanced Computational Geometry Techniques and Algorithms 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computational Geometry: 
+Algorithms and Applications 
+Mark de Berg, Otfried 
+Cheong, Marc van Kreveld, 
+and Mark Overmars 
+Springer India 
+3/e, 2011 
+2 
+Introduction to Algorithms 
+Thomas H. Cormen, 
+Charles E. Leiserson, 
+Ronald L. Rivest, and 
+Clifford Stein 
+MIT Press 
+4/e, 2022 
+3 
+Computational Geometry in C 
+Joseph O'Rourke 
+Cambridge 
+University Press 
+2/e, 1998 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Discrete and Computational 
+Geometry Hardcover  
+Joseph O'Rourke , 
+Satyan L. Devadoss 
+Princeton University 
+Press 
+1/e,2011 
+2 
+Computational Geometry: An 
+Introduction  
+ Franco P. Preparata, 
+Michael I. Shamos  
+Springer-Verlag New 
+York Inc 
+5/e, 1993 
+3 
+Geometric Algorithms and 
+Combinatorial Optimization 
+ Martin Grötschel, 
+Laszlo Lovasz, 
+Alexander Schrijver 
+Springer-Verlag Berlin 
+and Heidelberg GmbH 
+& Co. K 
+2/e, 1993 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/106/102/106102011/ 
+2 
+https://archive.nptel.ac.in/courses/106/102/106102011/ 
+3 
+https://archive.nptel.ac.in/courses/106/102/106102011/ 
+4 
+https://archive.nptel.ac.in/courses/106/102/106102011/ 
+
+ 
+ 
+SEMESTER S4 
+CYBER ETHICS, PRIVACY AND LEGAL ISSUES 
+(Common to CS/CM/CA/AM)

@@ -1,0 +1,299 @@
+Course Code 
+PEITT743 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCITT601: Cryptography 
+and Network Security 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Students will be familiar with the working of popular blockchain platforms: bitcoin & 
+Ethereum and will acquire understanding of underlying principles of blockchain.  
+2. Students will be able to develop and deploy smart contracts in Ethereum blockchain. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours  
+1 
+Blockchain Introduction: Fundamentals of blockchain - historical 
+background, basic terminologies in Blockchain, structure of a block (till 
+this from Ref. 3), Blockchain architecture, generic elements of a blockchain, 
+How blockchain works, benefits, features, and limitations of blockchain 
+(till this from Textbook 1), Types of Blockchain, The Evolutionary 
+Transformation of Blockchain, Comparison of different generation of 
+blockchain (till this from Ref. 3) 
+Decentralization using blockchain: Methods of decentralization, Routes 
+to decentralization, Blockchain and full ecosystem decentralization, IPFS 
+basics 
+8 
+2 
+Cryptography for blockchain: cryptographic primitives - Secure Hash 
+algorithms, Applications of cryptographic hash functions, Message 
+Authentication Codes, Digital signatures, Merkle tree, Elliptic curve 
+cryptography fundamentals  
+9 
+
+ 
+ 
+Consensus Algorithms: Introducing the consensus problem, The 
+Byzantine generals problem, Fault tolerance, FLP 
+impossibility, 
+Classification and categories of consensus algorithms - CFT algorithms, 
+BFT algorithms, Nakamoto consensus, Proof of Stake, Choosing a 
+consensus algorithm  
+3 
+Bitcoin: The beginnings of Bitcoin, Bitcoin Definition, Bitcoin - a user's 
+perspective, Cryptographic keys, Addresses in Bitcoin, Transactions, The 
+transaction lifecycle, The transaction data structure, The Script language, 
+Types of scripts, Coinbase transactions, Transaction validation, Transaction 
+bugs, Bitcoin blockchain, The genesis block, Mining, Proof of work, The 
+mining algorithm, The hash rate, Mining systems, Mining pools, wallets 
+7 
+4 
+Ethereum: A General-Purpose Blockchain, Ethereum’s components, 
+Ethereum and Turing Completeness, From General-Purpose Blockchains to 
+Decentralized Applications (DApps), Ether currency units, Getting Started 
+with MetaMask, Introducing the world Computer, Externally Owned 
+Accounts (EOAs) and Contracts 
+A simple Contract: A Test Ether Faucet, Compiling the Faucet Contract, 
+Creating the Contract on the Blockchain, Interacting with the Contract, The 
+Structure of a Transaction, Special Transaction: Contract Creation, A 
+Blockchain Based Supply Chain Management Testcase ( from Ref. 3) 
+Smart Contracts and Solidity: Life Cycle of a Smart Contract, Building a 
+Smart Contract with Solidity, The Ethereum Contract ABI, Programming 
+with Solidity 
+Tokens: How Tokens Are Used, The ERC20 Token Standard, Launching 
+Our Own ERC20 Token,  
+12 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 
+Questions 
+from 
+each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+summarize foundational concepts of decentralization with blockchain 
+K2 
+CO2 
+Interpret the importance of cryptography and consensus in Blockchain 
+K2 
+CO3 
+Outline the working of Bitcoin blockchain  
+K2 
+CO4 
+Build and deploy smart contract in Ethereum blockchain 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+- 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO2 
+3 
+- 
+- 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO3 
+3 
+3 
+3 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO4 
+3 
+3 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+
+ 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Mastering Blockchain 
+Imran Bashir 
+Packt Publishing Ltd. 
+3rd Edition 
+2020 
+2 
+Mastering Ethereum 
+Andreas M. Antonopoulos 
+and Dr. Gavin Wood 
+O’Reilly Media, Inc 
+1st Edition 
+2018 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Mastering Blockchain 
+Lorne Lantz and Daniel 
+Cawrey 
+O’Reilly Media, 
+Inc., 
+1st Edition 
+2020 
+2 
+Solidity Programming 
+Essentials 
+Ritesh Modi 
+Packt Publishing 
+1st Edition 
+2018 
+3 
+Blockchain 1.0 to Blockchain 
+4.0—The Evolutionary 
+Transformation of 
+Blockchain Technology 
+Pratyusa Mukherjee, 
+Chittaranjan Pradhan 
+De Gruyter 
+May, 2021 
+4 
+Bitcoin: A Peer-to-Peer 
+Electronic Cash System 
+Satoshi Nakamoto 
+Bitcoin.org 
+Oct, 2008 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106105235 
+2 
+https://nptel.ac.in/courses/106105235 
+3 
+https://nptel.ac.in/courses/106105235 
+4 
+https://onlinecourses.swayam2.ac.in/aic21_ge01/preview 
+
+ 
+ 
+SEMESTER S7  
+MOBILE APP DEVELOPMENT

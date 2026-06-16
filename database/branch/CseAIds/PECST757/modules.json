@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Modern processors: Stored-program computer architecture- General-\npurpose cache-based microprocessor architecture - Performance metrics\nand benchmarks -Moore’s Law - Pipelining - Super scalarity - SIMD -\nMemory hierarchies - Cache ,  Cache mapping, Prefetch, Multicore\nprocessors -  Multithreaded processors - Vector processors - Design\nprinciples - Maximum performance estimates - Programming for vector\narchitectures.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Parallel computers - Taxonomy of parallel computing paradigms -\nShared-memory computers - Cache coherence - UMA,  ccNUMA,\nDistributed-memory computers - Hierarchical (hybrid) systems - Networks\n- Basic performance characteristics of networks, Buses, Switched and fat-\ntree networks - Mesh networks - Hybrids.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Shared-memory parallel programming with OpenMP:-\nShort introduction to OpenMP -  Parallel execution -  Data scoping -\nOpenMP worksharing for loops - Synchronization, Reductions, Loop\nscheduling, Tasking,Miscellaneous, Case study: OpenMP-parallel Jacobi\nalgorithm",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Distributed-memory parallel programming with MPI:-\nMessage passing - A short introduction to MPI, A simple example,\nMessages and point-to-point communication, Collective communication,\nNonblocking point-to-point communication, Virtual topologies. Example-\nMPI parallelization of a Jacobi solver - MPI implementation - Performance\nproperties.",
+    "contact_hours": "9"
+  }
+]

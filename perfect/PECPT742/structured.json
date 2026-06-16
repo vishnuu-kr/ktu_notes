@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definition and characteristics",
+            "Examples and applications",
+            "Challenges in distributed systems. Communication in Distributed Systems: Interprocess communication: Remote Procedure Call (RPC",
+            "Remote Method Invocation (RMI",
+            "Message-oriented communication"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Overview of middleware",
+            "Types of middleware (e.g",
+            "message-oriented",
+            "object-oriented",
+            "service-oriented",
+            "Middleware platforms and frameworks. Synchronization and Coordination: Logical clocks",
+            "Mutual exclusion",
+            "Election algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Middleware architecture",
+            "Types of middleware",
+            "Case studies (e.g",
+            "CORBA",
+            "DCOM). Fault Tolerance and Reliability: Fault models",
+            "Replication techniques",
+            "Consensus algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Distributed file system design",
+            "Distributed databases",
+            "Consistency models. Security in Distributed Systems: Security threats and vulnerabilities",
+            "Authentication and authorization",
+            "Secure communication protocols"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

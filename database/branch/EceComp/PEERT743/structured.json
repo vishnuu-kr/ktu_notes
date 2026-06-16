@@ -1,0 +1,46 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Definition and Origin of Robotics. Robot Anatomy. Robot Specifications. Robot Characteristics",
+      "Accuracy, Precision, and Repeatability. Classification of Robots. Advantages and Disadvantages of Robots. Robot Structure",
+      "Types of Joints and End Effectors, Mechanisms and Manipulators.Common Kinematic Arrangements. Degree of Freedom. Robot Coordinates. Areas of Applicationfor Robots"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Types of Robotic Drive Systems and Actuators: Hydraulic, Pneumatic and Electric drives",
+      "Transmission: Gears, Timing Belts and Bearings",
+      "Parameters for selection of actuators",
+      "Specification",
+      "Areas of Application for: Stepper Motor & Servo Motor",
+      "Sensors: Types and Applications of Sensors in Robotics: Position, Displacement and VelocitySensors",
+      "Tactile Sensors for Contact and Proximity Assessment"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Positionand Orientation of Objects. Rotation. Euler Angles. Rigid Motion Representation using Homogenous Transformation Matrix. Kinematic Modelling:Translation and Rotation Representation, Coordinate Transformation, Forward and Inverse Kinematics. Forward Kinematics",
+      "Link Coordinates, Denavit",
+      "Hartenberg Representation,Application of DH Convention to Different Serial Kinematic Arrangements"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Open Loop- Closed Loop, Transfer Functions, Control Laws: P, PD, PID, Linearand Non-linear Controls",
+      "Control Hardware and Interfacing",
+      "Embedded Systems: Microcontroller Architecture and Integration with Sensors, Actuators, Components"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

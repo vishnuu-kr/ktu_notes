@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basic Fuzzy Set Theory :-\nIntroduction -  Uncertainty, Imprecision and Vagueness. Crisp vs Fuzzy sets.\nRepresentation of Fuzzy sets. Membership Functions – Types, Basic operations\n- dilation, concentration, normalization, Linguistic hedges. Properties of fuzzy\nset - Level Sets - Alpha cut representation. Operations on fuzzy sets- fuzzy\ncomplement, fuzzy intersection, fuzzy union, aggregation operations",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Fuzzy Relations :-\nOperations on Fuzzy relations: union, intersection, complement, cartesian\nproduct. Fuzzy composition- Max- min, Max – product. Extension Principle-\nFuzzy arithmetic – fuzzy numbers, arithmetic operations on fuzzy numbers.\nFuzzy Reasoning – Generalized Modus Ponens (GMP) and Generalized Modus\nTollens (GMT).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Fuzzification and Defuzzification Methods :-\nFuzzy inference – Zadeh rule, Mamdani rule. Development of membership\nFunctions – Intuition, Inference, Rank ordering, Inductive reasoning.\nDefuzzification to Scalars - Max membership principle, Centroid method,\nWeighted average method, Mean max membership, Center of sums, Center of\nlargest area, First (or last) of maxima.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Fuzzy Inference Systems :-\nApproximate Reasoning, Fuzzy (Rule-Based) Systems – Multiple conjunctive\nantecedents, Multiple disjunctive antecedents, Aggregation of fuzzy rules,\nGraphical Techniques of Inference. Fuzzy Controllers -Mamdani FIS, Larsen\nModel.",
+    "contact_hours": "9"
+  }
+]

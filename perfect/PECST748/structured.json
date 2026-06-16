@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic concepts",
+            "applications of Real-Time systems",
+            "basic model of Real-Time systems",
+            "characteristics of Real-Time systems",
+            "types of Real-Time systems: hard",
+            "firm",
+            "soft",
+            "timing constraints",
+            "modelling timing constraints"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Basic concepts",
+            "clock driven scheduling",
+            "table driven scheduling",
+            "cyclic",
+            "schedulers",
+            "hybrid schedulers",
+            "event driven scheduling",
+            "EDF Scheduling",
+            "resource sharing among RT tasks",
+            "Priority inversion",
+            "Priority Inheritance Protocol",
+            "Highest Locker Protocol",
+            "Priority Ceiling Protocol",
+            "Scheduling Real-Time tasks in multiprocessor and distributed systems",
+            "Fault tolerant scheduling of tasks",
+            "clocks in distributed Real-Time systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Time services",
+            "Features of real-time operating systems",
+            "UNIX and Windows as RTOS",
+            "POSIX",
+            "PSOS",
+            "VRTX",
+            "RT Linux",
+            "Lynx",
+            "other RTOS",
+            "benchmarking RT OS",
+            "Real-Time OS: OS services",
+            "I/O subsystem",
+            "Network OS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "QoS framework, models, Real-Time Communication in a LAN, IEEE 802.4, RETHER, Communication over Packet Switched Networks, Routing algorithms, RSVP, rate control",
+            "RT databases - Applications, characteristics of temporal data, Concurrency control, Commercial RT databases, Special topics in Real-Time systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

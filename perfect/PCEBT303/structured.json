@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Binary",
+            "Octal",
+            "and Hexadecimal number systems - Representation of negative numbers in binary - Binary arithmetic. Binary codes: BCD & BCD addition",
+            "XS-3 & Gray Codes",
+            "Error detection and correction codes - Parity & Hamming codes. Boolean algebra: Operations",
+            "Laws & Theorems",
+            "De Morgan’s theorems - SOP & POS Boolean expressions and truth tables - Formation of switching functions from word statements",
+            "Minterm and Maxterm expansions",
+            "Incompletely specified functions. Minimization of Boolean Expressions: Algebraic",
+            "Karnaugh map (up to 5 variables) - Realization using basic gates and universal gates"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Adders & Subtractors - Types",
+            "Ripple carry & Carry look ahead adders",
+            "BCD adder. Code converters - examples & Comparators. Multiplexers",
+            "Demultiplexers",
+            "Decoders & Encoders. Basics of Verilog programming: Basic language elements -identifiers",
+            "data objects",
+            "scalar data types",
+            "operators. Modelling and Implementation of logic gates using Verilog codes. Modelling and Implementation of simple combinational circuits at the gate level using Verilog codes. Sequential Logic circuits & Design: Latches - SR Latch. Flip-Flops - SR",
+            "D & T Flip Flops - Level & Edge triggered flip flops - Synchronous & Asynchronous inputs - Conversion between flip flops. Master slave flip flops"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "SISO",
+            "SIPO",
+            "PISO",
+            "PIPO shift registers",
+            "Right & Left shifts",
+            "Bidirectional & Universal shift registers. Applications: Serial binary adder Counters: Asynchronous counters - Up",
+            "Down and Up/ Down counter",
+            "Mod n counters. Shift register counters: Ring & Johnson counters. Design of Synchronous counters Introduction to design of synchronous sequential circuits using Finite State Machines: Mealy & Moore types - Flip flops"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to different logic families",
+            "Standard logic levels - Current and voltage parameters - fan in and fan out - Propagation delay",
+            "noise consideration. TTL: Basic working principle of a TTL NAND gate - Totem pole and Open collector gate output configurations - Tri-state logic - characteristics of a TTL NAND gate. CMOS: Basic working principle of a CMOS inverter",
+            "Comparison of TTL & CMOS",
+            "Interfacing TTL & CMOS ICs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Artificial Intelligence:-Introduction, Foundation and history of AI Agents and Environments",
+      "The concept of rationality",
+      "The nature of environments, Structure of agents. Problem solving Agents Well-defined problems and solutions, Formulating problems",
+      "Example problems- vacuum world, 8-puzzle, 8-queens"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Searching:-Depth First Search, Breadth First Search, Iterative Deepening Search. Heuristic Search strategies - Heuristic functions, The effect of heuristic accuracy on performance",
+      "Generate and test, Greedy best first search, A* algorithm, Constraint satisfaction problems, Adversarial search - Games, Optimal Decision in games, The minimax algorithm, Alpha - beta pruning"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Knowledge-Based Agents :-The Wumpus World",
+      "Logic",
+      "Propositional Logic",
+      "Reasoning Patterns in Propositional Logic",
+      "First order logic",
+      "Inference in first order logic",
+      "propositional vs. first order inference",
+      "unification & lifts forward chaining",
+      "Backward chaining"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Reinforcement Learning :- Learning from Rewards",
+      "Passive Reinforcement Learning",
+      "Active Reinforcement Learning",
+      "Generalization in Reinforcement Learning",
+      "Policy Search",
+      "Apprenticeship and Inverse Reinforcement Learning",
+      "Applications of Reinforcement Learning"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

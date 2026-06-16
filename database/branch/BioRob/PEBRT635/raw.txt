@@ -1,0 +1,329 @@
+Course Code 
+PEBRT635 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+NIL 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. This course will enable the students to learn fundamental digital image processing and 
+machine vision concepts and their application to the fields of robotics and automation 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Image Acquisition, Lenses and Cameras: Pinhole camera, Gaussian Optics, 
+Depth Field, Telemetric lenses, Lens aberrations Cameras: CCD cameras, 
+CMOS Camera, Colour cameras: Single chip cameras, Three chip cameras, 
+Camera performance parameters: noises, dynamic range, Camera-Computer
+interfaces, Digital video signals: camera link, IEEE1394, USB2.0, USB 3 
+vision 
+9 
+2 
+Image Fundamentals: Images, regions, piecewise contours, Image 
+Enhancement: contrast enhancement, contrast normalization, Image 
+Smoothing: Temporal Averaging, Mean Filter, Noise Suppression by Linear 
+Filters, Median and Rank Filters, 2-D Fourier Transform: Continuous 
+Fourier Transform, Discrete Fourier Transform. 
+Geometric 
+Transformations: 
+Affine 
+Transformations, 
+Projective 
+Transformations 
+9 
+3 
+Image 
+Transformations: 
+Nearest-Neighbour 
+Interpolation, 
+Bilinear 
+Interpolation, Bicubic Interpolation, Smoothing to Avoid Aliasing, 
+Projective Image Transformations, Transformations, Image Segmentation 
+Thresholding: Global Thresholding, Automatic Threshold Selection, 
+9  
+
+ 
+ 
+Dynamic Thresholding, Variation Model, morphological operations 
+4 
+Image Segmentation: Region Growing, Edge Based approaches to 
+segmentation, Graph-Cut, Mean-Shift, MRFs, Texture Segmentation; Object 
+detection 
+Pattern Analysis: Clustering: K-Means, Mixture of Gaussians, Classification: 
+Discriminant 
+Function, Supervised, Un-supervised, 
+Semi-supervised; 
+Classifiers: Bayes, KNN, ANN models; Dimensionality Reduction: PCA, 
+LDA, ICA 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Internal Ex 
+Evaluate  
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+Assignment: 20 Marks 
+Students should evaluate and analyze a real-world problem, assess the proposed solutions, 
+conclude which solution is most appropriate for the problem, and then implement the chosen 
+solution using executable code or simulate it using relevant software or supported hardware 
+platforms. 
+Criteria for evaluation: 
+1. Problem Definition (K4 - 4 points) 
+a. Clearly defines the real-world problem. 
+b. Examine and identifies relevant contextual factors (constraints, 
+resources, objectives). 
+2. Problem Analysis (K4 - 4 points) 
+a. Break-down and presents a well-reasoned solution approach. 
+b. Compare and justify the proposed solutions with evidence and logical 
+reasoning. 
+3. Evaluate (K5 - 4 points) 
+a. Thoroughly evaluate the proposed solutions. 
+b. Compares trade-offs, advantages, and disadvantages. 
+c. Considers feasibility, scalability, and practical implications. 
+4. Implementation (K5 - 4 points) 
+
+ 
+ 
+a. Select the most feasible solution by implementing the proposed 
+solutions. 
+b. Successfully translates the chosen solution into an executable code or 
+simulation using relevant software suit or supported hardware 
+platform. 
+c. Demonstrates proficiency in simulation / emulation practices 
+(readability, efficiency, error handling). 
+5. Conclusion (K4- 2 points, K5 – 2 points) 
+a. Summarizes findings and insights. State which solution is most 
+appropriate for the problem. (K4) 
+b. Reflects critical thinking and informed decision-making. (K5) 
+Scoring: 
+1. Accomplished (4 points): Exceptional analysis, clear implementation, and 
+depth of understanding. 
+2. Competent (3 points): Solid performance with minor areas for improvement. 
+3. Developing (2 points): Adequate effort but lacks depth or clarity. 
+4. Minimal (1 point): Incomplete or significantly flawed. 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out of 
+which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the vision capturing systems and its industry standards 
+K2 
+CO2 
+Acquire images and standardize the images by applying standard 
+techniques like smoothing and filtering. 
+K3 
+CO3 
+Apply various transform tools like frequency domain and affine 
+transform. 
+K3 
+CO4 
+Apply various segmentation algorithms. Apply state-of-the-art pattern 
+analysis techniques like clustering, classifying and 
+dimensionality reduction 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Machine Vision Algorithms 
+and Applications  
+Carsten Steger, Markus 
+Ulrich, Christian 
+Wiedemann 
+WILEY-VCH, 
+Weinheim 
+2008 
+2 
+Algorithms and Applications, 
+Richard Szeliski, 
+Computer Vision 
+Springer-Verlag 
+London Limited  
+2011 
+3 
+Computer Vision: A Modern 
+Approach 
+ D. A. Forsyth, J. Ponce 
+Pearson Education, 
+2003 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+3 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Image Processing,  
+Rafael C. Gonzalez and 
+Richard E.woods 
+Addition – Wesley 
+Publishing Company, 
+New Delhi 
+2007 
+2 
+High-Level Vision: 
+Object recognition and 
+Visual Cognition,  
+Shimon Ullman 
+A Bradford Book, 
+USA 
+2000 
+3 
+A Do-It-Yourself Guide to 
+Robot Operating System -
+Volume I,  
+R.Patrick Goebel 
+A Pi Robot Production 
+2012 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://youtu.be/uvXTZxSzdMk?si=VO8rnpQ2ymfrrMM1 
+2 
+https://youtu.be/VYgFAdvDpzM?si=Xwn72-QGN6JDxTVx 
+3 
+https://youtu.be/RCfjuSDKuTY?si=rGVstg_QYcRgGR82 
+4 
+https://youtu.be/3qJej6wgezA?si=ZWNDEMVALDI2HAGj 
+5 
+https://youtu.be/Z66_2_VG_k8?si=ZHLLKO9GuHQIu5YN 
+
+ 
+ 
+SEMESTER S6 
+SOFT COMPUTING AND COMPUTER VISION FOR ROBOTS

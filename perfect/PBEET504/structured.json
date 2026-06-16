@@ -1,0 +1,74 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to microprocessors- Features and Architecture of 8085-Registers of 8085 - Flags - 8085 Pin diagram- Pins",
+            "Signals and functions - Assembly language programming- Basic Instruction set to write Simple programs - Arithmetic",
+            "Logical",
+            "Branching instructions",
+            "Opcodes",
+            "hand coding",
+            "Programs involving 8 and 16bit Addition",
+            "Subtraction",
+            "Memory Reading and writing",
+            "Sorting - Addressing modes-Classification of instructions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Stack and Subroutines",
+            "CALL and RETURN instructions",
+            "Timing and control",
+            "Machine cycles, instruction cycle and T states",
+            "fetch and execute cycles",
+            "Timing diagram for instructions- Delay subroutines",
+            "Interrupts- Interrupt service Routines- Interfacing ADC and DAC"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to Embedded Systems-Application domain",
+            "features and characteristics",
+            "Microprocessors and Micro controllers - Choice and suitability for applications Introduction to Arduino UNO(8bit)- Hardware fundamentals of ATmega328Pmicrocontroller based Board. Arduino Architecture",
+            "Pin diagram and functions of Pins- Overview of main features such as I/O Ports",
+            "Timers",
+            "interrupts",
+            "ADC (Introduction only). Introduction to Arduino IDE- Arduino Libraries",
+            "Steps for creating an Arduino program- Arduino Sketch Structure and Flow- Setup and loop functions. Programming in Embedded C. Data types- operators",
+            "conditional statements- Loops",
+            "Arrays and functions- Built in functions in Arduino -Program to blink an LED and its control",
+            "Interfacing LCD",
+            "Seven Segment LED",
+            "switch Interface",
+            "Binary counter Working with LED Controlled by Switch/ Potentiometer",
+            "Interfacing with Relays",
+            "Buzzer",
+            "Working with Basic sensors and actuators using Arduino"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Classification of Microprocessors based on the word length",
+            "architecture and Instruction Set- Reduced Instruction Set Computer (RISC) and Complex Instruction Set Computer (CISC). Features and characteristics Introduction to Arduino due(32bit)- micro controller board (based on the atmel sam3x-- arm cortex- m3 cpu)- Features",
+            "General Specifications Overview",
+            "General architecture-Features OF Microcontroller",
+            "INPUTS",
+            "OUTPUTS",
+            "Ratings",
+            "Functional Overview",
+            "Pinout-familiarization of the ports of the board. Programming Basics- Arduino IDE-Use of Timer",
+            "Interfacing of ADC and DAC -PWM implementation - Introduction to Arduino Cloud Editor"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

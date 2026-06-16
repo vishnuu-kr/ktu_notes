@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Fault Tolerance - Definitions and key concepts, Importance in\nnetworked systems\nTypes of Faults and Failures - Crash failures, omission failures, timing\nfailures, and Byzantine failures, Impact on system performance and reliability\nRedundancy and Replication Techniques - Hardware vs. software redundancy,\nData redundancy (RAID levels and their implications), Replication strategies:\nprimary-backup, quorum-based",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Fault Detection Mechanisms - Basic fault detection techniques: heartbeat,\nmonitoring, logging, Tools and frameworks for fault detection (basic\noverview)\nFault Diagnosis and Isolation - Techniques for identifying and isolating faults,\nPractical examples and simplified tools\nRecovery Strategies - Checkpointing and rollback basics,  Simple transaction\nrecovery mechanisms",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Distributed Consensus and Coordination - Introduction to consensus\nalgorithms: Paxos, Raft, Basic concepts of coordination services: Zookeeper,\nConsul\nLoad Balancing and Failover - Principles of load balancing in fault-tolerant\nsystems, Simple failover strategies and practical case studies\nNetwork Fault Tolerance - Basic network redundancy and routing protocols,\nHandling network partitioning and latency issues",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Fault Tolerance in Modern Systems - Fault tolerance in cloud computing and\nmicroservices, Real-world applications and case studies\nSecurity Considerations - Impact of security breaches on fault tolerance,\nDesigning fault-tolerant systems with basic security considerations\nEmerging Trends and Future Directions - Fault tolerance in IoT and edge\ncomputing, Current research and future directions\nProject Presentations and Review - Student presentations of fault-tolerant\nsystem projects, Review of key concepts and course wrap-up",
+    "contact_hours": "9"
+  }
+]

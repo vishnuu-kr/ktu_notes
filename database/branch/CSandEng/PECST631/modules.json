@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Software Testing & Automation:-\nIntroduction to Software Testing - Concepts, importance of testing, software\nquality, and real-world failures (e.g., Ariane 5, Therac 25); Software Testing\nProcesses - Levels of thinking in testing; Testing Terminologies - Verification,\nvalidation, fault, error, bug, test cases, and coverage criteria; Types of Testing -\nUnit, Integration, System, Acceptance, Performance (stress, usability,\nregression), and Security Testing; Industry Trends - AI in test case automation,\nIntroduction to GenAI in testing; Testing Methods - Black-Box, White-Box,\nand Grey-Box Testing; Automation in Testing - Introduction to automation\ntools (e.g., Selenium, Cypress, JUnit); Case Study- Automation of Unit Testing\nand Mutation Testing using JUnit.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Unit Testing, Mutation Testing & AI-Driven Automation:-\nUnit Testing- Static and Dynamic Unit Testing, control flow testing, data flow\ntesting, domain testing; Mutation Testing- Mutation operators, mutants,\nmutation score, and modern mutation testing tools (e.g., Muclipse); JUnit\nFramework - Automation of unit testing, frameworks for testing in real-world\nprojects; AI in Testing - GenAI for test case generation and optimization,\nimpact on automation; Industry Tools - Application of AI-driven testing tools\nin automation and predictive testing; Case Study - Mutation testing using\nJUnit, AI-enhanced test case automation.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Advanced White Box Testing & Security Testing:-\nGraph Coverage Criteria - Node, edge, and path coverage; prime path and\nround trip coverage; Data Flow Criteria - du paths, du pairs, subsumption\nrelationships; Graph Coverage for Code - Control flow graphs (CFGs) for\ncomplex structures (e.g., loops, exceptions); Graph Coverage for Design\nElements - Call graphs, class inheritance testing, and coupling data-flow pairs;\nSecurity Testing - Fundamentals, tools (OWASP, Burp Suite), and their role in\nprotecting modern applications; Case Study - Application of graph based\ntesting and security testing using industry standard tools.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Black Box Testing, Grey Box Testing, and Responsive Testing:-\nBlack Box Testing - Input space partitioning, domain testing, functional testing\n(equivalence class partitioning, boundary value analysis, decision tables,\nrandom testing); Grey Box Testing - Introduction, advantages, and\nmethodologies (matrix testing, regression testing, orthogonal array testing);\nPerformance Testing - Network latency testing, browser compatibility,\nresponsive testing across multiple devices (e.g., BrowserStack, LambdaTest);\nIntroduction to PEX - Symbolic execution, parameterized unit testing,\nsymbolic execution trees, and their application; GenAI in Testing - Advanced\nuse cases for predictive and responsive testing across devices and\nenvironments; Case Study- Implementation of black-box, grey-box, and\nresponsive testing using PEX and AI-driven tools.",
+    "contact_hours": "10"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of deep learning and its applications: Differences between\nmachine learning and deep learning, comparisons in applications.\nIntroduction to neural networks: Neurons, layers, activation functions,\nconcepts of forward and backward propagation.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Overview\nof\npopular\ndeep\nlearning\nframeworks:\nTensorFlow,\nKeras,PyTorch. Setting up the environment and basic operations. Building\nand training a simple neural network using  TensorFlow/Keras/PyTorch.\nIntroduction to deep feedforward networks: Convolutional neural networks\n(CNNs) - architecture, operations, and applications, recurrent neural\nnetworks (RNNs) - architecture, operations, and applications.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Data preprocessing and augmentation: Loss functions and optimization\nalgorithms, techniques to avoid overfitting - Regularization, dropout, and\nbatch normalization, identification of suitable algorithms.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Transfer learning and pre-trained models: Generative adversarial networks\n(GANs), concepts and applications, autoencoders and their applications in\nanomaly detection and compression. Case studies of deep learning\napplications in various industries.",
+    "contact_hours": "9"
+  }
+]

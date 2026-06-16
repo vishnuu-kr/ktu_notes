@@ -1,0 +1,304 @@
+Course Code 
+PCIET601 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To enable students to construct a theoretical base to model discrete and continuous systems.  
+2. To equip students to model and simulate discrete and continuous systems.  
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to system modelling: Concepts of a system, system 
+environment, continuous and discrete systems, system models, comparison 
+of analytical methods and simulation, areas of application of simulation, 
+steps in discrete event simulation study. 
+Random Numbers: Properties of random numbers, generation of pseudo-
+random numbers, random number generators. Tests for random numbers- 
+frequency, gap, run, and Poker tests, test for autocorrelation, Monte Carlo 
+method. 
+ 
+11 
+2 
+Generation of random variates: Inverse transformation method for 
+exponential, uniform, Weibull, triangular, and discrete distributions, Direct 
+transformation method for normal and lognormal distributions, Acceptance-
+rejection technique for Poisson and Gamma distributions. 
+Input modelling: Data collection, identifying the distribution with the 
+collected data, goodness of fit tests, selecting input models without data. 
+Verification and validation of simulation models, Output data analysis, 
+Variance reduction techniques. 
+Time Advance Mechanisms for discrete event simulation: Next-Event 
+time advance and fixed increment time advance methods. 
+ 
+11 
+
+ 
+ 
+3 
+System dynamic modelling: Evolution of system dynamics as a system 
+enquiry methodology, elements of system dynamics modelling- physical 
+flows, information flows, level & rate variables, delays, information 
+smoothing, table functions and table function multipliers, causal loop 
+diagramming, flow diagrams. Steps for Modelling in system dynamics. 
+11 
+4 
+ 
+Behaviour of linear lower order systems: Analytical approach - first order 
+positive and negative feedback systems, pure second order positive and 
+negative feedback systems.  
+Modes of dynamic behaviour:  Exponential growth, goal seeking, 
+oscillation, interactions of fundamental modes. Principles of simulation 
+modelling, developing model equations, algorithms for Euler integration, 
+hand simulation of system dynamics models. S-Shaped growth- epidemics, 
+innovation, diffusion and growth of new products. Overview of Software 
+packages for System modelling and simulation. 
+ 
+11  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 = 24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcomes 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the basic concepts of the system and its simulation, Demonstrate 
+the generation of random numbers and its testing. 
+K2 
+CO2 
+Perform input modeling for discrete simulation, verify and validate 
+simulation models and perform output data analysis 
+K3 
+CO3 
+Illustrate various elements of system dynamics modelling, Construct 
+causal loop diagrams and Flow diagrams. 
+K3 
+CO4 
+Develop the fundamental modes of dynamic behaviour and their 
+interactions; Model and Analyze systems using the principles of system 
+dynamics. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Discrete Event System 
+Simulation  
+Jerry Banks 
+Pearson Education 
+5th  Edition, 
+2013 
+2 
+Introduction to System 
+Dynamic Modeling 
+M C Bora, Pratap K J 
+Mohapatra and P Mandal 
+Universities Press 
+1st  Edition, 
+1994 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+3 
+2 
+2 
+2 
+3 
+1 
+- 
+- 
+1 
+1 
+1 
+2 
+CO2 
+3 
+3 
+3 
+2 
+3 
+2 
+- 
+- 
+1 
+1 
+1 
+2 
+CO3 
+3 
+3 
+2 
+2 
+3 
+3 
+- 
+- 
+1 
+1 
+1 
+2 
+CO4 
+3 
+3 
+3 
+3 
+3 
+3 
+- 
+- 
+1 
+1 
+1 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the Publisher
+Edition and 
+Year 
+1 
+Simulation Modeling and 
+Analysis 
+A M Law 
+McGraw Hill 
+6th Edition, 
+2024
+2 
+System Simulation 
+Geoffrey Gordon 
+Prentice Hall India 
+2nd  Edition, 
+1979
+3 
+Discrete Event Simulation: 
+Modeling, Programming and 
+Analysis 
+George Fishman 
+Springer series in 
+Operations Research 
+and Financial Engg.
+1st  Edition, 
+2001 
+4 
+System Simulation with Digital 
+Computer 
+Deo Narsingh 
+Prentice Hall India 
+24th Edition, 
+2011 
+ 
+5 
+ 
+Simulation 
+Sheldon M. Ross 
+Elsevier 
+6th Edition, 
+2023 
+6 
+Business Dynamics – Systems 
+Thinking  and Modeling for a 
+Complex World 
+John D. Sterman 
+McGraw Hill 
+1st Edition, 
+2000 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Link ID 
+https://nptel.ac.in/courses/112107220 
+https://onlinecourses.nptel.ac.in/noc22_me18
+
+ 
+ 
+SEMESTER S6 
+FINANCIAL ENGINEERING

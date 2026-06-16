@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction To The Concepts Of Security:\nNeed for security, Security approaches, Principles of security, Types of\nattacks, OSI Security Architecture, , Public key cryptosystems vs. Symmetric\nkey cryptosystems, Encrypting communication channels.\nSymmetric Key Cryptosystems:\nOverview Of Symmetric Key Cryptography: Block cipher principles,\nData Encryption Standard (DES),  Triple DES, International Data Encryption\nAlgorithm (IDEA), Advanced Encryption Algorithm (AES),Block cipher\nmodes of operation, Stream cipher",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Public Key Cryptosystems: Principles of public key cryptosystems, RSA\n.\nalgorithm, RSA illustration, Attacks, ElGamal cryptographic system,\nKnapsack algorithm, Diffie-Hellman key exchange algorithm, Elliptical\ncurve cryptosystems",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Key Management: Symmetric key distribution using asymmetric\nencryption, Distribution of public keys, Generating keys, transferring keys,\nVerifying keys, Updating keys, Storing keys, Backup keys, Compromised\nkeys-\nAuthentication: Message authentication codes (MAC),\nHash functions, Security of Hash functions and MAC, Message Digest 5\n(MD5), Secure Hash Algorithm (SHA)-512",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Cryptographic Solutions- Product Specific Security Based on RFID\nTechnology, Strengthening the Security of Machine-Readable Documents,\nEnhancing Security of Class I Generation 2 RFID against Traceability and\nCloning. Light weight cryptographic Algorithms-Block Cipher – Stream\nCipher -Permutation based – Examples Comparisons.",
+    "contact_hours": "11"
+  }
+]

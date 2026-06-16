@@ -1,0 +1,471 @@
+Course Code 
+PBEBT404 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCEBT303 
+Course Type 
+Theory 
+Course Objectives: 
+1. Familiarize Microcontrollers and its programming 
+2. To familiarize the interfacing of microcontroller with external devices 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Intel 8051: Architecture - ALU, internal RAM and ROM, Organization 
+of ports. Registers of 8051: data pointer, program counter, CPU 
+registers, register banks, stack and stack pointer, PSW, Special Function 
+Registers.   Addressing modes of 8051. Instruction set of 8051- 
+Assembler directives, Data transfer instructions, Arithmetic, logical, 
+compare and rotate instructions- Bit processing instructions- Program 
+flow control instructions 
+ 
+9 
+2 
+Programming using Assembly language:  Illustrative examples using 
+of all types of instructions. Programming the ports of 8051. 
+Programming in C: Illustrative examples of C programming for 8051-
+time delay and I/O operations, logic operations 
+ 
+9 
+3 
+Timers of 8051: All modes of operations, programming the timers in 
+assembly language and C language, timer as an event counter. Serial 
+Communication with 8051: Introduction to serial communication, 
+RS232 protocol. Serial communication programming in assembly 
+language. Interrupt system of 8051: introduction to interrupts- 
+interrupts in 8051-priority of interrupts- Interrupt handling and 
+9 
+
+ 
+ 
+execution for timer, external and serial interrupts. Programming to 
+handle all types of interrupts in assembly language 
+4 
+Interfacing of 8051: LCD, stepper motor, ADC, 8255. Introduction 
+to AVR microcontroller: Overview of AVR family, ATmega32 – 
+Architectural overview, CPU core, memory organization. Introduction 
+to 
+PIC 
+microcontrollers: 
+Architectural 
+features, 
+Memory 
+organization, Core and peripheral features 
+ 
+9 
+ 
+ 
+Project based learning: 9 Hrs 
+• 
+In the first class, students shall be given an awareness and/ or guidelines on how to 
+implement learn this course through a project and form groups of maximum 5 members in 
+the first week. 
+• 
+Each group identify a project where microcontrollers can be used for simple biomedical 
+applications and perform a literature survey. 
+• 
+Choose a suitable microcontroller/ microcontroller- based development boards for your 
+application and the input-output devices to be interfaced 
+• 
+Develop the block diagram and present before the jury within first month after the 
+commencement of classes   
+•      Implement necessary hardware and software to develop the prototype 
+•      Prepare a report and present before the jury for final evaluation. 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Familiarize with the architecture and instruction set of Intel 8051 
+microcontroller to program 8051 using assembly and C language. 
+K3 
+CO2 
+Demonstrate the use of timers, serial communication and 
+interrupts of 8051. 
+K3 
+CO3 
+Interface 8051 with peripherals. 
+K3 
+CO4 
+Familiarize with the architecture of 8-bit AVR Microcontrollers 
+and PIC microcontrollers 
+K3 
+CO5 
+Design and implement simple projects using microcontrollers 
+K6 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+ 
+ 
+ 
+Part A
+Part B
+Total
+ 2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 2 marks 
+(8x2 =16 marks) 
+ 
+2 questions will be given from each module, out of 
+which 1 question should be answered.  
+ 
+Each question can have a maximum of 2 sub 
+divisions.  
+ 
+Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3
+3
+1
+-
+-
+- 
+-
+-
+-
+-
+-
+-
+CO2 
+3
+3
+3
+2
+-
+- 
+-
+-
+-
+-
+-
+-
+CO3 
+3
+3
+3
+2
+-
+- 
+-
+-
+-
+-
+-
+-
+CO4 
+3
+3
+1
+-
+-
+- 
+-
+-
+-
+-
+-
+-
+CO5 
+3
+3
+-
+-
+3
+3
+-
+-
+3
+3
+3
+3
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+The 8051 Microcontroller 
+and Embedded Systems 
+using Assembly and C 
+Muhammed Ali Mazidi 
+and Janice 
+GillispieMazidi 
+Pearson Education 
+4th edition 
+2 
+The AVR Microcontroller 
+and Embedded Systems 
+Using Assembly and C 
+Muhammad Ali 
+Mazidi, Sarmad Naimi 
+and SepehrNaimi 
+Pearson Education 
+2013 
+3 
+Design with PIC 
+microcontrollers 
+John B. Peatman 
+Pearson Education 
+ISBN: 978-
+81-7758- 
+551-3 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The 8051 Microcontroller 
+Kenneth J Ayala 
+Cengage Learning 
+3rd 
+edition 
+2 
+Programming and 
+Customizing the AVR 
+Microcontroller 
+Dhananjay Gadre 
+McGraw Hill 
+Education 
+ 
+3 
+The 8051 
+Microcontrollers: 
+Architecture 
+Programming and 
+Applications 
+K Uma Rao & Andhe Pallavi 
+Pearson Education 
+1e/2011 
+4 
+PIC data sheets and 
+manuals 
+PIC18F2455/2550/4455/4550 
+Data Sheet – Microchip 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+https://www.youtube.com/watch?v=V9AzfvkWPW0
+https://www.youtube.com/watch?v=3hltHQXAQm8
+https://www.youtube.com/watch?v=5V3N1SYgVhQ
+https://www.youtube.com/watch?v=AdMxMBH393Q
+2 
+https://www.youtube.com/watch?v=TphNPocrvQE
+https://www.youtube.com/watch?v=MKzLaZxnqFY
+https://www.youtube.com/watch?v=GHYaAUVKtDA
+https://www.youtube.com/watch?v=2AVOxLPKjeA
+3 
+https://www.youtube.com/watch?v=E81Vz-0ErPA
+https://www.youtube.com/watch?v=K4ItnDQiwec
+https://www.youtube.com/watch?v=0fMLDXwcT_w
+https://www.youtube.com/watch?v=MqhxeOi8R1Q
+https://www.youtube.com/watch?v=JBv4y-4_oaw
+ 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery Project identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops 
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group 
+discussion 
+Project Analysis 
+Data Collection 
+Evaluation  
+Question answer
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical 
+thinking 
+andself-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project 
+reformation 
+(If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case 
+Study/ 
+Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 
+5 minutes video 
+ 
+ 
+ 
+
+ 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+1. Project Planning and Proposal (5 Marks) 
+ 
+Clarity and feasibility of the project plan  
+ 
+Research and background understanding  
+ 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions and handling feedback  
+3. Involvement in the Project Work and Team Work (3 Marks) 
+ 
+Active participation and individual contribution  
+ 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+ 
+Adherence to the project timeline and milestones  
+ 
+Application of theoretical knowledge and problem-solving  
+ 
+Final Result 
+5. Final Presentation (5 Marks) 
+ 
+Quality and clarity of the overall presentation  
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions 
+
+ 
+ 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ 
+Overall quality and technical excellence of the project  
+ 
+Innovation and originality in the project  
+ 
+Creativity in solutions and approaches
+
+ 
+ 
+SEMESTER 4 
+ELECTRICAL TECHNOLOGY FOR BIOMEDICAL ENGINEERS

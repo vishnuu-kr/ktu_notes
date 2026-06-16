@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Difference Between Microprocessor and Microcontroller; 8051 Pin Diagram",
+            "8051 Architecture: I/O Port Structure, Register Organization (Special Function Registers), Memory Organization",
+            "Instruction Set, Addressing Modes",
+            "Simple Assembly Language Programs: Arithmetic Operations (Addition, Subtraction, Multiplication, Division), Block Data Transfer from One Internal Memory Location to Another"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "8051 Microcontroller Programming and Peripherals: Timers/Counters, Serial Communication",
+            "Interrupt Structure and Programming",
+            "Interfacing of Peripherals: LED (ALP and Embedded C Programming), OLED, Sensors",
+            "Simple Switch and Keyboard Interfacing",
+            "7 Segment LED (Embedded C Programming)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Definition, Features, and Simple Examples of Embedded Systems",
+            "Applications of Embedded Systems: Consumer Electronics, Robotics, Automobiles",
+            "Embedded System Architecture: Hardware - Processor, Controller, SoC, Memory, Peripherals",
+            "Embedded System Architecture: Software - Application, Middleware, OS, Device Drivers",
+            "Tool Chain: Assembler, Interpreter, Compiler, Linker, Loader, Debugger",
+            "Embedded System Design Process: Requirement Analysis, Specification Development, HW & SW Co-Design and Development, Module Integration, Testing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Board Study (Board Level Block Schematic) - Chip Features (Architecture not needed)",
+            "GPIO",
+            "Memory",
+            "Programming Interface: Arduino IDE",
+            "Sample Code: LED, Switch, DC Motor, Stepper Motor Control",
+            "Temperature Monitoring System using LM35 Temperature Sensor and Seven Segment Display",
+            "Embedded Operating System Basic Concepts: Functional Layers in a Computer System, OS Terminology",
+            "Kernel Functions (Overview only)",
+            "Types of Kernels: Monolithic Kernel and Microkernel",
+            "Tasks/Processes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to compilers – Analysis of the source program,\nPhases of a compiler, Grouping of phases\nLexical Analysis-The role of Lexical Analyzer, Input Buffering, Specification\nof Tokens using Regular Expressions, Finite Automata,  Recognition of\nTokens. Syntax Analysis:\nGrammers,Context-Free Grammars,Derivation trees and Parse, Ambiguity",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Top-Down Parsing: Recursive Descent parsing, Predictive parsing, LL(1)\nGrammars.\nBottom-Up Parsing:Shift Reduce parsing – Operator precedence parsing\n(Concepts only)\nLR parsing – Constructing SLR parsing tables, Constructing, Canonical LR\nparsing tables and Constructing LALR parsing tables.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Syntax directed translation: Syntax directed definitions, Bottom- up evaluation\nof S-attributed definitions, L- attributed definitions, Bottom-up evaluation of\ninherited attributes.\nType Checking : Type systems, Specification of a simple type checker.\nRun-Time Environments: Source Language issues, Storage organization,\nStorage- allocation strategies.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Intermediate Code Generation (ICG): Intermediate languages – Graphical\nrepresentations, Three- Address code, Quadruples, Triples\nCode Optimization: Principal sources of optimization, Optimization of Basic\nblocks\nCode generation: Issues in the design of a code generator. The target machine,\nA simple code generator.",
+    "contact_hours": "9"
+  }
+]

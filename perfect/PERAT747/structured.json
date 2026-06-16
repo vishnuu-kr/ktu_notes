@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction, Example applications of RL, Elements of Reinforcement Learning Finite Markov Decision Processes: The Agent - Environment Interface, Examples - Pick-and-Place Robot, Recycling Robot",
+            "Goals and Rewards, Returns and Episodes, Example - Pole Balancing, Unified Notation for Episodic and Continuing Tasks, Policies and Value Functions, Example - Grid world, Optimal Policies and Optimal Value Functions, Bellman optimality equation, Example - Bellman Optimality Equations for the Recycling Robot"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction",
+            "Policy Evaluation (Prediction",
+            "Iterative Policy Evaluation",
+            "Example - 4x4 grid world",
+            "Policy Improvement",
+            "Policy Iteration",
+            "Value Iteration Monte Carlo Methods: Monte Carlo Prediction",
+            "Monte Carlo Estimation of Action Values",
+            "Monte Carlo Control",
+            "Monte Carlo Control without Exploring Starts",
+            "Off-policy Prediction via Importance Sampling",
+            "Incremental Implementation",
+            "Off-policy Monte Carlo Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "TD Prediction",
+            "Advantages of TD Prediction Methods",
+            "Optimality of TD(0",
+            "Sarsa: On-policy TD Control",
+            "Q-learning: Off-policy TD Control",
+            "Expected Sarsa n-step Bootstrapping: n-step TD Prediction",
+            "n-step Sarsa",
+            "n-step Off-policy Learning",
+            "Off-policy Learning Without ImportanceSampling: The n-step Tree Backup Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Value-function Approximation",
+            "The Prediction Objective",
+            "Stochastic-gradient and Semi-gradient Methods",
+            "Linear Methods Eligibility Traces: The λ-return",
+            "TD( λ",
+            "n-step Truncated λ -return Methods",
+            "Sarsa( λ ) Policy Gradient Methods: Policy Approximation and its Advantages",
+            "The Policy Gradient Theorem",
+            "REINFORCE: Monte Carlo Policy Gradient",
+            "REINFORCE with Baseline",
+            "Actor - Critic Methods"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

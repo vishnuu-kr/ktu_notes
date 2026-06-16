@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Mechatronics\nDefinition and scope of Mechatronics, Key elements of a mechatronic\nsystem - sensors, actuators, controllers, and interfaces.  Multi disciplinary\nnature of Mechatronics, Comparison between traditional design and\nmechatronics approach, applications of mechatronics in industry (robotics,\nautomotive, aerospace, consumer electronics).\nSensors (Basic working only) –Position, displacement, and proximity\nsensors (encoders, potentiometers, LVDTs, IR sensors), acoustic emission\nsensors, vibration sensors and tactile sensors, flow sensors.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Electrical Actuators and Control Systems\nTypes of actuators (basics only) - Electromechanical, hydraulic, pneumatic,\nand piezoelectric.\nOverview of Relays and solenoids.\nElectric motors (working only) - DC, stepper, and servo motors\nMotor control techniques - PWM control, H-bridge circuits, motor drivers.\nSelection criteria for actuators and drive systems in mechatronic design.\nOverview of Proportional, Integral, and Derivative (PID) control, Example\npractical implementation of control algorithms on mechatronic systems",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Actuation Systems\nHydraulic and Pneumatic actuation systems (basics only) - Introduction,\nreciprocating cylinders, Rotary actuators – gear, vane and lobe.\nComparison between electrical, pneumatic and hydraulic actuators.\nMechanical power transmission systems –spur gears, bevel gear, planetary\ngear, Belts and chains.\nDirection control valve, pressure control valves, solenoid valve.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Mechatronic Design and Modern Trends\nDesign considerations for mechatronic systems (cost, reliability, scalability).\nCase studies (Basic overview only) - Examples of mechatronic system\n(robotic arm, Robotic vision system, autonomous vehicle, Auto focus\ncamera, automatic car park barrier system, Assembly line automation in\nmanufacturing).\nIntroduction to smart sensors and actuators, Basics of Mechatronics in\nIndustry 4.0, Overview of Soft robotics and human-machine interfaces",
+    "contact_hours": "9"
+  }
+]

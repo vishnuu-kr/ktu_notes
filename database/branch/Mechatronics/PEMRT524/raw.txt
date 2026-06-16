@@ -1,0 +1,323 @@
+Course Code 
+PEMRT524 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None/ 
+(Course code) 
+Course Type 
+Theory 
+Course Objectives: 
+1. To provide students with a solid foundation in numerical methods for solving engineering 
+problems using Python. 
+2. To enable students to implement numerical techniques for nonlinear equations, interpolation, 
+integration, differentiation, and ordinary differential equations. 
+3. To develop students' skills in applying numerical methods to analyse and interpret 
+engineering data and solve real-world problems. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Root Finding Methods (6 Hours) (Derivation or proof not required) 
+Bisection method; Newton-Raphson method; Secant method; False 
+Position Method; Fixed-point iteration; Convergence and error analysis of 
+root-finding methods. 
+Solving nonlinear equations using the above methods in Python (2 
+Hours) 
+8  
+ 
+2 
+Interpolation (9 Hours) (Derivation or proof not required) 
+Finite difference interpolation: Newton's finite and backward difference 
+interpolation methods. 
+Polynomial Interpolation: Lagrange interpolation and Newton’s divided 
+difference interpolation. 
+Spline Interpolation: Cubic splines and B-splines. 
+Error analysis in interpolation. 
+Implementing interpolation methods in Python (2 Hours) 
+11  
+
+ 
+ 
+3 
+Numerical Integration and Differentiation (6 Hours) 
+Numerical Differentiation: Finite difference methods; Error analysis in 
+numerical differentiation. 
+Numerical Integration: Trapezoidal rule, Simpson’s rule, Gaussian 
+quadrature, Adaptive quadrature methods. 
+Writing Python programs to perform numerical differentiation and 
+integration (2 Hours) 
+8  
+4 
+Solution of Ordinary Differential Equations (7 Hours) 
+Initial Value Problems: Euler’s method; Runge-Kutta methods; Multistep 
+methods (Adams-Bashforth and Adams-Moulton methods). 
+Boundary Value Problems: Shooting method; Finite difference method. 
+Solving ODEs using Python (2 Hours) 
+9  
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Implement root-finding algorithms in Python to solve nonlinear 
+equations and analyse the convergence behaviour of these methods. 
+K3 
+CO2 
+Apply interpolation techniques in Python for data fitting and solving 
+engineering problems and perform error analysis. 
+K3 
+CO3 
+Develop Python programs to implement numerical differentiation and 
+integration techniques. 
+K3 
+CO4 
+Implement numerical methods in Python to solve ordinary differential 
+equations. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Numerical Methods in 
+Engineering with Python 3 
+Jaan Kiusalaas 
+Cambridge University 
+Press 
+3 & 2013 
+2 
+Numerical Methods for 
+Engineers 
+Steven C. Chapra and 
+Raymond P. Canale 
+McGraw-Hill 
+Education 
+7 & 2014 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Numerical Analysis 
+Richard L. Burden and J. 
+Douglas Faires 
+Cengage Learning 
+10 & 2015 
+2 
+Applied Numerical Methods 
+with MATLAB for Engineers 
+and Scientists 
+Steven C. Chapra 
+McGraw-Hill 
+Education 
+4 & 2017 
+3 
+Introductory Methods of 
+Numerical Analysis 
+S.S.Sastry 
+Prentice Hall India 
+Learning Private 
+Limited 
+5 & 2012 
+4 
+Numerical Method and 
+Programming 
+Bikas Chandra Bhui & 
+Dipak Chatterjee 
+Vikas 
+2 & 2016 
+5 
+Numerical Methods Using 
+Matlab 
+Mathews and Fink 
+Pearson Education 
+India 
+4 & 2015 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+NPTEL - MATLAB Programming for Numerical Computation, IIT Madras 
+NPTEL - Numerical methods, IIT Roorkee 
+NPTEL - Applied Numerical Methods, IIT Kanpur 
+2 
+NPTEL - MATLAB Programming for Numerical Computation, IIT Madras 
+NPTEL - Numerical methods, IIT Roorkee 
+NPTEL - Applied Numerical Methods, IIT Kanpur 
+3 
+NPTEL - MATLAB Programming for Numerical Computation, IIT Madras 
+NPTEL - Numerical methods, IIT Roorkee 
+NPTEL - Applied Numerical Methods, IIT Kanpur 
+4 
+NPTEL - MATLAB Programming for Numerical Computation, IIT Madras 
+NPTEL - Numerical methods, IIT Roorkee 
+NPTEL - Applied Numerical Methods, IIT Kanpur 
+
+ 
+ 
+SEMESTER S5 
+METALLURGY AND MATERIAL ENGINEERING

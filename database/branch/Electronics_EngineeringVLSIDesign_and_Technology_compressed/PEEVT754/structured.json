@@ -1,0 +1,50 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Entropy",
+      "Properties of Entropy",
+      "Joint and Conditional Entropy",
+      "Mutual Information",
+      "Properties of Mutual Information. Discrete memoryless sources",
+      "Source code",
+      "Average length of source code",
+      "Bounds on average length",
+      "Uniquely decodable and prefix-free source codes. Kraft Inequality (with proof",
+      "Huffman code. Shannon’s source coding theorem (both achievability and converse) and operational meaning of entropy"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Discrete memoryless channels. Capacity of discrete memoryless channels. Binary symmetric channels (BSC), Binary Erasure channels (BEC). Capacity of BSC and BEC. Channel code. Rate of channel code. Shannon’s channel coding theorem (both achievability and converse without proof) and operational meaning of channel capacity. Modeling of Additive White Gaussian channels. Continuous-input channels with average power constraint. Differential entropy. Differential Entropy of Gaussian random variable. Relation between differential entropy and entropy. Shannon-Hartley theorem (with proof",
+      "mathematical subtlities regarding power constraint may be overlooked). Inferences from Shannon Hartley theorem",
+      "spectral efficiency versus SNR per bit, power-limited and bandwidth-limited regions, Shannon limit, Ultimate Shannon limit"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Overview of Groups, Rings, Finite Fields, Construction of Finite Fields from Polynomial rings, Vector spaces. Block codes and parameters. Error detecting and correcting capability. Linear block codes. Two simple examples",
+      "Repetition code and single parity",
+      "check code. Generator and parity",
+      "check matrix. Systematic form. Maximum likelihood decoding of linear block codes. Bounded distance decoding. Syndrome. Standard array decoding"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Cyclic codes. Polynomial and matrix description. Interrelation between polynomial and matrix view point. Systematic encoding. Decoding of cyclic codes. (Only description, no decoding algorithms) Hamming Codes, BCH codes, Reed",
+      "Solomon Codes Convolutional Codes. State diagram. Trellis diagram. Maximum likelihood decoding. Viterbi algorithm. Low-density parity check (LDPC) codes. Tanner graph representation. Message",
+      "passing decoding for transmission over binary erasure channel"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

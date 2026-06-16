@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of Probabilistic Robotics, Importance and applications of\nprobabilistic methods in robotics. Historical context and development of\nprobabilistic robotics. Fundamentals of Probability and Statistics\nBasic probability theory, random variables, and distributions.\nStatistical inference, Bayesian reasoning, and their significance in robotics.\nProbabilistic Models\nTypes of probabilistic models used in robotics. Real-world examples and\ncase studies demonstrating these models.\nAssignments and Assessments:\nProblem sets on probability and statistics. Readings and essays on the\nsignificance of probabilistic robotics",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Bayesian Filters\nUnderstanding Bayes' rule and its application in filtering.\nImplementing Bayes filters for robotic localization.\nKalman Filters\nLinear Gaussian models and the Kalman filter.\nPractical applications and limitations in robotics.\nParticle Filters\nNon-parametric filters and the particle filter algorithm.\nHandling non-linearities and non-Gaussian noise.\nAssignments and Assessments:\nProgramming tasks to implement Bayesian, Kalman, and particle filters.\nSimulation projects for robotic localization",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Sensor Fusion Techniques\nPrinciples and methodologies for sensor fusion.\nPractical examples and case studies of sensor fusion in robotics.\nDecision Making Under Uncertainty\nMarkov Decision Processes (MDPs) and Partially Observable MDPs\n(POMDPs).\nAlgorithms for decision making in uncertain environments.\nPractical Applications\nCase studies and practical implementations.\nHands-on projects with real or simulated robotic systems.\nAssignments and Assessments:\nProjects focused on sensor fusion and decision making.\nCase study analyses and practical demonstrations.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Learning Algorithms in Robotics\nOverview of supervised, unsupervised, and reinforcement learning.\nImplementing learning algorithms in robotic systems.\nAdvanced Probabilistic Methods\nExploration of advanced filtering techniques.\nMulti-robot systems and cooperative localization.\nFuture Trends and Research Directions\nEmerging trends and future directions in probabilistic robotics.\nAssignments and Assessments:\nFinal project integrating learned probabilistic algorithms.\nReview and presentation of contemporary research papers",
+    "contact_hours": "8"
+  }
+]

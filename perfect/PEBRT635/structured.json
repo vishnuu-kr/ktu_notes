@@ -1,0 +1,72 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Pinhole camera",
+            "Gaussian Optics",
+            "Depth Field",
+            "Telemetric lenses",
+            "Lens aberrations Cameras: CCD cameras",
+            "CMOS Camera",
+            "Colour cameras: Single chip cameras",
+            "Three chip cameras",
+            "Camera performance parameters: noises",
+            "dynamic range",
+            "Camera-Computer interfaces",
+            "Digital video signals: camera link",
+            "IEEE1394",
+            "USB2.0",
+            "USB 3 vision"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Images",
+            "regions",
+            "piecewise contours",
+            "Image Enhancement: contrast enhancement",
+            "contrast normalization",
+            "Image Smoothing: Temporal Averaging",
+            "Mean Filter",
+            "Noise Suppression by Linear Filters",
+            "Median and Rank Filters",
+            "2-D Fourier Transform: Continuous Fourier Transform",
+            "Discrete Fourier Transform. Geometric Transformations: Affine Transformations",
+            "Projective Transformations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Nearest-Neighbour Interpolation",
+            "Bilinear Interpolation",
+            "Bicubic Interpolation",
+            "Smoothing to Avoid Aliasing",
+            "Projective Image Transformations",
+            "Transformations",
+            "Image Segmentation Thresholding: Global Thresholding",
+            "Automatic Threshold Selection",
+            "Dynamic Thresholding",
+            "Variation Model",
+            "morphological operations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Region Growing, Edge Based approaches to segmentation, Graph-Cut, Mean-Shift, MRFs, Texture Segmentation",
+            "Object detection Pattern Analysis: Clustering: K-Means, Mixture of Gaussians, Classification: Discriminant Function, Supervised, Un-supervised, Semi-supervised",
+            "Classifiers: Bayes, KNN, ANN models",
+            "Dimensionality Reduction: PCA, LDA, ICA"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Wireless Sensor Networks: Introduction to wireless sensor networks\n(WSN), Network architecture and protocol stack, MAC access control –\nfundamental MAC protocols, MAC design for WSNs, MAC protocols for\nWSN (Contention based, Contention free, and Hybrid protocols), IEEE\n802.15.4, Zigbee",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Routing and Transport Layer: Routing and data dissemination –\nFundamentals and challenges, taxonomy of routing and data dissemination\nprotocols, Overview of routing and data dissemination protocols –\ngeographic adaptive fidelity, LEACH, Sensor protocols for information via\nnegotiation, joint mobility and routing protocol. Transport protocols for\nWSNs, Operating systems for sensor networks – TinyOs, Contiki",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Security in WSNs: Security requirements in WSNs, Security vulnerabilities\nin WSNs – DoS attacks, physical layer attacks, link layer, network layer,\ntransport layer attacks, Attacks on secrecy and authentication, Security\nmechanisms for WSNs – cryptography in WSNs, Key management\nprotocols, Defence against DoS attacks, Defence against routing attacks -\nTESLA, SPINS, Intrusion detection in WSNs.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Infrastructure Establishment: Topology Control, Clustering, Time\nSynchronization, Localization and Positioning, Sensor Tasking and Control.",
+    "contact_hours": "7"
+  }
+]

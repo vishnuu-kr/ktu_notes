@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of Heat Transfer – Conduction, Convection and Radiation",
+            "Mathematical Description of Fluid Flow and Heat Transfer: Conservation Equations for Mass, Momentum, Energy and Chemical Species in Cartesian and Cylindrical Coordinates",
+            "Classification of Partial Differential Equations – Elliptic, Parabolic and Hyperbolic Equations",
+            "Initial and Boundary Conditions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Finite Difference Form of PDE Equations – Taylor's Series Approach: Central, Backward and Forward Difference of First and Second Order Derivatives",
+            "Solution of Laplace Equation (Conduction Problems) Using Finite Difference Equations",
+            "Discretization Error, Truncation Error and Round Off Error",
+            "Convergence of Iteration"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Solution of Unsteady Conduction Equation Using Finite Difference Method",
+            "Explicit, Implicit and Semi-Implicit Methods",
+            "Stability of Numerical Solutions",
+            "Solution of Linear Algebraic Equations – Direct Methods and Indirect Methods",
+            "Point by Point Iterations, Tri-Diagonal Matrix Method (TDMA)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Finite Volume Method",
+            "Solution of One-Dimensional Steady State Conduction Problems",
+            "Handling Different Boundary Conditions",
+            "Solution of One-Dimensional Convection Diffusion Problems Using Central Difference Schemes and Upwind Scheme",
+            "Introduction to SIMPLE Algorithm for Incompressible Flows"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

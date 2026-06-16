@@ -1,0 +1,76 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Genetic algorithm (GA",
+      "basic concepts",
+      "types of encoding",
+      "selection",
+      "crossover and mutation",
+      "binary",
+      "continuous",
+      "hybrid and parallel GA",
+      "application of GA in solving constrained and combinatorial optimization problems",
+      "sequencing and scheduling problems and transportation problems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Overview",
+      "basic algorithm",
+      "variants",
+      "formalization and properties of ant colony optimization",
+      "applications in scheduling and vehicle routing problem. Particle Swarm Optimization (PSO): Basic concepts",
+      "swarm intelligence principles",
+      "computational characteristics",
+      "parameter selection",
+      "discrete PSO",
+      "variants and applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Scatter search - Components",
+      "algorithm",
+      "applications",
+      "greedy randomized adaptive search procedure",
+      "Tabu Search (TS) - principles",
+      "neighbourhood",
+      "candidate list",
+      "short - term and long -term memory",
+      "threshold accepting",
+      "application of TS in decision making. Simulated Annealing: Main components of simulated annealing",
+      "homogeneous vs. in-homogenous simulated annealing",
+      "annealing schedules",
+      "applications in sequencing and scheduling",
+      "travelling salesman problem",
+      "variants of simulated annealing"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Basic concepts",
+      "biological and artificial neurons",
+      "learning rules and activation functions",
+      "ANN architecture",
+      "single layer and multi layer feed forward networks",
+      "back propagation networks and applications. Fuzzy Systems: Crisp logic",
+      "predicate logic",
+      "fuzzy logic",
+      "fuzzy rule based system",
+      "defuzzification methods",
+      "applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

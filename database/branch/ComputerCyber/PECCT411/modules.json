@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Distributed System: Definition, Relation to computer system components,\nMotivation, Primitives for distributed communication, Design issues,\nChallenges and applications.\nLeader election algorithm- Bully algorithm, Ring algorithm. Termination\ndetection- Spanning tree-based algorithm.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Distributed mutual exclusion algorithms- System model, Requirements of\nmutual exclusion algorithm. Lamport’s algorithm, Ricart- Agrawala\nalgorithm, Quorum based mutual exclusion algorithms- Maekawa’s\nalgorithm.\nToken based algorithm- Suzuki-Kasami’s broadcast algorithm.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Parallel Computing: Principles of Parallel Algorithm Design Decomposition\nTechniques, Characteristics of Tasks and interactions, Mapping techniques\nfor load balancing.\nBasic Communication operations: One to All Broadcast and All to One\nReduction, All to All Broadcast and Reduction, All Reduce\nAnd Prefix Sum operations, Scatter and Gather, All to All Personalized\ncommunication, Circular Shift, Improving the speed of some communication\noperation.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Principles of Message Passing Programming, The building blocks: Send\nand Receive Operations, MPI: The Message Passing Interface, Overlapping\nCommunication with Computation, Collective Communication and\nComputation Operations, Groups and Communicators.",
+    "contact_hours": "7"
+  }
+]

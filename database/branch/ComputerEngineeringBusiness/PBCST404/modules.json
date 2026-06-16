@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basic Structure of computers :– Functional units - Basic operational\nconcepts; Memory map; Endianness.\nCISC vs RISC architectures:- RISC Introduction - Assembly Language,\nAssembler directives, Assembling.\nProgramming concepts - Program flow, Branching, Conditional statements,\nLoops, Arrays, Function calls; Instruction execution cycle.\nMachine language - Instructions, addressing modes, Stored program\nconcept. Evolution of the RISC Architecture.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Microarchitecture -  Introduction; Performance analysis; Single-Cycle\nProcessor - Single Cycle Datapath, Single Cycle Control; Pipelined\nProcessor - Pipelined Data Path, Pipelined Control:  Hazards, Solving\nData/Control Hazards, Performance Analysis.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Memory Systems: Introduction; performance analysis; Caches - basic\nconcepts, Cache mapping, Cache replacement, Multiple-Level Caches,\nReducing Miss Rate, Write Policy; Virtual Memory - Address Translation;\nPage Table; Translation Lookaside Buffer; Memory Protection.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Input / Output - External Devices; I/O Modules;  Programmed I/O,\nInterrupt Driven I/O; Direct Memory Access;  Embedded I/O Systems -\nEmbedded I/O, General Purpose I/O, Serial I/O, Other Peripherals.\nSuggestion on Project Topics\nUse simulators such as Ripes (https://github.com/mortbopet/Ripes) / GEM5 (https://www.gem5.org/)\nimplement components of computer systems such as Various Cache organization and study the effect,\nSolutions to hazards, TLBs.",
+    "contact_hours": "11"
+  }
+]

@@ -1,0 +1,438 @@
+Course Code 
+PBCST504 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L:T:P:R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To introduce the ARM architecture and ARM-based microcontroller architecture. 
+2. To impart knowledge on the hardware and software components to develop embedded systems 
+using STM32 microcontrollers. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to ARM Cortex-M Architecture:-  
+Overview of Embedded Systems, Applications of Embedded Systems, 
+Introduction to 
+Embedded 
+C, 
+Microcontrollers 
+vs. 
+Microprocessors, 
+Classification of processors, Overview of ARM Cortex-M Series, Introduction 
+to the Cortex-M23 and Cortex-M33 processors and the Armv8-mArchitecture, 
+ARM Core Features: Registers, Memory, and Bus Architecture, Comparison 
+with previous generations of Cortex-M processors. 
+9 
+2 
+STM32 Microcontroller Overview and Peripheral Programming:- 
+Introduction to STM32 Family, STM32U575 Features and Specifications, 
+Power Management and Low-Power Features Libraries, Introduction to 
+Integrated Development Environment and HAL, Writing, and Debugging Your 
+First Program(LED Interfacing), Interfacing Seven-Segment Display, LCD 
+Display, and Matrix Keypad, Relay Interfacing, Analog to Digital Conversion: 
+Potentiometer, temperature sensor, LDR, Microphone, Digital to Analog 
+Conversion: Simple DAC Output Generation, Generating a Sine Wave, Audio 
+11 
+
+ 
+ 
+Signal Generation, Interrupt Handling, Timer and Counter Applications: Basic 
+Timer Configuration, Timers as Counters, Timer-Based Real-Time Clock 
+(RTC) 
+3 
+Communication Protocols and USB:- 
+Serial port terminal Application, Serial communication (USART, I2C, SPI, 
+CAN), Interfacing an I2C Temperature Sensor and Displaying Data on an LCD, 
+writing to and Reading from an SPI-based EEPROM, Configuring and 
+Implementing 
+CAN 
+Communication 
+between 
+Multiple 
+STM32U575 
+Microcontrollers, Creating a USB HID Device for Keyboard / Mouse 
+Emulation 
+10 
+4 
+IoT, Wireless Communication, and RTOS:-  
+Introduction to IoT, IoT Architecture, Protocols (MQTT, CoAP), IoT Security 
+Principles and Common Threats Wireless Communication: Interfacing GSM 
+(Call, SMS, Internet), Bluetooth Communication Basics, LoRa Communication 
+Basics and Applications, Designing an IoT-Based Home Automation System, 
+Introduction to RTOS Concepts, FreeRTOS with STM32: Task Creation, 
+Scheduling, and Management, RTOS Timers, Delays, and RTC Integration, 
+Inter-task Communication: Queues and Semaphores 
+Trust Zone Technology: Introduction to ARM Trust Zone, Trust Zone 
+Architecture and Features, Secure and Non-Secure Worlds: Configuration and 
+Management, Implementing Trust Zone in STM32U575, Advanced Debugging 
+and Optimization: Code and Memory Optimization Techniques, Debugging 
+Strategies and Tools 
+14 
+ 
+Suggestion on Project Topics 
+● Identify real world problems requiring hardware solutions and develop them using 
+peripheral devices. Some of the examples would be - Home automation, Small 
+home/office security system, ARM based voice response system etc.  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the architectural features and instructions of the ARM 
+microcontrollers. 
+K2 
+CO2 
+Develop applications involving interfacing of external devices and I/O 
+with ARM microcontroller. 
+K3 
+CO3 
+Use various communication protocols of interaction with peer devices 
+and peripherals. 
+K3 
+CO4 
+Demonstrate the use of a real time operating system in embedded 
+system applications. 
+K3 
+CO5 
+Apply hardware security features of ARM in real world applications. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each question 
+can have a maximum of 2 subdivisions. Each question 
+carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The Definitive Guide to ARM Cortex-
+M3 and Cortex-M4 Processors 
+Joseph Yiu 
+Newnes - Elsevier 
+3/e, 2014 
+2 
+Mastering STM32 
+Carmine Noviello 
+Learnpub 
+2/e, 2022 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+ARM System Developer’s 
+Guide 
+Andrew N. Sloss, Dominic 
+Symes, Chris Wright 
+Morgan Kaufman 
+1/e, 2008 
+2 
+Embedded System Design 
+with Arm Cortex-M 
+Microcontrollers  
+Cem Ünsalan, Hüseyin Deniz 
+Gürhan 
+Mehmet Erkin Yücel 
+Springer 
+1/e, 2022 
+3 
+Introduction to ARM ® 
+Cortex-M Microcontrollers 
+Jonathan W. Valvano 
+Self-Published 
+5/e, 2014 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/106/105/106105193/  
+2 
+https://www.st.com/resource/en/datasheet/  
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery 
+Project identification 
+Simulation/ 
+Laboratory Work/ 
+Workshops 
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group discussion 
+Project Analysis 
+Data Collection 
+Evaluation  
+Question answer 
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical thinking and 
+ self-learning 
+Testing 
+Project 
+Milestone 
+Reviews, 
+Feedback, 
+Project 
+reformation 
+(If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case 
+Study/ 
+Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 5 
+minutes video 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+1. Project Planning and Proposal (5 Marks) 
+● 
+Clarity and feasibility of the project plan  
+● 
+Research and background understanding  
+● 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+● 
+Individual contribution to the presentation  
+● 
+Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+● 
+Active participation and individual contribution  
+● 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+● 
+Adherence to the project timeline and milestones  
+● 
+Application of theoretical knowledge and problem-solving  
+● 
+Final Result 
+
+ 
+ 
+5. Final Presentation (5 Marks) 
+● 
+Quality and clarity of the overall presentation  
+● 
+Individual contribution to the presentation  
+● 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+● 
+Overall quality and technical excellence of the project  
+● 
+Innovation and originality in the project  
+Creativity in solutions and approaches 
+
+ 
+ 
+SEMESTER S5 
+SOFTWARE PROJECT MANAGEMENT 
+(Common CS/CD/CM/CR/CA/AD/AM)

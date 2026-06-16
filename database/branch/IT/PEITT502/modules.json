@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Algorithms – Properties of a Good algorithm, Characteristics, Criteria for\nAnalysing Algorithms.\nTime and Space Complexity - Best, Worst and Average Case Complexities.\nAsymptotic Notations and their properties.\nTime and Space Complexity Calculation of simple algorithms.\nAnalysis of Recursive Algorithms: Recurrence Equations,\nSolution of Recurrence Equations – Iteration Method, Recursion Tree\nMethod, Substitution method and Master’s Theorem (Proof not required).\nAmortized Complexity – aggregate analysis, Cost-Accounting and Potential\nMethods.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Balanced Search Trees - AVL Trees (Insertion and deletion operations with\nall rotations in detail, algorithms not expected); Red Black Trees – Properties\nDisjoint Sets- Disjoint set operations, Union and find algorithms, Analysis of\nunion by rank with path compression, Connected components of a Graph.\nGraphs – Representations, Traversals – BFS, DFS and their analysis,\nStrongly Connected Components, Topological Sorting.\nDivide and Conquer – Control Abstraction, Finding Minimum and\nMaximum, Quicksort, Merge Sort, Strassen’s Matrix Multiplication, analysis",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Greedy Algorithms: Control Abstraction, Fractional Knapsack, Minimum\nCost Spanning Tree – Kruskal’s and Prim’s, analysis, Job Sequencing with\ndeadlines\nDynamic Programming: Control Abstraction, Optimality Principle, DP\nSolution for Travelling Salesman Problem and 0/1 Knapsack Problem,\nBacktracking: Control Abstraction, N – Queens Problem, algorithm.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Branch and Bound: Control Abstraction, FIFO, LIFO and LC Branch and\nBound, 15 – Puzzle Problem\nString Matching – KMP Algorithm, Rabin-Karp Algorithm.\nTractable and Intractable Problems, Complexity Classes – P, NP, NP- Hard\nand NP-Complete Classes.\nApproximation algorithms- Planar Graph Coloring, Vertex Cover",
+    "contact_hours": "11"
+  }
+]

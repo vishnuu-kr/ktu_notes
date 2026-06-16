@@ -1,0 +1,342 @@
+Course Code 
+PECDT695 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hr.30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide the learners an overview of the concepts and algorithms involved in deep learning.  
+2. To provide the basic concepts in neural networks, deep learning, optimization techniques, 
+regularization techniques, convolutional neural networks, recurrent neural networks, 
+autoencoders, generative models.  
+3. To enable students to have the capability to use deep learning algorithms to solve real-world 
+problems. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Deep Learning -The Basic Architecture of Neural 
+Networks - Single Computational Layer: The Perceptron, Multilayer Neural 
+Networks. Activation functions – Sign, Sigmoid, Tanh, ReLU, leaky ReLU, 
+Hard Tanh, Softmax. Loss function. Training a Neural Network with 
+Backpropagation. Practical issues in neural network training. Overfitting, 
+Underfitting, Hyper parameters and Validation sets, Estimators -Bias and 
+Variance. Introduction to deep learning, Deep feed forward network.  
+Introduction to pytorch /tensorflow. Implementing image classification 
+algorithms on CIFAR10 dataset using pytorch  
+9 
+2 
+Optimization Techniques -Introduction, setup and initialization- Kaiming, 
+Xavier weight initializations, Vanishing and exploding gradient problems, 
+9 
+
+ 
+ 
+Optimization techniques - Gradient Descent (GD), Stochastic GD, GD with 
+momentum, GD with Nesterov momentum, AdaGrad, RMSProp, Adam., 
+Regularization Techniques - L1 and L2 regularization, Early stopping, 
+Dataset augmentation, Parameter tying and sharing, Ensemble methods, 
+Dropout, Batch normalization. 
+3 
+Convolutional Neural Networks –Architecture, Convolution operation, 
+Motivation, pooling.Variants of convolution functions, Structured outputs, 
+Data types, Efficient convolution algorithms, Applications of Convolutional 
+Networks, Pre-trained convolutional Architectures : AlexNet, VGGnet-19, 
+ResNet 50,YOLO 
+Implementing object classification and detection using CNN networks in 
+python using any of deep libraries like Tensorflow, Keras, Caffe.  
+9 
+4 
+Recurrent neural networks And Generative models – Computational 
+graphs. RNN design. Encoder – decoder sequence to sequence architectures. 
+Language modeling example of Deep recurrent networks. Recursive neural 
+networks. Challenges of training Recurrent Networks. Gated RNNs LSTM 
+and GRU.  
+Attention Mechanisms and Transformers: Transformer Architecture Self-
+Attention and Positional Encoding 
+Autoencoders Variational Auto-Encoder-under complete Auto-encoder, 
+stochastic encoder, denoising encoder, Applications of Autoencoders. 
+Generative models : Generative Adversarial Networks. 
+Case study: BERT, Social Media Sentiment Analysis.  
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+
+ 
+ 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+Sample Questions at Evaluate Level  
+ 
+1. Compare and evaluate the use of different activation functions (Sigmoid, Tanh, ReLU, Leaky 
+ReLU, Hard Tanh, Softmax) in a deep feedforward network. In which scenarios would you 
+recommend using each activation function, and what are the potential drawbacks of each in terms 
+of gradient vanishing, computational efficiency, and model performance? 
+ 
+2. Evaluate the role of different loss functions in neural network training. How does the choice of 
+loss function impact the convergence of the model during backpropagation 
+ 
+3. Evaluate the impact of hyperparameter choices (e.g., learning rate, batch size, number of layers, 
+number of neurons per layer) on the performance and convergence of deep feedforward networks 
+ 
+Sample Questions at Analyze Level 
+1. How does the architectural components of a Convolutional Neural Network (CNN), such as 
+convolutional layers, pooling layers, and fully connected layers, work together to achieve 
+image classification? 
+2. Analyze the differences in architecture and performance among pre-trained convolutional 
+networks like AlexNet, VGGNet-19, ResNet-50, and YOLO. How do the architectural 
+innovations in these models contribute to their effectiveness in object detection and 
+classification tasks? 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose 
+any one full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each 
+question can have a maximum of 3 subdivisions. 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the basic concepts of neural networks, deep learning and its 
+practical issues  
+K2 
+CO2 
+Outline the standard regularization and optimization techniques for the 
+effective training of deep neural networks 
+K2 
+CO3 
+Build deep learning models for different use cases. 
+K3 
+CO4 
+Apply the concepts of Recurrent Neural Network (RNN), Long Short 
+Term Memory (LSTM), Gated Recurrent Unit (GRU), auto encoder, 
+generative models  
+K3 
+CO5 
+Compare activation functions, optimization techniques and deep 
+learning models to identify in which scenarios each one is suitable 
+K5 
+CO6 
+Examine the various algorithms that make up the deep learning models 
+and analyze their contributions to the final ouput 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO6 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Deep Learning 
+Goodfellow, I., 
+Bengio,Y., Courville, A., 
+MIT Press 
+1/e, 2016.  
+2 
+Neural Networks and Deep Learning 
+Aggarwal, Charu C 
+Springer Nature 
+2/e, 2023  
+3 
+Fundamentals of Deep Learning: 
+Designing Next-Generation Machine 
+Intelligence Algorithms 
+Nikhil Buduma and 
+Nicholas Locascio. 
+O'Reilly  
+1/e, 2017 
+4 
+Dive into Deep Learning 
+ Aston Zhang, Zachary 
+C. Lipton, Mu Li, 
+Alexander J. Smola 
+Cambridge 
+University Press 
+1/e, 2023 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Neural Networks: A Classroom 
+Approach,  
+Satish Kumar 
+Tata McGraw-Hill 
+Education,  
+2/e, 2017  
+2 
+Artificial Neural Networks  
+Yegnanarayana, B.,  
+PHI Learning Pvt. Ltd, 
+1/e, 2009 
+3 
+Neural Networks and Deep 
+Learning  
+Michael Nielsen 
+Online 
+1/e,  2018  
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106106184 
+ 
+
+ 
+ 
+SEMESTER S6 
+DATA VISUALIZATION AND PROGRAMMING WITH R

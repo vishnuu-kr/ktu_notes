@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of industrial automation systems (e.g., SCADA, DCS, PLC).\nImportance of cybersecurity in protecting critical infrastructure. Key\ndifferences between IT (Information Technology) and OT (Operational\nTechnology) networks.\nFundamentals of Cybersecurity\nBasics of cybersecurity: threats, vulnerabilities, and risks.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Industrial Control Systems (ICS) Architecture\nComponents of ICS: sensors, actuators, controllers, and communication\nprotocols Understanding network topologies in industrial environments.\nTypical architectures (e.g., Purdue model). Threat Landscape for Industrial\ncyber threats to ICS (e.g., malware, ransomware, insider threats).\nCase studies of historical cyber incidents in industrial settings.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Cyber attacks\nImpact of cyber-attacks on industrial operations and safety.\nSecurity Challenges and Vulnerabilities in ICS,\nSpecific vulnerabilities in ICS components and protocols (e.g., Insecure\nprotocols, lack of authentication).\nHuman factors: challenges in securing ICS due to operational needs and\nlegacy systems.\nRisk Assessment and Management for ICS Conducting risk assessments\nspecific to industrial environments.\nIdentifying critical assets and vulnerabilities.\nDeveloping risk mitigation strategies and incident response",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Secure Design and Configuration of ICS\nBest practices for secure system design and architecture.\nSecure configuration of ICS components (e.g., PLCs, HMIs).\nPrinciples of secure coding and application development for ICS.\nNetwork security\nNetwork Security for ICS Segmentation and isolation strategies for ICS\nnetworks.\nSecure communication protocols (e.g., TLS, VPNs) and encryption\nmethods. Intrusion detection and prevention systems (IDPS) for ICS.\nencryption methods.\nEmerging Technologies and Future Trends\nIoT (Internet of Things) and IIoT (Industrial Internet of Things) in\nindustrial cybersecurity.",
+    "contact_hours": "10"
+  }
+]

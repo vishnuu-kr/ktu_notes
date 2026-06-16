@@ -1,0 +1,79 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Mechatronics Definition and scope of Mechatronics",
+            "Key elements of a mechatronic system - sensors",
+            "actuators",
+            "controllers",
+            "and interfaces. Multi disciplinary nature of Mechatronics",
+            "Comparison between traditional design and mechatronics approach",
+            "applications of mechatronics in industry (robotics",
+            "automotive",
+            "aerospace",
+            "consumer electronics). Sensors (Basic working only) - Position",
+            "displacement",
+            "and proximity sensors (encoders",
+            "potentiometers",
+            "LVDTs",
+            "IR sensors",
+            "acoustic emission sensors",
+            "vibration sensors and tactile sensors",
+            "flow sensors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Electrical Actuators and Control Systems Types of actuators (basics only) - Electromechanical",
+            "hydraulic",
+            "pneumatic",
+            "and piezoelectric. Overview of Relays and solenoids. Electric motors (working only) - DC",
+            "stepper",
+            "and servo motors Motor control techniques - PWM control",
+            "H-bridge circuits",
+            "motor drivers. Selection criteria for actuators and drive systems in mechatronic design. Overview of Proportional",
+            "Integral",
+            "and Derivative (PID) control",
+            "Example practical implementation of control algorithms on mechatronic systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Actuation Systems Hydraulic and Pneumatic actuation systems (basics only) - Introduction",
+            "reciprocating cylinders",
+            "Rotary actuators - gear",
+            "vane and lobe. Comparison between electrical",
+            "pneumatic and hydraulic actuators. Mechanical power transmission systems - spur gears",
+            "bevel gear",
+            "planetary gear",
+            "Belts and chains. Direction control valve",
+            "pressure control valves",
+            "solenoid valve"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Mechatronic Design and Modern Trends Design considerations for mechatronic systems (cost",
+            "reliability",
+            "scalability). Case studies (Basic overview only) - Examples of mechatronic system (robotic arm",
+            "Robotic vision system",
+            "autonomous vehicle",
+            "Auto focus camera",
+            "automatic car park barrier system",
+            "Assembly line automation in manufacturing). Introduction to smart sensors and actuators",
+            "Basics of Mechatronics in Industry 4.0",
+            "Overview of Soft robotics and human-machine interfaces"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

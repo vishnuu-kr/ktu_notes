@@ -1,0 +1,59 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Motivation and Applications of numerical methods, Significant digits, Accuracy and precision",
+      "Truncation and round-off errors. Roots of nonlinear equations-Bisection method, Newton Raphson method Solution of system of linear equations-Gauss elimination, Gauss Jordan, Gauss Siedel, LU decomposition Curve fitting:Least square regression-Linear regression, linearization of nonlinear relationships, Polynomial and multiple linear regression"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Interpolation-Newton’s forward",
+      "backward",
+      "divided difference",
+      "Lagrange’s interpolation",
+      "cubic spline Numerical differentiation-Difference formula",
+      "Newton’s forward",
+      "backward and divided difference method",
+      "Sterling’s formula Numerical integration-Trapezoidal",
+      "Simpson’s one-third rule",
+      "Simpson’s three-eight rule",
+      "Gauss Quadrature"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Numerical solution of ordinary differential equations-Initial value and boundary value problems Taylor’s method",
+      "Euler method",
+      "Modified Euler method",
+      "Runge Kutta fourth order method for first order",
+      "second order and simultaneous first order differential equations",
+      "Predictor corrector method",
+      "Shooting method",
+      "finite difference method"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Numerical solution of partial differential equation-Types",
+      "Difference equations Elliptic equation-Laplace equation",
+      "Poisson’s equation",
+      "Liebmann’s iterative method",
+      "Parabolic equation-explicit and implicit method",
+      "convergence and stability",
+      "Crank Nicolson method",
+      "Hyperbolic equation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Operational Amplifiers (Op-Amps)\nOp-amp Characteristics and ideal op-amp\nOp-amp configurations: inverting, non-inverting, differential amplifiers\nOp-amp parameters: gain, bandwidth, input/output impedance.\nEffect of feedback on op-amp performance\nOp-amp applications: amplifiers, comparators, integrators, differentiators, V-\nI and I-V converters, Comparator – Regenerative comparator, zero crossing\ndetector, Window detector, Sample and hold circuit, Rectifiers",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Active Filters and Signal Conditioning\nLow-pass, high-pass, band-pass, and band-stop filters using op-amps-Active\nfilter design considerations\nSignal conditioning circuits for sensor interfacing using op-amps\nA-D and D-A converters using Op-amps\nD/A converter -specifications -weighted resistor type,R-2R Ladder type.\nA/D Converters – specifications-Flash type, Successive Approximation type,\nDual Slope type",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Fundamentals of Digital Electronics\nReview of Boolean Algebra, Logic Gates- BCD, Gray code, Excess 3 code\nDe-Morgan’s Theorems, Principle of Duality, Minimization of Boolean\nexpressions, Sum of Products (SOP), Product of Sum (POS), Canonical\nforms, Karnaugh map Minimization.  Simplification of logic functions\nthrough K–maps and Implementation using logic gates (up to 4 variables).\nCombinational Logic Circuits\nCombinatorial Logic Systems - Comparators, Multiplexers, Demultiplexers,\nEncoder,Decoder. Half and Full Adders, Subtractors, Serial and Parallel\nAdders, BCD Adder.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Sequential Logic Circuits\nFlip-flops and latches: SR, D, JK, and T flip-flops\nDesign of sequential circuits-Counters-Ring counter and Johnsons counter;\nshift registers -SIPO, SISO, PISO, PIPO.\nAsynchronous Sequential Circuits- Analysis of state machines using D flip-\nflops and JK flip flops; Design of state machines - state table, state\nassignment transition/excitation table",
+    "contact_hours": "11"
+  }
+]

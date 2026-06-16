@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Computational Fluid Dynamics , CFD applications,\nnumerical vs analytical vs experimental, modelling vs experimentation,\nfundamental principles of conservation, Reynolds transport theorem,\nconservation equations for mass, momentum and energy,  convective forms\nof the equations and general description",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Numerical methods for solving CFD problems, classification and overview\nof numerical methods,  classification into various types of equations such as\nparabolic, elliptic and hyperbolic, boundary and initial conditions,  overview\nof numerical methods, Finite Difference Method, Finite Element Method and\nFinite Volume Method",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "The basic structure of a CFD code, pre-processor, solver and postprocessor,\nuser-defined subroutines, numerical grid generation, transformation and\nmapping, solution to some basic problems in fluid flow – free surface flows\nand N-S equations around a body in water, numerical flow simulation.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Features of turbulent flow, vorticity transport equation, general properties of\nturbulent quantities, Reynolds Average Navier Stokes (RANS) equation,\nclosure problem in turbulence, types of turbulence models like eddy\nviscosity models, mixing length model, turbulent kinetic energy and\ndissipation, κ-ε model, RNG κ-ε model and κ-ω model, Reynolds Stress\nModel (RSM), Large Eddy Simulation (LES), Direct Numerical Simulation\n(DNS).\nA minor CFD project in ship hydrodynamics using any commercial or open-\nsource CFD package.",
+    "contact_hours": "9"
+  }
+]

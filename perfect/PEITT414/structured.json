@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of CRT",
+            "Plasma",
+            "OLED",
+            "AMOLED",
+            "E-Paper displays. Output Primitives - Line Drawing Algorithms - DDA",
+            "Bresenham’s",
+            "Midpoint Circle generation algorithm. Filled Area Primitives - Scan Fill",
+            "Flood Fill",
+            "Boundary Fill. Inside outside tests"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Two-dimensional transformations -Translation",
+            "Rotation",
+            "Scaling",
+            "Reflection and Shearing",
+            "Composite transformations",
+            "Matrix representations",
+            "and homogeneous coordinates. 2-D Clipping- Window to viewport transformation",
+            "Point Clipping",
+            "Cohen-Sutherland Line Clipping Algorithm",
+            "Sutherland-Hodgeman",
+            "and Weiler-Atherton Polygon clipping algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Three-Dimensional Display",
+            "Methods Parallel Projection",
+            "Perspective Projection",
+            "Depth Cueing",
+            "Visible Line and Surface",
+            "Identification",
+            "Surface Rendering",
+            "Exploded and Cutaway Views",
+            "Three-Dimensional and Stereoscopic Views Three-Dimensional transformation",
+            "Translations",
+            "Scaling",
+            "Rotation",
+            "Viewing Transformation",
+            "The Perspective",
+            "Algorithms",
+            "Three-Dimensional Clipping",
+            "Perspective view of Cube"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Depth Buffer",
+            "A-Buffer",
+            "Scan line",
+            "Depth sorting methods. Hidden Surface Removal: Back face detection - Z-buffer method - Painter's algorithm - scan-line algorithm - BSP Trees - Area sub-division method - Ray tracing - Animation - Morphing. Introduction to Digital Image Processing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

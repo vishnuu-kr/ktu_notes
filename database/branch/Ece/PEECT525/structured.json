@@ -1,0 +1,87 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Fixed-width integer data types in C99",
+      "boolean type",
+      "mixing types",
+      "manipulating bits in memory and IO ports",
+      "accessing memory mapped IO using pointers",
+      "structures",
+      "packed structures",
+      "bit fields",
+      "casting address of an object",
+      "unions. [1] Ch. 4 Review of computer organization: Memory",
+      "Introduction to Arm cortex M architecture: Internal organization-general purpose and special registers",
+      "instruction pipelining",
+      "memory model",
+      "bit banding",
+      "Arm assembly language instruction format and operands [1] Ch. 5"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Loading constants into registers",
+      "loading memory data into registers",
+      "storing data from registers to memory",
+      "converting C assignment statements to assembly",
+      "memory address calculations",
+      "Memory addressing examples: translating C pointer expressions to assembly",
+      "translating C subscript expressions to assembly",
+      "translating structure references to assembly",
+      "Stack instructions",
+      "data processing instructions: updating flags in APSR",
+      "arithmetic instructions",
+      "bit manipulation instructions",
+      "shift instructions",
+      "bit field manipulation instructions [1] Ch. 6"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Control structures in assembly language: instruction sequencing",
+      "conditional branch instructions",
+      "translating if-then and if-then-else statements to assembly",
+      "compound conditionals",
+      "implementing loops",
+      "speeding up array access",
+      "Implementing functions: function call and return",
+      "register usage",
+      "parameter passing",
+      "return values",
+      "temporary variables",
+      "preserving registers [1] Ch. 7"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Interrupts and exceptions",
+      "thread and handler modes",
+      "entering the exception handler",
+      "returning from exception handler",
+      "latency reduction techniques",
+      "priorities and nested exceptions",
+      "synchronization",
+      "transfer rate and latency",
+      "buffers and queues",
+      "double buffering",
+      "polled waiting loops",
+      "interrupt driven IO",
+      "DMA [1] Ch. 8. System initialization: Memory layout",
+      "cpu and vector table",
+      "C run-time environment",
+      "System Timer [1] Ch. 13"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

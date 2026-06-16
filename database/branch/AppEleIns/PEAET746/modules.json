@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Cryptography\nIntroduction to cryptography, Need for cryptography, Kirchhoff’s principle.\nSymmetric Cipher Models - Substitution techniques, Transposition\ntechniques, Rotor machines, Steganography. Block Cipher - Design\nprinciples and modes of operation.\nThe Data Encryption Standard, Strength of DES.\nDifferential and linear Cryptanalysis",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "IDEA - Primitive operations, Key expansions, One round, odd round, Even\nRound, Inverse keys for decryption.\nAES - Basic Structure, Primitive operation, Inverse Cipher- Key Expansion,\nRounds, Inverse Rounds.\nStream Cipher –RC4",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Number theory - Fundamental Theorem of arithmetic, Fermat’s Theorem,\nEuler’s Theorem, Euler’s Totient Function, Extended Euclid’s Algorithm,\nModular arithmetic.\nPublic key Cryptography - Principles of Public key Cryptography Systems,\nRSA algorithm.\nKey Management - Diffie-Hellman Key Exchange",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Basics of Elliptic curve cryptography\nAuthentication - Authentication functions, Message authentication codes,\nHash functions- SHA -1, Security of Hash functions and MACs.\nIntroduction to Digital signatures - Digital signature standards",
+    "contact_hours": "9"
+  }
+]

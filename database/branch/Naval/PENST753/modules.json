@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Scope of finite element method in solving  engineering problems, General steps\nin finite element analysis, variational formulations and weighted residual\nmethods, Analysis of trusses, beams, and frames, Analysis of plates, Analysis of\nthree-dimensional problems",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Shape functions, Convergence criteria, General equations for calculation of\nstiffness matrix, Derivation of stiffness matrix for truss beam, Plane stress,\nplane strain, axisymmetric elements.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Ship Structural Analysis using FEM- formulation of plate finite elements, issues\nassociated with plate formulation of finite elements. Numerical examples on\nsimple plate analysis. One dimensional and two dimensional finite element\nmodelling of ship structure",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Preprocessing - preliminary checks, engineering model checks - analysis type\nand assumptions, geometry assumptions, material properties, stiffness and mass\nproperties, loads and boundary conditions,  finite element model checks,\nelement types, mesh design, substructures and sub-modelling, FE model loads\nand boundary conditions, processing, post processing – methods, displacement\nresults, stress results, fatigue and fracture results",
+    "contact_hours": "9"
+  }
+]

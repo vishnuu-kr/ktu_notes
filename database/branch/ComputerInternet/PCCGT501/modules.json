@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "OSI security architecture – Security attacks, Services, Mechanisms.\nCryptography vs Cryptanalysis. Classical encryption techniques – Symmetric\ncipher model. Substitution ciphers – Monoalphabetic vs Polyalphabetic\nciphers, Caesar cipher, Affine cipher, Playfair cipher, Vigenere cipher, Hill\ncipher. Transposition ciphers – Keyless, Keyed, Double transposition.",
+    "contact_hours": "6"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Symmetric key ciphers – Block vs Stream ciphers, Product ciphers, Feistel\nand Non-Feistel ciphers. Data Encryption Standard (DES) – Structure, Key\ngeneration, Design criteria, 6 Weaknesses, Double DES, Triple DES.\nAdvanced Encryption Standard (AES) – Structure, Key expansion. Blow\nFish, Block cipher modes of operation – Electronic Codebook Mode (ECB),\nCipher Block Chaining Mode (CBC), Cipher Feedback Mode (CFB), Output\nFeedback Mode (OFB), Counter Mode (CTR). Stream ciphers – Structure,\nRC4.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to public key cryptosystems – Principles, Applications,\nRequirements,\nConventional\nvs\nPublic\nkey\ncryptosystems.\nRSA\ncryptosystem – Algorithm, Security, Attacks. ElGamal cryptosystem –\nAlgorithm. Diffie-Hellman key exchange – Algorithm, Man-in-the middle\nattack. Elliptic Curve Cryptography (ECC) – ElGamal ECC, Key exchange\nusing ECC.",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Hash functions – Security requirements, Secure Hash Algorithm (SHA-512).\nMessage Authentication Code (MAC) – Requirements, Uses, Hash-based\nMAC (HMAC), Cipherbased MAC (CMAC). Digital signatures – Attacks,\nForgeries, Requirements, Direct vs Arbitrated digital signatures, RSA digital\nsignature, ElGamal digital signature, Digital Signature Standard (DSS).",
+    "contact_hours": "7"
+  }
+]

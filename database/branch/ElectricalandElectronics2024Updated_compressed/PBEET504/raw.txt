@@ -1,0 +1,404 @@
+Course Code 
+PBEET504
+CIE Marks 
+40 
+Teaching Hours/Week (L: 
+T:P: R) 
+3:0:0:1 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBEET304, PBEET404, 
+GBEST204 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. This course aims to design and implement Embedded Systems using latest microprocessors / 
+Microcontroller based boards. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Introduction to microprocessors- Features and Architecture of 8085- 
+Registers of 8085 - Flags - 8085 Pin diagram- Pins, Signals and functions 
+- Assembly language programming- Basic Instruction set to write Simple 
+programs - Arithmetic, Logical, Branching instructions, Opcodes, hand 
+coding, Programs involving 8 and 16bit Addition, Subtraction, Memory 
+Reading and writing,  Sorting – Addressing modes-Classification of 
+instructions. 
+ 
+12 
+2 
+Stack and Subroutines – CALL and RETURN instructions –Timing and 
+control – Machine cycles, instruction cycle and T states – fetch and 
+execute cycles –Timing diagram for instructions- Delay subroutines – 
+Interrupts- Interrupt service Routines- Interfacing ADC and DAC    
+ 
+10 
+3 
+Introduction to Embedded Systems-Application domain, features and 
+characteristics, Microprocessors and Micro controllers– Choice and 
+suitability for applications  
+12 
+
+ 
+ 
+Introduction to Arduino UNO(8bit)- Hardware fundamentals of 
+ATmega328Pmicrocontroller based Board. Arduino Architecture, Pin 
+diagram and functions of Pins- Overview of main features such as I/O 
+Ports, Timers, interrupts, PWM, ADC (Introduction only). Introduction 
+to Arduino IDE- Arduino Libraries, Steps for creating an Arduino 
+program- Arduino Sketch Structure and Flow- Setup and loop functions.   
+ Programming in Embedded C. Data types- operators, conditional 
+statements- Loops, Arrays and functions- Built in functions in Arduino - 
+Program to blink an LED and its control., Interfacing LCD, Seven 
+Segment LED, switch Interface, Binary counter Working with LED 
+Controlled by Switch/ Potentiometer, Interfacing with Relays, Buzzer, 
+Working with Basic sensors and actuators using Arduino.      
+4 
+ARM (Advanced RISC Machines) based Embedded System Design: 
+Classification of Microprocessors based on the word length, architecture 
+and  Instruction Set-  Reduced Instruction Set Computer (RISC) and 
+Complex Instruction Set Computer (CISC). Features and characteristics 
+Introduction to Arduino due(32bit)- micro controller board (based on 
+the atmel sam3x-- arm cortex- m3 cpu)- Features, General Specifications 
+Overview, 
+General 
+architecture- 
+Features 
+OF 
+Microcontroller, 
+INPUTS,OUTPUTS, 
+Ratings, 
+Functional 
+Overview, 
+Pinout- 
+familiarization of the ports of the board. Programming Basics- Arduino 
+IDE-Use of Timer, Interfacing of ADC and DAC -PWM implementation 
+– Introduction to Arduino Cloud Editor 
+ 
+10 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance
+Assignment/ 
+Microproject 
+Internal Examination-
+1 
+(Written) 
+Internal Examination- 
+2 
+(Written) 
+Total
+5 
+15 
+10 
+10 
+40 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out of 
+which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+ 
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the architecture of 8085 microprocessor and 8085 Assembly 
+language programming. 
+K2 
+CO2 
+Understand the need for interrupts, Subroutines, timing diagram of 8085 
+microprocessor and interfacing 
+K2 
+CO3 
+Understand and gain the basic idea about the embedded system and 
+selection of processors. 
+K2 
+CO4 
+Able to gain working level knowledge about a Arduino Uno based 
+system architecture and Arduino IDE 
+K2 
+CO5 
+Write Programs using Embedded C and implement an application using 
+Arduino UNO board. 
+K3 
+CO6 
+Understand the RISC Architecture and Apply  the knowledge for 
+solving the real life problems using ARM - Arduino DUE board based 
+embedded system. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+2 
+3 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+2 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO5 
+3 
+2 
+3 
+2 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+1 
+CO6 
+3 
+2 
+3 
+2 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+1 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Fundamentals of Microprocessor 
+and Micro controllers 
+Ram, 
+B.DHANPAT 
+Rai Publications (P) 
+Ltd.-New Delhi 
+ 
+2 
+Microprocessor, Architecture, 
+Programming and Applications  
+Ramesh Gaonkar
+Penram International 
+Publishing; 
+Sixth 
+edition, 
+2014. 
+ 
+3 
+Arduino Cookbook”  
+Michael 
+Margolis, 
+O’Reilly Media, Inc. 
+1st Edition 
+4 
+Microprocessor Theory and 
+Application 
+Rafiquzzaman 
+PHI Learning 
+First 
+Edition 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Reference Books 
+Sl. 
+No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher
+Edition 
+and Year
+1 
+Arduino-Based 
+Embedded Systems 
+Rajesh Singh, Anita 
+Gehlot,Bhupendra Singh, 
+and Sushabhan Choudhury 
+ 
+ 
+2 
+Arduino for beginners: 
+Essential Skills Every 
+Maker Needs” 
+John Baichtal 
+ Person Education 
+ 
+3 
+Arduino Made Simple  
+Ashwin Pajankar 
+ 
+ 
+4 
+Embedded C, Pont  
+Michael J 
+ 
+ 
+5 
+Programming Arduino 
+Next Steps: Going 
+Further with Sketches 
+Simon Monk 
+ 
+ 
+6 
+Arduino: A Technical 
+Reference by 
+J.M. Hughes 
+O'Reilly Media, Inc. 
+ISBN: 
+9781491934494 
+ 
+7 
+Arduino Workshop: A 
+Hands-On Introduction 
+with 65 Projects  
+John Boxall 
+ 
+ 
+8 
+Exploring Arduino: 
+Tools and Techniques 
+for Engineering 
+Wizardry  
+Jeremy Blum  WILEY    
+ 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc20_ee42/preview
+2 
+https://onlinecourses.nptel.ac.in/noc20_ee42/preview
+3 
+https://onlinecourses.nptel.ac.in/noc20_ee42/preview
+https ://www.arduino.cc/en/Tutorial/HomePage 
+4 
+https://onlinecourses.nptel.ac.in/noc20_ee42/preview
+https://docs.arduino.cc/hardware/due/ 
+
+ 
+ 
+ 
+SEMESTER S5 
+ENERGY STORAGE SYSTEMS

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Finite Automata:Need for mathematical modelling, Symbols, Alphabets,\nStrings, Languages, Formal definition of a finite automaton, Deterministic\nFinite Automata (DFA), Regular languages, Formal definition of a\nnondeterministic finite automaton, Equivalence of NFAs and DFAs (Proof\nnot expected) - Subset Construction. Minimization of DFA  NFA with\nepsilon transitions, Eliminating epsilon transitions, Moore and Mealy\nmachines .",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Regular Expressions: Formal definition of a regular expression, Building\nRegular Expressions, Equivalence with finite automata (Proof not\nexpected) - Converting FA to Regular Expressions, Converting Regular\nExpressions to FA, Regular languages.\nProperties of Regular Languages: Closure and Decision Properties of\nRegular Languages, Pumping Lemma for Regular Languages, Myhill-\nNerode\nTheorem(MNT)\nwithout\nproof,\nApplications\nof\nMNT.\nContext-Free Grammars and Applications: Formal definition of a\ncontext-free grammar, Designing context-free grammars, Parse Trees,\nAmbiguous Grammars, CYK-Algorithm.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Pushdown Automata: Formal definition of a pushdown automaton (PDA),\nDesign of Deterministic PDA and Nondeterministic PDA.\nSimplification of Context-Free Languages: Chomsky normal form,\nGreibach normal form.\nProperties of Context-Free Languages: The Pumping Lemma for Context-\nFree Languages, Closure and Decision Properties of Context-Free\nLanguages.\nLinear Bounded Automata",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Turing Machines: Definition of a Turing machine (TM), Design of Turing\nmachines – TM as language acceptors, TM as computers of functions,\nVariants of Turing Machines, Recursive and recursively enumerable\nlanguages Chomsky hierarchy.\nComputability: Universal Machine, Church Turing thesis, Decidable and\nUndecidable Problems, Halting problem of TM.",
+    "contact_hours": "9"
+  }
+]

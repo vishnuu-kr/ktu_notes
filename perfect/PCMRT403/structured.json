@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Algorithms for binary multiplication and division. Fixed and floating-point number representation. Functional units of a computer",
+            "Von Neumann and Harvard computer architectures",
+            "CISC and RISC architectures. Processor Architecture - General internal architecture",
+            "Address bus",
+            "Data bus",
+            "control bus. Register set - status register",
+            "accumulator",
+            "program counter",
+            "stack pointer",
+            "general purpose registers. Processor operation - instruction cycle",
+            "instruction fetch",
+            "instruction decode",
+            "instruction execute",
+            "timing response",
+            "instruction sequencing and execution (basic concepts",
+            "data path"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "LED, Seven segment LED display"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Programming in C - Declaring variables",
+            "Simple examples - delay generation",
+            "port programming",
+            "code conversion. Interfacing of - Stepper Motor",
+            "DAC and ADC -- with 8051 and its programming. 8051 Timers/Counters - Modes and Applications. Serial Data Transfer - SFRs of serial port",
+            "working",
+            "Programming the 8051 to transfer data serially"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to ARM - ARM family",
+            "ARM 7 register architecture. ARM programmer’s model. System software - Assembler",
+            "Interpreter",
+            "Compiler",
+            "Linker",
+            "Loader",
+            "Debugger. Types of memory - RAM",
+            "ROM. Memory Characteristics and Hierarchy. Cache memory - The basics of Caches",
+            "Mapping techniques",
+            "Improving Cache performance. Virtual memory - Overlay",
+            "Memory management",
+            "Address translation. Input/Output Organization - Introduction",
+            "Synchronous vs. asynchronous I/O",
+            "Programmed I/O",
+            "Interrupt driven I/O",
+            "Direct Memory Access"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

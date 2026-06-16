@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Computer Vision – Definition, Difference between computer vison and\nmachine vision, real world applications\nImage Formation:  Geometric primitives and transformations, 2D\ntransformations, 3D transformations – Translation, Rotation + Translation,\n3D to 2D projections - Orthography and para-perspective, Perspective,\nCamera intrinsics, Camera matrix, Photometric image formation -\nLighting,   The digital camera -  Image sensing pipeline,  factors affecting\nthe performance of a digital image sensor",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Image Processing: Point operators - Pixel transforms,  Color transforms,\nHistogram equalization;  Linear filtering (Basic explanation only), Non\nLinear Filtering – Median Filtering; Binary Image Processing –\nMorphology, Distance Transforms, Connected Components",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Machine Learning: Traditional, machine learning, and deep learning\npipelines; Supervised learning - Nearest neighbors, Bayesian classification;\nUnsupervised learning – Clustering, K-means and Gaussians mixture\nmodels; Deep neural networks - perceptron unit, Weights and layers,\nActivation functions, Loss functions, Backpropagation;  Convolutional\nneural networks",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Recognition:  Instance recognition, Image classification -   Feature-based\nmethods, Deep networks, Object detection -  Face detection, General object\ndetection -  Precision vs. recall, Semantic segmentation – Basic\nunderstanding only\nFeature Detection and Matching: Points and patches, Edge Detection,\nContour Detection, Lines and vanishing points, Segmentation - Region\nsplitting, Region merging, Watershed",
+    "contact_hours": "9"
+  }
+]

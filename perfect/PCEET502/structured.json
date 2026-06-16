@@ -1,0 +1,101 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Rectangular",
+            "Cylindrical and Spherical Coordinate Systems - Representation of Point",
+            "Unit vector",
+            "Vector",
+            "Constant surfaces",
+            "Transformation of points",
+            "unit vectors and vectors among the three coordinate systems - Transformation matrices",
+            "Del operator - Representation in the three coordinate systems",
+            "Gradient of scalar field - Physical meaning of gradient",
+            "Divergence of a vector field - Physical significance of divergence -Divergence Theorem",
+            "Curl of a vector field - Physical significance of curl - Stoke’s Theorem Electrostatic Fields : Coulomb’s Law",
+            "Electric Field Intensity",
+            "Force and Field due to system of charges",
+            "Gauss’s Law - integral form",
+            "Electric Flux Density",
+            "Field due to line of charge",
+            "surface and volume charge distributions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Electrostatic Fields in material media :Gauss’s law - point form",
+            "Electric potential",
+            "Relation between E and V",
+            "Field due to electric dipole",
+            "Energy density in static electric fields",
+            "Conduction and Convection Current",
+            "Ohm’s law in point form",
+            "Resistance",
+            "Capacitance of parallel plate capacitor",
+            "Coaxial and Spherical capacitors",
+            "Continuity equation",
+            "Boundary conditions",
+            "Poisson’s and Laplace’s Equations (solution not required) Magnetostatics : Biot Savart’s Law",
+            "Ampere’s Circuital Law in integral and point form",
+            "Magnetic field due to infinite line current",
+            "infinite sheet of current",
+            "Coaxial cable",
+            "Non conservativeness of magnetic field",
+            "Magnetic scalar potential",
+            "Magnetic vector potential"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Magnetostatics in Material Media :Force on a charged particle due to a magnetic field",
+            "Force between two current carrying conductors",
+            "Magnetic Torque and Moment",
+            "Magnetization in materials",
+            "Magnetic boundary conditions",
+            "Inductance",
+            "Energy stored in magnetostatic fields. Electromagnetic Induction and Maxwell- Heaviside Equations: Faraday’s law",
+            "Transformer emf and Motional emf",
+            "Displacement Current",
+            "Maxwell-Heaviside equations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Electromagnetic Waves :Time varying potentials",
+            "Waves in general",
+            "Electromagnetic waves",
+            "Wave propagation in lossy dielectrics",
+            "Plane waves in free space",
+            "conductors",
+            "skin effect",
+            "Power",
+            "Poynting theorem",
+            "Reflection of plane wave at normal incidence. Transmission Lines: Transmission line equations",
+            "Characteristic impedance",
+            "Input impedance",
+            "Standing wave ratio. Additional topics (not for ESE evaluation) Numerical procedures for solving Laplace’s and Poisson’s equation",
+            "Method of images",
+            "Force on magnetic materials",
+            "Magnetic levitation",
+            "Wireless power transfer",
+            "Microstrip lines * - Detailed mathematical treatment of Gradient",
+            "Divergence and Curl has been taught in Second Semester Mathematics in Vector Calculus. Hence an overview with electromagnetic theory perspective is sufficient. However",
+            "a couple of remedial classes may be provided to lateral entry students to cover the basics of Differentiation",
+            "Integration and Vector Calculus Demonstrations for coordinate systems and gradient",
+            "divergence and curl may be done using mathematical sketching softwares like GeoGebra",
+            "Geometer’s sketchpad etc. Demonstration of fields",
+            "integrals and derivatives can be done using high end softwares like Scilab/ Matlab / Octave and low end softwares like maxima. Assignments can be software based wherever possible"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

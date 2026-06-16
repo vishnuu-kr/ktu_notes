@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Reliability Concepts: Definition of reliability, Reliability vs. Quality,\nReliability function, MTTF and MTBF, Hazard rate function, Bathtub curve,\nDerivation of the reliability function, Failure and Failure modes, Causes of\nFailures and Unreliability.\nHazard Models: Constant hazard model, Linearly increasing hazard models,\nWeibull model.\nSystem Reliability: Series and parallel configurations, Combined series\nparallel systems, k-out-of-m systems, standby systems.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Redundancy Techniques in System design: Component and Unit\nredundancy, Weakest-link Technique, Mixed redundancy, Redundancy\noptimization.\nState - Dependant Systems: Markov analysis, Single and two independent\ncomponents, Load sharing systems, Standby system, Degraded systems.\nReliability Allocation: Equal, ARINC, and Proportional apportionments,\nAGREE method.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "System Analysis and Reliability Estimation: Fault tree analysis, Event tree\nanalysis, FMEA and FMECA, Tie - set and Cut - set methods.\nDesign for reliability: Load -Strength Interference and safety Margin\nSoftware reliability: Software errors; Fault Tolerance; Data Reliability;\nHardware and Software Interfaces.\nReliability prediction Standards: MIL 217 and NSWC Standards.\nHuman reliability: Methods for Human Reliability Analysis.\nEconomics of Reliability: Optimizing Reliability Cost`",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Availability: Definitions and Basic Concepts; Inherent availability; Achieved\navailability; Operational availability; Availability of Series and Parallel\nSystems.\nMaintenance: Preventive, predictive and reliability cantered maintenances,\nMaintainability - Instantaneous Repair Rate and Maintainability Function,\nMTTR.\nLife Testing: Objectives and Types, Censoring; Accelerated Life Testing,\nHALT, HASS.",
+    "contact_hours": "9"
+  }
+]

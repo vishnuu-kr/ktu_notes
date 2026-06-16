@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Elements of a communication system",
+            "Need for modulation. Amplitude modulation",
+            "DSB-SC and SSB systems",
+            "AM Transmitter and receiver. Frequency and phase modulation",
+            "Narrow and wideband FM and their spectra",
+            "FM transmitter and receiver"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "BASK",
+            "BFSK",
+            "BPSK",
+            "QPSK",
+            "QAM (analysis not required",
+            "Signal constellation of digital modulation schemes",
+            "Transmission rate"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "OSI Layering",
+            "TCP/IP layering. Switching: Circuit switching and packet switching Data link layer: Flow control (stop & wait and sliding window",
+            "Media access control: Aloha",
+            "Slotted Aloha",
+            "CSMA",
+            "CSMA/CD"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Logical addressing",
+            "IPv4 & IPV6",
+            "Classes of IP addresses",
+            "Subnetting. Routing schemes: Distance vector routing",
+            "Link state routing. Transport layer: TCP",
+            "Congestion control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

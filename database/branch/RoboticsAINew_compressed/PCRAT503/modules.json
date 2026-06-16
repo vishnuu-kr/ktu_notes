@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Electric Drives: –Block diagram. Advantages, Uses in\nRobotic Applications.\nIntroduction to Special Electrical Machines- DC servo motor, AC servo\nmotors, stepper motor- variable reluctance - permanent magnet- hybrid,\nBLDC, PMSM- Construction, working and principle of operation",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "SCR: Structure, working, V-I and switching characteristics- Turn on\nmethods of SCR- Gate triggering circuits, R and RC triggering circuits,\nline synchronised triggering – natural and forced commutation (concept\nonly). Protection of SCR. Requirements of isolation and synchronization\nin gate drive circuits- Opto and pulse transformer-based isolation.\nControlled Rectifiers –Single phase fully controlled bridge rectifier with\nR, RL and RLE loads (continuous & discontinuous conduction) – output\nvoltage equation. Three-phase fully controlled converter with RLE load",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "DC-DC converters – Step down and step up choppers – control methods-\ntwo-quadrant & four-quadrant chopper.\nDC Motor drives- Solid state speed control of DC motors- Armature\ncontrol and field control, Single phase fully controlled converter drives\n(Rectifier and inverter mode).\nChopper-controlled DC drives- Regenerative braking control- Four\nquadrant chopper drives. Closed loop speed and torque control.\nInverters –– 1-phase full-bridge voltage source inverters inverter with R &\nRL loads- 3-phase bridge inverter with R load – 120° & 180° conduction\nmode. Voltage control in inverters– Pulse Width Modulation – single pulse\nwidth, multiple pulse width & sine PWM-elimination of harmonics- Variable\nVoltage Variable Frequency Drive (Block diagram only).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Control of Servomotors-Components of typical servo system-with DC and\nbrushless DC servo motor, Feedback system -Sizing of servomotors\nPosition control of Stepper motor- Drive circuit – modes of excitation- open\nloop and closed loop control of Stepper Motor- applications\nPermanent Magnet Motor drives- Speed control of BLDC motor- converter\ncircuits, modes of operation - applications. Speed control of PMSM-Self-\ncontrol- Sensorless Control\nDigital Control of Electric Drives: Digital Controllers; Microcontroller and\nDSP-Based Control",
+    "contact_hours": "9"
+  }
+]

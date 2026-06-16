@@ -1,0 +1,313 @@
+Course Code 
+PECST743 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the fundamental concepts in Molecular Biology, Genomics, Proteomics and 
+Modelling. 
+2. To introduce bio macromolecules such as genes and proteins, different biological databases, 
+and tools and algorithms for biological data processing, analysis and interpretation, and the 
+elements of the systems approach to Molecular Biology. 
+ 
+SYLLABUS 
+Module 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Molecular Biology Primer (3 hours) 
+Genes, 
+DNAs, 
+RNAs, 
+Proteins, 
+Genomics, 
+Sequencing 
+techniques, 
+Bioinformatics overview and scope 
+Sequence Alignment (6 hours) 
+Global and local sequence alignment-dynamic programming algorithms, edit 
+distance, similarity, Needleman Wunsch Algorithm, Smith Waterman 
+Algorithm 
+9 
+2 
+Biological Databases and Data Formats (3 hours) 
+Genomic and Sequence Data Formats, GenBank, EMBL-Bank, and DDBJ, 
+PROSITE, NCBI- Database Searching: BLAST, FASTA 
+Phylogenetics (6 hours) 
+Phylogenetic Tree basics and Construction Methods, UPGMA, Neighbour 
+joining, Parsimonous trees, Additive trees, Bootstrapping 
+9 
+3 
+Combinatorial Pattern Matching (9 hours) 
+Combinatorial Pattern Matching, Repeat finding, Keyword Trees, Suffix Trees, 
+Heuristic similarity search algorithms, Approximate Pattern Matching 
+9 
+
+ 
+ 
+ 
+4 
+R FOR BIOINFORMATICS  
+Variables, Data types, control flow constructs, String manipulation, Pattern 
+Matching, arrays, lists and hashes, File handling, Programs to handle biological 
+data and parse output files for interpretation, packages for sequence alignment, 
+FASTA, BLAST (Bioconductor, msa, Biostrings etc.) 
+Indicative Laboratory/Microproject Tasks 
+Biological Databases, Sequence alignment: BLAST family of programs, 
+FASTA, ClustalW for multiple sequence alignment, Phylogenetics software, 
+Homology Modeling and Model evaluation, Related Programs in R. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the Basics of Bioinformatics 
+K2 
+CO2 
+Use various biological databases and apply sequence alignment 
+techniques 
+K3 
+CO3 
+Use molecular phylogenetics to identify evolutionary relationships 
+among various biological species 
+K3 
+CO4 
+Apply the concept of combinatorial pattern matching in bioinformatics 
+K3 
+CO5 
+Use R language and packages to solve bioinformatics problems 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+An Introduction to Bioinformatics 
+Algorithms,
+N. C. Jones and P. 
+A. Pevzner,
+MIT Press, 2004 
+1/e, 2004 
+2 
+Bioinformatics for Beginners: Genes, 
+Genomes, Molecular Evolution, 
+Databases and Analytical Tools 
+Supratim Choudhuri 
+Academic Press 
+1/e, 2014 
+3 
+R Programming for Bioinformatics 
+Robert Gentleman 
+CRC Press 
+1/e, 2009 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+-
+-
+-
+-
+-
+-
+-
+-
+2 
+CO2 
+3 
+3 
+3 
+-
+-
+-
+-
+-
+-
+-
+-
+2 
+CO3 
+3 
+3 
+3 
+3 
+-
+-
+-
+-
+-
+-
+-
+2 
+CO4 
+3 
+3 
+3 
+3 
+-
+-
+-
+-
+-
+-
+-
+2 
+CO5 
+3 
+3 
+3 
+3 
+3 
+-
+-
+-
+-
+-
+-
+2 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year
+1 
+Introduction to Bioinformatics 
+T. K. Attwood and D. 
+J. Parry-Smith,
+Pearson Education 
+1/e, 2003 
+2 
+Analysis of Biological Networks, 
+B. Junker and F. 
+Schreiber,
+Wiley Publishers 
+1/e, 2007 
+3 
+Heterogeneous Information 
+Networks - Principles & 
+Methodologies 
+Y. Sun and J. Han, 
+Mining 
+Morgan & Claypool 
+Publishers 
+1/e, 2012 
+4 
+Multilayer Social Networks, 
+M. E. Dickison et al, 
+Cambridge 
+University Press
+1/e, 2016 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/102/106/102106065/ 
+2 
+https://onlinecourses.swayam2.ac.in/cec21_bt04/preview 
+
+ 
+ 
+SEMESTER S7 
+INFORMATION SECURITY 
+(Common to CS/CM/CA/AM)

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to neural networks: Single layer perceptrons, Multi Layer\nPerceptrons (MLPs), Representation Power of MLPs, Activation functions -\nSigmoid, Tanh, ReLU, Softmax, Risk minimization, Loss function, Training\nMLPs with backpropagation, Practical issues in neural network training -\nThe Problem of Overfitting, Vanishing and exploding gradient problems\n,Difficulties in convergence, Local and spurious Optima, Computational\nChallenges. Applications of neural networks.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to deep learning:  Deep feed forward network, Training deep\nmodels, Optimization techniques - Gradient Descent (GD), GD with\nmomentum, Nesterov accelerated GD, Stochastic GD, AdaGrad, RMSProp,\nAdam. Regularization Techniques - L1 and L2 regularization, Early stopping,\nDataset augmentation, Parameter sharing and tying, Injecting noise at input,\nEnsemble methods, Dropout, Parameter initialization.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Convolutional Neural Networks: Convolution operation, motivation, pooling,\nConvolution and Pooling as an infinitely strong prior, variants of convolution\nfunctions, structured outputs, data types, efficient convolution algorithms",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Recurrent neural networks: Computational graphs, RNN design, encoder –\ndecoder sequence to sequence architectures, deep recurrent networks,\nrecursive neural networks, modern RNNs LSTM and GRU.\nApplications: computer vision, speech recognition, Natural Language\nprocessing Research Areas: autoencoders, representation learning, boltzmann\nmachines, deep belief networks, Transformers",
+    "contact_hours": "9"
+  }
+]

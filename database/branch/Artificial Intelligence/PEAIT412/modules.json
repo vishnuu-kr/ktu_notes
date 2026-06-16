@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Data Warehousing :-\nOverview of Data Warehousing - Need, Definition, Characteristics,\nBenefits, Operational vs. Analytical Systems, Applications in Industry.\nArchitecture of Data Warehousing - Data Sources, Staging Area, Data\nMarts, ETL (Extract, Transform, Load) Processes, Components of a\nData Warehouse (Data Models, OLAP, Metadata);\nData Warehouse Models - Enterprise Data Warehouse, Virtual\nWarehouse, Data Mart.\n[Text 1 : Ch 1 -3]",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Dimensional Modeling & Design :-\nDimensional Modeling Basics - Facts, Dimensions, Star Schema,\nSnowflake Schema; Steps in Dimensional Modeling; Fact Tables,\nDimension Tables; Data Warehouse Design-Top-Down & Bottom-Up,\nFact Table Granularity; Slowly Changing Dimensions; Advances in\nDimensional Modeling - Aggregates & Roll-Up, Time Dimension, Junk\nDimensions, Degenerate Dimensions.\n[Text 2 : Ch 1-5]",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "ETL Processes & Tools :-\nETL Concepts and Process - Extracting Data from Multiple Sources,\nData Transformation and Cleansing, Loading Data; ETL Tools and\nPlatforms - Common ETL Tools (Informatica, Talend, Microsoft SSIS),\nScheduling and Automation of ETL Processes; Data Quality and Data\nGovernance in ETL - Handling Incomplete and Inconsistent Data,\nEnsuring Data Accuracy, Consistency, and Integrity.\n[Text 1 : Ch 4-7]",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Data Warehouse Optimization & OLAP :-\nQuery Optimization in Data Warehouses - Indexing Strategies,\nPartitioning, Performance Tuning; OLAP - Architectures: MOLAP,\nROLAP, HOLAP;\nOperations: Drill-Down, Roll-Up, Slicing, Dicing; Data Warehouse\nMaintenance - Data Loading Automation, Backup, and Recovery, Data\nWarehouse Evolution and Scalability.\nText 1 : Ch 8-10, Text 2 : Ch 7-9]",
+    "contact_hours": "9"
+  }
+]

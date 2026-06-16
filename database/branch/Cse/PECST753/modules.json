@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Game Theory - Competitive equilibrium, Rationality;\nStrategic Games - Dominance, Nash equilibrium, Maxmin strategies,\nelimination of dominated strategies, preservation of pure Nash equilibrium\n(PSNE), matrix games, relation between maxmin and PSNE in matrix games\nMixed strategies, mixed strategy Nash equilibrium (MSNE), finding MSNE,\nMSNE characterization theorem, algorithm to find MSNE",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Correlated equilibrium (CE) -  Computing CE, extensive form games,\nsubgame perfection, limitations of subgame perfect Nash equilibrium;\nImperfect information extensive form games (IIEFG) - strategies in IIEFGs,\nequivalence of strategies in IIEFGs, perfect recall, Equilibrium in IIEFG;\nGame theory application - P2P file sharing;\nBayesian games - strategy and utility in Bayesian games, equilibrium in\nBayesian games.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to mechanism design - revelation principle, introduction and\nproof of Arrow’s impossibility result, introduction to social choice setup;\nIntroduction and proof of Gibbard-Satterthwaite theorem, domain restriction,\nmedian voter theorem; Task sharing domain, uniform rule, mechanism\ndesign with transfers, examples of quasi-linear preferences, Pareto optimality\nand Groves payments",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to VCG mechanism, VCG in Combinatorial allocations,\napplications to Internet advertising, slot allocation and payments in position\nauctions, pros and cons of VCG mechanism; Affine maximizers, single\nobject allocation, Myerson’s lemma, optimal mechanism design; Single and\nmulti-agent optimal mechanism design, examples of optimal mechanisms",
+    "contact_hours": "8"
+  }
+]

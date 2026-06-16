@@ -1,0 +1,45 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "CMOS Amplifiers: Common source amplifier with resistive and active loads, Common source amplifier with source degeneration, Common gate and Common drain amplifier (only voltage gain and input and output impedances of the circuits",
+            "Cascode Amplifier: Cascoded amplifier with cascade loads Folded cascode Amplifier"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Basic circuit",
+            "PMOS and NMOS current mirrors Simple and Cascode current mirror circuits. CMOS Differential Amplifier: Differential Amplifier with resistive",
+            "current source and current mirror loads",
+            "MOS telescopic cascode amplifier (only voltage gain and input and output impedance of the circuits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "CMOS Operational Amplifier Two Stage Operational Amplifiers Frequency compensation of OPAMPS Miller compensation. Band gap References",
+            "Supply Independent Biasing, Temperature independent references - band gap reference"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "DAC specifications",
+            "ADC specifications DAC Architecture - Resistor String",
+            "R-2R Ladder Networks",
+            "Current Steering",
+            "Charge Scaling",
+            "cyclic and Pipeline types. ADC Architecture- Flash type",
+            "The Successive approximation type and oversampling ADCs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

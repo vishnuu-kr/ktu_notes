@@ -1,0 +1,65 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction- stress",
+      "strain and its types",
+      "stress strain diagram (ductile & brittle materials",
+      "material properties",
+      "Relationship between elastic constants (E",
+      "G & v). Calculation of stress",
+      "strain and change in length in axially loaded members with single and composite materials",
+      "Effects of thermal loading - thermal stress and thermal strain"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Method of sections",
+      "Stress vectors on Cartesian coordinate planes passing through a point",
+      "stress at a point in the form of a matrix. Equality of cross shear",
+      "Cauchy's equation (no derivation). Principal planes and principal stress",
+      "meaning of stress invariants",
+      "maximum shear stress. Mohr’s circle for 2D cases Displacement",
+      "gradient of displacement",
+      "Cartesian strain matrix",
+      "strain-displacement relations (small-strain only",
+      "Simple problems to find strain matrix"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Torsional deformation of circular shafts",
+      "assumptions for shafts subjected to torsion within elastic deformation range",
+      "torsion formula (no derivation). Torsional rigidity",
+      "Polar moment of inertia",
+      "basic design of transmission shafts. Types of beams",
+      "loading and supports. Shear force and bending moment diagrams for cantilever and simply supported beams (point load & UDL"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Fundamentals of buckling and stability",
+      "critical load",
+      "Buckling of columns with pinned ends",
+      "Euler’s buckling theory for long columns. Critical stress",
+      "slenderness ratio",
+      "Rankine’s formula for short columns. Theories of Failure",
+      "Rankine’s theory for maximum normal stress",
+      "Guest’s theory for maximum shear stress",
+      "Saint-Venant’s theory for maximum normal strain",
+      "Hencky-von Mises theory for maximum distortion energy",
+      "Haigh’s theory for maximum strain energy"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

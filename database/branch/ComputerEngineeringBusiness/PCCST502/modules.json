@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Algorithms – Characteristics, Criteria for Analysing Algorithms; Time and\nSpace Complexity - Best, Worst, and Average Case Complexities;\nAsymptotic Notations and their properties; Time and Space Complexity\nCalculation of simple algorithms; Analysis of Recursive Algorithms -\nRecurrence Equations, Solution of Recurrence Equations : Iteration Method,\nRecursion Tree Method, Substitution method and Master’s Theorem (proof\nnot expected); Balanced Search Trees - AVL Trees (Insertion and deletion\noperations with all rotations in detail,  algorithms not expected)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Disjoint Sets - Disjoint set operations, Union and find algorithms, Analysis\nof union by rank with path compression, Connected components of a Graph;\nGraphs – Representations, Traversals: BFS, DFS and their analysis, Strongly\nConnected Components; Topological Sorting. Divide and Conquer Strategy\n– Control Abstraction, Merge Sort, Strassen’s Matrix Multiplication,\nAnalysis.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Greedy Strategy - Control Abstraction, Fractional Knapsack; Minimum Cost\nSpanning Tree – Kruskal’s and Prim’s, Analysis; Shortest Path Problem –\nDijkstra’s Algorithm, Analysis; Dynamic Programming - Control\nAbstraction, Optimality Principle, Matrix Chain Multiplication, Analysis;\nAll Pairs Shortest Path Algorithm - Floyd-Warshall Algorithm, Analysis;\nBacktracking - Control Abstraction, N – Queens Problem, Algorithm.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Branch and Bound - Control Abstraction, Travelling Salesman Problem,\nAlgorithm; Complexity - Tractable and Intractable Problems; Complexity\nClasses :  P, NP, NP- Hard and NP-Complete Classes; NP Completeness\nproof - Clique Problem and Vertex Cover Problem; Approximation\nalgorithms - Bin Packing; Randomized Algorithms - Definitions of Monte\nCarlo and Las Vegas algorithms; Randomized version of Quick Sort\nalgorithm with analysis.",
+    "contact_hours": "11"
+  }
+]

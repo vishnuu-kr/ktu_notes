@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Integer Arithmetic - Divisibility - Greatest Common Divisor - Extended\nEuclidean Algorithm- Linear Diophantine equation,\nModular Arithmetic - Modulo Operator - Congruence - Addition and\nmultiplicative inverse, Algebraic structures - Field – Finite fields of the form\nGF(p) and GF(2n) - Polynomial arithmetic,\nPrime Numbers – Fermat’s and Euler’s Theorem - Prime Factorization by Trial\nDivision Method - Chinese Remainder Theorem.\nSecurity Goals - Security Services - Confidentiality -Integrity - Authentication-\nNonrepudiation- Access control,\nSecurity Mechanisms – Encipherment- Data Integrity – Signature -\nAuthentication Exchange - Traffic Padding- Routing Control – Notarization\nAccess Control",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to Cryptography -Classification of Cryptosystems - Cryptanalytic\nattacks - CipherProperties – Confusion - Diffusion.\nClassical Cryptosystems - Substitution Techniques - Monoalphabetic Cipher –\nCaesar Cipher- AffineCipher,\nPolyalphabetic Ciphers - Autokey Cipher- Playfair Cipher-Hill\nCipher-VigenereCipher- One Time Pad Cipher, Stream and Block Ciphers,\nModern Secret Key Ciphers - Substitution Box-Permutation Box-Product Ciphers\nData Encryption Standard - DES - Structure of DES - DES Attacks - 2-DES - 3-\nDES,\nAdvanced Encryption Standard - AES - Structure-Analysis, Cryptographic Hash\nFunctions - Properties - Secure Hash Algorithm - SHA-512 Logic - SHA-512\nRound Function,\nMessage Authentication Code-Hash-based Message Authentication Code -\nHMAC -Cipher-based Message Authentication Code - CMAC",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Public Key Cryptosystems -PKC - Types of PKC - Trapdoor - One-way\nfunctions, RSA Cryptosystem -Key Generation – Encryption- Decryption,\nElGamal Cryptosystem – Key Generation – Encryption-Decryption, Diffie-\nHellman Key Exchange Protocol- Man in the Middle attack on Diffie-Hellman\nProtocol.\nDigital Signature- Signing - Verification, Digital signature forgery-Existential\nforgery- Selective forgery - Universal forgery, RSA Digital Signature Scheme -\nElGamal Signature Scheme.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Symmetric Key Distribution using Symmetric and Asymmetric Encryption -\nDistribution of public keys -Public announcement- Public available directory-\nPublic-key authority- Public key Certificates.\nElectronic Mail Security -Pretty Good Privacy- PGP message format -\nTransmission and Reception of PGP Messages, IP Security Overview - IP\nAuthentication Header - Encapsulating Security Payload - Distributed Denial of\nService attacks, Secure Electronic Transaction – Payment Processing - Dual\nSignature,\nFirewalls - Firewall Design Principles",
+    "contact_hours": "9"
+  }
+]

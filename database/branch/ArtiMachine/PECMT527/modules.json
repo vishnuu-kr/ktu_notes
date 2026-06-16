@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Compilers – The Translation Process, Major Data Structures, Other\nIssues, Bootstrapping and Porting.\nScanning Process – Finite state automata and Regular expressions\n(Basic idea only).\nUse of LEX to generate automatic scanners (basic idea only).\nParsing Process – Context free Grammars (Basic idea only), Parse Trees\nand Abstract Syntax Trees, Ambiguity.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Top-down Parsing - Recursive Descent, LL(1), First and Follow.\nError Recovery in Top-down Parsers.\nBottom-up Parsing - Overview of Bottom -up parsing, Shift-reduce\nparser, LR(0) Items and LR(0) Parsing, SLR(1) parsing, General LR(1)\nand LALR(1) Parsing.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Semantic Analysis: Attributes and attribute grammars. Dependency\ngraphs and Evaluation order, Synthesized and Inherited attributes.\nIntermediate code generation – Three address code, P – code.\nIntermediate code as a synthesized attribute.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Generation of Target code from intermediate code – Code generation of\nData structure references- address calculation, array references, if and\nwhile statements.\nCode Optimization Techniques: Principal sources of code optimization,\nClassification of optimizations, Data Structures and Implementation\nTechniques for Optimizations.",
+    "contact_hours": "10"
+  }
+]

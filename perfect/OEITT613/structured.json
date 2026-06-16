@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of AI and Agents- Definition and History of AI",
+            "Narrow AI vs. General AI",
+            "AI Applications",
+            "Definition and Components of AI Agents",
+            "Types of Agents-Simple Reflex",
+            "Model Based",
+            "Goal Based",
+            "and Utility Based Agents",
+            "Agent Architectures and Environments. Python for AI- Python basic data structures",
+            "Setting Up Python Environment",
+            "Key Libraries and Tools-NumPy",
+            "Pandas",
+            "Matplotlib"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Definition and formulation of AI problems",
+            "State space representation",
+            "actions",
+            "and goals",
+            "Problem characteristics- problem decomposability",
+            "solution steps consideration",
+            "problem solution predictability",
+            "absolute or relative problem solution",
+            "state or path solution",
+            "role of knowledge in problem solving",
+            "human interaction in problem solving. Problem definition and Python implementation of Water Jug Problem",
+            "8-Puzzle Problem & Missionaries and Cannibals Problem"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Uninformed Search Algorithm- Breadth First Search and Depth First Search algorithms description and implementation using Python",
+            "Informed Search Algorithms- Hill Climbing",
+            "A* Search algorithm",
+            "and AO* Search algorithm description and implementation using Python",
+            "Comparison of informed and uninformed search algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Minimax algorithm and Alpha-Beta Pruning",
+            "Game Playing Implementation- Tic-Tac-Toe with minimax and alpha-beta pruning",
+            "Introduction to CSP- Definitions and basic concepts",
+            "Techniques for CSP- Backtracking and Constraint Propagation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

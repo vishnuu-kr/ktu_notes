@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definition and significance",
+            "Types of Machine Learning: Supervised",
+            "Unsupervised",
+            "Reinforcement Learning",
+            "Common algorithms and their applications",
+            "The role of Machine Learning in CPS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Classification algorithms - Decision Trees",
+            "Support Vector Machines",
+            "Regression algorithms- Linear Regression",
+            "Polynomial Regression",
+            "Evaluation metrics- accuracy",
+            "precision",
+            "recall Unsupervised Learning: Clustering algorithms (K-means",
+            "Hierarchical Clustering",
+            "Dimensionality reduction techniques (PCA",
+            "t-SNE"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Fundamentals of RL",
+            "Key concepts: states",
+            "actions",
+            "rewards",
+            "policy",
+            "Q-learning and Deep Q-networks Real-Time Applications: ML in real-time decision making",
+            "Optimization of control systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Deep Learning and Neural Networks",
+            "Transfer Learning",
+            "Explainable AI Future Trends and Challenges: Edge Computing and IoT integration",
+            "Security and privacy concerns in CPS",
+            "Ethical considerations in ML applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

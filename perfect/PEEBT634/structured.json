@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Estimation of power density spectrum",
+            "non-parametric methods- Periodogram - Bartlett",
+            "Welch",
+            "Blackman and Tukey Methods-comparison. Parametric models",
+            "estimation Auto regressive (AR",
+            "Moving average (MA) Autoregressive moving average (ARMA) models. Parametric model based linear prediction theory-Forward and backward linear prediction Estimation of parameters - spectrum estimation of ECG",
+            "Power spectrum estimation of Heart rate variability data. Application",
+            "Spectrum estimation of EEG"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Wavelet Analysis Introduction to wavelet transforms",
+            "CWT & DWT Orthogonal wavelet decomposition, Orthonormal wavelets",
+            "filter banks. Applications of DWT: wavelet denoising, ECG feature detection & Heart sound Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Optimal and adaptive filters",
+            "Weiner filters",
+            "Adaptive signal processing - Steepest descent algorithm LMS adaptive algorithm",
+            "Adaptive noise canceller - cancellation of 50 Hz signal in ECG- cancellation of maternal ECG in foetal electrocardiography"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Principal Component Analysis",
+            "denoising of ECG & EEG signals using PCA, Independent Component Analysis",
+            "EEG denoising. Computation of diagnostic signal parameters of ECG: Heart rate and QRS detection using Multivariate analysis (PCA and ICA"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Computer Hardware Organization",
+            "BIOS and Boot Process",
+            "Multithreading concepts",
+            "Processes",
+            "Threads",
+            "Scheduling",
+            "Structures - Simple Batch",
+            "Multi-programmed",
+            "Time-shared",
+            "Personal Computer",
+            "Parallel",
+            "Distributed Systems",
+            "Real-Time Systems",
+            "System components",
+            "Operating System services"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Terminology: RTOS concepts and definitions",
+            "real-time design issues",
+            "examples",
+            "Hardware Considerations: logic states",
+            "memory",
+            "Architectures",
+            "RTOS building blocks",
+            "Real-Time Kernel"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Concepts",
+            "scheduling",
+            "CPU Scheduling",
+            "scheduling criteria",
+            "scheduling algorithms Threads: Multi-threading models",
+            "threading issues",
+            "thread libraries",
+            "synchronization Mutex: creating",
+            "deleting",
+            "prioritizing mutex",
+            "mutex internals"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Messages",
+            "Buffers",
+            "mailboxes",
+            "queues",
+            "semaphores",
+            "deadlock",
+            "priority inversion Pipes memory management: - Process stack management",
+            "run-time buffer size",
+            "swapping",
+            "overlays",
+            "block/page management",
+            "replacement algorithms",
+            "real-time garbage collection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

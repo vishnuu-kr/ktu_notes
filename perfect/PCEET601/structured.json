@@ -1,0 +1,38 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Impulse and Step responses of first and second order systems- Pole dominance for higher order systems. Time domain specifications. Error analysis: Steady state error analysis and static error constants"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Root locus technique: Construction of Root locus - stability analysis- effect of addition of poles and zeros",
+            "Effect of positive feedback systems on Root locus. Controller design: Types of controllers and their control action-proportional (P), integral (I), derivative (D), PID control. PID tuning using Ziegler-Nichols method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Bode Plot: Construction, Concept of gain margin and phase margin",
+            "stability analysis. Frequency domain specifications",
+            "correlation between time domain and frequency domain responses (Resonant peak and resonant frequency). Introduction to compensators. (Concept only). Polar plot: Gain margin and phase margin, Stability analysis. Nyquist stability criterion. Concept of Nichols Chart"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to state-space modelling: State variables, state equations. State variable representation of electrical systems. Relationship between State space and Transfer function models: Derivation of transfer functions from state equations. Controllable, Observable and Diagonal/Jordan canonical forms. Introduction to similarity transformations (concept only). Solution of time invariant systems: Solution of time response of autonomous systems and forced systems. State transition matrix",
+            "computation using Method of Laplace Transform and Cayley Hamilton theorem. Controllability & Observability: Definition, Kalman’s test"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

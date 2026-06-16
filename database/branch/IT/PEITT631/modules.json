@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Fundamentals: Need of compiler, Analysis of the source program, Phases of a\ncompiler, grouping of phases, compiler writing tools, Cross compiler. Lexical\nAnalyser: The role of Lexical Analyzer, Review of Finite Automata, Design of\nLexical Analyser using DFAs, Specification of Tokens using Regular Expressions.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Syntax Analyser: Review context-free grammars, Parse Trees, Ambiguous\nGrammars. Top – Down Parsing: Recursive Descent Parser, Predictive Parser-LL(1).\nBottom-Up Parsing: LR(0) parser, SLR(1) parser, CLR(1) parser, LALR parser.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Semantic Analyser: Syntax directed definitions:  S-attributed definitions, L-\nattributed definitions. Bottom- up evaluation of S- attributed definitions, Top-down\ntranslation, Bottom-up evaluation of inherited attributes. Intermediate Code\nGeneration (ICG): Need of ICG, Different representation of intermediate code,\nintermediate code for assignment statement.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Code Optimization: Principal sources of optimization, Optimization of basic\nblocks. Code Generation: Issues in the design of a code generator, A simple code\ngenerator.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Brief overview of microelectronic fabrication technology - Epitaxial Growth",
+      "Diffusion",
+      "Ion Implantation Processes -Description - Fabrication of BJT",
+      "MOSFETs. Operational amplifiers: Introduction to operational amplifiers",
+      "Internal block schematic of op amp- equivalent circuit -Voltage transfer curve- - input and output impedance - Slew rate",
+      "Input bias current - Input offset current- Offset voltage- CMRR",
+      "SVRR. Open loop op- amp configurations- open loop gain - Frequency response- finite gain bandwidth - - Ideal op amp parameters. Offset voltage compensating networks-offset minimizing resistor"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Feedback topologies- Voltage series",
+      "voltage shunt",
+      "current series and current shunt feedbacks - Frequency response",
+      "concept of virtual ground - Closed loop gain",
+      "input resistance",
+      "output resistance",
+      "band width and output offset voltage of feedback configurations",
+      "voltage follower. Summing amplifier",
+      "Difference amplifiers with one op amp and 3 op amps-Instrumentation amplifier",
+      "Log and Antilog amplifiers. Voltage to current and current to voltage converter - Integrator and differentiator. Peak detector circuit",
+      "Precision rectifiers. Comparators and Schmitt trigger circuits"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Transfer functions - LPF",
+      "BRF. First and second order filters. Approximation methods - Butterworth - Chebyshev. Sample and hold circuit",
+      "ADC -successive approximation",
+      "flash",
+      "integrating types. DAC - weighted",
+      "R-2R types",
+      "Multi vibrators - Astable and mono stable - Design and working. Wave generators-Triangular and saw tooth - RC phase shift and Wien bridge oscillators"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "IC regulators - 723 -block diagram",
+      "typical low voltage regulator circuit",
+      "78XX and 79XX IC regulators",
+      "317 - applications. Timers - 555 - Functional block diagram- Astable and monostable multi vibrators using 555. VCO - 566. PLL-IC 565-Block diagram",
+      "working and applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

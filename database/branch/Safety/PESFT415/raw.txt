@@ -1,0 +1,382 @@
+Course Code 
+PESFT415 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+ 
+Course Objectives: 
+ 
+1. The finite difference methods and finite volume methods as a means of solving different types of 
+differential equations that arise in fluid dynamics and heat transfer. 
+2. The fundamentals of numerical analysis, ordinary differential equations and partial differential 
+equations related to fluid mechanics and heat transfer 
+3. The error control and stability considerations associated with numerical solutions. 
+4. A class of methods used in computational fluid dynamics for numerically solving the Navier- 
+Stokes equations for 2D incompressible flows. 
+ 
+SYLLABUS 
+ 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+ 
+ 
+ 
+1 
+Introduction to Computational Fluid Dynamics, Governing Equations of fluid 
+flow and heat transfer, Conservative form of Navier-Stokes equation, General 
+transport equation. Physical and mathematical classifications of partial 
+differentialequations. Elliptic, parabolic and hyperbolic equations, Comparison 
+of  experimental,  theoretical  and  numericalapproaches; 
+applications of CFD. 
+ 
+ 
+ 
+ 
+9 
+ 
+2 
+Discretization-converting  derivatives  to  their  finite  difference  forms- 
+Taylor’s series approach and polynomial fitting approach. 
+Central 
+difference, backward difference, and forward difference of first and second 
+ 
+ 
+9 
+
+ 
+ 
+ 
+order derivatives. Solution of partial differential equations using finite 
+difference equations. Discretization error, truncation error, round off error. 
+Consistency and numerical stability. Iterative convergence, condition for 
+convergence, rate of convergence. Termination of iteration. Boundary and 
+Initial conditions 
+ 
+ 
+ 
+ 
+ 
+3 
+Introduction to finite volume method. Finite volume method for steady one– 
+dimensional 
+conduction 
+problems. 
+one–dimensional 
+transient 
+heat 
+conduction problems -explicit, implicit, Crank- Nicholson schemes, under 
+and over relaxations, handling of boundary conditions; dealing with 
+Dirichlet, Neumann, and Robins type boundary conditions; two-dimensional 
+steady state conduction problems; point-by-point and line-by-line method of 
+solution; tri-diagonal matrix algorithm. 
+ 
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+4 
+Finite volume method for steady-state diffusion and convection-diffusion 
+problems; Central difference and Upwind schemes for convection and 
+diffusion problems. 
+Two dimensional incompressible viscous flows. 
+Staggered grid. Pressure correction methods. Solution algorithm for pressure- 
+velocity coupling in steady flows- SIMPLE algorithm to solve Navier - 
+Stokes equations. Computer graphics techniques to present CFD results. 
+ 
+ 
+ 
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+ 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+ 
+Total 
+5 
+15 
+10 
+10 
+40 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+ 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks. 
+● Two questions will be given from each module, out 
+of which 1 question should be answered. 
+● Each question can have a maximum of 3 sub 
+divisions. 
+(4x9 = 36 marks) 
+ 
+ 
+ 
+60 
+ 
+ 
+Course Outcomes (COs) 
+ 
+At the end of the course students should be able to: 
+ 
+ 
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+To understand the governing equations of fluid flow and heat transfer. 
+K2 
+CO2 
+To apply 
+finite difference methods to simple partial differential 
+equations 
+K3 
+CO3 
+To demonstrate the use of finite volume method for simple 1D/2D 
+problems 
+K3 
+CO4 
+To understand different solution techniques for convection diffusion 
+equation 
+K2 
+CO5 
+To apply the knowledge of CFD to interpret the graphicalresults 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 
+PO12 
+CO1 
+2 
+2 
+- 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO2 
+3 
+3 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO3 
+3 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO4 
+2 
+2 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO5 
+3 
+3 
+- 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computational Fluid Dynamics 
+John D Anderson Jr 
+McGraw-Hill Book 
+Company 
+2012 
+2 
+Numerical Heat Transfer and Fluid 
+Flow 
+S V Patankar, 
+McGraw-Hill 
+2017 
+ 
+3 
+An Introduction to Computational 
+Fluid Dynamics: The Finite Volume 
+Method 
+H. Versteeg, W. 
+Malalasekera 
+ 
+Pearson 
+ 
+2nd, 2008 
+ 
+ 
+Reference Books
+Sl. No
+Title of the Book 
+Name of the
+Author/s 
+Name of the 
+Publisher 
+Edition
+and Year 
+1 
+Introduction to computational fluid 
+dynamics 
+Anil W. Date 
+Cambridge 
+University Press 
+2005 
+ 
+2 
+ 
+Introductory methods to numerical 
+analysis 
+ 
+ 
+S SSastry 
+ 
+PHI learing Private 
+Ltd. 
+ 
+ 
+2012 
+ 
+3 
+ 
+Heat transfer 
+S P Venkatesh 
+Ane books Pvt Ltd 
+2009 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module
+No. 
+Link ID 
+1
+https://nptel.ac.in/courses/112105045 
+2 
+https://onlinecourses.nptel.ac.in/noc20_me64/preview 
+3 
+https://nptel.ac.in/courses/112105045 
+https://onlinecourses.nptel.ac.in/noc21_me126/preview 
+4 
+https://onlinecourses.nptel.ac.in/noc21_me126/preview 
+https://onlinecourses.nptel.ac.in/noc20_me64/preview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SEMESTER S3/S4 
+ECONOMICS FOR ENGINEERS

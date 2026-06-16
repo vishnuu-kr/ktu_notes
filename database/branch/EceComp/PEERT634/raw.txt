@@ -1,0 +1,265 @@
+Course Code 
+PEERT634 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCERT502 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the structure and functionality of compilers, including lexical and syntax 
+analysis, parsing techniques, and code optimization strategies. 
+2. To learn about implementing various phases of a compiler, from lexical analysis to code 
+generation. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Analysis of the source program - Analysis and synthesis phases, Phases of a 
+compiler. Lexical Analysis - Role of Lexical Analyzer, Input Buffering, 
+Specification of Tokens, Recognition of Tokens. 
+9 
+2 
+Role of the Syntax Analyser. Review of Context Free Grammars - Derivation 
+and Parse Trees. Basic parsing approaches - Eliminating left recursion, left 
+factoring. Top-Down Parsing - Recursive Descent parsing, Predictive
+Parsing, LL(1) Grammars. 
+9  
+3 
+Handle Pruning. Shift Reduce parsing. LR parsing - Constructing SLR, 
+LALR and canonical LR parsing tables. 
+Syntax directed translation - Syntax directed definitions, S-attributed 
+definitions, L-attributed definitions, Storage organization, Storage-allocation 
+strategies. 
+9 
+4 
+Intermediate 
+code 
+generation- 
+Intermediate 
+languages, 
+Graphical 
+representations, Three-Address code, Quadruples, Triples. 
+Code Optimization - Principal sources of optimization,  Local and global 
+optimizations. Code generation - Issues in the design  of a code generator, 
+Target Language, A simple code generator. 
+9 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the phases in the compilation process (lexical analysis, syntax 
+analysis, semantic analysis, intermediate code generation, code 
+optimization, and code generation) and model a lexical analyzer. 
+K3 
+CO2 
+Describe the role of the syntax analyzer, review context-free 
+grammars, and apply basic parsing approaches including top-down 
+parsing techniques and LL (1) grammars. 
+K3 
+CO3 
+Illustrate handle pruning, shift-reduce parsing, LR parsing with SLR, 
+LALR, and canonical LR tables, and apply syntax-directed translation 
+concepts. 
+K3 
+CO4 
+demonstrate intermediate code generation techniques, including 
+intermediate languages and three-address code, as well as discuss code 
+optimization strategies and the issues involved in code generation and 
+design. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Compilers – Principles 
+Techniques and Tools 
+Aho A.V., Ravi Sethi and 
+D. Ullman.  
+ Addison Wesley 
+2006 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+System Programming and 
+Operating Systems 
+D.M.Dhamdhere 
+Tata McGraw Hill & 
+Company 
+1996 
+2 
+Compiler Construction – 
+Principles and Practice 
+Kenneth C. Louden 
+Cengage Learning 
+Indian Edition 
+2006 
+ 
+3 
+The Theory and Practice of 
+Compiler Writing 
+Tremblay and Sorenson 
+Tata McGraw Hill & 
+Company 
+1984 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/106/105/106105190/ 
+2 
+https://archive.nptel.ac.in/courses/106/105/106105190/ 
+3 
+https://archive.nptel.ac.in/courses/106/105/106105190/ 
+4 
+https://archive.nptel.ac.in/courses/106/105/106105190/ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+3 
+3 
+1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+SEMESTER 6 
+ALGORITHM ANALYSIS & DESIGN

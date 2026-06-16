@@ -1,0 +1,446 @@
+Course Code 
+PBITT504 
+CIE Marks 
+60 
+Teaching 
+Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GYEST203: Foundations of Computing: 
+From Hardware Essentials to Web Design 
+and GYEST204: Programming in C 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Students will be able to gain a comprehensive understanding of javascript, node.js and mongodb to 
+develop web applications. 
+2. Students will be able to develop web application based solutions to real world problems using modern 
+web application development tools. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Javascript: How javascript makes web pages more interactive, Examples of 
+javascript in the browser, How html, css & javascript fit together,  creating a basic 
+javascript, placing the script in the page, where to place your scripts, basic 
+Javascript instructions: statements, comments, variables, data types, arrays, 
+expressions, operators; functions methods and objects: function, anonymous 
+function, variable scope, object, this keyword, arrays of objects and objects in 
+arrays built-in objects, browser object model, document object model, Global 
+objects: string, number, math, date 
+DOM: Document Object Model (DOM), working with DOM tree, accessing 
+elements, nodelists, selecting elements: using class attribute, tag name, css 
+selectors; repeating actions for an entire nodelist, looping through a nodelist, 
+traversing the DOM, previous & next sibling, first & last child, textcontent, adding 
+or removing html content, update text and markup, adding/removing elements, 
+creating attributes and changing their values, removing attributes 
+Event handling: different event types, three ways to bind an event to an element, 
+using DOM event handlers, using event listeners, using parameters with event 
+listeners, the event object, event bubbling, user interface events 
+9 
+2 
+ECMA Script: ECMA Script versions, ES5 Features, ES6 introduction, 
+var declarations and hoisting, let declaration, constant declaration, function 
+with default parameter values, default parameter expressions, unnamed 
+parameters, the spread operator, arrow functions, object destructuring, array 
+destructuring, sets and maps, Array.find, Array.findIndex, template strings, 
+10 
+
+ 
+ 
+javascript classes, callbacks, promises, async/await 
+AJAX: What is Ajax?, why use ajax?, How ajax works?, Handling ajax request 
+and response, data formats: XML, JSON; Working with JSON data, Loading 
+HTML with Ajax, Loading JSON with ajax, working with data from other servers 
+JQUERY: A basic jquery example, Why use Jquery?, finding elements, jquery 
+selection, getting element content, updating elements, changing content, inserting 
+elements, adding new content, getting and setting attributes, getting and setting css 
+properties, using .each(), events, event object, effects, animating css properties, 
+using animation, traversing the dom, working with forms, jquery and ajax 
+3 
+Node.js: What is Node.js?, installing Node.js, creating first server, request and 
+response, responding with HTML, installing custom packages with NPM, 
+introduction to express, handling request with express, serving other html files, 
+serving static files with express, automatic server restart with nodemon, public 
+folder for serving static files, creating page routes, templating engines 
+MongoDB: Architecture of MongoDB, installing MongoDB, mongoose, defining 
+a model, CRUD operations with Mongoose models, reading data from MongoDB 
+using Mongoose, updating record, deleting a single record, saving to the database, 
+dynamic data with templating engines, adding fields to the schema, uploading 
+image with express, saving uploaded images to database 
+10 
+4 
+Refactoring to MVC: Express middleware, custom middleware, registering 
+validation middleware, refactoring to MVC, refactoring validation layer, mongoose 
+validation, password encryption, user login process, user authentication with 
+express sessions, authentication middleware, user logout, handling non-existent 
+routes, displaying validation errors in templates, duplicate entry error, flushing 
+error messages from session, customising error message, persist request data on 
+form, adding a WYSIWYG editor 
+Deployment: setting up MongoDB atlas, deploying web apps on Heroku, 
+deployment 
+7 
+ 
+ 
+Suggestions on Project Topics: 
+ No. 
+Project Topics 
+1 
+Countdown clock (javascript) 
+2 
+To do list (javascript) 
+3 
+Rock paper scissors game (javascript) 
+4 
+Shopping cart page (javascript) 
+5 
+Calculator app (javascript) 
+
+ 
+ 
+6 
+Memory game (javascript) 
+7 
+Movie app (Node.js, Express, MongoDB) 
+8 
+Chat app (Node.js, Express, MongoDB) 
+9 
+Hotel booking app (Node.js, Express, MongoDB) 
+10 
+Library app (Node.js, Express, MongoDB) 
+11 
+Job search app (Node.js, Express, MongoDB) 
+12 
+E-commerce website (Node.js, Express, MongoDB) 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written) 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each module.  
+● Total of 8 Questions, each 
+carrying 2 marks 
+ 
+(8x2 =16 marks) 
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 2 sub divisions. 
+●  Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply the fundamental concepts of javascript to add user interaction in the 
+website. 
+K3 
+CO2 
+Compare javascript, jquery in terms of performance and ease of use. 
+K2 
+CO3 
+Build web applications with Node.js, express and MongoDB. 
+K3 
+CO4 
+Develop and deploy web applications with Node.js, express, MongoDB 
+adhering to MVC architecture. 
+K3 
+
+ 
+ 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the Publisher 
+Edition and 
+Year 
+1 
+Javascript and JQuery: Interactive 
+front end development 
+Jon Ducket 
+Wiley 
+1st Edition 
+2013 
+2 
+Understanding ECMASCRIPT6 
+Nicholas C Zakas 
+No starch press 
+1st Edition 
+2016 
+3 
+Beginning Node.js, Express and 
+mongoDB development 
+Greg Lim 
+Greg Lim 
+1st Edition 
+2019 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+HTML & CSS : Design and build 
+websites 
+Jon Duckett 
+Wiley 
+1st Edition 2011 
+2 
+Internet & World Wide Web how  
+to programme 
+Paul Deitel, Harvey Deitel, 
+Abbey Deitel 
+Deitel 
+5th Edition 2013 
+3 
+Web development with Node & 
+Express 
+Ethan Brown 
+O’Reilly 
+1st Edition 2014 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+ No. 
+Link ID 
+1 
+https://onlinecourses.swayam2.ac.in/nou24_cs09/preview 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+ 2 
+2  
+3  
+- 
+2  
+- 
+- 
+- 
+2 
+- 
+- 
+2 
+CO2 
+2 
+2 
+3 
+3 
+3 
+- 
+- 
+- 
+3 
+- 
+2 
+2 
+CO3 
+3 
+2 
+3 
+3 
+3 
+- 
+- 
+- 
+3 
+- 
+2 
+3 
+CO4 
+3 
+2 
+3 
+3 
+3 
+- 
+- 
+- 
+3 
+- 
+2 
+3 
+
+ 
+ 
+Project Based Learning - Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery 
+Project identification 
+Simulation/ 
+Laboratory Work/ 
+Workshops
+Presentation 
+(Progress and Final Presentations) 
+Group discussion
+Project Analysis
+Data Collection
+Evaluation 
+Question answer 
+Sessions/ 
+Brainstorming 
+Sessions
+Analytical thinking and 
+ self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project reformation (If required) 
+Guest Speakers 
+(Industry Experts) 
+Case Study/ Field Survey 
+Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 5 
+minutes video
+ 
+Assessment and Evaluation for Project Activity 
+Sl. 
+No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+ 
+ 
+1. Project Planning and Proposal (5 Marks) 
+● 
+Clarity and feasibility of the project plan  
+● 
+Research and background understanding  
+● 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+● 
+Individual contribution to the presentation  
+● 
+Effectiveness in answering questions and handling feedback  
+3. Involvement in the Project Work and Team Work (3 Marks) 
+● 
+Active participation and individual contribution  
+● 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+● 
+Adherence to the project timeline and milestones  
+● 
+Application of theoretical knowledge and problem-solving  
+● 
+Final Result 
+5. Final Presentation (5 Marks) 
+
+ 
+ 
+● 
+Quality and clarity of the overall presentation  
+● 
+Individual contribution to the presentation  
+● 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+● 
+Overall quality and technical excellence of the project  
+● 
+Innovation and originality in the project  
+● 
+Creativity in solutions and approaches  
+
+ 
+ 
+SEMESTER S5 
+SOFT COMPUTING

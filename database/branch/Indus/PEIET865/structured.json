@@ -1,0 +1,43 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Python",
+      "using pandas for data manipulation",
+      "cleaning and preparing data. Feature engineering with pandas and NumPy",
+      "techniques for creating and transforming features for analytical models. Introduction to data visualization with Matplotlib and Seaborn",
+      "exploring data distributions and relationships"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Descriptive and inferential statistics with SciPy",
+      "understanding data through statistical metrics. Feature selection techniques",
+      "using scikit-learn for automated feature selection methods like RFE (Recursive Feature Elimination). Dimensionality reduction techniques",
+      "PCA and t-SNE with scikit-learn for feature extraction and data visualization"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Overview of machine learning algorithms (classification, regression) with scikit-learn. Handling imbalanced datasets",
+      "techniques like SMOTE, and balanced random forests with imbalanced-learn. Model evaluation and hyperparameter tuning using cross-validation and GridSearchCV in scikit-learn"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Introduction to deep learning with TensorFlow and Keras",
+      "basics of neural networks. Building and training deep learning models for classification and regression problems. Advanced topics in machine learning: ensemble methods, boosting, and stacking models to improve performance"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Definition of a digital signal processing system, Sampling, Sampling rate,\nDFT and IDFT (Properties of DFT). Linear Convolution using Circular\nConvolution, Convolution of long data sequences- Overlap add method,\noverlap save method. Linear filtering methods based on DFT – FFT (DIT-\nFFT only) – efficient computation of the DFT of a 2N point real sequences –\ncorrelation – use of FFT in linear filtering and correlation, Symmetries in the\nDFT",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Types of transfer functions- Ideal filters, Zero phase and linear phase transfer\nfunctions, Types of linear phase FIR transfer functions; Simple digital filters:\nSimple FIR digital filters (Low pass and high pass), Simple IIR digital filters\n(Low pass and high pass), All pass and minimum phase transfer function\nDesign of FIR filter : window based design (Rectangular, Hamming,\nHanning windows).  Applications of DSP-Spectral analysis of sinusoidal\nsignals.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Realization structures for FIR filters- direct, cascade, parallel. IIR Filter\nrealization structures (Direct form I, II, cascade and Parallel and  transposed\nstructures); Computational accuracy in DSP implementation- Number\nformats for signals and coefficients in DSP systems, Dynamic range and\nprecision, Sources of error in DSP implementation - A/D conversion error,\nDSP computational error, D/A Conversion error.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "FFT and FIR Filter realization on a fixed point processor -finite wordlength\neffects - Quantization, rounding and truncation, overflow and scaling.\nDSP Algorithm representations, data flow, control flow, signal flow graphs,\nblock diagrams - Loop bound, iteration bound, critical path - Pipelining,\nparallel processing, low power architectures - Retiming, folding and\nunfolding techniques, applications.\nHands-on : -\n● FPGA based hardware realization of the FFT algorithm, circular\nconvolution,  IIR and FIR filter structures using iVerilog.\n● To realize different DSP algorithms including basic multiply\naccumulation and shifting operations on a fixed point processor.\n● Analyze the effect of the finite wordlength by implementing the FFT\nalgorithm and FIR filters by using fixed point coefficient\nrepresentation in different formats like Q7, Q15 etc.\n● Design an FIR low pass filter using MATLAB/SCILAB and check\nhow it filters a speech signal by recording it and playing the result.",
+    "contact_hours": "10"
+  }
+]

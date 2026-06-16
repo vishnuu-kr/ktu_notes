@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of Machine Learning",
+            "Machine Learning Paradigms - Supervised, Semi-Supervised, Unsupervised, Reinforcement Learning",
+            "Basics of Parameter Estimation - Maximum Likelihood Estimation (MLE) and Maximum a Posteriori Estimation (MAP)",
+            "Introduction to Bayesian Formulation"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Supervised and Unsupervised Learning",
+            "Regression - Linear Regression with One Variable",
+            "Linear Regression with Multiple Variables",
+            "Solution Using Gradient Descent Algorithm and Matrix Method",
+            "Basic Idea of Overfitting in Regression",
+            "Linear Methods for Classification - Logistic Regression",
+            "Perceptron",
+            "Naive Bayes",
+            "Decision Tree Algorithm ID3",
+            "Clustering - Similarity Measures",
+            "Hierarchical Agglomerative Clustering",
+            "K-Means Partitional Clustering",
+            "Expectation Maximization (EM) for Soft Clustering",
+            "Dimensionality Reduction - Principal Component Analysis",
+            "Factor Analysis",
+            "Multidimensional Scaling",
+            "Linear Discriminant Analysis"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Neural Networks (NN) and Support Vector Machines (SVM)",
+            "NN - Multilayer Feed Forward Network",
+            "Activation Functions (Sigmoid, ReLU, Tanh)",
+            "Backpropagation Algorithm",
+            "SVM - Introduction",
+            "Maximum Margin Classification",
+            "Mathematics behind Maximum Margin Classification",
+            "Maximum Margin Linear Separators",
+            "Soft Margin SVM Classifier",
+            "Non-Linear SVM",
+            "Kernels for Learning Non-Linear Functions",
+            "Polynomial Kernel",
+            "Radial Basis Function (RBF)"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Develop a Classifier for Face Detection",
+            "Motivation",
+            "Genetic Algorithms: Representing Hypotheses",
+            "Genetic Operator",
+            "Fitness Function and Selection",
+            "An Illustrative Example",
+            "Hypothesis Space Search",
+            "Genetic Programming"
+        ]
+    }
+]

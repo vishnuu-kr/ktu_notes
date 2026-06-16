@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Definition of Modelling, Simulation, Advantages and\nlimitations, Applications. Models and classification of models, Alternate\nclassification of models, Mathematical modelling based on Transport\nphenomena, Basic concepts, Basic modelling principles, Energy\nequations, continuity equation, equation of motion, transport equations,\nequations of state, Equilibrium states and chemical kinetics.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Mathematical models of Lumped Systems: Continuous flow tanks,\nMixing vessel without reaction, Isothermal reactor with irreversible and\nreversible reaction. Non-isothermal steam jacketed reactor, Boiling-open\nand enclosed vessel, Batch distillation, Ideal binary distillation column -\nSimulation using MATLAB/SciLab or any other process simulator\n(Assignments/ Microprojects only)",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Mathematical models of Distributed systems:  Jacketed tubular reactor,\nCounter current liquid-liquid double-pipe heat exchanger, Unsteady Heat\nconduction through a rod, Tubular permeation process, Gas absorber-\nSimulation using MATLAB/SciLab or any other process simulator\n(Assignments/ Microprojects only)",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Simulation of systems: Algorithm for solving Continuous flow tank,\nIsothermal CSTR in series, Non-isothermal CSTR, Binary distillation\ncolumn.",
+    "contact_hours": "8"
+  }
+]

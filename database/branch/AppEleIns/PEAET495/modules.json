@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of machine learning\nIntroduction to Machine Learning, Examples of machine learning\napplications.\nMachine learning paradigms - supervised, semi-supervised, unsupervised,\nreinforcement learning.\nTypes of supervised learning - Classification, Regression. Bayes’ theorem.\nClassification - Bayes’ decision theory, discriminant functions and decision\nsurfaces, Bayesian classification for normal distributions, Naive Bayes\nClassifiers, Logistic regression.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Supervised Learning\nRegression - Error functions in regression, Linear regression with one\nvariable, Linear regression with multiple variables, Over-fitting and\nunderfitting. Bias-variance trade-off.\nBasics of decision trees, random forest.\nSVM - Maximum Margin Classification, Separable and non-separable\nclasses: Formulation of the Optimization problem and solutions, Multiclass\ncase.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Neural Networks (NN)\nPerceptron, Neural Network - Multilayer feed forward network, Activation\nfunctions (Sigmoid, ReLU, Tanh),   Backpropagation algorithm.\nUnsupervised Learning\nClustering -Distance measures, K-means clustering, Hierarchical Clustering",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Dimensionality reduction - principal component analysis, Fischer's\ndiscriminant analysis.\nModel selection - Cross validation – K-fold, Leave One Out, Bootstrapping.\nModel Evaluation -Classification- Confusion matrix,Precision, Recall,\nAccuracy, F-Measure, ReceiverOperating Characteristic Curve (ROC), Area\nUnder Curve (AUC).",
+    "contact_hours": "9"
+  }
+]

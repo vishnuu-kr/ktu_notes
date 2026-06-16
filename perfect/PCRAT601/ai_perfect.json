@@ -1,0 +1,88 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction",
+            "Key Issues for Locomotion",
+            "Legged Mobile Robots - Leg Configurations and Stability",
+            "Wheeled Mobile Robots - Wheeled Locomotion: The Design Space",
+            "Wheel Design",
+            "Wheel Geometry",
+            "Stability",
+            "Maneuverability",
+            "Controllability",
+            "Aerial Robots - Advantages of UAVs over Conventional Manned Aircraft",
+            "Types of UAVs - Fixed-wing UAV or Airplane - Characteristics",
+            "Rotary-wing UAV - Multi-rotor",
+            "Tricopter",
+            "Quadcopter or Quadrotor",
+            "Hexacopter",
+            "Y3/Y6",
+            "Octocopter",
+            "Mobile Robot Kinematics: Introduction",
+            "Kinematic Models and Constraints - Representing Robot Position",
+            "Forward Kinematic Models",
+            "Wheel Kinematic Constraints for Fixed Standard Wheel",
+            "Steered Standard Wheel and Castor Wheel only",
+            "Robot Kinematic Constraints",
+            "Example of Robot Kinematic Models and Constraints: Differential-drive Robot only",
+            "Mobile Robot Maneuverability - Degree of Mobility",
+            "Degree of Steerability",
+            "Robot Maneuverability",
+            "Mobile Robot Workspace - Degrees of Freedom",
+            "Holonomic Robots"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Path Planning",
+            "Localization",
+            "Sensing",
+            "Mapping",
+            "Simultaneous Localization and Mapping",
+            "Mobile Robot Localization: Introduction",
+            "The Challenge of Localization - Noise and Aliasing",
+            "Localization-Based Navigation versus Programmed Solutions",
+            "Belief Representation - Single-hypothesis Belief",
+            "Multiple-hypothesis Belief",
+            "Differences between Markov and Kalman Localization",
+            "Representation and Reasoning about Space: Representing Space - Spatial Decomposition",
+            "Geometric Representations",
+            "Topological Representations",
+            "Representing the Robot: Configuration Space",
+            "Simplification of C-space"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Free-space Path versus Semi-free-space Path",
+            "Non-homotopic Paths versus Homotopic Paths",
+            "Constructing a Discrete Search Space - Visibility Graph",
+            "Tangent Graph",
+            "Retraction Methods",
+            "Searching a Discrete State Space - Graph Search - Depth-first Search",
+            "Breadth-first Search",
+            "Dijkstra's Algorithm",
+            "Best First Search - A and A* Algorithm",
+            "Searching a Continuous State Space - Potential Fields",
+            "Vector Field Histogram",
+            "Bug 1, Bug 2 and Tangent Bug Algorithms",
+            "Probabilistic Path Planning - RPP"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Horizontal Decomposition",
+            "Vertical Decomposition",
+            "Hybrid Control Architectures",
+            "Middleware",
+            "Alternative Control Formalisms",
+            "The Human Robot Interface",
+            "Off-Board Communication: Tethered",
+            "Untethered - Types of Untethered Communication"
+        ]
+    }
+]

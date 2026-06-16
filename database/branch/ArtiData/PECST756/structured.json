@@ -1,0 +1,42 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Game Theory - Competitive equilibrium, Rationality",
+      "Strategic Games - Dominance, Nash equilibrium, Maxmin strategies, elimination of dominated strategies, preservation of pure Nash equilibrium (PSNE), matrix games, relation between maxmin and PSNE in matrix games Mixed strategies, mixed strategy Nash equilibrium (MSNE), finding MSNE, MSNE characterization theorem, algorithm to find MSNE"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Correlated equilibrium (CE) - Computing CE, extensive form games, subgame perfection, limitations of subgame perfect Nash equilibrium",
+      "Imperfect information extensive form games (IIEFG) - strategies in IIEFGs, equivalence of strategies in IIEFGs, perfect recall, Equilibrium in IIEFG",
+      "Game theory application - P2P file sharing",
+      "Bayesian games - strategy and utility in Bayesian games, equilibrium in Bayesian games"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Introduction to mechanism design - revelation principle, introduction and proof of Arrow’s impossibility result, introduction to social choice setup",
+      "Introduction and proof of Gibbard-Satterthwaite theorem, domain restriction, median voter theorem",
+      "Task sharing domain, uniform rule, mechanism design with transfers, examples of quasi-linear preferences, Pareto optimality and Groves payments"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Introduction to VCG mechanism, VCG in Combinatorial allocations, applications to Internet advertising, slot allocation and payments in position auctions, pros and cons of VCG mechanism",
+      "Affine maximizers, single object allocation, Myerson’s lemma, optimal mechanism design",
+      "Single and multi-agent optimal mechanism design, examples of optimal mechanisms"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

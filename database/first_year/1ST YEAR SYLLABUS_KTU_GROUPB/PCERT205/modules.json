@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Number Systems: Introduction to number systems (decimal, binary, octal,\nhexadecimal) and their bases - conversion methods between decimal, binary,\noctal and hexadecimal number systems. Arithmetic - Binary Addition,\nBinary Multiplication and Binary Division. Addition of BCD, Octal and\nHexadecimal numbers. Representing Negative Numbers - Signed Numbers\n& Complements, Subtraction with Complements (Binary, BCD, Octal and\nHexadecimal). Introduction to alternative coding schemes - BCD, Gray\ncodes, and Excess-3 codes.\n11\nB.Tech 2024 –S1/S2\nAPJ Abdul Kalam Technological University",
+    "contact_hours": "171"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to Boolean Algebra - Postulates (Idempotence, Commutativity,\nAssociativity, Distributive Property, etc.) and Basic Theorems (like De-\nMorgan’s Theorem), Minimization of Boolean expressions - Canonical and\nStandard Forms, Karnaugh map Minimization (up to four variables), Don't-\nCare Conditions. Digital Logic Gates – Implementation of Boolean functions\n(including those simplified using Karnaugh maps) using combinations of basic\nlogic gates & implementation using universal gates.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Combinational and Arithmetic Circuits  Combinatorial Logic Systems -\nData Encoders and Decoders, Data Selection and Distribution (Mux &\nDemux), Code Converters, Comparators. Arithmetic Circuits - Half and Full\nAdder, Half & Full Subtractor, Binary Parallel Adder, BCD Adder.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Sequential Logic Circuits: Sequential Circuits Fundamentals, Flip-flops -\nSR, JK, T and D, Conversion of Flipflops, Excitation table and characteristic\nequation. Asynchronous (Binary and BCD counters) and Synchronous\ncounter design (Binary up, down and up-down counter, BCD counter),\ntiming sequences and state diagrams, Mod N counter. Shift registers - SIPO,\nSISO, PISO, PIPO, timing sequences and state diagrams. Shift Registers\nwith parallel Load/Shift, Ring counter and Johnson counter",
+    "contact_hours": "12"
+  }
+]

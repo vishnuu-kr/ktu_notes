@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Automotive Embedded Systems: - Basic Overview,\nEmbedded vs general computing systems, Components and applications of\nautomotive embedded systems, Microcontroller based embedded system\narchitecture.\nMicrocontrollers used in Automotives: - Types, features, and Selection\ncriteria, 8051 – features, architecture, pin configurations, Bus, interrupts,\nregisters, timers, applications of 8051(Description only, no programming).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Automotive Sensors and Actuators: - Types and functionality of sensors-\nposition, temperature, lambda, speed, pressure, and radar. Linear, rotary\nactuators – principle of operation, Piezoelectric actuators. Integration of\nsensors and actuators in embedded systems.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Vehicle Communication protocols: -Introduction, Requirement of\ncommunication protocol, vehicle networking and data communication\nsystems, Basic functionalities of CAN, PSI5, LIN, FlexRay and Automotive\nEthernet. Diagnosis system protocols -OBD. (General descriptions only)\nAutomotives Real-Time Operating Systems (RTOS): - Introduction, types,\nand importance of RTOS, (General descriptions only), Automotive Open\nSystem\nArchitecture\n(AUTOSAR)-\nArchitecture,\nadvantages,\nand\napplications. (General descriptions only)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Embedded system components, functionalities, and features: – ADAS,\nPowertrain control module (PCM), Engine control module (ECM),\nTransmission control module (TCM), Brake and stability control system,\nNavigation and Telematics, Vehicle to Vehicle communication, Vehicle to\neverything communication.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Fundamentals of Autonomous Driving - Levels of vehicle autonomy (SAE\nlevels 0-5), Key components of autonomous vehicles, Overview of\nautonomous vehicle architectures\nAutomated Guided Vehicles (AGV) Overview - Definition and applications\nof AGVs, Types of AGVs: Tugger, Unit Load, Forklift, Key components of\nAGVs\nVehicle Communication and Networking - In-vehicle networking (CAN, LIN,\nFlexRay), Vehicle-to-everything (V2X) communication, Role of wireless\ntechnology in autonomous driving\nRegulatory and Ethical Considerations- Legal aspects of autonomous driving\n, Ethical considerations and safety standards\nCurrent regulations and future trends",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Radar and Lidar Systems - Basics of radar technology, Applications and\nlimitations of radar in vehicles, Fundamentals of Lidar technology, Lidar\napplications in 3D mapping and obstacle detection\nCamera Systems and Image Processing - Types of cameras used in ADAS\nand AGVs, Image processing techniques for vehicle safety, Night vision\ntechnology and applications\nUltrasonic and Infrared Sensors - Principles of ultrasonic sensor operation,\nApplications in parking assist and obstacle detection\nInfrared sensors and their role in ADAS and AGVs\nSensor Data Fusion - Introduction to sensor data fusion, Techniques for\ncombining data from different sensors, Benefits of sensor fusion in enhancing\nsystem accuracy and reliability",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Artificial Intelligence and Machine Learning - Role of AI in autonomous\nvehicles and AGVs, Machine learning algorithms for vehicle perception and\ndecision-making, Deep learning applications in autonomous driving\nAutonomous Driving Platforms and Software - Overview of autonomous\ndriving software architectures, Key platforms: ROS (Robot Operating\nSystem), Autoware, Apollo, Software development and simulation tools\nPath Planning and Control Systems - Fundamentals of path planning\nalgorithms, Control systems for vehicle stability and navigation, Real-time\ndecision-making and obstacle avoidance\nCloud Computing and Edge Processing - Role of cloud computing in\nautonomous vehicle ecosystems, Edge processing for real-time data handling,\nExamples of cloud-based autonomous driving platforms",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "System Integration and Calibration - Integration of ADAS and AGV\ncomponents into vehicle systems, Calibration techniques for sensors and\nactuators, Challenges in system integration\nTesting and Validation -   testing methodologies for autonomous and AGV\nsystems, Simulation environments and test tracks, Validation processes and\nsafety assessments\nMaintenance and Troubleshooting - Common issues in ADAS, AGV, and\nautonomous systems, Diagnostic tools and software, Maintenance best\npractices for autonomous vehicles and AGVs\nCase studies of leading autonomous vehicle and AGV projects, Emerging\ntrends in autonomous driving and AGV technology",
+    "contact_hours": "9"
+  }
+]

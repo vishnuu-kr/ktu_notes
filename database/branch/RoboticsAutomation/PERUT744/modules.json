@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Analog Communication\nBlock diagram of a communication system. Need for analog modulation.\nAmplitude modulation. Equation and spectrum of AM signal. DSB-SC and\nSSB systems. Block diagram of SSB transmitter and receiver. Frequency and\nphase modulation. Narrow and wide band FM and their spectra. FM\ntransmitter and receiver.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Stochastic processes and Source coding\nReview of probability. Bayes theorem and conditional probability.\nStochastic processes, Stationarity. Conditions for WSS and SSS.\nAutocorrelation and power spectral density. LTI systems with WSS as\ninput. Sampling and Quantization. Pulse code modulation, Transmitter and\nreceiver. Companding. Practical 15 level A and mu-law companders.\nDPCM transmitter and receiver. Delta modulation.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "G-S Procedure and Effects in the Channel\nDefinition of signal .Basic operation on signals. Gram-Schmitt procedure.\nSignal space. Baseband transmission through AWGN channel. Inter\nSymbol Interference. Nyquist criterion for zero ISI. Raised cosine and\nSquare-root raised cosine spectrum, Partial response signalling and\nduobinary coding. Equalization. Vector model of AWGN channel. Matched\nfilter and correlation receivers. MAP receiver, Maximum likelihood\nreceiver and probability of error.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Digital Modulation Schemes\nDigital modulation schemes. Baseband BPSK system and the signal\nconstellation. BPSK transmitter and receiver. Base band QPSK system and\nSignal constellations. Plots of BER Vs SNR with analysis. QPSK transmitter\nand receiver. Quadrature amplitude modulation and signal constellation.",
+    "contact_hours": "9"
+  }
+]

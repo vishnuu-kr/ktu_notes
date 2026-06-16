@@ -1,0 +1,280 @@
+Course Code 
+PECMT862 
+CIE Marks 
+40 
+Teaching Hours/Week (L: 
+T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCCMT503, 
+PCCMT602 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce the learners to a foundation of Large Language Models. 
+2. To familiarize the students with various learning, tuning and generation mechanisms in LLM. 
+3. To give an idea how LLMs are used in production. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Large Language Models: An Introduction :-  
+Introduction, Natural Language, NLP and Language Models Evolution, The 
+Era of Large Language Models, Large Language Models in Practice. 
+Language Models Pre-training :–  
+Encoder-Decoder Architecture, Attention Mechanism, Transformers, Data, 
+Pre-trained LLM Design Choices, Commonly Used Pre-trained LLMs 
+(BERT, T5, GPT, Mixtral 8x7B). 
+9 
+2 
+Prompt-Based Learning :– 
+Introduction, Basics of Prompt-based Learning, Prompt Engineering, 
+Answer Engineering, Multi-Prompt Inference. 
+LLM Adaptation and Utilization :– 
+Introduction, 
+Instruction 
+Tuning, 
+Parameter-Efficient 
+Fine-Tuning, 
+Compute-Efficient Fine-Tuning, End-User Prompting. 
+9 
+3 
+Tuning for LLM Alignment :– 
+Alignment Tuning, The Reinforcement Learning Framework, Mapping the 
+RL Framework to LLMs with Human Feedback, Evolution of RLHF, 
+9 
+
+ 
+ 
+Overcoming RLHF Challenges. 
+LLM Challenges and Solutions :– 
+Hallucination, Bias and Fairness, Toxicity, Privacy. 
+4 
+Retrieval-Augmented Generation :–  
+Introduction, Basics of RAG, Optimizing RAG, Enhancing RAG, Evaluating 
+RAG Applications. 
+LLMs in Production :– 
+Introduction, LLM Applications, LLM Evaluation Metrics, LLM Benchmark 
+Datasets, LLM Selection, Tooling for Application Development, Inference, 
+LLMOps. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 3 subdivisions. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the concepts and need of Large Language Models. 
+K2 
+CO2 
+Illustrate various training, learning and generation methods in LLMs. 
+K3 
+CO3 
+Demonstrate various tuning mechanisms in LLMs, their challenges and 
+solutions. 
+K3 
+CO4 
+Illustrate how LLM experimental models are prepared for production 
+deployment. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Large Language Models: A Deep 
+Dive 
+Uday kamath, Kevin 
+Keenan, Garret Somers, 
+and Sarah Sorenson 
+Springer 
+1/e, 2024 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Hands-On Large language 
+Models 
+Jay Alammar and Maarten 
+Grootendorst 
+O’Reilly 
+1/e, 2024 
+2 
+Build a Large Language Model 
+(From Scratch) 
+Sebastian Raschka 
+Manning 
+1/e, 2024 
+3 
+Quick Start Guide to Large 
+Language Models: Strategies 
+and Best Practices for Using 
+ChatGPT and Other LLMs 
+Sinan Ozdemir 
+Addison-Wesley 
+Professional 
+1/e, 2023 
+4 
+GPT-3 - Building Innovative 
+NLP Products Using Large 
+Language Models 
+Sandra Kublik and 
+Shubham Saboo 
+O’Reilly 
+1/e, 2022 
+5 
+Introduction to Large Language 
+Models 
+Tanmoy Chakraborty 
+Wiley 
+1/e, 2024 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Sl.  No. 
+Link ID 
+1 
+https://youtu.be/W0c7jQezTDw?si=yw4j5Y4aoJ82mx55 
+ 
+
+ 
+ 
+SEMESTER S8 
+TOPICS IN SECURITY 
+(Common to CS/CM/AM/CB/CN/CU/CI)

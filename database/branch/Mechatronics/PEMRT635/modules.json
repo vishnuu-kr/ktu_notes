@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of Soft Computing\nDefinition and importance of Soft Computing - Comparison with Hard\nComputing - Applications in various domains.\nIntroduction to Neural Networks\nBiological inspiration and McCulloch-Pitts model - Activation functions:\nTypes and uses - Neural Network Architectures: Single layer feedforward\nnetworks - Multilayer feedforward networks - Recurrent networks.\nLearning Process in Neural Networks\nSupervised vs. Unsupervised learning - Learning rules: Perceptron, Widrow-\nHoff, Delta rule, Hebbian and Competitive learning - Applications: Pattern\nassociation, recognition, and function approximation.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Single Layer Networks\nPerceptron and ADALINE - Adaptive filtering and optimisation techniques -\nPerceptron convergence theorem.\nMultilayer Networks\nArchitecture and learning algorithms - Backpropagation: Detailed working,\nissues, and solutions - XOR problem and decision rules - Introduction to\nMADALINE.\nRadial Basis Neural Networks\nConcept and applications - Network training and regularisation theory -\nComparison with Multilayer Perceptron.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Basics of Fuzzy Logic\nIntroduction to Fuzzy Sets - Properties, operations, and relations -\nMembership functions and fuzzy rules.\nFuzzy Rule-Based Systems\nCanonical rule forms - Composite rules and their decomposition -\nAggregation of fuzzy rules and decision-making.\nIntroduction to Genetic Algorithms\nEvolutionary concepts and GA features - Coding, selection, crossover, and\nmutation - Basic GA structure and operators.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Hybrid Systems\nConcept of Neuro-Fuzzy Systems - Integration of neural networks and fuzzy\nlogic - Introduction to Neuro-Genetic Systems.\nAdvanced Topics and Cross-Validation\nCross-validation methods and model selection - Early stopping methods and\ntheir importance - Introduction to Boltzmann Machines and Mean Field\nTheory (brief overview)",
+    "contact_hours": "9"
+  }
+]

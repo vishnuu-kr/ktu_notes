@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Multivariable Control: Introduction: Process and\nInstrumentation, Process Variables, The Process Behavior, Control Aims\n,Modes of Operation, The Need for Feedback, Model-free vs. Model-based\nControl, The Importance of Considering Modelling Errors, Multivariable\nSystems, Implementation and Structural Issues................................................",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Linear System Representation: Models and Equivalence Introduction:\nObjectives of Modelling, Types of Models, First-principle Models:\nComponents, Internal Representation: State Variables, Linear Models and\nLinearization, Input/Output Representations, Polynomial Representation,\nTransfer Matrix, Systems and Subsystems: Interconnection, Series, Parallel\nand\nFeedback\nConnection,Generalised\nInterconnection,\nGeneralised\nInterconnection",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Linear Systems Analysis ; Introduction, Linear System Time-response,\nStability Conditions, Relative Degree of Stability, Discretisation, Gain,\nStatic Gain, Instantaneous Gain, Directional Gain, Frequency response,\nSystem\nInternal\nStructure,\nReachability\n(State\nControllability),Observability,\nOutput\nReachability,\nRemarks\non\nReachability and Observability, Canonical Forms, Block System\nStructure (Kalman Form),Minimal Realisation, Balanced Realisation,\nPoles and Zeros, Input/Output Properties, Input/Output Controllability,\nModel Reduction, Time Scale Decomposition, Balanced Reduction, Key\nIssues in MIMO Systems Analysis,\nCase Study: Simple Distillation Column",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Solutions to the Control Problem: The Control Variables Structures,\nFeedback, Closed,Interactions,Generalised Plant, Performance Analysis,\nFeedforward Control ,Manual Control,  Open-loop Inversion and\nTrajectory Tracking, Disturbances, Two, Hierarchical, Key, Case.",
+    "contact_hours": "9"
+  }
+]

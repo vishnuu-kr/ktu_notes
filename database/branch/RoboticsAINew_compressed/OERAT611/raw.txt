@@ -1,0 +1,338 @@
+Course Code 
+OERAT611 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Students will be able to apply mathematical modelling to kinematics, dynamics, control and 
+trajectory planning of robotic manipulators 
+2. Students will be able to apply various concepts to design automated work cells that 
+incorporate robotic manipulators 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Components and Structure of Robots:  Symbolic Representation, Degrees 
+of Freedom and Workspace, Classification of Robots - Power Source, 
+Application Area, Method of Control, Geometry, Common Kinematic 
+Arrangements (Structure and Workspace) - Articulated Configuration 
+(RRR), Spherical Configuration (RRP), SCARA Configuration (RRP), 
+Cylindrical Configuration (RPP), Cartesian configuration (PPP), Parallel 
+Manipulator, Spherical wrist   
+End Effectors:  Mechanical, Magnetic and Vacuum Grippers, Active and 
+Passive Grippers 
+Kinematics of Robots: Rotations - Fundamental and Composite Rotations, 
+Homogeneous coordinates, Translations and Rotations, Composite 
+homogeneous transformations, Screw transformations, Inverse of 
+Homogeneous Transformation Matrices, Other representations of Rotations: 
+Definitions of RPY, Euler Angles and Quaternions 
+9 
+2 
+Forward Kinematics: Definition, Kinematic Chains, Denavit Hartenberg 
+Representation, Assigning the coordinate frames, Algorithm based on DH 
+9 
+
+ 
+ 
+Convention for Forward Kinematics, Forward Kinematics Examples -  up to 
+3-DoF (Higher degrees can be given as assignment) 
+Inverse Kinematics:  Definition, The General Inverse Kinematics Problem, 
+General properties of solutions to the inverse kinematics problem, Theory of 
+Kinematic Decoupling,  Inverse  Kinematics Example -  up to 2-DoF (Higher 
+degrees can be given as assignment) Velocity Kinematics: Derivation of the 
+Jacobian – Angular Velocity, Linear Velocity, combining linear and angular 
+Jacobians, Velocity Jacobian Examples given forward kinematic matrices - 2 
+link planar manipulator,  Singularities – Definition and importance of 
+identifying singularities 
+ 
+3 
+Dynamic Analysis:  Force-mass-acceleration and torque-inertia-angular-
+acceleration relationships, Lagrangian Mechanics – Overview, Dynamic 
+Analysis Examples – 1 DOF spring cart system 
+Robot Control: The control problem, Single axis PID control - Control 
+Law, Block Diagram, Derivation of Closed Loop Transfer Function, 
+advantages and disadvantages 
+9 
+4 
+Trajectory Planning:  Definitions of Path planning and Trajectory 
+Planning, Joint space versus Cartesian Space trajectory planning, Cubic 
+Polynomial based trajectory planning, Point to Point and Continuous Path 
+Planning 
+Robot selection considerations for an application: Number of axes, work 
+volume, capacity and speed, stroke and reach, Repeatability 
+Precision and Accuracy, Operating environment 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe various robotic manipulator configurations and end effectors 
+K2 
+CO2 
+Formulate forward and inverse kinematics for robotic manipulators 
+K2 
+CO3 
+Analyse robotic manipulator configurations using velocity kinematics 
+and dynamic analysis
+K4 
+CO4 
+Plan trajectories and control schemes for robotic manipulators 
+K3 
+CO5 
+Design robotic work cells for various applications 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Robot Dynamics and Control 
+Mark W. Spong, Seth 
+Hutchinson, 
+and 
+M. 
+Vidyasagar
+Wiley 
+2nd edition, 
+2020 
+2 
+Fundamentals of robotics –
+Analysis and control
+Robert. J. Schilling 
+Prentice Hall of India 
+1996 
+3 
+Introduction to Robotics - 
+Analysis, Control, Applications 
+Saeed Benjamin Niku 
+John Wiley & Sons 
+2nd 
+edition, 
+2010
+4 
+Industrial 
+Robotics 
+– 
+Technology, Programming and 
+Applications 
+Mikell 
+P. 
+Groover, 
+Mitchel Weiss, Roger 
+N. Nagel, Nicholas G. 
+Odrey, Ashish Dutta
+Tata McGraw Hill 
+2nd 
+edition, 
+2012 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1
+Introduction to Robotics 
+S K Saha 
+McGraw-Hill 
+2008 
+2 
+Robotics and Control 
+R K Mittal and I J 
+Nagrath
+Tata McGraw Hill 
+2003 
+3 
+Introduction to Robotics –
+Mechanics and Control
+John J. Craig 
+Pearson 
+4th edition, 
+2017
+4 
+Robotics-Fundamental 
+concepts and analysis
+Ashitava Ghosal 
+Oxford University 
+Press 
+2006 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/112/105/112105249/
+2 
+https://archive.nptel.ac.in/courses/107/106/107106090/ 
+3 
+https://archive.nptel.ac.in/courses/112/107/112107289/ 
+
+ 
+ 
+SEMESTER S6 
+BASICS OF ROBOT SENSING

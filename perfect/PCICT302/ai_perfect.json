@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Review of Biasing - AC and DC Load Lines",
+            "Q Point",
+            "Fixing of Operating Point",
+            "Biasing Stability",
+            "Stability Factors, Simple Biasing Circuit Design - Various Biasing Methods of BJT: Fixed",
+            "Voltage Divider",
+            "Biasing Independent of Power Supply, Thermal Stability, MOSFET: N Channel - Structure and Operation",
+            "Regions of Operation",
+            "Pinch-off, Biasing Methods: by Fixing Gate Source Voltage",
+            "Fixing Gate Voltage and Connecting Source Resistance",
+            "Using Two Power Supplies",
+            "Drain-Gate Feedback Resistor, MOSFET as Amplifier, Channel Length Modulation, Small Signal Analysis of MOSFET: Voltage Transfer Characteristics",
+            "Small Signal Operation - Equivalent Circuit",
+            "Hybrid Pi Model, CS Configuration",
+            "CD Configurations",
+            "Expressions for Characteristic Parameters: Input and Output Impedance",
+            "Voltage Gain and Transconductance"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Multi Stage Amplifier, Differential Amplifier - Basic MOSFET Differential Pair Operation, Feedback Amplifiers: Effect of Negative Feedback on Bandwidth",
+            "Gain and Noise Reduction, Voltage",
+            "Current",
+            "Transconductance",
+            "and Transresistance Amplifiers, Power Amplifiers: Classifications (Basic Operation using Input Output Signal and Circuit Diagram) and Power Efficiency - Class A (Series Fed/Transformer Coupled) - Class B (Transformer Coupled Push Pull Amplifier",
+            "Complementary Symmetry) - Class C - Power Amplifier"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Review of Fundamental Laws: Ohm's Law",
+            "Resistors in Series and Parallel Circuits, Voltage and Current Division",
+            "Source Transformation Technique",
+            "Star-Delta Transformation, Kirchhoff's Laws - Mesh Current and Node Voltage, Method of Mesh and Nodal Analysis, Network Theorems for Resistive Circuits with Dependent and Independent Sources: Thevenin's and Norton Theorems",
+            "Superposition Theorem",
+            "Maximum Power Transfer Theorem",
+            "Reciprocity Theorem",
+            "Millman's Theorem, Related Problems, Laplace Transform: Review of Laplace Transform and Inverse Laplace Transform of Common Functions and Properties, Solution of Differential Equations using Laplace Transform"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Types of Two Port Networks - Z",
+            "ABCD, Concept of Symmetry and Reciprocity",
+            "Conversions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

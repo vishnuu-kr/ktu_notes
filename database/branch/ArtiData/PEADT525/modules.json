@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "The image, its representation and properties - Image representations, Image\ndigitization, Sampling, Quantization, Digital image properties, Metric and\ntopological properties of digital images, Histograms, Entropy, Visual perception\nof the image - contrast, acuity, Image quality, Noise in images; Color images -\nPhysics of color, Color perceived by humans, Color spaces, Color constancy;\nData structures for image analysis - Levels of image data representation,\nTraditional image data structures - matrices, Chains, Topological data structures\n- Relational structures, Hierarchical Data Structures, Pyramids, Quadtrees, Other\npyramidal structures.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Image pre-processing - Pixel brightness transformations-, Position-dependent\nbrightness correction, Gray-scale transformation, Geometric Transformations\n- Pixel coordinate transformations, Brightness interpolation.\nLocal pre-processing,  Image Smoothing, Edge detectors,  Zero-crossings the\nsecond derivative, Scale in Image Processing, Canny Edge Detection,\nParametric Edge Models, Edges Multi-spectral images,, Line detection by\nlocal pre-processing operators, Detection of corners (interest points),\nImage Restoration - Degradations that are easy to restore, Inverse Filtering,\nWiener Filtering.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Image Segmentation - Thresholding, Threshold Detection Methods- Optimal\nthresholding, Multi-spectral thresholding, Edge-based segmentation, Edge\nImage Thresholding, Edge Relaxation, Border Tracing, Border Detection As\nGraph Searching, Border Detection As Dynamic Programming, Hough\nTransforms, Border Detection Using Border location information,\nRegion construction from borders, Region-based segmentation - Region\nmerging, Region Splitting - Splitting And Merging, Watershed segmentation.\nMean shift segmentation,  Fuzzy connectivity, Introduction to 3D graph-\nbased image segmentation\nMatching, Template Matching, Control Strategies Templating, Evaluation\nIssues In Segmentation.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Image Transforms - 2D Fourier transform, Discrete Cosine Transform,\nWavelet transform, Eigen-analysis, Singular value decomposition, Principal\ncomponent analysis.\nImage texture - Statistical texture description, Methods Based On Spatial\nfrequencies,\nCo-occurrence matrices, Edge\nFrequency,\nPrimitive\nLength(runlength), texture energy measures, Local Binary Patterns LBPs,\nFractal texture description, Other Statistical Methods Of Texture Description\nIntroduction to  Object recognition - Knowledge representation, Statistical\npattern recognition, Classification principles,  Minimum distance classifier\nlearning and classification. Nearest neighbor search with K-D trees.",
+    "contact_hours": "9"
+  }
+]

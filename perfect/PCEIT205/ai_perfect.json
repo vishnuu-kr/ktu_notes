@@ -1,0 +1,46 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Digital Systems - Binary and Hexadecimal Number Systems",
+            "Methods of Base Conversions",
+            "Binary and Hexadecimal Arithmetic",
+            "Representation of Signed Numbers (1's Complement, 2's Complement, 9's Complement, 10's Complement Forms), Fixed and Floating Point Numbers",
+            "Decimal Codes - BCD, Gray Codes, Excess 3 Code, ASCII Code",
+            "Boolean Algebra - Basic Definitions, Axiomatic Definition, Theorems, Properties, and De-Morgan's Theorems",
+            "Boolean Functions - Canonical and Standard Forms",
+            "Digital Logic Gates and Their Truth Table",
+            "Minimization of Boolean Expressions - Sum of Products (SOP), Product of Sums (POS), Karnaugh Map Minimization"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Combinational Logic Systems - Half and Full Adders, 4-bit Ripple Carry Adder, Subtractors, BCD Adder",
+            "Magnitude Comparators",
+            "Decoders and Encoders",
+            "Multiplexers and Demultiplexers",
+            "Basic Introduction to Programmable Logic Devices (PLD) and FPGA",
+            "Verilog HDL - Basic Language Elements, Identifiers and Operators, Verilog Implementation of Logic Gates and Combinational Circuits"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Latches and Flip-flops - SR Latch, SR Flip-flop, D and T Flip-flops, Master-Slave JK FF",
+            "Excitation Table and Characteristic Equation, Conversion of Flip-flops",
+            "Registers - Shift Registers (SIPO, SISO, PISO, PIPO), Bidirectional",
+            "Verilog Modeling of Flip-flops"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Counters - Ripple Counter, Mod 10 Counter, Ring Counter, Johnson's Counter, Design of Asynchronous and Synchronous Counters, Mod N Counter, Sequence Generator",
+            "Verilog Modelling of Asynchronous and Synchronous Counters, Verilog Implementation of Sequence Generator",
+            "Electrical Characteristics of TTL and CMOS Logic Families - Logic Levels and Noise Margins, Fan-out, Propagation Delay, Transition Time, Power Consumption and Power Delay Product",
+            "TTL Inverter - Circuit Description and Operation",
+            "CMOS Inverter - Circuit Description and Operation, CMOS NAND, CMOS NOR"
+        ]
+    }
+]

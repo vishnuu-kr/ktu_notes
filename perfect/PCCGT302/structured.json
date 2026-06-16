@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Transmission modes - serial and parallel transmission",
+            "asynchronous",
+            "synchronous",
+            "simplex",
+            "half duplex",
+            "full duplex communication. Switching: circuit switching and packet switching Networks: Network criteria",
+            "physical structures",
+            "network models",
+            "categories of networks",
+            "Network models: OSI model",
+            "Layers in OSI model",
+            "TCP/IP protocol suite. Physical Layer: Guided and unguided transmission media (Co-axial cable",
+            "Fiber optic cable"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Framing",
+            "Flow control (stop and wait",
+            "sliding window flow control) Error control",
+            "Error detection (check sum",
+            "Bit stuffing",
+            "HDLC Media access control: Ethernet (802.3",
+            "CSMA/CD",
+            "Logical link control",
+            "Wireless LAN (802.11",
+            "CSMA/CA Network Layer: IPv4 & IPV6",
+            "Address Resolution protocols (ARP",
+            "RARP) Subnetting",
+            "Classless Routing (CIDR",
+            "ICMP",
+            "IGMP",
+            "DHCP"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Hubs",
+            "Bridges & Switches Routing: Routing and Forwarding",
+            "Static routing and Dynamic routing Routing Algorithms: Distance vector routing algorithm",
+            "Link state routing (Dijkstra’s algorithm) Routing Protocols: Routing Information protocol (RIP",
+            "Open Shortest Path First (OSPF",
+            "Border Gateway Protocol (BGP",
+            "MPLS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Firewalls and their types. Limitations of firewalls",
+            "Intrusion Detection Systems -Host based",
+            "Network based",
+            "and Hybrid Intrusion detection systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

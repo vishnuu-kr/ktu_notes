@@ -1,0 +1,59 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Concept of Networks and Circuits",
+            "Circuit Variables",
+            "Ideal and Practical Sources",
+            "Independent and Dependent Sources",
+            "Source Transformation",
+            "Kirchhoff's Laws, Mesh Analysis",
+            "Node Analysis",
+            "Super-mesh Analysis and Super-node Analysis Applied to Both DC and AC Networks Containing Independent and Dependent Sources"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Superposition Theorem",
+            "Reciprocity Theorem",
+            "Thevenin's Theorem",
+            "Norton's Theorem",
+            "Millman's Theorem and Maximum Power Transfer Theorem for the Analysis of DC and AC Networks Having Independent and Dependent Sources"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Laplace Transforms of Standard Signals and Common Functions",
+            "Laplace Transform Theorems (Proof Not Required)",
+            "Inverse Laplace Transforms",
+            "Solution of Differential Equations, Transformation of Basic Signals and Circuits to s-domain with and without Initial Conditions, Transient Analysis of RL",
+            "RC and RLC Networks with DC",
+            "Impulse",
+            "Step and Sinusoidal Inputs, Analysis of Low Pass and High Pass RC Circuits Using Laplace Transforms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Network Functions for Single-port and Two-port Networks",
+            "Properties of Driving Point and Transfer Functions",
+            "Significance of Poles and Zeros of Network Functions",
+            "Pole-zero Plot, Impedance",
+            "Admittance",
+            "Hybrid and Transmission Parameters of Two-port Networks",
+            "Reciprocity and Symmetry Conditions (Derivation Not Required)",
+            "Inter-relationships between Parameters",
+            "Series and Parallel Connections of Two-port Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

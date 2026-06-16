@@ -1,0 +1,61 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction & relevance of biomedical signal processing. Biomedical signals - ECG",
+            "carotid pulse",
+            "speech signal",
+            "concurrent signals. Signal representation",
+            "Aliasing-Sampling theorem. Elementary signals. Classification of discrete signals - Energy and Power signals - periodic and aperiodic",
+            "even and odd signals. Discrete time systems - Properties of discrete systems. LTI system-Impulse Response of a Linear Time-Invariant System -convolution-correlation - difference equation representation of discrete systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Fourier Analysis for Continuous Time Processes-Synthesis of an ECG signal using pure sinusoid. Frequency Domain Analysis of discrete time signals: Discrete Fourier series",
+            "Discrete Time Fourier Transform- Discrete Fourier Transform-properties",
+            "Fast Fourier Transform-FFT algorithms (Radix 2)- decimation in",
+            "time",
+            "decimation in -frequency"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Spectrum analysis of bio signals - Introduction to parametric & non parametric methods. Z transform - ROC",
+            "properties of ROC",
+            "Properties of Z transform: Linearity",
+            "Time shifting",
+            "Scaling",
+            "Time reversal",
+            "Differentiation in Z domain",
+            "Convolution",
+            "Correlation",
+            "Multiplication",
+            "Parseval’s relation",
+            "initial value theorem-rational Z transform-poles &zeros-LTI system function - inverse Z transform-long division-partial fraction expansion method-residue method-convolution method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Concept of digital filtering",
+            "types of digital filters. Comparison with analog filters. FIR filter design using Fourier series - use of window functions",
+            "IIR Digital Filters - Analog filter approximations -Butterworth approximation - Frequency transformation techniques - impulse invariant transformation - Matched Z transform technique- bilinear transformation Suggestion on Project Topics Students are asked to form groups of maximum five members. Each group should identify a project on the areas specified below and choose suitable data base. Develop a methodology to implement the project. Develop the algorithm and code for the project Areas of Projects Topics:  Filtering for removal of artefacts: Implementation of time domain Filters & Frequency domain filters for removal of high frequency and low frequency and periodic artefacts  Event detection in biomedical signals - ECG: QRS wave detection",
+            "P wave and T wave detection",
+            "PPG: dicrotic notch detection - Heart sound detection- EEG rhythm detection  Frequency Domain characterisation of Biomedical signal: Power spectrum density estimation of biomedical signals  Wave shape and Waveform Complexity analysis: Normal and Ectopic beat",
+            "Arrhythmia analysis",
+            "Analysis of exercise ECG",
+            "Analysis of respiration"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

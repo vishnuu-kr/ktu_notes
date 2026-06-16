@@ -1,0 +1,79 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Storage technologies:-Computer storage technologies-Magnetic bubble memories",
+      "Charged Coupled Devices - CCDs",
+      "Micro-Electro-Mechanical Systems - MEMS",
+      "Flash memories",
+      "Processing In Memory - PIM",
+      "Optical storage -Data deduplication in storage systems. Storage Arrays- Architectural Principles",
+      "Replication",
+      "Local Snapshot Redundant Arrays of Independent Disks (RAID) - RAID0",
+      "RAID2",
+      "RAID3",
+      "RAID4",
+      "RAID5",
+      "RAID6",
+      "Hybrid RAID"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Data Storage Networking:-Fibre Channel SAN- FC SAN Components",
+      "SAN Topologies",
+      "iSCSI SAN-iSCSI names",
+      "Sessions",
+      "iSNS",
+      "Network Attached Storage - NAS Protocols",
+      "NAS Arrays",
+      "NAS Performance Object Storage - Objects and Object IDs",
+      "metadata",
+      "API Access"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Business Continuity",
+      "Backup and Recovery:-Replication-Synchronous Replication",
+      "Asynchronous Replication Application",
+      "Layer Replication",
+      "Logical Volume Manager - Based Replication",
+      "Backup Methods- Hot Backups",
+      "Offline Backups",
+      "LAN-Based Backups",
+      "LAN-Free Backups (SAN Based",
+      "Serverless Backups",
+      "NDMP",
+      "Backup Types- Full Backups",
+      "Incremental Backups",
+      "Differential Backups",
+      "Synthetic Full Backups",
+      "Application-Aware Backups"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Storage Management:-Capacity Management-Capacity Reporting",
+      "Thin Provisioning Considerations",
+      "Deduplication and Compression",
+      "Quotas and Archiving",
+      "Showback and Chargeback",
+      "Performance Management- Latency/Response Time",
+      "IOPS",
+      "MBps and Transfer Rate",
+      "Factors Affecting Storage Performance Management Protocols and Interfaces"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,421 @@
+Course Code 
+PEAET595 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCAET303 Transducers 
+and Measurements 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce the fundamental concepts and terminology in Robotics and automation 
+2. To familiarize the various industrial applications of robotics 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Fundamentals of Robotics 
+Robotics and Automation – Definition and history of robotics, Differences 
+between robotics and automation, Applications of robotics in industry and 
+service sectors. 
+Robot Anatomy – Basic components - Links, joints, and end effectors, 
+Degrees of Freedom (DOF) and their significance. 
+Configurations of Robots – Cartesian, Cylindrical, Spherical, Articulated, 
+SCARA.   
+Work Volume and Workspace Analysis – Definition and importance, 
+Factors affecting workspace. 
+Manipulator Kinematics – Position representation, Introduction to forward 
+and inverse kinematics, Homogeneous transformations and their application 
+in robot kinematics. 
+D-H Notations – Formulating and solving kinematic equations. 
+ 
+9  
+2 
+Control Systems for Robots 
+Basic Control System Models – Open-loop and closed-loop control, Block 
+diagrams and transfer functions. 
+Robot Motions – Types of motions – Slew motion, joint-interpolated 
+ 
+9  
+
+motion, and straight-line motion. Path planning and trajectory generation. 
+Controllers – On/off control, Proportional (P) control, Integral (I) control, 
+Proportional plus integral (PI) control, Proportional plus derivative (PD) 
+control and Proportional plus integral plus derivative (PID) control. 
+3 
+Actuation and Feedback Mechanisms 
+Sensors – Types of sensors - Position and velocity sensors. Working 
+principles of encoders and resolvers, Potentiometers and tachometers. 
+Actuators - Electric actuators - DC motors, stepper motors, and 
+servomotors. Hydraulic actuators, Pneumatic actuators. 
+Power Transmission Devices - Gears, belts, chains, lead screws and ball 
+screws. 
+End Effectors – Types of grippers - Mechanical, vacuum and magnetic, 
+Design considerations for grippers. 
+Methods of Power and Control Signal Transmission - 
+Electrical, hydraulic and pneumatic transmission. 
+9  
+4 
+Industrial Applications and Work Cell Design 
+Material Handling - General considerations for material handling with 
+robots, Material transfer applications. 
+Pick and Place Operations - Techniques and applications, Integration with 
+production lines. 
+Palletizing and Related Operations - Methods and case studies. 
+Manufacturing Processes - Die casting, plastic molding, forging,  
+Machining operations, stamping press operations, Role of robots in 
+automation of these processes. 
+Robot Cell Layouts - Design considerations for multiple robots and 
+machine interfaces, Examples of typical robot cell layouts. 
+Work Cell Control - Interlocks and safety mechanisms, Error detection and 
+recovery strategies. 
+Work Cell Controllers - Types and functions of work cell controllers, 
+Integration with other control systems. 
+Cycle Time Analysis - Techniques for analyzing and optimizing robot cycle 
+times, Factors affecting cycle time and productivity. 
+ 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Each student should Design, simulate, and analyze a robotic arm with three or more 
+degrees of freedom (DoF) for a pick and place system, operating within a defined work 
+volume. 
+ 
+Computational tools such as MATLAB or Octave can be utilized for for simulation and 
+analysis. 
+ 
+Find below the details of the project and the outcomes to be evaluated. 
+ 
+Project: Design, simulate, and analyze a robotic arm with three or more degrees of freedom 
+(DoF) for a pick and place system, operating within a defined work volume. 
+Project Components: 
+1. Design Specifications and Simulation 
+ Develop comprehensive arm specifications, including: a) Link 
+dimensions b) Joint movement parameters c) Actuator specifications d) 
+Sensor requirements 
+ Ensure design enables full access to the specified work volume 
+ Create a detailed 3D model for simulation purposes 
+2. Kinematic Analysis 
+ 
+Derive kinematic equations using Denavit-Hartenberg (DH) parameters 
+ 
+Construct homogeneous transformation matrices 
+ 
+Implement and validate forward as well as inverse kinematics 
+3. Path Planning and Motion Simulation 
+ Define an efficient path for pick and place operations 
+ Simulate arm movements along the planned path 
+ Analyze motion profiles for optimization opportunities 
+4. Actuator Modeling and Dynamic Analysis 
+ Develop an electric motor models for joint actuation 
+ Simulate joint torques and forces during movement under a fixed load 
+condition 
+5. Control System Implementation and Evaluation 
+ Implement multiple control strategies: a) ON-OFF control b) Proportional 
+(P) control c) Proportional-Integral (PI) control d) Proportional-Integral-
+Derivative (PID) control 
+ Simulate arm movement along the predefined path under load for each 
+control strategy 
+ Evaluate and compare performance metrics for each control method 
+
+Project Deliverables: 
+1. Detailed design specifications and 3D model 
+2. Kinematic and dynamic analysis reports 
+3. Identify and address technical challenges encountered 
+4. Simulation results and performance comparisons 
+5. Comprehensive project report including methodology, results, challenges, 
+and recommendations 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24marks) 
+ 
+2 questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+ 
+Each question can have a maximum of 3 
+sub divisions.  
+ 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the basic components, structural configurations and degrees 
+of freedom (DOF) of robots. 
+K2 
+CO2 
+Apply forward and inverse kinematics for different types of robotic 
+manipulators. 
+K3 
+CO3 
+Implement various types of controllers and understand their impact on 
+robot motion control 
+K3 
+CO4 
+Identify and compare different types of sensors and actuators used in 
+robotic systems 
+K2 
+CO5 
+Understand the basics of robot cell layouts considering multiple robots 
+and machine interfaces. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+2 
+3 
+2 
+2 
+2 
+2 
+  
+  
+2 
+2 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Introduction to Robotics: 
+Mechanics and Control 
+John J. Craig 
+Pearson 
+4th Edition, 
+2022 
+2 
+Robot Modeling and Control 
+Mark W. Spong, Seth 
+Hutchinson, and M. 
+Vidyasagar 
+Wiley 
+2nd Edition, 
+2020 
+3 
+Industrial Robotics -
+Technology, Programming 
+and Applications 
+Mikell P Groover, Mitchell 
+Weiss, Roger N Nagel, Nicholas 
+Odrey, Ashish Dutta 
+Mc Graw Hill 
+2nd Edition, 
+2017 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Modern Robotics: Mechanics, 
+Planning, and Control 
+Kevin M. Lynch, Frank 
+C. Park 
+Cambridge 
+University Press 
+1st Edition, 
+2017 
+2 
+Robotics:  
+Modelling, Planning and 
+Control 
+Bruno Siciliano,   
+Lorenzo Sciavicco, Luigi 
+Villani, Giuseppe Oriolo 
+Springer 
+1st Edition, 
+2009 
+3 
+Robotics, Vision and Control: 
+Fundamental Algorithms In 
+MATLAB 
+Peter Corke 
+Springer 
+2nd Edition, 
+2017 
+ 
+ 
+ 
+
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/107106090 
+2 
+https://nptel.ac.in/courses/107106090 
+3 
+https://nptel.ac.in/courses/107106090 
+4 
+https://nptel.ac.in/courses/107106090 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SEMESTER S5 
+PROCESS CONTROL LAB

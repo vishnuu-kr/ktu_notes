@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Basic Components of Control Systems, Open-Loop and\nClosed-Loop Control Systems with examples.\nMathematical modelling of control systems: Electrical Systems and\nMechanical translational systems.\nTransfer Function:  Block diagram reduction techniques, Signal flow\ngraph, Mason’s gain formula.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Time Domain Analysis of Control Systems: Standard Test signals, Time\nresponse of first order systems (unit impulse, step and ramp inputs) and\nsecond order systems (step input only). Time response of undamped, under\ndamped, critically damped second order system to unit step signal, Time\ndomain specifications for a second order underdamped system,  Steady state\nerror and static error coefficients.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Stability of linear control systems: Concept of BIBO stability, absolute\nstability, Routh Hurwitz Criterion.\nRoot Locus Techniques: Introduction, properties and its construction.\nFrequency domain analysis: Frequency domain specifications\nRelative stability: gain margin and phase margin. Stability analysis using\nBode plot and Nyquist stability criterion.\nP, PI & PID controllers: Introduction.\nDesign of Compensators: Need for compensators, lag and lead\ncompensators using  Bode plots(only design steps)",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "State Variable Analysis of Linear Systems:\nState variables, state equations, state variable representation of electrical\nsystems. Transfer function from State equation,   Solutions of the state\nequations, state transition matrix, Controllability and observability -\nKalman’s Test.",
+    "contact_hours": "8"
+  }
+]

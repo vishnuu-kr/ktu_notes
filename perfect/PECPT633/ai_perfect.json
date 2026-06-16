@@ -1,0 +1,61 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction (Overview of Network Security Issues, Cryptographic Algorithms, Authentication Techniques)",
+            "Layer 2/3 Security and Authentication Systems",
+            "Key Establishment Protocols",
+            "Kerberos",
+            "Secure Communication at the Data Link and Network Layers (IPSEC and IKE)",
+            "Secure Communication at the Transport and Application Layers (SSL/TLS, Email Security, PGP)",
+            "Vulnerabilities of Internet Protocols"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Secure Sockets Layer (SSL) - SSL Protocol Stack - SSL Record Protocol Operation",
+            "IP Security (IPsec) - Architecture and Benefits",
+            "Hypertext Transfer Protocol Secure (HTTPS)",
+            "Kerberos - Drawbacks, Limitations, and Vulnerabilities",
+            "Transport Layer Security (TLS)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Denial of Service (DoS) Attacks and Defences, and Firewalls",
+            "IP Spoofing Prevention, Routing Protocols Security, and Router Security",
+            "Domain Name Server (DNS) Security and Traffic Monitoring",
+            "Intrusion Detection and Honeypots",
+            "Wireless Networks Security",
+            "Spam, Phishing, and Pharming",
+            "Malware Propagation and Containment, Botnets",
+            "Anonymity and Privacy on the Web",
+            "Internet Security Protocols and Standards (TCP Attacks, DNS Vulnerabilities, SSL/TLS, DDoS)",
+            "Next Generation System Designs and Challenges",
+            "Cyber-Physical System Overview and Security",
+            "Internet of Things and Smart Grid Security",
+            "Data and Infrastructure Security in Cloud/Edge Computing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Blockchain and Decentralized Applications, Hash Cash and Other Consensus Protocols, Blockchain Security, and Smart Contracts",
+            "Scalability and Privacy Challenges",
+            "Security Economics and Risk Modelling",
+            "Cyber-Risk Assessment",
+            "Threat Information Sharing",
+            "Cyber-Insurance"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

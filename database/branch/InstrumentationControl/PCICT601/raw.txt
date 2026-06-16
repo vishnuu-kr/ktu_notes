@@ -1,0 +1,308 @@
+Course Code 
+PCICT601 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCICT403 Signals 
+and Systems 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Equip students with the foundational knowledge of discrete time signal processing techniques 
+and digital filtering. 
+2. Enable students to apply digital signal processing techniques in their engineering careers 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+DISCRETE FOURIER TRANSFORM 
+Review of Discrete Time Fourier Transform. 
+Frequency domain sampling and reconstruction of Discrete time signals -
+DFT- properties of DFT. Circular convolution - Dentition, Linear 
+convolution using DFT.  
+Computation of DFT - Direct computation of DFT – DFT as linear 
+Transformation – Fast Fourier Transform (Radix – 2 FFT only) – 
+Decimation in time and decimation in frequency algorithms. 
+Problem solving using software tools. 
+ 
+11 
+2 
+DIGITAL FILTER STRUCTURES 
+Z-Transform representation of FIR and IIR filters- FIR filter structures: - 
+Direct form, Cascade form and Lattice structures  
+IIR filter structure: Direct form Transpose form, Cascade form and Parallel 
+form structures. 
+FINITE WORD LENGTH EFFECTS 
+Quantization noise, Round off effects, Limit cycle oscillations. 
+ 
+11 
+
+ 
+ 
+3 
+IIR DIGITAL FILTERS  
+Digital Filter Specifications – Design of IIR digital filters from analog filters 
+– Butterworth and Chebyshev filters – Design of Low pass filters – Spectral 
+transformation of IIR filters –Analogue to digital transfer function: impulse 
+invariant method, bilinear transformation method. 
+Problem solving using software tools. 
+11 
+4 
+FIR DIGITAL FILTERS 
+Design of FIR filters: Estimation of filter order - FIR filter design - Impulse 
+response of ideal filters - Gibbs Phenomenon – Fixed window functions: 
+Rectangular, Hamming, Blackman –Adjustable window function: Kaiser 
+window. 
+Problem solving using software tools. 
+ 
+11 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out of 
+which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Compute DFT using direct computation and FFT methods, and 
+perform circular convolution of discrete time signals 
+K3 
+CO2 
+Construct FIR and IIR Filter structures 
+K3 
+CO3 
+Design IIR Digital Filters 
+K3 
+CO4 
+Design FIR Digital filters 
+K3 
+CO5 
+Solve filter design problems using software tools 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO5 is to be evaluated as a part of CIE. Assignments shall be given to solve discrete time 
+signal processing using software tools 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Discrete Time Signal 
+Processing 
+Oppenhiem and Schafer 
+Pearson Education 
+India 
+Discrete Time 
+Signal 
+Processing
+2 
+Digital Signal Processing 
+Principles, Algorithms and 
+Applications 
+Proakis and Manolakis 
+Pearson 
+Education India 
+Digital Signal 
+Processing 
+Principles, 
+Algorithms 
+and 
+Applications
+3 
+Digital Signal Processing 
+Monson Hayes 
+McGraw Hill 
+Education 
+(Schaum’s 
+Digital Signal 
+Processing 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+2 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Outline Series)
+4 
+Discrete Time Signal 
+Processing 
+Oppenhiem and Schafer 
+Pearson Education 
+India 
+Discrete Time 
+Signal 
+Processing
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Signal Processing 
+Sanjit K Mitra 
+McGraw Hill 
+Education 
+4th/2013 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+                                                     Link ID 
+1 
+https://youtube.com/playlist?list=PL9567DFCA3A66F299&si=IzyfKkqrgphr2x1b 
+2 
+https://youtube.com/playlist?list=PLyqSpQzTE6M9py2rcGOLss74ZxBUvaC49&si=k7sSfgEr
+FbzYDkcH 
+
+ 
+ 
+SEMESTER S6 
+INSTRUMENTATION SYSTEM DESIGN

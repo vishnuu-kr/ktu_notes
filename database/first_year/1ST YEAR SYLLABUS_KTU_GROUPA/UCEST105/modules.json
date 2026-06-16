@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "PROBLEM-SOLVING STRATEGIES:- Problem-solving strategies defined,\nImportance of understanding multiple problem-solving strategies, Trial and\nError, Heuristics,\nMeans-Ends Analysis, and Backtracking (Working\nbackward).\nTHE PROBLEM-SOLVING PROCESS:- Computer as a model of\ncomputation, Understanding the problem, Formulating a model, Developing\nan algorithm, Writing the program, Testing the program, and Evaluating the\nsolution.\nESSENTIALS OF PYTHON PROGRAMMING:- Creating and using\nvariables in Python, Numeric and String data types in Python, Using the math\nmodule, Using the Python Standard Library for handling basic I/O - print,\ninput, Python operators and their precedence.\n7\nB.Tech 2024 –S1/S2\nAPJ Abdul Kalam Technological University",
+    "contact_hours": "33"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "ALGORITHM AND   PSEUDOCODE   REPRESENTATION:-   Meaning\nand\nDefinition of Pseudocode, Reasons for using pseudocode, The main constructs\nof pseudocode - Sequencing, selection (if-else structure, case structure) and\nrepetition (for, while, repeat-until loops), Sample problems*\nFLOWCHARTS** :- Symbols used in creating a Flowchart - start and end,\narithmetic calculations, input/output operation, decision (selection), module\nname (call), for loop (Hexagon), flow-lines, on-page connector, off-page\nconnector.\n* - Evaluate an expression, d=a+b*c, find simple interest, determine the\nlarger of two numbers, determine the smallest of three numbers, determine\nthe grade earned by a student based on KTU grade scale (using if-else and\ncase structures), print the numbers from 1 to 50 in descending order, find the\nsum of n numbers input by the user (using all the three loop variants), factorial\nof a number, largest of n numbers (Not to be limited to these exercises. More\ncan be worked out if time permits).\n** Only for visualizing the control flow of Algorithms. The use of tools like\nRAPTOR (https://raptor.martincarlisle.com/) is suggested. Flowcharts for\nthe sample problems listed earlier may be discussed",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "SELECTION AND ITERATION USING PYTHON:- if-else, elif, for loop,\nrange, while loop.\nSequence data types in Python - list, tuple, set, strings, dictionary, Creating and\nusing Arrays in Python (using Numpy library).\nDECOMPOSITION AND MODULARIZATION* :- Problem decomposition\nas a strategy for solving complex problems, Modularization, Motivation for\nmodularization, Defining and using functions in Python, Functions with\nmultiple return values\n10\nB.Tech 2024 –S1/S2\nAPJ Abdul Kalam Technological University\nRECURSION:- Recursion Defined, Reasons for using Recursion, The Call Stack,\nRecursion and the Stack, Avoiding Circularity in Recursion, Sample problems -\nFinding the nth Fibonacci number, greatest common divisor of two positive integers,\nthe factorial of a positive integer, adding two positive integers, the sum of digits of a\npositive number **.\n* The idea should be introduced and demonstrated using Merge sort, the problem of\nreturning the top three integers from a list of n>=3 integers as examples. (Not to be\nlimited to these two exercises. More can be worked out if time permits).\n** Not to be limited to these exercises. More can be worked out if time permits.",
+    "contact_hours": "34"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "COMPUTATIONAL APPROACHES TO\nPROBLEM-SOLVING\n(Introductory diagrammatic/algorithmic explanations only. Analysis not required) :-\nBrute-force Approach -\n-\nExample: Padlock, Password guessing\nDivide-and-conquer Approach -\n-\nExample: The Merge Sort Algorithm\n-\nAdvantages of Divide and Conquer Approach\n-\nDisadvantages of Divide and Conquer Approach\nDynamic Programming Approach\n-\nExample: Fibonacci series\n-\nRecursion vs Dynamic Programming\nGreedy Algorithm Approach\n-\nExample: Given an array of positive integers each indicating the completion\ntime for a task, find the maximum number of tasks that can be completed in\nthe limited amount of time that you have.\n-\nMotivations for the Greedy Approach\n-\nCharacteristics of the Greedy Algorithm\n-\nGreedy Algorithms vs Dynamic Programming\nRandomized Approach\n-\nExample 1: A company selling jeans gives a coupon for each pair of jeans.\nThere are n different coupons. Collecting n different coupons would give\nyou free jeans. How many jeans do you expect to buy before getting a free\none?\n10\nB.Tech 2024 –S1/S2\nAPJ Abdul Kalam Technological University\n- Example 2: n people go to a party and drop off their hats to a hat-check person.\nWhen the party is over, a different hat-check person is on duty and returns the\nn hats randomly back to each person. What is the expected number of people\nwho get back their hats?\n- Motivations for the Randomized Approach",
+    "contact_hours": "35"
+  }
+]

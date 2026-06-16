@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Process Control Loops: Feedback control, feed forward control, Cascade\ncontrol, Ratio control, Split range control. Computerized control: Basic\nbuilding blocks of Computer controlled systems\nProgrammable Logic Controller: Architecture of PLC, Types of PLC, PLC\nmodules, Input and output modules - Analog and discrete I/O modules,\nExamples of Digital and Analog Inputs/Outputs- PLC Configuration- Scan\ncycle, Capabilities of PLC, Selection criteria for PLC, PLC communication\nwith PC and software, Power supply of PLCs, PLC Wiring- Installation of\nPLC and its modules.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "PLC programming languages, Ladder programming, Functional Block\nDiagram, Sequential Flowchart SFC, Structured Text, Instruction List, Relay\nlogic, Timers and counters, simple programs in PLC – ladder programming,\nmath operations, sequencers, program control instructions, PTO/PWM\ngeneration.\nPLC Networking, Networking standards & IEEE standards, Protocols –\nEthernet, PROFIBUS, CANopen\nCase studies – PLC based traffic light system, stepper motor & servo motor\ncontrol using PLC, Analog sensor interfacing with PLC, Encoder interfacing\nwith PLC, bottle filling system, gate control system",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "SCADA: SCADA Fundamentals: Introduction, Types, Open system: Need\nand advantages, Building blocks of SCADA systems, Remote terminal unit\n(RTU),\nHuman-Machine\nInterface\n(HMI)\nsubsystem.\nSCADA\ncommunication\nsystems,\nMaster\nStation:\nMaster\nstation\nsoftware\ncomponents, Master station hardware components, Server systems in the\nmaster station, small, medium, and large master stations, software\narchitecture of SCADA, Interfacing of SCADA with PLC, drive and other\nfield devices.\nDistributed Control System: DCS - Architectures, Comparison, Local control\nunit, Process interfacing issues, Communication facilities. Various function\nBlocks.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "LCU communication Facilities - Communication system requirements –\nArchitectural Issues, Operator displays, Operator Interfaces – Engineering\nInterfaces. Introduction to HART and Field bus protocol. Interfacing Smart\nfield devices (wired and wireless) with DCS controller. Introduction to\nObject Linking and Embedding (OLE) for Process Control.\nCase studies – Design of conveyor automation system using PLC, SCADA\nand Electrical drive: Design of inspection automation system using sensors,\nPLC and SCADA: Design of simple water management system using PLC,\nSCADA and Electrical Drive",
+    "contact_hours": "9"
+  }
+]

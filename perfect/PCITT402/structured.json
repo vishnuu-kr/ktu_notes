@@ -1,0 +1,92 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Uses of computer networks",
+            "Network hardware",
+            "Network software",
+            "Reference Models - The OSI Reference Model",
+            "TCP/IP Reference Model",
+            "Comparison of the OSI and TCP/IP Reference Models. Physical Layer: Guided Transmission Media (twisted pair",
+            "coaxial cable",
+            "Fiber Cables",
+            "Wireless Transmission (Radio Transmission",
+            "Microwave Transmission",
+            "Infrared Transmission",
+            "Communication satellites (GEO",
+            "MEO). Interfacing devices: Repeaters",
+            "Hubs",
+            "Bridges",
+            "Switches",
+            "Routers",
+            "And Gateways"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Data link layer design issues",
+            "Error detection and correction - Error Correcting codes (Hamming codes",
+            "Reed-Solomon codes",
+            "Low-Density Parity Check codes",
+            "Error-Detecting Codes (Parity",
+            "Checksums",
+            "Cyclic Redundancy Checks",
+            "A Simplex Stop-and-Wait Protocol for a Noisy Channel",
+            "Sliding window protocols. Medium Access Control (MAC) sublayer: Channel allocation problem",
+            "Multiple access protocols (ALOHA",
+            "Slotted ALOHA",
+            "Carrier Sense Multiple Access Protocols",
+            "Collision-Free Protocols -bit map protocol",
+            "token passing",
+            "binary countdown",
+            "Wireless LAN Protocols). Ethernet: Frame format",
+            "types- Fast Ethernet",
+            "Gigabit Ethernet",
+            "10-Gigabit Ethernet"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Network layer design issues. Routing algorithms - The Optimality Principle",
+            "Shortest path routing",
+            "Flooding",
+            "Distance Vector Routing",
+            "Link State Routing",
+            "Multicast routing",
+            "Routing for mobile hosts. Congestion control algorithms: Approaches to Congestion Control- Choke Packets",
+            "Random Early Detection. Quality-of-service - Application Requirements",
+            "Traffic Shaping - Leaky and Token Buckets. The Network Layer in the internet: Internet Protocol",
+            "IP Version 4 Protocol",
+            "IP Addresses",
+            "IP Version 6"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Transport service - Services provided to the upper layers",
+            "Transport service primitives. Socket programming",
+            "User Datagram Protocol (UDP)- User Datagram",
+            "Checksum. Real-Time Transport Protocols (RTP",
+            "RTCP",
+            "Transmission Control Protocol (TCP)- TCP Service Model",
+            "TCP Protocol",
+            "TCP Segment Header",
+            "TCP Connection Establishment",
+            "TCP Connection Release",
+            "TCP Sliding Window",
+            "TCP Congestion Control. Application Layer: Domain Name System (DNS)- Electronic mail. World Wide Web - Architectural Overview",
+            "HTTP - The Hypertext Transfer Protocol"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

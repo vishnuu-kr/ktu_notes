@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Traditional computing- Limitations. Overview of Computing Paradigms-\nGrid Computing, Cluster Computing, Distributed Computing, Utility\nComputing, Cloud Computing. NIST reference Model-Basic terminology\nand concepts. Cloud characteristics, benefits and challenges, Roles and\nBoundaries. Cloud delivery (service) models-Infrastructure-as-a-Service\n(IaaS), Platform-as-a-Service(PaaS),Software-as-a-Service (SaaS), XaaS\n(Anything-as-a-service)-Cloud\ndeployment\nmodels-\nPublic\ncloud,\nCommunity cloud, Private cloud, Hybrid cloud.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to virtualization-Virtualizing physical computing resources,\nVirtual Machines (Machine virtualization), Non-virtualized v/s Virtualized\nmachine environments. Types of VMs- Process VM v/s System VM.\nEmulation, Interpretation and Binary translation. Virtualization layers.\nHypervisors/VMM - Types of Hypervisors. Full Virtualization, Para\nVirtualization, Hardware-assisted virtualization, OS level virtualization.\nBasics of Network Virtualization, Storage Virtualization and Desktop\nVirtualization.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Resource provisioning techniques: Static and Dynamic Resource\nprovisioning in cloud. Open Source Software platforms for Private Cloud :\nOpenStack, Eucalyptus, Open Nebula, Nimbus\nPopular public cloud platforms: AWS - AWS ecosystem, Compute\nservices: EC2, Advanced compute services, Storage services: Amazon S3,\nAmazon EBS, Database services, other major services. Google Cloud: IaaS\nofferings- Compute Engine, Storage PaaS offerings-GAE. SaaS offerings.\nMicrosoft Azure: Azure Platform Architecture, Hyper-V, Azure VM,\nCompute services, Storage services",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Cloud programming: Parallel Computing and Programming Paradigms,\nMap Reduce – Hadoop Library from Apache, HDFS, Pig Latin Basics,\nApache Spark\nFundamentals of Cloud Security: Basic terms & concepts in security –\nThreat agents, Cloud security threat/risks, Trust. OS security – Virtual\nMachine security – Security of Virtualization – Security risk posed by\nShared Images, Security risk posed by Management OS, Infrastructure\nsecurity – Network Level, Host Level, Application Level, Security of the\nPhysical systems, Identity and Access Management",
+    "contact_hours": "10"
+  }
+]

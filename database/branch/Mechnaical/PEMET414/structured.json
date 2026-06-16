@@ -1,0 +1,65 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Internal Sensors: Position - Optical Encoders",
+      "Potentiometers",
+      "LVDT",
+      "Velocity - Encoders",
+      "Tachogenerators",
+      "Acceleration - Different types of accelerometers",
+      "Gyroscopes",
+      "Force transducers External Sensors: Contact Sensors",
+      "Inductive and Capacitive Proximity sensors",
+      "Ultrasonic transducers and SONAR",
+      "RADAR and Doppler effect",
+      "LIDAR Sensor Characteristics: Sensitivity",
+      "Linearity",
+      "Measurement /Dynamic range",
+      "Response Time",
+      "Accuracy",
+      "Repeatability and Precision",
+      "Resolution & Threshold",
+      "Bandwidth"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Hydraulic and Pneumatic Actuators: Working of Hydraulic and Pneumatic Actuators at block diagram level",
+      "advantages and disadvantages of each Electric Actuators: Electric motors - DC motors",
+      "Stepper motors",
+      "Servo motors",
+      "BLDC motors",
+      "Transmission Elements",
+      "advantages and disadvantages of Electric Actuators"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Definitions of microprocessors and microcontrollers with basic block diagrams and differences between them Arduino Uno microcontroller: Board Study (Board level Block schematic) - Chip (Features only - Architecture not needed",
+      "GPIO",
+      "Memory",
+      "Programming Interface Programming: Arduino IDE",
+      "Sample Code for interfacing LED and Switch",
+      "DC motor and Stepper motor control",
+      "LCD Interfacing"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Embedded Systems: Applications of embedded systems-Consumer electronics, Robotics, Automobiles Embedded System Architecture: Hardware - Processor, Controller, Memory, Peripherals",
+      "Software - Application, Middleware, OS, Device Drivers, Tool chain- Assembler, Interpreter, Compiler, Linker, Loader, Debugger IoT: Definition, Impact of IoT in Manufacturing, Smart homes, Transportation and Cities Wired Communication: Basics of Serial communication (UART, SPI, I2C) Wireless Communication: Basics of Wi-Fi, Bluetooth, Zigbee, LoRa, and NFC Case Study: Design and implementation of a simple Embedded/IoT project"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

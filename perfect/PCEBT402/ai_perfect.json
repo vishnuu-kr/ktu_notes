@@ -1,0 +1,76 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Brief Overview of Microelectronic Fabrication Technology - Epitaxial Growth",
+            "Diffusion",
+            "Ion Implantation Processes - Description - Fabrication of BJT",
+            "MOSFETs",
+            "Operational Amplifiers: Introduction to Operational Amplifiers",
+            "Internal Block Schematic of Op Amp - Equivalent Circuit - Voltage Transfer Curve - Input and Output Impedance - Slew Rate",
+            "Input Bias Current - Input Offset Current - Offset Voltage - CMRR - SVRR",
+            "Open Loop Op-Amp Configurations - Open Loop Gain - Frequency Response - Finite Gain Bandwidth - Ideal Op Amp Parameters",
+            "Offset Voltage Compensating Networks - Offset Minimizing Resistor"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Feedback Topologies - Voltage Series",
+            "Voltage Shunt",
+            "Current Series and Current Shunt Feedbacks - Frequency Response",
+            "Concept of Virtual Ground - Closed Loop Gain",
+            "Input Resistance",
+            "Output Resistance",
+            "Bandwidth and Output Offset Voltage of Feedback Configurations",
+            "Voltage Follower",
+            "Summing Amplifier",
+            "Difference Amplifiers with One Op Amp and 3 Op Amps - Instrumentation Amplifier",
+            "Log and Antilog Amplifiers",
+            "Voltage to Current and Current to Voltage Converter",
+            "Integrator and Differentiator",
+            "Peak Detector Circuit",
+            "Precision Rectifiers",
+            "Comparators and Schmitt Trigger Circuits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Transfer Functions - LPF",
+            "BRF",
+            "First and Second Order Filters",
+            "Approximation Methods - Butterworth - Chebyshev",
+            "Sample and Hold Circuit",
+            "ADC - Successive Approximation",
+            "Flash",
+            "Integrating Types",
+            "DAC - Weighted",
+            "R-2R Types",
+            "Multivibrators - Astable and Monostable - Design and Working",
+            "Wave Generators - Triangular and Sawtooth",
+            "RC Phase Shift and Wien Bridge Oscillators"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "IC Regulators - 723 - Block Diagram",
+            "Typical Low Voltage Regulator Circuit",
+            "78XX and 79XX IC Regulators",
+            "317 - Applications",
+            "Timers - 555 - Functional Block Diagram - Astable and Monostable Multivibrators Using 555",
+            "VCO - 566",
+            "PLL - IC 565 - Block Diagram",
+            "Working and Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

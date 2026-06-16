@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Sensors and Transducers:\nInternal Sensors: Position - Optical Encoders, Potentiometers, LVDT,\nVelocity - Encoders, Tachogenerators, Acceleration – Different types of\naccelerometers, Gyroscopes, IMU, Force transducers\nExternal Sensors: Contact Sensors, Inductive and Capacitive Proximity\nsensors, GPS, Ultrasonic transducers and SONAR, RADAR and Doppler\neffect, LIDAR\nSensor Characteristics: Sensitivity, Linearity, Measurement /Dynamic\nrange, Response Time, Accuracy, Repeatability and Precision, Resolution\n& Threshold, Bandwidth",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Actuators:\nHydraulic and Pneumatic Actuators: Working of Hydraulic and\nPneumatic\nActuators\nat\nblock\ndiagram\nlevel,\nadvantages\nand\ndisadvantages of each\nElectric Actuators: Electric motors - DC motors, Stepper motors, Servo\nmotors, BLDC motors, Transmission Elements, advantages and\ndisadvantages of Electric Actuators",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Microcontrollers:\nDefinitions of microprocessors and microcontrollers with basic block\ndiagrams and differences between them\nArduino Uno microcontroller: Board Study (Board level Block\nschematic) - Chip (Features only – Architecture not needed), GPIO,\nMemory, Programming Interface\nProgramming: Arduino IDE, Sample Code for interfacing LED and\nSwitch, DC motor and Stepper motor control, LCD Interfacing",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to Embedded Systems and IoT:\nEmbedded Systems: Applications of embedded systems-Consumer\nelectronics, Robotics, Automobiles\nEmbedded System Architecture: Hardware - Processor, Controller,\nMemory, Peripherals; Software - Application, Middleware, OS, Device\nDrivers, Tool chain- Assembler, Interpreter, Compiler, Linker, Loader,\nDebugger\nIoT: Definition, Impact of IoT in Manufacturing, Smart homes,\nTransportation and Cities\nWired Communication: Basics of Serial communication (UART, SPI,\nI2C)\nWireless Communication:  Basics of Wi-Fi, Bluetooth, Zigbee, LoRa, and\nNFC\nCase Study: Design and implementation of a simple Embedded/IoT\nproject",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definition of reliability",
+            "Reliability vs. Quality",
+            "Reliability function",
+            "MTTF and MTBF",
+            "Hazard rate function",
+            "Bathtub curve",
+            "Derivation of the reliability function",
+            "Failure and Failure modes",
+            "Causes of Failures and Unreliability. Hazard Models: Constant hazard model",
+            "Linearly increasing hazard models",
+            "Weibull model. System Reliability: Series and parallel configurations",
+            "Combined series parallel systems",
+            "k-out-of-m systems",
+            "standby systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Component and Unit redundancy",
+            "Weakest-link Technique",
+            "Mixed redundancy",
+            "Redundancy optimization. State - Dependant Systems: Markov analysis",
+            "Single and two independent components",
+            "Load sharing systems",
+            "Standby system",
+            "Degraded systems. Reliability Allocation: Equal",
+            "ARINC",
+            "and Proportional apportionments",
+            "AGREE method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Fault tree analysis, Event tree analysis, FMEA and FMECA, Tie - set and Cut - set methods. Design for reliability: Load -Strength Interference and safety Margin Software reliability: Software errors",
+            "Fault Tolerance",
+            "Data Reliability",
+            "Hardware and Software Interfaces. Reliability prediction Standards: MIL 217 and NSWC Standards. Human reliability: Methods for Human Reliability Analysis. Economics of Reliability: Optimizing Reliability Cost"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Definitions and Basic Concepts",
+            "Inherent availability",
+            "Achieved availability",
+            "Operational availability",
+            "Availability of Series and Parallel Systems. Maintenance: Preventive, predictive and reliability cantered maintenances, Maintainability - Instantaneous Repair Rate and Maintainability Function, MTTR. Life Testing: Objectives and Types, Censoring",
+            "Accelerated Life Testing, HALT, HASS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

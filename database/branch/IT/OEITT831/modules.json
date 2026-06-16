@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction and Goals of Computer Vision\nReview of image processing techniques: Image filtering, Image\nenhancement, Image segmentation, thresholding, Image Transforms, Color\nImage Processing,  Mathematical morphology and use in texture\nanalysis,Binary shape analysis and connectedness",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Measuring Light and Radiometry: Reflectance and BRDF(basics only),\nMonocular\nand\nbinocular\nimaging\nsystem,\nGeometric\nTransformation,Orthographic & Perspective Projection, Camera model-\nBasic Pinhole Camera model\nStereo vision: introduction; concept of disparity and  its relationship with\ndepth",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Feature Detection and Description: Harris Corner Detection, Canny Edge\nDetection, Blob Detection, Line and curve  detection, Hough transform\nFeature Descriptors: Histogram of Oriented Gradients, Scale Invariant\nFeature Transform(SIFT),Mosaics and Snakes, Feature Matching algorithms:\nBrute Force Matcher, Need for feature detection and description and\nlimitations",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Shape from X - Shape from shading, Photometric stereo. Occluding contour\ndetection.\nMotion Analysis-Regularization theory, Optical Flow: brightness constancy\nequation,\nLucas-\nKanade\nmethod,\nPrinciples\nof\nStructure\nfrom\nmotion(Introduction).\nObject recognition: Hough transforms and other simple object recognition\nmethods\nApplication:  Face detection, Face recognition and Eigen faces",
+    "contact_hours": "9"
+  }
+]

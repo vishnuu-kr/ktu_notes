@@ -1,0 +1,3354 @@
+Course Code 
+PEERT743 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Engineering mathematicsCourse Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the basics of robotics. 
+2. To gain insights into various sensors used with robots. 
+3. To understand the spatial descriptions and kinematics of robots. 
+4. To design controllers for robots 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Definition and Origin of Robotics. Robot Anatomy. Robot Specifications. 
+Robot Characteristics –Accuracy, Precision, and Repeatability. Classification 
+of Robots. Advantages and Disadvantages of Robots. Robot Structure - Types 
+of Joints and End Effectors, Mechanisms and Manipulators.Common 
+Kinematic Arrangements. Degree of Freedom. Robot Coordinates. Areas of 
+Applicationfor Robots 
+9 
+2 
+Actuators: Types of Robotic Drive Systems and Actuators: Hydraulic, 
+Pneumatic and Electric drives. Transmission: Gears, Timing Belts and 
+Bearings. Parameters for selection of actuators. Specification. 
+Areas of Application for: Stepper Motor & Servo Motor. Sensors: Types and 
+Applications 
+of 
+Sensors 
+in 
+Robotics: 
+Position, 
+Displacement 
+and 
+VelocitySensors. Tactile Sensors for Contact and Proximity Assessment 
+9 
+3 
+Introduction to Kinematics: Positionand Orientation of Objects. Rotation. Euler 
+Angles. Rigid Motion Representation using Homogenous Transformation 
+Matrix. Kinematic Modelling:Translation and Rotation Representation, 
+9  
+
+ 
+ 
+Coordinate Transformation, Forward and Inverse Kinematics. Forward 
+Kinematics-Link Coordinates, Denavit-Hartenberg Representation,Application 
+of DH Convention to Different Serial Kinematic Arrangements 
+4 
+Basics of Control: Open Loop- Closed Loop, Transfer Functions, Control 
+Laws: P, PD, PID, Linearand Non-linear Controls; Control Hardware and 
+Interfacing; Embedded Systems: Microcontroller Architecture and Integration 
+with Sensors, Actuators, Components. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks,ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 3 sub divisions. 
+                   (4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 Attain a thorough understanding of different types of Robots and their applications 
+K2 
+CO2 Select appropriate sensors and actuators based on the robotic application 
+K2 
+CO3 Perform kinematic and dynamic analyses for robots 
+K2 
+CO4 Carry out the design and control of a simple robot. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Industrial  Robotics Technology, 
+Programming and Applications 
+M.PGroover 
+McGraw-HillUSA 
+2e(SIE),2012 
+2 
+Introduction to Robotics 
+JohnCraig 
+Macmillan 
+4e,2022 
+3 
+Fundamentals of Robotics Analysis& 
+Control 
+Robert J Shilling 
+PHI 
+2003 
+4 
+Introduction to Robotics 
+S.K. Saha 
+Tata McGraw Hill 
+2e,2014 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Introduction to Robotics, Analysis, 
+Control, Application 
+NikuS.B., 
+John Wiley 
+Second 
+Edition, 2000 
+2 
+Robot Dynamics and Control 
+Mark W. Spong, Seth 
+Hutchinson, and M. 
+Vidyasagar 
+Wiley 
+2008 
+3 
+Robotics, Fundamental concepts 
+and analysis 
+AshitavaGhosal 
+OXFORD University 
+Press 
+2006 
+4 
+Robot Analysis and Control 
+Asada, H., and J. J. 
+Slotine. 
+New York, NY:Wiley, 
+1986 
+5 
+Robotic Engineering An Integrated 
+Approach 
+Klafter, R.D., 
+Chmielewski, T.A, 
+Negin, M, 
+PHI 
+2007 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No.
+Link ID 
+1 
+https://nptel.ac.in/courses/107106090 
+2 
+https://nptel.ac.in/courses/112105249 
+3 
+https://nptel.ac.in/courses/112101098 
+4 
+https://nptel.ac.in/courses/112107289 
+
+ 
+ 
+SEMESTER S7 
+NANOELECTRONICS 
+Course Code 
+PEERT 744 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the challenges of scaling of devices to Nano-meter scales 
+2. To apply quantum mechanics in materials and quantum devices 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Nano electronics-Review of MOSFETs- Band diagram-
+operation-threshold voltage- current-MOSFET parameters. 
+ 
+Challenges going to sub-100 nm MOSFETs-Technological and physical 
+limits of Nanoelectronic systems, characteristic lengths 
+ 
+Scaling and short channel effects-Length, Oxide layer thickness, tunneling, 
+power density, non-uniform dopant concentration, threshold voltage scaling, 
+hot electron effects, sub-threshold current, velocity saturation, DIBL, and 
+channel length modulation. 
+ 
+9 
+2 
+Novel MOS Devices and Performance Optimization  
+ 
+Silicon-on-insulator devices--FD SOI, PD SOI 
+ 
+Multiple gate MOSFETs--Double gate MOSFETs, FinFETs, Nanowires 
+ 
+9 
+
+ 
+ 
+ 
+Multi Gate MOSFET performance optimization: Fins, Fin Width, Fin 
+Height and Fin Pitch, Fin Surface Crystal Orientation, Fins on Bulk Silicon, 
+Nano-wires. Gate Stack, Gate Patterning, Threshold Voltage and Gate Work 
+function requirements. 
+ 
+3 
+Quantum Transport  
+Atomistic view of electrical Resistance-Energy level diagram- What makes 
+electrons flow- The quantum of conductance - Potential profile- Coulomb 
+blockade - Towards Ohm’s law 
+ 
+Schrodinger equation- Method of finite differences – Examples (particle in 
+a box only)  
+Band structure- 1-D examples- General result with basis- 2-D example 
+Sub bands- Quantum wells, wires, dots, graphene, and “carbon nanotubes” -
+- Density of states-Minimum resistance of a wire 
+ 
+Ballistic to Diffusive Transport-Landauer formula, Landauer-Buttiker 
+formula.  Ballistic and Diffusive transport – transmission. 
+ 
+9 
+4 
+Applications of Quantum mechanics and Quantum devices 
+ 
+Tunneling and applications of quantum mechanics- Solution of 
+Schrodinger equation: Free space, Potential well, tunneling through a 
+potential barrier. Potential energy profiles for material interfaces 
+ 
+Hetero junctions -Modulation-doped hetero junctions- SiGe strained 
+heterostructures- MODFET- Resonant Tunnelling-Resonant Tunneling 
+transistor. 
+ 
+Single electron devices –Coulomb blockade in a Nano capacitor, tunnel 
+junctions, Double tunnel junction--Coulomb staircase, Single electron 
+transistor. 
+ 
+Spintronics-Transport of spin, GMR-TMR,applications, Spin Transistor 
+ 
+ 
+9  
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks,ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the challenges of scaling of electron devices to Nano meter 
+scales 
+K2 
+CO2 
+Design novel transistor devices to reduce the short channel effects and 
+improve performance 
+K3 
+CO3 
+Outline the Nano scale quantum  transport in Nano electronic devices 
+from atom to transistor 
+K2 
+CO4 
+Apply quantum mechanics in materials and quantum devices 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals of 
+Modern VLSI Devices 
+Yuan Taur, Tak H Ning 
+Cambridge University 
+Press,  
+Second 
+edition 
+2009 
+2 
+Nanoelectronics and 
+Nanosystems 
+Karl Goser· Peter GlÖsekötter· 
+Jan Dienstuhl 
+Springer-Verlag Berlin 
+Heide1berg  
+First 
+Edition, 
+2004 
+3 
+Nanotechnology for 
+microelectronics and 
+optoelectronics,  
+J M Martinez Duart, R J Martin 
+Palma, F Agullo Rueda 
+Elsevier,  
+First 
+Edition, 
+2006 
+4 
+FinFETs and Other 
+multigate Transistors 
+J-P Colinge 
+Springer 
+First 
+Edition, 
+2008 
+5 
+Quantum Transport 
+Atom to Transistor 
+Supriyo Datta 
+Cambridge University 
+Press 
+First 
+Edition, 
+2005 
+6 
+Fundamentals of nano 
+electronics,  
+George W.Hanson, 
+Pearson Education. 
+First 
+Edition 
+2009 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals of Carrier Transport 
+Mark Lundstrom 
+Cambridge University 
+Press 
+Second 
+Edition, 
+2000 
+2 
+High Dielectric Constant materials 
+VLSI MOSFET Applications,  
+H R Huff, D C 
+Gilmer, 
+Springer 
+First 
+Edition, 
+2004 
+3 
+Nanoelectronics and nanosystems 
+From Transistors to Molecular and 
+Quantum Devices 
+Karl Goser· Peter 
+GlÖsekötter· Jan 
+Dienstuhl 
+Springer 
+First 
+Edition, 
+2004 
+4 
+NANOSCALE TRANSISTORS 
+Device Physics, Modeling and 
+Simulation 
+Mark S. Lundstrom, 
+Jing Guo 
+Springer 
+First 
+Edition, 
+2006 
+5 
+Fundamentals of Ultra-Thin-Body 
+MOSFETs and FinFETs 
+Jerry G. Fossum, 
+Vishal P. Trivedi 
+Cambridge University 
+Press 
+First 
+Edition, 
+2013 
+6 
+Introduction to Nanotechnology 
+Charles P Poole jr. 
+Frank J Owens 
+John Wiley and Sons 
+First 
+Edition, 
+2003 
+7 
+Introduction to Quantum 
+Mechanics 
+David J Griffiths, 
+Darrel F schroetter 
+Cambridge University 
+Press 
+Third 
+Edition, 
+2018 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/117108047, https://nanohub.org/resources/5328 
+2 
+https://nptel.ac.in/courses/117108047 
+3 
+https://nptel.ac.in/courses/117107149,  https://nanohub.org/resources/8086, 
+https://nanohub.org/courses/FON1, https://nanohub.org/resources/5306 
+4 
+https://nptel.ac.in/courses/117107149, https://nanohub.org/resources/8086 
+
+ 
+ 
+SEMESTER S7 
+BLOCKCHAIN TECHNOLOGIES 
+Course Code 
+PEERT 746 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Data structures, 
+Operating systems. 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Illustrate the cryptographic building blocks of blockchain technology. 
+2. To understand the function of blockchains, understanding why/when it is better than a simple 
+distributed database. 
+3. Summarize the classification of consensus algorithms. 
+4. Explain the use of smart contracts and its use cases. 
+5. Develop simple applications using Solidity language on Ethereum platform. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Fundamentals of Cryptography 
+Introduction to Cryptography, Symmetric cryptography – AES. Asymmetric 
+cryptography – RSA. Elliptic curve cryptography, Digital signatures – RSA 
+digital signature algorithms. Secure Hash Algorithms – SHA-256. 
+Applications of cryptographic hash functions – Merkle trees, Distributed 
+hash tables 
+Fundamentals of Blockchain Technology 
+Blockchain – Definition, architecture, elements of blockchain, benefits and 
+limitations, types of blockchain.  
+9 
+2 
+Consensus Algorithms  
+Consensus – definition, types, consensus in blockchain. 
+9  
+
+ 
+ 
+Consensus Algorithms, Crash fault-tolerance (CFT) algorithms – Paxos, 
+Raft. Byzantine faulttolerance (BFT) algorithms – Practical Byzantine Fault 
+Tolerance (PBFT), Proof of work (PoW), Proof of stake (PoS), Types of PoS 
+Bitcoin 
+Bitcoin – Definition, Cryptographic keys – Private keys, public keys, 
+addresses. Transactions – Lifecycle, coinbase transactions, transaction 
+validation. Blockchain – The genesis block. Mining – Tasks of miners, 
+mining algorithm, hash rate. Wallets – Types of wallets 
+3 
+Smart Contracts and Use cases 
+Smart Contracts – Definition, Smart contract templates, Oracles, Types of 
+oracles, Deploying smart contracts. Use cases of Blockchain technology – 
+Government, Health care, Finance, Supply chain management. Blockchain 
+and allied technologies – Blockchain and Cloud Computing, Blockchain and 
+Artificial Intelligence. 
+9  
+4 
+Ethereum and Solidity 
+Ethereum – The Ethereum network. Components of the Ethereum ecosystem 
+– Keys and addresses, Accounts, Transactions and messages. The Ethereum 
+Virtual Machine, Blocks and blockchain. The Solidity language – The layout 
+of a Solidity source code, Structure of a smart contract, variables, data types, 
+control structures, events, inheritance, libraries, functions, error handling. 
+Smart contracts Case study: Voting, Auction. 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks,ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the fundamentals of cryptography and block chain 
+K2 
+CO2 
+Analyse how the various consensus algorithms ensure security and 
+reliability in blockchain networks. 
+K4 
+CO3 
+Learn about the concept of smart contracts and their applications. 
+K2 
+CO4 
+Identify and discuss potential applications of blockchain technology in 
+various sectors 
+K4 
+CO5 
+Study real-world examples of successful blockchain implementations 
+and their impact. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Mastering Blockchain: A deep dive 
+into distributed ledgers, consensus 
+protocols, smart contracts, DApps, 
+cryptocurrencies,Ethereum, and more, 
+Imran Bashir 
+Packt Publishing 
+Third 
+edition 
+2020 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Block Chain in Action 
+Bina Ramamurthy 
+Mnning Publication 
+First edition& 
+2020 
+2 
+Solidity Programming 
+Essentials: A beginner's guide 
+to build smart contracts for 
+Ethereum and blockchain 
+Ritesh Modi 
+Packt Publication 
+First 
+edition&2018.
+4 
+Blockchain Technology: 
+Concepts and Applications 
+Kumar Saurabh, 
+Ashutosh Saxena 
+Wiley Publication 
+First 
+Edition&2020
+. 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+Blockchain Demo (andersbrownworth.com) 
+ 
+2 
+Blockchain.com Explorer | BCH | ETH | BCH 
+ 
+3 
+Remix - Ethereum IDE 
+4 
+Ethereum Transactions Information | Etherscan 
+ 
+
+ 
+ 
+SEMESTER S7 
+NETWORK SECURITY 
+Course Code 
+PEERT 745 
+CIE Marks 
+40 
+Teaching Hours/Week (L: 
+T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the fundamental concepts and importance of network security. 
+2. To learn and apply various cryptographic techniques for securing data. 
+3. To explore and analyze different network security protocols and their applications. 
+4. To identify and mitigate various network threats and vulnerabilities. 
+5. To examine advanced topics in network security, including intrusion detection systems, 
+wireless security, and emerging security challenges. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Fundamentals of network security - Introduction to Network Security, 
+Understanding Security: Confidentiality, Integrity, Availability (CIA Triad), 
+Threats, Vulnerabilities, and Attacks: Types and Examples, Security Policies 
+and Mechanisms, Network Security Technologies and Devices - Firewalls: 
+Types, Configurations, and Best Practices, Intrusion Detection and Prevention 
+Systems (IDS/IPS), Virtual Private Networks (VPNs): Concepts and Uses, 
+Access Control and Authentication - Access Control Models: DAC, MAC, 
+RBAC, 
+Authentication 
+Methods: 
+Passwords, 
+Biometrics, 
+Two-Factor 
+Authentication, Authorization and Accounting Concept 
+9 
+2 
+Cryptography and Secure Communications - Introduction to Cryptography, 
+Symmetric Key Cryptography: Algorithms (AES, DES), Modes of Operation, 
+9 
+
+ 
+ 
+Encryption and Decryption Processes, Asymmetric Cryptography and Key 
+Management- Public Key Cryptography: RSA, Diffie-Hellman, Digital 
+Signatures and Certificates, Public Key Infrastructure (PKI) and Key 
+Management, Hash Functions and Message Authentication- Hash Functions: 
+SHA, MD5 – Concepts and Applications, Message Authentication Codes 
+(MAC) and HMAC, Secure Email: PGP and S/MIME 
+3 
+Network Security Protocols and Applications 
+Secure Network Protocols - Secure Socket Layer (SSL) and Transport Layer 
+Security (TLS), Secure Shell (SSH): Concepts and Uses, IP Security (IPsec): 
+Architecture and Protocols, Web and Email Security, HTTP Security: HTTPS, 
+Secure Cookies, and Content Security Policy, Email Security Threats and 
+Solutions, Web Application Security: OWASP Top 10, Wireless and Mobile 
+Security, Wireless Security Protocols: WEP, WPA, WPA2, WPA3, Mobile 
+Device Security Challenges and Solutions, Bluetooth and Near Field 
+Communication (NFC) Security 
+9 
+4 
+Advanced Topics in Network Security - Intrusion Detection and Prevention, 
+Types of Intrusions and Attack Patterns, Host-based and Network-based 
+IDS/IPS, Anomaly Detection and Signature-Based Detection, Types of 
+Malware: Viruses, Worms, Trojans, Ransomware, Malware Detection and 
+Removal Techniques, Threat Intelligence and Cybersecurity Frameworks
+Malware and Threat Analysis -  Cloud Security: Challenges and Solutions, 
+Emerging Trends and Future Directions - Internet of Things (IoT) Security 
+Concerns, Artificial Intelligence and Machine Learning in Security, Blockchain 
+Technology for Secure Transactions 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Evaluation Methods: 
+1. Experiments may be done using following Software and Tools: (10 marks) 
+: 
+ 
+Wireshark: For network traffic analysis. 
+ 
+Nmap: For network scanning and vulnerability assessment. 
+ 
+OpenSSL: For implementing and testing cryptographic functions. 
+ 
+Snort: For intrusion detection and prevention. 
+ 
+VirtualBox/VMware: For creating virtualized network environments. 
+ 
+Kali Linux: A Linux distribution specialized for digital forensics and penetration testing. 
+ 
+ 
+1. Setting Up a Secure Network Environment Using Virtual Machines 
+2. Configuring a Basic Firewall and Monitoring Network Traffic 
+3. Implementing User Authentication and Access Control in a Network 
+4. Implementing Symmetric Encryption Using OpenSSL 
+5. Creating and Using Digital Certificates with OpenSSL 
+6. Generating and Verifying Hashes and Digital Signatures 
+7. Establishing Secure Connections Using SSH and TLS 
+8. Configuring HTTPS for a Web Server and Implementing Basic Web Security 
+Measures 
+9. Securing a Wireless Network and Assessing Vulnerabilities 
+10. Setting Up and Configuring Snort IDS for Network Monitoring 
+11. Conducting Basic Malware Analysis in a Controlled Environment 
+12. Case Study Presentation on an Emerging Network Security Topic 
+ 
+ 
+
+ 
+ 
+Criteria for Evaluation: Course Project (10 marks) 
+1. Project Proposal and Planning (2 marks) 
+● 
+Submits a well-defined project proposal outlining objectives, methodology, and 
+expected outcomes. 
+● 
+Demonstrates thorough planning and a clear timeline for the project. 
+2. Design and Implementation (3 marks) 
+● 
+Implements the project design accurately using appropriate tools and techniques. 
+● 
+The design is functional and meets the project objectives. 
+2. Innovation and Creativity (2 marks) 
+● 
+Introduces innovative ideas or unique approaches in the design and implementation. 
+● 
+Demonstrates creativity in solving problems or optimizing designs. 
+2. Analysis and Testing (2 marks) 
+● 
+Effectively analyzes the project design to identify and address any issues. 
+● 
+Conducts thorough testing to verify the functionality and performance of the design. 
+2. Final Report and Presentation (1 mark) 
+● 
+Submits a comprehensive final report detailing the project, including objectives, 
+design, methodology, analysis, and results. 
+● 
+Clearly presents the project and its outcomes, and effectively communicates the key 
+points. 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+(8x3 =24marks) 
+ 
+2 questions will be given from each module, 
+out of which 1 question should be answered. 
+Each question can have a maximum of 3 sub 
+divisions. Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply cryptographic techniques and protocols to secure network 
+communications and ensure data confidentiality, integrity, and 
+authenticity. 
+K3 
+CO2 
+Configure and manage network security devices and software, such as 
+firewalls, IDS/IPS, and VPNs, to protect network infrastructures. 
+K3 
+CO3 
+Identify and respond to security incidents and network breaches by 
+conducting 
+threat 
+analysis 
+and 
+implementing 
+appropriate 
+countermeasures. 
+K2 
+CO4 
+Evaluate emerging network security challenges and technologies, 
+proposing solutions to complex security problems in modern network 
+environments. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+2 
+ 
+ 
+3 
+3 
+ 
+ 
+ 
+ 
+3 
+3 
+CO2 
+3 
+2 
+ 
+ 
+3 
+3 
+ 
+ 
+ 
+ 
+3 
+3 
+CO3 
+3 
+2 
+ 
+ 
+3 
+3 
+ 
+ 
+ 
+ 
+3 
+3 
+CO4 
+3 
+2 
+ 
+ 
+3 
+3 
+ 
+ 
+ 
+ 
+3 
+3 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Network Security Essentials: 
+Applications and Standards 
+William Stallings 
+Pearson 
+7th Edition, 
+2022 
+2 
+Cryptography and Network 
+Security: Principles and Practice 
+William Stallings 
+Pearson 
+8th Edition, 
+2023 
+3 
+Computer Security: Principles 
+and Practice" 
+William Stallings and 
+Lawrie Brown 
+Pearson 
+5th Edition, 
+2021 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The Network Security Test 
+Lab: A Step-by-Step Guide 
+Michael Gregg 
+Wiley 
+2nd 
+Edition, 
+2022 
+2 
+Applied 
+Network 
+Security 
+Monitoring: 
+Collection, 
+Detection, and Analysis 
+Chris Sanders and Jason 
+Smith 
+Syngress 
+1st Edition, 
+2018 
+3 
+Hacking Exposed 7: Network 
+Security Secrets and Solutions 
+Stuart McClure, Joel 
+Scambray, and George 
+Kurtz 
+ 
+McGraw-Hill 
+Education 
+7th Edition, 
+2020 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106105031 
+2 
+https://onlinecourses.nptel.ac.in/noc22_cs90/preview 
+
+ 
+ 
+SEMESTER S7 
+WEB PROGRAMMING 
+Course Code 
+PEERT 751 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Learn how servers and web browsers communicate. 
+2. Learn how to use HTML elements to construct well-structured web pages. 
+3. Explore advanced CSS methods such as animations, transitions, and responsive design. 
+4. Learn how to write PHP scripts to handle form submissions and perform server-side 
+processing. 
+5. Learn how to integrate HTML, CSS, PHP, and MySQL to create dynamic and interactive web 
+applications. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+WWW: Web Basics, URI’s & URL, Search Engine Optimization (SEO), 
+Analytics, Domain Names & Hosting, Ftp & Third party tools  
+HTML5: Introduction to HTML5, Basic Structure for HTML, Basic HTML 
+tags-Headings, Hyper Links, Images, Special Characters and Horizontal 
+Rules, Lists, Tables, Forms, Internal Linking, Meta Elements, HTML5 Form 
+Input Types, Input and Data List Elements, Autocomplete Attribute, Page 
+Structure Elements, Multimedia-HTML5 Audio & video elements 
+8 
+2 
+Introduction to Stylesheets : Introduction to CSS-Basic syntax and structure-
+Inline, Internal and External Styles, Embedded Style Sheets, Conflict 
+Resolution, Linking External Style Sheets-Exploring CSS Selectors-
+Properties, values, Positioning Elements: Absolute Positioning, Relative 
+7 
+
+ 
+ 
+Positioning,  Backgrounds,List Styles,Element Dimensions, Table Layouts-
+Box Model and Text Flow-div and span, Basics of Responsive CSS, Media 
+port & Media Queries.  
+3 
+JavaScript:Introduction, Examples of JavaScript in browser, Basic JavaScript 
+Instructions: Statements, Comments, Variable, Data Types, Arrays, 
+Expressions, Operators, Functions and Objects, Variable Scope, Object, 
+Arrays are objects, Browser Object Model, DOM, Global Objects: String, 
+Number, Math, Date. Decision Making and Loops: if statement, if…else 
+statement, switch statement, Loops: Key Concepts, for loops, while loops, do 
+while loops; DOM: Document Object Model (DOM),Working with DOM 
+tree, Accessing Elements, Nodelists, Selecting Elements: Using Class 
+Attribute, Tag Name, CSS Selector, repeating actions for an entire nodelist, 
+Looping through a Nodelist, Traversing the DOM, Adding or Removing 
+HTMLcontent, Update Text and Markup, Adding/Removing Elements, 
+Event Handling: Different event types and ways to bind an event to an 
+element: using DOM Event Handlers, using Event listeners, using 
+Parameters with Event Listeners; the Event Object, Event Delegation, User 
+Interface Events, Event Bubbling 
+ECMAScript: Versions, Features, Introduction, Var Declarations and 
+Hoisting, let declaration, Constant declaration, Function with default 
+parameter values, Default parameter expressions, Unnamed parameters, the 
+spread operator, arrow functions, object destructuring, array destructuring, 
+sets and maps, Array.find(), Array.findIndex(), template strings, Javascript 
+classes, callbacks, promises, async/await  
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+4 
+PHP: Introduction, Building blocks of PHP, Variables, Data Types Simple 
+PHP program, Converting between Data Types, Operators and Expressions, 
+Flow Control functions, Control statements, Working with Functions, 
+Initialising and Manipulating Arrays, Objects, String Comparisons,String 
+processing with Regular Expression 
+Advanced PHP: Form processing and Business Logic, Cookies, Sessions, 
+MySQL Integration: Connecting to MySQL with PHP, Performing 
+CREATE, DELETE, INSERT, SELECT and UPDATE operations on 
+MySQL table, Working with MySQL data, Reading from Database Dynamic 
+Content. 
+10 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Comprehend the principles of the WWW and create web pages using 
+HyperText Markup Language (HTML)  
+K3 
+CO2 
+Implement Cascading Style Sheet to apply style in HTML pages 
+K3 
+CO3 
+Add functionality to web pages by using Java Script 
+K3 
+CO4 
+Construct websites using advanced sever side programming tool PHP  
+K3 
+CO5 
+Use PHP to create dynamic web pages and perform MySQL database 
+operations 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Internet and World Wide Web 
+How To Program 
+Paul J. Deitel, Harvey M. 
+Deitel, Abbey Deitel 
+Pearson Education 
+5th Edition, 
+2012 
+2 
+HTML and CSS: Design and 
+Jon Duckett 
+Wiley 
+2011 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO1
+0 
+PO1
+1 
+PO1
+2 
+CO1 
+1 
+1 
+- 
+- 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO2 
+1 
+1 
+- 
+- 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO3 
+2 
+2 
+- 
+- 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO4 
+2 
+2 
+- 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO5 
+2 
+3 
+2 
+1 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+
+ 
+ 
+Build Websites 
+3 
+JavaScript and JQuery : 
+Interactive Front–End Web 
+Development 
+Jon Duckett 
+Wiley 
+2014 
+4 
+Understanding ECMAScript 6: 
+The Definitive Guide for 
+JavaScript Developers 
+Nicholas C. Zakas 
+William Pollock 
+2016 
+5 
+ PHP, MySQL & JavaScript All 
+in One 
+Julie C. Meloni 
+Pearson - Sams 
+Publishing 
+5th edition, 
+2017 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Programming the World Wide 
+Web 
+Robert W Sebesta 
+Pearson  
+8th Edition, 
+2015  
+2 
+PHP 6 and MySQL 5 for 
+Dynamic Web Sites: Visual 
+QuickPro Guide 
+Larry Ullman 
+Pearson 
+5th Edition, 
+2017 
+3 
+The Joy of PHP: A Beginner's 
+Guide to Programming 
+Interactive Web Applications 
+with PHP and mySQL 
+Alan Forbes 
+Plum Island 
+6th Edition, 
+2020 
+4 
+Head First PHP & MySQL 
+Lynn Beighley & 
+Michael Morrison 
+O’Reilly 
+1st Edition, 
+2009 
+5 
+PHP: A Beginner’s Guide 
+Vikram Vaswani 
+McGraw-Hill 
+Education 
+1st Edition, 
+2008 
+6 
+Learning PHP, MySQL, 
+JavaScript, CSS & HTML5 
+Robin Nixon 
+O’Reilly 
+2nd Edition, 
+2012 
+ 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106106156/ 
+2 
+https://www.php.net/ 
+3 
+https://www.mysql.com/ 
+4 
+https://www.w3schools.com/php/ 
+5 
+https://www.w3schools.com/sql/ 
+
+ 
+ 
+SEMESTER S7 
+LOW POWER VLSI 
+Course Code 
+PEERT 752 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Students will be able to understand the fundamental principles of power dissipation in digital 
+integrated circuits and the impact of power consumption on modern VLSI design 
+2. Students will be able to explore various low power design techniques and methodologies for 
+minimizing power consumption in digital circuits, such as voltage scaling, power gating, and 
+clock gating. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Physics of Power dissipation in MOSFET devices 
+Need for low power circuit design, MIS Structure 
+Deep submicron transistor design issues: Short channel effects 
+Channel Length Modulation, Surface scattering, Punch through, Velocity 
+saturation, Impact ionization, Hot electron effects, Body Effect, Narrow 
+width effect, Vth roll-off, Drain Induced Barrier Lowering, Gate Induced 
+drain leakage, Tunnelling Through Gate Oxide, Subthreshold Leakage 
+Current, 
+Emerging Technologies for Low Power: 
+Hi-K Gate Dielectric, Lightly Doped Drain–Source, Silicon on Insulator. 
+9 
+2 
+Sources of power dissipation in digital ICs – 
+Dynamic Power Dissipation:  
+Short Circuit Power: Short Circuit Current of Inverter, Short circuit current 
+9 
+
+ 
+ 
+dependency on input rise and fall time, Variation of short circuit current with 
+load capacitance. 
+Switching power dissipation: Switching Power of CMOS Inverter, Switching 
+activity and its effects. Glitching Power: Glitches and its effect on power 
+dissipation 
+Static Power Dissipation:  
+Sources of Leakage Power, Effects of Vdd and Vton speed, Constraints on Vt 
+Reduction. 
+3 
+Low-Power Design Approaches- 
+Supply Voltage Scaling for Low Power: 
+Effect of Supply Voltage on Delay and Power, Effect of Supply Voltage on 
+Static and Dynamic Power, Multi VDD, Dynamic VDD, Dynamic Voltage 
+and 
+Frequency 
+Scaling 
+(DVFS) 
+Approaches. 
+Architectural 
+Level 
+Approaches: Pipelining and Parallel Processing  
+Leakage power reduction Techniques: 
+Effect of Threshold Voltage on Leakage Power, Transistor stacking, 
+MTCMOS, VTCMOS, Power gating& Clock gating Techniques. 
+9 
+4 
+Circuit Design Styles for Low Power- 
+Non-clocked circuit design style: Fully Complementary logic. NMOS and 
+Pseudo–NMOS logic, Differential Cascode Voltage Switch logic(DCVS)  
+Clocked design style: Basic concept, Dynamic Logic, Domino logic, 
+Differential Current Switch Logic. 
+Adiabatic switching – Adiabatic charging, Adiabatic amplification, 
+Adiabatic logic gates, Pulsed power supplies. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub-
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course, students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the Impact of Technology Scaling on Power Dissipation 
+and Short Channel Effects 
+K2 
+CO2 
+Identify Different Sources of Power Dissipation in Digital ICs 
+K2 
+CO3 
+Apply Power Management Approaches in Digital ICs 
+K3 
+CO4 
+Utilize Clocked and Non-Clocked Design Styles and Adiabatic 
+Switching for Power Management 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+ Design of Analog CMOS 
+Integrated Circuits 
+Behzad Razavi 
+McGraw-Hill 
+2/e, 2002 
+2 
+CMOS: Circuits Design, 
+Layout and Simulation,  
+Baker, Li, Boyce 
+Prentice Hall 
+India, 
+ 
+2000 
+3 
+Microelectronic Circuits  
+Sedra & Smith 
+ Oxford 
+University Press  
+6/e,2017 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and Year 
+1 
+CMOS Analog Circuit 
+Design,  
+Phillip E. Allen, 
+Douglas R. Holbery 
+ Oxford 
+University 
+Press 
+3/e 
+2 
+Fundamentals of 
+Microelectronics 
+Behzad Razavi 
+Wiley 
+student 
+Edition 
+2014 
+3 
+ Analysis and Design of 
+Analog Integrated Circuits 
+Meyer Gray , Hurst, 
+Lewis 
+Wiley  
+5/e, 2009 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+www.youtube.com/@b_razavi,  www.youtube.com/@analogicdesign-iitm5234 
+2 
+www.youtube.com/@b_razavi,  www.youtube.com/@analogicdesign-iitm5234 
+3 
+www.youtube.com/@b_razavi,  www.youtube.com/@analogicdesign-iitm5234 
+4 
+Switching Circuits and Logic Design by Prof. Indranil SenguptaLectures 47-51 
+
+ 
+ 
+SEMESTER S7 
+REAL TIME OPERATING SYSTEM 
+Course Code 
+PEECT 753 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Introduce Real Time Operating Systems, its basic structure, building blocks and various 
+operations 
+ 
+2. Summarize the different scheduling algorithms used in RTOS. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Real-Time Systems 
+Overview of Real-Time Systems: Definition and types of real-time 
+systems, Hard vs. soft real-time systems. Basic Concepts: Real-time tasks 
+and their characteristics, Task scheduling, Timing constraints and 
+requirements. RTOS Architectures: Monolithic kernels vs. microkernels. 
+RTOS examples: commercial vs Open RTOS and their comparison, 
+examples. Inter-Process Communication (IPC): Shared memory, Message 
+passing. 
+RTOS Environment Setup:  Installation and setup of an RTOS on a 
+microcontroller (e.g., ARM Cortex-M), Task Creation and Management:  
+Writing simple tasks, Task states and transitions, Scheduling and Context 
+Switching: Implementing basic scheduling algorithms, Demonstrating 
+context switching with example tasks 
+ 
+9 
+2 
+Real-Time Scheduling and Synchronization 
+ 
+
+ 
+ 
+Real-Time Scheduling Algorithms: Fixed-priority scheduling (Rate-
+Monotonic, Deadline-Monotonic), Dynamic priority scheduling (Earliest 
+Deadline First), Priority based preemption, Round Robin, Task 
+Synchronization: Mutual exclusion, Priority inversion and inheritance 
+Inter-Task Communication: Semaphores, Mutexes, Event flags 
+Implementing Scheduling Algorithms: Practical implementation of 
+scheduling, Synchronization Mechanisms: Practical implementation of  
+semaphores and mutexes in task synchronization, Demonstrating priority 
+inversion 
+and 
+its 
+mitigation: 
+Real-Time 
+Task 
+Communication: 
+Implementing inter-task communication using queues and mailboxes 
+9 
+3 
+Real-Time System Design and Analysis  
+System Design Principles: Modular design, Time-triggered vs. event-
+triggered systems, Worst-Case Execution Time (WCET) Analysis: 
+Techniques for WCET estimation, Timing analysis, Reliability and Fault 
+Tolerance: Redundancy, Error detection and recovery. 
+Designing a Real-Time System: Case study: Designing a real-time control 
+system, WCET Analysis Tools: Using tools for WCET analysis and timing 
+verification, Implementing Fault Tolerance: Practical implementation of 
+redundancy and error recovery mechanisms 
+9 
+4 
+Real-Time Operating System Services and Applications  
+Real-Time Operating System Services: Memory management, I/O 
+management. Real-Time Middleware: Middleware services for real-time 
+systems, Case Studies and Applications: Automotive systems, Aerospace 
+and defense, Medical devices 
+Memory Management in RTOS: Implementing dynamic memory 
+allocation, 
+Real-Time 
+Middleware 
+Implementation: 
+Developing 
+middleware components for a real-time application 
+Case Study 
+Implementation: Implementing a real-time system for a specific application 
+(e.g., real-time data acquisition) 
+ 
+9 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each module. 
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out of 
+which 1 question should be answered.  
+ Each question can have a maximum of 3 sub divisions. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+ Understand the fundamental concepts and characteristics of real-time 
+systems. 
+K1, K2 
+CO2 
+Analyze and implement real-time scheduling algorithms and techniques.
+K4 
+CO3 
+Conduct worst-case execution time (WCET) analysis for real-time 
+tasks. 
+K3, K4 
+CO4 
+Utilize RTOS services and middleware for developing real-time 
+applications 
+K3,K4 
+CO5 
+Develop practical real-time applications in various domains such as 
+automotive, aerospace, and medical devices. 
+K3, K5, K6 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Real-Time Operating Systems 
+Book 1: The Theory 
+Jim Cooling 
+CreateSpace 
+Independent Publishing 
+Platform 
+1st 2018 
+2 
+Real-Time Systems: Theory and 
+Practice 
+Rajib Mall 
+ 
+Pearson Education 
+2007 
+3 
+Real-Time Systems: Design 
+Principles for Distributed 
+Embedded Applications 
+Hermann Kopetz 
+Springer 
+2nd 2011 
+4 
+Embedded Systems: Real-Time 
+Operating Systems for Arm 
+Cortex-M Microcontrollers 
+Jonathan W. Valvano 
+CreateSpace 
+Independent Publishing 
+Platform 
+3rd, 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Real-Time Systems 
+ C. M. Krishna, Kang G. 
+Shin,  
+McGraw-Hill 
+2010 
+2 
+Real-Time Systems 
+Jane W. S. Liu 
+Pearson Education 
+2009 
+3 
+Real-Time Systems Design and Analysis 
+Philip A. Laplante, 
+Seppo J. Ovaska,  
+Wiley 
+2012 
+4 
+Embedded Systems with ARM Cortex-
+M 
+Microcontrollers 
+in 
+Assembly 
+Language and C 
+Yifeng Zhu 
+E-Man 
+Press LLC 
+ 
+ 
+3rd , 2017 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No.
+Link ID 
+1 
+https://elearn.nptel.ac.in/shop/iit-workshops/completed/lab-workshop-on-embedded-
+rtos/?v=c86ee0d9d7ed 
+https://onlinecourses.nptel.ac.in/noc21_cs98/preview 
+2 
+https://elearn.nptel.ac.in/shop/iit-workshops/completed/lab-workshop-on-embedded-
+rtos/?v=c86ee0d9d7ed 
+3 
+https://elearn.nptel.ac.in/shop/nptel/real-time-operating-system/?v=c86ee0d9d7ed 
+https://onlinecourses.nptel.ac.in/noc21_cs98/preview 
+4 
+https://elearn.nptel.ac.in/shop/iit-workshops/completed/lab-workshop-on-embedded-
+rtos/?v=c86ee0d9d7ed 
+
+ 
+ 
+SEMESTER S7 
+CLIENT SERVER ARCHITECTURE  
+Course Code 
+PEERT 754 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+Understand fundamental concepts of Web Services including   
+1. Client Server systems  
+2. system models of distributed systems  
+3. networks that distributed systems run on  
+4. communication protocols between processes in distributed systems  
+5. Middleware  
+6. Enterprise Application integration  
+7. Web Services Security  
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction: Introduction to Client/Server computing - Driving forces 
+behind Client/ Server, Client/ Server development tools, Development of 
+client/server systems, Client/Server security, Organizational Expectations, 
+Improving performance of client/server applications, Single system image, 
+Downsizing and Rightsizing, Advantages of client server computing, 
+Applications of Client/Server. 
+7 
+2 
+Client/ Server Application and Network: Classification of Client/Server 
+Systems- Two-Tier Computing, Middleware, Three-Tier Computing- Model 
+View Controller (MVC), Principles behind Client/Server Systems. 
+Client/Server Topologies. Existing Client/Server Architecture. Architecture 
+for Business Information System..  
+8 
+
+ 
+ 
+Client- Services, Request for services, RPC, Windows services, Print 
+services, Remote boot services, other remote services, Utility Services  
+Server- Detailed server functionality, Network operating system, Available 
+platforms, Server operating system. 
+3 
+Client/ Server Systems Development: Services and Support- System 
+administration, Availability, Reliability, Scalability, Observability, Agility, 
+Serviceability. Software Distribution, Performance, Network management. 
+Remote Systems Management- RDP, Telnet, SSH, Security. LAN and 
+Network Management issues, Training, Connectivity, Communication 
+interface technology, Interprocess communication, Wide area network 
+technologies, Network Acquisition, PC-level processing unit, X-terminals, 
+Server hardware. 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+4 
+Client/Server Technology and Web Services: Web Services History. Web 
+Server Technology- Web Server, Web Server Communication, Role of Java 
+for Client/Server on Web. Web Services- MicroServices, APIs, API 
+Gateway, Authentication of users/clients, Tokens/Keys for Authentication, 
+Service Mesh, Message Queues, SaaS, Web Sockets.Client/Server/Browser – 
+Server Technology, Client/Server Technology and Web Applications, 
+Balanced Computing and the Server’s Changing Role. 
+8 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+
+ 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, 
+out of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the basics of client/server systems and the driving force behind 
+the development of client/server systems 
+K2 
+CO2 
+Outline the architecture and classifications of client/server systems  
+K2 
+CO3 
+Choose the appropriate client/server network services for a typical 
+application 
+K2 
+CO4 
+Describe management services and issues in network  
+K2 
+CO5 
+Compare and summarize the web extensions and choose appropriate 
+web services standards for an application  
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO1
+0 
+PO1
+1 
+PO1
+2 
+CO1 
+1 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO2 
+1 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO3 
+2 
+2 
+- 
+- 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO4 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+CO5 
+2 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Client/ Server Computing  
+Patrick Smith & Steave 
+Guengerich 
+Sam Publishers 
+2nd Edition, 
+1994 
+2 
+Client/ Server Computing  
+Dawna Travis Dewire 
+Mc Graw Hill 
+1993 
+3 
+An Indroduction to Client/ 
+Server Computing 
+Subash Chandra Yadhav, 
+Sanjay Kumar Sigh 
+New Age International 
+Publishers 
+1st Edition, 
+2009 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Guide to Client- Server 
+Application & Architecture  
+Jerffrey D Schank  
+Novell Press 
+1994 
+2 
+Client/ Server Survival Guide  
+Robert Orfali , Dan 
+Harkey , Jeri Edwards 
+Wiley Indian Edition 
+ 3rd Edition, 
+1996 
+3 
+Client/ Server Applications  
+W H Inman 
+ 
+ 
+4 
+Client/ Server Computing 
+Dawna Travis Dewire 
+Mc Graw Hill 
+1993 
+5 
+Developing Client/ Server 
+Application  
+W H Inman 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/105/106105084/ 
+2 
+https://www.geeksforgeeks.org/client-server-architecture-system-design/ 
+3 
+https://intellipaat.com/blog/what-is-client-server-architecture/ 
+4 
+https://www.tutorialspoint.com/client-server-computing 
+5 
+https://www.simplilearn.com/what-is-client-server-architecture-article 
+ 
+
+ 
+ 
+SEMESTER S7 
+SPEECH AND AUDIO PROCESSING 
+Course Code 
+PEECT 756 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+4/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To impart the basic concepts of speech signal processing  
+2. To familiarize the auditory mechanism and speech perception 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Speech Production: - Acoustic theory of speech production- -Source/Filter 
+model - Pitch, Formant, Spectrogram-- Discrete model for speech 
+production, Articulatory Phonetics -Acoustic Phonetics- Basic speech units 
+and their classification. 
+ 
+9 
+2 
+Short-Time Speech Analysis, Windowing, STFT, spectra of windows- Wide 
+and narrow band spectrogram -Time domain parameters (Short time energy, 
+short time zero crossing Rate, ACF). Frequency domain parameters-Filter 
+bank analysis. STFT Analysis. Prosody of speech. MFCC-computation, LPC 
+Model, Pitch and Formant Estimation. 
+ 
+9 
+3 
+ Speech Enhancement:  Spectral subtraction and Filtering, Harmonic 
+filtering, parametric resynthesis. Speaker Recognition: Speaker verification 
+and speaker identification- log-likelihood.  Machine learning models in 
+Speaker Recognition. Language identification: implicit and explicit models.   
+9 
+4 
+Signal Processing models of audio perception: Basic anatomy of hearing 
+System: Basilar membrane behaviour.   Sound perception:  Auditory Filter 
+Banks, Critical Band Structure, Absolute Threshold of Hearing, Masking-
+Simultaneous Masking, Temporal Masking. Models of speech perception 
+ 
+9 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+ 2 Questions from each module. 
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out of 
+which 1 question should be answered.  
+ Each question can have a maximum of 3 sub divisions. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+To describe the fundamental concepts, principles, and theories of speech
+production 
+K1 
+CO2 To analyse the speech signal in the time and frequency domain 
+K2 
+CO3 To apply speech processing concepts in real-world applications 
+K3 
+CO4 
+To describe the fundamental concepts, principles, and theories of hearing
+mechanism  
+K1 
+CO5 
+To develop applications by combining concepts of speech production and 
+hearing mechanism  
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+ 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Speech 
+Communications: 
+Human and Machine, 2nd 
+Edition 
+Douglas O'Shaughnessy 
+Wiley-IEEE Press 
+2nd edition 
+2 
+Discrete-Time Speech Signal 
+Processing: 
+Principles 
+and 
+Practice 
+Thomas F. Quatieri 
+Prentice-Hall Signal 
+Processing Series 
+2001 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Digital Processing of Speech 
+Signals 
+ 
+Rabinar 
+Pearson 
+2003 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+2 
+3 
+3 
+3 
+3 
+ 
+2 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No.
+Link ID 
+1 
+Speech and Audio Processing 1: Introduction to Speech Processing - Professor E. Ambikairajah 
+https://www.youtube.com/watch?v=Xjzm7S__kBU 
+2 
+Speech Analysis - Professor E. Ambikairajah 
+https://www.youtube.com/watch?v=Y_mSQ7tTlvQ&t=38s 
+3 
+Speech and Audio Processing 1: Introduction to Speech Processing - Professor E. Ambikairajah 
+https://www.youtube.com/watch?v=Xjzm7S__kBU 
+4 
+Video Links available  on hearing anatomy 
+
+ 
+ 
+SEMESTER S7 
+NEURAL NETWORKS AND DEEP LEARNING 
+Course Code 
+PEERT 755 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2Hr.30 Min. 
+Prerequisites (if any) 
+None 
+ 
+Elective 
+ 
+Course Objectives: 
+1. To introduce the fundamental concepts of neural networks, including their structure, function, 
+and basic training algorithms. 
+2. To provide an understanding of deep learning concepts, architectures, and key techniques for 
+training deep neural networks. 
+3. To explore advanced neural network architectures and techniques, including optimization 
+methods and regularization techniques. 
+4. To explore real-world applications of deep learning and discuss the latest trends and future 
+directions in the field. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Neural Networks: Overview of Artificial Neural Networks 
+(ANNs), Biological Neurons vs. Artificial Neurons, Applications of Neural 
+Networks, Neuron Model: Activation Functions (Sigmoid, ReLU, Tanh), 
+Single-layer 
+Perceptron: 
+Theory 
+and 
+Implementation, 
+Multi-layer 
+Perceptrons 
+(MLPs), 
+Backpropagation 
+Algorithm: 
+Concepts 
+and 
+Mathematical Foundations 
+9 
+2 
+Deep Learning Fundamentals:  Introduction to Deep Learning, Differences 
+Between Shallow and Deep Networks, Convolutional Neural Networks 
+(CNNs): Architecture and Applications, Pooling Layers and Feature Maps, 
+9 
+
+ 
+ 
+Training Deep Networks: Vanishing and Exploding Gradients, Recurrent 
+Neural Networks (RNNs): Architecture and Applications, Long Short-Term 
+Memory (LSTM) Networks 
+3 
+Advanced Neural Network Architectures: Autoencoders: Concept, 
+Architecture, 
+and 
+Applications, 
+Variational 
+Autoencoders 
+(VAEs), 
+Generative Adversarial Networks (GANs): Theory and Architecture, 
+Applications of GANs in Image Generation and Data Augmentation, 
+Optimization 
+Techniques: 
+Gradient 
+Descent, 
+Adam, 
+RMSprop, 
+Regularization Methods: Dropout, Batch Normalization 
+9 
+4 
+Applications and Emerging Trends in Deep Learning: Deep Learning in 
+Computer Vision: Object Detection, Segmentation, Deep Learning in 
+Natural Language Processing: Word Embeddings, Transformers, Deep 
+Reinforcement Learning: Concepts and Applications, Emerging Trends: 
+Federated Learning, Explainable AI,  
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Evaluation Methods: 
+1. Experiments Using Software Tools: (10 marks) 
+ 
+Introduction to Neural Network Libraries (e.g., TensorFlow, Keras) 
+Building a Simple Perceptron Model 
+Implementing Backpropagation in a Neural Network 
+Implementing Deep Neural Networks with Keras 
+
+ 
+ 
+Building and Training a CNN for Image Classification 
+Implementing an RNN for Sequence Prediction 
+Implementing an Autoencoder for Data Compression 
+Implementing a Simple GAN for Image Generation 
+Applying Regularization Techniques to Improve Model Performance 
+Implementing a Transformer Model for Text Classification 
+2. Criteria for Evaluation: Course Project (10 marks) 
+ 
+1. Project Proposal and Planning (2 marks) 
+● 
+Submits a well-defined project proposal outlining objectives, methodology, and 
+expected outcomes. 
+● 
+Demonstrates thorough planning and a clear timeline for the project. 
+2. Design and Implementation (3 marks) 
+● 
+Implements the project design accurately using appropriate tools and techniques. 
+● 
+The design is functional and meets the project objectives. 
+2. Innovation and Creativity (2 marks) 
+● 
+Introduces innovative ideas or unique approaches in the design and implementation. 
+● 
+Demonstrates creativity in solving problems or optimizing designs. 
+2. Analysis and Testing (2 marks) 
+● 
+Effectively analyzes the project design to identify and address any issues. 
+● 
+Conducts thorough testing to verify the functionality and performance of the design. 
+2. Final Report and Presentation (1 mark) 
+● 
+Submits a comprehensive final report detailing the project, including objectives, 
+design, methodology, analysis, and results. 
+● 
+Clearly presents the project and its outcomes, and effectively communicates the key 
+points. 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+ 
+ 
+
+ 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each 
+question can have a maximum of 3 sub divisions. 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Analyze and implement the basic structure and functioning of neural 
+networks and apply the backpropagation algorithm for training. 
+K3 
+CO2 
+Demonstrate the ability to design, train, and evaluate deep neural 
+network architectures, including Convolutional Neural Networks and 
+Recurrent Neural Networks. 
+K2 
+CO3 
+Evaluate and apply advanced neural network architectures, including 
+Autoencoders and Generative Adversarial Networks, to solve real-
+world problems, and optimize models using advanced techniques such 
+as regularization and optimization algorithms. 
+K4 
+CO4 
+Synthesize knowledge of deep learning applications in fields like 
+computer vision, natural language processing, and reinforcement 
+learning. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO1
+0 
+PO1
+1 
+PO1
+2 
+CO1 
+3 
+2 
+ 
+ 
+3 
+2 
+ 
+ 
+ 
+ 
+3 
+2 
+CO2 
+3 
+2 
+ 
+ 
+3 
+2 
+ 
+ 
+ 
+ 
+3 
+2 
+CO3 
+3 
+2 
+ 
+ 
+3 
+2 
+ 
+ 
+ 
+ 
+3 
+2 
+CO4 
+3 
+2 
+ 
+ 
+3 
+2 
+ 
+ 
+ 
+ 
+3 
+2 
+
+ 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Deep Learning  
+Ian Goodfellow, 
+Yoshua Bengio, and 
+Aaron Courville 
+MIT Press 
+1stEdition, 
+2016 
+ 
+2 
+Deep Learning: A 
+Practitioner's Approach 
+Adam Gibson and Josh 
+Patterson 
+O'Reilly Media 
+1stEdition, 
+2020 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Neural Networks: A 
+Comprehensive Foundation 
+Simon Haykin 
+Prentice Hall 
+2ndEdition
+, 1998 
+2 
+Deep Learning for Computer 
+Vision 
+Rajalingappaa 
+Shanmugamani 
+Packt Publishing 
+2ndEdition
+2022 
+3 
+Neural Networks and Deep 
+Learning: A Textbook 
+Charu C. Aggarwal 
+Springer 
+2nd 
+Edition, 
+2024 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/117105084 
+2 
+https://nptel.ac.in/courses/106106184 
+3 
+https://nptel.ac.in/courses/106106184 
+4 
+https://nptel.ac.in/courses/106106184 
+
+ 
+ 
+SEMESTER S7 
+SENSORS AND INSTRUMENTATION

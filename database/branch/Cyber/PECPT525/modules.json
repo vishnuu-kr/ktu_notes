@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Fundamental Cloud Computing: Traditional computing- Limitations.\nOverview of Computing Paradigms-Grid Computing, Cluster Computing,\nDistributed Computing, Utility Computing, Cloud Computing. NIST\nreference Model-Basic terminology and concepts. Cloud characteristics,\nbenefits and challenges, Roles and Boundaries. Cloud delivery (service)\nmodels-Infrastructure-as-a-Service(IaaS),Platform-as-\naService(PaaS),Software-as-a-Service\n(SaaS),\nXaaS\n(Anything-as-a-\nservice)-Cloud deployment models- Public cloud, Community cloud,\nPrivate cloud, Hybrid cloud.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to virtualization-Virtualizing physical computing resources,\nVirtual Machines (Machine virtualization), non-virtualized v/s virtualized\nmachine environments. Types of VMs-process VM v/s system VM,\nEmulation,\ninterpretation\nand\nbinary\ntranslation.\nHardware-\nlevelvirtualization-Hypervisors/VMM.Typesof\nHypervisors.\nFull\nVirtualization, Para-Virtualization, Hardware-assisted virtualization, OS\nlevel virtualization. Basics of Network Virtualization, Storage Virtualization\nand Desktop Virtualization, Pros and cons of virtualization.CaseStudy- Xen:\nPara-virtualization, VMware: full virtualization.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Cloud-Enabling Technologies, Private cloud platforms and Security:\nBroadband networks and internet architecture- Internet Service Providers\n(ISPs), Data centre technology, Web technology, Multitenant technology,\nService technology. Resource provisioning techniques-static and dynamic\nprovisioning. Open-source software platforms for private cloud-OpenStack,\nCloudStack, Basics of Eucalyptus, Open Nebula, Nimbus.\nBasic terms and concepts in security: Threat agents, Cloud security\nthreats/risks, Trust. Operating system security-Virtual machine security-\nSecurity of virtualization- Security Risks Posed by Shared Images, Security\nRisks Posed by Management OS.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Popular\nCloud\nPlatforms:Amazon\nWeb\nServices(AWS):-\nAWS\necosystem- Computing services, Amazon machine images, Elastic\nCompute Cloud (EC2), Advanced compute services. Storage services-\nSimple Storage System (Amazon S3), Elastic Block Store (Amazon EBS),\nDatabase Services, Amazon CDN Services and Communication services.\nGoogle Cloud Platform:- IaaS Offerings: Compute Engine (GCE), Cloud\nStorage, PaaS Offerings: Google App Engine (GAE), Storage services,\nApplication services, Compute services, Database Services, SaaS\nOfferings: Gmail, Docs, Google Drive.\nMicrosoft Azure: Azure Platform Architecture, Hyper-V, Azure Virtual\nMachine, Compute services, Storage services",
+    "contact_hours": "9"
+  }
+]

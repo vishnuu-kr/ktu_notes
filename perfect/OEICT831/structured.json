@@ -1,0 +1,81 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Automation introduction Control Systems and Automation Strategy",
+            "Evolution of instrumentation and control",
+            "Role of automation in industries",
+            "Benefits of automation",
+            "Introduction to Descriptive automation tools PLC",
+            "SCADA",
+            "Hybrid DCS/PLC",
+            "Automation strategy evolution",
+            "Control system audit",
+            "and performance criteria"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction",
+            "frame structure",
+            "programming",
+            "implementation examples",
+            "benefits",
+            "advantages and limitation. Foundation Fieldbus H1: Introduction",
+            "frame structure",
+            "programming",
+            "implementation examples",
+            "benefits",
+            "advantages and limitation. Comparison of HART",
+            "Foundation Fieldbus",
+            "Device net",
+            "Profibus",
+            "Controlnet",
+            "Industrial Ethernet"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Programmable logic controllers (PLC) Introduction",
+            "architecture",
+            "definition of discrete state process control",
+            "PLC Vs PC",
+            "PLC Vs DCS",
+            "relay diagram",
+            "ladder diagram",
+            "ladder diagram examples",
+            "relay sequencers",
+            "timers/counters",
+            "high speed counter",
+            "PWM and PID blocks in PLC",
+            "PLC design",
+            "study of at least one industrial PLC"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Networking fundamentals Advance Applications of PLC and SCADA",
+            "PLC programming methods as per IEC 61131",
+            "PLC applications for batch process using SFC",
+            "Analog Control using PLC",
+            "PLC interface to SCADA/DCS using communication links (RS232",
+            "RS485) and protocols (Modbus ASCII/RTU) Distributed Control Systems DCS introduction",
+            "functions",
+            "advantages and limitations",
+            "DCS as an automation tool to support Enterprise Resources Planning",
+            "DCS Architecture of different makes",
+            "Latest trends and developments"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

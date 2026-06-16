@@ -1,0 +1,103 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "1D Signals - A general introduction to real time signals - CT and DT signals",
+      "Sinusoids",
+      "Spectrum representation",
+      "Sampling and Aliasing (Concept only",
+      "Analog frequency and Digital frequency. Elementary sequences- Real Sinusoidal Sequences",
+      "Complex Exponential Sequences. - Unit impulse",
+      "step and ramp sequences",
+      "Representation of discrete time signals- (Graphical representation",
+      "Functional representation",
+      "Sequence representation) Properties of DT Signals - Even and Odd",
+      "Periodic and non periodic signal",
+      "Energy and Power signals. Periodicity and Symmetry property of DT signals",
+      "support of sequences",
+      "Bounded Sequences. Operations on Signals - Time shifting (Translation",
+      "Time Reversal (Reflection",
+      "Time scaling - Upsampling and downsampling DTFS - Determining the Fourier-Series Representation of a Sequence",
+      "Properties of Discrete-Time Fourier Series - Linearity",
+      "Translation (Time Shifting",
+      "Modulation (Frequency Shifting",
+      "Reflection (Time Reversal",
+      "Conjugation",
+      "Duality",
+      "Multiplication",
+      "Parseval’s Relation",
+      "Even/Odd symmetry",
+      "Real sequence. (Practice of Visualization of a discrete time signal and operations on the DT signal using python. Demonstration of sampling and reconstruction using Python/Matlab"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Discrete-Time Fourier Transform for Aperiodic Sequences - Properties of the Discrete-Time Fourier Transform (Periodicity",
+      "Linearity",
+      "Translation (Time Shifting",
+      "Modulation (Frequency-Domain Shifting",
+      "Conjugation",
+      "Time Reversal",
+      "Convolution",
+      "Multiplication",
+      "Frequency-Domain Differentiation",
+      "Differencing",
+      "Parseval's theorem",
+      "Even/Odd symmetry",
+      "real sequences) DTFT of periodic sequences - Frequency Spectra of Sequences",
+      "Bandwidth of Sequences",
+      "Energy density spectra",
+      "Characterizing LTI Systems Using the Fourier Transform"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Discrete time systems - Block diagram representation and mathematical representation of discrete-time systems-Some common elements of Discrete-time systems (adder",
+      "constant multiplier",
+      "signal multiplier",
+      "unit delay",
+      "unit advance",
+      "Recursive DT systems and non recursive discrete time systems",
+      "Relaxed system",
+      "Linearity and time invariance property of a DT system. Discrete time LTI systems - Discrete time convolution",
+      "Properties of Convolution",
+      "Characterizing LTI Systems and Convolution - Impulse response of an LTI system",
+      "Difference equation",
+      "Properties of an LTI system - Causality",
+      "Memory",
+      "Invertibility",
+      "BIBO Stability",
+      "Eigen Sequences/ eigen functions for discrete-Time LTI Systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Z transform - motivation for z transform",
+      "Relationship Between z Transform and Discrete-Time Fourier Transform",
+      "Region of Convergence for the z Transform. Properties of z transform - Translation (Time Shifting",
+      "Complex Modulation (z-Domain Scaling",
+      "Conjugation",
+      "Time Reversal",
+      "Upsampling (Time Expansion",
+      "Downsampling",
+      "Convolution",
+      "z-Domain Differentiation",
+      "Differencing",
+      "Initial and Final Value Theorems Determination of the Inverse z Transform LTI systems and difference equations",
+      "Characterizing LTI systems using z transform",
+      "Transfer function of an LTI system. Solving Difference Equations Using the Unilateral z Transform Block Diagram Representation of Discrete-Time LTI Systems",
+      "Interconnection of LTI systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

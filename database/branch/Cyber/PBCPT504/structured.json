@@ -1,0 +1,64 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Basic elements of Real-Time Signal Processing Systems",
+      "Analog Interface- Sampling",
+      "Quantization and encoding",
+      "Smoothing filters",
+      "data converters",
+      "DSP hardware- DSP hardware options",
+      "Digital signal processors",
+      "Fixed point and floating point processors",
+      "Real time constraints",
+      "DSP System Design - Algorithm development",
+      "Selection of DSP hardware",
+      "software development and tools"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Introduction to a popular DSP from Texas Instruments",
+      "CPU Architecture",
+      "CPU Data Paths and Control",
+      "Timers",
+      "Interrupts",
+      "Internal Data/ Program Memory",
+      "External Memory Interface",
+      "pipelining",
+      "Number system (Fixed and floating point format",
+      "Fixed point Instruction Set and Addressing Modes",
+      "TMS 320C67XX CPU Simple programming examples using C and assembly"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "FIR & IIR Digital Filter Design",
+      "filter Design programs using MATLAB",
+      "Fourier Transform: DFT",
+      "FFT programs using MATLAB"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Sine wave generators- Lookup table method",
+      "linear Chirp signal",
+      "Noise generators- Linear Congruential Sequence generator",
+      "Pseudo random binary sequence generator",
+      "White colour and Gaussian noise",
+      "DTMF Generation and Detection-DTMF Generator and Detector. Project based learning  The objective of Project based learning to strengthen the understanding of student’s fundamentals through effective application of theoretical concepts. Projects can help to boost student’s skills and widen the horizon of their thinking.  The ultimate aim of an engineering student is to resolve a problem by applying theoretical knowledge.  In the beginning",
+      "students shall be given an awareness and/or guideline on how to implement and learn this course through a project and form groups in the first few weeks.  Each group should identify a project that can be done to understand a part of the contents of this course and perform a literature survey.  Choose a suitable platform for your application and the input output devices to be interfaced.  Develop the block diagram and present before the jury within first month after the commencement of classes.  Implement necessary hardware and software to develop the prototype.  Prepare a report and present before the jury for final evaluation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

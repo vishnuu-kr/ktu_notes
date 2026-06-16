@@ -1,0 +1,346 @@
+Course Code 
+PCRAT503 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide students with a comprehensive understanding of electric drives, their 
+components, and their applications, particularly in robotics.  
+2. To introduce students to various special electrical machines, their construction, working 
+principles, and their roles in modern automation systems. 
+3. To impart knowledge about power electronics components such as SCRs, controlled 
+rectifiers, DC-DC converters, and inverters, including their operation, control, and 
+protection. 
+4. To explore the control and operation of DC and AC motor drives, including closed-loop 
+control techniques and advanced methods for speed and torque control 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Introduction to Electric Drives: –Block diagram. Advantages, Uses in 
+Robotic Applications.  
+Introduction to Special Electrical Machines- DC servo motor, AC servo 
+motors, stepper motor- variable reluctance - permanent magnet- hybrid, 
+BLDC, PMSM- Construction, working and principle of operation 
+ 
+ 
+9 
+2 
+SCR: Structure, working, V-I and switching characteristics- Turn on 
+methods of SCR- Gate triggering circuits, R and RC triggering circuits, 
+line synchronised triggering – natural and forced commutation (concept 
+only). Protection of SCR. Requirements of isolation and synchronization 
+ 
+9 
+
+ 
+in gate drive circuits- Opto and pulse transformer-based isolation. 
+Controlled Rectifiers –Single phase fully controlled bridge rectifier with 
+R, RL and RLE loads (continuous & discontinuous conduction) – output 
+voltage equation. Three-phase fully controlled converter with RLE load 
+  
+3 
+DC-DC converters – Step down and step up choppers – control methods- 
+two-quadrant & four-quadrant chopper.  
+DC Motor drives- Solid state speed control of DC motors- Armature 
+control and field control, Single phase fully controlled converter drives 
+(Rectifier and inverter mode).  
+Chopper-controlled DC drives- Regenerative braking control- Four 
+quadrant chopper drives. Closed loop speed and torque control. 
+Inverters –– 1-phase full-bridge voltage source inverters inverter with R & 
+RL loads- 3-phase bridge inverter with R load – 120° & 180° conduction 
+mode. Voltage control in inverters– Pulse Width Modulation – single pulse 
+width, multiple pulse width & sine PWM-elimination of harmonics- Variable 
+Voltage Variable Frequency Drive (Block diagram only). 
+9 
+4 
+Control of Servomotors-Components of typical servo system-with DC and 
+brushless DC servo motor, Feedback system -Sizing of servomotors 
+Position control of Stepper motor- Drive circuit – modes of excitation- open 
+loop and closed loop control of Stepper Motor- applications 
+Permanent Magnet Motor drives- Speed control of BLDC motor- converter 
+circuits, modes of operation - applications. Speed control of PMSM-Self-
+control- Sensorless Control 
+Digital Control of Electric Drives: Digital Controllers; Microcontroller and 
+DSP-Based Control 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the construction, working principles, and applications of 
+special electrical machines such as DC servo motors, AC servo motors, 
+stepper motors, BLDC, and PMSM. 
+ K2 
+CO2 
+Analyze the operation, characteristics, and control methods of power 
+electronic components including SCRs, controlled rectifiers, DC-DC 
+converters, and inverters. 
+ K4 
+CO3 
+Apply knowledge of DC and AC motor drives to design and implement 
+speed and torque control systems using various control methods. 
+ K3 
+CO4 
+Design and simulate drive circuits for different types of motors, 
+including closed-loop control systems, using digital controllers such as 
+microcontrollers and DSPs. 
+ K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+ Power electronics converters 
+applications and design 
+Ned Mohan, Tore m 
+Undeland, William P 
+Robbins, 
+John Wiley and Sons. 
+Third 
+Edition, 
+2022 
+2 
+Power semiconductor control 
+drives 
+Dubey G. K. 
+Prentice Hall, 
+Englewood Cliffs, 
+New Jersey, 
+Third 
+Edition 
+3 
+Special Electrical Machines 
+E. G. Janardhanan 
+PHI Learning Private 
+Limited. 
+2014 
+4 
+Electrical machines 
+Nagarath.I.J& Kothari 
+.D.P 
+Tata McGraw-Hill. 
+1998 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Electric Drives: Concepts and 
+Applications
+Vedam Subrahmanyam 
+McGraw-Hill 
+Education
+2nd Edition 
+2001
+2 
+Fundamentals of Electric 
+Drives
+Gopal K. Dubey 
+Narosa Publishing 
+House
+2nd Edition, 
+2002
+3 
+Electric Motor Drives: 
+Modeling, Analysis, and 
+Control
+R.Krishnan 
+Prentice Hall 
+2st Edition 
+2001 
+4 
+Control of Electric Machine 
+Drive Systems
+Seung-Ki Sul 
+Wiley-IEEE Press 
+1st Edition, 
+2011
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO2 
+3 
+3 
+2 
+2 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO3 
+3 
+2 
+3 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO4 
+3 
+2 
+3 
+3 
+2 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+Fundamentals of Electric Drives by Prof. Shyama Prasad Das, IIT Kanpur: 
+https://onlinecourses.nptel.ac.in/noc22_ee94 
+NPTEL :: Electrical Engineering - NOC: Fundamentals of Electric Drives 
+2 
+Power Electronics by Prof. L. Umanand, IISc Bangalore 
+https://onlinecourses.nptel.ac.in/noc21_ee01/preview 
+3 
+Fundamentals of Electric Drives by Prof. Shyama Prasad Das, IIT Kanpur: 
+https://onlinecourses.nptel.ac.in/noc22_ee94 
+NPTEL :: Electrical Engineering - NOC: Fundamentals of Electric Drives 
+4 
+Control of Electrical Drives by Prof. K. R. Rajagopal, IIT Kharagpur 
+
+ 
+SEMESTER S5 
+ROBOT OPERATING SYSTEM

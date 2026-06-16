@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Visualization: Need and purpose, External representation:\nDifficulty in Validation, Data Abstraction, Dataset types: Attribute types,\nSemantics, Task Abstraction: Analyse, Produce, Search, Query, Four levels\nof validation: Validation approaches, Validation examples. Marks and\nChannels, Data Visualization tools.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Arrange tables: Categorical regions: Spatial axis orientation, Spatial layout\ndensity, Arrange spatial data:  Geometry, Scalar fields,Vector fields, Tensor\nfields. Arrange networks and trees: Connections, Matrix views, Containment,\nMap color: Color theory, Color maps and other channels",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "The R Environment - Command Line Interface and Batch processing, R\nPackages, Variables, Data Types, Vectors- vector operations and factor\nvectors, List- operations, Data Frames, Matrices and arrays, Control\nStatements- Branching and looping - For loops, While loops, Controlling\nloops. Functions- Function as arguments, Named arguments",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "The R Environment:\nImporting data from Text files and other software, Exporting data, importing\ndata from databases, Database Connection packages, Missing Data: NA,\nNULL, Transformations, Binning Data, Subsets, summarizing functions.\nData Cleaning: Finding and removing Duplicates, Sorting, Analyzing Data:\nSummary statistics, Statistical Tests: Continuous Data, Discrete Data, Power\ntests, Common distributions- type arguments. Probability distributions,\nNormal distributions\nSuggestion on Project Topics\n1.\nVisualizing Demographic Data\nUse R to import demographic data (e.g., census data) and create visualizations that highlight\npopulation distribution, age groups, education levels, and income categories across different\nregions.\n2.\nFinancial Market Analysis\nImport stock market data and create visualizations that help analyze market trends, price\nmovements, and trading volumes.\n3.\nVisualizing Traffic Patterns\nImport traffic data and visualize patterns of vehicle movement, congestion areas, and the\nimpact of different factors like time of day or weather.",
+    "contact_hours": "11"
+  }
+]

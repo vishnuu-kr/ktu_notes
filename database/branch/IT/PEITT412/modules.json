@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Data Communication Overview: Data Communications Model, Networks,\nThe Internet.\nData Transmission: Concepts and Terminology, Analog and Digital Data\nTransmission, Transmission Impairments, Channel capacity.\nTransmission Media: Guided Transmission Media, Wireless Transmission,\nWireless Propagation.",
+    "contact_hours": "6"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Signal Encoding Techniques: Digital Data to Digital Signals (NRZ-L,\nNRZ-I, Bipolar- AMI, Pseudo ternary, Manchester, Differential Manchester,\nScrambling techniques), Digital Data to Analog Signals (ASK, PSK, FSK),\nAnalog Data to Digital Signals (PCM, DM), Analog Data to Analog Signals.\nDigital\nData\nCommunication\nTechniques:\nAsynchronous\nand\nSynchronous Transmission, Types of Errors, Error Detection (parity check,\nCRC), Error Correction, Line Configurations.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Data Link Control Protocols: Flow Control, Error Control, Multiplexing -\nFrequency-Division\nMultiplexing,\nSynchronous\nTime-Division\nMultiplexing, Statistical Time-Division Multiplexing, Spread Spectrum -\nThe Concept of Spread Spectrum - Frequency Hopping Spread Spectrum,\nDirect Sequence Spread Spectrum, Code-Division Multiple Access.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Circuit Switching and Packet Switching: Switched Communications\nNetworks, Circuit-Switching Network, circuit switching concepts, softswitch\narchitecture, Packet Switching Principles.\nRouting in Packet-Switched Networks: Routing in Packet-Switching\nNetworks - Characteristics, Routing Strategies.\nWireless LANs: 802.11 Architecture and Protocol Stack, frame format,\nBluetooth- Bluetooth Architecture.\nCellular Wireless Networks: Principles of Cellular Networks",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "ROS Graph",
+            "ROS master",
+            "roscore",
+            "Catkin: Workspaces and ROS Packages",
+            "rosrun",
+            "Names",
+            "Namespaces",
+            "and Remapping Using roslaunch",
+            "tf: Coordinate Transforms - Poses",
+            "Positions",
+            "and Orientations",
+            "Publishing to a Topic",
+            "Subscribing to a Topic",
+            "Latched Topic",
+            "Defining Message Types",
+            "Mixing Publishers and Subscribers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Defining a Service",
+            "implementing a Service",
+            "Using a Service",
+            "Defining an Action",
+            "Implementing a Basic Action Server",
+            "Using an Action",
+            "Implementing a More Sophisticated Action Server",
+            "Using the More Sophisticated Action"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Subsystems - Actuation: Mobile Platform",
+            "Actuation: Manipulator Arm",
+            "Sensors",
+            "Computation Complete Robots - PR2",
+            "Fetch",
+            "Robonaut 2",
+            "TurtleBot",
+            "Simulators - Stage",
+            "Gazebo. Other Simulators"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Maps in ROS-representation and formats",
+            "SLAM (Simultaneous Localization and Mapping",
+            "rosbag and its functionalities",
+            "Recording and playing back data",
+            "Techniques for building maps from sensor data",
+            "GMapping and Cartographer for mapping",
+            "Map Server in ROS",
+            "Loading and serving maps",
+            "localization techniques (e.g",
+            "AMCL",
+            "Implementing localization in ROS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

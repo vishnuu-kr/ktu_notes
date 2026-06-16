@@ -1,0 +1,61 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Sinusoidal and non sinusoidal wave shapes",
+      "Principle and working of RC differentiating and integrating circuits",
+      "Applications of RC integrator and differentiator. Clipping circuits - Positive",
+      "negative and biased clipper. Clamping circuits - Positive",
+      "negative and biased clamper. Voltage multipliers- Voltage doubler and tripler. Batteries - types - comparison"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Review of simple Zener Voltage regulator",
+      "Shunt and series voltage regulator using transistors",
+      "3 pin regulators-78XX and 79XX",
+      "IC 723 and its use as low and high voltage regulators. Optoelectronic devices: Construction - Operation - Characteristics of LED",
+      "Photodiode",
+      "Phototransistors"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Introduction to Transistor Biasing",
+      "Operating point",
+      "concept of load line",
+      "thermal stability",
+      "voltage divider bias. RC coupled amplifier -voltage gain and frequency response. Multistage amplifiers - effect of cascading on gain and bandwidth"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Differential Amplifier",
+      "Characteristics of op-amps (gain",
+      "bandwidth",
+      "slew rate",
+      "CMRR",
+      "offset voltage",
+      "offset current",
+      "comparison of ideal and practical op-amp (IC 741) Applications of op amps- scale changer",
+      "sign changer",
+      "adder/summing amplifier",
+      "subtractor",
+      "integrator",
+      "differentiator",
+      "Wien bridge oscillator. Integrated circuits: Low pass and high pass active filters using op amp .Circuit diagram and working of Timer IC555",
+      "astable and monostable multivibrators using 555"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

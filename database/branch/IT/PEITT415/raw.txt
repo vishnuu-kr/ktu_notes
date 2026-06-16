@@ -1,0 +1,331 @@
+Course Code 
+PEITT415 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GAMAT301: Mathematics for 
+Information Science-3 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. This course introduces students to the fundamental concepts and methods of operations 
+research, focusing on applications in Information Technology.  
+2. Students will learn to model and solve real-world problems using OR techniques and tools. 
+3. Students will learn to model complex problems in diverse industries and use mathematical 
+optimization and simulation to solve them. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours 
+1 
+Modelling with Linear Programming: Two-Variable LP Model, Graphical 
+LP Solution, Linear Programming Applications - Investment, Production 
+Planning and Inventory Control, Workforce Planning, Urban Development 
+Planning - The Simplex Method - LP Model in Equation Form, The Simplex 
+Method - Iterative Nature of the Simplex Method, Computational Details of 
+the Simplex Algorithm-Artificial Starting Solution - M-Method, Two-Phase 
+Method. 
+9 
+2 
+ Special Cases in the Simplex Method:  Degeneracy, Alternative Optima, 
+Unbounded Solution, Infeasible Solution. Sensitivity Analysis - Algebraic 
+Sensitivity Analysis—Changes in the Right-Hand Side, Algebraic Sensitivity 
+Analysis—Objective Function, Sensitivity Analysis with TORA, Solver, and 
+AMPL. Computational Issues in Linear Programming. 
+Dual Problem: Definition of the Dual Problem, Primal–Dual Relationships. 
+9 
+3 
+Transportation 
+Model: 
+Definition 
+of 
+the 
+Transportation 
+Model, 
+Nontraditional Transportation Models, The Transportation Algorithm, 
+9 
+
+ 
+ 
+Determination of the Starting Solution, Iterative Computations of the 
+Transportation Algorithm. The Assignment Model - The Hungarian Method  
+4 
+Decision Analysis and Games:  Decision Making Under Certainty—
+Analytic Hierarchy Process (AHP), Decision Making Under Risk, Decision 
+Tree–Based Expected Value Criterion, Variants of the Expected Value 
+Criterion. Decision Under Uncertainty Game Theory - Optimal Solution of 
+Two-Person Zero-Sum Games. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Examination 
+(Written) 
+Evaluate Level 
+Assessment 
+Analyze Level 
+Assessment 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Evaluate and Analyze Level Assessment [20 Marks] 
+Students should evaluate and analyze a real-world optimization problem, assess the proposed 
+solutions, provide a conclusion on which solution is most appropriate for the problem, and 
+implement the chosen solution using Python. 
+ 
+Criteria for evaluation: 
+1. Problem Definition (K4 - 4 points) 
+a. Clearly defines the real-world optimization problem. 
+b. Examine and identifies relevant contextual factors (constraints, resources, 
+objectives). 
+2. Problem Analysis (K4 - 4 points) 
+a. Break-down and presents a well-reasoned solution approach. 
+b. Compare and justify the proposed solutions with evidence and logical 
+reasoning. 
+3. Evaluate (K5 - 4 points) 
+a. Thoroughly evaluate the proposed solutions. 
+b. Compares trade-offs, advantages, and disadvantages. 
+c. Considers feasibility, scalability, and practical implications. 
+4. Python Implementation (K5 - 4 points) 
+a. Select the most feasible solution by implementing the proposed solutions. 
+b. Successfully translates the chosen solution into Python code. 
+c. Demonstrates proficiency in coding practices (readability, efficiency, error 
+handling). 
+ 
+
+ 
+ 
+5. Conclusion (K4- 2 points, K5 – 2 points) 
+a. Summarizes findings and insights. State which solution is most appropriate 
+for the problem. (K4) 
+b. Reflects critical thinking and informed decision-making. (K5) 
+Scoring: 
+1. Accomplished (4 points): Exceptional analysis, clear implementation, and depth of 
+understanding. 
+2. Competent (3 points): Solid performance with minor areas for improvement. 
+3. Developing (2 points): Adequate effort but lacks depth or clarity. 
+4. Minimal (1 point): Incomplete or significantly flawed. 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 
+Questions 
+from 
+each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Formulate and solve linear programming problems using both 
+graphical methods and the Simplex Method, applying these techniques 
+to real-world scenarios. 
+K3 
+CO2 
+Analyze and resolve special cases in linear programming, such as 
+degeneracy, alternative optima, unbounded solutions, and infeasible 
+solutions, and perform sensitivity analysis to understand the impact of 
+changes in problem parameters. 
+K4 
+CO3 
+Apply transportation and network modeling techniques, including the 
+transportation algorithm, and the Hungarian method for assignment 
+problems 
+K3 
+CO4 
+Utilize decision analysis tools and game theory to make informed 
+decisions under certainty, risk, and uncertainty, employing methods 
+like the Analytic Hierarchy Process (AHP), decision trees, and 
+strategies for solving two-person zero-sum  
+K3 
+CO5 
+Evaluate any real-world problem and propose a solution using the 
+concepts learned in this course. 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Operations Research-An 
+Introduction 
+Hamdy A Thaha 
+Pearson Education 
+10th Edition 
+2017 
+2 
+Operations Research 
+T Veerarajan 
+Universities Press 
+2017 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher
+Edition and 
+Year
+1 
+Introduction to Operations 
+Research 
+Federick S Hiller, Gerald 
+J Lieberman 
+Tata McGraw Hill 
+9th Edition 
+2010 
+2 
+Operations Research 
+Prem Kumar Gupta & D 
+S Hira 
+S Chand Publishing 
+7th Edition 
+2014 
+3 
+Linear and Nonlinear 
+Programming 
+David G. Luenberger, 
+Yinyu Ye 
+Springer 
+5th Edition 
+2021 
+ 
+Video Links (NPTEL, SWAYAM…) 
+ No. 
+Link ID 
+1 
+https://onlinecourses.swayam2.ac.in/cec20_ma10/preview 
+2 
+https://onlinecourses.nptel.ac.in/noc22_ma48/preview 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+2 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO2 
+3 
+3 
+ 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO3 
+3 
+3 
+3 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO4 
+3 
+3 
+ 
+2 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+CO5 
+3 
+3 
+3 
+3 
+3 
+3 
+- 
+- 
+3 
+3 
+2 
+3 
+
+SEMESTER S3/S4 
+ECONOMICS FOR ENGINEERS

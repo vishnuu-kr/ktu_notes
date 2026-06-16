@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "System Verification – Hardware and Software Verification, Model\nChecking, Characteristics of Model Checking.\nTransition Systems – Transition System, Direct Predecessors and\nSuccessors, Terminal State, Deterministic Transition System.\nExecutions - Execution Fragment, Maximal and Initial Execution\nFragment, Execution, Reachable States.\nLinear-Time (LT) Properties - Deadlock. Linear-Time Behavior - Paths\nand State Graph, Path Fragment, Maximal and Initial Path Fragment,\nPath. Traces - Trace and Trace Fragment, LT Properties - LT Property,\nSatisfaction Relation for LT Properties, Trace Equivalence and LT\nProperties. Safety Properties and Invariants - Invariants, Safety\nProperties, Trace Equivalence and Safety properties. Liveness Properties\n- Liveness Property, Safety vs. Liveness Properties. Fairness - Fairness,\nUnconditional, Weak and Strong Fairness, Fairness Strategies, Fairness\nand Safety. (Definition and examples only for all topics - no proof\nrequired).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Regular Properties - Model Checking Regular Safety properties -\nRegular Safety property, Verifying Regular Safety Properties.\nAutomata on Infinite Words - ⍵ -Regular Languages and Properties,\nNondeterministic Buchi Automata (NBA), Deterministic Buchi\nAutomata (DBA),Generalised Buchi Automata (Definitions only).\nModel Checking ⍵ -Regular Properties - Persistence Properties and\nProduct, Nested Depth-First Search (Only algorithms required).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Linear Temporal Logic (LTL) - Syntax, Semantics, Equivalence of LTL\nFormulae, Weak Until, Release and Positive Normal Form, Fairness,\nSafety and Liveness in LTL (Definitions only). Automata Based LTL\nModel Checking (Algorithms and examples only).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction - Introduction to the tool Symbolic Analysis Laboratory\n(SAL). The Language of SAL - The expression language, The transition\nLanguage, The module language, SAL Contexts. SAL Examples - Mutual\nExclusion, Peterson’s Protocol, Synchronous Bus Arbiter, Bounded\nBakery protocol, Bakery Protocol, Traffic Signalling System.",
+    "contact_hours": "9"
+  }
+]

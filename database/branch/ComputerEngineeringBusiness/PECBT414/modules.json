@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of machine learning\nMachine learning paradigms-supervised, semi-supervised, unsupervised,\nreinforcement learning.\nBasics of parameter estimation - maximum likelihood estimation(MLE) and\nmaximum a posteriori estimation(MAP). Introduction to Bayesian\nformulation.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Supervised and Unsupervised Learning\nRegression - Linear regression with one variable, Linear regression with\nmultiple variables, solution using gradient descent algorithm and matrix\nmethod, basic idea of over fitting in regression. Linear Methods for\nClassification- Logistic regression, Perceptron, Naive Bayes, and Decision\ntree algorithm ID3.\nClustering - Similarity measures, Hierarchical Agglomerative Clustering, K-\nmeans partitional clustering, Expectation maximization (EM) for soft\nclustering. Dimensionality reduction –Principal Component Analysis, factor\nAnalysis, Multidimensional scaling, Linear Discriminant Analysis.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Neural Networks (NN) and Support Vector Machines (SVM)\nNN - Multilayer feed forward network, Activation functions (Sigmoid,\nReLU, Tanh), Back propagation algorithm. SVM - Introduction, Maximum\nMargin Classification, Mathematics behind Maximum Margin\nClassification, Maximum Margin linear separators, soft margin SVM\nclassifier, non-linear SVM,\nKernels for learning non-linear functions, polynomial kernel, Radial Basis\nFunction(RBF).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Classification Assessment and Genetic Algorithms\nClassification Performance measures - Precision, Recall, Accuracy, F-\nMeasure, Receiver Operating Characteristic Curve(ROC), Area Under\nCurve(AUC. Bootstrapping, Cross\nValidation, Ensemble methods, Bias-Variance decomposition. Case Study:\nDevelop a classifier for face detection.\nMotivation, Genetic Algorithms: Representing Hypotheses, Genetic\nOperator, Fitness Function and Selection, An Illustrative Example,\nHypothesis Space Search, Genetic Programming",
+    "contact_hours": "9"
+  }
+]

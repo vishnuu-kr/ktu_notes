@@ -1,0 +1,3070 @@
+Course Code 
+OEECT723 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Enable the learner to formulate engineering minima/maxima problems as optimization 
+problems  
+2. Enable the learner to deploy various constrained and unconstrained optimization algorithms to 
+obtain the minima/maxima of engineering problems 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Engineering application of Optimization – Statement of an Optimization 
+problem–Classification, Review of basic calculus concepts –Stationary 
+points; Functions of single and two variables; Convexity and concavity of 
+functions –Definition of Global and Local optima – Optimality criteria, 
+Linear programming methods for optimum design – Standard form of linear 
+programming (LP) problem; Canonical form of LP problem; Simplex 
+Method, Duality, Application of LPP models in engineering 
+ 
+9 
+2 
+Optimization algorithms for solving unconstrained nonlinear optimization 
+problems – Search based techniques: Direct search: Fibonacci and golden 
+section search , Hookes and Jeeves , Gradient based method: Newton’s 
+method 
+ 
+9 
+3 
+Optimization algorithms for solving constrained optimization problems– 
+direct methods – penalty function methods, barrier method  -Optimization of 
+function of multiple variables subject to equality constraints; Lagrangian 
+9 
+
+ 
+function– Inequality constrained techniques-KKT conditions-constrained 
+steepest descent method  
+4 
+Modern methods of Optimization– Metaheuristic techniques: Genetic 
+Algorithms – Simulated Annealing – Particle Swarm optimization –Ant 
+colony optimization– : Use of Matlab/Scilab  to solve optimization problem 
+ 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out of 
+which 1 question should be answered.  
+ Each question can have a maximum of 3 sub divisions. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Formulate an optimization problem to optimize an  engineering 
+application using the principles of basic calculus. 
+K2 
+CO2 
+Apply the Simplex method to solve a linear programming problem 
+K3 
+CO3 
+Solve the unconstrained optimization problems using gradient based 
+method. 
+K3 
+CO4 
+Apply the various optimization techniques to solve a constrained 
+optimization problem 
+K3 
+CO5 
+Use metaheuristic algorithms to solve constrained and unconstrained  
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Engineering 
+Optimization, 
+Theory and Practice 
+S.S RAO 
+New Age 
+International 
+Publishers 
+4th Edition 
+,2012 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3  
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Optimization Techniques and 
+Applications with Examples 
+Xin-She Yang 
+ John Wiley & Sons 
+2018 
+2 
+Optimization for Engineering 
+Design 
+Algorithms 
+and 
+Examples
+Deb K 
+ Prentice Hall India 
+2000  
+ 
+3 
+Introduction to Optimization 
+Design 
+Arora J 
+Elsevier Academic 
+Press,  New Delhi  
+ 2004 
+4 
+Linear Programming 
+Hardley G 
+Narosa  Book 
+Distributors Private  
+Ltd
+2002 
+5 
+Genetic 
+Algorithms 
+and 
+engineering optimization 
+Mitsuo Gen,  Runwei  
+Cheng 
+John Wiley & Sons 
+2002 
+6 
+An introduction to optimization 
+Edwin KP Chong, 
+Stanislaw,  H Hak 
+John Wiley & Sons 
+Fourth 
+Edition, 
+2013 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+NPTEL
+https://www.youtube.com/watch?v=a2QgdDk4Xjw 
+2 
+NPTEL
+https://www.youtube.com/watch?v=dPQKltPBLfc 
+3 
+NPTEL
+https://www.youtube.com/watch?v=qY-gKL7GxYk 
+4 
+NPTEL
+https://www.youtube.com/watch?v=Z_8MpZeMdD4 
+https://www.youtube.com/watch?v=FKBgCpJlX48 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEMESTER 8 
+Electronics Engineering (VLSI Design and 
+Technology) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S8 
+MEMORY DESIGN AND IN-MEMORY COMPUTING 
+Course Code 
+PEEVT 861 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCEVT503 VLSI 
+Technology
+Course Type 
+Elective 
+ 
+Course Objectives: 
+1. To provide an understanding of various memory types and their applications, emphasizing 
+SRAM cell design, optimization, and the principles of memory operation in integrated 
+circuits. 
+ 
+2. To enable students to design and evaluate DRAM and Flash memory systems, focusing on 
+cell design, refresh mechanisms, memory array organization, and the intricacies of 
+programming, erasing, and error correction. 
+ 
+3. To equip students with the skills to analyse timing and signal integrity in memory circuits, 
+and to apply power optimization techniques, including power-gating and clock-gating, to 
+enhance the efficiency of memory systems. 
+ 
+4. To explore in-memory computing techniques and emerging memory technologies, and to 
+understand their applications in non-volatile storage, scientific computing, signal processing, 
+and deep learning. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Memory Design: Overview of memory types and their 
+applications, Importance of memory design in integrated circuits, Basic 
+principles of memory operation. Static Random-Access Memory (SRAM): 
+SRAM cell design and optimization, Memory bit-cell stability and read/write 
+operations, SRAM array architecture and peripheral circuitry. 
+9 
+
+ 
+ 
+2 
+Dynamic Random-Access Memory (DRAM): DRAM cell design and refresh 
+mechanisms, 
+Memory 
+array 
+organization 
+and 
+addressing, 
+Timing 
+considerations in DRAM design. Flash Memory: NAND and NOR Flash 
+architectures, Programming and erasing mechanisms, Wear levelling and 
+error correction in Flash memory. 
+9 
+3 
+Timing and Signal Integrity: Setup and hold time analysis, Clock-to-q delay 
+considerations, Signal integrity challenges in memory circuits. Power 
+Optimization in Memory Systems: Active and standby power consumption 
+in memory, Power-gating and clock gating techniques, Low-power design 
+strategies for memory circuits. Emerging Memory Technologies: Overview 
+of emerging memory technologies. 
+9 
+4 
+In-memory computing: Memory devices and applications, Memory devices 
+and 
+computational 
+primitives, 
+Charge-based 
+memory 
+devices 
+& 
+Computational 
+primitives, 
+Resistance-based 
+memory 
+devices 
+& 
+Computational primitives, Phase change memory. Applications: Non-volatile 
+binary storage, Scientific computing, Signal processing & Optimization, 
+Deep learning. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+ 
+
+ 
+ 
+ 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand and design various memory types, including SRAM, by 
+applying fundamental principles of memory operation and optimizing 
+SRAM cell stability and array architecture. 
+K2 
+CO2 
+Design and analyse DRAM and Flash memory systems, focusing on cell 
+design, refresh mechanisms, array organization, and addressing, as well 
+as programming, erasing, and error correction techniques. 
+K4 
+CO3 
+Perform timing and signal integrity analysis in memory circuits and 
+apply power optimization techniques, including power-gating and clock-
+gating, to enhance the efficiency of memory systems. 
+K3 
+CO4 
+Explore and implement in-memory computing techniques and emerging 
+memory technologies, understanding their applications in non-volatile 
+storage, scientific computing, signal processing, and deep learning. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+VLSI Memory Chip Design 
+Kiyoo Itoh 
+Springer 
+2013 
+2 
+VLSI-Design of Non-Volatile 
+Memories. 
+G Campardo, R. 
+Micheloni, D. Novosel 
+Springer 
+2005 
+3 
+Extreme Statistics in Nanoscale 
+Memory Design 
+Amith Singhee, Rob A 
+Rutenbar 
+Springer 
+2010. 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Resistive Random Access 
+Memory (RRAM): From 
+Devices to  Array Architectures 
+Shimeng Yu 
+Springer Nature  
+2022 
+2 
+High-Bandwidth Memory 
+Interface 
+Chulwoo Kim, Hyun-
+Woo Lee, Junyoung 
+Song 
+Springer 
+2013 
+3 
+Memory Systems: Cache, 
+DRAM, Disk 
+Bruce Jacob, Spencer 
+Ng, David Wang 
+Morgan Kaufmann 
+2010 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+2 
+1 
+1 
+1 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+2 
+2 
+3 
+2 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+2 
+1 
+2 
+1 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+2 
+1 
+2 
+1 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/117/101/117101058/ 
+2 
+https://www.youtube.com/watch?v=OeRk8XZnk0s 
+3 
+https://onlinecourses.nptel.ac.in/noc24_ee67/preview 
+4 
+https://www.youtube.com/watch?v=BTnr8z-ePR4 
+
+ 
+ 
+SEMESTER S8 
+POWER SEMICONDUCTOR DEVICES 
+Course Code 
+PEEVT 862 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCEVT503    VLSI 
+Technology
+Course Type 
+Elective 
+ 
+Course Objectives: 
+1. To introduce the fundamental concepts and historical evolution of high-power circuit design, 
+emphasizing power levels, efficiency, and thermal considerations in various industrial 
+applications. 
+2. To provide an understanding of high-power design methodologies, focusing on techniques for 
+optimizing efficiency and reliability in circuits, and in-depth knowledge of power 
+semiconductor devices such as MOSFETs and IGBTs 
+3. To equip students with the principles and design considerations for high-frequency converters 
+and power amplifiers, including effective thermal management strategies for high-power 
+systems. 
+4. To explore real-world applications and case studies of high-power circuit designs, and to 
+investigate advanced topics and emerging trends to enhance efficiency and reliability in high-
+power systems. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to High Power Circuit Design: Overview of the importance of 
+high-power circuit design in various industries, Historical context and 
+evolution of high-power technologies, Introduction to key concepts: power 
+levels, efficiency, and thermal considerations. 
+9 
+2 
+Design Methodologies for High Power Applications: Principles of high-
+power design methodologies, Techniques for optimizing efficiency and 
+reliability in high-power circuits. 
+ Power Semiconductor Devices and Applications: In-depth study of power 
+semiconductor devices (MOSFETs, & IGBTs). Applications of power 
+9 
+
+ 
+ 
+devices in high-power circuits. 
+3 
+High-Frequency Converters and Power Amplifiers: Principles of high-
+frequency converters and power amplifiers, Design considerations and 
+challenges in high-frequency power conversion. Thermal Management in 
+High Power Systems: Principles of thermal management for high-power 
+circuits, Heat dissipation strategies and thermal modelling. 
+9 
+4 
+Applications of High-Power Circuit Design: Real-world applications of high-
+power circuit designs. Case studies: Analysing successful high-power system 
+implementations. Advanced Topics and Emerging Trends in High Power 
+Design: Emerging trends in high-power circuit design, Advanced 
+components and techniques for achieving higher efficiency and reliability. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the significance of high-power circuit design, including its 
+historical evolution, key concepts such as power levels, efficiency, and 
+thermal considerations relevant to various industries. 
+K2 
+CO2 
+Apply design methodologies for high-power applications, optimizing 
+efficiency and reliability by understanding the principles and 
+techniques associated with power semiconductor devices like 
+MOSFETs and IGBTs. 
+K3 
+CO3 
+Design and analyse high-frequency converters and power amplifiers, 
+addressing design considerations and challenges, and implement 
+effective thermal management strategies for high-power systems. 
+K4 
+CO4 
+Evaluate real-world applications of high-power circuit design through 
+case studies, and explore advanced topics and emerging trends to 
+enhance 
+efficiency 
+and 
+reliability 
+in 
+high-power 
+circuit 
+implementations 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+2 
+2 
+1 
+1 
+1 
+ 
+ 
+1 
+1 
+ 
+ 
+CO2 
+3 
+2 
+3 
+2 
+1 
+1 
+ 
+ 
+1 
+1 
+ 
+ 
+CO3 
+3 
+3 
+3 
+2 
+3 
+1 
+ 
+ 
+1 
+1 
+ 
+ 
+CO4 
+3 
+3 
+3 
+3 
+1 
+1 
+ 
+ 
+1 
+1 
+ 
+ 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals of High-
+Frequency CMOS Analog 
+Integrated Circuits. 
+Duran Leblebici, Yusuf 
+Leblebici 
+Cambridge 
+2009 
+2 
+High-Frequency Integrated 
+Circuits 
+Sorin Voinigescu 
+Cambridge 
+2013 
+3 
+The Design of CMOS Radio-
+Frequency Integrated Circuits  
+Thomas H. Lee 
+Cambridge 
+2003 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Transmission Lines: Equivalent 
+Circuits, Electromagnetic 
+Theory, and Photons 
+Richard Collier 
+Cambridge University 
+Press 
+2013 
+2 
+Dynamic Power Supply 
+Transmitters: Envelope 
+Tracking, Direct Polar, and 
+Hybrid Combinations 
+Earl McCune 
+Cambridge University 
+Press 
+2015 
+3 
+RF Circuit Design 
+Ludwig 
+Pearson 
+2011 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/117/106/117106089/ 
+2 
+www.digimat.in/nptel/courses/video/108108112/ 
+3 
+https://archive.nptel.ac.in/courses/108/102/108102157/ 
+4 
+https://archive.nptel.ac.in/courses/117/106/117106089/ 
+
+ 
+ 
+SEMESTER S8 
+MIXED SIGNAL CIRCUIT DESIGN 
+ 
+Course Code 
+PEEVT 863 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Analog VLSI design 
+(Course code)
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To give the knowledge about various analog and digital CMOS circuits 
+2. To impart the skill in analysis and design of analog and digital CMOS 
+circuits. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+CMOS Amplifiers- Common Source with diode connected loads and current 
+source load, CS stage with source degeneration, CG stage and Source 
+Follower (Only Voltage Gain and Output impedance of circuits) 
+Differential Amplifiers-Differential Amplifier with MOS current source 
+Load, with cascaded load and with current mirror load, MOS telescopic 
+cascode amplifier. (Only Voltage Gain and Output impedance of circuits) 
+11 
+2 
+Band 
+gap 
+References- 
+Supply 
+Independent 
+Biasing, 
+Temperature 
+independent references –band gap reference Phase Locked Loop – Simple 
+PLL , Basic PLL Topology, Charge Pump PLL, Basic Charge Pump PLL 
+9 
+3 
+Dynamic analog circuits – charge injection and capacitive feed through in 
+MOS switch, Reduction technique, Switched Capacitor Circuits- sample and 
+hold circuits, Switched Capacitor Integrator, Ladder filters 
+11 
+4 
+DAC Specifications-DNL, INL, latency, SNR, Dynamic Range, DAC 
+9 
+
+ 
+ 
+Architecture - Resistor String, Charge Scaling and Pipeline types. 
+ADC Specifications-Quantization error, Aliasing, SNR, Aperture error, ADC 
+Architecture- Flash and Pipe line types.  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+To analyse the CMOS amplifiers and differential amplifiers 
+K4 
+CO2 
+To understand the band gap references and PLL Concepts
+K2 
+CO3 
+To analyse the dynamic analog circuits and Switched capacitor circuits
+K4 
+CO4 
+To understand the DAC and ADC circuits 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+CMOS Analog Circuit Design 
+Phillip E. Allen, Douglas 
+R. Holbery 
+Oxford  
+2004. 
+2 
+Fundamentals of 
+Microelectronics 
+Razavi B.  
+Wiley student Edition 
+2014. 
+  
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+CMOS: 
+Circuits 
+Design, 
+Layout and Simulation 
+Baker, Li, Boyce 
+ 
+Prentice Hall India 
+ 
+2000 
+ 
+2 
+Design 
+of 
+Analog 
+CMOS 
+Integrated Circuits 
+Razavi B. 
+Mc Graw Hill 
+2001 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/117/101/117101105/ 
+2 
+https://www.youtube.com/watch?v=7xVSL93ZZq8&list=PLLDC70psjvq5vtrb0EdII4xIKA15e
+c-Ij&inde 
+3 
+https://www.youtube.com/watch?v=z5yaC4oEHLk 
+4 
+https://www.youtube.com/watch?v=8LuofneTOF8 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+ 
+ 
+SEMESTER S8 
+DIGITAL IMAGE PROCESSING 
+Course Code 
+PEEVT 864 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Signal Processing 
+(Course code) 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To study the image fundamentals and transforms necessary for image processing. 
+2. To familiarize different   image processing techniques 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Digital Image Fundamentals-Elements of visual perception, image sensing 
+and acquisition, image sampling and quantization, basic relationships 
+between pixels – neighborhood, adjacency, connectivity, distance measures. 
+Brightness, contrast, hue, saturation, mach band effect, Colour image 
+fundamentals-RGB, CMY, HIS models, 2D sampling, quantization. 
+9 
+2 
+Image Enhancement: Spatial domain methods: point processing-intensity 
+transformations, histogram processing, image subtraction, image averaging, 
+geometric transformation Sharpening filters – first and second derivative, 
+two-dimensional DFT and its inverse, frequency domain filters – low-pass 
+and high-pass. 
+9 
+3 
+Image segmentation: Classification of Image segmentation techniques, 
+region approach, clustering techniques. Classification of edges, edge 
+detection 
+Image restoration: Restoration Models, 
+Linear 
+Filtering 
+Techniques: Inverse and Wiener 
+9 
+4 
+Image Compression- Need for compression, redundancy, classification of 
+image compression schemes,–inter-pixel and psycho-visual; Lossless 
+compression – predictive, Lossy compression- predictive and transform 
+coding –DCT, (basics only); Still image compression standards – JPEG . 
+9 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the various concepts and mathematical transforms for 
+image transform  
+K2 
+CO2 
+Interpret the various image enhancement techniques 
+K2 
+CO3 
+Illustrate the image segmentation algorithm 
+K2 
+CO4 
+Summarise   basic image compression techniques 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Image Processing 
+Gonzalez Rafel C 
+Pearson Education 
+ 2009 
+2 
+Digital Image Processing 
+S Jayaraman,           
+S Esakkirajan,          
+T Veerakumar 
+Tata Mc Graw Hill 
+2015 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals of Digital Image 
+Processing 
+Jain Anil K 
+PHI 
+1988 
+2 
+ Digital image processing 
+Kenneth R Castleman 
+Pearson Education, 
+2/e,2003 
+ 
+3 
+Digital Image Processing 
+Pratt William K 
+John Wiley 
+4/e,2007 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/117105135 
+2 
+https://nptel.ac.in/courses/117105135 
+3 
+https://nptel.ac.in/courses/117105135 
+4 
+https://nptel.ac.in/courses/117105135 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+2 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+2 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+2 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+SEMESTER S8 
+ROBOTICS 
+ 
+Course Code 
+PEEVT 866 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Impart knowledge about the engineering aspects of Robots. 
+2. Discuss the various sensors and actuators used in robotic manipulator. 
+3. Practice forward and inverse kinematic calculations of known robotic manipulators. 
+4. Teach the method of Trajectory planning calculation. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction: Definition and origin of robotics, Robot Anatomy, Robot 
+specifications,  
+Robot characteristics: accuracy, precision, and repeatability, Areas of 
+application, classification of robots.  
+Robotic arm: Components and structure, Types of joints and workspace, 
+Common kinematic arrangements, Wrists, End effectors. 
+ 
+9 
+2 
+Sensors: Types and applications of sensors in Robotics, position and 
+displacement sensors, Strain gauge based force torque sensors, 
+Tachometers.  
+Robotic vision systems: Imaging, Sensing and Digitization, Image 
+processing techniques, Areas of application in robotics.  
+Robotic drive systems and actuators: Hydraulic, Pneumatic and Electric 
+drives. Specification, principle of operation and areas of application of: 
+Stepper motor, Servo motor and brushless DC motor. Microprocessor 
+control of electric motors, speed control using PWM and direction control 
+9 
+
+ 
+ 
+using H- Bridge. 
+3 
+Introduction to kinematics: Position and orientation of objects, Rotation, 
+Euler 
+angles, 
+Rigid 
+motion 
+representation 
+using 
+Homogenous 
+Transformation matrix. 
+Forward 
+kinematics: 
+Link 
+coordinates, 
+Denavit-Hartenberg 
+Representation, Application of DH convention to different serial kinematic 
+arrangements fitted with spherical wrist.  
+Inverse kinematics: General properties of solutions, Kinematic Decoupling, 
+Inverse kinematic solutions for all basic types of three-link robotic arms 
+fitted with a spherical wrist. 
+9 
+4 
+Velocity kinematics: Derivation of the Jacobian, Application of velocity 
+kinematics for serial manipulators, importance of Singularities. 
+Manipulator Dynamics: Introduction to Legrangian mechanics and 
+Dynamic equation for 2 DOF robots, Introduction to position control and 
+force control of robotic manipulators. 
+Trajectory Planning: Joint space Vs Cartesian space, Joint space trajectory 
+planning 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+ 
+
+ 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 3 sub divisions.  
+                      (4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Identify the anatomy of robotic manipulators used in industry. 
+Understand 
+CO2 
+Identify the sensors and actuators required for robotic manipulators. 
+Understand 
+CO3 
+Determine the forward and inverse kinematics of robotic manipulators. 
+Apply 
+CO4 
+Determine the dynamics and path planning of robotic manipulators. 
+Apply 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Robotics. Analysis, 
+control, applications 
+Saeed B. Niku 
+Wiley student 
+edition 
+2nd Edition, 
+2010 
+2 
+Industrial Robotics – Technology, 
+Programming and Applications 
+Mikell and Groover 
+McGraw Hill 
+2nd Edition, 
+2012 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+2 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO2 
+2 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO3 
+2 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO4 
+2 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO5 
+2 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Robotics: Fundamental concepts and 
+analysis 
+Ashitava Ghosal 
+OXFORD 
+University Press 
+2006 Edition 
+2 
+Robot Dynamics and Control 
+Spong and Vidyasagar 
+Wiley Student 
+Edition 
+2008 Edition 
+3 
+Fundamentals of Robotics: Analysis 
+& Control 
+Robert J. Schilling 
+Pearson 
+Education 
+2000 Edition 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://youtu.be/j8vYClEnyk0
+https://youtu.be/o0NLi-wJS1I 
+https://youtu.be/MH26PuRNMXM 
+https://youtu.be/Ra-R0ZCdkPc 
+https://youtu.be/8lCTkf-qjA0 
+https://youtu.be/KMqWSypAuEg 
+https://youtu.be/nLRoK6Hyj0w 
+https://youtu.be/uMxmBVX1pAQ 
+https://youtu.be/xKzAqwpT06A 
+2 
+https://youtu.be/sCTgZv33tuA
+https://youtu.be/T6kGQrnUYD8 
+https://youtu.be/NcK9vlcdvZs 
+https://youtu.be/rYaTu3Y2DMY 
+https://youtu.be/HITCMaNCFQ8 
+https://youtu.be/HQgU76ZOP0o 
+3 
+https://youtu.be/wcy0Y3Jgf14
+https://youtu.be/9Xyy24mbLQ0 
+https://youtu.be/kw64yS6vH14 
+https://youtu.be/6Wb0rmIvIlI 
+https://youtu.be/AbRhzpReb2Q 
+https://youtu.be/h4_2xAPj3y0 
+https://youtu.be/Zh55IM043rY 
+https://youtu.be/iENLo_dxCZI 
+https://youtu.be/NibHkkg2CQU 
+https://youtu.be/93xncDTKqT4 
+4 
+https://youtu.be/B67ug1yx13E
+https://youtu.be/mXxEp5Q6dA8 
+https://youtu.be/thGicrIgtv0 
+https://youtu.be/irfHrA4fSDw 
+https://youtu.be/O6ZbUDSFg_o 
+https://youtu.be/kpiF_f_AntI 
+https://youtu.be/zSvCAW-mowg 
+https://youtu.be/OVGH_e0kjSE 
+
+ 
+ 
+SEMESTER S8 
+CLOUD COMPUTING 
+Course Code 
+PEEVT 867 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+40 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None  
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Understand Cloud Computing Fundamentals. 
+2. Explore Cloud Technologies and Platforms. 
+3. Apply Cloud Solutions and Ensure Security. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Traditional computing- Limitations. Overview of Computing Paradigms-
+Grid Computing, Cluster Computing, Distributed Computing, Utility 
+Computing, Cloud Computing. NIST reference Model-Basic terminology 
+and concepts. Cloud characteristics, benefits and challenges, Roles and 
+Boundaries. Cloud delivery (service) models-Infrastructure-as-a-Service 
+(IaaS), Platform-as-a-Service (PaaS), Software-as-a-Service (SaaS), XaaS 
+(Anything-as-a-service) - Cloud deployment models- Public cloud, 
+Community cloud, Private cloud, Hybrid cloud. 
+8 
+2 
+Introduction to virtualization-Virtualizing physical computing resources, 
+Virtual Machines (Machine virtualization), non-virtualized v/s virtualized 
+machine environments. Types of VMs- process VM v/s system VM, 
+Emulation, 
+interpretation 
+and 
+binary 
+translation. 
+Hardware-level 
+virtualization- Hypervisors/VMM. Types of Hypervisors. Full Virtualization, 
+Para- 
+Virtualization, 
+Hardware-assisted 
+virtualization, 
+OS 
+level 
+virtualization. Basics of Network Virtualization, Storage Virtualization and 
+Desktop Virtualization, Pros and cons of virtualization.  
+8 
+
+ 
+ 
+3 
+Broadband networks and internet architecture- Internet Service Providers 
+(ISPs), Data center technology, Web technology, Multitenant technology, 
+Service technology. Resource provisioning techniques-static and dynamic 
+provisioning. 
+Open-source software platforms for private cloud-OpenStack, Cloud Stack, 
+Basics of Eucalyptus, Open Nebula, Nimbus. 
+Cloud Programming- Parallel Computing and Programming Paradigms. Map 
+Reduce – Hadoop Library from Apache, HDFS, Pig Latin High Level 
+Languages, Apache Spark. 
+8 
+4 
+Basic terms and concepts in security- Threat agents, Cloud security 
+threats/risks, Trust. Operating system security-Virtual machine security- 
+Security of virtualization- Security Risks Posed by Shared Images, Security 
+Risks Posed by Management OS. Infrastructure security- Network Level 
+Security, Host Level Security, Application level security, Security of the 
+Physical Systems. Identity & Access Management- Access Control. 
+Amazon Web Services (AWS):- AWS ecosystem- Computing services, 
+Amazon machine images, Elastic Compute Cloud (EC2), Advanced compute 
+services. Storage services-Simple Storage System (Amazon S3), Elastic 
+Block Store (Amazon EBS). 
+Google Cloud Platform:- IaaS Offerings: Compute Engine (GCE), Cloud 
+Storage, PaaS Offerings: Google App Engine (GAE), Storage services, 
+Application services, Compute services, Database Services, SaaS Offerings: 
+Gmail, Docs, Google Drive. 
+Microsoft Azure: Azure Platform Architecture, Hyper-V, Azure Virtual 
+Machine, Compute services, Storage services. 
+12 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written) 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 2 marks 
+ 
+(8x2 =16 marks) 
+● Each question carries 6 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x6 = 24 marks) 
+40 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the various cloud computing models and services.   
+K2 
+CO2 
+Demonstrate the significance of implementing virtualization 
+techniques. 
+K2 
+CO3 
+Explain different cloud enabling technologies and compare 
+private cloud platforms 
+K2 
+CO4 
+Apply appropriate cloud programming methods to solve big data 
+problems 
+K3 
+CO5 
+Describe the need for security mechanisms in cloud and compare 
+the different popular cloud computing platforms 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+2 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+2 
+2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Cloud Computing Concepts, 
+Technology &Architecture 
+Thomas, E., Zaigham M., 
+Ricardo P 
+Prentice Hall 
+2013 
+2 
+Mastering cloud computing: 
+foundations and applications 
+programming 
+Buyya, R., Vecchiola, C., 
+& Selvi, S. T. 
+Morgan Kaufmann 
+2017 
+3 
+Cloud computing 
+Bhowmik, S 
+Cambridge University 
+Press 
+2017 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the Publisher 
+Edition 
+and Year 
+1 
+Cloud computing: theory and 
+practice 
+Marinescu, D. C 
+Morgan Kaufmann 
+2017 
+2 
+Cloud computing: Principles 
+and paradigms 
+Buyya, R., Broberg, J., 
+& Goscinski, A. M 
+John Wiley & Sons. 
+2011 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/106/105/106105167/ 
+2 
+https://onlinecourses.nptel.ac.in/noc23_cs90/preview 
+3 
+https://onlinecourses.nptel.ac.in/noc22_cs18/preview 
+4 
+https://archive.nptel.ac.in/courses/106/105/106105167/ 
+ 
+
+ 
+ 
+SEMESTER S8 
+MIXED-SIGNAL VLSI DESIGN 
+ 
+Course Code 
+PEEVT 865 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCEVT601  Analog 
+VLSI Design, 
+PCEVT50 Digital 
+CMOS Design  
+Course Type 
+5 Credit Elective 
+ 
+Course Objectives: 
+1. To provide students with a comprehensive understanding of CMOS amplifier design, 
+including small-signal modelling, frequency response analysis, and the implementation of 
+various amplifier configurations such as common source, cascode, and folded cascode 
+amplifiers. 
+2. To equip students with the skills to design and analyze CMOS differential amplifiers, 
+including the use of current mirrors and techniques to enhance common-mode rejection ratio 
+(CMRR), and to understand their application in high-performance circuits. 
+3. To familiarize students with the design and optimization of two-stage operational amplifiers, 
+focusing on frequency compensation techniques like Miller compensation, and the 
+development of stable bandgap references for reliable operation. 
+4. To teach the principles of data converter design, including DAC and ADC architectures, and 
+to enable them to understand and implement various data conversion techniques such as 
+resistor string, R-2R ladder, and different ADC types. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contac
+t Hours
+1 
+CMOS Amplifiers 
+MOS small signal model: 
+CMOS Amplifiers: Common source amplifier with resistive and active 
+loads, Common source amplifier with source degeneration, Common gate 
+and Common drain amplifier (only voltage gain and input and output 
+9 
+
+ 
+ 
+impedances of the circuits), Frequency Response of CMOS Amplifiers 
+Cascode Amplifier: Cascoded amplifier with cascade loads  Folded cascode 
+Amplifier. 
+2 
+ CMOS Differential Amplifiers 
+MOS Current Mirror: Basic circuit, PMOS and NMOS current mirrors 
+Simple and Cascode current mirror circuits. 
+CMOS Differential Amplifier: Differential Amplifier with resistive, current 
+source and  current mirror loads, MOS telescopic cascode amplifier  (only 
+voltage gain and input and output impedance of the circuits) 
+Common-Mode Rejection Ratio (CMRR) and its Enhancement: methods 
+to measure and improve CMRR, and techniques such as common-mode 
+feedback to enhance performance in noisy environments 
+9 
+3 
+CMOS Operational Amplifier 
+Two Stage Operational Amplifiers 
+Frequency compensation of OPAMPS 
+ Miller compensation. 
+Band gap References- Supply Independent Biasing, Temperature independent 
+references –band gap reference 
+9 
+4 
+Data Converters: DAC specifications, ADC specifications 
+DAC Architecture - Resistor String, R-2R Ladder Networks, Current Steering,  
+Charge Scaling, cyclic and Pipeline types. 
+ADC Architecture- Flash type, The Successive approximation type and 
+oversampling ADCs. 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+1. Literature Review and Report (10 Marks) 
+Assessment Method: 
+● Students select recent publications on a specific topic related to the course (eg. Differential 
+Amplifier Design). 
+● Preparation of a report summarizing the findings, discussing the significance, and proposing 
+future research directions. 
+ 
+Criteria: 
+● Relevance of Chosen Publications (2 Marks): Selection of up-to-date and significant research 
+papers. 
+● Depth of Analysis (4 Marks): Thorough understanding and critical analysis of the literature. 
+● Clarity and Organization (2 Marks): Well-structured report with clear arguments. 
+● Originality (2 Marks): Innovative insights or perspectives. 
+ 
+3. Design Exercise (10 Marks) 
+Design a CMOS differential amplifier meeting specific requirements such as gain, input impedance, 
+and common-mode rejection ratio (CMRR). Present the design through a schematic diagram and 
+perform calculations to verify that the design meets the given specifications. 
+Criteria for Assessment: 
+1. Design Accuracy (4 marks) 
+o 
+Correct implementation of the differential amplifier design. 
+o 
+Accuracy in meeting the specified design parameters, such as gain, impedance, and 
+CMRR. 
+2. Calculation and Analysis (3 marks) 
+o 
+Correctness and thoroughness of calculations related to amplifier performance. 
+
+ 
+ 
+o 
+Proper analysis and justification of design choices. 
+3. Schematic Presentation (2 marks) 
+o 
+Clarity and correctness of the schematic diagram. 
+o 
+Proper labelling and organization of the components in the schematic. 
+4. Design Justification (1 mark) 
+o 
+Clear explanation of design choices and how they address the problem requirements. 
+o 
+Insight into the trade-offs made during the design process. 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 3 sub divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Design and analyse various CMOS amplifiers, including common 
+source, common gate, and common drain amplifiers, as well as cascode 
+and folded cascode amplifiers, with an understanding of their 
+frequency response and small-signal models. 
+K3 
+CO2 
+Implement and evaluate CMOS differential amplifiers with various 
+loads, apply MOS current mirrors, and enhance common-mode 
+rejection ratio (CMRR) using techniques such as common-mode 
+feedback in noisy environments. 
+K3 
+CO3 
+Design and optimize two-stage operational amplifiers, apply frequency 
+compensation techniques including Miller compensation, and develop 
+bandgap references for stable supply-independent and temperature-
+independent biasing. 
+K3 
+CO4 
+Analyse and design data converters, including DACs and ADCs, by 
+understanding their specifications, architectures, and various types 
+such as resistor string, R-2R ladder, current steering, flash, successive 
+approximation, and oversampling ADCs. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Design of Analog CMOS 
+Integrated Circuits 
+Behzad Razavi 
+McGraw-Hill 
+2/e, 2002 
+2 
+CMOS: Circuits Design, 
+Layout and Simulation,  
+Baker, Li, Boyce, 
+Prentice Hall India, 
+ 
+2000 
+3 
+Microelectronic Circuits  
+Sedra & Smith 
+ Oxford University 
+Press  
+6/e,2017 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+CMOS Analog Circuit Design,  
+Phillip E. Allen, Douglas 
+R. Holbery 
+ Oxford University 
+Press  
+3/e 
+2 
+Fundamentals of 
+Microelectronics 
+Behzad Razavi 
+Wiley student Edition 
+2014 
+3 
+ Analysis and Design of Analog 
+Integrated Circuits 
+Meyer Gray , Hurst, 
+Lewis 
+Wiley  
+5/e, 2009 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://onlinecourses.nptel.ac.in/noc22_ee37/preview 
+2 
+https://archive.nptel.ac.in/courses/117/101/117101106/ 
+3 
+https://onlinecourses.nptel.ac.in/noc22_ee27/preview 
+4 
+https://nptel.ac.in/courses/117106034 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+2 
+3 
+2 
+2 
+3 
+1 
+1 
+ 
+1 
+ 
+ 
+ 
+CO2 
+2 
+3 
+2 
+2 
+3 
+1 
+1 
+ 
+1 
+ 
+ 
+ 
+CO3 
+2 
+3 
+2 
+2 
+3 
+1 
+1 
+ 
+1 
+ 
+ 
+ 
+CO4 
+2 
+3 
+2 
+3 
+2 
+1 
+1 
+ 
+1 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S8 
+PATTERN RECOGNITION 
+Course Code 
+OEEVT 831 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBECT304 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce the fundamental algorithms for pattern recognition 
+2. To instigate the various classification and clustering techniques 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction: Basics of pattern recognition system, various applications, 
+Machine Perception, classification of pattern recognition systems 
+Design of Pattern recognition system, Pattern recognition Life Cycle. 
+Statistical Pattern Recognition: Review of probability theory, Gaussian 
+distribution, Bayes decision theory and Classifiers 
+ 
+ 8  
+2 
+Concept of feature extraction and dimensionality, Curse of  
+dimensionality, Hidden Markov Models (HMM) - basic concepts, Gaussian 
+mixture models. 
+ 
+Non-Parametric methods: Non-parametric techniques for density 
+estimation - Parzen-window method, K-Nearest Neighbour method. 
+ 
+9 
+3 
+Decision trees:  Construction, splitting of nodes, choosing of attributes, 
+overfitting, pruning 
+ 
+Linear Discriminant based algorithm: Perceptron, Support Vector Machines 
+9 
+4 
+Multilayer perceptrons, Back Propagation Algorithms. Artificial Neural 
+Networks 
+ 
+Classifier Ensembles: Bagging, Boosting/ AdaBoost 
+ 
+Unsupervised learning: Clustering - Criterion functions for 
+clustering, Algorithms for clustering: K-means and Hierarchical methods, 
+Cluster validation
+ 
+ 10 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Design a pattern recognition system 
+K2 
+CO2 
+Know the major approaches in statistical and syntactic pattern 
+recognition. 
+K2 
+CO3 
+Become aware of the theoretical issues involved in pattern recognition 
+system design such as the curse of dimensionality. 
+K2 
+CO4 
+Implement pattern recognition technique 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Pattern Recognition and 
+Machine Learning,  
+ 
+C M Bishop 
+Springer 
+2006 
+2 
+Pattern Classification and 
+scene analysis,  
+R O Duda, P.E. Hart 
+and D.G. Stork, 
+John Wiley 
+2nd 
+edition, 
+2001 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Pattern Recognition 
+Engineering 
+Morton Nadler, Eric P. 
+Smith 
+John Wiley & Sons, 
+New York 
+1993. 
+2 
+Pattern Recognition : 
+Statistical, Structural and 
+Neural Approaches
+Robert J. Schalkoff 
+John Wiley & Sons 
+Inc. New York 
+2007 
+ 
+3 
+Pattern Recognition 
+S.Theodoridis and K. 
+Koutroumbas 
+Academic Press 
+4/e,2009 
+4 
+Machine Learning  
+Tom Mitchell 
+McGraw Hill 
+1997 
+5 
+Pattern Recognition 
+Principles 
+ 
+Tou, J.T. and Gonzalez, 
+R.C. 
+ 
+Addison-Wesley 
+Publishing 
+Company, 
+1974 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://www.youtube.com/watch?v=mfePdDh9t6Q 
+2 
+https://www.youtube.com/watch?v=yG1nETGyW2E 
+3 
+https://www.youtube.com/watch?v=pMHOPezBUfU 
+4 
+https://youtu.be/EWmCkVfPnJ8?si=re_1ZpaXCtOohvwq 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S8 
+                                           MACHINE LEARNING 
+Course Code 
+OEEVT 832 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand basics of machine learning and different types 
+2. To understand different machine learning algorithms. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Basics of machine learning, supervised and unsupervised learning, examples, 
+features, feature vector, training set, target vector, test set, feature extraction, 
+over-fitting, curse of dimensionality. Review of probability theory, Gaussian 
+distribution, decision theory. 
+ 
+9 
+2 
+Regression: linear regression, error functions in regression, multivariate 
+regression, regression applications, bias and variance. Classification : Bayes’ 
+decision theory, discriminant functions and decision surfaces, Bayesian 
+classification for normal distributions, classification applications. 
+ 
+9 
+3 
+Linear discriminant based algorithm: perceptron, gradient descent method, 
+perceptron algorithm, support vector machines, separable classes, non-
+separable classes, multiclass case. 
+9 
+4 
+Unsupervised learning: Clustering, examples, criterion functions for 
+clustering, proximity measures, algorithms for clustering. Ensemble 
+methods: boosting, bagging. Basics of decision trees, random forest, 
+examples.  
+Dimensionality 
+reduction: 
+principal 
+component 
+analysis, 
+Fischer's 
+discriminant analysis. Evaluation and model Selection: ROC curves, 
+evaluation measures, Confusion matrix, recall, precision, accuracy. 
+ 
+9 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe  basics of machine learning and  types. 
+K2 
+CO2 
+Differentiate regression and classification, apply Bayes’ decision 
+theory in classification
+K3 
+CO3 
+Apply linear algebra and statistical methods in discriminant based 
+algorithms
+K3 
+CO4 
+Illustrate  the basics of unsupervised learning, non-metric methods,  
+ensemble methods, dimensionality reduction, evaluation, model 
+selection.
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+
+ 
+ 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Pattern 
+Recognition 
+and 
+Machine Learning 
+Bishop, C. M. 
+Springer, New York 
+2006 
+2 
+Pattern Recognition 
+Theodoridis, S. and  
+Koutroumbas, K. 
+Academic Press, San 
+Diego 
+2003 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The Elements of Statistical 
+Learning 
+Hastie, T., Tibshirani, R. 
+and Friedman, J. 
+Springer 
+2001 
+2 
+Pattern Classification 
+Duda, R.O., Hart, P.E. 
+Wiley, New York 
+2001 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc23_cs18/preview - Introduction to Machine Learning By 
+Prof. Balaraman Ravindran,  IIT Madras 
+2 
+https://onlinecourses.nptel.ac.in/noc23_cs18/preview - Introduction to Machine Learning By 
+Prof. Balaraman Ravindran,  IIT Madras 
+3 
+https://onlinecourses.nptel.ac.in/noc23_cs18/preview - Introduction to Machine Learning By 
+Prof. Balaraman Ravindran,  IIT Madras 
+4 
+https://onlinecourses.nptel.ac.in/noc23_cs18/preview - Introduction to Machine Learning By 
+Prof. Balaraman Ravindran,  IIT Madras 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO2 
+3 
+2 
+2 
+ 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO3 
+3 
+2 
+2 
+ 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO4 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+ 
+ 
+SEMESTER S8 
+COMPUTER VISION

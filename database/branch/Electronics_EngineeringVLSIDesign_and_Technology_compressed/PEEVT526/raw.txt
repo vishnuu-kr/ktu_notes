@@ -1,0 +1,734 @@
+Course Code 
+PEEVT526 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the challenges of scaling of devices to Nano-meter scales 
+2. To design novel transistor devices to reduce the short channel effects and to improve the 
+performance 
+3. To understand the Nano-scale quantum transport in Nano electronic devices from atom to 
+transistor 
+4. To apply quantum mechanics in materials and quantum devices 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+ Introduction to Nano electronics-Review of MOSFETs- Band diagram-
+operation-threshold voltage- current-MOSFET parameters. 
+Challenges going to sub-100 nm MOSFETs-  Technological and physical 
+limits of Nano electronic systems, characteristic lengths 
+Scaling and short channel effects-Channel length, Oxide layer thickness, 
+tunneling, power density, non-uniform dopant concentration, threshold 
+voltage scaling, hot electron effects, sub threshold current, velocity 
+saturation, DIBL, channel length modulation. 
+High-K gate dielectrics- Effective oxide thickness, Effects of high-K gate 
+dielectrics on MOSFET performance 
+(Text books 1,2,3) 
+ 
+9 
+2 
+Novel MOS Devices and Performance Optimization  
+Silicon-on-insulator devices--FD SOI, PD SOI 
+ 
+9
+
+ 
+ 
+Multiple gate MOSFETs--Double gate MOSFETs, FinFETs, Nanowires- 
+Multi gate MOSFET physics-natural length and short channel effects. 
+Multi Gate MOSFET performance optimization: Fins, Fin Width, Fin 
+Height and Fin Pitch, Fin Surface Crystal Orientation, Fins on Bulk Silicon, 
+Nano-wires. Gate Stack, Gate Patterning, Threshold Voltage and Gate Work 
+function requirements, Poly silicon Gate, Metal Gate, Tunable Work 
+function metal gate, Mobility and Strain Engineering, Nitride Stress Liners, 
+Embedded SiGe and SiC Source and Drain, Local Strain from Gate 
+Electrode, Substrate Strain, Strained Silicon on Insulator.  
+(Text books 1,4) 
+3 
+Quantum Transport  
+Atomistic view of electrical Resistance-Energy level diagram- What makes 
+electrons flow- The quantum of conductance - Potential profile- Coulomb 
+blockade - Towards Ohm’s law 
+Schrodinger equation- Method of finite differences – Examples (particle in 
+a box only)  
+Band structure- 1-D examples- General result with basis- 2-D example 
+Sub bands- Quantum wells, wires, dots, graphene and “carbon nanotubes” -- 
+Density of states-Minimum resistance of a wire 
+Ballistic to Diffusive Transport-Landauer formula, Landauer-Buttiker 
+formula.  Ballistic and Diffusive transport – transmission. 
+(Text books 3,5,6. Use MATLAB codes in the text book “Quantum transport 
+atom to transistor” to illustrate the concepts) 
+9 
+4 
+Applications of Quantum mechanics and Quantum devices 
+Tunneling and applications of quantum mechanics- solution of 
+Schrodinger equation: Free space, Potential well, tunneling through a 
+potential barrier. Potential energy profiles for material interfaces, 
+Applications of tunneling.  
+Hetero junctions -Modulation-doped hetero junctions- SiGe strained hetero 
+structures- MODFET- Resonant tunnelling-Resonant tunnelling transistor 
+Single electron devices –Coulomb blockade in a Nano capacitor, tunnel 
+junctions, Double tunnel junction--Coulomb staircase, Single electron 
+transistor. 
+Spintronics-Transport of spin, GMR-TMR,applications, Spin Transistor 
+(Text books 3,6) 
+ 
+9 
+ 
+ 
+
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the challenges of scaling of electron devices to Nano meter 
+scales 
+K2 
+CO2 
+Design novel transistor devices to reduce the short channel effects and 
+improve performance 
+K3 
+CO3 
+Outline the Nano scale quantum  transport in Nano electronic devices 
+from atom to transistor 
+K2 
+CO4 
+Apply quantum mechanics in materials and quantum devices 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals 
+of 
+Modern VLSI Devices 
+Yuan Taur, Tak H Ning 
+Cambridge University 
+Press,  
+Second 
+edition 
+2009 
+2 
+Nanoelectronics 
+and 
+Nanosystems 
+Karl Goser· Peter GlÖsekötter· 
+Jan Dienstuhl 
+Springer-Verlag Berlin 
+Heide1berg  
+First 
+Edition, 
+2004 
+3 
+Nanotechnology 
+for 
+microelectronics 
+and 
+optoelectronics,  
+J M Martinez Duart, R J Martin 
+Palma, F Agullo Rueda 
+Elsevier,  
+First 
+Edition, 
+2006 
+4 
+FinFETs and 
+Other 
+multigate Transistors 
+J-P Colinge 
+Springer 
+First 
+Edition, 
+2008 
+5 
+Quantum 
+Transport 
+Atom to Transistor 
+Supriyo Datta 
+Cambridge University 
+Press 
+First 
+Edition, 
+2005 
+6 
+Fundamentals of nano 
+electronics,  
+George W.Hanson, 
+Pearson Education. 
+First 
+Edition 
+2009 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals 
+of 
+Carrier 
+Transport 
+Mark Lundstrom 
+Cambridge University 
+Press 
+Second 
+Edition, 
+2000 
+2 
+High 
+Dielectric 
+Constant 
+materials 
+VLSI 
+MOSFET 
+Applications,  
+H R Huff, D C Gilmer, 
+Springer 
+First 
+Edition, 
+2004 
+3 
+Nanoelectronics and 
+nanosystems 
+From Transistors to Molecular 
+and Quantum Devices 
+Karl Goser· Peter 
+GlÖsekötter· Jan 
+Dienstuhl 
+Springer 
+First 
+Edition, 
+2004 
+4 
+NANOSCALE 
+TRANSISTORS 
+Device Physics, Modeling and 
+Simulation 
+Mark S. Lundstrom, Jing 
+Guo 
+Springer 
+First 
+Edition, 
+2006 
+5 
+Fundamentals of Ultra-Thin-
+Body MOSFETs and FinFETs 
+Jerry G. Fossum, Vishal 
+P. Trivedi 
+Cambridge University 
+Press 
+First 
+Edition, 
+2013 
+6 
+Introduction to Nanotechnology
+Charles P Poole jr. Frank 
+J Owens 
+John Wiley and Sons 
+First 
+Edition, 
+2003 
+7 
+Introduction 
+to 
+Quantum 
+Mechanics 
+David J Griffiths, Darrel 
+F schroetter 
+Cambridge University 
+Press 
+Third 
+Edition, 
+2018 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/117108047,  https://nanohub.org/resources/5328  
+2 
+https://nptel.ac.in/courses/117108047  
+3 
+https://nptel.ac.in/courses/117107149,   https://nanohub.org/resources/8086,,   
+https://nanohub.org/courses/FON1,  https://nanohub.org/resources/5306  
+4 
+https://nptel.ac.in/courses/117107149,  https://nanohub.org/resources/8086  
+
+ 
+ 
+SEMESTER S5 
+REAL TIME OPERATING SYSTEMS 
+Course Code 
+PEEVT 527 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBEVT504, 
+PBECT404 
+(Course code)
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To develop skills in Real Time operating system to apply the same in real life applications. 
+2. Understand 
+the 
+concept 
+of 
+real 
+time 
+operating 
+system 
+along 
+with 
+its 
+synchronization, communication and interrupt handling tools. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Operating system: Types, Objectives and functions, Kernel, Process - States, 
+Process Control Block, Operations on processes. 
+ 
+9 
+2 
+Process Scheduling: FCFS, SJF, Priority, Round-Robin, Multilevel 
+Queue and Multilevel Feedback Queue Scheduling. Thread: Structure. User 
+and Kernel level threads, multi-threading models, multiprocessor scheduling. 
+ 
+9 
+3 
+Real Time Operating Systems: Structure and characteristics of Real 
+Time Systems, Task: Task states, Task synchronization -Semaphores- types, 
+Inter Task communication mechanisms: message queues, pipes, event 
+registers, signals, Exceptions and interrupt handling. 
+9 
+4 
+Task constraints, Task scheduling: Aperiodic task scheduling: EDD. 
+EDF, LDF, EDF with precedence constraints. Periodic task scheduling: Rate 
+monotonic and Deadline monotonic, Real time Kernel- Structure, 
+State transition diagram, Kernel primitives. 
+Features of Free RTOS and Linux, Case study of (Kernel design, threads and 
+task scheduling) RTOS: MicroC/OS-II,  
+RTOS control system used in real life applications - in adaptive cruise 
+Control 
+ 
+11 
+
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Summarize the functions and structure of general-purpose 
+operating systems. 
+K2 
+CO2 
+Use different scheduling algorithms on processes and threads. 
+K3 
+CO3 
+Interpret a real time operating system along with its 
+synchronization, communication and interrupt handling tools. 
+K2 
+CO4 
+Illustrate task constraints and analyse the different  
+scheduling algorithms on tasks. 
+K4 
+CO5 
+Illustrate the applications of real time operating systems. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Operating System Principles 
+Abraham Silberschatz 
+Wiley India 
+7th edition, 
+2011 
+2 
+Operating systems- Internals 
+and design principles 
+William Stallings 
+Prentice Hall 
+7th edition, 
+2011 
+3 
+Real-Time 
+Concepts 
+for 
+Embedded Systems 
+Qing Li 
+CMP Books 
+2nd 
+Edition,2013 
+4 
+HARD REAL-TIME 
+COMPUTING SYSTEMS 
+Predictable  
+Scheduling Algorithms and 
+Applications 
+Giorgio C. Buttazzo 
+Kluwer Academic 
+Publishers 
+1st 
+Edition,1997 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Modern Operating Systems 
+Tanenbaum 
+Pearson Edition 
+3rd Edition, 
+2007 
+2 
+Micro C/OS-II, The Real Time 
+Kernel 
+Jean J Lambrosse 
+CMP Books 
+2nd 
+Edition,2011 
+3 
+Real-Time Systems: Theory 
+and Practice 
+Rajib Mall 
+Pearson 
+1st 
+Edition,2008 
+4 
+An 
+Embedded 
+Software 
+Primer 
+David E Simon 
+Pearson 
+2nd 
+Edition,2012 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+2 
+3 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+2 
+CO3 
+3 
+3 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+2 
+CO4 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+2 
+CO5 
+3 
+3 
+2 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+2 
+3 
+
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/105/106105172/         - Week 1
+2 
+https://archive.nptel.ac.in/courses/106/105/106105172/         - Week 2 
+3 
+https://archive.nptel.ac.in/courses/106/105/106105172/        - Week 3 
+4 
+https://archive.nptel.ac.in/courses/106/105/106105172/       - Week 4 
+
+ 
+ 
+SEMESTER S5 
+CAD BASED VLSI DESIGN OPTIMIZATION

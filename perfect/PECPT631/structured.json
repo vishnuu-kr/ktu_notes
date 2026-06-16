@@ -1,0 +1,68 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "The RISC design philosophy",
+            "ARM design philosophy",
+            "embedded system hardware-AMBA bus protocol",
+            "embedded system software- applications. ARM core data flow model",
+            "Registers",
+            "CPSR-Processor modes",
+            "Banked registers. Pipeline- Characteristics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Fundamentals of ARM instructions",
+            "Barrel shifter",
+            "Classification and explanation of instructions with examples-Data processing",
+            "Branch",
+            "Load-store",
+            "SWI and Program Status Register instruction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to THUMB",
+            "Differences between ARM and THUMB",
+            "Register usage in Thumb",
+            "ARM Thumb Interworking. General Structure of ARM assembly module",
+            "Assembler directives- AREA",
+            "ENTRY",
+            "SPACE",
+            "EXPORT",
+            "ALIGN",
+            "CODE16",
+            "CODE32",
+            "DATA. Simple ALP programs on Arithmetic & logical operations",
+            "Factorial",
+            "string operation",
+            "sorting",
+            "searching",
+            "and Scan"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Exception handling- ARM processor exceptions and modes",
+            "vector table",
+            "exception priorities",
+            "link register offsets. Interrupts- assigning interrupts",
+            "interrupt latency",
+            "IRQ and FIQ exceptions with example- code for enabling and disabling IRQ and FIQ exceptions",
+            "Comparison between exception and interrupts. Interrupt handling schemes- nested interrupt handler",
+            "non-nested interrupt handler. Basic interrupt stack design"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

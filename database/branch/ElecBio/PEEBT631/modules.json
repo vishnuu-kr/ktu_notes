@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Mesh and Node Analysis and Network Theorems: Mesh and node\nanalysis of network containing independent and dependent sources.\nSupermesh and Supernode analysis. Steady-state AC analysis using Mesh\nand Node analysis. Thevenin’s theorem, Norton’s theorem, Superposition\ntheorem, Reciprocity theorem, Maximum power transfer theorem. (applied\nto both dc and ac circuits having dependent source)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Network Analysis: Transients - DC and sinusoidal response of RL, RC and\nRLC circuits, Initial and final conditions, Review of Laplace Transforms and\nInverse Laplace Transforms, Transformation of basic signals and circuits\ninto s-domain. Transient analysis of RL, RC, and RLC networks with\nimpulse, step and sinusoidal inputs (with and without initial conditions).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Transformed circuits in s-domain: Transform impedance/admittance of R,\nL and C - Transfer Function representation – Poles and zeros. Analysis of\nCoupled Circuits: – Dot polarity convention – Sinusoidal steady state\nanalysis of coupled circuits - Linear Transformer as a coupled circuit -\nAnalysis of coupled circuits in s-domain.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Two port networks and Passive filters: Characterization of two port\nnetworks using Z, Y, Hybrid and Transmission parameters, Tand π\nrepresentations. Interrelationship among parameter sets. Series and parallel\nconnections of two port networks. Passive filters – Filter fundamentals,\nClassification of Filters, Characteristic impedance, Design of Constant K -\nLow Pass, High Pass & Band Pass filters.",
+    "contact_hours": "9"
+  }
+]

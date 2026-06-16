@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Microcontroller Architecture – General internal architecture, Address bus,\nData bus, control bus.\nThe 8051 Microcontroller - Features of 8051 microcontroller, Block diagram\nof 8051- program status word (PSW), accumulator, program counter.\nMemory organization – RAM & ROM, register banks and stack, Special\nFunction Registers (SFRs), I/O port organization, Interrupts.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Instruction Set of 8051 and Addressing modes - Classification of\ninstruction set - Data transfer group, arithmetic group, logical group,\nbranching group.\nAddressing modes - Types. Accessing the data from internal and external\nmemory.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Programming 8051 Using Assembly Language - Introduction to 8051\nassembly language programming. Data types and directives, Concept of\nsubroutine. Software delay programming.\nProgramming 8051 Using Embedded C Language - Introduction to\nembedded C – advantages.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Timer / Counter in 8051 - Timer registers - Timer0, Timer1. Configuration\nof timer registers. Timer mode programming. Counter mode.\nSerial Communication in 8051 - Serial communication – modes and\nprotocols, RS-232 pin configuration and connection. Serial port\nprogramming – transmitting and receiving.\nProgramming the interrupts - Use external, timer and serial port interrupts.\nInterrupt priority settings.",
+    "contact_hours": "10"
+  }
+]

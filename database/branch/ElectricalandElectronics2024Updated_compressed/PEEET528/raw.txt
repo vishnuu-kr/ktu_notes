@@ -1,0 +1,318 @@
+Course Code 
+PEEET528 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Nil 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To familiarize various types of layers in OSI model. 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Introduction – Uses of computer networks, Network hardware, Network 
+software - Protocol hierarchies – Design issues for the layers – Connection 
+oriented versus connectionless service. Reference models – The OSI reference 
+model, The TCP/IP reference model, Comparison of OSI and TCP/IP 
+reference models.  
+Physical Layer –Transmission media overview – Twisted pair and fiber 
+optics. Performance indicators – Bandwidth, Throughput, Latency, 
+Bandwidth–Delay product. 
+8 
+2 
+Data link layer - Data link layer design issues, Error detection and correction, 
+Sliding window protocols.  
+Medium Access Control (MAC) sublayer, Channel allocation problem, 
+Multiple access protocols – CSMA, Collision free protocols. 
+ Ethernet – Switched Ethernet, fast Ethernet and gigabit Ethernet.  
+Wireless LANs - 802.11 – Architecture and protocol stack, Use of Bridges, 
+Repeaters, Hubs, Switches, Routers and Gateways. 
+8 
+3 
+Network layer design issues. Routing algorithms - The Optimality Principle, 
+Shortest path routing, Flooding, Distance Vector Routing, Link State Routing, 
+Routing for mobile hosts.  
+Congestion control algorithms – Approaches to congestion control (Details 
+not required). Quality of Service (QoS) - Requirements, Techniques for 
+achieving good QoS – Traffic shaping, Packet scheduling. 
+12 
+
+ 
+ 
+IPv4 protocol, IP addresses, IPv6, Internet Control Protocols - Internet 
+Control Message Protocol (ICMP), Address Resolution Protocol (ARP), 
+Dynamic Host Configuration Protocol (DHCP). Open Shortest Path First 
+(OSPF) Protocol, Border Gateway Protocol (BGP), Internet multicasting. 
+4 
+Transport service – Services provided to the upper layers, Transport service 
+primitives. User Datagram Protocol (UDP) – Introduction, Remote 
+procedure call. ELECTRICAL AND ELECTRONICS Transmission 
+Control Protocol (TCP) – Introduction, TCP service model, TCP protocol, 
+TCP segment header, Connection establishment & release. Application 
+Layer –Domain Name System (DNS) – overview of DNS name space and 
+Name servers, Electronic mail – Architecture and services- SMTP – IMAP 
+- POP3, World Wide Web (WWW) - Architectural overview, HTTP, File 
+Transfer Protocol (FTP). 
+8 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance
+Assignment/ 
+Microproject 
+Internal Examination-
+1 
+(Written) 
+Internal Examination- 
+2 
+(Written) 
+Total
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out of 
+which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+ 
+Course Outcome 
+Bloom’s 
+Knowledge Level 
+(KL) 
+CO1 
+Explain the computer networks, layered architecture, protocols 
+and physical media used for setting up a network. 
+K2 
+CO2 
+Identify the role of Data link layer, role of the MAC sub layer and 
+networking devices in Ethernets and wireless LANs 
+K2 
+CO3 
+Explain routing algorithms and congestion control algorithms and 
+ways to achieve good quality of service, IP address classes, ICMP 
+protocols and other external routing protocols. 
+K2 
+CO4 
+Explain the services provided by the transport layer and 
+application layer. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+ 
+PO1
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Computer Networks 
+Andrew S. 
+Tanenbaum
+Pearson Education 
+India.
+5th edition 
+2 
+Data Communication and 
+Networking 
+Behrouz A 
+Forouzan 
+McGraw Hill 
+Education 
+5th edition 
+ 
+
+ 
+ 
+Reference Books 
+Sl. 
+No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher
+Edition and 
+Year
+1 
+Computer Networks – A 
+Systems Approach 
+Larry L Peterson and 
+Bruce S Dave 
+Morgan 
+Kaufmann 
+5th edition 
+2 
+ Computer Networking and the 
+Internet 
+Fred Halsall 
+ 
+5th edition 
+3 
+Computer Networking: A Top-
+Down Approach 
+James F. Kurose, Keith 
+W. Ross 
+ 
+6th edition 
+4 
+An Engineering Approach to 
+Computer Networks 
+Keshav 
+Addison Wesley 
+1998 
+5 
+TCP/IP Illustrated Volume 1,  
+W. Richard Stevens. 
+Addison-Wesley 
+2005 
+6 
+Computer Networking with 
+Internet Protocols,. 
+William Stallings 
+Prentice-Hall 
+2004 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106105183
+https://nptel.ac.in/courses/106106091 
+2 
+https://nptel.ac.in/courses/106105183
+https://nptel.ac.in/courses/106106091 
+3 
+https://nptel.ac.in/courses/106105183
+https://nptel.ac.in/courses/106106091 
+4 
+https://nptel.ac.in/courses/106105183
+https://nptel.ac.in/courses/106106091 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER: S5 
+AC MACHINES LAB

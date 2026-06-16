@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Real-Time systems: Basic concepts, applications of Real-Time\nsystems, basic model of Real-Time systems, characteristics of Real-Time\nsystems, types of Real-Time systems: hard, firm, soft, timing constraints,\nmodelling timing constraints.",
+    "contact_hours": "6"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Real-Time task scheduling: Basic concepts, clock driven scheduling, table driven\nscheduling, cyclic, schedulers, hybrid schedulers, event driven scheduling, EDF\nScheduling, RMA, DMA, resource sharing among RT tasks, Priority inversion,\nPriority Inheritance Protocol, Highest Locker Protocol, Priority Ceiling Protocol,\nScheduling Real-Time tasks in multiprocessor and distributed systems, Fault\ntolerant scheduling of tasks, clocks in distributed Real-Time systems.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Commercial Real-Time Operating Systems: Time services, Features of real-time\noperating systems, UNIX and Windows as RTOS, POSIX, PSOS, VRTX, QNX,\nRT Linux, Lynx, other RTOS, benchmarking RT OS, Real-Time OS: OS\nservices, I/O subsystem, Network OS.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "RT communications: QoS framework, models, Real-Time Communication in a\nLAN, IEEE 802.4, RETHER, Communication over Packet Switched Networks,\nRouting algorithms, RSVP, rate control; RT databases - Applications,\ncharacteristics of temporal data, Concurrency control, Commercial RT\ndatabases, Special topics in Real-Time systems.",
+    "contact_hours": "10"
+  }
+]

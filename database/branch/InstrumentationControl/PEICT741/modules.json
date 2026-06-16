@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to digital control-Discrete time system representation- Sampling\nprocess- Mathematical modelling of sampling process- Data reconstruction-\nEffect of sampling period- Modelling discrete-time systems –Review of Z-\ntransform-Mapping of s-plane to z-plane- Pulse transfer function-Warping\neffect",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Stability analysis of discrete time system:-  Jury stability test, stability\nanalysis using bi-linear transformation.\nTime response of discrete systems: Transient and steady state responses,\ntime response parameters of a prototype second order system.\nDesign of digital control systems--Digital compensator design using\nfrequency response plots,\nDigital compensator design using root locus plots, z plane synthesis.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Discrete state space model- Introduction to state variable model- canonical\nforms-Characteristic equation, state transition matrix-Solution to discrete\nstate equation. Stability- Lyapunov stability theorem",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Pole placement and observer design-Controllability and observability-State\nfeedback design-Pole placement by state feedback-Set point tracking\ncontroller-Full order observer-Reduced order observer- Output feedback\ndesign",
+    "contact_hours": "8"
+  }
+]

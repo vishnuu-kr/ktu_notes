@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Signals and Signal Processing-Characterization and Classification of Signals- Elementary Signals",
+            "Typical signal Processing Operations",
+            "Examples of Biomedical Signals",
+            "Analog-to-Digital Conversion (block diagram only) Discrete-Time Signals - Typical Sequences and Sequence-Representation",
+            "Discrete-Time Systems-Classification of Discrete-Time Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Discrete-Time Fourier Transform (DTFT)-Definition",
+            "Properties Discrete Fourier Transform (DFT)-Definition",
+            "Properties Fast Fourier Transform (FFT)-Decimation-in-Time",
+            "Decimation-in-Frequency. z Transform- Properties of the z-Transform",
+            "Poles and Zeros",
+            "Inversion of the z-Transform Using partial fraction expansion",
+            "Analysis of Linear Time-Invariant Systems in the z-Domain",
+            "Transfer function",
+            "Frequency response"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "LTI systems as frequency selective filters- Ideal filter characteristics",
+            "Simple Digital Filter Design-Preliminary Considerations",
+            "Design of linear-phase FIR Filter using windows (Bartlett) and frequency sampling method IIR Filter Design- Approximation of Derivatives",
+            "Impulse invariance",
+            "Bilinear Transform Method",
+            "Analog filter approximation -Butterworth approximation",
+            "Frequency Transformations (Analog and Digital domain"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Periodogram- Averaged periodogram",
+            "QRS detection in ECG",
+            "Analysis of Heart Rate Variability using periodogram Adaptive Filters- Principle of Wiener Filters",
+            "Principle of adaptive filtering",
+            "Principle of adaptive noise cancellation",
+            "Cancellation of 50-Hz interference in ECG"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

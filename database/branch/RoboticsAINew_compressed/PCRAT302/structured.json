@@ -1,0 +1,62 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to the architecture",
+      "Programmer’s model",
+      "Behavior of the application program status register (APSR",
+      "Memory system",
+      "Exceptions and interrupts",
+      "System control block (SCB",
+      "Debug",
+      "Reset and reset sequence"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Understanding the assembly language syntax",
+      "Use of a suffix in instructions",
+      "Unified assembly language (UAL",
+      "Instruction set",
+      "Barrel shifter",
+      "Accessing special instructions and special registers in programming"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Embedded Systems vs. General Computing Systems",
+      "Classification of Embedded Systems",
+      "Major Application Areas of Embedded Systems",
+      "Purpose of Embedded Systems",
+      "Core of the Embedded System",
+      "Memory",
+      "Sensors and Actuators",
+      "Communication Interface",
+      "Embedded Firmware",
+      "Other System Components"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Characteristics of an Embedded System",
+      "Quality Attributes of Embedded Systems",
+      "Application-Specific Embedded System",
+      "Domain Specific Examples of Embedded System",
+      "Fundamental Issues in Hardware Software Co-Design",
+      "Computational Models in Embedded Design",
+      "Embedded Firmware Design Approaches",
+      "Embedded Firmware Development Languages"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

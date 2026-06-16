@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Embedded Hardware Architecture",
+            "Communication Interface Standards",
+            "Embedded system development process",
+            "Embedded Operating systems",
+            "Types of Embedded Operating systems. Embedded Processors -CPU architecture of ARM processor(ARM9) - CPU Bus Organization and Protocol - Five stage pipelining - Instruction sets- ARM instruction set-Thumb instruction set"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Integration and Testing of Embedded Hardware and Firmware-Embedded firmware design approaches",
+            "Embedded System Development Environment - IDEs",
+            "Cross Compilers",
+            "Disassemblers",
+            "Decompilers",
+            "Simulators",
+            "Emulators and Debuggers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "RTOS based Design - Basic operating system services-structure-kernel",
+            "process",
+            "tasks and threads. Process management-memory management-device management",
+            "Task scheduling algorithms - Non pre-emptive scheduling and Pre-emptive scheduling"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Inter Process Communication and Synchronization",
+            "Shared data",
+            "Inter process communication -Signals",
+            "Semaphore",
+            "Message Queues",
+            "Mailboxes",
+            "Pipes",
+            "Sockets",
+            "Remote Procedure Calls (RPCs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

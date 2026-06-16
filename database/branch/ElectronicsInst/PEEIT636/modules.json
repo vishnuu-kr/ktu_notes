@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Types of controllers- Feed forward-feedback-cascade-P, PI and\nPID. Compensator design: Realization of compensators – lag, lead and lag-\nlead -Design of compensator using bode plot. Design of P, PI and PID\ncontroller using Ziegler-Nichols tuning method.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "State feedback controller design: Controllability & observability. State feed-\nback design via pole placement technique.\nSampled data control system: Pulse Transfer Function-Stability of sampled\ndata system -Routh Hurwitz criterion and Jury's test. Introduction to state-\nspace representation of sampled data\nsystems.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Nonlinear systems: Introduction - characteristics of nonlinear systems.\nTypes of nonlinearities. Analysis through Harmonic Linearisation -\nDetermination of describing function of nonlinearities (relay, dead zone and\nsaturation only) – application of describing function for stability analysis of\nautonomous system with single nonlinearity.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Phase Plane Analysis: Concepts- Construction of phase trajectories for\nnonlinear systems and linear systems with static nonlinearities - Singular\npoints – Classification of singular points. Definition of stability- asymptotic\nstability and instability\nLiapunov methods to stability of linear and nonlinear, continuous time\nsystems.",
+    "contact_hours": "9"
+  }
+]

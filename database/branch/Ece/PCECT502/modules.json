@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Block diagram of a communication system. Need for modulation. Amplitude\nmodulation, Equation and spectrum of AM signal, DSB-SC, SSB -pilot\ncarrier and Vestigial sideband systems.\nAngle modulation: Narrow and wide band FM and their spectra, relationship\nbetween FM and PM, Carson’s rule, pre-emphasis and de-emphasis filtering.\nComparison of AM and FM, Block diagram of FM receiver.\nSuperheterodyne receivers- Characteristics of receivers –image frequency.\nNoise: external, internal, White noise.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Sampling and Quantization, SQNR for uniform quantization, Companding\nPulse code modulation, Transmitter and receiver. DPCM transmitter and\nreceiver. Delta modulation, Slope overload, Line codes.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Baseband data transmission of digital data through AWGN channel,\nMathematical model of ISI, Nyquist criterion for zero ISI, Signal modelling\nfor ISI, Raised cosine spectrum, Equalization,Zero forcing Equaliser.\nGeometric representation of Signals-Gram-Schmitt procedure, Signal space.\nVector model of AWGN channel.\nMatched filter and correlation receivers, MAP receiver, Maximum likelihood\nreceiver.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Digital band pass modulation schemes-BPSK system and signal\nconstellation. BPSK transmitter and receiver. QPSK system and Signal\nconstellations. BER analysis of BPSK and QPSK in erfc. Plots of BER Vs\nSNR. QPSK transmitter and receiver. Quadrature amplitude modulation and\nsignal constellation.",
+    "contact_hours": "10"
+  }
+]

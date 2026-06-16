@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Operation Management: Role of Operations in an\nOrganisation, Historical Evolution and perspectives, Operations\nstrategies and productivity in organisations.\nDemand Forecasting: Forecasting methods: causal and time series\nmodels, moving average, exponential smoothing methods. Trend, cycle,\nand seasonality components, Winter's complete model. Analysis of\nforecast error, comparison of forecasting methods based on errors.\nFacility Location and Layout: Factors influencing location planning,\nFactor rating and center of gravity methods of location selection. Types\nfacility of layouts, comparison of layouts. Systematic Layout Planning\n(SLP), software packages for SLP.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Inventory Models: Objectives, Types of Inventories, EOQ and EBQ\nmodels for uniform and variable demand with and without shortages.\nQuantity discount models, Probabilistic inventory models, Inventory\nsystems under risk, service levels, safety stock.\nSelective Inventory Control:  ABC Analysis, XYZ Analysis, VED\nAnalysis.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Aggregate Planning: Definition, value of decision rules, Pure and\nMixed strategies, Mathematical Models for Aggregate planning –\nTransportation Method, Linear programming Formulation, Linear\nDecision Rules.\nMaster production schedule: Bill of Material (BOM), structuring\nBOM,, MRP -Lot sizing methods – Implementation issues, MRP – II,\nIntroduction to ERP.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Job Shop Production: Activity planning, scheduling, shop loading,\nsequencing. Priority rules for dispatching jobs.\nModern Production Systems: Introduction to Business Process Re-\nengineering, Lean Manufacturing, Kaizen, Toyota Production System,\nWorld Class Manufacturing Concepts. Kanban - Push vs Pull systems,\nJust-in-time systems.\nSuggestion on Project Topics\n● Forecasting Model Implementation\n– Students choose a product or service and apply different forecasting methods (e.g.,\ncausal models, time series models, moving average, exponential smoothing) to predict\nfuture demand.\n●  Location Planning Analysis\n– Students analyse factors influencing facility location decisions for a given company\nand apply factor rating and center of gravity methods to determine the optimal location.\n● Layout Design\n– Students design different types of facility layouts (e.g., process layout, product layout)\nfor a specific business scenario and compare their efficiencies.\n●  EOQ/ EBQ Model Development\n– Students develop advanced EOQ and EBQ models that account for real-world\ncomplexities such as variable demand, lead times, and shortages. They implement these\nmodels using programming languages like Python or MATLAB.\n● Optimization of Inventory Costs with Quantity Discounts\n– Students create an optimization algorithm that determines the optimal order quantity\nconsidering quantity discounts and other cost factors. They use software like Excel\nSolver, Python, or MATLAB.\n● MPS Optimization for a Manufacturing Firm\n– Students design an optimized Master Production Schedule (MPS) for a manufacturing\nfirm using Linear Decision Rules and other relevant methodologies. They implement\nthe optimization in software tools like Excel, Python, or MATLAB.\n● BOM Structuring and MRP System Development\n– Students develop a comprehensive Bill of Material (BOM) for a complex product\nand implement a Material Requirements Planning (MRP) system using software tools\nlike MS Project or specialized MRP software.\n● Case Study on Real-World ERP Implementation\n– Students conduct a detailed case study on a real-world ERP implementation in a large\nenterprise, analysing the challenges, solutions, and outcomes.\n● Business Process Re-engineering (BPR) Case Study\n– Students conduct a case study on Business Process Re-engineering (BPR) in a real or\nhypothetical company. They identify processes for re-engineering, propose\nimprovements, and evaluate potential impacts.\n●  Lean Manufacturing Implementation\n– Students develop a Lean Manufacturing implementation plan for a manufacturing\nfacility. They apply lean principles such as value stream mapping, 5S, and waste\nreduction techniques.",
+    "contact_hours": "11"
+  }
+]

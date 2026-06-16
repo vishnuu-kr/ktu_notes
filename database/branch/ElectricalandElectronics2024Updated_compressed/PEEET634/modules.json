@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to IoT technology: Definitions of IoT, Characteristics of\nIoT devices – power, computational constraints, IoT Architectural view –\nMiddleware based architecture, Service oriented architecture, M2M\nCommunication and IoT, Typical application areas of IoT technology (case\nstudies of at least four domains) - Energy management and Smart grid, IoT\nfor Home, Cities, Environment monitoring, Agriculture, Supply chain and\ncustomer monitoring",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Components of IoT technology: Identification/Addressing - Electronic\nProduct Codes, RFID, ubiquitous code, IPv4, IPv6. Sensors and\nActuators*. IoT Hardware**, IoT Software – overview of Operating\nsystems, Firmware, Middle ware, Application software used in IoT.\nConnectivity for IoT devices – characteristics.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Communication technologies for IoT : Zigbee - key features,\narchitecture, limitations, Bluetooth technology - bluetooth stack, piconet,\nscatternet, limitations, Bluetooth Low Energy (key features, architecture,\nlimitations), Wifi (IEEE 802.11) technology – key features, limitations,\nCellular technology – GSM, 3G, 4GLTE (overview), features, limitations,\nLoRa technology – features, LoRaWAN architecture, 6LoWPAN –\nfeatures, protocol stack, Narrow Band (NB- IoT) – features, applications,\nSigfox – features, applications",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "IoT Data Management : Storage technologies for IoT hardware –\nVolatile,\nNon-volatile,\nEmbedded\n(MTP/OTP),\nexternal\nflash\n(NAND/NOR), DRAM, eflash, UFS, eMMC (overview of technologies).\nCloud and IoT, Cloud computing – architecture, advantages of cloud\ncomputing, Software as a Service (SaaS), Platform as a Service (PaaS),\nInfrastructure as a Service (IaaS). Case study of commercial cloud\ncomputing platforms like - Microsoft Azure IoT Suite, Google Cloud's IoT\nPlatform, IBM Watson IoT Platform. IoT analytics",
+    "contact_hours": "9"
+  }
+]

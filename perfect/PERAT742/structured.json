@@ -1,0 +1,54 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "NLP Tasks and Applications",
+            "Language-Building Blocks",
+            "Challenges of NLP",
+            "Regular Expressions",
+            "Text Normalization",
+            "Edit Distance",
+            "N-gram Language Models",
+            "Approaches to NLP-- Heuristics-Based NLP",
+            "Machine Learning-based NLP"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Text Representation - Preprocessing, Sentence segmentation, Word tokenization, Stemming and lemmatization, Vector Space Models--Basic Vectorization Approaches--One-Hot Encoding, Bag of Words, Bag of N-Grams TF-IDF",
+            "Distributed Representations-- Word Embeddings, Doc2Vec"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Text Classification--Text classification applications - Pipeline for building text classification systems",
+            "Naïve Bayes for Sentiment Classification - Naïve Bayes Classifier Training - Optimizing for Sentiment Analysis",
+            "Logistic Regression",
+            "Support Vector Machine for Text Classification"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Information Extraction(IE",
+            "IE Applications",
+            "The General Pipeline for IE",
+            "Named Entity Recognition(NER), Ambiguity in Named Entity Recognition",
+            "NER as Sequence Labeling",
+            "Evaluation of NER. Information Retrieval",
+            "Term weighting and document scoring",
+            "Inverted Index",
+            "Evaluation of Information Retrieval Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

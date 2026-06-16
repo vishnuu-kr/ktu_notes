@@ -1,0 +1,87 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Symbolic Representation",
+            "Degrees of Freedom and Workspace",
+            "Classification of Robots - Power Source",
+            "Application Area",
+            "Method of Control",
+            "Geometry",
+            "Common Kinematic Arrangements (Structure and Workspace): Articulated Configuration (RRR)",
+            "Spherical Configuration (RRP)",
+            "SCARA Configuration (RRP)",
+            "Cylindrical Configuration (RPP)",
+            "Cartesian Configuration (PPP)",
+            "Parallel Manipulator",
+            "Spherical Wrist End Effectors: Mechanical",
+            "Magnetic and Vacuum Grippers",
+            "Active and Passive Grippers",
+            "Kinematics of Robots: Rotations - Fundamental and Composite Rotations",
+            "Homogeneous Coordinates",
+            "Translations and Rotations",
+            "Composite Homogeneous Transformations",
+            "Screw Transformations",
+            "Inverse of Homogeneous Transformation Matrices",
+            "Other Representations of Rotations: Definitions of RPY",
+            "Euler Angles and Quaternions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Definition",
+            "Kinematic Chains",
+            "Denavit-Hartenberg Representation",
+            "Assigning the Coordinate Frames",
+            "Algorithm Based on DH Convention for Forward Kinematics",
+            "Forward Kinematics Examples - Up to 3-DoF",
+            "Inverse Kinematics: Definition",
+            "The General Inverse Kinematics Problem",
+            "General Properties of Solutions to the Inverse Kinematics Problem",
+            "Theory of Kinematic Decoupling",
+            "Inverse Kinematics Example - Up to 2-DoF",
+            "Velocity Kinematics: Derivation of the Jacobian - Angular Velocity",
+            "Linear Velocity",
+            "Combining Linear and Angular Jacobians",
+            "Velocity Jacobian Examples Given Forward Kinematic Matrices - 2 Link Planar Manipulator",
+            "Singularities - Definition and Importance of Identifying Singularities"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Force-Mass-Acceleration and Torque-Inertia-Angular-Acceleration Relationships",
+            "Lagrangian Mechanics - Overview",
+            "Dynamic Analysis Examples - 1 DOF Spring Cart System",
+            "Robot Control: The Control Problem",
+            "Single Axis PID Control - Control Law",
+            "Block Diagram",
+            "Derivation of Closed Loop Transfer Function",
+            "Advantages and Disadvantages"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Definitions of Path Planning and Trajectory Planning",
+            "Joint Space versus Cartesian Space Trajectory Planning",
+            "Cubic Polynomial Based Trajectory Planning",
+            "Point to Point and Continuous Path Planning",
+            "Robot Selection Considerations for an Application: Number of Axes",
+            "Work Volume",
+            "Capacity and Speed",
+            "Stroke and Reach",
+            "Repeatability, Precision and Accuracy",
+            "Operating Environment"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

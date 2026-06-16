@@ -1,0 +1,45 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Overview of Financial Systems - Financial markets, instruments, and data",
+      "Data Science in Finance - Role of data science, types of data in finance (structured, unstructured, time-series, etc",
+      "Financial Data Acquisition -Sources of financial data, Data retrieval from the Internet",
+      "Data Preprocessing -Data cleaning, handling missing data, outlier detection, normalization, and scaling",
+      "Exploratory Data Analysis - Visualizing financial data (candlestick charts, histograms), statistical summaries"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Evaluation metrics like RMSE",
+      "confusion matrix",
+      "accuracy",
+      "precision",
+      "and recall"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Implementing a credit risk scoring model"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Introduction to Algorithmic Trading - Basics of trading strategies, high-frequency trading, algo-bots",
+      "Financial Portfolio Theory - Modern Portfolio Theory (MPT), Efficient Frontier",
+      "Optimization Algorithms - Gradient Descent, Genetic Algorithms for portfolio optimization",
+      "Backtesting Trading Strategies - Python libraries for backtesting (e.g. , Backtrader, QuantConnect"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

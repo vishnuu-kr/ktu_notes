@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Binary block codes, Minimum distance, Error-detecting capability and error-\ncorrecting capability.\nLinear block codes: Linear block codes, Generator matrix, Parity-check\nmatrix. Dual code, Alternate characterizations of minimum distance for\nlinear block codes, Repetition code, Single-parity-check code, Hamming\nCode, Bounds on Codes – Singleton Bound, Hamming bound, Gilbert-\nVarshamov bound, Plotkin bound.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Decoding of linear block codes: Maximum a-posteriori probability (MAP)\ndecoding, Maximum likelihood (ML) decoding, Standard Array Decoding",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Cyclic codes: Review of Finite fields, Polynomial description of cyclic\ncodes, generator and check polynomials, Roots of cyclic codes, BCH codes,\nReed-solomon codes. Berlekamp-Welch decoding algorithm.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "LDPC codes; binary expander codes, Sipser - Spielman decoding algorithm,\nIntroduction to iterative decoding.",
+    "contact_hours": "8"
+  }
+]

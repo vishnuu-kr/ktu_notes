@@ -1,0 +1,54 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "DISCRETE FOURIER TRANSFORM Review of Discrete Time Fourier Transform. Frequency domain sampling and reconstruction of Discrete time signals -DFT- properties of DFT. Circular convolution",
+      "Dentition, Linear convolution using DFT. Computation of DFT",
+      "Direct computation of DFT",
+      "DFT as linear Transformation",
+      "Fast Fourier Transform (Radix",
+      "2 FFT only",
+      "Decimation in time and decimation in frequency algorithms. Problem solving using software tools"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "DIGITAL FILTER STRUCTURES Z-Transform representation of FIR and IIR filters- FIR filter structures: -Direct form",
+      "Cascade form and Lattice structures IIR filter structure: Direct form Transpose form",
+      "Cascade form and Parallel form structures. FINITE WORD LENGTH EFFECTS Quantization noise",
+      "Round off effects",
+      "Limit cycle oscillations"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "IIR DIGITAL FILTERS Digital Filter Specifications",
+      "Design of IIR digital filters from analog filters",
+      "Butterworth and Chebyshev filters",
+      "Design of Low pass filters",
+      "Spectral transformation of IIR filters",
+      "Analogue to digital transfer function: impulse invariant method, bilinear transformation method. Problem solving using software tools"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Estimation of filter order",
+      "FIR filter design",
+      "Impulse response of ideal filters",
+      "Gibbs Phenomenon",
+      "Fixed window functions: Rectangular, Hamming, Blackman",
+      "Adjustable window function: Kaiser window. Problem solving using software tools"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

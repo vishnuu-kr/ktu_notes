@@ -1,0 +1,86 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Constructional details of dc machines",
+      "armature winding",
+      "lap and wave (concepts only) DC Generator",
+      "principle of operation",
+      "emf equation",
+      "numerical problems Classification of DC generator",
+      "separately excited & self-excited",
+      "steady-state equations",
+      "numerical problems DC shunt generator",
+      "no-load (open circuit) characteristics",
+      "critical field resistance, critical speed, voltage buildup",
+      "load characteristics",
+      "armature reaction",
+      "cross magnetising & demagnetising effect (concepts only) Power flow diagram",
+      "losses and efficiency",
+      "maximum efficiency",
+      "numerical problems DC motor",
+      "back emf",
+      "torque equation",
+      "numerical problems Classification of DC motors",
+      "steady-state equations",
+      "numerical problems Characteristics of shunt and series motors Starting of DC motors (concepts only) Power flow diagram",
+      "losses and efficiency",
+      "numerical problems Testing",
+      "Swinburne’s test",
+      "numerical problems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Single phase transformers - constructional details - principle of operation - EMF equation - ideal and practical transformer - numerical problems Operation on no load and on load - phasor diagram at different load conditions - equivalent circuit - voltage regulation - numerical problems Losses and efficiency - maximum efficiency - numerical problems Testing of transformers - OC test",
+      "SC test - numerical problems Autotransformer - saving of copper - numerical problems 3- phase transformer - construction - different connections of 3-phase transformers - Υ-Υ",
+      "Δ-Υ - numerical problems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Principle of Operation of 3-phase synchronous generator",
+      "classification -constructional features",
+      "EMF equation",
+      "coil-span factor and distribution factor (sinusoidal flux distribution only",
+      "numerical problems Synchronous generator on no-load",
+      "open circuit characteristics",
+      "synchronous generator on load",
+      "armature reaction",
+      "effect of armature reaction Equivalent circuit",
+      "phasor diagram",
+      "voltage regulation",
+      "predetermination of voltage regulation by emf and mmfmethod",
+      "numerical problems Parallel operation",
+      "synchronous generator on infinite bus-bar",
+      "conditions",
+      "methods of synchronisation",
+      "dark lamp method",
+      "bright lamp method Synchronous motor",
+      "rotating magnetic field (no derivation",
+      "principle of operation",
+      "starting methods"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "3-phase induction motor - principle of operation - classification -constructional features - torque equation - torque-slip characteristics - numerical problems Phasor diagram - equivalent circuit Power flow diagram - losses and efficiency - numerical problems No-load and blocked-rotor tests - determination of equivalent circuit parameters - numerical problems Starting of induction motors - types of starters - DOL starter",
+      "autotransformer starter",
+      "star-delta starter",
+      "rotor resistance starter (no design) - numerical problems Single-phase induction motors - double revolving field theory - torque slip characteristics - types - split-phase",
+      "capacitor-start induction-run",
+      "permanentcapacitor types - applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

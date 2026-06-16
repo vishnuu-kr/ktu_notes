@@ -1,0 +1,93 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Network Science - The Main Premise of Network Science",
+            "History and Relation to Graph Theory",
+            "Physics",
+            "Sociology",
+            "And Other Disciplines",
+            "Examples of Networks from Different Application Domains",
+            "The Characteristics of Network Science",
+            "Societal and Scientific Impact. Familiarisation of Network Analysis and Visualization Tools - NetworkX",
+            "Gephi",
+            "Cytoscape",
+            "Infomap",
+            "Igraph",
+            "Statnet",
+            "Network Workbench",
+            "Pajek Network Visualization",
+            "Jung Network Analysis",
+            "GraphViz",
+            "Matlab's Random Boolean Networks (RBN) Toolbox"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Relevant Concepts from Graph Theory - Undirected",
+            "Directed",
+            "Signed",
+            "Weighted and Spatial Networks",
+            "Paths",
+            "Connected Components",
+            "Directed Acyclic Graphs",
+            "Bipartite Graphs",
+            "Clustering Coefficients. The Random Network Model - Introduction",
+            "Number of Links",
+            "Degree Distribution in Random Network",
+            "The Evolution of a Random Network",
+            "Small Worlds",
+            "Clustering Coefficient in Random Network",
+            "Watts-Strogatz Model. The Barabasi-Albert Model - Growth and Preferential Attachment",
+            "The Barabási-Albert Model"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Network Robustness - Percolation Theory",
+            "Inverse Percolation Transition and Robustness",
+            "Robustness of Scale-free Networks",
+            "Molloy-Reed Criterion",
+            "Critical Threshold",
+            "Attack Tolerance",
+            "Cascading Failures",
+            "Modelling Cascading Failures",
+            "Failure Propagation Model",
+            "Branching Model",
+            "Building Robustness",
+            "Designing Robust Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Communities - Basics of Communities",
+            "Hierarchical Clustering",
+            "Agglomerative Procedures: the Ravasz Algorithm",
+            "Divisive Procedures: the Girvan-Newman Algorithm",
+            "Hierarchy in Real Networks",
+            "Modularity. Spreading Phenomena - Epidemic Modelling",
+            "Susceptible-Infected (SI) Model",
+            "Susceptible-Infected-Susceptible (SIS) Model",
+            "Susceptible-Infected-Recovered (SIR) Model",
+            "Network Epidemics",
+            "Susceptible-Infected (SI) Model on a Network",
+            "SIS Model and the Vanishing Epidemic Threshold",
+            "Contact Networks",
+            "Digital Viruses",
+            "Immunization",
+            "Random Immunization",
+            "Vaccination Strategies in Scale-Free Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Position Definitions - Coordinate Frames",
+            "Different Orientation Descriptions",
+            "Free Vectors - Translations, Rotations and Relative Motion - Position and Orientation of a Rigid Body - Rotation Matrix - Elementary Rotations - Representation and Rotation of a Vector",
+            "Composition of Rotation Matrices - Euler Angles - YZY Angles - Roll-Pitch-Yaw Angles - Angle and Axis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Kinematic Chains",
+            "Denavit Hartenberg Representation - Kinematics of Manipulator Structures - Three Link Planar Arm - Parallelogram Arm - Anthropomorphic Arm - Spherical Arm",
+            "Stanford Manipulator - Manipulator Kinematics - Inverse Kinematics - The General Inverse Kinematics Problem - Kinematic Decoupling",
+            "Inverse Position",
+            "Inverse Orientation - Joint Space and Operational Space - Workspace"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Differential Kinematics and Statics - Geometric Jacobian - Derivative of a Rotation Matrix",
+            "Link Velocity - Jacobian Computation - Jacobian of Typical Manipulator Structures - Three-Link Planar Arm",
+            "Anthropomorphic Arm - Stanford Manipulator",
+            "Kinematic Singularities - Singularity Decoupling - Wrist Singularities - Arm Singularities - Analysis of Redundancy - Differential Kinematics Inversion - Redundant Manipulators"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Joint Space Control",
+            "Independent Joint Control",
+            "Feedback Control",
+            "Decentralized Feedforward Compensation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

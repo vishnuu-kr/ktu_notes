@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basic Structure of computers – functional units - basic operational concepts\n- bus structures. Memory locations and addresses - memory operations, Instructions\nand instruction sequencing, addressing modes. Basic processing unit – fundamental\nconcepts – instruction cycle – execution\nof a complete instruction - single bus and multiple bus organization",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Register transfer logic: inter register transfer – arithmetic, logic, and shift\nmicro-operations.\nProcessor logic design: - processor organization – Arithmetic logic unit -\ndesign of arithmetic circuit - design of logic circuit - Design of arithmetic logic\nunit - status register – design of shifter - processor unit – design of\naccumulator.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Arithmetic algorithms: Algorithms for multiplication and division (restoring\nmethod) of binary numbers. Array multiplier, Booth’s multiplication\nalgorithm.\nPipelining: Basic principles, classification of pipeline processors, instruction\nand arithmetic pipelines (Design examples not required), hazard detection and\nresolution.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Control Logic Design: Control organization – Hardwired control-\nmicroprogram control –control of processor unit - Microprogram sequencer,\nmicro programmed CPU organization - horizontal and vertical micro\ninstructions.\nI/O organization: accessing of I/O devices – interrupts, interrupt hardware -\nDirect memory access.",
+    "contact_hours": "9"
+  }
+]

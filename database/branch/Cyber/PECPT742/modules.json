@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Distributed Systems: Definition and characteristics,\nExamples and applications, Challenges in distributed systems.\nCommunication in Distributed Systems: Interprocess communication:\nRemote Procedure Call (RPC), Remote Method Invocation (RMI), Message-\noriented communication.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Middleware Technologies: Overview of middleware, Types of middleware\n(e.g., message-oriented, object-oriented, service-oriented), Middleware\nplatforms and frameworks.\nSynchronization and Coordination: Logical clocks, Mutual exclusion,\nElection algorithms.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Distributed Middleware: Middleware architecture, Types of middleware,\nCase studies (e.g., CORBA, DCOM).\nFault Tolerance and Reliability: Fault models, Replication techniques,\nConsensus algorithms.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Distributed File Systems and Databases: Distributed file system design,\nDistributed databases, Consistency models.\nSecurity in Distributed Systems: Security threats and vulnerabilities,\nAuthentication and authorization, Secure communication protocols.",
+    "contact_hours": "9"
+  }
+]

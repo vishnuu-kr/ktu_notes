@@ -1,0 +1,344 @@
+Course Code 
+PEAET866 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBECT504 Digital 
+Signal Processing 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To have sufficient understanding of multirate operations and design of filter banks for 
+signal processing applications. 
+2. To familiarize with wavelet transform of signals, construction of wavelets, filter bank 
+implementation and practical applications 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Multirate Systems and Filter banks 
+Introduction to multirate signal processing and its applications. Multirate 
+system fundamentals - Basic multi-rate operations - up sampling and down 
+sampling, Time domain and Frequency domain analysis, Need for anti 
+aliasing and anti imaging filters. Noble identities. Fractional sampling rate 
+alteration.  
+Type 1 and Type 2 Polyphase decomposition, Efficient structures for 
+decimation and interpolation filters. Introduction to Digital Filter Banks, 
+Efficient implementation, Two Channel Quadrature Mirror Filterbank 
+(QMF), Perfect Reconstruction. 
+9  
+2 
+Time - Frequency analysis of signals and Wavelet Transform 
+Time - frequency analysis of signals - Spectral analysis of signals, Spectral 
+leakage by windowing effect, Time and frequency localization of signals, the 
+Uncertainty Principle and its implications.  
+Short Time Fourier transform – Continuous time and discrete time STFT, 
+Filter bank implementation of STFT. 
+Continuous wavelet transform – Concept of wavelets, CWT for signal 
+ 
+9  
+
+ 
+ 
+analysis, Condition of admissibility and its implications, Inverse Continuous 
+Wavelet Transform, Properties of CWT. 
+3 
+Discrete Wavelet Transform and filter bank implementation 
+Discrete Wavelet Transform – Concept of DWT, Time frequency tiling of 
+DWT and comparison to STFT. Haar Scaling and Wavelet functions, 
+Function Spaces, Refinement relation, Wavelet decomposition of signals.  
+Designing orthogonal wavelet systems- Relation of DWT to filter banks for 
+signal decomposition and reconstruction 
+Multi resolution Analysis (MRA) - Concept of MRA and relating it to filter 
+banks. 
+Computation of DWT using Mallat Algorithm and Lifting Scheme. 
+9  
+4 
+Wavelet Transform applications 
+Wavelet Transform applications in image processing – Wavelet Transform 
+of images, Wavelet Transform based Image compression, EZW Coding. 
+Applications of Wavelet Transform   in image denoising, edge detection and 
+object detection.  
+Wavelet Transform applications in audio processing - Application of 
+wavelets in audio compression, Wavelet based audio coding. 
+ 
+9  
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the concepts and interconnection of multirate systems to 
+identify the efficient realization of filter banks using polyphase 
+decomposition and multirate identities. 
+K3 
+CO2 
+Explain the principles of Short Time Fourier Transform and Wavelet 
+Transform, taking into consideration the time frequency analysis of 
+signals. 
+K3 
+CO3 
+Illustrate filter bank implementation of wavelet transform to be used in  
+multi resolution analysis for signal processing applications 
+K3 
+CO4 
+Examine the use of wavelet transforms for applications involving 
+image and audio processing. 
+K4 
+CO5 
+Understand the concepts and interconnection of multirate systems to 
+identify the efficient realization of filter banks using polyphase 
+decomposition and multirate identities. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Multirate Systems and Filter 
+Banks 
+P. Vaidyanathan 
+Pearson Education 
+1/e 2006 
+2 
+Insight Into Wavelets: From 
+Theory to Practice 
+K.P. Soman, K.I. 
+Ramachandran, N.G. 
+Resmi 
+Prentice Hall 
+3/e 2010 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Signal Processing: A 
+computer based approach 
+Sanjith K Mitra 
+Tata-McGraw Hill 
+4/e 2013 
+2 
+Digital 
+Signal 
+Processing. 
+Principles, 
+Algorithms 
+and 
+Applications 
+John G. Proakis, Dimitris 
+G. Manolakis. 
+Pearson Education 
+4/e  2007 
+3 
+Wavelets and Filter banks 
+ 
+Gilbert Strang and 
+Truong Q. Nguyen 
+Wellesley- Cambridge 
+Press 
+2/e 1996 
+4 
+Wavelet Transforms: 
+Introduction to Theory  and 
+Applications 
+Raghuveer M. Rao, Ajit 
+S. Bopardikar 
+Prentice Hall 
+1/e 1998 
+5 
+Wavelets and sub band coding,  
+ 
+M. Vetterli & J. 
+Kovacevic 
+Prentice Hall 
+1/e 1995 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/108/106/108106136/ 
+2 
+https://nptel.ac.in/courses/117101001 
+3 
+https://nptel.ac.in/courses/117101001 
+4 
+https://nptel.ac.in/courses/117101001 
+ 
+ 
+
+ 
+ 
+SEMESTER S8 
+DEEP LEARNING

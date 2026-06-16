@@ -1,0 +1,67 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Graphs - Basic definition",
+            "Application of graphs",
+            "finite and infinite graphs",
+            "Incidence and Degree",
+            "Isolated vertex",
+            "Pendant vertex and Null graph. Isomorphism",
+            "Sub graphs",
+            "Walks",
+            "Paths and circuits",
+            "Connected graphs",
+            "Disconnected graphs and components"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Euler graphs",
+            "Operations on Graphs",
+            "Hamiltonian paths and circuits",
+            "Travelling Salesman Problem",
+            "Connectivity",
+            "Edge connectivity",
+            "Vertex connectivity",
+            "Directed graphs",
+            "Types of directed graphs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Trees- properties",
+            "Pendant vertices",
+            "Distance and centres in a tree",
+            "Rooted and binary trees",
+            "Counting trees",
+            "Spanning trees",
+            "Prim's algorithm and Kruskal's algorithm",
+            "Dijkstra's shortest path algorithm",
+            "Floyd-Warshall shortest path algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Matrix representation of graphs- Adjacency matrix",
+            "Incidence Matrix",
+            "Circuit Matrix",
+            "Path Matrix",
+            "Coloring",
+            "Chromatic number",
+            "Chromatic polynomial",
+            "Greedy colouring algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

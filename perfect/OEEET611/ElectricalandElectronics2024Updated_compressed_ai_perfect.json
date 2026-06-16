@@ -1,0 +1,38 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "LTI Systems",
+            "Transfer Function Representation of Differential Equation in Laplace Domain, Electrical, Translational and Rotational Mechanical Systems",
+            "DC Servo-Motor Modelling, Block Diagram Representation and Reduction, Signal Flow Graph and Mason's Gain Formula"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Time Domain Analysis of Control Systems: Impulse and Step Responses of First and Second Order Systems, Pole Dominance for Higher Order Systems, Time Domain Specifications, Steady State Error Analysis and Static Error Constants, Characteristic Equation, Routh Stability Criterion"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Root Locus Technique: Construction of Root Locus, Stability Analysis, Effect of Addition of Poles and Zeros, Effect of Positive Feedback Systems on Root Locus",
+            "Controller Design: Types of Controllers and Their Control Action - Proportional (P), Integral (I), Derivative (D), PID Control, PID Tuning Using Ziegler-Nichols Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Bode Plot: Construction, Concept of Gain Margin and Phase Margin, Stability Analysis, Frequency Domain Specifications",
+            "Correlation Between Time Domain and Frequency Domain Responses (Resonant Peak and Resonant Frequency), Polar Plot: Gain Margin and Phase Margin, Stability Analysis, Nyquist Stability Criterion, Concept of Nichols Chart"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to scheduling: Definition of scheduling, role of scheduling,\nterminologies involved in scheduling, classification of scheduling models -\nGraham et al. 𝛼/𝛽/𝛾 notations to classify scheduling problems, performance\nmeasures, relationship between performance measures, theorems related to\nperformance measures (proof and problems). Classes of schedules - non-\ndelay schedules, active schedules and semi-active schedules. Single machine\nmodels without due dates (proof of theorems and problems) - permutation\nschedules theorems, shortest processing time (SPT) rule, weighted shortest\nprocessing time (WSPT) rule.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Single machine models with due dates: Problems with due dates,\nminimizing total lateness, minimizing maximum lateness and maximum\ntardiness, minimizing the number of tardy jobs - Moore and Hodgson\nalgorithm, minimizing mean tardiness - Wilkerson-Irwin algorithm,\nminimizing regular performance measures with precedence constraints -\nLawler’s algorithm, application of Smith’s algorithm. General purpose\nmethodologies for single machine problem - neighborhood search\ntechniques, dynamic programming approach, branch & bound approach.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Parallel machine problems and flow shop problems: Parallel identical\nprocessors and independent jobs with preemptions and without preemptions,\nparallel identical processors and dependent jobs, permutation schedule-\nJohnson’s algorithm, two jobs and m machine problems - Aker’s graphical\nmethod. Special cases of three-machine problem - extension of Johnson’s\nalgorithm, branch & bound algorithms for makespan problems, heuristic\napproaches - Palmer’s algorithm, CDS algorithm and insertion heuristics.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Job shop scheduling and stochastic single machine models: Types of\nschedules, schedule generation, heuristic procedure - shifting bottleneck\nprocedure, integer programming formulation, simulation studies of the\ndynamic job shop (overview only). Stochastic models - preliminaries,\nstochastic  based on expectation, stochastic dominance based on variance,\nimpact of randomness on fixed schedules, classes of policies - non-\npreemptive static list policy, preemptive static list policy, non-preemptive\ndynamic policy and preemptive dynamic policy, stochastic single machine\nmodels - arbitrary distributions without preemptions, arbitrary distributions\nwith preemptions - the Gittins Index, likelihood ratio ordered distributions\nand exponential distributions.",
+    "contact_hours": "9"
+  }
+]

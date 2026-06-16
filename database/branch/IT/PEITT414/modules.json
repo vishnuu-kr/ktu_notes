@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basics of Computer Graphics and its Applications. Raster Scan & Random\nScan systems. Display Technologies: Overview of CRT, LCD, Plasma, LED,\nOLED, AMOLED, E-Paper displays.\nOutput Primitives – Line Drawing Algorithms - DDA, Bresenham’s,\nMidpoint Circle generation algorithm.\nFilled Area Primitives – Scan Fill, Flood Fill, Boundary Fill. Inside outside\ntests.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Two-dimensional\ntransformations\n-\nTranslation,\nRotation,\nScaling,\nReflection and Shearing, Composite transformations, Matrix representations,\nand homogeneous coordinates.\n2-D Clipping- Window to viewport transformation, Point Clipping, Cohen-\nSutherland Line Clipping Algorithm, Sutherland-Hodgeman, and Weiler-\nAtherton Polygon clipping algorithms.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Three-Dimensional Concepts: Three-Dimensional Display, Methods Parallel\nProjection, Perspective Projection, Depth Cueing, Visible Line and Surface,\nIdentification, Surface Rendering, Exploded and Cutaway Views, Three-\nDimensional and Stereoscopic Views\nThree-Dimensional transformation, Translations, Scaling, Rotation, Viewing\nTransformation, The Perspective, Algorithms, Three-Dimensional Clipping,\nPerspective view of Cube",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Visible Surface Detection Methods: Depth Buffer, A-Buffer, Scan line,\nDepth sorting methods. Hidden Surface Removal: Back face detection - Z-\nbuffer method - Painter's algorithm - scan-line algorithm – BSP Trees - Area\nsub-division method - Ray tracing - Animation - Morphing.\nIntroduction to Digital Image Processing.",
+    "contact_hours": "9"
+  }
+]

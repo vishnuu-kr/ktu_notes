@@ -1,0 +1,599 @@
+Course Code 
+PECNT634 
+ 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+SOFTWARE PROJECT 
+MANAGEMENT
+/PECST 521
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To familiarize learners about the concepts and advantages of using model based software 
+development. 
+ 
+2. To understand the  methodologies in developing the model of a software, perform analysis on 
+the model and automatic generation of code from the model. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Software faults, Introduction to Model checking, Introduction to 
+Automated Testing, Model Based Software Development (MBSD) – 
+Need, MBSD Approach, Learning MBSD from the perspective of 
+Architecture Analysis and Design Language (AADL). 
+ 
+9 
+2 
+MBSD based software development – Requirements, Analysis, Design 
+and Implementation. Model-Driven Architecture - Definitions and 
+Assumptions, Overview of MBSD methodology, The modelling levels-
+Computation Independent Model (CIM), Platform Independent Model 
+(PIM), Platform Specific Model (PSM). Introduction to AADL, Basic 
+Comparison of AADL with other modeling languages - Comparison 
+with UML. 
+9 
+3 
+Modeling: Developing a Simple Model - Define the components - 
+Explain with example (powerboat autopilot system), Develop a top-
+level model - Use example Powerboat Autopilot (PBA) system. AADL: 
+Components - Software, Hardware, Composite, Runtime semantics, 
+Language syntax, AADL declarations, AADL classifiers, AADL system 
+9 
+
+ 
+ 
+models and specifications. 
+ Case Study: Powerboat Autopilot System. 
+4 
+Safety Analysis -Fault tree analysis, Minimal cutsets. Error Modeling in 
+AADL-Error Model Libraries and Subclause Annotations, Error Types 
+and Common Type Ontology, Error Sources and Their Impact, 
+Component Error Behavior, Compositional Abstraction of Error 
+Behavior, Use of Properties in Architecture Fault Models, Error 
+modeling example. 
+ 
+Need for code generation, Categorization, Code Generation Techniques, 
+Code Generation in AADL Model – Ocarina. 
+ 
+9  
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written ) 
+Total
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, 
+out of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge Level 
+(KL) 
+CO1
+Explain the relevance of model based software development in the 
+software development process. 
+K2
+CO2
+Explain Model Driven Architecture with Computation Independent 
+Model (CIM), Platform Independent Model(PIM), Platform Specific 
+Model (PSM). 
+K3
+CO3
+Illustrate software modeling with Architecture Analysis and Design 
+Language (AADL). 
+K3
+CO4
+Explain error annex using error modelling concepts and illustrate 
+error modelling in AADL. 
+K2
+CO5
+Illustrate the process of code generation from an AADL model.  
+K2
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PO12
+CO1
+(3√) 
+(2√) 
+(2√) 
+(2√) 
+CO2
+(3√) 
+(2√) 
+(1√) 
+(2√) 
+(2√) 
+CO3
+(3√)
+(2√)
+(2√)
+(1√)
+(2√)
+CO4
+(3√)
+(3√)
+(1√)
+(2√)
+CO5
+(3√) 
+(2√) 
+(2√) 
+(2√) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Model-Driven Software 
+Engineering  in Practice,  
+Marco, Brambilla, 
+Jordi Cabot, 
+Manuel Wimmer
+Synthesis Lectures 
+on Software  
+Engineering
+2/e, 
+2017 
+2 
+Principles of model checking 
+Christel Baier and 
+Joost-Pieter Katoen
+The MIT Press 
+2008 
+3 
+Model-Driven Software 
+Development 
+Thomas Stahl and 
+Markus Volter
+Wiley,  
+2006 
+4 
+Model-Based Engineering with 
+AADL: An Introduction to the SAE 
+Architecture Analysis & Design 
+Language 
+David P. Gluch, 
+Peter H. Feiler 
+Adison-Wesley 
+2015 
+ 
+
+ 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the Publisher 
+Edition 
+and 
+Year 
+1 
+The Architecture Analysis & 
+Design Language(AADL): 
+An Introduction 
+Peter H. Feiler, 
+David P. 
+Gluch, John J. 
+Hudak
+Technical Note CMU/SEI-
+2006-TN-011 
+2006 
+2 
+Diagrams and Languages for 
+Model-Based Software 
+Engineering of 
+EmbeddedSystems: UML 
+and AADL
+de Niz, Dionisio 
+Carnegie Mellon University, 
+Software Engineering Institute 
+2007 
+3 
+Fault tree analysis: A survey 
+of the state-of-the-art in 
+modeling, analysis and tools 
+Enno Ruijters, 
+Marielle 
+Stoelinga 
+
+Computer Science 
+Review 
+2015 
+4 
+Illustrating the AADL error 
+modeling annex (v.2) using a 
+simple safety-critical 
+medical device.  
+Larson, Brian 
+&Hatcliff, John 
+& Fowler, Kim 
+&Delange, 
+Julien
+ACM SIGAda Ada Letters. 33. 
+65-84. 
+10.1145/2527269.2527271 
+2013 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc23_cs38/preview
+2 
+https://onlinecourses.nptel.ac.in/noc21_cs57/preview
+3 
+https://onlinecourses.nptel.ac.in/noc20_mg02/preview
+4 
+https://onlinecourses-archive.nptel.ac.in/noc18-me29/preview
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S6 
+VIDEO EDITING 
+ 
+Course Code 
+PECNT 636 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks
+60 
+Credits 
+3 
+Exam 
+Hours
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Basic Knowledge of Multimedia Course 
+Type
+Theory 
+ 
+Course Objectives: 
+This is an elective course in computer science and design. The course gives a comprehensive 
+understanding of video editing, techniques, tools and principles. It covers the concept of basic and 
+advanced editing techniques, audio manipulation, linear and nonlinear editing 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+(Introduction to editing) 
+Evolution of filmmaking - Introducing Digital Video - Getting Your 
+Digital Video Gear -linear editing - non-linear digital video - Economy 
+of Expression - risks associated with altering reality through editing. 
+ 
+9 
+2 
+ (Story telling) 
+Storytelling styles in a digital world through jump cuts, L-cuts, match 
+cuts, cutaways, dissolves, split edits - Consumer and pro NLE systems - 
+digitizing images - managing resolutions - mechanics of digital editing - 
+pointer files - media management 
+ 
+9 
+3 
+(Using audio and video) 
+Capturing digital and analog video - importing audio - Working with 
+Clips - Turning Your Clips into a Movie - Fixing Color and Light Issues 
+- Using Transitions and Titles - Working with Audio. 
+9 
+4 
+(Advanced Video Editing) 
+Using Video Effects in iMovie - Working with Still Photos and 
+ 
+9 
+
+ 
+ 
+Graphics- Previewing video - Exporting Movies for the Online World - 
+Exporting Digital Video to Tape - Recording CDs and DVDs – Tools 
+for digital video production. 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written ) 
+Total
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, 
+out of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s Knowledge 
+Level (KL) 
+CO1
+Explain the broad perspective of linear and nonlinear editing 
+concepts.  
+K2 
+CO2
+Articulate the concept of Storytelling styles.  
+K2 
+CO3
+Apply basic editing techniques, including transitions, titles, color 
+correction and audio manipulation  
+K3 
+CO4
+Discuss the advanced editing techniques 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PO12
+CO1
+2 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO2
+2
+1
+-
+-
+-
+-
+-
+-
+-
+-
+- 
+2
+CO3
+3
+2
+1
+1
+-
+-
+-
+-
+-
+-
+- 
+3
+CO4
+2 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+“Digital Video for Dummies” 
+Keith 
+Underdahl 
+Dummy Series 
+Third 
+Edition, 
+2001.
+2 
+"The Technique of Film and Video 
+Editing: History, Theory, and Practice"
+Ken Dancyger 
+Focal Press 
+5th Edition, 
+2011
+ 
+Reference Books 
+Sl. 
+No
+Title of the Book 
+Name of the 
+Author/s
+Name of the 
+Publisher
+Edition and 
+Year
+1 
+“Editing Digital Video: The 
+Complete Creative and Technical 
+Guide”, Digital Video and Audio 
+Robert M. 
+Goodman and 
+Partick McGarth
+McGraw – 
+Hill 
+1st Edition 
+2003 
+2 
+“In the Blink of An Eye” 
+Walter Murch 
+Silman-
+James 
+Press,U.S
+2nd 
+Edition,2001 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S6 
+DESIGN PROCESS AND PERSPECTIVE

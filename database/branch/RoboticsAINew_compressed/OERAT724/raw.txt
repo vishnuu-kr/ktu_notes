@@ -1,0 +1,318 @@
+Course Code 
+OERAT724 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. This course introduces the student with the computational fundamentals behind the design 
+and control of autonomous robots 
+2. This course takes the students through all the important concepts that is required to build an 
+autonomous robot. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Locomotion, manipulation and their representation: Static and dynamic 
+stability – Degrees of freedom – Coordinate systems and Frames of 
+Reference – Matrix notation – Mapping from one frame to another – 
+Concatenation of Transformations 
+Kinematics: Forward Kinematics – The Denavit-Hartenberg notation - 
+Inverse Kinematics –- Differential Kinematics – Inverse Differential 
+Kinematics 
+9 
+2 
+Forces: Statics – Kineto- Static Duality – Manipulability Ellipsoid in 
+Velocity Space, Force Space, Manipulability considerations 
+Grasping: The theory of grasping – Simple Grasping Mechanisms – 1-DoF 
+scissor like gripper, Parallel Jaw, 4-bar linkage parallel gripper, Multi-
+fingered hands 
+9 
+
+ 
+ 
+Actuators: Electric Motors - Hydraulic and pneumatic actuators – Safety 
+Considerations 
+Sensors: Terminology – Sensors that measure the robot’s joint 
+configuration – sensors that measure ego-motion, measuring force – 
+Sensors to measure distance – Sensors to measure global pose 
+3 
+Vision: Images as two dimensional signals – Translation of Signal to 
+information - Basic image operations – Extracting structure from Vision – 
+Computer vision and Machine learning  
+Feature Extraction: Feature detection as an information-reduction 
+problem – Features – Line recognition – Scale-invariant feature transforms 
+– Feature detection and Machine learning 
+9 
+4 
+Artificial Neural Network: The simple perception – Activation function - 
+Simple perceptron to multilayer neural network – Single outputs to higher 
+dimensional data – Objective Functions and optimization 
+Task Execution: Reactive Control – Finite State Machines – Hierarchical 
+Finite State Machine- Behaviour Trees – Mission Planning 
+Mapping: Map representations – Iterative Closest point for sparse mapping 
+– Octomap:  dense mapping of voxels – RGB-D mapping: dense mapping 
+of surfaces 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the challenges involved in robotic locomotion and the 
+kinematics of robots 
+K2 
+CO2 
+Identify the appropriate sensors and actuators for a particular robotic 
+application 
+K2 
+CO3 
+Describe the principles behind extracting information using visual 
+techniques 
+K2 
+CO4 
+Explain the design of control loops that determine robotic behaviour 
+and mapping techniques used by the robots to understand its 
+surroundings 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Autonomous 
+Robots: Mechanisms, Sensors, 
+Actuators and Algorithms 
+Nikolaus Correll, 
+Bradley Hayes, 
+Christoffer Heckman and 
+Alessandro Roncone 
+MIT Press 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Mobile Robot 
+Control 
+Spyros G. Tzafestas 
+Elsevier, USA 
+2012 
+2 
+Introduction to Autonomous 
+Mobile Robots 
+R Siegwart, IR 
+Nourbakhsh, D 
+Scaramuzza 
+MIT Press 
+2011 
+3 
+Sensors for mobile robot 
+HR Everett 
+CRC Press 
+2012 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://open.umn.edu/opentextbooks/textbooks/316 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+ 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEMESTER 8 
+ROBOTICS AND ARTIFICIAL 
+INTELLIGENCE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+SEMESTER S8 
+MECHATRONIC SYSTEM DESIGN

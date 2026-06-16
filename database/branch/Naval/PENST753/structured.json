@@ -1,0 +1,63 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Scope of finite element method in solving engineering problems",
+      "General steps in finite element analysis",
+      "variational formulations and weighted residual methods",
+      "Analysis of trusses",
+      "beams",
+      "and frames",
+      "Analysis of plates",
+      "Analysis of three-dimensional problems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Shape functions",
+      "Convergence criteria",
+      "General equations for calculation of stiffness matrix",
+      "Derivation of stiffness matrix for truss beam",
+      "Plane stress",
+      "plane strain",
+      "axisymmetric elements"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Ship Structural Analysis using FEM",
+      "formulation of plate finite elements, issues associated with plate formulation of finite elements. Numerical examples on simple plate analysis. One dimensional and two dimensional finite element modelling of ship structure"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Preprocessing - preliminary checks",
+      "engineering model checks - analysis type and assumptions",
+      "geometry assumptions",
+      "material properties",
+      "stiffness and mass properties",
+      "loads and boundary conditions",
+      "finite element model checks",
+      "element types",
+      "mesh design",
+      "substructures and sub-modelling",
+      "FE model loads and boundary conditions",
+      "processing",
+      "post processing - methods",
+      "displacement results",
+      "stress results",
+      "fatigue and fracture results"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

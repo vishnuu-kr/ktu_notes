@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "ROS Fundamentals:\nROS Graph,ROS master, roscore, Catkin: Workspaces and ROS Packages,\nrosrun, Names, Namespaces, and Remapping Using roslaunch, tf: Coordinate\nTransforms - Poses, Positions, and Orientations, Publishing to a Topic,\nSubscribing to a Topic, Latched Topic,  Defining Message Types, Mixing\nPublishers and Subscribers",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Services and Actions:\nDefining a Service, implementing a Service, Using a Service, Defining an\nAction, Implementing a Basic Action Server, Using an Action, Implementing\na More Sophisticated Action Server, Using the More Sophisticated Action.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Robots and Simulators:\nSubsystems - Actuation: Mobile Platform, Actuation: Manipulator Arm,\nSensors, Computation Complete Robots – PR2, Fetch, Robonaut 2,\nTurtleBot, Simulators – Stage, Gazebo. Other Simulators",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Building Maps of the World and Navigating About the World:\nMaps\nin\nROS-representation\nand\nformats,\nSLAM\n(Simultaneous\nLocalization and Mapping), rosbag and its functionalities, Recording and\nplaying back data, Techniques for building maps from sensor data,\nGMapping and Cartographer for mapping, Map Server in ROS, Loading and\nserving maps, localization techniques (e.g., AMCL), Implementing\nlocalization in ROS.",
+    "contact_hours": "9"
+  }
+]

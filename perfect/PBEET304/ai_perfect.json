@@ -1,0 +1,69 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Review of Bipolar Junction Transistor and Introduction to DC Biasing",
+            "Base Bias",
+            "Voltage Divider Bias and Common Emitter Amplifier",
+            "AC Concepts",
+            "Role of Coupling Capacitors and Emitter Bypass Capacitor, Common Emitter AC Equivalent Circuit, Amplifier Gain",
+            "Calculation of Amplifier Gains and Impedances Using h-Parameter Equivalent Circuit",
+            "Emitter Follower Amplifier",
+            "Power Amplifiers and AC Load Line",
+            "RC Coupled Amplifiers",
+            "Transformer Coupled Class A Amplifiers",
+            "Class B Amplifiers and Derivation of Efficiency",
+            "Class AB Amplifiers",
+            "Class C and Class D Amplifiers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to JFET",
+            "JFET Biasing Circuits",
+            "Common Source Amplifier",
+            "Introduction to MOSFET",
+            "MOSFET Construction",
+            "D-MOSFET and E-MOSFET",
+            "Complementary MOSFET Amplifier",
+            "Frequency Response",
+            "Basic Concepts",
+            "BJT Amplifier Frequency Response",
+            "FET Amplifier Frequency Response",
+            "Feedback and Oscillator Circuits",
+            "Feedback Concepts",
+            "Feedback Connection Types",
+            "Practical Feedback Circuits",
+            "Oscillators",
+            "Phase Shift Oscillator and Expression of Frequency Oscillation",
+            "Wien Bridge Oscillator",
+            "Tuned Oscillator Circuits",
+            "Crystal Oscillator"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Zero Crossing and Voltage Level Detectors",
+            "Schmitt Trigger"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Square, Triangular and Ramp Generator Circuits Using Op-Amp",
+            "Effect of Slew Rate on Waveform Generation",
+            "Timer 555 IC: Internal Diagram, Astable and Monostable Multivibrators",
+            "Project Based Learning Approach and Project Topic Suggestions for Analog Electronics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

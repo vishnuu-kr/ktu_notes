@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Robotics",
+            "Introduction",
+            "Basic Structure-Classification of Robot and Robotic System-Law of Robotics-Robot Motion-Wrist Configuration-Motion",
+            "Roll",
+            "Pitch-Yaw-Drives-Hydraulic Motors-DC Motor-Stepper Motor-PowerTransmission Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Position Sensor-Potentiometer-Encoders-LVDT-Velocity Sensor-Acceleration Sensor-Force- Pressure and Torque Sensor-Touch and Tactile Sensor-Proximity",
+            "Range and Sniff Sensor-Robot End Effectors-Types of End Effectors- Mechanical Gripper",
+            "Types of Gripper Mechanism"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Position Orientation",
+            "Frames",
+            "Mapping",
+            "Changing Description from Frames to Frames. Transformation arithmetic’s",
+            "Translation",
+            "rotation",
+            "transformation",
+            "transforms equations",
+            "transformation of the vectors-. Introduction to manipulations Forward Kinematics and inverse Kinematics- D-H representation",
+            "Method of Robotic Programming (Qualitative Treatment Only"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Basics of PLC",
+            "Advantage",
+            "Capabilities of PLC",
+            "Architecture of PLC",
+            "Types of PLC",
+            "Types of I/O Modules",
+            "Configuring of PLC. Simple process control programme using ladder logic",
+            "PLC arithmetic functions",
+            "Timer and Counters Requirement of communication networks in PLC",
+            "Connecting PLC to computer"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

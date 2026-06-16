@@ -1,0 +1,92 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to ARM Cortex-M Architecture:-Overview of Embedded Systems",
+            "Applications of Embedded Systems",
+            "Introduction to Embedded C",
+            "Microcontrollers vs. Microprocessors",
+            "Classification of processors",
+            "Overview of ARM Cortex-M Series",
+            "Introduction to the Cortex-M23 and Cortex-M33 processors and the Armv8-mArchitecture",
+            "ARM Core Features: Registers",
+            "Memory",
+            "and Bus Architecture",
+            "Comparison with previous generations of Cortex-M processors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "STM32 Microcontroller Overview and Peripheral Programming:-Introduction to STM32 Family",
+            "STM32U575 Features and Specifications",
+            "Power Management and Low-Power Features Libraries",
+            "Introduction to Integrated Development Environment and HAL",
+            "Writing",
+            "and Debugging Your First Program(LED Interfacing",
+            "Interfacing Seven-Segment Display",
+            "LCD Display",
+            "and Matrix Keypad",
+            "Relay Interfacing",
+            "Analog to Digital Conversion: Potentiometer",
+            "temperature sensor",
+            "Microphone",
+            "Digital to Analog Conversion: Simple DAC Output Generation",
+            "Generating a Sine Wave",
+            "Audio Signal Generation",
+            "Interrupt Handling",
+            "Timer and Counter Applications: Basic Timer Configuration",
+            "Timers as Counters",
+            "Timer-Based Real-Time Clock (RTC"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Communication Protocols and USB:-Serial port terminal Application",
+            "Serial communication (USART",
+            "Interfacing an I2C Temperature Sensor and Displaying Data on an LCD",
+            "writing to and Reading from an SPI-based EEPROM",
+            "Configuring and Implementing CAN Communication between Multiple STM32U575 Microcontrollers",
+            "Creating a USB HID Device for Keyboard / Mouse Emulation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Wireless Communication",
+            "and RTOS:-Introduction to IoT",
+            "IoT Architecture",
+            "Protocols (MQTT",
+            "CoAP",
+            "IoT Security Principles and Common Threats Wireless Communication: Interfacing GSM (Call",
+            "Internet",
+            "Bluetooth Communication Basics",
+            "LoRa Communication Basics and Applications",
+            "Designing an IoT-Based Home Automation System",
+            "Introduction to RTOS Concepts",
+            "FreeRTOS with STM32: Task Creation",
+            "Scheduling",
+            "and Management",
+            "RTOS Timers",
+            "Delays",
+            "and RTC Integration",
+            "Inter-task Communication: Queues and Semaphores Trust Zone Technology: Introduction to ARM Trust Zone",
+            "Trust Zone Architecture and Features",
+            "Secure and Non-Secure Worlds: Configuration and Management",
+            "Implementing Trust Zone in STM32U575",
+            "Advanced Debugging and Optimization: Code and Memory Optimization Techniques",
+            "Debugging Strategies and Tools Suggestion on Project Topics ● Identify real world problems requiring hardware solutions and develop them using peripheral devices. Some of the examples would be - Home automation",
+            "Small home/office security system",
+            "ARM based voice response system etc"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

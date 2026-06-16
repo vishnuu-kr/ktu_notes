@@ -1,0 +1,339 @@
+Course Code 
+PEMRT631 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None/ 
+(Course code) 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the fundamental principles and architectures of computer networks, including 
+physical structures, network models, and the interconnection of networks, along with an in-
+depth exploration of the OSI model and TCP/IP protocol suite. 
+2. To gain comprehensive knowledge of network security mechanisms, including symmetric and 
+public-key cryptography, authentication protocols, and firewall technologies, while mastering 
+advanced topics in reliable data transfer, congestion control, and routing algorithms in the 
+Internet. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Networks: Network criteria, physical structures, network models, 
+categories of networks, Interconnection of Networks: Internetwork.  
+Network models: Layered tasks, OSI model, Layers in OSI model, TCP/IP 
+protocol suite.  
+Application Layer: Principles of Network Applications: Network 
+Application Architectures, Processes Communicating, Transport Services 
+Available to Applications, Transport Services Provided by the Internet, 
+Application-Layer Protocols. Guided and unguided transmission media -
+Co-axial cable, UTP, STP, Fiber optic cable 
+ 
+9 
+2 
+Transport Layer : Introduction and Transport-Layer Services: 
+Relationship Between  Transport and Network Layers, Overview of the 
+ 
+
+ 
+ 
+Transport Layer in the Internet. 
+Multiplexing and Demultiplexing: Connectionless Transport: UDP,UDP 
+Segment Structure,  UDP Checksum 
+Principles of Reliable Data Transfer: Building a Reliable Data Transfer 
+Protocol, Pipelined Reliable Data Transfer Protocols, Go-Back-N, 
+Selective repeat, Connection-Oriented Transport TCP: The TCP 
+Connection, TCP Segment Structure,  Reliable Data Transfer, Flow 
+Control, TCP Connection Management, Principles of Congestion 
+Control: The Causes and the Costs of Congestion, Approaches to 
+Congestion Control, Network-assisted congestion-control example, ATM 
+ABR Congestion control, TCP Congestion Control: Fairness. 
+9 
+3 
+The Network layer:  Router: Input Processing, Switching, Output 
+Processing, Routing: Routing and Forwarding, Static routing and Dynamic 
+routing, Routing control plane, IPv6, A Brief foray into IP Security, 
+Routing Algorithms: The Link-State (LS) Routing Algorithm, The 
+Distance-Vector (DV) Routing Algorithm, Hierarchical Routing, Routing in 
+the Internet, Intra-AS Routing in the Internet: RIP, Intra-AS Routing in the 
+Internet: OSPF, Inter/AS Routing: BGP, Broadcast Routing Algorithms and 
+Multicast. 
+9 
+4 
+Network Security: Overview of Network Security: Elements of Network 
+Security, Classification of Network Attacks, Security Methods,  
+Symmetric-Key Cryptography: Data Encryption Standard (DES), 
+Advanced Encryption Standard (AES),  
+Public-Key Cryptography: RSA Algorithm, Diffie-Hellman Key-
+Exchange Protocol,  
+Authentication: Hash Function, Secure Hash Algorithm (SHA), Digital 
+Signatures, Firewalls and Packet Filtering, Proxy Server. 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Demonstration of application layer protocols  
+ 
+K2 
+CO2 
+Discuss transport layer services and understand UDP and TCP 
+protocols  
+K2 
+CO3 
+Explain routers, IP and Routing Algorithms in network layer  
+K2 
+CO4 
+Explain network security, and attacks and its security methods 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Networking, A Top-
+Down Approach 
+James F Kurose and 
+Keith W Ross 
+Pearson 
+Eighth 
+Edition,20
+21 
+2 
+Computer and Communication 
+Networks 
+Nader F Mir 
+Pearson 
+2nd 
+Edition,201
+4 
+3 
+CRYPTOGRAPHY AND 
+NETWORK SECURITY 
+Behrouz A Forouzan 
+McGraw Hill, Indian 
+Edition 
+2007 
+4 
+Data Networks 
+D. Bertsekas, RG 
+Gallager, 
+Prentice Hal 
+2nd 
+edition, 
+1991 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Data and Communications and 
+Networking 
+Behrouz A Forouzan 
+McGraw Hill, Indian 
+Edition 
+Fifth 
+Edition 
+2 
+Computer Networks 
+Larry L Peterson and 
+Brusce S Davie 
+ELSEVIER 3 
+Fifth 
+Edition 
+3 
+Computer Networks 
+Andrew S Tanenbaum 
+Pearson 4 
+Fifth 
+Edition 
+4 
+Computer Networks 
+Mayank Dave 
+Cengage Learning 
+Second 
+edition 
+ 
+
+ 
+ 
+SEMESTER S6 
+RENEWABLE ENERGY

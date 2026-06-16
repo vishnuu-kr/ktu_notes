@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Review of Computer Networking Fundamentals - OSI and TCP/IP Models,\nLayers and Protocols, IP Addressing and Subnetting, Routing Protocols - RIP,\nOSPF, BGP;\nQoS in IP networks - Random Early Detection, Protocols for QoS support -\nRSVP, RTP, Multiprotocol Label Switching (MPLS): Overview and Use\nCases; Network Security Basics - Firewalls, ACLs, and NAT; Working of\nNAT; Virtual Private Networks (VPNs) - Types and Architectures; Overview\nof Data Center Networks: Key Components and Topologies;",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "DLL switching - Overview, VLANs, Inter-VLAN Routing; Spanning Tree\nProtocol (STP) - IEEE 802.1D, Rapid Spanning Tree Protocol (RSTP) - IEEE\n802.1w, Multiple Spanning Tree Protocol (MSTP) - IEEE 802.1s, STP\nEnhancements - BPDU Guard, Root Guard, and Loop Guard;\nData Center Network Architectures - Traditional vs. Modern Data Center\nDesigns (Spine-Leaf, Clos Networks), Ethernet Fabrics and TRILL;\nData Center Design Considerations - Scalability, Redundancy, and Latency.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "SDN Architecture and Components - Control Plane, Data Plane, and\nApplication Plane; OpenFlow Protocol and its Role in SDN; SDN Controllers\n- Ryu, OpenDaylight, and ONOS; SDN Use Cases - Traffic Engineering,\nNetwork Function Virtualization (NFV) - NFV Concepts, Virtualizing\nNetwork Functions and Services; NFV Infrastructure (NFVI) and\nManagement (MANO); Service Function Chaining (SFC); NFV in Telecom\nNetworks.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Data Center Interconnect (DCI) - Technologies for Data Center\nInterconnection(VPLS, OTV, and VXLAN), DCI Design and Deployment\nConsiderations; Intent-Based Networking (IBN) - Introduction to Intent-\nBased Networking; Content Distribution on the Internet - Architectures for\nInformation-Centric Networking; Content Naming, Routing and Caching,\nSecurity in Named Data Networking; Network Automation and Orchestration;\nAutomation Tools - Ansible, Terraform; Orchestration Frameworks -\nKubernetes.",
+    "contact_hours": "10"
+  }
+]

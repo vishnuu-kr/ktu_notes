@@ -1,0 +1,50 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Physiological Complexity and Need for Models",
+            "Feedback and Control in Physiological Systems: Modeling Process Steps",
+            "Different Approaches in System Modeling: Parametric and Nonparametric Modeling",
+            "Linear and Nonlinear",
+            "Compartmental Modeling (Examples of Each Type in Physiological Systems)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Basic Cardiac Anatomy and Electrocardiology Conduction System: The Electrocardiogram (ECG), Cardiac Action Potential Models, Biophysical Models (Noble)",
+            "Noble Models, Reduced Cell Models, Mathematical Models of Cardiac Cell Arrangements: The Bidomain and Monodomain Models"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Electrophysiology of Neurons",
+            "Ionic Currents and Conductance",
+            "Equivalent Circuit Representation of a Patch of Cell Membrane",
+            "Resting Membrane Potential",
+            "Voltage-Gated Channels",
+            "Hodgkin-Huxley Model Formulation for Action Potential",
+            "Compartmental Models",
+            "Simplified Models of Neurons: Integrate-and-Fire Neurons, Spike-Response Model Neurons, Rate-Based Models"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Dynamical System Analysis: Types of Fixed Points",
+            "Phase Plane Analysis: Nullclines, Hopf Bifurcation and Limit Cycles, Van der Pol Oscillator",
+            "Fitzhugh-Nagumo Model: Phase-Plane Analysis",
+            "Showing Excitability",
+            "Bistability and Oscillations: Simulation Studies of Simplified Models (e.g., Izhikevich Neuron Models)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Robot Subsystems -Classification of Robots -Industrial Applications\nRobotic configurations- robot motion- joint notation schemes-End effectors-\ntypes- mechanical, vacuum, magnetic grippers- power transmission systems-\nmodelling and control of single joint robot.\nIndustrial robot- manipulator structures\nKinematics-: Position definitions- Coordinate frames - Different orientation\ndescriptions - Free vectors- Translations, rotations and relative motion -\nPosition and Orientation of a Rigid Body- Rotation Matrix- Elementary\nRotations- Representation and rotation of a Vector - Composition of Rotation\nMatrices-Euler Angles- YZY angles- Roll-Pitch-Yaw Angles-Angle and axis",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to manipulator kinematics- position representation -forward and\nreverse transformations of the 2-DOF arm—adding dimensions –\nHomogeneous transformation and robot kinematics.\nDirect Kinematics: Kinematic Chains - Denavit Hartenberg Representation-\nKinematics of manipulator structures- Three link planar arm- parallelogram\narm- spherical arm - anthropomorphic arm- spherical arm – Stanford\nmanipulator.\nManipulator Kinematics-2\nInverse Kinematics- The General Inverse Kinematics Problem- kinematic\ndecoupling - inverse position – inverse orientation- joint space and\noperational space -workspace.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Differential Kinematics and Statics:- Geometric Jacobian- Derivative of a\nRotation Matrix - Link Velocity -Jacobian Computation.-Jacobian of Typical\nManipulator Structures- Three- link Planar Arm - Anthropomorphic Arm-\nStanford Manipulator - Kinematic Singularities- Singularity Decoupling -\nWrist Singularities- Arm Singularities -Analysis of Redundancy -\nDifferential Kinematics Inversion -Redundant Manipulators - Kinematic\nSingularities -",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Manipulator Dynamics-1\nLagrange Formulation -Properties of Dynamic Model -Dynamic Model of\nSimple Manipulator Structures - Two-link Cartesian Arm- Two-link Planar\nArm.- Parallelogram Arm - Dynamic Parameter Identification-Newton-\nEuler Formulation- Link Acceleration\nManipulator Dynamics-2\nTrajectory Planning - Path and Trajectory -Joint Space Trajectories-Point-to-\npoint Motion Path Motion- Operational Space Trajectories-Path Primitives -\nposition -Orientation - Dynamic Scaling of Trajectories - Motion Control:\nJoint Space Control- Independent Joint Control- Feedback Control-\nDecentralized Feedforward Compensation",
+    "contact_hours": "9"
+  }
+]

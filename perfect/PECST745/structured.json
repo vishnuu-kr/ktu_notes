@@ -1,0 +1,66 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Fundamentals in Computer Vision :-Camera Calibration- Pinhole camera model",
+            "Geometric Image Features -Curves",
+            "Surfaces",
+            "Analytical Image Features - Elements of Analytical Euclidean Geometry",
+            "Geometric Camera Parameters",
+            "Stereopsis - Binocular Camera Geometry",
+            "Epipolar Constraint",
+            "Binocular Reconstruction",
+            "Local Methods for Binocular Fusion",
+            "Global Methods for Binocular Fusion"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Features and Filters :-Linear Filters- Linear Filters and Convolution",
+            "Shift Invariant Linear Systems. Estimating Derivatives with Finite Differences",
+            "Noise",
+            "Edges and Gradient-based Edge Detectors Image Gradients - Computing the Image Gradient",
+            "Gradient Based Edge and Corner Detection. Filters as Templates - Normalized Correlation and Finding Patterns"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Machine Learning for Computer Vision :-Machine Learning - Introduction",
+            "Dataset for Machine Perception- Labelled and Unlabelled Data",
+            "Basics of Classification and Clustering",
+            "Multi-Class Perspective. Machine Learning for Computer Vision -Machine Learning -Deep Learning Use Cases. Machine Learning Models for Vision - Image Vision-Pretrained Model",
+            "Transfer Learning",
+            "Fine-Tuning",
+            "Convolutional Networks",
+            "Convolutional Filters",
+            "Stacking Convolutional Layers",
+            "Pooling Layers - AlexNet",
+            "VGG19",
+            "Modular architecture - ResNet",
+            "Neural Architecture Search Design - NASNet"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Segmentation and Object detection :-Segmentation Using Clustering Methods - Human vision- Grouping and Gestalt",
+            "Applications- Shot Boundary Detection",
+            "Background Subtraction",
+            "Image Segmentation by Clustering Pixels- Simple Clustering Methods",
+            "Clustering and Segmentation by K-means Object detection - YOLO",
+            "Segmentation-Mask R-CNN and Instance Segmentation",
+            "U-Net and Semantic Segmentation",
+            "Model Quality Metrics A case study to compare performance of various models on a suitable dataset"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

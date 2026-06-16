@@ -1,0 +1,69 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Operating system overview - Functions",
+            "Boot Process Processes - Process states",
+            "Process control block",
+            "threads",
+            "scheduling",
+            "Operations on processes - process creation and termination Inter-process communication - shared memory systems",
+            "Message passing systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Process Scheduling - Basic concepts- Scheduling criteria -scheduling algorithms- First come First Served",
+            "Shortest Job Firs",
+            "Priority scheduling",
+            "Round robin scheduling Process synchronization- Race conditions - Critical section problem - Peterson’s solution",
+            "Synchronization hardware",
+            "Mutex Locks",
+            "Semaphores",
+            "Monitors - Synchronization problems - Producer Consumer",
+            "Dining Philosophers and Readers-Writers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Necessary conditions",
+            "Resource allocation graphs",
+            "Deadlock prevention",
+            "Deadlock avoidance - Banker’s algorithms",
+            "Deadlock detection",
+            "Recovery from deadlock. Memory Management: Concept of address spaces",
+            "Swapping",
+            "Contiguous memory allocation",
+            "fixed and variable partitions",
+            "Segmentation",
+            "Paging. Virtual memory",
+            "Demand paging",
+            "Page replacement algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "File concept - Attributes",
+            "Operations",
+            "types",
+            "structure - Access methods",
+            "Protection. File-system implementation",
+            "Directory implementation. Allocation methods. Storage Management: Magnetic disks",
+            "Solid-state disks",
+            "Disk Structure",
+            "Disk scheduling",
+            "Disk formatting"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

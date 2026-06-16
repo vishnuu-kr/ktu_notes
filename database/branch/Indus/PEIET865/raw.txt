@@ -1,0 +1,343 @@
+Course Code 
+PEIET865 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L:T:P:R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Equip students with the skills to perform advanced data preprocessing, feature 
+engineering, and selection using Python libraries to optimize machine learning 
+models.  
+2. Develop proficiency in building, evaluating, and refining machine learning models 
+using Python and implementing deep learning techniques for real-world applications. 
+ 
+SYLLABUS 
+Modul
+e No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to data analytics with python: Introduction to Python; 
+using pandas for data manipulation; cleaning and preparing data. 
+Feature engineering with pandas and NumPy; techniques for creating 
+and transforming features for analytical models. Introduction to data 
+visualization 
+with 
+Matplotlib 
+and 
+Seaborn; 
+exploring 
+data 
+distributions and relationships. 
+9 
+2 
+Statistical analysis and feature selection: Descriptive and inferential 
+statistics with SciPy; understanding data through statistical metrics. 
+Feature selection techniques; using scikit-learn for automated feature 
+selection methods like RFE (Recursive Feature Elimination). 
+Dimensionality reduction techniques; PCA and t-SNE with scikit-
+learn for feature extraction and data visualization. 
+9 
+3 
+Machine learning models and handling imbalanced data: 
+Overview of machine learning algorithms (classification, regression) 
+9 
+
+ 
+ 
+with scikit-learn. Handling imbalanced datasets; techniques like 
+SMOTE, and balanced random forests with imbalanced-learn. Model 
+evaluation and hyperparameter tuning using cross-validation and 
+GridSearchCV in scikit-learn. 
+4 
+Advanced 
+machine 
+learning 
+techniques and 
+applications: 
+Introduction to deep learning with TensorFlow and Keras; basics of 
+neural networks. Building and training deep learning models for 
+classification and regression problems. Advanced topics in machine 
+learning: ensemble methods, boosting, and stacking models to 
+improve performance. 
+9 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal 
+Examination 
+Analyse 
+Evaluate 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Assessment (Analyse and Evaluate): 20 marks 
+Phases 
+Assessment Criteria 
+Marks 
+Analyse 
+Problem Definition 
+a. Clearly defines the real-world quality 
+issue. 
+b. Examine and identify relevant contextual 
+factors. 
+5 
+Problem Analysis 
+a. Present a structured realistic solution 
+methodology. 
+b. Compare and justify the proposed 
+solutions with evidence and logical 
+reasoning 
+5 
+ 
+Evaluate 
+Validation of Results 
+a. Thoroughly evaluate the proposed 
+solutions. 
+b. Compares trade-offs, advantages, and 
+disadvantages. 
+c. 
+Considers feasibility, scalability, and 
+practical implications. 
+5 
+Conclusion and Report Writing 
+a. Summarizes 
+procedure, 
+findings 
+and 
+insights, limitation, and scope for future 
+work. 
+b. Preparation of Report with all components 
+of project report. 
+5 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+(8x3 = 24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+● Each question can have a maximum of 3 
+subdivisions.                                 (4x9 = 36 
+marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcomes 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply data manipulation and preprocessing techniques using 
+pandas; construct and assess new features to enhance model 
+accuracy.   
+K3 
+CO2 
+Identify statistical methods for insights; apply advanced feature 
+selection strategies to optimize predictive models in scikit-learn. 
+K3 
+CO3 
+Apply various machine learning algorithms; address imbalanced 
+data issues using specialized techniques to ensure robust model 
+performance.   
+K3 
+CO4 
+Experiment deep learning with TensorFlow and Keras; enhance 
+model predictions through ensemble methods and practical 
+implementations. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 PO9 
+PO10 
+PO11
+PO12 
+CO1 
+2 
+2 
+2 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO2 
+2 
+2 
+3 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO3 
+2 
+2 
+2 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO4 
+2 
+2 
+3 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+
+ 
+ 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the Publisher 
+Edition and 
+Year 
+1 
+Python for Data Analysis 
+Wes McKinney 
+O'Reilly Media 
+2nd Edition, 
+2017 
+2 
+Feature Engineering for 
+Machine Learning: Principles 
+and Techniques for Data 
+Scientists 
+by Alice Zheng 
+and Amanda 
+Casari 
+O'Reilly Media 
+1st Edition, 
+2018 
+3 
+Hands-On Machine Learning 
+with Scikit-Learn, Keras, and 
+TensorFlow 
+Aurélien Géron 
+ O'Reilly Media 
+2nd Edition, 
+2019 
+4 
+Deep Learning with Python 
+François 
+Chollet 
+Manning Publications 
+1st Edition, 
+2017 
+5 
+Imbalanced Learning: 
+Foundations, Algorithms, and 
+Applications 
+Haibo He and 
+Yunqian Ma 
+Wiley-IEEE Press 
+1st Edition, 
+2013 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and 
+Year 
+1 
+Applied Predictive 
+Modelling 
+Max Kuhn and Kjell 
+Johnson 
+Springer 
+1st 
+Edition, 
+2013 
+2 
+Practical Statistics for Data 
+Scientists: 50+ Essential 
+Concepts Using R and 
+Python 
+Peter Bruce, Andrew 
+Bruce, and Peter 
+Gedeck 
+O'Reilly Media 
+2nd 
+Edition, 
+2020 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Link ID 
+https://archive.nptel.ac.in/courses/106/107/106107220/ 
+https://archive.nptel.ac.in/courses/106/105/106105152/ 
+
+ 
+ 
+SEMESTER S8 
+FINANCIAL MANAGEMENT FOR ENGINEERS

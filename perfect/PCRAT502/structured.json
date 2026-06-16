@@ -1,0 +1,69 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Convolutional operation",
+            "filters",
+            "padding",
+            "and stride",
+            "activation functions -ReLU",
+            "Sigmoid",
+            "Tanh",
+            "Pooling layers - average pooling",
+            "max pooling",
+            "Fully connected layers",
+            "Training CNN - Loss functions",
+            "Optimizers",
+            "Backpropagation",
+            "Regularization Techniques - Overfitting and underfitting",
+            "Dropout",
+            "Data augmentation",
+            "Advanced CNN Architectures - ResNets",
+            "VGG networks",
+            "Inception network"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Recurrent Neural Networks",
+            "Long Short-Term Memory (LSTM) Networks",
+            "Gated Recurrent Units (GRUs",
+            "Backpropagation Through Time (BPTT",
+            "Gradient Clipping",
+            "Attention mechanism"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Proportional-Integral-Derivative (PID) control",
+            "Tuning PID gains for optimal performance",
+            "model predictive control",
+            "feedback linearization control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to SLAM",
+            "Sensor Modalities for SLAM",
+            "Probabilistic Framework for SLAM",
+            "SLAM Algorithms - Kalman Filter",
+            "Extended Kalman Filter (EKF",
+            "Particle Filter",
+            "Mapping algorithms: Occupancy grids",
+            "landmark-based maps",
+            "SLAM for dynamic environments",
+            "Loop closure detection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

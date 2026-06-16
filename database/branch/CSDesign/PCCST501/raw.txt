@@ -1,0 +1,295 @@
+Course Code 
+PCCST501  
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To introduce the core concepts of computer networking. 
+2. To develop a big picture of the internetworking implementation on Linux-based systems. 
+3. To impart an overview of network management concepts. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Overview of the Internet, Protocol layering (Book 1 Ch 1) 
+Application Layer: Application-Layer Paradigms, Client-server applications - 
+World Wide Web and HTTP, FTP. Electronic Mail, DNS. Peer-to-peer 
+paradigm - P2P Networks, Case study: BitTorrent (Book 1 Ch 2) 
+6 
+2 
+Transport Layer: Services, Protocols, UDP, TCP  (Book 1 Ch 3).  
+Hands-on: 
+Sockets 
+Introduction, 
+Elementary 
+TCP 
+Sockets, 
+TCP 
+Client/Server Example, I/O Multiplexing: The select and poll Functions 
+(Book 2 Ch 3 to 6), Elementary UDP Sockets (Book 2 Ch 8), Advanced I/O 
+Functions (Book 2 Ch 14) 
+Network Layer: Introduction, Network-layer protocols, Unicast routing, 
+Multicast routing - Multicasting Basics, Intra domain and inter-domain 
+routing,  Next generation IP (Book 1 Ch 4), Quality of Service (Book 1 Ch 8) 
+Hands-on: Linux Kernel Implementation of Routing Table and Caches, 
+Routing Cache Implementation Overview, Adding new entry in the Routing 
+Table using ip command (Book 3 Ch 14) 
+18 
+
+ 
+ 
+3 
+Data-Link Layer: Data link control (DLC), Multiple access protocols (MAC), 
+Link-layer addressing, Ethernet protocol, Connecting devices (Book 1 Ch 5) 
+Wireless LANs, Mobile IP (Book 1 Ch 6) 
+Hands-on: Datalink Provider Interface, SOCK_PACKET and PF_PACKET 
+(Book 2 Ch 29) 
+11 
+4 
+SNMP, ASN.1 (Book 1 Ch 9) 
+Physical Layer: Data and signals, Digital transmission, Analog transmission, 
+Bandwidth utilization, Transmission media (Book 1 Ch 7)  
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the internetworking design in terms of protocol stack and 
+the role of various application layer protocols 
+K2 
+CO2 
+Illustrate the functions of the transport layer from connectionless and 
+connection-oriented perspectives 
+K3 
+CO3 
+Identify how the network layer achieves host-to-host connectivity and 
+caters to the diverse service requirements of the host applications   
+K3 
+CO4 
+Explain the nuances of the data link layer design and demonstrate the 
+various data link link layer protocols 
+K3 
+CO5 
+Describe the fundamental characteristics of the physical layer and 
+understand how the physical layer supports the functionalities of the 
+top layers 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+2 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and Year 
+1 
+Computer Networks: A Top-
+Down Approach 
+Behrouz A Forouzan 
+McGraw Hill 
+SIE, 2017 
+2 
+Unix Network Programming, 
+Volume 1: The Sockets 
+Networking API 
+W. Richard Stevens, 
+Andrew M. Rudoff, Bill 
+Fenner 
+Pearson 
+Education 
+3/e, 2004 
+3 
+TCP/IP Architecture, design, 
+and implementation in Linux 
+Sameer Seth 
+M. Ajaykumar 
+Venkatesulu 
+Wiley 
+1/e, 2008 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Networking: A Top-
+Down Approach Featuring 
+Internet 
+J. F. Kurose and K. W. 
+Ross 
+Pearson Education 
+8/e, 2022 
+2 
+Computer Networks, A 
+Systems Approach 
+L. L. Peterson and B. S. 
+Davie 
+Morgan Kaufmann 
+5/e, 2011 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106/105/106105183/ 
+
+ 
+ 
+SEMESTER S5 
+DESIGN AND ANALYSIS OF ALGORITHMS 
+(Common to CS/CD/CM/AM/CB/CN/CU/CG)

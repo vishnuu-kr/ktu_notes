@@ -1,0 +1,297 @@
+Course Code 
+PECMT527 
+CIE Marks 
+40 
+Teaching Hours/Week (L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type
+Theory 
+ 
+Course Objectives: 
+1. To give a comprehensive understanding of the compiler construction process, including lexical 
+analysis, parsing, semantic analysis, code generation, and optimization. 
+2. To enable the learner to design, implement, and test a compiler for a simple language, utilizing 
+tools including LEX and YACC for lexical analysis and parsing, respectively. 
+3. To learn to use code optimization techniques to improve the efficiency of generated code. 
+SYLLABUS 
+ 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours
+1 
+Compilers – The Translation Process, Major Data Structures, Other 
+Issues, Bootstrapping and Porting.  
+Scanning Process – Finite state automata and Regular expressions 
+(Basic idea only).  
+Use of LEX to generate automatic scanners (basic idea only). 
+Parsing Process – Context free Grammars (Basic idea only), Parse Trees 
+and Abstract Syntax Trees, Ambiguity. 
+10 
+2 
+Top-down Parsing - Recursive Descent, LL(1), First and Follow. 
+Error Recovery in Top-down Parsers. 
+Bottom-up Parsing - Overview of Bottom -up parsing, Shift-reduce 
+parser, LR(0) Items and LR(0) Parsing, SLR(1) parsing, General LR(1) 
+and LALR(1) Parsing. 
+10 
+3 
+Semantic Analysis: Attributes and attribute grammars. Dependency 
+graphs and Evaluation order, Synthesized and Inherited attributes. 
+8 
+
+ 
+ 
+Intermediate code generation – Three address code, P – code. 
+Intermediate code as a synthesized attribute. 
+4 
+Generation of Target code from intermediate code – Code generation of 
+Data structure references- address calculation, array references, if and 
+while statements. 
+Code Optimization Techniques: Principal sources of code optimization, 
+Classification of optimizations, Data Structures and Implementation 
+Techniques for Optimizations.   
+10 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain lexical analysis techniques to build a scanner for a given 
+language specification.
+K2 
+CO2 
+Construct parse trees for input programs using parsing algorithms and 
+detect syntactic errors.
+K3 
+CO3 
+Develop semantic analysis techniques to check program correctness. 
+K3 
+CO4 
+Develop intermediate code representations by applying intermediate 
+code generation techniques.
+K3 
+CO5 
+Utilize code optimization strategies to improve performance of the 
+machine code.
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Compiler Construction -  
+Principles and Practice
+Kenneth C Louden 
+Cengage 
+1/e, 2007 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Compilers – Principles 
+Techniques and Tools 
+Aho A.V., Ravi Sethi 
+and D. Ullman. 
+Addison Wesley, 
+2/e, 2013 
+2 
+Engineering a Compiler 
+Keith D. Cooper 
+Linda Torczon 
+Morgan Kaufman 
+3/e, 2023 
+3 
+Modern Compiler 
+Implementation in C 
+Andrew W. Appel 
+Cambridge 
+University Press 
+2004 
+3 
+The Theory and Practice 
+of Compiler Writing 
+Tremblay and Sorenson
+Tata McGraw Hill 
+1/e, 1984 
+4 
+System Programming and 
+Operating Systems 
+D. M. Dhamdhere 
+Tata McGraw Hill 
+2/e, 2001 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1-4 
+https://onlinecourses.nptel.ac.in/noc20_cs13/preview 
+ 
+
+ 
+ 
+SEMESTER S5 
+CONCEPTS IN SOCIAL NETWORK ANALYSIS

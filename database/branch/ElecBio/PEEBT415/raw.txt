@@ -1,0 +1,395 @@
+Course Code 
+PEEBT415 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+ 
+1. This course introduces students to the embedded system concepts, including hardware and 
+software aspects of Embedded System Design. 
+2. Students will learn to model and solve real-world problems using Embedded System Design 
+SYLLABUS 
+ 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Overview of Embedded system: Embedded Hardware Architecture, 
+Communication Interface Standards, Embedded system development 
+process, Embedded Operating systems, Types of Embedded Operating 
+systems. 
+Embedded 
+Processors 
+- 
+CPU 
+architecture 
+of 
+ARM 
+processor(ARM9)  - CPU Bus Organization and Protocol –Five stage 
+pipelining – Instruction sets- ARM instruction set-Thumb instruction set. 
+9 
+2 
+Integration and Testing of Embedded Hardware and Firmware-
+Embedded firmware design approaches, Embedded System Development 
+Environment – IDEs, Cross Compilers, Disassemblers, Decompilers, 
+Simulators, Emulators and Debuggers. 
+9 
+3 
+RTOS based Design – Basic operating system services-structure-kernel, 
+process, tasks and threads. Process management-memory management-device 
+management, Task scheduling algorithms - Non pre-emptive scheduling and 
+Pre-emptive scheduling. 
+9 
+4 
+Inter Process Communication and Synchronization –Shared data– Inter 
+process communication -Signals – Semaphore – Message Queues – Mailboxes 
+– Pipes –Sockets – Remote Procedure Calls (RPCs). 
+9 
+ 
+
+ 
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply knowledge of embedded system hardware architecture, 
+communication standards, development processes, and types of 
+embedded operating systems to design and develop embedded solutions 
+effectively.
+K3 
+CO2 
+Evaluate efficient solutions using ARM processor architecture and 
+optimize embedded software performance.
+K5 
+CO3 
+Develop solutions utilizing RTOS fundamentals and implementing 
+effective task scheduling algorithms.
+K4 
+CO4 
+Design and implement robust inter-process communication mechanisms 
+and synchronization techniques to ensure reliable operation of 
+embedded systems.
+K3 
+CO5 
+Apply embedded system concepts and tools in the development, 
+integration, and testing of complex embedded projects. Demonstrate 
+proficiency in project management, teamwork, and documentation, 
+adhering to industry standards and best practices.
+K6 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computers 
+as 
+Components: 
+Principles 
+of 
+Embedded 
+Computing System Design. 
+ 
+Wayne Wolf 
+ 
+ 
+Morgan Kaufman 
+Publishers 
+ 
+ 
+Third 
+Edition,200
+8 
+2 
+Arm system developers guide”, 
+Designing 
+and 
+Optimizing 
+system Software.
+Andrew N Sloss, D. 
+Symes, C. Wright 
+Morgan Kaufman 
+Publishers /Elsevier 
+2006 
+3 
+Introduction 
+to 
+Embedded 
+Systems. 
+Shibu K.V. 
+McGraw Hill 
+Education (India), 
+First 
+Edition,200
+9
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher
+Edition 
+and Year
+1 
+An 
+Embedded 
+Software 
+Primer. 
+David E. Simon 
+Pearson Education 
+Asia 
+First 
+Edition 
+2000
+2 
+Embedded / Real time systems: 
+Concepts, 
+Design 
+and 
+Programming
+Dr. K. V. K. K. Prasad 
+ 
+Dream Tech press 
+Second 
+Edition,200
+3
+3 
+Embedded 
+systems: 
+An 
+Integrated Approach. 
+Lyla B. Das 
+Pearson Education 
+India 
+First 
+Edition 
+2012
+4 
+Embedded 
+Systems 
+Architecture, 
+Programming 
+and Design.
+Rajkamal 
+McGrawHill 
+Education 
+Third 
+Edition 
+2017
+5 
+Programming for Embedded 
+Systems. 
+Dreamtech Software 
+Team 
+Wiley Deamtech 
+First 
+Edition 
+2002
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+2 
+2 
+- 
+- 
+- 
+- 
+2 
+- 
+3 
+CO2 
+3 
+2 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+2 
+- 
+3 
+CO3 
+3 
+3 
+3 
+2 
+3 
+- 
+- 
+- 
+- 
+2 
+- 
+3 
+CO4 
+3 
+2 
+3 
+2 
+2 
+- 
+- 
+- 
+- 
+2 
+- 
+3 
+CO5 
+3 
+2 
+3 
+2 
+2 
+- 
+- 
+- 
+- 
+2 
+- 
+3 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106105193 
+2 
+https://onlinecourses.nptel.ac.in/noc20_cs16/preview 
+3 
+https://nptel.ac.in/courses/106105159 
+4 
+https://onlinecourses.nptel.ac.in/noc24_ee68/preview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SEMESTER S3/S4 
+ECONOMICS FOR ENGINEERS

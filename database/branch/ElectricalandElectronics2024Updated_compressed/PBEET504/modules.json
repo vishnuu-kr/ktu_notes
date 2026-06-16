@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to microprocessors- Features and Architecture of 8085-\nRegisters of 8085 - Flags - 8085 Pin diagram- Pins, Signals and functions\n- Assembly language programming- Basic Instruction set to write Simple\nprograms - Arithmetic, Logical, Branching instructions, Opcodes, hand\ncoding, Programs involving 8 and 16bit Addition, Subtraction, Memory\nReading and writing,  Sorting – Addressing modes-Classification of\ninstructions.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Stack and Subroutines – CALL and RETURN instructions –Timing and\ncontrol – Machine cycles, instruction cycle and T states – fetch and\nexecute cycles –Timing diagram for instructions- Delay subroutines –\nInterrupts- Interrupt service Routines- Interfacing ADC and DAC",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to Embedded Systems-Application domain, features and\ncharacteristics, Microprocessors and Micro controllers– Choice and\nsuitability for applications\nIntroduction to Arduino UNO(8bit)- Hardware fundamentals of\nATmega328Pmicrocontroller based Board. Arduino Architecture, Pin\ndiagram and functions of Pins- Overview of main features such as I/O\nPorts, Timers, interrupts, PWM, ADC (Introduction only). Introduction\nto Arduino IDE- Arduino Libraries, Steps for creating an Arduino\nprogram- Arduino Sketch Structure and Flow- Setup and loop functions.\nProgramming in Embedded C. Data types- operators, conditional\nstatements- Loops, Arrays and functions- Built in functions in Arduino -\nProgram to blink an LED and its control., Interfacing LCD, Seven\nSegment LED, switch Interface, Binary counter Working with LED\nControlled by Switch/ Potentiometer, Interfacing with Relays, Buzzer,\nWorking with Basic sensors and actuators using Arduino.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "ARM (Advanced RISC Machines) based Embedded System Design:\nClassification of Microprocessors based on the word length, architecture\nand  Instruction Set-  Reduced Instruction Set Computer (RISC) and\nComplex Instruction Set Computer (CISC). Features and characteristics\nIntroduction to Arduino due(32bit)- micro controller board (based on\nthe atmel sam3x-- arm cortex- m3 cpu)- Features, General Specifications\nOverview,\nGeneral\narchitecture-\nFeatures\nOF\nMicrocontroller,\nINPUTS,OUTPUTS,\nRatings,\nFunctional\nOverview,\nPinout-\nfamiliarization of the ports of the board. Programming Basics- Arduino\nIDE-Use of Timer, Interfacing of ADC and DAC -PWM implementation\n– Introduction to Arduino Cloud Editor",
+    "contact_hours": "10"
+  }
+]

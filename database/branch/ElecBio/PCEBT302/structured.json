@@ -1,0 +1,45 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Operating point and DC load line. Fixed, emitter stabilized and voltage divider biasing. Bias stabilization. BJT Amplifiers: RC coupled amplifier (CE configuration",
+      "need of various components and design. Small signal analysis: re and hybrid equivalent models for CE configuration-small signal voltage gain, input and output impedance of CE configuration"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Structure, principle of operation and characteristics of JFETs. Structure and physical operation & characteristics of Enhancement and depletion type MOSFETs. MOSFET amplifier circuits: Biasing in MOSFET amplifier-Single stage MOSFET amplifier Circuit (CS configuration",
+      "Design"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Power amplifiers: classification",
+      "class A and Class B power amplifier",
+      "Class AB",
+      "Class C and Class D Power Amplifiers efficiency and distortion (no analysis is required). Feed-back amplifiers: General feedback structure",
+      "properties of negative feedback",
+      "and four basic feedback topologies. Sinusoidal oscillators: criterion for oscillation",
+      "basic principles of RC and crystal oscillators"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Pulse shaping using RC circuits- Differentiating and integrating circuits - applications. Multivibrators: astable",
+      "monostable and bistable circuits - applications. Differential amplifiers: BJT differential pair",
+      "operation with Common-Mode and differential mode input voltages",
+      "CMRR"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

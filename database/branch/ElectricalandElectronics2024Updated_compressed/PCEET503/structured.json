@@ -1,0 +1,42 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Elementary Signals, Classification and representation of continuous time and discrete time signals, Signal operations. Concept of system: Continuous time and discrete time systems",
+      "Properties of systems: Time invariance, Linearity, Causality, Systems with and without memory, Stability. Convolution Integral and sum. Impulse and step response"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Fourier transform: Existence - Properties of Continuous time Fourier transform",
+      "Concept of Frequency response",
+      "Significance of Fourier transform and difference from Fourier series. Review of Laplace Transforms. Characterization of LTI systems: Differential equation representation of continuous time LTI systems. Transfer function representation of differential equation in Laplace domain. Modeling of LTI systems: Electrical, translational and rotational mechanical systems, DC servo-motor",
+      "Force voltage, Force current analogy"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Sampling process",
+      "Impulse train sampling-sampling theorem- Aliasing effect. Zero-order and First-order hold circuits",
+      "Signal reconstruction. Z-Transform: Region of convergence- Properties of Z-Transform Inverse Z-Transform. Pulse transfer function. Difference equations representation using Z-transform and it’s solution using inverse Z-Transform. Impulse and step response of discrete-time systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Open loop and closed loop systems. Effect of feedback in systems. Block diagram representation",
+      "block diagram reduction. Signal flow graph -Mason's gain formula. Type and Order of the systems",
+      "Pole-Zero representation of systems. Characteristic equation. Routh stability criterion"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

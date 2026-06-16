@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to nonlinear systems:\nBasic characteristics of nonlinear systems.  Examples. State-space\nrepresentation of nonlinear systems.  Classification of nonlinearities.\nPhase plane analysis: Concept of phase plane, singular points.\nDefinition of stability – asymptotic stability, instability; Construction\nusing isocline method. Classification of equilibrium points; Systems with\nmultiple equilibria.  Periodic orbits - limit cycles.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Lyapunov Stability Theory:\nLyapunov's direct method - Definite functions - Stability theorems; -\nVariable gradient method – La-Salle theorems.\nStability of linear systems - Lyapunov equation for time-invariant\nsystems - Lyapunov’s linearization (indirect) method - Region of\nattraction (concept only).",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Frequency domain Analysis of Feedback systems:\nDescribing function method: Analysis through harmonic linearization-\nDetermination of describing function of nonlinearities. Application of\ndescribing function for stability analysis of autonomous system with\nsingle nonlinearity (relay, dead zone and saturation only).\nFeedback Stabilisation, Kalman-Yakubovitch-Popov lemma (Concept\nonly); Stability Analysis of feedback systems, Circle Criterion.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Nonlinear Control Design:\nLie Derivatives and Lie Brackets; Feedback linearization, Input state\nlinearization and input – output linearization of SISO systems. (3 hours)\nDesign via linearization - regulation via integral control; gain scheduling,\ntracking.\nConcepts of other nonlinear controllers – sliding mode, backstepping.",
+    "contact_hours": "9"
+  }
+]

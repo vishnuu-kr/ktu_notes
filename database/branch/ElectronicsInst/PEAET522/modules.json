@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to computer architecture\nClasses of computers, defining computer architecture, Introduction to RISC\nand CISC architectures, Classification of instruction set architectures, basics\nof performance measurements.\nBasic parallel processing techniques – instruction level, thread level and\nprocess level. Classification of parallel architectures.\nIntroduction to Graphical Processing Unit (GPU).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Pipelined Processors and Super Scalar Organization\nPipelining fundamentals – Pipelined design, concept of Arithmetic pipelining\nand Instruction pipelining. Basic concept of Deeply pipelined processors.\nSuper Scalar Organization – Limitations of Scalar pipelines, Basics\nconcepts of parallel, diversified and dynamic pipelines. Superscalar pipeline\noverview – instruction fetch, decode, dispatch, execute, completion and\nretiring.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Memory Hierarchy\nComputer system overview, Concept of latency and bandwidth.\nMemory Hierarchy – Introduction, levels in modern Memory hierarchy,\nconcept of temporal and spatial locality, DRAM Technology.\nCache memories – cache hit, cache miss and hit ratio, types of cache\nmapping – direct, associative and set associative.\nVirtual Memory systems – Demand paging, memory protection.\nOverview of memory hierarchy implementations.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Thread-Level Parallelism\nIntroduction to thread level parallelism and Multiprocessor Systems, Basic\narchitecture of Centralised Shared Memory multiprocessor and distributed\nmemory multiprocessor, concept of Cache coherence problem, basic\nschemes for enforcing coherence –  Snooping coherence protocol.\nIntroduction to Distributed Shared Memory and Directory-Based Coherence,\ndirectory-Based cache Coherence protocol",
+    "contact_hours": "9"
+  }
+]

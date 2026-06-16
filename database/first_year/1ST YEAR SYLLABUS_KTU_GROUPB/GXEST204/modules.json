@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "C Fundamentals - Character Set, Constants, Identifiers, Keywords, Basic\nData types, Variables, Operators and its precedence, Bit-wise operators,\nExpressions; Statements - Input and Output statements; Structure of a C\nprogram; Simple programs.\nControl Statements - if, if-else, nested if, switch, while, do-while, for,\nbreak & continue, nested loops.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Arrays - Single dimensional arrays, Defining an array, Array initialization,\nAccessing array elements; Enumerated data type; Type Definition; Two-\ndimensional arrays – Defining a two-dimensional array; Programs for\nmatrix processing; Programs for sequential search; Bubble sort;\nStrings - Declaring a string variable, Reading and displaying strings, String\n9\nB.Tech 2024 –S1/S2\nAPJ Abdul Kalam Technological University\nrelated library functions – Programs for string matching.",
+    "contact_hours": "97"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Functions - Function definition, Function call, Function prototype,\nParameter passing; Recursion; Passing array to function; Macros - Defining\nand calling macros; Command line Arguments.\nStructures - Defining a Structure variable, Accessing members, Array of\nstructures, Passing structure to function; Union.\nStorage Class - Storage Classes associated with variables: automatic, static,\nexternal and register.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Pointers - Declaration, Operations on pointers, Passing pointer to a\nfunction, Accessing array elements using pointers, Processing strings using\npointers, Pointer to pointer, Array of pointers, Pointer to function, Pointer to\nstructure, Dynamic Memory Allocation.\nFiles- Different types of files in C, Opening & Closing a file, Writing to and\nReading from a file, Processing files, Library functions related to file\n– fseek(), ftell(), fread(), fwrite().",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,342 @@
+Course Code 
+PEMUT745 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+40 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To explain the basic steps of finite element methods, types of elements, its characteristics, and 
+applications in commercial softwares.  
+2. To apply the finite element techniques in One dimensional, Two dimensional and three 
+dimensional static and dynamic structural and heat conduction problems.  
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Finite Element Methods-Areas of Application-General steps 
+in Finite Element Methods- Geometric modelling techniques. Derivation of 
+the stiffness matrix using displacement technique- Spring, Bar, and truss 
+elements – Assembly of global stiffness matrix, boundary conditions. 
+Development of Euler beam equations- Finite element formulations.  
+9 
+2 
+Coordinate transformation- Global and local coordinate system, Interpolation 
+functions for general element formulation. Stiffness Matrix of Isoparametric 
+Elements. 
+Patch test, Mesh convergence – Basic concept only. Different type of 
+refinements (h, p and r).  
+Rayleigh’s- Ritz Method (Variational method) and weighted residual method. 
+Numerical integration using Gaussian quadrature. 
+9 
+3 
+Development of the Plane Stress and Plane Strain Stiffness Equations: - 
+Development of the CST, Linear-Strain Triangle (Shape functions and 
+equations only), Galerkin weighted residual Techniques, Types of Boundary 
+conditions (Neumann, Dirichlet and Robin) 
+9 
+
+ 
+ 
+ 
+ 
+4 
+Introduction to plate bending– finite element analysis of thin plate – finite 
+element analysis of thick plate –  
+Structural Dynamics, Mass matrix computation, Evaluation of eigen 
+values and eigen vectors, Transient analysis: Euler’s method, Central 
+difference technique, Critical time step, Rigid body modes. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate  
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Assignment: 20 Marks 
+Students should evaluate and analyze a real-world optimization problem, assess the proposed solutions, 
+provide a conclusion on which solution is most appropriate for the problem, and implement the chosen 
+solution using any specific technique/tool/software/programme.  
+ 
+Criteria for evaluation: 
+1. Problem Definition (K4 - 4 points) 
+a. Clearly defines the real-world optimization problem. 
+b. Examine and identifies relevant contextual factors (constraints, resources, objectives). 
+2. Problem Analysis (K4 - 4 points) 
+a. Break-down and presents a well-reasoned solution approach. 
+b. Compare and justify the proposed solutions with evidence and logical reasoning. 
+3. Evaluate (K5 - 4 points) 
+a. Thoroughly evaluate the proposed solutions. 
+b. Compares trade-offs, advantages, and disadvantages. 
+c. Considers feasibility, scalability, and practical implications. 
+4. Implementation (K5 - 4 points) 
+a. Select the most feasible solution by implementing the proposed solutions/techniques. 
+b. Successfully translates the problem to solution using proposed technique. 
+c. Demonstrates proficiency in solution practices (readability, efficiency, error handling). 
+5. Conclusion (K4- 2 points, K5 – 2 points) 
+a. Summarizes findings and insights. State which solution is most appropriate for the problem. 
+(K4) 
+b. Reflects critical thinking and informed decision-making. (K5) 
+ 
+
+ 
+ 
+ 
+ 
+Scoring: 
+1. Accomplished (4 points): Exceptional analysis, clear implementation, and depth of 
+understanding. 
+2. Competent (3 points): Solid performance with minor areas for improvement. 
+3. Developing (2 points): Adequate effort but lacks depth or clarity. 
+4. Minimal (1 point): Incomplete or significantly flawed. 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the basic principles, concepts, applications of Finite Element 
+Methods
+K2 
+CO2 
+Apply the mathematical formulations of finite element techniques, to 
+derive and implement shape functions for One dimensional and two-
+dimensional problems. 
+K3 
+CO3 
+Analyze structural mechanics problems using Finite elements 
+techniques for trusses, beams, frames, and Plate elements.   
+K4 
+CO4 
+Perform dynamic analysis of structures, including time-dependent 
+problems, vibration analysis, and Transient analysis using finite 
+element techniques.
+K4 
+CO5 
+Develop solution techniques for beam, truss, plate elements using 
+commercial softwares/MATLAB
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The Finite Element Method 
+Its Basis and Fundamentals 
+Olek C Zienkiewicz, Robert 
+L. Taylor, Sanjay 
+Govindjee 
+Elsevier Science 
+2024 
+2 
+Textbook of finite element 
+analysis 
+P. Seshu 
+PHI Learning 
+2004 
+3 
+Finite Element Method with 
+Applications in Engineering 
+Y. M. Desai 
+Dorling Kindersley 
+2011 
+4 
+Introduction to Finite Elements 
+in Engineering 
+Tirupathi R. Chandrupatla, 
+Ashok D. Belegundu 
+Pearson Education 
+5th edition 
+2021 
+5 
+A First Course in the Finite 
+Element Method 
+Daryl L. Logan 
+Cengage Learning 
+2011 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The Finite Element Method 
+Using MATLAB
+Young W. Kwon, 
+Hyochoong Bang
+CRC Press 
+2018 
+2 
+Introduction to Finite Element 
+Analysis Using MATLAB® 
+and Abaqus
+Amar Khennane 
+Taylor & Francis 
+2013 
+3 
+An introduction to the finite 
+element method
+J N Reddy 
+McGraw-Hill 
+Education
+2006 
+4 
+Fundamental and Advanced 
+Finite Element Analysis and 
+Applications: with 
+Mathematica and MATLAB 
+Computations
+M. Asghar Bhatti 
+Wiley 
+2005 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+2 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+2 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+2 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+2 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+2 
+2 
+2 
+2 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+
+ 
+ 
+ 
+ 
+SEMESTER S7 
+DATA ANALYTICS

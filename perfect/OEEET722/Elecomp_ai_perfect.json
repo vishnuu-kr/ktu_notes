@@ -1,0 +1,66 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "History of Hybrid and Electric Vehicles",
+            "Social and Environmental Importance of Hybrid and Electric Vehicles",
+            "Vehicle Dynamics and Load Forces: Mathematical Models to Describe Vehicle Performance",
+            "Vehicle Load Forces: Aerodynamic Drag",
+            "Rolling Resistance",
+            "Grading Resistance",
+            "Vehicle Acceleration",
+            "Calculation of Motor Power from Traction Torque",
+            "Hybrid Electric Drive-trains: Basic Concept of Hybrid Traction",
+            "Introduction to Various Hybrid Drive-train Topologies",
+            "Power Flow Control in Various Hybrid Drive-train Topologies",
+            "Electric Drive-trains: Basic Concept of Electric Traction",
+            "Introduction to Various Electric Drive-train Topologies",
+            "Power Flow Control in Electric Drive-train Topologies"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Block Diagram",
+            "Introduction to Electric Motors Used in Hybrid and Electric Vehicles",
+            "DC Motor Drives: Introduction",
+            "Configuration and Control of Separately Excited DC Motors, Motoring Using a PM DC Machine, DC Motor Drive Using DC-DC Converter, Generating/Braking Using a PM DC Machine",
+            "Induction Motor Drives: Introduction",
+            "Speed Control of Induction Motor",
+            "V/f Control of Induction Motor"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Types of Battery, Battery Parameters, Units of Battery Energy Storage, Capacity Rate",
+            "Cell Voltage, Specific Energy, Cycle Life, Self-discharge, Static Battery Equivalent Circuit Model, Series-Parallel Battery Pack Equivalent Circuits",
+            "Other Storage Topologies: Fuel Cell Based Energy Storage Systems, Supercapacitors, Flywheel, Hybridization of Different Energy Storage Devices",
+            "Types of Charging Stations: AC Level 1 & 2",
+            "DC Level 3, Types of Connectors, CHAdeMO",
+            "CCS Type 1 and 2",
+            "GB/T: Pin Diagrams and Differences"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Energy Management Strategies",
+            "Classification of Battery Management System",
+            "Vehicle Communication Protocols: Need & Requirements, Functions of Control Pilot (CP) and Proximity Pilot (PP) Pins",
+            "Communication Protocols: CAN",
+            "FLEXRAY",
+            "Power Line Communication (PLC) in EV",
+            "Autonomous Vehicles: Levels of Automation",
+            "Significance and Effects of Automation in Vehicles"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

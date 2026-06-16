@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic Fuzzy Set Theory: Introduction - Uncertainty",
+            "Imprecision and Vagueness, Crisp vs Fuzzy Sets, Representation of Fuzzy Sets, Membership Functions - Types",
+            "Basic Operations - Dilation",
+            "Concentration",
+            "Normalization",
+            "Linguistic Hedges, Properties of Fuzzy Set - Level Sets - Alpha Cut Representation, Operations on Fuzzy Sets - Fuzzy Complement",
+            "Fuzzy Intersection",
+            "Fuzzy Union",
+            "Aggregation Operations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Fuzzy Relations: Operations on Fuzzy Relations - Union",
+            "Intersection",
+            "Complement",
+            "Cartesian Product, Fuzzy Composition - Max-Min",
+            "Max-Product, Extension Principle, Fuzzy Arithmetic - Fuzzy Numbers",
+            "Arithmetic Operations on Fuzzy Numbers, Fuzzy Reasoning - Generalized Modus Ponens (GMP) and Generalized Modus Tollens (GMT)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Fuzzification and Defuzzification Methods: Fuzzy Inference - Zadeh Rule",
+            "Mamdani Rule, Development of Membership Functions - Intuition",
+            "Inference",
+            "Rank Ordering",
+            "Inductive Reasoning, Defuzzification to Scalars - Max Membership Principle",
+            "Centroid Method",
+            "Weighted Average Method",
+            "Mean Max Membership",
+            "Center of Sums",
+            "Center of Largest Area",
+            "First (or Last) of Maxima"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Fuzzy Inference Systems: Approximate Reasoning",
+            "Fuzzy (Rule-Based) Systems - Multiple Conjunctive Antecedents",
+            "Multiple Disjunctive Antecedents",
+            "Aggregation of Fuzzy Rules",
+            "Graphical Techniques of Inference, Fuzzy Controllers - Mamdani FIS",
+            "Larsen Model"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

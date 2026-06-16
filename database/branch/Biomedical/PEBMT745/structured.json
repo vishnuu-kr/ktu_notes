@@ -1,0 +1,75 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Neural networks",
+      "Perceptron model-Single layer perceptron and Multi-layer perceptron",
+      "Activation functions-Sigmoid",
+      "Tanh and ReLu",
+      "McCulloch & Pitts model",
+      "Back propagation",
+      "The Problem of Overfitting",
+      "Vanishing and exploding gradient problems",
+      "Difficulties in convergence",
+      "Local and spurious optima"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Introduction to Deep Learning Bayesian Learning",
+      "Decision Surfaces",
+      "Deep feed forward network",
+      "Training deep models",
+      "Optimization techniques -Gradient Descent (GD",
+      "GD with momentum",
+      "Nesterov accelerated GD",
+      "Stochastic GD",
+      "AdaGrad",
+      "RMSProp",
+      "Adam. Regularization Techniques - L1 and L2 regularization",
+      "Early stopping",
+      "Dataset augmentation",
+      "Parameter sharing and tying",
+      "Injecting noise at input",
+      "Ensemble methods",
+      "Dropout",
+      "Parameter initialization"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Introduction to convolution neural networks - Convolution",
+      "pooling",
+      "architecture",
+      "Convolution and Pooling as an infinitely strong prior",
+      "variants of convolution functions",
+      "structured outputs",
+      "data types",
+      "efficient convolution algorithms"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Recurrent neural networks - Computational graphs",
+      "RNN design",
+      "encoder - decoder sequence to sequence architectures",
+      "deep recurrent networks",
+      "recursive neural networks",
+      "modern RNNs LSTM . Recent Trends in Deep Learning Architectures",
+      "Residual Network",
+      "Skip Connection Network",
+      "Fully Connected CNN etc"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

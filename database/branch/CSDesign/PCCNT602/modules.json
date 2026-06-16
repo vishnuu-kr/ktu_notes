@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basics of Computer Graphics and its applications. Video Display\ndevices- Refresh Cathode Ray Tubes, Random Scan Displays and\nsystems, Raster scan displays and systems. Line drawing algorithms-\nDDA, Bresenham’s algorithm. Circle drawing algorithms- Midpoint\nCircle generation algorithm, Bresenham’s algorithm.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Filled Area Primitives and transformations :Filled Area Primitives-\nScan line polygon filling, Boundary filling and flood filling. Two\ndimensional\ntransformations-Translation,\nRotation,\nScaling,\nReflection\nand\nShearing,\nComposite\ntransformations,\nMatrix\nrepresentations transformations, homogeneous coordinates. Basic 3D\ntransformations.\nClipping and Projections: Window to viewport transformation.\nCohen Sutherland Line clipping algorithm. Sutherland Hodgeman\nPolygon clipping algorithm. Three dimensional viewing pipeline.\nProjections- Parallel and Perspective projections. Visible surface\ndetection algorithms- Depth buffer algorithm, Scan line algorithm",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Fundamentals of Digital Image Processing: Introduction to Image\nprocessing and applications. Image as 2D data. Image representation\nin Gray scale, Binary and Colour images. Fundamental steps in image\nprocessing. Components of image processing system. Coordinate\nconventions. Sampling and quantization. Spatial and Gray\nLevel Resolution. Basic relationship between pixels– neighbourhood,\nadjacency, connectivity. Fundamentals of spatial domain-convolution\noperation.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Image Enhancement in Spatial Domain and Image Segmentation :\nBasic gray level transformation functions - Log transformations,\nPower-Law\ntransformations,\nContrast\nstretching.\nHistogram\nequalization. Basics of spatial filtering - Smoothing spatial filter-\nLinear and nonlinear filters, and Sharpening spatial filters-Gradient\nand Laplacian.\nFundamentals of Image Segmentation. Thresholding - Basics of\nIntensity thresholding and Global Thresholding. Region based\nApproach - Region Growing, Region Splitting and Merging. Edge\nDetection - Edge Operators- Sobel and Prewitt.",
+    "contact_hours": "9"
+  }
+]

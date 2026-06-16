@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of CMOS device fundamentals . The CMOS inverter: - Voltage\nTransfer Characteristics, SPICE Description, Static Behavior - Switching\nThreshold - Noise Margins, Dynamic behavior - Device Capacitances -\nPropagation Delay - Power Consumption.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "CMOS fabrication Processes: -N-Tub, P-Tub and Twin Tub. MOS Circuit\nLayout - Stick diagrams, Layout design rules, Transistor layout - PMOS\nand NMOS, Gate Layout - Inverter, NAND, NOR and XOR, Layout\ngeneration using MICROWIND tool (For Assignments/Projects only).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Combinational logic Circuits: - Static MOS - Complementary MOS -\nRatioed logic - Pass Transistor logic - Differential Pass Transistor Logic -\nTransmission gate logic, Dynamic MOS - Basic Principles - Speed and\npower Dissipation - Signal Integrity issues.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Sequential Logic Circuits: -Timing Metrics for sequential circuits, Static\nLatches and Registers, Dynamic Latches and Registers. Datapath\nSubsystems: - Adder - Ripple carry Adder - Full adder - Carry chain Adder\n- Carry-Bypass Adder - Carry Select Adder - Carry Look Ahead Adder,\nMultiplier - Array Multiplier - Carry Save Multiplier, Shifter - Barrel\nShifter - Logarithmic Shifter.",
+    "contact_hours": "9"
+  }
+]

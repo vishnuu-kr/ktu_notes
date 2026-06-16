@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Control Systems, mathematical modelling and Transfer\nfunction Based Analysis\nOpen loop and Closed loop control systems; Automatic control systems;\nNecessity and significance. (1  hour)\nModelling of LTI systems: LTI Systems, Transfer function representation of\ndifferential equation in Laplace domain.\nElectrical, translational and rotational mechanical systems, DC servo-motor\nmodelling.  (4 hours).\nBlock diagram representation - block diagram reduction. Signal flow graph -\nMason's gain formula. (4 hours)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Performance Analysis of Control Systems:\nTime domain analysis of control systems: Impulse and Step responses of first\nand second order systems - Pole dominance for higher order systems. Time\ndomain specifications. Steady state error analysis and static error constants\n(5 hours)\nCharacteristic equation. Routh stability criterion. (3 hours)",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Root Locus Analysis and Controllers:\nRoot locus technique: Construction of Root locus - stability analysis- effect\nof addition of poles and zeros; Effect of positive feedback systems on Root\nlocus.  (5 hours)\nController design:  Types of controllers and their control action-proportional\n(P), integral (I), derivative (D), PID control. PID tuning using Ziegler-Nichols\nmethod. (3 hours)",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Frequency domain analysis:\nBode Plot: Construction, Concept of gain margin and phase margin-stability\nanalysis. (4 hours)\nFrequency domain specifications - correlation between time domain and\nfrequency domain responses (Resonant peak and resonant frequency). (2\nhours)\nPolar plot: Gain margin and phase margin, Stability analysis.  (2 hours)\nNyquist stability criterion. Concept of Nichols Chart. (3 hours)",
+    "contact_hours": "11"
+  }
+]

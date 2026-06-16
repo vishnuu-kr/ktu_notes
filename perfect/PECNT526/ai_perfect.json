@@ -1,0 +1,87 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "System Verification - Hardware and Software Verification",
+            "Model Checking",
+            "Characteristics of Model Checking",
+            "Transition Systems - Transition System",
+            "Direct Predecessors and Successors",
+            "Terminal State",
+            "Deterministic Transition System",
+            "Executions - Execution Fragment",
+            "Maximal and Initial Execution Fragment",
+            "Execution",
+            "Reachable States",
+            "Linear-Time (LT) Properties - Deadlock",
+            "Linear-Time Behavior - Paths and State Graph",
+            "Path Fragment",
+            "Maximal and Initial Path Fragment",
+            "Path",
+            "Traces - Trace and Trace Fragment",
+            "LT Properties - LT Property",
+            "Satisfaction Relation for LT Properties",
+            "Trace Equivalence and LT Properties",
+            "Safety Properties and Invariants - Invariants",
+            "Safety Properties",
+            "Trace Equivalence and Safety Properties",
+            "Liveness Properties - Liveness Property",
+            "Safety vs. Liveness Properties",
+            "Fairness - Fairness",
+            "Unconditional",
+            "Weak and Strong Fairness",
+            "Fairness Strategies",
+            "Fairness and Safety (Definition and examples only for all topics - no proof required)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Regular Properties - Model Checking Regular Safety Properties - Regular Safety Property",
+            "Verifying Regular Safety Properties",
+            "Automata on Infinite Words - ω-Regular Languages and Properties",
+            "Nondeterministic Büchi Automata (NBA)",
+            "Deterministic Büchi Automata (DBA)",
+            "Generalised Büchi Automata (Definitions only)",
+            "Model Checking ω-Regular Properties - Persistence Properties and Product",
+            "Nested Depth-First Search (Only algorithms required)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Linear Temporal Logic (LTL) - Syntax",
+            "Semantics",
+            "Equivalence of LTL Formulae",
+            "Weak Until",
+            "Release and Positive Normal Form",
+            "Fairness",
+            "Safety and Liveness in LTL (Definitions only)",
+            "Automata Based LTL Model Checking (Algorithms and examples only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction - Introduction to the Tool Symbolic Analysis Laboratory (SAL)",
+            "The Language of SAL - The Expression Language",
+            "The Transition Language",
+            "The Module Language",
+            "SAL Contexts",
+            "SAL Examples - Mutual Exclusion",
+            "Peterson's Protocol",
+            "Synchronous Bus Arbiter",
+            "Bounded Bakery Protocol",
+            "Bakery Protocol",
+            "Traffic Signalling System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

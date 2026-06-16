@@ -1,0 +1,72 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Sensitivity, Linearity, Measurement/ Dynamic range, Response Time, Accuracy, Repeatability & Precision, Resolution & Threshold, Bandwidth. Sensor classification- touch, force, proximity, vision sensors Proprioceptive or Internal sensors Position sensors- encoders- linear, rotary, incremental linear encoder, absolute linear encoder, Incremental rotary encoder, absolute rotary encoder",
+            "potentiometers",
+            "LVDTs",
+            "velocity sensors-optical encoders, tacho generator, Hall effect sensor, acceleration sensors, Heading sensors- Compass, Gyroscope sensor, IMU, GPS, real time differential GPS",
+            "Force sensors-strain gauge based and Piezo electric based, Torque sensors",
+            "Block schematic representations",
+            "Interpreting typical manufacturer’s data sheet of internal sensors. Note- Block schematic representations, Interpretation of typical manufacturer’s datasheet and Numerical problems of the main sensors are to be covered"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Exteroceptive or External sensors- contact type, noncontact type",
+            "Tactile, proximity-detection of physical contact or closeness, contact switches, bumpers , inductive proximity, capacitive proximity",
+            "semiconductor displacement sensor",
+            "Range sensors- IR, sonar, laser range finder, optical triangulation (1D), structured light(2D),performance comparison range sensors",
+            "motion/ speed sensors-speed relative to fixed or moving objects, Doppler radar, Doppler sound",
+            "Block schematic representations",
+            "Numerical problems",
+            "Block schematic representations",
+            "Interpreting typical manufacturer’s data sheet of external sensors",
+            "Examples -use of Exteroceptive sensors in robots. Vision based sensors- Elements of vision sensor, image acquisition, image processing, edge detection, feature extraction, object recognition, pose estimation and visual servoing, hierarchy of a vision system, Note- Block schematic representations, Interpretation of typical manufacturer’s datasheet and Numerical problems of the main sensors are to be covered"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Vision based sensors- CCD and CMOS Cameras, Monochrome, stereo vision, night vision cameras, still vs video cameras, Kinect sensor",
+            "Block schematic representations. Choosing sensor for different robotic applications and application of sensors inflexible manufacturing. Introduction to transducers",
+            "Requirement of transducers in robots, medicine etc",
+            "Differences between Sensors and transducers",
+            "Transducer performance characteristics based on static and dynamic properties",
+            "Classification of transducers based on physical effect, physical quantity and source of energy-Active vs Passive, Principle of transduction, Analog and Digital transducer, Primary and Secondary transducer",
+            "Transducer and Inverse Transducer"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Position transducers, Displacement transducer - LVDT’s, Captive Armatures, Unguided Armatures, Force-Extended Armatures",
+            "Velocity Transducers -LVT",
+            "Accelerometer- using potentiometer, Strain gage, Piezoelectric",
+            "Light transducers",
+            "Force transducers",
+            "Piezoelectric transducer",
+            "Temperature transducer - thermocouple, RTD- common errors, Thermistor, Integrated circuit",
+            "Pressure transducer-Bourdon tube, diaphragm, Capacitive Pressure transducer",
+            "Oscillator transducer",
+            "Flow transducer - Orifice Plate, venture, Defective type flow sensor, spin type flow sensor, Electromagnetic flow sensor",
+            "Level Transducer- Discrete Level, Level measurement by pressure sensor, differential pressure sensor, force sensor, capacitive level sensor",
+            "Inductive transducer",
+            "Ultrasonic transducer",
+            "LIDAR Actuators for robots- classification-Electric, Hydraulic, Pneumatic actuators",
+            "their advantages and disadvantages",
+            "Electric actuators- Stepper motors, DC motors, DC servo motors and their drivers, AC motors, Linear actuators, selection of motors",
+            "Hydraulic actuators- Components and typical circuit, advantages and disadvantages",
+            "Pneumatic Actuators- Components and typical circuit, advantages and disadvantages"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

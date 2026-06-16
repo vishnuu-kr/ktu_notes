@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Continuous andDiscrete Time Signals: Definition of\nsignal, Basic continuous-time signals, Frequency and angular frequency,\nBasic operation on signals, Basic discrete-time signals - Frequency and\nangular frequency of discrete-time signals, Classification of continuous-time\n& discrete- time signals: Periodic and Non-periodic signals, Even and Odd\nsignals, Energy and power signals.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Systems: System definition,  Continuous-time and discrete-time systems,\nProperties – Linearity, Time invariance, Causality, Invertibility, Stability,\nRepresentation of systems using impulse response.\nLinear time invariant systems: LTI system definition, Response of a\ndiscrete-time LTI system and the convolutional sum, Circular convolution,\nLinear convolution through circular convolution, Correlation of discrete-time\nsignals.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Frequency analysis of signals:  Fourier transform of continuous-time and\ndiscrete-time signals, Parseval’s theorem, Interpretation of Spectra,Sampling\ntheorem (Proof not needed), Frequency aliasing due to sampling, Need for\nanti-aliasing filters, Discrete Time Fourier Transforms – properties, Discrete\nFourier Transform – Properties -DFT as a linear transformation, IDFT, FFT-\nRadix-2 DIT and DIF algorithms, FFT Algorithms for IDFT.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Digital Filters: Digital FIR Filter, Transfer function - Difference equation,\nLinear phase FIR filter, Concept of windowing, Direct form and cascade\nrealization. Digital IIR Filters – Transfer function, Difference equation,\nDirect and parallel Structures,  Design of analog Butterworth filters, Analog\nfrequency\ntransformations,\nImpulse\ninvariance\nmethod,\nBilinear\ntransformation, Analog prototype to digital transformations.\nSuggestion on Project Topics\n1. Collect various real-world signals (audio, temperature, ECG, etc.) and classify them into\ncontinuous-time and discrete-time signals. Perform basic operations such as scaling, shifting, and\ntime-reversal on these signals and analyse their properties.\n2. Generate discrete-time signals and compute their frequency components using the Discrete Fourier\nTransform (DFT). Analyse the frequency spectrum and compare it with the theoretical frequency\ncomponents.\n3. Capture audio signals using a microphone, classify them as continuous-time signals, and convert\nthem into discrete-time signals. Perform operations like filtering, amplification, and noise reduction.\n4. Obtain ECG signals, classify them, and perform basic operations to analyse heart rate variability,\ndetect anomalies, and filter out noise.\n5. Design a discrete-time linear time-invariant (LTI) system and determine its impulse response, then\ncompute the output of the system for various input signals using convolution.\n6. Analyse the properties (linearity, time-invariance, causality, and stability) of a given discrete-time\nsystem and provide theoretical justifications and practical demonstrations for each property.\n7. Design and implement a digital equalizer for audio systems, utilizing the properties of linear time-\ninvariant (LTI) systems. Analyse its performance in adjusting different frequency bands.\n8. Develop a real-time noise cancellation system using digital filters, leveraging convolution and\nsystem properties. Test the system in various noisy environments.\n9. Compute the Fourier transform of continuous-time and discrete-time signals and analyse their\nspectra. Use tools like MATLAB, Octave or Python for computation and visualization.\n10. Investigate the effects of sampling on signal representation and design an anti-aliasing filter.\nDemonstrate the sampling theorem and implement the filter to prevent aliasing.\n11. Design a spectrum analyser to monitor and analyse the frequency spectrum of wireless\ncommunication signals. Use Fourier transforms to visualize and interpret the spectral components.\n12. Design and implement an anti-aliasing filter for digital image processing, ensuring high-quality\nimage acquisition without aliasing effects.\n13. Design a Finite Impulse Response (FIR) filter using the windowing method. Implement the filter\nin MATLAB, Octave or Python and analyse its frequency response.\n14. Design an Infinite Impulse Response (IIR) filter using the bilinear transformation method.\nCompare its performance with an analog prototype and analyse stability and frequency response.\n15. Design and implement a Finite Impulse Response (FIR) filter to improve audio signal quality in a\nmusic player. Analyse the filter's performance in real-time audio enhancement.\n16. Design an Infinite Impulse Response (IIR) filter to optimize signal transmission in communication\nsystems. Evaluate its performance in reducing noise and improving signal clarity.",
+    "contact_hours": "9"
+  }
+]

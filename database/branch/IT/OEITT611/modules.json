@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Java and OOP: Overview of programming languages,\nSetting up the development environment (IDE, JDK), Writing and running a\nsimple Java program\nBasics of Java: Variables, data types, and operators, control structures\n(conditional control statements, loops), Input/output Basics (reading console\ninput, writing console output)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Classes and Objects: Defining classes and objects, Constructors and\ninstance variables, Methods and method overloading\nEncapsulation and Access Modifiers: Encapsulation principles, Access\nmodifiers (public, private, protected), Getters and setters",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Inheritance: Inheritance hierarchy, Method overriding Superclass and\nsubclass relationships\nPolymorphism: Method overloading vs. method overriding, Dynamic\nmethod dispatch, Abstract classes and interfaces",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Exception Handling: Handling exceptions (try-catch blocks), Custom\nexceptions, Checked vs. unchecked exceptions. Errors: Understanding\ncommon Error types in Java, using Java Error information for root cause\nanalysis and JVM tuning.\nCollections and Data Structures: Lists, sets, and maps, ArrayList, HashSet,\nHashMap, Iterators",
+    "contact_hours": "9"
+  }
+]

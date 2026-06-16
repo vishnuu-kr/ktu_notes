@@ -1,0 +1,59 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "What is Artificial Intelligence(AI)? The Foundations of AI",
+      "History of AI",
+      "Applications of AI. Intelligent Agents",
+      "Types of agents and their environments",
+      "goodbehavior: The concept of rationality",
+      "nature of Environments",
+      "Structure of Agents. Examples of practical agents"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Solving Problems by searching-Problem solving Agents",
+      "Example problems",
+      "Searching for solutions",
+      "Uninformed search strategies-Depth First Search (DFS) and Breadth First Search (BFS",
+      "Informed search strategies- Greedy Search",
+      "A* Search",
+      "AO* Search",
+      "Hill Climbing Algorithm",
+      "Heuristic functions"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Games",
+      "Optimal decisions in games",
+      "The Minimax algorithm",
+      "Alpha-Beta pruning. Constraint Satisfaction Problems - Defining CSP",
+      "Constraint Propagation- inference in CSPs",
+      "Backtracking search for CSPs",
+      "Structure of CSP problems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "First Order Predicate Logic - Syntax and Semantics of First Order Logic",
+      "Knowledge representation in First Order Logic. Inference in First Order Logic - Unification and Lifting",
+      "Forward chaining",
+      "Backward chaining",
+      "Resolution. Basic concepts of Machine Learning: Learning from Examples - Forms of Learning",
+      "Supervised Learning/Unsupervised Learning"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "What is Artificial Intelligence (AI)? The Foundations of AI",
+            "History of AI",
+            "Applications of AI",
+            "Intelligent Agents",
+            "Types of Agents and Their Environments",
+            "The Concept of Rationality",
+            "Nature of Environments",
+            "Structure of Agents",
+            "Examples of Practical Agents"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Solving Problems by Searching - Problem Solving Agents",
+            "Example Problems",
+            "Searching for Solutions",
+            "Uninformed Search Strategies - Depth First Search (DFS) and Breadth First Search (BFS)",
+            "Informed Search Strategies - Greedy Search",
+            "A* Search",
+            "AO* Search",
+            "Hill Climbing Algorithm",
+            "Heuristic Functions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Games",
+            "Optimal Decisions in Games",
+            "The Minimax Algorithm",
+            "Alpha-Beta Pruning",
+            "Constraint Satisfaction Problems - Defining CSP",
+            "Constraint Propagation - Inference in CSPs",
+            "Backtracking Search for CSPs",
+            "Structure of CSP Problems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "First Order Predicate Logic - Syntax and Semantics of First Order Logic",
+            "Knowledge Representation in First Order Logic",
+            "Inference in First Order Logic - Unification and Lifting",
+            "Forward Chaining",
+            "Backward Chaining",
+            "Resolution",
+            "Basic Concepts of Machine Learning: Learning from Examples - Forms of Learning",
+            "Supervised Learning / Unsupervised Learning"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

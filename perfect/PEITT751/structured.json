@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of Computational Complexity and Introduction to Approximation Algorithms Overview of Computational Complexity: Decision problem vs Optimization problem - P",
+            "co-NP",
+            "NP-Hard",
+            "and NP-Complete classes - along with their interrelationships- Intractability of NP-Complete problems: Challenges and Importance- Polynomial time reductions- Examples of NP-Complete problems -SAT",
+            "3-SAT",
+            "Clique",
+            "Vertex Cover. Approaches to solve NP-Complete Problems (Concept only): Approximation algorithms",
+            "Exact algorithms",
+            "Randomized algorithms",
+            "9 Fixed-parameter tractable algorithms. Introduction to Approximation Algorithms: Definition and Motivation-Approximation Ratio: Definition - Basic Techniques : Greedy Algorithms and Local Search. : Basic Concept",
+            "Algorithm and analysis of approximation factor (detailed analysis not required) of Set Cover problem",
+            "Scheduling jobs on identical parallel machines",
+            "Travelling Salesman problem",
+            "Metric Steiner Tree problem"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Advanced Techniques for Designing Approximation Algorithms Primal Dual Schema: Introduction to Linear Programming",
+            "Concept of Primal Dual Schema- LP Duality Theorem",
+            "Complementary Slackness Theorem. Linear programming formulation of the Set Cover",
+            "Vertex Cover",
+            "Minimum Multicut",
+            "Multiwaycut and Weighted Vertex Cover Problems -Approximation algorithm for the SET Cover problem - using simple rounding technique and primal dual schema - analysis of approximation factor. Randomized Algorithms: Concept of randomization",
+            "Randomized rounding -Set Cover Problem",
+            "Randomized algorithm for MAX CUT problem",
+            "Derandomization of MAX CUT algorithm. Semidefinite Programming (SDP) : Basics of SDP and its relation to LP",
+            "Formulating approximation problems using SDP",
+            "SDP-based approximation algorithm and analysis of approximation ratio for the MAX-CUT problem. 9"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Hardness of Approximation Algorithms Hardness of Approximation: Reductions",
+            "gaps",
+            "and hardness factors",
+            "PCP Theorem",
+            "Hardness of MAX-3SAT",
+            "Hardness of MAX-3SAT with bounded occurrence of variables",
+            "Hardness of vertex cover and Steiner tree",
+            "Hardness of Clique. 9"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Parameterized Complexity Theory Introduction to Parameterized Complexity Theory : Parameterized problem- Definition and Example",
+            "Fixed-parameter Tractable (FPT) algorithms - Definition. Design Techniques in Parameterized Complexity : Kernelization-Concept",
+            "FPT algorithms for Vertex Cover problem and 3-Hitting set problem",
+            "Bounded Search Tree - Concept",
+            "FPT algorithms for Vertex Cover problem and Feedback Vertex Set problem",
+            "Iterative Compression -Concept",
+            "FPT algorithms for Vertex Cover problem. Parameterized Intractability: Parameterized reductions",
+            "W-hierarchy"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

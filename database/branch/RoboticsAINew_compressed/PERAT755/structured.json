@@ -1,0 +1,52 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Digital system design options and tradeoffs",
+      "Design methodology and technology overview. High Level System Architecture and Specification: Behavioral modelling and simulation",
+      "Hardware description languages (emphasis on Verilog",
+      "combinational and sequential design",
+      "state machine design",
+      "test benches"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "CPLD",
+      "FPGA Features",
+      "Limitations",
+      "Architectures and Programming. Implementation of MSI circuits using Programmable logic Devices"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "FPGA Architectural options",
+      "granularity of function and wiring resources",
+      "coarse V/s fine grained",
+      "vendor specific issues (emphasis on Xilinx and Altera",
+      "Logic block architecture: FPGA logic cells",
+      "timing models",
+      "power dissipation I/O block architecture: Input and Output cell characteristics",
+      "clock input",
+      "Timing",
+      "Power dissipation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Programmable interconnect - Partitioning and Placement, Routing resources, delays",
+      "Applications -Embedded system design using FPGAs, DSP using FPGAs. Commercial FPGAs: Xilinx, Altera, Actel (Different series description only"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

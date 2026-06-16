@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Machine Learning and Data Preprocessing : Machine\nLearning- Definition and Scope-Types of Learning- Data Preprocessing-Data\nCleaning-Handling Missing Data, Outlier Detection, and Treatment-Data\nTransformation: Normalization and Standardization-Feature Engineering:\nFeature Selection and Extraction\nTechniques-Encoding\nCategorical\nVariables: One-hot Encoding and Label Encoding",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Supervised Learning Techniques:- Regression Analysis-Simple Linear\nRegression-Multiple\nLinear\nRegression-\nPrevent\nOverfitting:\nRegularization- Classification Methods-Decision Trees: Construction,\nImpurity Measures (Gini Index, Entropy), Pruning -Support Vector\nMachines (SVM): Linear SVM, Kernel Trick, Non-linear SVM",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Neural Networks and Deep Learning:– Introduction to Neural Networks\n-Perceptron: Model and Limitations -Multilayer Feedforward Networks:\nArchitecture and Flow of Information-Activation Functions-Training Neural\nNetworks-Backpropagation Algorithm: Derivation and Implementation-\nGradient Descent Optimization: Batch, Mini-batch, and Stochastic-\nTechniques for Improving Convergence: Learning Rate Schedules,\nMomentum\nConvolutional Neural Networks (CNN)-Basic Architecture: Convolutional\nLayers, Pooling Layers, and Fully Connected Layers",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Unsupervised Learning:- Clustering: K-means, Hierarchical, DBSCAN\nDimensionality Reduction: PCA, t-SNE.\nModel Evaluation, Validation, and Optimization- Performance Metrics:\nConfusion Matrix, Precision, Recall, F1-score, ROC, AUC, MAE, MSE,\nR-squared.-Validation Techniques: k-fold, Stratified, Leave-one-out-\nHyperparameter\nTuning: Grid Search, Random Search-Ensemble\nMethods: Bagging, Boosting (AdaBoost, Gradient Boosting, XGBoost)\nSuggestion on Project Topics:\n1. Customer Segmentation for Marketing\n2. Anomaly Detection in Network Traffic\n3.  Speech Emotion Recognition\n4. Traffic Sign Recognition\n5. Breast Cancer Prediction",
+    "contact_hours": "9"
+  }
+]

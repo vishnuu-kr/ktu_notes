@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Understanding OT and IT Systems\nOverview of OT and IT Systems: Defining Operational Technology (OT)\nand Information Technology (IT), Key differences between OT and IT in\nterms of architecture, functionality, and security, Independent OT networks:\nArchitecture, use cases, and benefits.\nIntegration of OT with IT Networks:  Drivers for OT-IT convergence,\nChallenges in integrating OT with IT networks, Common architectures for\nOT-IT integration\nThreats and Vulnerabilities in Integrated Networks:Threat landscape for\nintegrated OT-IT environments, Vulnerabilities specific to OT, IT, and their\nintegration, Case studies of security incidents in integrated networks",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Asset Identification and Criticality Classification: Identifying OT\nAssets: Techniques for asset discovery in OT environments, Importance of\nmaintaining an up-to-date asset inventory, Tools and technologies for OT\nasset identification\nCriticality Classification: Criteria for classifying OT assets based on\ncriticality, Impact analysis of OT asset failure on overall operations,\nPrioritizing security efforts based on asset criticality\nRisk Management and Compliance: Applying risk management\nframeworks in integrated networks, Compliance considerations in OT-IT\nintegration, Standards and best practices (e.g., NIST, IEC 62443)",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Securing Access and Dynamic Network Segmentation:\nSecuring Wired and Wireless Access:  Best practices for securing wired\naccess in OT-IT networks,  Wireless security protocols and their application\nin OT environments, Managing and securing remote access in integrated\nnetworks\nDynamic Network Segmentation:  Concepts of network segmentation and\nmicro-segmentation, Implementing dynamic network segmentation in OT-IT\nenvironments.\nMonitoring, Analysis, and Threat Response\nMonitoring and Threat Detection: Importance of continuous monitoring in\nintegrated OT-IT networks, Tools and techniques for monitoring OT and IT\nsystems.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Analyzing Threats and Vulnerabilities: Techniques for analyzing security\ndata from integrated networks,  Vulnerability management and patching in\nOT-IT systems, Incident detection and analysis for OT-IT integrated\nenvironments.\nIncident Response and Recovery: Developing incident response plans\nspecific to OT-IT integration, Threat hunting and proactive security\nmeasures, Recovery strategies and business continuity planning for\nintegrated networks.",
+    "contact_hours": "10"
+  }
+]

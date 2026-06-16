@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Review of sampling, Z-Transform and DTFT\nThe Discrete Fourier Transform - DFT as a linear transformation (Matrix\nRelation),  IDFT, Properties of DFT and examples (proof not necessary).\nCircular convolution, linear convolution using circular convolution, Filtering\nof long data sequences, overlap save and overlap add methods.\nFrequency Analysis of Signals using the DFT (concept only required)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Design of FIR Filters - Symmetric and Anti-symmetric FIR Filters, Design\nof linear phase FIR filters using Window methods (rectangular, Hamming\nand Hanning).\nDesign of IIR Digital Filters from Analog Filters (Butterworth), IIR Filter\nDesign by Impulse Invariance, and Bilinear Transformation, Frequency\nTransformations in the Analog Domain.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Structures for the realization of Discrete-Time Systems - Block diagram and\nsignal flow graph representations of filters.\nFIR Filter Structures - Linear structures, Direct Form.\nIIR Filter Structures - Direct Form, Transposed Form, Cascade Form and\nParallel Form.\nMulti-rate Digital Signal Processing - Decimation and Interpolation (Time\ndomain and Frequency Domain Interpretation), Anti- aliasing and anti-\nimaging filter.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Efficient Computation of DFT - Fast Fourier Transform and computational\nadvantage over DFT, Radix-2 Decimation in Time FFT Algorithm.\nComputer architecture for signal processing - Harvard Architecture,\npipelining, MAC, Introduction to TMS320C67xx digital signal processor,\nFunctional Block Diagram.\nFinite word length effects in DSP systems - Introduction, fixed-point and\nfloating-point DSP arithmetic, ADC quantization noise.",
+    "contact_hours": "9"
+  }
+]

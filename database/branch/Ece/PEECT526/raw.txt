@@ -1,0 +1,301 @@
+Course Code 
+PEECT526 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+BASIC 
+ELECTRONICS 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the fundamentals of the effects of passive circuit elements on signal 
+propagation in high speed digital circuits 
+2. To understand the high speed properties of logic gates and the measurement techniques at 
+high frequencies  
+3. To analyse the effects of wiring, source, and load on the signal propagation from one end of a 
+circuit to the other end 
+4. To design the power supply and clock distribution circuits for high speed devices, 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+High Speed Digital Design: Fundamentals: Frequency and time, Time and 
+distance, Lumped versus distributed systems, four kinds of reactance- 
+ordinary capacitance and inductance, mutual capacitance and inductance, 
+Relation of mutual capacitance and mutual inductance to cross talk. 
+ 
+9 
+2 
+High Speed properties of Logic gates: Power, Quiescent vs active 
+dissipation, Active power driving a capacitive load, Active power due to 
+overlapping bias currents, Input power, Speed, Packaging (Power dissipation 
+analysis of only CMOS logic gates are required) 
+Measurement Techniques: Rise time and bandwidth of oscilloscope 
+probes, self inductance of probe ground loop, spurious signal pick up from 
+probe ground loops, special probing fixtures, Avoiding pickup from probe 
+shield currents, slowing down of a system clock, observing metastable states. 
+ 
+9 
+
+ 
+ 
+3 
+Transmission Lines: Problems of point to point wiring, signal distortion, 
+EMI, cross talk. Infinite Uniform transmission line; ideal distortion less 
+lossless transmission line, RC transmission line, Skin effect, Proximity 
+effect, Dielectric loss. Effects of source and load impedance. Termination: 
+End terminator, Source terminators, middle terminators, AC biasing for end 
+terminators, Resistor selection, Cross talk in terminators. 
+9 
+4 
+Power system: Stable voltage reference, Uniform voltage distribution, 
+distribution problems, choosing a bypass capacitor.  
+Clock Distribution: Timing margin, Clock skew, Using low impedance 
+drivers, using low impedance distribution lines, delay adjustments, 
+Differential distribution, Clock signal duty cycle, Decoupling clock receivers 
+from the clock bus. Clock Oscillators, Canned clock oscillator, Clock Jitter. 
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Illustrate the fundamentals of the effects of passive circuit elements on 
+signal propagation in high speed digital circuits 
+K2 
+CO2 
+Describe the high speed properties of logic gates and the measurement 
+techniques at high frequencies  
+K2 
+CO3 
+Analyze the effects of wiring, source, and load on the signal 
+propagation from one end of a circuit to the other end 
+K3 
+CO4 
+Design the power supply and clock distribution circuits for high speed 
+devices 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+High Speed Digital Design: A 
+Handbook of Black Magic 
+Howard Johnson & 
+Martin Graham 
+Prentice Hall PTR,  
+ 
+Second 
+Edition, 
+2008 
+2 
+Noise Reduction Techniques in 
+Electronic Systems 
+Henry W. Ott 
+John Wiley & Sons 
+Second 
+Edition, 
+1988 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+High-Speed Digital System 
+Design—A Handbook of 
+Interconnect Theory and Design 
+Practices 
+Stephen H. Hall 
+Garrett W. Hall 
+James A. McCall 
+John Wiley & Sons 
+First 
+Edition, 
+2000 
+2 
+Digital Systems Engineering 
+William S. Dally & 
+John W. Poulton 
+Cambridge University 
+Press, 
+First 
+Edition, 
+1998 
+3 
+High Speed Digital Circuits 
+ 
+Masakazu Shoji 
+Addison Wesley 
+Publishing Company 
+First 
+Edition, 
+1996 
+4 
+Digital Integrated Circuits: A 
+Design perspective,  
+ 
+Jan M, Rabaey 
+Pearson 
+Second 
+Edition, 
+2003 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/108105375  
+2 
+https://nptel.ac.in/courses/108105375  
+3 
+https://nptel.ac.in/courses/108105375,  https://nptel.ac.in/courses/108106069  
+4 
+https://nptel.ac.in/courses/108105375  
+
+ 
+ 
+SEMESTER S5 
+ESTIMATION AND DETECTION

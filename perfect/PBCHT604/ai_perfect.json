@@ -1,0 +1,38 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Develop a model for the selected system from fundamental conservation principles",
+            "Develop a feedback control system using the concept of block diagram development and reduction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Implement the system model and controller in MATLAB or Simulink and simulate the response",
+            "Stability analysis: Analyse the stability of the system using methods like Routh-Hurwitz criterion, root locus method, Bode stability criterion, etc."
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Select a suitable controller for the process"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Optimize the control parameter for desired performance using Ziegler-Nichols tuning",
+            "Conduct experiment in the laboratory and evaluate the system performance with the experimental data",
+            "Report preparation and oral presentation: Prepare a detailed report and presentation before the evaluation committee"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

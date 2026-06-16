@@ -1,0 +1,481 @@
+Course Code 
+PBCIT404 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+ 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the architecture, modes of operation, addressing modes of 8086 processors  
+2. To understand the system bus structure of 8086 processors 
+ 
+3. To understand the architecture, instruction set, I/O Interfacing and    addressing modes of 
+8051 micro controller 
+4. To understand the architecture, basic fundamentals and instruction set of ARM Processor 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+The 8086 Microprocessor : Introduction to 8086 – Microprocessor 
+architecture – Addressing modes - Instruction set and assembler directives – 
+Assembly language programming – Modular Programming - Linking and 
+Relocation - Stacks - Procedures – Macros – Interrupts and interrupt service 
+routines – Byte and String Manipulation 
+12 
+2 
+8086 System Bus Structure : 8086 signals – Basic configurations – 
+System bus timing –System design using 8086 – IO programming – 
+Introduction to Multiprogramming – System Bus Structure – 
+Multiprocessor configurations – Coprocessor,  Closely coupled and 
+loosely Coupled configurations – Introduction to advanced processors 
+12 
+3 
+Introduction To Microcontroller 8051:  Architecture of 8051 – Special 
+Function Registers(SFRs) - I/O Pins Ports and Circuits - Instruction set - 
+Addressing modes - Programming 8051 Timers. 
+12 
+
+ 
+ 
+I/O Interfacing With Microcontroller  8051 : Interfacing Microcontroller 
+- Serial Port Programming - Interrupts Programming – LCD & Keyboard 
+- External Memory Interface- Stepper Motor 
+4 
+Arm Architecture : ARM Processor fundamentals, ARM Architecture – 
+Register, CPSR, Pipeline, exceptions and interrupts interrupt vector table, 
+ARM instruction set – Data processing, Branch instructions, load store 
+instructions, Software interrupt instructions, Program status register 
+instructions, loading constants, Conditional execution, Introduction to 
+Thumb instructions. 
+12 
+ 
+Suggestion on Project Topics 
+ 
+ Digit Up Down Counter: The main principle of this circuit is to increment the 
+values on seven segment displays by pressing the button. This circuit can be mainly 
+used in scoreboards. 
+ 
+5 Channel IR Remote Control System using Microcontroller: This article is aimed 
+to design and demonstrate a simple 5 channel remote control system to drive five 
+loads. This circuit works on the principle of IR communication. 
+ 
+8 Channel Quiz Buzzer Circuit using Microcontroller: We built the circuit using a 
+microcontroller which scans the input from push buttons and displays the 
+corresponding number on a display device. 
+ 
+Auto Intensity Control of Street Lights: This is a simple circuit that automatically 
+controls the intensity of street lights which is designed using microcontroller and 
+LEDs. 
+ 
+Automatic Railway Gate Controller with High Speed Alerting System: The main 
+aim of this project is to operate and control the unmanned railway gate in the proper 
+manner in order to avoid the accidents in the unmanned railway crossing. 
+ 
+Bidirectional Visitor Counter using 8051: This Bidrectional Visitor Counter Circuit 
+is helpful to count the number of persons entering or leaving a room and to display it 
+on a screen. 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the architecture, modes of operation and addressing modes 
+of 8086 microprocessor
+K2 
+CO2 
+Illustrate the system bus structure of 8086 micro processor 
+K2 
+CO3 
+Outline the features of 8051 micro controller 
+K2 
+CO4 
+Demonstrate the Interfacing of 8051 with peripheral devices 
+K3 
+CO5 
+Explain the architecture, basic fundamentals and instruction sets of 
+ARM processor
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+Part A
+Part B
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+ 
+2 questions will be given from each module, 
+out of which 1 question should be answered.  
+ 
+Each question can have a maximum of 2 sub 
+divisions.  
+ 
+Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Microcomputer Systems: 
+The 8086 / 8088 Family - 
+Architecture, Programming and 
+Design 
+Yu-Cheng Liu, Glenn 
+A.Gibson 
+Prentice Hall of India 
+Second 
+Edition 
+2007 
+2 
+The 8051 Microcontroller and 
+Embedded Systems: Using 
+Assembly and C 
+Mohamed Ali Mazidi, 
+Janice Gillispie Mazidi, 
+Rolin McKinlay 
+Pearson Education 
+Second 
+Edition 
+2011 
+3 
+ARM Assembly Language 
+Programming & Architecture 
+Muhammad Ali Mazidi, 
+Sarmad Naimi, Sepehr 
+Naimi, Shujen Chen 
+Microdigitaled.com 
+2nd 
+Edition, 
+2016 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Microprocessors and 
+Interfacing, Programming and 
+Hardware
+Doughlas V. Hall 
+Tata McGraw-Hill 
+2012 
+2 
+Embedded Microcomputer 
+Systems Real Time Interfacing 
+Jonathan W. Valvano 
+Cengage Learning 
+3rd Edition, 
+2012 
+3 
+The Definitive Guide to 
+ARM® Cortex®-M0 and 
+Cortex-M0+ Processors 
+Joseph Yiu 
+Elsevier Science & 
+Technology, UK 
+2nd 
+Edition, 
+2015 
+4 
+Advanced Microprocessor and 
+Peripherals 
+A.K. Ray, K.M. 
+Bhurchandi 
+Tata McGraw-Hill, 
+India 
+2nd 
+Edition, 
+2012 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+1 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+2 
+2 
+2 
+ 
+CO2 
+2 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+2 
+2 
+2 
+ 
+CO3 
+1 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+2 
+2 
+2 
+ 
+CO4 
+2 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+2 
+2 
+2 
+2 
+CO5 
+2 
+2 
+2 
+2 
+2 
+ 
+ 
+ 
+2 
+1 
+1 
+2 
+
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://www.youtube.com/watch?v=06SEE6GmT-
+8&list=PLwdnzlV3ogoXgNjr_oe5cWQIbf72ZY4Zf&index=2 
+2 
+https://www.youtube.com/watch?v=RFDZbZWPMvg 
+3 
+https://www.youtube.com/watch?v=5UypzDB3wQ4&list= 
+PLMkXE_yS8mSyNsfGm0RKokCdkEAgbH_HQ 
+4 
+https://www.youtube.com/watch?v=tqjXYjrL5w8&list=PLuv3GM6-
+gsE01L9yDO0e5UhQapkCPGnY3&index=41 
+ 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery
+Project identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops 
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group 
+discussion 
+Project Analysis 
+Data Collection 
+Evaluation  
+Question 
+answer 
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical 
+thinking 
+and 
+ self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project 
+reformation 
+(If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case 
+Study/ 
+Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 5 
+minutes video 
+ 
+ 
+ 
+
+ 
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+1. Project Planning and Proposal (5 Marks) 
+ 
+Clarity and feasibility of the project plan  
+ 
+Research and background understanding  
+ 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+ 
+Active participation and individual contribution  
+ 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+ 
+Adherence to the project timeline and milestones  
+ 
+Application of theoretical knowledge and problem-solving  
+ 
+Final Result 
+5. Final Presentation (5 Marks) 
+ 
+Quality and clarity of the overall presentation  
+
+ 
+ 
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ 
+Overall quality and technical excellence of the project  
+ 
+Innovation and originality in the project  
+ 
+Creativity in solutions and approaches 
+
+ 
+ 
+SEMESTER S4 
+ SOFTWARE ENGINEERING 
+(Common to CS/CD/CM/CR/CA/AD/AM/CB/CN/CU/CI)

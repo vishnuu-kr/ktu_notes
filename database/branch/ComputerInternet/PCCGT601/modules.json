@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Blockchain, objective, Blockchain terminologies, Distinction\nbetween databases and blockchain, Understanding Blockchain ecosystem\nand structure, Types of blockchain, Architecture, Benefits and limitations",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Consensus- definition, types, Consensus interaction with architectural layers,\nConsensus Algorithms, Crash fault tolerance (CFT) algorithms – Paxos,\nRaft. Byzantine fault tolerance (BFT) algorithms – Practical Byzantine Fault\nTolerance (PBFT), Proof of work (PoW), Proof of stake (PoS), Types of PoS",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Smart Contracts – Definition, Smart contract templates, Oracles, Types of\noracles,\nDeploying\nsmart\ncontracts.\nDecentralization\nterminology\nDecentralized applications, Decentralized Autonomous Organizations. Use\ncases of Blockchain technology – Government, Health care, Finance, Supply\nchain management. Blockchain and allied technologies – Blockchain and\nCloud Computing, Blockchain and Artificial Intelligence",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Bitcoin –Definition, Challenges and solutions, Cryptographic keys – Private\nkeys, public keys, addresses. Transactions – Lifecycle, coinbase transactions,\ntransaction validation. Bitcoin Mining-Purpose, algorithm, Mining hardware,\nBitcoin mining pools, Security and Centralization\nEthereum – The Ethereum network. Components of the Ethereum ecosystem\n– Keys and addresses, Accounts, Transactions and messages. The Ethereum\nVirtual Machine",
+    "contact_hours": "10"
+  }
+]

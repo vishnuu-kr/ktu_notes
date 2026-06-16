@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview and Use Cases",
+            "Network Security Basics - Firewalls, ACLs, and NAT",
+            "Working of NAT",
+            "Virtual Private Networks (VPNs) - Types and Architectures",
+            "Overview of Data Center Networks: Key Components and Topologies"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "DLL switching - Overview, VLANs, Inter-VLAN Routing",
+            "Spanning Tree Protocol (STP) - IEEE 802.1D, Rapid Spanning Tree Protocol (RSTP) - IEEE 802.1w, Multiple Spanning Tree Protocol (MSTP) - IEEE 802.1s, STP Enhancements - BPDU Guard, Root Guard, and Loop Guard",
+            "Data Center Network Architectures - Traditional vs. Modern Data Center Designs (Spine-Leaf, Clos Networks), Ethernet Fabrics and TRILL",
+            "Data Center Design Considerations - Scalability, Redundancy, and Latency"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "SDN Architecture and Components - Control Plane, Data Plane, and Application Plane",
+            "OpenFlow Protocol and its Role in SDN",
+            "SDN Controllers - Ryu, OpenDaylight, and ONOS",
+            "SDN Use Cases - Traffic Engineering, Network Function Virtualization (NFV) - NFV Concepts, Virtualizing Network Functions and Services",
+            "NFV Infrastructure (NFVI) and Management (MANO",
+            "Service Function Chaining (SFC",
+            "NFV in Telecom Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Data Center Interconnect (DCI) - Technologies for Data Center Interconnection(VPLS, OTV, and VXLAN), DCI Design and Deployment Considerations",
+            "Intent-Based Networking (IBN) - Introduction to Intent-Based Networking",
+            "Content Distribution on the Internet - Architectures for Information-Centric Networking",
+            "Content Naming, Routing and Caching, Security in Named Data Networking",
+            "Network Automation and Orchestration",
+            "Automation Tools - Ansible, Terraform",
+            "Orchestration Frameworks -Kubernetes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

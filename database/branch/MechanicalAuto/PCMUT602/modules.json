@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Mechatronics: Sensors - Characteristics - Temperature, flow,\npressure sensors. Displacement, position and proximity sensing by magnetic,\noptical, ultrasonic, inductive, capacitive and eddy current methods. Encoders:\nincremental and absolute, grey coded encoder. Resolvers and synchro’s.\nPiezoelectric sensors. Acoustic Emission sensors. Principle and types of\nvibration sensors. Inductive, Hall effect, hot wire, thermistor, piezo electric,\npiezoresistive, based sensors.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Actuators: Hydraulic and Pneumatic actuators - Directional control valves,\npressure control valves, process control valves. Rotary actuators.\nDevelopment of simple hydraulic and pneumatic circuits using standard\nSymbols.\nApplication of sensors in Automobiles: Throttle position, air mass flow, crank\nshaft position, cam position, engine and wheel speed, steering position, tire\npressure, brake pressure, steering torque, fuel level, crash, exhaust oxygen\nlevel (two step and linear lambda), knock, engine temperature, manifold\ntemperature and pressure sensors.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Micro Electro Mechanical Systems (MEMS): Fabrication: Deposition,\nLithography, Micromachining methods for MEMS, Deep Reactive Ion\nEtching (DRIE) and LIGA processes. Principle, fabrication and working of\nMEMS based pressure sensor, accelerometer and gyroscope.\nProgrammable Logic Controllers (PLC) –Basic structure, input/ output\nprocessing. Programming: Timers, Internal Relays, Counters and Shift\nregisters. Development of simple ladder programs for specific purposes.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Fundamentals of Automotive Electronics and Microprocessor control\nsystem: Microprocessor architecture, open and closed loop control\nstrategies, PID control, Look up tables, introduction to modern control\nstrategies like Fuzzy logic and Adaptive control. Parameters to be controlled\nin SI and CI engines and in the other parts of the automobile.\nEngine Management System (EMS): Introduction, remapping of ECU, Cold\nstart and warm up phases, idle speed control, acceleration and full load\nenrichment, deceleration fuel cutoff. Fuel control maps, Fuel injection system\nparameters affecting combustion.",
+    "contact_hours": "9"
+  }
+]

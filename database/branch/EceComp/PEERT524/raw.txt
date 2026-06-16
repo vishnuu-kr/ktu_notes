@@ -1,0 +1,320 @@
+Course Code 
+PEERT524 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+40 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None  
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Understand Cloud Computing Fundamentals. 
+2. Explore Cloud Technologies and Platforms. 
+3. Apply Cloud Solutions and Ensure Security. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Traditional computing- Limitations. Overview of Computing Paradigms-
+Grid Computing, Cluster Computing, Distributed Computing, Utility 
+Computing, Cloud Computing. NIST reference Model-Basic terminology 
+and concepts. Cloud characteristics, benefits and challenges, Roles and 
+Boundaries. Cloud delivery (service) models-Infrastructure-as-a-Service 
+(IaaS), Platform-as-a-Service (PaaS), Software-as-a-Service (SaaS), XaaS 
+(Anything-as-a-service) - Cloud deployment models- Public cloud, 
+Community cloud, Private cloud, Hybrid cloud. 
+8 
+2 
+Introduction to virtualization-Virtualizing physical computing resources, 
+Virtual Machines (Machine virtualization), non-virtualized v/s virtualized 
+machine environments. Types of VMs- process VM v/s system VM, 
+Emulation, 
+interpretation 
+and 
+binary 
+translation. 
+Hardware-level 
+virtualization- Hypervisors/VMM. Types of Hypervisors. Full Virtualization, 
+Para- 
+Virtualization, 
+Hardware-assisted 
+virtualization, 
+OS 
+level 
+virtualization. Basics of Network Virtualization, Storage Virtualization and 
+Desktop Virtualization, Pros and cons of virtualization.  
+8 
+
+ 
+ 
+3 
+Broadband networks and internet architecture- Internet Service Providers 
+(ISPs), Data center technology, Web technology, Multitenant technology, 
+Service technology. Resource provisioning techniques-static and dynamic 
+provisioning. 
+Open-source software platforms for private cloud-OpenStack, Cloud Stack, 
+Basics of Eucalyptus, Open Nebula, Nimbus. 
+Cloud Programming- Parallel Computing and Programming Paradigms. Map 
+Reduce – Hadoop Library from Apache, HDFS, Pig Latin High Level 
+Languages, Apache Spark. 
+8 
+4 
+Basic terms and concepts in security- Threat agents, Cloud security 
+threats/risks, Trust. Operating system security-Virtual machine security- 
+Security of virtualization- Security Risks Posed by Shared Images, Security 
+Risks Posed by Management OS. Infrastructure security- Network Level 
+Security, Host Level Security, Application level security, Security of the 
+Physical Systems. Identity & Access Management- Access Control. 
+Amazon Web Services (AWS):- AWS ecosystem- Computing services, 
+Amazon machine images, Elastic Compute Cloud (EC2), Advanced compute 
+services. Storage services-Simple Storage System (Amazon S3), Elastic 
+Block Store (Amazon EBS). 
+Google Cloud Platform:- IaaS Offerings: Compute Engine (GCE), Cloud 
+Storage, PaaS Offerings: Google App Engine (GAE), Storage services, 
+Application services, Compute services, Database Services, SaaS Offerings: 
+Gmail, Docs, Google Drive. 
+Microsoft Azure: Azure Platform Architecture, Hyper-V, Azure Virtual 
+Machine, Compute services, Storage services. 
+12 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 2 marks 
+ 
+(8x2 =16 marks) 
+● Each question carries 6 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x6 = 24 marks) 
+40 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the various cloud computing models and services.   
+K2 
+CO2 
+Demonstrate 
+the 
+significance 
+of 
+implementing 
+virtualization 
+techniques. 
+K2 
+CO3 
+Explain different cloud enabling technologies and compare private 
+cloud platforms 
+K2 
+CO4 
+Apply appropriate cloud programming methods to solve big data 
+problems 
+K3 
+CO5 
+Describe the need for security mechanisms in cloud and compare the 
+different popular cloud computing platforms 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+2 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+2 
+2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Cloud Computing Concepts, 
+Technology &Architecture 
+Thomas, E., Zaigham M., 
+Ricardo P 
+Prentice Hall 
+2013 
+2 
+Mastering cloud computing: 
+foundations and applications 
+programming 
+Buyya, R., Vecchiola, C., 
+& Selvi, S. T. 
+Morgan Kaufmann 
+2017 
+3 
+Cloud computing 
+Bhowmik, S 
+Cambridge University 
+Press 
+2017 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the Publisher 
+Edition 
+and Year 
+1 
+Cloud computing: theory and 
+practice 
+Marinescu, D. C 
+Morgan Kaufmann 
+2017 
+2 
+Cloud computing: Principles 
+and paradigms 
+Buyya, R., Broberg, J., 
+& Goscinski, A. M 
+John Wiley & Sons. 
+2011 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/106/105/106105167/ 
+2 
+https://onlinecourses.nptel.ac.in/noc23_cs90/preview 
+3 
+https://onlinecourses.nptel.ac.in/noc22_cs18/preview 
+4 
+https://archive.nptel.ac.in/courses/106/105/106105167/ 
+
+ 
+ 
+SEMESTER S5 
+PYTHON BASICS FOR MACHINE LEARNING

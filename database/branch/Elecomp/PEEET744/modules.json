@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Analysis of Sampled Data Systems:\nReview of Z Transforms; Sampling Theorem, Impulse Sampling,\nSampling Rate Selection, Data Hold – ZOH, FOH, Pulse Transfer\nFunction,  Control configurations. Mapping between the s-plane and the z-\nplane.\nStability analysis of closed-loop system in the z-plane,  Jury’s test,  Schur-\nCohn test, Bilinear Transformation, Routh-Hurwitz method in w-plane.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Design of Compensators:\nDirect design based on root locus: Design of Lag Compensator, Design of\nLead Compensator, Design of Lead-Lag Compensator.\nDigital Controller Design in Frequency Domain: Direct design based on\nfrequency response, Design of Lag Compensator, Design of Lead\nCompensator, Design of Lag-Lead Compensator, Realization of digital\ncontrollers.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Discrete-time State Space System:\nState variable model of discrete data systems with S/H devices - State\ntransition equations, state diagrams. Relationship between state space\nrepresentation and pulse transfer function, Transformation to canonical\nforms and phase variable form.\nSolution of state equation, Computation of state transition matrix using\nCayley-Hamilton theorem and z-transform method.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Design using State Space approach:\nDiscretization of continuous time state-space equations, Controllability,\nObservability.\nState feedback controller design via Pole Placement.\nState Observer Design: Full order observers and Reduced order observers.",
+    "contact_hours": "7"
+  }
+]

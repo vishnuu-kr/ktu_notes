@@ -1,0 +1,78 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "BJT Amplifiers",
+            "RC Coupled Amplifier: Need of Different Components and Design",
+            "Multistage Amplifiers: Effect of Cascading on Gain and Bandwidth",
+            "NMOSFET Amplifiers: MOSFET Circuits at DC",
+            "MOSFET as an Amplifier",
+            "Biasing of Discrete MOSFET Amplifier",
+            "Small Signal Analysis of CS Configuration Using Small Signal Hybrid-Pi Model",
+            "Derivation of Small Signal Voltage and Current Gain",
+            "Input and Output Impedance"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Op-Amp Basics",
+            "Block Diagram of an Op-Amp",
+            "Op-Amp Parameters - Slew Rate",
+            "Bandwidth",
+            "CMRR",
+            "Gain",
+            "Offset Voltage and Offset Current",
+            "Differential and Common Mode Operation of Op-Amps",
+            "Inverting and Non-Inverting Amplifier",
+            "Oscillators: Condition for Oscillations",
+            "RC Phase Shift and Wien Bridge Oscillators",
+            "555 Timer: Functional Block Diagram",
+            "Astable and Monostable Operation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Binary Logic Functions",
+            "Boolean Laws",
+            "Truth Tables",
+            "Associative and Distributive Properties",
+            "De Morgan's Theorems",
+            "Realization of Switching Functions Using Logic Gates",
+            "Combinational Logic: Canonical Logic Forms",
+            "Sum of Product and Product of Sums",
+            "Karnaugh Maps",
+            "Two, Three, and Four Variable Karnaugh Maps",
+            "Simplification of Expressions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Analysis and Design of Combinational Logic: Introduction to Combinational Circuits",
+            "Code Conversions",
+            "Decoder",
+            "Encoder",
+            "Priority Encoder",
+            "Binary Adder",
+            "Subtractor",
+            "Sequential Logic: Sequential Circuits",
+            "Flip-Flops: JK",
+            "D and T",
+            "Clocked and Edge Triggered Flip-Flop",
+            "Block Diagram",
+            "Timing Diagram and Working of Asynchronous and Synchronous Four-Bit Counters Using JK FF",
+            "Registers",
+            "Serial In Serial Out Shift Registers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

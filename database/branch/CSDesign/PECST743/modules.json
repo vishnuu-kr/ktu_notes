@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Molecular Biology Primer (3 hours)\nGenes,\nDNAs,\nRNAs,\nProteins,\nGenomics,\nSequencing\ntechniques,\nBioinformatics overview and scope\nSequence Alignment (6 hours)\nGlobal and local sequence alignment-dynamic programming algorithms, edit\ndistance, similarity, Needleman Wunsch Algorithm, Smith Waterman\nAlgorithm",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Biological Databases and Data Formats (3 hours)\nGenomic and Sequence Data Formats, GenBank, EMBL-Bank, and DDBJ,\nPROSITE, NCBI- Database Searching: BLAST, FASTA\nPhylogenetics (6 hours)\nPhylogenetic Tree basics and Construction Methods, UPGMA, Neighbour\njoining, Parsimonous trees, Additive trees, Bootstrapping",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Combinatorial Pattern Matching (9 hours)\nCombinatorial Pattern Matching, Repeat finding, Keyword Trees, Suffix Trees,\nHeuristic similarity search algorithms, Approximate Pattern Matching",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "R FOR BIOINFORMATICS\nVariables, Data types, control flow constructs, String manipulation, Pattern\nMatching, arrays, lists and hashes, File handling, Programs to handle biological\ndata and parse output files for interpretation, packages for sequence alignment,\nFASTA, BLAST (Bioconductor, msa, Biostrings etc.)\nIndicative Laboratory/Microproject Tasks\nBiological Databases, Sequence alignment: BLAST family of programs,\nFASTA, ClustalW for multiple sequence alignment, Phylogenetics software,\nHomology Modeling and Model evaluation, Related Programs in R.",
+    "contact_hours": "9"
+  }
+]

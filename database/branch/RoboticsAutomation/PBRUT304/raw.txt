@@ -1,0 +1,444 @@
+Course Code 
+PBRUT304 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GYEST104 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce the fundamentals and applications of op- -amps. 
+2. To grasp the basics of digital electronics, including logic gates and Boolean algebra 
+3. To design and implement combinational and sequential circuits to solve specific digital 
+logic problems. 
+4. To utilize breadboards or FPGAs or simulation software to implement circuits. 
+5. To work in a group to design and implement a digital electronic system. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Operational Amplifiers (Op-Amps) 
+Op-amp Characteristics and ideal op-amp 
+Op-amp configurations: inverting, non-inverting, differential amplifiers 
+Op-amp parameters: gain, bandwidth, input/output impedance. 
+Effect of feedback on op-amp performance 
+Op-amp applications: amplifiers, comparators, integrators, differentiators, V-
+I and I-V converters, Comparator – Regenerative comparator, zero crossing 
+detector, Window detector, Sample and hold circuit, Rectifiers 
+11 
+
+ 
+ 
+2 
+Active Filters and Signal Conditioning 
+Low-pass, high-pass, band-pass, and band-stop filters using op-amps-Active 
+filter design considerations 
+Signal conditioning circuits for sensor interfacing using op-amps 
+A-D and D-A converters using Op-amps 
+D/A converter -specifications -weighted resistor type,R-2R Ladder type.  
+A/D Converters – specifications-Flash type, Successive Approximation type, 
+Dual Slope type 
+11 
+3 
+Fundamentals of Digital Electronics 
+Review of Boolean Algebra, Logic Gates- BCD, Gray code, Excess 3 code 
+De-Morgan’s Theorems, Principle of Duality, Minimization of Boolean 
+expressions, Sum of Products (SOP), Product of Sum (POS), Canonical 
+forms, Karnaugh map Minimization.  Simplification of logic functions 
+through K–maps and Implementation using logic gates (up to 4 variables). 
+Combinational Logic Circuits 
+Combinatorial Logic Systems - Comparators, Multiplexers, Demultiplexers, 
+Encoder,Decoder. Half and Full Adders, Subtractors, Serial and Parallel 
+Adders, BCD Adder. 
+11 
+4 
+Sequential Logic Circuits 
+Flip-flops and latches: SR, D, JK, and T flip-flops 
+Design of sequential circuits-Counters-Ring counter and Johnsons counter; 
+shift registers -SIPO, SISO, PISO, PIPO. 
+Asynchronous Sequential Circuits- Analysis of state machines using D flip-
+flops and JK flip flops; Design of state machines - state table, state 
+assignment transition/excitation table 
+11 
+ 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project  
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+2 Questions from each module.  
+Total of 8 Questions, each 
+carrying 2 marks 
+ 
+(8x2 =16marks) 
+Each question carries 6 marks.  
+Two questions will be given from each module, out of 
+which 1 question should be answered.  
+Each question can have a maximum of 2 sub divisions.  
+(4x6 = 24 marks) 
+40 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Design linear and nonlinear circuits using Op-amps 
+K3 
+CO2 
+Choose A/D converters and D/A Converters for specific applications 
+K2 
+CO3 
+Explain the fundamental principles of digital electronics, including 
+logic gates, Boolean algebra, and combinational circuits. 
+K2 
+CO4 
+Design and analyse combinational and sequential circuits to solve 
+specific digital logic problems. 
+K3 
+CO5 
+Implement digital/opamp circuits/projects using various hardware 
+components and tools, such as breadboards, FPGAs, and simulation 
+software 
+ 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+3 
+3 
+2 
+3 
+ 
+ 
+3 
+3 
+3 
+3 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Op-Amp and Linear Integrated 
+Circuits 
+Ramakant Gayakwad 
+Pearson  Ediucation 
+India 
+4th Edition 
+2 
+Linear Integrated Circuits 
+DRoyChoudhury 
+ and Shail B Jain 
+New Age International 
+Publishers 
+4th Edition 
+3 
+Digital Fundamentals 
+Thomas Floyd 
+Pearson  Ediucation 
+India 
+11th Edition 
+4 
+Fundamentals of Digital 
+Circuits 
+A.Anand Kumar 
+Prentice Hall India 
+Private Limited 
+4th Edition 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Linear Integrated Circuits 
+Salivahanan s and 
+Bhaskaran
+Tata Mc Graw Hill 
+2nd edition 
+2 
+Design with operational 
+amplifiers and Analog 
+Integrated circuits
+Franco S 
+Tata Mc Graw Hill 
+4th edition 
+3
+Digital Circuits and Systems
+D V Hall
+Tata Mc Graw Hill 
+4
+Digital Design
+Morris Mano 
+Pearson India
+4th Edition
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+lec15-Introduction to Operational Amplifiers (youtube.com) 
+2 
+lec19 - Operational Amplifier Configarations (youtube.com) 
+3 
+lec20 - Op-Amp, operational amplifier, Non-inverting amplifier (youtube.com) 
+4 
+lec24 - Introduction to Passive and Active Filters and op-amp as Low Pass Filter 
+(youtube.com) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery 
+Project 
+identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops
+Presentation 
+(Progress and Final 
+Presentations) 
+Group discussion 
+Project Analysis 
+Data Collection 
+Evaluation 
+Question answer 
+Sessions/ 
+Brainstorming 
+Sessions
+Analytical thinking 
+and self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project reformation (If 
+required)
+Guest Speakers 
+(Industry Experts) 
+Case Study/ Field 
+Survey Report 
+Prototyping 
+Poster Presentation / Video 
+Presentation: Students present 
+their results in a 2 to 5 minutes 
+video
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+Project Assessment and Evaluation criteria (30 Marks) 
+1. Project Planning and Proposal (5 Marks) 
+ 
+Clarity and feasibility of the project plan  
+ 
+Research and background understanding  
+ 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions and handling feedback  
+ 
+
+ 
+ 
+3. Involvement in the Project Work and Team Work (3 Marks) 
+ 
+Active participation and individual contribution  
+ 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+ 
+Adherence to the project timeline and milestones  
+ 
+Application of theoretical knowledge and problem-solving  
+ 
+Final Result 
+5. Final Presentation (5 Marks) 
+ 
+Quality and clarity of the overall presentation  
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ 
+Overall quality and technical excellence of the project  
+ 
+Innovation and originality in the project  
+Creativity in solutions and approaches 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+SEMESTER S3 
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE AND DATA 
+SCIENCE

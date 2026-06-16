@@ -1,0 +1,63 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Microcontroller Architecture: I/O Port Structure",
+            "Register Organization",
+            "General Purpose RAM",
+            "Bit Addressable RAM",
+            "Special Function Registers (SFRs)"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to 8051 Assembly Programming",
+            "Data Types and Assembler Directives",
+            "8051 Addressing Modes",
+            "Simple Assembly Language Programs (Data Transfer and Arithmetic Operations)",
+            "8051 Programming in C: Data Types and Time Delay in 8051",
+            "I/O Programming in 8051",
+            "8051 Timer/Counter Programming in Embedded C: Programming 8051 Timers",
+            "Counter Programming"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Basics of Serial Communication",
+            "8051 Connections to RS232",
+            "Serial Port Programming in 8051",
+            "8051 Interrupt Programming in Embedded C: 8051 Interrupts",
+            "External Hardware and Serial Communication Interrupt",
+            "Interrupt Priority in 8051",
+            "Interrupt Programming in C",
+            "Interfacing: LCD",
+            "ADC & DAC",
+            "Motor Control: Relays and Stepper Motor Interfacing",
+            "DC Motor Interfacing and PWM using 8051"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to ARM Processors",
+            "ARM Core",
+            "ARM Microcontroller",
+            "RISC vs CISC",
+            "Advanced Features of ARM",
+            "Architecture Versions",
+            "ARM Architecture",
+            "Instruction Set Architecture",
+            "Operating Modes",
+            "Register Set",
+            "General Purpose Registers - Mode Switching",
+            "Conditional Flags",
+            "Simple ALP Programs on Arithmetic & Logical Operation",
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division and Factorial"
+        ]
+    }
+]

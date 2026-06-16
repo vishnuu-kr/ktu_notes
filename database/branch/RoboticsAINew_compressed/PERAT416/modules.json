@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Elements of a communication system, Need for modulation. Amplitude\nmodulation, DSB-SC and SSB systems, AM Transmitter and receiver.\nFrequency and phase modulation, Narrow and wideband FM and their spectra,\nFM transmitter and receiver.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Geometric representation of signals, Signal space, Gram-Schmitt procedure\nfor orthogonisation.\nDigital modulation schemes: BASK, BFSK, BPSK, QPSK, QAM (analysis\nnot required), Signal constellation of digital modulation schemes,\nTransmission rate.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to computer communication: OSI Layering, TCP/IP layering.\nSwitching: Circuit switching and packet switching\nData link layer: Flow control (stop & wait and sliding\nwindow), Media access control: Aloha, Slotted Aloha, CSMA, CSMA/CD.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Network layer: Logical addressing, IPv4 & IPV6, Classes of IP addresses,\nSubnetting.\nRouting schemes: Distance vector routing, Link state routing.\nTransport layer: TCP, UDP, Congestion control.",
+    "contact_hours": "9"
+  }
+]

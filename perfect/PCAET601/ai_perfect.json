@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "DC and AC Machines: DC Machines - Principle of Operation of DC Generator",
+            "Constructional Details",
+            "EMF Equation",
+            "Types of Generators, Principle of Operation of DC Motors, Electrical and Mechanical Characteristics of DC Series",
+            "Shunt and Compound Motors",
+            "Applications, AC Machines - Principle of Operation",
+            "Rotating Magnetic Field",
+            "Single Phase and Three Phase Induction Motors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Power Devices and Controlled Rectifiers: Power Devices",
+            "Power BJT, Power MOSFET and IGBT",
+            "Steady State and Switching Characteristics, Drive Requirements, Design of Simple Drive Circuits for Power BJT, Power MOSFET and IGBT, Principle of DC Motor Control, Principle of PWM Switching Control, Two Quadrant and Four Quadrant Converter Circuit, Controlled Rectifiers",
+            "Principle of Phase Controlled Converter Operation, Single Phase Half Wave and Full Wave Controlled Rectifiers with R, RL and Battery Loads"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Inverters: Single Phase Inverters - Half Bridge",
+            "Full Bridge and Push Pull Inverter",
+            "Three Phase Voltage Source Inverter, Fundamental Concepts of PWM Schemes",
+            "Sine Triangle PWM",
+            "Space Vector PWM",
+            "Harmonic Distortion Factors for Three Phase Inverters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Induction Motor Drives and Vector Control Techniques: Induction Motor Drives - Torque-Speed Characteristics of Induction Motor",
+            "Speed Control by Varying Stator Frequency and Voltage, Voltage Source Inverter Driven Induction Motor",
+            "Application of PWM for Induction Motor Drive, Vector Control Techniques - Concepts of Direct Torque Control (DTC)",
+            "Field Oriented Control (FOC)",
+            "Comparison of Vector Control and Scalar Control, Application of Vector Control Drives"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

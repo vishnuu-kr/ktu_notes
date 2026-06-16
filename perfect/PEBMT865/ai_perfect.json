@@ -1,0 +1,85 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Medical Imaging Basics: Differences Between Medical Images and Natural Images",
+            "Images as Functions",
+            "Different Imaging Modalities",
+            "Ultrasound",
+            "PET/SPECT",
+            "Histopathology",
+            "Concept of Physical Coordinate System",
+            "Deep Neural Networks and Convolutional Neural Networks (CNN): The Convolution Operation",
+            "Motivation",
+            "Convolution and Pooling as an Infinitely Strong Prior",
+            "Variants of the Basic Convolution Function",
+            "Structured Outputs",
+            "Data Types",
+            "Efficient Convolution Algorithms",
+            "Random or Supervised Features",
+            "The Neuroscientific Basis for Convolutional Networks",
+            "Convolutional Networks and History of Deep Learning"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Image Classification Using TensorFlow: TensorFlow Tutorial",
+            "Medical Applications of Image Classification",
+            "Cross Entropy Loss",
+            "VGG-16",
+            "ResNet-101",
+            "Image Classification with Transfer Learning",
+            "Introduction to Image Segmentation: Medical Applications of Image Segmentation",
+            "Challenges in Medical Image Segmentation",
+            "Deep Learning Based Image Segmentation: Transposed Convolution",
+            "Categorical Cross Entropy Loss vs Dice Loss",
+            "Fully Convolutional Networks",
+            "U-Net"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to Image Registration: Clinical Applications of Image Registration",
+            "Linear Transforms: Rigid",
+            "Affine",
+            "Explicit",
+            "Parameter",
+            "Implicit Interpolators: Nearest Neighbour",
+            "Linear",
+            "Bilinear",
+            "Similarity Metrics: Sum of Squared Differences",
+            "Cross Correlation",
+            "Mutual Information",
+            "SSIM",
+            "Challenges in Image Registration",
+            "2D Image Registration",
+            "Introduction to 3D Image Registration"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Generative Adversarial Network (GAN): Defining the Generator Network",
+            "Defining the Discriminator Network",
+            "Defining Loss and Optimizer",
+            "Training the Discriminator",
+            "Generator and Complete Network",
+            "Inspecting the Generated Images",
+            "Image-to-Image Translation: Paired vs Unpaired Image-to-Image Translation",
+            "Pix2Pix",
+            "Cycle-GAN",
+            "Geometry-Consistent GAN",
+            "Medical Applications of Image-to-Image Translation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

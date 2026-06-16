@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Algorithms for binary multiplication and division. Fixed and floating-point\nnumber representation. Functional units of a computer, Von Neumann and\nHarvard computer architectures, CISC and RISC architectures. Processor\nArchitecture – General internal architecture, Address bus, Data bus, control\nbus. Register set – status register, accumulator, program counter, stack\npointer, general purpose registers. Processor operation – instruction cycle,\ninstruction fetch, instruction decode, instruction execute, timing response,\ninstruction sequencing and execution (basic concepts, data path.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Microcontrollers and Embedded Processors. Architecture – Block\ndiagram of 8051, Pin configuration, Registers, Internal Memory, Timers,\nPort Structures, Interrupts. Assembly Language Programming -\nAddressing Modes, Instruction set (Detailed study of 8051 instruction set\nis required).\nSimple programming examples in assembly language. Interfacing with 8051\nusing Assembly language programming: LED, Seven segment LED display.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Programming in C - Declaring variables, Simple examples – delay\ngeneration, port programming, code conversion.\nInterfacing of – Stepper Motor, DAC and ADC -- with 8051 and\nits programming.\n8051 Timers/Counters - Modes and Applications. Serial Data Transfer –\nSFRs of serial port, working, Programming the 8051 to transfer data serially.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to ARM - ARM family, ARM 7 register architecture. ARM\nprogrammer’s model. System software - Assembler, Interpreter, Compiler,\nLinker, Loader, Debugger.\nTypes of memory - RAM, ROM. Memory Characteristics and\nHierarchy. Cache memory – The basics of Caches, Mapping\ntechniques, Improving\nCache performance. Virtual memory – Overlay, Memory management,\nAddress translation. Input/Output Organization – Introduction, Synchronous\nvs. asynchronous I/O, Programmed I/O, Interrupt driven I/O, Direct\nMemory Access.",
+    "contact_hours": "13"
+  }
+]

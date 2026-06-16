@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Reliability concepts: Definition of reliability, reliability vs. quality,\nreliability function, MTTF, hazard rate function, bathtub curve, derivation of\nthe reliability function, failure and failure modes, causes of failures and\nunreliability.\nReliability models: Constant failure rate model, time dependent failure\nmodels. Weibull distribution, normal distribution, lognormal distribution.\nSerial configuration, parallel configuration, combined series parallel systems,\nK-out-of-m systems.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Redundancy techniques in system design: Component vs unit redundancy,\nweakest-link technique, mixed redundancy, standby redundancy, redundancy\noptimization, double failures and redundancy, Markov analysis, load sharing\nsystems, standby systems, degraded systems, three state devices, covariate\nmodels.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Reliability in design: Reliability in design process, system effectiveness,\neconomic analysis and life cycle cost. Reliability allocation- optimal\nallocations, ARINC and AGREE methods. System safety and fault tree\nanalysis- Tieset and Cut-set methods. Use of boolean algebra in reliability\nanalysis.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Maintainability and availability: Definitions and basic concepts,\nrelationship between reliability, availability and maintainability, inherent\navailability, achieved availability, operational availability.\nEconomics of reliability: Economic issues, manufacturers cost, customers\ncost, reliability achievement cost models, reliability utility cost models,\ndepreciation cost models, availability cost model for parallel systems.\nReliability management and reliability management by objectives.",
+    "contact_hours": "10"
+  }
+]

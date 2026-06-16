@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Cyber-Physical Systems: Cyber-Physical Systems (CPS)\nin the real world, Basic principles of design and validation of CPS, Industry\n4.0 AutoSAR, IIOT implications, Building Automation, Medical CPS.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Platform Components for Cyber Physical Systems: CPS HW platforms -\nProcessors, Sensors, Actuators, CPS Network - WirelessHart, CAN,\nAutomotive Ethernet, Scheduling Real Time CPS tasks: Table-driven and\nEvent driven schedulers, Hybrid schedulers",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Principles of Dynamical Systems: Dynamical Systems and Stability,\nController Design Techniques, Performance under Packet drop and Noise",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "CPS implementation issues: From features to automotive software\ncomponents, Mapping software components to ECUs\nCPS Performance Analysis: Effect of scheduling, bus latency, sense and\nactuation faults on control performance, network congestion, Building real-\ntime networks for CPS.",
+    "contact_hours": "9"
+  }
+]

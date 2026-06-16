@@ -1,0 +1,60 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Control System Introduction to control systems",
+      "open-loop and closed-loop systems",
+      "Feedback and non-feedback systems",
+      "servomechanism",
+      "history and development of automatic control. Feedback Characteristics of Control Systems include reduction of parameter variation, control over system dynamics, and control of the effects of disturbance signals. Review of Mathematical Modelling and Transfer Function Block Diagram Algebra & Signal Flow Graphs Block diagram of an open-loop system",
+      "Block diagram of a closed loop system",
+      "block diagram and transfer function of a typical first-order system and second-order system. Block diagram reduction techniques. Concept of signal flow graph",
+      "construction of signal flow graph",
+      "Finding transfer function from Signal flow graph using Mason’s gain formula"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Time-domain Analysis of First-order Systems Time response, transient and steady-state response",
+      "standard test signals and their application in system analysis. Open-loop and closed-loop transfer functions, type and order of systems",
+      "the concept of poles and zeros",
+      "type and order of the system",
+      "Response of first-order system to unit impulse and unit step input (with derivation",
+      "Time response specifications of first-order systems. Time-domain Analysis of Second-order Systems Response of under-damped second-order system to unit-step input (with derivation",
+      "Response of under-damped second-order system to unit impulse and unit ramp input (Derivation not required",
+      "Response of over-damped, critically damped and un-damped second-order system to unit step input (derivation not required",
+      "time response specifications of under-damped second order system. Steady-state Errors and Error Constants Steady-state error, static error constants"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Definitions, characteristic polynomial and characteristic equation, general stability criterion with reference to s-plane",
+      "Absolute and relative stability",
+      "necessary conditions for stability. Routh’s criterion of stability. The Root Locus Technique The root-locus concept",
+      "Evan’s criteria",
+      "Construction of root locus",
+      "determination of roots from root locus",
+      "Effect of addition of zeros and poles on root locus",
+      "root contours"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Construction. Stability in Frequency Domain Stability in frequency domain",
+      "gain margin and phase margin",
+      "stability from bode plots. Nyquist stability criterion",
+      "assessment of relative stability using Nyquist criterion"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

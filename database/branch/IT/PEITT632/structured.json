@@ -1,0 +1,64 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Classical Optimization Models",
+      "Optimization Methods-Exact Methods and Approximate Methods",
+      "Metaheuristics Concepts - Representation",
+      "Objective Function",
+      "Constraint Handling",
+      "Parameter Tuning and Performance Analysis"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Local Search- Neighbor Selection and Escaping from Local Optima",
+      "Simulated Annealing- Move Acceptance and Cooling Schedule",
+      "Tabu Search- Types of memory",
+      "Iterated Local Search-Perturbation Method and Acceptance Criteria",
+      "Variable Neighbourhood Search-Variable Neighborhood Descent and General Variable Neighborhood Search"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Inspiration from Nature-Ant Foraging Behavior",
+      "Ant System",
+      "Basic Principles of ACO- Pheromone Deposition",
+      "Pheromone Updating Rules",
+      "Construction of Solutions and Pheromone Evaporation",
+      "Ant System Variants-Elitist Ant System",
+      "Rank Based Ant System",
+      "Max Min Ant System",
+      "Application of ACO to the Travelling Salesman Problem"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Inspiration from Nature- Social Behavior of Bird Flock",
+      "Basic Models of PSO- Local Best PSO and Global Best PSO",
+      "gbest versus lbest PSO",
+      "Velocity Update Equations",
+      "Position Update Equations",
+      "Velocity Clamping",
+      "Inertia Weight",
+      "Constriction Coefficients",
+      "Synchronous and Asynchronous Updates",
+      "Velocity Models",
+      "Basic PSO Parameters",
+      "Guaranteed Convergence PSO",
+      "Problem Formulation of PSO algorithm",
+      "Advantages and Disadvantages of PSO"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

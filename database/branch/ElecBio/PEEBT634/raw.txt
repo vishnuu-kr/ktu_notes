@@ -1,0 +1,350 @@
+Course Code 
+PEEBT634 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBEBT504 
+Course Type 
+Theory 
+Course Objectives: 
+1. To familiarize with concepts of advanced digital signal processing techniques which includes 
+adaptive filtering, wavelet analysis, power spectrum, estimation and multivariate analysis 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Power spectrum analysis: Estimation of power density spectrum, non-
+parametric methods- Periodogram - Bartlett, Welch, Blackman and Tukey 
+Methods-comparison. Parametric models, estimation Auto regressive (AR), 
+Moving average (MA) Autoregressive moving average (ARMA) models. 
+Parametric model based linear prediction theory-Forward and backward 
+linear prediction Estimation of parameters - spectrum estimation of ECG, 
+Power spectrum estimation of Heart rate variability data. Application, 
+Spectrum estimation of EEG 
+9 
+2 
+Wavelet Analysis Introduction to wavelet transforms – CWT & DWT 
+Orthogonal wavelet decomposition, Orthonormal wavelets - filter banks. 
+Applications of DWT: wavelet denoising, ECG feature detection & Heart 
+sound Analysis. 
+9 
+3 
+Adaptive filters: Optimal and adaptive filters, Weiner filters, Adaptive signal 
+processing - Steepest descent algorithm LMS adaptive algorithm, Adaptive 
+noise canceller – cancellation of 50 Hz signal in ECG- cancellation of 
+maternal ECG in foetal electrocardiography 
+9 
+
+ 
+ 
+4 
+Multivariate Analysis: Principal Component Analysis – denoising of ECG & 
+EEG signals using PCA, Independent Component Analysis-EEG denoising. 
+Computation of diagnostic signal parameters of ECG: Heart rate and QRS 
+detection using Multivariate analysis (PCA and ICA). 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Analyse parametric and nonparametric methods of power spectrum 
+estimation 
+K3 
+CO2 
+Apply the methods of wavelet analysis in biomedical signal processing 
+K3 
+CO3 
+Investigate the techniques in adaptive filters 
+K4 
+CO4 
+Implement various signal processing techniques in biomedical 
+applications 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+CO-PO Mapping Table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+1 
+1 
+ 
+1 
+
+ 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Digital Signal Processing-
+Principles Algorithms and 
+Applications 
+John G Proakis& 
+Dimitris G Manolakis 
+PHI 
+4th Edition, 
+2016 
+2 
+Biomedical Signal Analysis,  
+Rangaraj M Rangayyan 
+John Wiley 
+2nd Edition, 
+2015 
+3 
+Signals & Systems in 
+Biomedical Engineering  
+ 
+Suresh R Devasahayam 
+Springer 
+ 
+2nd Edition, 
+2013 
+4 
+Insight into wavelets: from 
+theory to practice,  
+K P Soman, K I 
+Ramachandran, N G 
+Resmi 
+PHI 
+3rd Edition, 
+2015 
+5 
+Discrete Wavelet Transforms-
+Biomedical Applications 
+Hannu Olkkonen, 
+In Tech, 
+ 
+1st Edition, 
+2011 
+6 
+Adaptive Signal Processing  
+ 
+Bernard Widrow and 
+Samuel D. Stearns 
+Person Education 
+ 
+2005 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the Publisher 
+Edition and 
+Year 
+1 
+Biomedical signal Processing,  
+ 
+D C Reddy 
+Tata McGraw-Hill, 
+New Delhi, 
+1st 
+Edition,2005 
+2 
+Biosignal and Biomedical Image 
+Processing – Matlab Based 
+Applications,  
+John L.Semmlow 
+Marcel Dekker Inc. 
+New York 
+2004. 
+3 
+Wavelet Transforms- 
+Introduction to Theory and 
+Applications 
+Raghuveer M Rao et al 
+Pearson Education Asia 
+1999 
+4 
+Statistical and Adaptive Signal 
+Processing  
+ 
+Monalokis, Ingle and 
+Kogon 
+Artech House INC  
+2005 
+5 
+Adaptive Filter theory,  
+Simon Haykin 
+Pearson Education India
+5thEdition, 
+2013 
+6 
+Principal Component Analysis 
+I.T Jolliffe 
+Springer 
+2ndEdition, 
+2002 
+7 
+Independent Component 
+Analysis for Audio and Bio 
+signal Applications,  
+Ganesh R. Naik 
+In Tech 
+2012 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+https://onlinecourses.nptel.ac.in/noc24_ee136/preview 
+3 
+https://onlinecourses.nptel.ac.in/noc24_ee149/preview 
+ 
+
+ 
+ 
+SEMESTER S6 
+COMPUTATIONAL METHODS IN BIOMEDICAL ENGINEERING

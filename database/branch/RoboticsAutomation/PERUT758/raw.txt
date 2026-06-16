@@ -1,0 +1,332 @@
+Course Code 
+PERUT758 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. 
+Study of this course provides the learners a clear understanding of how computer networks from 
+local area networks to the massive and global Internet are built, how they allow computers to 
+share information and communicate with one another. This course covers the physical aspects of 
+computer networks, layers of OSI Reference model, and inter-networking. The course helps the 
+learners to compare and analyze the existing network technologies and choose a suitable network 
+design for a given system. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+(Introduction Physical Layer and Data Link Layer) 
+Introduction - Uses of computer networks, Network hardware, Network 
+software.Reference models-The OSI reference model, The TCP/IP reference 
+model, Comparison of OSI and TCP/IP reference models. 
+ Physical Layer  Modes of communication, Physical topologies,  Signal 
+encoding,Performance 
+indicators- 
+Bandwidth, 
+Throughput, 
+Latency, 
+Queuing time, Bandwidth Delay product. 
+ 
+9 
+2 
+Data link layer - Data link layer design issues, Error detection and correction, 
+Sliding window protocols. Medium Access Control (MAC) sublayer –
+Channel allocation problem, Multiple access protocols, Ethernet, Wireless 
+LANs - 802.11, Bridges & switches - Bridges from 802.x to 802.y, 
+Repeaters, Hubs, Bridges, Switches, Routers and Gateways. 
+ 
+9 
+3 
+(Network Layer) 
+Network layer design issues. Routing algorithms - The Optimality Principle, 
+Shortest path routing, Flooding, Distance Vector Routing, Link State 
+9  
+
+ 
+ 
+Routing, Congestion control algorithms 
+IP protocol, IP addresses, Internet Control Message Protocol (ICMP), 
+Address Resolution Protocol (ARP), Reverse Address Resolution Protocol 
+(RARP), BOOTP,Dynamic Host Configuration Protocol (DHCP),NAT, 
+IPv6, ICMPv6. 
+4 
+(Transport Layer and Application Layer) 
+User Datagram Protocol (UDP). Transmission Control Protocol (TCP) 
+Overview of TCP, TCP segment header, Connection establishment &release, 
+Connection management modeling,  Application Layer File Transfer 
+Protocol (FTP), Domain Name System (DNS), Electronic mail, 
+Multipurpose 
+Internet 
+Mail 
+Extension 
+(MIME), 
+Simple 
+Network 
+Management Protocol (SNMP), World Wide Web(WWW) ,SMTP,HTTP 
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the features of computer networks, protocols, and network 
+design models (Cognitive Knowledge: Understand) 
+K2 
+CO2 
+Examine the fundamental characteristics of the physical layer and its 
+role in network communication (Cognitive Knowledge: Apply) 
+K3 
+CO3 
+Explain the design issues of data link layer, link layer protocols, 
+bridges and switches (Cognitive Knowledge: Understand) 
+K2 
+CO4 
+Select 
+appropriate 
+routing 
+algorithms, 
+congestion 
+control 
+techniques(Cognitive Knowledge: Apply) 
+K3 
+CO5 
+Illustrate functions and protocols of the network layer, transport layer, 
+and application layer in inter-networking (Cognitive Knowledge: 
+Understand) 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Networks 
+Andrew S. Tanenbaum 
+PHI (Prentice Hall 
+India) 
+ 
+4/e 
+ 
+2 
+Data Communication and 
+Networking 
+Behrouz A Forouzan 
+ 
+Tata McGraw Hill 
+ 
+4/e 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO2 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO4 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO5 
+3 
+3 
+3 
+- 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Networks – A 
+Systems Approach 
+Larry L Peterson and 
+Bruce S Dave 
+Morgan Kaufmann 
+5/e 
+2 
+Computer Networking and the 
+Internet 
+Fred Halsall 
+Addison-Wesley 
+5/e 
+3 
+Computer Networking: A Top-
+Down Approach 
+James F. Kurose, 
+Keith W. Ross 
+6/e 
+4 
+An Engineering Approach to 
+Computer Networks, 
+Keshav 
+Addison Wesley 
+1998 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://elearn.nptel.ac.in/shop/nptel/computer-networks-and-internet-protocol 
+https://archive.nptel.ac.in/courses/106/106/106106091/ 
+https://onlinecourses.swayam2.ac.in/cec21_cs19/preview 
+2 
+https://archive.nptel.ac.in/courses/106/105/106105081/ 
+https://elearn.nptel.ac.in/shop/nptel/computer-networks-and-internet-protocol 
+3 
+https://onlinecourses.swayam2.ac.in/cec21_cs19/preview 
+https://archive.nptel.ac.in/courses/106/106/106106091/ 
+https://onlinecourses.nptel.ac.in/noc23_cs35/preview 
+4 
+https://archive.nptel.ac.in/courses/106/106/106106091/ 
+https://elearn.nptel.ac.in/shop/nptel/computer-networks-and-internet-protocol 
+
+ 
+ 
+SEMESTER S7 
+VISUAL AND AUGMENTED REALITY FOR ROBOTICS

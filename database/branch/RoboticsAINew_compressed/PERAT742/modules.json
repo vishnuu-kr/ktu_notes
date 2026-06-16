@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "NLP Tasks and Applications, Language-Building Blocks, Challenges of\nNLP, Regular Expressions, Text Normalization, Edit Distance, N-gram\nLanguage Models, Approaches to NLP-- Heuristics-Based NLP, Machine\nLearning-based NLP.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Text\nRepresentation—Preprocessing,\nSentence\nsegmentation,\nWord\ntokenization, Stemming and lemmatization, Vector Space Models--Basic\nVectorization Approaches--One-Hot Encoding, Bag of Words, Bag of N-\nGrams TF-IDF; Distributed Representations-- Word Embeddings, Doc2Vec",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Text Classification--Text classification applications – Pipeline for building\ntext classification systems, Naïve Bayes for Sentiment Classification –\nNaïve Bayes Classifier Training – Optimizing for Sentiment Analysis,\nLogistic Regression, Support Vector Machine for Text Classification",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Information Extraction(IE)—IE Applications – The General Pipeline for IE\n- Named Entity Recognition(NER), Ambiguity in Named Entity\nRecognition – NER as Sequence Labeling – Evaluation of NER.\nInformation Retrieval – Term weighting and document scoring – Inverted\nIndex – Evaluation of Information Retrieval Systems",
+    "contact_hours": "9"
+  }
+]

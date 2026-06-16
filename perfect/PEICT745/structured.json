@@ -1,0 +1,76 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Graphical system design Graphical system design (GSD) model-design flow with GSD-virtual instrumentation-virtual instrument and traditional instrument-hardware and software in virtual instrumentation-virtual instrumentation for test, control and design-virtual instrumentation in the engineering process-virtual instruments beyond personal computer- graphical system design using LabVIEW-graphical programming and textual programming. Introduction to LabVIEW Advantages of LabVIEW- software environment-creating and saving a vi -front panel toolbar- block diagram toolbar-palettes -shortcut menus -property dialog boxes",
+            "front panel controls and indicators- block diagram-data types -data flow program-LabVIEW documentation resources -keyboard shortcuts. Modular programming Modular programming in LabVIEW",
+            "build a vi front panel and block diagram-icon and connector pane",
+            "creating an icon",
+            "building a connector pane- displaying subVIs and express vis as icons or expandable nodes -creating subVIs from sections of a vi",
+            "opening and editing subVIs -placing subVIs on block diagrams- saving subVIs",
+            "creating a stand-alone application"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Repetition and loops For loops - while loops - structure tunnels- terminals inside or outside loops - shift registers-feedback nodes- control timing- communicating among multiple loops - local variables - global variables. Arrays Arrays in LabVIEW - creating one-dimensional array controls",
+            "indicators and constants - creating two-dimensional arrays-creating multidimensional arrays- initializing arrays - deleting elements",
+            "rows",
+            "columns and pages within arrays- inserting elements",
+            "rows",
+            "columns and pages into - replacing elements",
+            "rows",
+            "columns",
+            "and pages within arrays- array functions - auto indexing - creating two-dimensional arrays using loops - identification of data structure (scalar and array) using wires - using auto-indexing to set the for loop count - matrix operations with arrays-polymorphism. Clusters Creating cluster controls and indicators- creating cluster constant - order of cluster elements - cluster operations - assembling clusters- disassembling clusters - conversion between arrays and clusters - error handling- error cluster"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Plotting data types of waveforms",
+            "waveform graphs-waveform charts-waveform data type- XY graphs-intensity graphs and charts-digital waveform graphs-3d graphs",
+            "customizing graphs and charts-customizing graphs-customizing 3d graphs",
+            "customizing charts-dynamically formatting waveform graphs -configuring a graph or chart",
+            "displaying special planes on the XY graph. Structures Case structures-sequence structures-customizing structures-timed structures- formula nodes",
+            "event structure",
+            "LabVIEW mathscript. Strings and file i/o Creating string controls and indicators",
+            "string functions-editing, formatting and parsing strings",
+            "formatting strings",
+            "configuring string controls and indicators- basics of file input/output",
+            "choosing a file I/O format -LabVIEW data directory",
+            "file i/o VIs",
+            "creating a relative path"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Instrument Control Introduction",
+            "GPIB communication",
+            "hardware specifications",
+            "software architecture",
+            "instrument i/o assistant",
+            "visa- instrument",
+            "serial port communications",
+            "data transfer rate",
+            "serial port standards",
+            "using other interfaces. Data acquisition Transducers",
+            "signals- signal conditioning- DAQ hardware configuration -DAQ hardware",
+            "analog inputs",
+            "analog outputs",
+            "counters",
+            "digital I/O (DIO",
+            "DAQ software architecture- DAQ assistant- channels and task configuration",
+            "selecting and configuring a data acquisition device-components of computer based measurement system"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

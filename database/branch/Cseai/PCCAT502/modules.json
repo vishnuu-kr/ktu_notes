@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Foundations of AI and Intelligent Agents\nIntroduction to AI and its History: Definitions and scope, Historical\nmilestones in AI development\nIntelligent Agents: Concepts of agents and environments, Rationality and the\nnature of environments, Structures of agents: Simple reflex, model-based,\ngoal-based, utility-based\nProblem-Solving Agents: Problem formulation and agent-based problem\nsolving, Examples of problem-solving scenarios",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Search Strategies and Game Playing\nSearch Strategies for Solutions: Uninformed search strategies: Breadth-first\nsearch (BFS), Depth-first search (DFS), Heuristic search: Hill climbing, A*\nalgorithm, Problem reduction techniques\nGame Playing and Adversarial Search: Concepts of adversarial search and\ngame theory, Mini-max algorithm for optimal decision-making, Challenges\nin game playing and problem-solving in multiplayer games, Alpha-Beta\npruning for efficient game tree exploration, Evaluation functions and\nheuristics in game playing",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Knowledge Representation and Reasoning\nKnowledge\nRepresentation Techniques: Predicate\nlogic and logic\nprogramming, Semantic networks, frames, and inheritance systems, Rule-\nbased systems and constraint propagation\nReasoning Under Uncertainty: Basics of probability theory and Bayesian\nreasoning, Dempster-Shafer theory for managing uncertainty, Applications\nof reasoning under uncertainty in AI systems",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Learning Methods and Expert Systems\nLearning from Observations: Inductive learning and decision trees,\nExplanation-based learning, Statistical learning methods and reinforcement\nlearning\nExpert Systems: Introduction and basic concepts of expert systems, Structure\nand functioning of expert systems, Knowledge engineering and acquisition\nmethods, Societal impacts and ethical considerations in AI, Reasoning\ntechniques: Rule-based, frame-based, model-based, case-based, Handling\nuncertainty in expert systems",
+    "contact_hours": "10"
+  }
+]

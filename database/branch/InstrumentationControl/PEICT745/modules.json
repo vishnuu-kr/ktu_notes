@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Graphical system design\nGraphical system design (GSD) model-design flow with GSD-virtual\ninstrumentation-virtual instrument and traditional instrument-hardware and\nsoftware in virtual instrumentation-virtual instrumentation for test, control\nand design-virtual instrumentation in the engineering process-virtual\ninstruments beyond personal computer- graphical system design using\nLabVIEW-graphical programming and textual programming.\nIntroduction to LabVIEW\nAdvantages of LabVIEW- software environment-creating and saving a vi -\nfront panel toolbar- block diagram toolbar-palettes -shortcut menus -\nproperty dialog boxes - front panel controls and indicators- block diagram-\ndata types -data flow program-LabVIEW documentation resources -\nkeyboard shortcuts.\nModular programming\nModular programming in LabVIEW - build a vi front panel and block\ndiagram-icon and connector pane - creating an icon - building a connector\npane- displaying subVIs and express vis as icons or expandable nodes -\ncreating subVIs from sections of a vi - opening and editing subVIs -\nplacing subVIs on block diagrams- saving subVIs - creating a stand-alone\napplication.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Repetition and loops\nFor loops - while loops - structure tunnels- terminals inside or outside\nloops - shift registers-feedback nodes- control timing- communicating\namong multiple loops - local variables - global variables.\nArrays\nArrays in LabVIEW - creating one-dimensional array controls, indicators\nand constants - creating two-dimensional arrays-creating multidimensional\narrays- initializing arrays - deleting elements, rows, columns and pages\nwithin arrays- inserting elements, rows, columns and pages into - replacing\nelements, rows, columns, and pages within arrays- array functions - auto\nindexing - creating two-dimensional arrays using loops - identification of\ndata structure (scalar and array) using wires - using auto-indexing to set\nthe for loop count - matrix operations with arrays-polymorphism.\nClusters\nCreating cluster controls and indicators- creating cluster constant - order of\ncluster elements - cluster operations - assembling clusters- disassembling\nclusters - conversion between arrays and clusters - error handling- error\ncluster.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Plotting data\ntypes of waveforms - waveform graphs-waveform charts-waveform data\ntype- XY graphs-intensity graphs and charts-digital waveform graphs-3d\ngraphs - customizing graphs and charts-customizing graphs-customizing 3d\ngraphs - customizing charts-dynamically formatting waveform graphs -\nconfiguring a graph or chart - displaying special planes on the XY graph.\nStructures\nCase\nstructures-sequence\nstructures-customizing\nstructures-\ntimed\nstructures- formula nodes - event structure - LabVIEW mathscript.\nStrings and file i/o\nCreating string controls and indicators - string functions-editing, formatting\nand parsing strings - formatting strings - configuring string controls and\nindicators- basics of file input/output - choosing a file I/O format -\nLabVIEW data directory - file i/o VIs - creating a relative path.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Instrument Control\nIntroduction - GPIB communication - hardware specifications - software\narchitecture - instrument i/o assistant – visa- instrument - serial port\ncommunications - data transfer rate - serial port standards - using other\ninterfaces.\nData acquisition\nTransducers - signals- signal conditioning- DAQ hardware configuration -\nDAQ hardware - analog inputs - analog outputs - counters - digital I/O\n(DIO) – DAQ software architecture- DAQ assistant- channels and task\nconfiguration - selecting and configuring a data acquisition device-\ncomponents of computer based measurement system",
+    "contact_hours": "8"
+  }
+]

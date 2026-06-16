@@ -1,0 +1,301 @@
+Course Code 
+PECST751 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L:T:P:R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+Course Objectives: 
+1. To give a comprehensive understanding of advanced networking concepts, including MPLS, VPNs, 
+Data Center Networks, and Software-Defined Networking (SDN). 
+2. To impart the skills necessary to analyze, design, and evaluate complex networking architectures, 
+addressing the challenges and emerging trends. 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Review of Computer Networking Fundamentals - OSI and TCP/IP Models, 
+Layers and Protocols, IP Addressing and Subnetting, Routing Protocols - 
+RIP, OSPF, BGP;  
+QoS in IP networks - Random Early Detection, Protocols for QoS support - 
+RSVP, RTP, Multiprotocol Label Switching (MPLS): Overview and Use 
+Cases; Network Security Basics - Firewalls, ACLs, and NAT; Working of 
+NAT; Virtual Private Networks (VPNs) - Types and Architectures; 
+Overview of Data Center Networks: Key Components and Topologies; 
+8 
+2 
+DLL switching - Overview, VLANs, Inter-VLAN Routing; Spanning Tree 
+Protocol (STP) - IEEE 802.1D, Rapid Spanning Tree Protocol (RSTP) - 
+IEEE 802.1w, Multiple Spanning Tree Protocol (MSTP) - IEEE 802.1s, STP 
+Enhancements - BPDU Guard, Root Guard, and Loop Guard; 
+Data Center Network Architectures - Traditional vs. Modern Data Center 
+Designs (Spine-Leaf, Clos Networks), Ethernet Fabrics and TRILL; 
+Data Center Design Considerations - Scalability, Redundancy, and Latency. 
+9 
+3 
+SDN Architecture and Components - Control Plane, Data Plane, and 
+Application Plane; OpenFlow Protocol and its Role in SDN; SDN 
+Controllers - Ryu, OpenDaylight, and ONOS; SDN Use Cases - Traffic 
+9 
+
+ 
+Engineering, Network Function Virtualization (NFV) - NFV Concepts, 
+Virtualizing Network Functions and Services; NFV Infrastructure (NFVI) 
+and Management (MANO); Service Function Chaining (SFC); NFV in 
+Telecom Networks.  
+4 
+Data Center Interconnect (DCI) - Technologies for Data Center 
+Interconnection(VPLS, OTV, and VXLAN), DCI Design and Deployment 
+Considerations; Intent-Based Networking (IBN) - Introduction to Intent-
+Based Networking; Content Distribution on the Internet - Architectures for 
+Information-Centric Networking; Content Naming, Routing and Caching, 
+Security in 
+Named Data Networking; Network Automation and 
+Orchestration; Automation Tools - Ansible, Terraform; Orchestration 
+Frameworks - Kubernetes. 
+10 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+2 Questions from each module.  
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+Each question carries 9 marks.  
+Two questions will be given from each module, out of 
+which 1 question should be answered.  
+Each question can have a maximum of 3 subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain and critically analyze advanced networking protocols and 
+technologies, including MPLS, VPNs, and SDN, and their applications 
+in modern networks 
+K3 
+CO2 
+Demonstrate an understanding of data center network architectures, 
+including the design considerations and protocols that ensure 
+scalability, redundancy, and efficiency. 
+K3 
+CO3 
+Use Software-Defined Networking (SDN) and Network Function 
+Virtualization (NFV) to automate and optimize network operations. 
+K3 
+CO4 
+Explain emerging trends such as Intent-Based Networking (IBN) and 
+network automation, applying this knowledge to modernize and 
+innovate networking solutions. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computer Networking: A Top-Down 
+Approach 
+James F. Kurose, 
+Keith W. Ross 
+Pearson 
+8/e, 2022 
+2 
+Data Center Virtualization Fundamentals: 
+Understanding Techniques and Designs for 
+Highly Efficient Data Centers with Cisco 
+Nexus, UCS, MDS, and Beyond 
+Gustavo A. A. 
+Santana 
+ 
+ 
+CISCO  Press 
+1/e, 2013 
+3 
+MPLS and VPN Architectures 
+Jim Guichard, Ivan 
+Pepelnjak, Jeff Apcar
+CISCO  Press 
+1/e, 2000 
+4 
+High-speed networks and Internet:  
+Performance and Quality of Service 
+William Stallings 
+Pearson 
+2/e, 2002 
+5 
+Software Defined Networks: A 
+Comprehensive Approach 
+Paul Goransson, 
+Chuck Black, 
+Timothy Culver 
+ 
+Morgan 
+Kaufman 
+2/e, 2016 
+6 
+Information-Centric Networking (ICN): 
+Content-Centric Networking (CCNx) and 
+Named Data Networking (NDN) 
+Terminology 
+B. Wissingh, C. 
+Wood, A. Afanasyev, 
+L. Zhang, D. Oran, 
+C. Tschudin 
+RFC 8793 
+2020 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Cloud Networking: Understanding 
+Cloud-based Data Centre Networks 
+Gary Lee  
+Morgan Kaufman 
+1/e, 2014 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/106/106106243/ 
+
+ 
+SEMESTER S7 
+RESPONSIBLE ARTIFICIAL INTELLIGENCE

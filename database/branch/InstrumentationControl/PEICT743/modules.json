@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Industrial Process Control and Instrumentation\nStandards (8 Hours)\nIntroduction to Industrial Process Control.\nInstrumentation Symbols as per ISA Standards: Purpose, scope,\nidentification of the systems, function identification, loop identification,\ninstrument line symbols, general instrument or function symbols, control\nvalve body symbols, actuator symbols, symbols of self-actuated regulators,\nsymbols for actuator action, primary element symbols, symbols of heat\ntransfer elements, symbols of pump and compressor, symbols of process\npressure vessels.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Instrumentation and Control of Chemical Reactors and Distillation\nTowers (10 Hours)\nInstrumentation and Control of Chemical Reactors: Flow sheet symbol,\ntemperature control, simple temperature control scheme, the valve used in\nthe temperature control scheme, the temperature response of an\nuncontrolled chemical reactor to step changes in load, recirculated cooling\nwater configuration, temperature gradient, cascade control, pressure\ncontrol, maximised production by constraint optimisation.\nInstrumentation and Control of Distillation Towers: Distillation\nequipment, column, bubble point and dew point, process of distillation\ntower, flow sheet symbol, column variables, guidelines for identifying the\nmanipulating variable, column pressure control, column pressure control\nwith liquid distillate and inert, column pressure control with liquid\ndistillate and negligible inert, column pressure control with vapour\ndistillate and inert, vacuum system, feed control, feed flow rate, variable\ncolumn feed, feed temperature, boil-up control, reflux control.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Control of Heat Exchangers (9 Hours)\nDifferent types of heat exchangers, process characteristics, terminology,\ndegrees of freedom (DOF), liquid-to-liquid heat exchanger, control of\nliquid-to-liquid heat exchanger using two-way valve, control of liquid-to-\nliquid heat exchanger using bypass control, balancing the three-way valve,\nreplacing\nthree-way valve using two two-way valve, steam heater, steam throttling,\ncondensate throttling, level control, bypass\ncontrol in steam heater, cascade loop on steam heater, condenser, control\nof condenser, reboiler, control of reboiler.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Control of Pumps and Compressors (9 Hours)\nControl of Pumps: System curves, constant static head, friction pressure\ncomponent, control of centrifugal pumps, head capacity curve, operating\npoint of pump, on-off level control, on-off flow control, on-off pressure\ncontrol, throttling flow control, control of rotary pump, on-off control,\nthrottling and safety control.\nControl of Centrifugal Compressors: Capacity control method used, curves\nof centrifugal compressor, control of centrifugal\ncompressor, suction throttling constant pressure system, suction throttling\nmostly friction system, discharge throttling mostly friction system, surge\ncontrol (fixed setpoint), antisurge control.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,301 @@
+Course Code 
+PEITT742 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCITT503: Software 
+Engineering 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the core concepts of DevOps and how they integrate with Agile practices to 
+enhance software development and deployment.  
+2. To understand the core concepts of DevOps and how they integrate with Agile practices to 
+enhance software development and deployment. 
+3. To equip students with the knowledge and skills to develop secure software by integrating 
+security best practices throughout the development lifecycle.  
+4. To explore advanced concepts in Agile and DevOps, with a focus on scaling and continuous 
+improvement in large and complex environments. 
+SYLLABUS 
+Modu
+le No. 
+Syllabus Description 
+Contact 
+Hours  
+1 
+Introduction to Agile Development 
+Introduction to Agile Methodology: Overview of traditional vs. Agile 
+development, Agile Manifesto and Principles. 
+Agile Frameworks: Scrum, Kanban, XP (Extreme Programming). 
+Agile Project Management: User Stories, Backlogs, Sprints, and Releases. 
+Roles in Agile Teams: Product Owner, Scrum Master, Development Team. 
+Agile Planning and Estimation: Story Points, Velocity, and Burndown Charts. 
+Agile Metrics and Reporting: Measuring progress, continuous improvement. 
+9 
+2 
+DevOps Fundamentals and Practices 
+Introduction to DevOps: Definition, need for DevOps, DevOps lifecycle. 
+9 
+
+ 
+ 
+Continuous Integration and Continuous Deployment (CI/CD): Jenkins, GitLab 
+CI, Travis CI. 
+Infrastructure as Code (IaC): Terraform, Ansible, Docker, and Kubernetes. 
+Version Control Systems: Git, Git workflows, branching strategies. 
+Automated Testing in DevOps: Unit tests, integration tests, deployment 
+testing. 
+3 
+Secure Software Development  
+Introduction to Secure Software Development: Importance of security in 
+software, common vulnerabilities. 
+Secure Coding Practices: OWASP Top 10, secure coding standards. 
+Threat Modeling: Identifying threats, security design principles. 
+Security Testing: Static Application Security Testing (SAST), Dynamic 
+Application Security Testing (DAST), and penetration testing. 
+Security in CI/CD Pipeline: Integrating security into DevOps (DevSecOps), 
+automated security tools. 
+9 
+4 
+Advanced DevOps and Agile Practices 
+Advanced CI/CD Pipelines: Custom pipelines, Blue-Green deployments, 
+Canary releases. 
+Monitoring and Logging: Prometheus, Grafana, ELK Stack (Elasticsearch, 
+Logstash, Kibana). 
+Cloud and DevOps: DevOps practices in AWS, Azure, and GCP. 
+Agile at Scale: Scaling Agile in large organizations, SAFe (Scaled Agile 
+Framework), LeSS (Large Scale Scrum). 
+Continuous Feedback and Improvement: Retrospectives, continuous learning 
+and adaptation. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 
+Questions 
+from 
+each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Discuss Agile principles and practices to manage and deliver software 
+projects effectively. 
+K2 
+CO2 
+Explain DevOps practices to automate and streamline software 
+development, testing, and deployment processes.  
+K2 
+CO3 
+Describe secure coding practices and integrate security into the 
+software development process. 
+K2 
+CO4 
+Illustrate advanced DevOps practices in a cloud environment to 
+enhance software delivery. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+2 
+CO2 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+2 
+CO3 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+2 
+CO4 
+3 
+3 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+2 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Agile Software Development, 
+Principles, Patterns, and 
+Practices 
+Robert C. Martin 
+Prentice Hall 
+1st Edition, 
+2002 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Scrum: The Art of Doing 
+Twice the Work in Half the 
+Time 
+Jeff Sutherland 
+Crown Business 
+1st Edition, 
+2014 
+2 
+The Phoenix Project: A Novel 
+About IT, DevOps, and 
+Helping Your Business Win 
+Gene Kim, Kevin Behr, 
+George Spafford 
+IT Revolution Press
+5th 
+Anniversary 
+Edition, 2018 
+3 
+The Web Application Hacker's 
+Handbook: Finding and 
+Exploiting Security Flaws 
+Dafydd Stuttard, Marcus 
+Pinto 
+Wiley 
+2nd Edition, 
+2011 
+4 
+Continuous Delivery: Reliable 
+Software Releases through 
+Build, Test, and Deployment 
+Automation 
+Jez Humble, David 
+Farley 
+Addison-Wesley 
+1st Edition, 
+2010 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://www.youtube.com/watch?v=VFQtSqChlsk&t=4223s 
+2 
+https://www.youtube.com/watch?v=hQcFE0RD0cQ 
+3 
+https://www.youtube.com/watch?v=ONe_P09MSKM 
+4 
+https://www.youtube.com/watch?v=egTi9U9vw3E&list=PLjNII-
+Jkdjfz5EXWlGMBRk63PC8uJsHMo 
+
+ 
+ 
+SEMESTER S7  
+BLOCKCHAIN TECHNOLOGY

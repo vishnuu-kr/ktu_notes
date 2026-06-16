@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Artificial neural networks: Biological neural networks,\nmodel of an artificial neuron, architecture, activation functions, learning\nmethods, History of ANN- McCulloch & Pitts model- algorithm and\narchitecture",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Types of networks:  Hebb network - algorithm and problems, Perceptron\nnetwork,\nADALINE,\nMADALINE,\nBack\nPropagation\nNetwork\n-\narchitecture, training algorithm, Problems. Competitive network: Maxent.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Associative memory networks: Hetero associative networks, Auto\nassociative memory networks, Discrete Hopfield nets, Bidirectional\nassociative memory networks.  Practical issues in neural network training -\nThe Problem of Overfitting, Vanishing and exploding gradient problems,\nDifficulties in convergence, Local and spurious Optima, Computational\nChallenges",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to  Convolutional Neural Networks (CNN) –convolution\noperation,pooling, ReLU layer, structure of CNN(basic concepts only)\nRecurrent Neural Networks- (RNN) basic concept   and simple\narchitecture with practical examples, LSTM, GRU.\nCase studies of application of neural networks in healthcare",
+    "contact_hours": "9"
+  }
+]

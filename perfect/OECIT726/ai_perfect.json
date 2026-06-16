@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Embedded Systems: Definition of Embedded System, Embedded Systems Vs General Computing Systems, History, Classification, and Major Application Areas, Purpose of Embedded Systems",
+            "Typical System: Core of the Embedded System, Memory, Sensors and Actuators, Communication Interface, Embedded Firmware, Other System Components",
+            "Characteristics and Quality Attributes of Embedded Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Designing with 8051: Factors to be Considered in Selecting a Controller, Why 8051 Microcontroller, Designing with 8051, The 8052 Microcontroller, 8051/52 Variants",
+            "Addressing Modes Supported by 8051",
+            "The 8051 Instruction Set",
+            "Fundamental Issues in Hardware Software Co-Design",
+            "Computational Models in Embedded Design",
+            "Introduction to Unified Modelling Language (UML)",
+            "Hardware Software Trade-offs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Design and Development: Hardware Design and Development, VLSI and Integrated Circuit Design, Recap of Electronic Design Automation (EDA) Tools, The PCB Layout Design, Printed Circuit Board (PCB) Fabrication",
+            "Firmware Design and Development: Embedded Firmware Design, Embedded Firmware Development Languages, Programming in Embedded C"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Integration and Testing of Embedded Hardware and Firmware",
+            "Boards Bring Up",
+            "The Embedded System Development Environment: The Integrated Development Environment (IDE)",
+            "Types of Files Generated on Cross Compilation",
+            "Disassembler/Decompiler",
+            "Simulators",
+            "Emulators and Debugging",
+            "Target Hardware Debugging",
+            "Boundary Scan"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

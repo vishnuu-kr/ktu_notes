@@ -1,0 +1,310 @@
+Course Code 
+PECPT741 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3: 0: 0: 0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+- 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the fundamental concepts and techniques of Operating Systems. 
+2. To study fundamental concepts, design principles and hardware considerations 
+3. To explore multithreading concepts, processes, threads, and various scheduling structures. 
+4. To Gain practical skills in designing and implementing operating system components to 
+optimize system performance and reliability. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Operating System: Computer Hardware Organization, 
+BIOS and Boot Process, Multithreading concepts, Processes, Threads, 
+Scheduling, Structures - Simple Batch, Multi-programmed, Time-shared, 
+Personal Computer, Parallel, Distributed Systems, Real-Time Systems, 
+System components, Operating System services. 
+9 
+2 
+Basics of Real Time Concepts: Terminology: RTOS concepts and 
+definitions, real-time design issues, examples, Hardware Considerations: 
+logic states, CPU, memory, I/O, Architectures, RTOS building blocks, Real-
+Time Kernel 
+9 
+3 
+Process Management: Concepts, scheduling, IPC, RPC, CPU Scheduling, 
+scheduling criteria, scheduling algorithms Threads: Multi-threading models, 
+threading issues, thread libraries, synchronization Mutex: creating, deleting, 
+prioritizing mutex, mutex internals 
+9 
+
+ 
+ 
+4 
+Inter-process Communication: Messages, Buffers, mailboxes, queues, 
+semaphores, deadlock, priority inversion  
+Pipes memory management: - Process stack management, run-time buffer 
+size, swapping, overlays, block/page management, replacement algorithms, 
+real-time garbage collection 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, 
+out of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the fundamental concepts of computer hardware 
+organization, BIOS, and the boot process. 
+ 
+K2 
+CO2 
+Analyze memory management techniques: process stack management, 
+swapping, overlays, and block/page management. 
+ 
+K4 
+CO3 
+Develop efficient inter-process communication mechanisms to 
+facilitate data exchange. 
+ 
+K3 
+CO4 
+Analyse solutions to common challenges such as deadlock and priority 
+inversion in concurrent systems. 
+ 
+K4 
+CO5 
+Apply knowledge of system components and services to optimize 
+system performance in practical scenarios. 
+ 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+MicroC/OS-II: The Real –Time 
+Kernel 
+J. J Labrosse 
+Newnes 
+1/e, 2002 
+2 
+Real-time systems 
+Jane W. S. Liu 
+Prentice Hall 
+1/e, 2000 
+3 
+Operating System Principles 
+Abraham Silberchatz, 
+Peter B. Galvin, Greg 
+Gagne 
+John Wiley 
+7/e, 2005 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+3 
+2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Advanced Programming in the 
+UNIX® Environment 
+W. Richard Stevens 
+Pearson Education 
+India 
+2/e, 2011 
+2 
+Real-Time System Design and 
+Analysis 
+Philips A. Laplante 
+John Wley& Sons 
+3/e, 2004 
+3 
+Linux for Embedded and Real-
+Time Applications 
+Doug Abbott 
+Newnes 
+2/e, 2011 
+4 
+Operating Systems – Internals 
+and Design Principles 
+Stallings 
+Pearson 
+Education/PHI 
+5/e, 2005 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+Introduction to Operating Systems - Course (nptel.ac.in) 
+2 
+NPTEL :: Computer Science and Engineering - NOC:Real Time Operating System 
+3 
+Real Time Operating System - Course (nptel.ac.in) 
+4 
+NPTEL :: Computer Science and Engineering - NOC:Real Time Operating System 
+
+ 
+ 
+SEMESTER S7 
+DISTRIBUTED SYSTEMS AND MIDDLEWARE

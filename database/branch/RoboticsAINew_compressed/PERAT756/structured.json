@@ -1,0 +1,75 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction and Classic Encryption Techniques:-OSI security architecture",
+      "Security attacks - Passive attacks",
+      "Active attacks",
+      "Security services-Authentication",
+      "Access Control",
+      "Data Confidentiality",
+      "Data integrity",
+      "Nonrepudiation",
+      "Availability service. Model for network security. Symmetric cipher model",
+      "Cryptography",
+      "Substitution techniques- Hill Cipher",
+      "Transposition Techniques. Finite Fields: -Groups",
+      "Rings and Fields",
+      "Modular arithmetic",
+      "Euclidian algorithm",
+      "Finite Fields of the form GF(p",
+      "Polynomial arithmetic"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Block Ciphers: - Data Encryption Standard",
+      "Block Cipher Principles - Stream Ciphers and Block Ciphers",
+      "Feistel Cipher",
+      "Feistel Decryption algorithm",
+      "The Data encryption standard",
+      "DES Decryption",
+      "The AES Cipher",
+      "substitute bytes transformation",
+      "Shift row transformation",
+      "Mix Column transformation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Public Key Cryptography: -RSA and Key Management",
+      "Principles of public key cryptosystems-Public key cryptosystems",
+      "Application for Public key cryptosystem requirements",
+      "Fermat’s theorem",
+      "Euler’s Totient Function",
+      "Euler’s theorem",
+      "RSA algorithm",
+      "Key management",
+      "Distribution of public keys",
+      "Publicly available directory",
+      "Public key authority",
+      "public key certificates",
+      "Distribution of secret keys using public key cryptography"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Message Authentication and Hash Function: - Authentication requirements",
+      "Authentication functions- Message Encryption",
+      "Public Key Encryption",
+      "Message Authentication Code",
+      "Hash function"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

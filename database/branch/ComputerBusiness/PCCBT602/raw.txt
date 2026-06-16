@@ -1,0 +1,329 @@
+Course Code 
+PCCBT602 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1.  Understand fundamentals of cryptography, network security threats, security services, and 
+countermeasures 
+2. Acquire background on hash functions, authentication, firewalls and intrusion detection 
+techniques. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Basics of Security and Traditional Cryptosystems 
+ 
+OSI security architecture – Security attacks, Services, Mechanisms. 
+Cryptography vs Cryptanalysis. Classical encryption techniques – Symmetric 
+cipher model. Substitution ciphers – Monoalphabetic vs Polyalphabetic 
+ciphers, Caesar cipher, Affine cipher, Playfair cipher, Vigenere cipher, Hill 
+cipher. Transposition ciphers – Keyless, Keyed, Double transposition. 
+9 
+2 
+Modern Symmetric Key Cryptosystems 
+ 
+Symmetric key ciphers – Block vs Stream ciphers, Block cipher components, 
+Product ciphers, Feistel and Non-Feistel ciphers. Data Encryption Standard 
+(DES) – Structure, Key generation, Design criteria, Weaknesses, Double DES, 
+Triple DES. Advanced Encryption Standard (AES) – Structure, Key 
+expansion. Block cipher modes of operation – Electronic Codebook Mode 
+(ECB), Cipher Block Chaining Mode (CBC), Cipher Feedback Mode (CFB), 
+Output Feedback Mode (OFB), Counter Mode (CTR). Stream ciphers – 
+Structure, RC4. 
+9 
+
+ 
+ 
+3 
+Public Key Cryptosystems 
+ 
+ Introduction to public key cryptosystems – Principles, Applications, 
+Requirements, Conventional vs public key cryptosystems. RSA cryptosystem 
+– Algorithm, Security, Attacks. ElGamal cryptosystem – Algorithm. Diffie-
+Hellman key exchange – Algorithm, Man-in-the middle attack. Elliptic Curve 
+Cryptography (ECC) – ElGamal ECC, Key exchange using ECC. 
+9 
+4 
+Message Integrity and Authentication 
+Hash functions – Security requirements, Secure Hash Algorithm (SHA-512). 
+Message Authentication Code (MAC) – Requirements, Uses, Hash-based 
+MAC(HMAC), Cipher-based MAC (CMAC). Digital signatures – Attacks, 
+Forgeries, Requirements, Direct vs Arbitrated digital signatures, RSA digital 
+signature, ElGamal digital signature, Digital Signature Standard (DSS). 
+Access Control: Access Control Principles - Subjects, Objects, and Access 
+Rights - Unix File Access Control, Role-Based Access Control, Attribute-
+Based Access Control. System security: Intruders, Intrusion detection 
+techniques, Password management. Malicious software – Viruses, Related 
+threats, Countermeasures. Distributed Denial of Service (DDoS) attacks – 
+Types, Countermeasures. 
+9 
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance
+Continuous 
+Assessment 
+(Accurate 
+Execution of 
+Programming 
+Tasks) 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Internal 
+Examination- 3 
+(Lab 
+Examination)  
+Total 
+5 
+5 
+10 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Identify the security services provided against different types of security 
+attacks. 
+K2 
+CO2 
+Illustrate classical encryption techniques for information hiding. 
+K3 
+CO3 
+Illustrate symmetric/asymmetric key cryptosystems for secure 
+communication. 
+K3 
+CO4 
+Explain message integrity and authentication methods in a secure 
+communication scenario 
+K2 
+CO5 
+Understand the access control mechanisms in operating systems 
+K2 
+CO6 
+Identify the effects of intruders, malicious software and distributed 
+denial of service attacks on system security 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping and Course Outcomes to Program Outcomes) 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO6 
+3 
+3 
+3 
+ 
+ 
+3 
+ 
+3 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Cryptography 
+and 
+Network 
+Security Principles and Practice 
+William Stallings 
+Pearson Ed 
+4th edition 
+2 
+Computer Security: Principles 
+and Practice 
+William Stallings, 
+Lawrie Brown 
+Pearson Ed 
+4th edition 
+3 
+Cryptography 
+and 
+Network 
+Security 
+Tata McGraw-Hill 
+Tata McGraw-Hill 
+3rd edition 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Security in Computing 
+Charles P Pfleeger, Shari 
+Lawrence Pfleeger, 
+Jonathan Margulies 
+Prentice Hall. 
+5th edition 
+2 
+ Elementary Number Theory,  
+G.A. Jones & J.M. Jones 
+Springer UTM 
+2007 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+SEMESTER S6 
+FINANCIAL MANAGEMENT

@@ -1,0 +1,62 @@
+name: Generate Premium KTU Notes (Matrix Architecture)
+
+on:
+  workflow_dispatch:
+    inputs:
+      branches:
+        description: 'Branches to process (e.g. CS,CE or ALL)'
+        required: false
+        default: 'ALL'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    # Allows the script to run up to 6 hours
+    timeout-minutes: 360
+    
+    strategy:
+      fail-fast: false
+      matrix:
+        semester: [1, 2, 3, 4, 5]
+        
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          
+      - name: Setup API Keys
+        # The MINIMAX_API_KEYS secret must be comma-separated
+        run: |
+          echo "${{ secrets.MINIMAX_API_KEYS }}" > miniall.txt
+          
+      - name: Run Notes Generation Engine
+        run: |
+          python generate_premium_notes.py --branch "${{ github.event.inputs.branches }}" --semester "${{ matrix.semester }}"
+          
+      - name: Commit and Push to Isolated Branch
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Create a unique branch for this matrix job (e.g., auto-notes-sem-3)
+          BRANCH_NAME="auto-notes-sem-${{ matrix.semester }}"
+          
+          # Check if branch exists on remote, fetch it if so, otherwise checkout new branch
+          git fetch origin $BRANCH_NAME || true
+          git checkout -B $BRANCH_NAME origin/$BRANCH_NAME || git checkout -b $BRANCH_NAME
+          
+          git add -A
+          # Commit and push, allowing failure if nothing to commit
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated Generation: Semester ${{ matrix.semester }}" && git push -u origin $BRANCH_NAME)

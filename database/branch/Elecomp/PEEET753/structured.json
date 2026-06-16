@@ -1,0 +1,66 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to neural networks -Single layer perceptrons",
+      "Multi Layer Perceptrons (MLPs",
+      "Activation functions - Sigmoid",
+      "Tanh",
+      "ReLU",
+      "Softmax",
+      "Risk minimization",
+      "Loss function",
+      "Training MLPs with Backpropagation",
+      "Practical issues in neural network training - The problem of Overfitting",
+      "Vanishing and Exploding gradient problems",
+      "Difficulties in convergence",
+      "Local and spurious Optima",
+      "Computational challenges. Applications of neural networks"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Introduction to Deep Learning",
+      "Deep Feed Forward network",
+      "Training deep learning models",
+      "Optimization techniques - Gradient Descent (GD",
+      "GD with momentum",
+      "Nesterov accelerated GD",
+      "Batch",
+      "Mini-batch and Stochastic GD",
+      "AdaGrad",
+      "RMSProp",
+      "Adam"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Introduction to CNN - Convolution and Pooling",
+      "Convolution and Pooling as an infinitely strong prior",
+      "variants of convolution functions",
+      "Efficient convolution algorithms",
+      "Applications - Computer Vision"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Introduction to RNN - Computational graphs",
+      "RNN design",
+      "Encoder-decoder sequence to sequence architectures",
+      "Deep RNNs",
+      "Modern RNN - LSTM and GRU",
+      "Applications - Natural Language Processing (NLP"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

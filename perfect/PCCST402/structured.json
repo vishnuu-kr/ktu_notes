@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Databases :- Database System Concepts and Architecture-Data Models",
+            "Schemas and Instances",
+            "Three-Schema Architecture and Data Independence",
+            "Database Languages and Interfaces",
+            "Centralized and Client/Server Architectures for DBMSs.",
+            "Conceptual Data Modelling and Database Design:- Data Modelling Using the Entity",
+            "Relationship (ER) Model - Entity Types",
+            "Entity Sets",
+            "Attributes",
+            "and Keys",
+            "Relationship Types",
+            "Relationship Sets",
+            "Roles",
+            "and Structural Constraints",
+            "Weak Entity Types. Refining the ER Design for the COMPANY Database"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "The Relational Data Model and SQL",
+            "The Relational Data Model and Relational Database Constraints",
+            "Relational Algebra and Relational Calculus",
+            "Structured Query Language (SQL)",
+            "Data Definition Language",
+            "Data Manipulation Language",
+            "Assertions",
+            "Triggers",
+            "views",
+            "Relational Database Design Using ER-to-Relational Mapping"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction, problems and failures in transaction, Desirable properties of transaction, Characterizing schedules based on recoverability and serializability",
+            "Concurrency Control with Two-Phase Locking Techniques- Database Recovery management: Deferred update-immediate update- shadow paging"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction To NoSQL Concepts",
+            "types of NoSQL databases- CAP Theorem- BASE properties- Use Cases and limitations of NoSQL.",
+            " SQL architectural Patterns-Key value Stores, Graph Stores, Column Family stores and Document Stores"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

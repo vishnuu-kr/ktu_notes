@@ -1,0 +1,61 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to formal language theory - Alphabets",
+      "Strings",
+      "Concatenation of strings",
+      "Languages. Regular Languages - Deterministic Finite State Automata (DFA) (Proof of correctness of construction not required",
+      "Nondeterministic Finite State Automata (NFA",
+      "NFA with epsilon transitions",
+      "Eliminating epsilon transitions",
+      "Equivalence of DFA and NFA",
+      "Subset Construction"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "The formal definition of a regular expression",
+      "Building Regular Expressions",
+      "Equivalence with finite automata (Proof not expected) -Converting FA to Regular Expressions",
+      "Converting Regular Expressions to FA",
+      "Closure properties of Regular Languages (with proofs",
+      "DFA State Minimization",
+      "Pumping Lemma for Regular Languages"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Formal definition of a context-free grammar",
+      "Designing context-free grammars",
+      "Leftmost and Rightmost Derivations Using a Grammar",
+      "Parse Trees",
+      "Ambiguous Grammars. Formal definition of a pushdown automaton",
+      "DPDA and NPDA",
+      "Examples of pushdown automata - Normal Forms of CFG - Chomsky and Greibach"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Linear bounded automaton",
+      "the formal definition of a Turing machine",
+      "Examples of Turing machines - Turing machines as language acceptors",
+      "Turing machines as computing functions",
+      "Variants of Turing Machines (Proofs for equivalence with basic model not expected",
+      "Universal Turing Machine",
+      "Halting Problem",
+      "Recursive and recursively enumerable languages. Chomsky hierarchy of formal languages"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

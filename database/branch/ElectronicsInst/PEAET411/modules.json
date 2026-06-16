@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Analog Communication:\nIntroduction to communication systems, Classification of channels, Need\nfor modulation. Amplitude modulation: Equation and frequency spectrum\nof AM signal, Double-side band suppressed carrier (DSB-SC) modulation,\nSingle sideband modulation (SSB), comparison of spectrum, power and\nefficiency of all the three variants, Amplitude modulator circuits -balanced\nmodulator, AM demodulators – Envelope detector.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Angle Modulation:\nFrequency and phase modulation, Narrow and wide band FM and their\nspectra, Modulation and demodulation techniques for FM, pre-emphasis\nand de-emphasis, FM transmitter and receiver, Noise in receivers, Noise\nfigures, Performance of analog modulation schemes in AWGN: SNR and\nfigure of merit for different schemes",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Digital baseband communication:\nElements of digital communication system. Sources, channels and\nreceivers, Sampling and Reconstruction of Analog Signals: Nyquist\nSampling Theorem, Ideal Reconstruction Filter, Pulse Amplitude\nModulation (PAM), Time division multiplexing with PAM, Pulse Code\nModulation (PCM), A-law and mu-law quantization.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Digital bandpass communication :\nDigital\nbandpass\ncommunication\nsystem,\nBandpass\nmodulation\ntechniques: Amplitude shift keying, Phase shift keying, Frequency shift\nkeying, Methods of generation and detection, Signal constellations, M-ary\ndigital modulation schemes, Quadrature phase shift keying, Minimum shift\nkeying, Quadrature amplitude modulation.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "A data communication model-data communication",
+            "data communications networking",
+            "protocol architecture",
+            "the need for a protocol architecture",
+            "a simple protocol architecture",
+            "TCP/IP protocol architecture. Data transmission",
+            "Concepts and terminology",
+            "Analog and Digital data transmission-Transmission Impairments",
+            "channel capacity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Digital data, Digital signals & analog signals- analog data, digital signals and analog signals. Asynchronous and synchronous transmission",
+            "Types of Error -Error Detection -Error Correction. Data link Control",
+            "Flow control-Error Control",
+            "HDLC"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Synchronous TDM",
+            "statistical TDM",
+            "Asymmetric DSL",
+            "xDSL. Circuit Switching and packet switching: switching networks",
+            "circuit switching networks",
+            "circuit switching concepts",
+            "control signaling",
+            "soft switch architecture-Packet switching principles-X.25-Frame Relay. Routing in Switched Networks: routing in circuit switched network",
+            "routing in packet switched network",
+            "least cost algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "LAN protocol architecture",
+            "bridges",
+            "layer2 and layer3 switches. High speed LANs: the emergence of High-speed LAN’s",
+            "Ethernet",
+            "token ring",
+            "fibre channel. Transport protocol: connection-oriented transport protocol mechanisms",
+            "congestion control -UDP"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

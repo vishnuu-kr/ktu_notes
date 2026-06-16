@@ -1,0 +1,67 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction",
+            "Natural Language",
+            "NLP and Language Models Evolution",
+            "The Era of Large Language Models",
+            "Large Language Models in Practice",
+            "Language Models Pre-training: Encoder-Decoder Architecture",
+            "Attention Mechanism",
+            "Transformers",
+            "Data",
+            "Pre-trained LLM Design Choices",
+            "Commonly Used Pre-trained LLMs (BERT)",
+            "Mixtral 8x7B"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Prompt-Based Learning",
+            "Basics of Prompt-Based Learning",
+            "Prompt Engineering",
+            "Answer Engineering",
+            "Multi-Prompt Inference",
+            "LLM Adaptation and Utilization",
+            "Instruction Tuning",
+            "Parameter-Efficient Fine-Tuning",
+            "Compute-Efficient Fine-Tuning",
+            "End-User Prompting"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Tuning for LLM Alignment",
+            "The Reinforcement Learning Framework",
+            "Mapping the RL Framework to LLMs with Human Feedback",
+            "Evolution of RLHF",
+            "Overcoming RLHF Challenges",
+            "LLM Challenges and Solutions",
+            "Hallucination",
+            "Bias and Fairness",
+            "Toxicity",
+            "Privacy"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Retrieval-Augmented Generation",
+            "Basics of RAG",
+            "Optimizing RAG",
+            "Enhancing RAG",
+            "Evaluating RAG Applications",
+            "LLMs in Production",
+            "LLM Applications",
+            "LLM Evaluation Metrics",
+            "LLM Benchmark Datasets",
+            "LLM Selection",
+            "Tooling for Application Development",
+            "Inference",
+            "LLMOps"
+        ]
+    }
+]

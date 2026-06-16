@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Signals and Systems\nElementary Signals, Classification and representation of continuous time\nand discrete time signals, Signal operations.\n(3 hours)\nConcept of system: Continuous time and discrete time systems;\nProperties of systems:  Time invariance, Linearity,  Causality, Systems with\nand without memory, Stability. (3 hours)\nConvolution Integral and convolution sum (graphical and any one matrix\nmethod) (3 hours)\nImpulse and step response. (1 hour)",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Frequency domain characterization of Signals and Systems:\nFourier transform: Existence - Properties of Continuous time Fourier\ntransform; Concept of Frequency response; Significance of Fourier\ntransform and difference from Fourier series-Energy spectral density and\npower spectral density (4 hours)\nCharacterization of LTI systems: Differential equation representation of\ncontinuous time LTI systems. Transfer function representation of\ndifferential equation in Laplace domain. (2 hours)\nModeling of LTI systems: Electrical and  translational Mechanical system -\ntransfer function model  (3 hours)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Sampled Data Systems and Z-Transform (9 hours):\nSampling process - Impulse train sampling-sampling theorem- Aliasing\neffect. (2 hour)\nZero-order and First-order hold circuits - Signal reconstruction.\n(2 hours)\nZ-transform: Stability and causality conditions using ROC. Characterization\nof difference equations using Z-transform.\nPulse transfer function.  Impulse response of discrete-time systems. (5\nhours)",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Sampled Data System Representation and Fourier Analysis:\nDelay operator and block diagram representation-\nDirect form, cascade and parallel representations (3 hours)\nDiscrete Fourier series: Fourier representation of discrete time signals -\nDiscrete Fourier series– properties. (2 hours)\nDiscrete Time Fourier Transform: Properties- Frequency response of simple\nDT systems. (3 hours)",
+    "contact_hours": "8"
+  }
+]

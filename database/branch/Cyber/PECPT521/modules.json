@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction:Overview of embedded system; Importance of sensors,\nactuators and interfacing circuits in embedded control system\nEmbedded Sensors and Actuators:Various types of important sensors,\nactuators and their working principles: e.g, thermal, mechanical, electrical,\nmagnetic, optical, chemical, smart material and meta material based.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Interfacing Aspects of Sensors and Actuators to Embedded Controller\nand their Communication Protocols: Signal conditioning circuits; Various\nOp-Amp based interfacing circuit implementation: Amplifier, Filter, ADC,\nDAC etc.; Various Serial Communication protocols for interfacing.\nAdvancement in Interfacing Schemes of Resistive Sensors for Linearity\nImprovement and Error Reduction: Resistive sensor examples; Non-\nidealities in basic interfacing circuits; Linearization techniques; Error\nreduction schemes due to environmental effects and remote communication.\nAdvanced Techniques for Direct Interfacing of Resistive Sensors with\nEmbedded controller: Embedded controller based excitation system; Direct\ninterfacing schemes of various resistive sensors topologies (e.g., single,\ndifferential and bridge type) to microcontrollers; Interfacing scheme for\nsensor array.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Advanced Techniques for Direct Interfacing of Capacitive Sensors with\nEmbedded Controller: Capacitive sensor examples; Interfacing scheme for\ndifferent capacitive sensor configurations; Direct interfacing schemes.\nAdvancement in Design of Interfacing Circuits for Lossy Capacitive\nSensors: Lossy Capacitive sensor characteristics; Various advanced\ninterfacing schemes for lossy capacitive sensor.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Miniaturization Technology for Smart Sensors and Actuators:\nBackground of miniaturization; Miniaturized device fabrication process\ntechnology for Smart sensors and actuators.\nMiniaturized Sensors, Actuators and their Interfacing Electronics:\nVarious types of important MEMS sensors and actuators: Design and\noperation; Interfacing Electronics for MEMS Devices; System-on-Chip\nintegration; Applications.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definitions- Robots, Robotics",
+            "Types of Robots- Manipulators, Mobile Robots-wheeled & Legged Robots, Aerial Robots",
+            "Anatomy of a robotic manipulator-links, joints, actuators, sensors, controller",
+            "open kinematic vs closed kinematic chain",
+            "degrees of freedom",
+            "Robot considerations for an application- number of axes, work volume, capacity & speed, stroke &reach, Repeatability, Precision and Accuracy, Operating environment, point to point control or continuous path control. Robot Applications- medical, mining, space, defense, security, domestic, entertainment, Industrial Applications-Material handling, welding, Spray painting, Machining"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sensors and Actuators Sensor classification- touch, force, proximity, vision sensors. Internal sensors-Position sensors, velocity sensors, acceleration sensors, Force sensors",
+            "External sensors-contact type, noncontact type",
+            "Vision - Elements of vision sensor, image acquisition, image processing",
+            "Selection of sensors. Actuators for robots- classification-Electric, Hydraulic, Pneumatic actuators",
+            "their advantages and disadvantages",
+            "Electric actuators- Stepper motors, DC motors, DC servo motors and their drivers, AC motors, Linear actuators, selection of motors",
+            "Hydraulic actuators- Components and typical circuit, advantages and disadvantages",
+            "Pneumatic Actuators- Components and typical circuit, advantages and disadvantages"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Robotic configurations and end effectors Robot configurations-PPP, RPP, RRP, RRR",
+            "features of SCARA, PUMA Robots",
+            "Classification of robots based on motion control methods and drive technologies",
+            "3R concurrent wrist",
+            "Classification of End effectors -mechanical grippers, special tools, Magnetic grippers, Vacuum grippers, adhesive grippers, Active and passive grippers, selection and design considerations of grippers in robot"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Kinematics and Motion Planning Robot Coordinate Systems- Fundamental and composite rotations, homogeneous co-ordinates and transformations, Kinematic parameters, D-H representation, Direct Kinematics. The Arm equation forward Kinematic analysis of a typical robots up to 3 DOF. Motion Planning- joint space trajectory planning-cubic polynomial, linear trajectory with parabolic blends",
+            "Cartesian space planning, Point to point vs continuous path planning"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

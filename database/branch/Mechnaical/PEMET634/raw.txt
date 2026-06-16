@@ -1,0 +1,346 @@
+Course Code 
+PEMET634 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCMET302 
+Mechanics of 
+Solids
+Course Type 
+Theory 
+Course Objectives: 
+1. To study the basic procedure of FEM and stiffness formulation of simple element using direct 
+method. 
+2. To study the formulations of shape functions, strain displacement matrix and stress matrix. 
+3. To study the energy method and Galerkin weight residual formulations. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction FEM, Mathematical Modelling of field problems in 
+Engineering, Governing Equations – Discrete and continuous models, 
+discretization-convergence behavior. General procedure of Finite Element 
+analysis, Types of elements, Formulation of stiffness matrix- one 
+dimensional spring, bar element assembly and solution procedure. 
+ 
+ 
+9  
+2 
+Types of coordinate system in FEM, coordinate transformation Plane truss 
+stiffness formulation and its assembly.  Shape functions, Derivation of shape 
+functions using polynomial of One-Dimensional bar, 2-Dimensional CST 
+and 1- Dimensional beam element.  Convergence requirement of shape 
+functions, Pascal triangle. Shape functions using Langrange polynomial.   
+ 
+ 
+ 
+10  
+3 
+Derivation of strain -displacement relation- B matrix- bar, CST and beam 
+element.  Potential energy and equilibrium, principle of minimum potential 
+ 
+ 
+
+ 
+energy, Variational formulation in FEM.Element stiffness-bar, beam and 
+CST element, consistent loads. 
+9  
+4 
+Strong and Weak form, Galerkin’s weighted residual FEM formulation; 
+One dimensional axially loaded bar, heat flow in a bar, natural coordinate 
+system, Iso parametric elements, Quadrilateral elements- Serendipity 
+elements Isoparametric formulations, Jacobian matrix, stiffness matrices, 
+Numerical integration: Gaussian quadrature. 
+ 
+ 
+10  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A
+Part B
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+To understand the governing equations of various physical 
+phenomena and basic procedure of FEM. 
+K2 
+CO2 
+To apply the coordinate transformation and formulation of shape 
+functions of various element. 
+K3 
+CO3 
+Formulate shape functions and element strain displacement matrix of 
+various element 
+K4 
+CO4 
+Evaluate element stress using energy method and study Galekin 
+weight residual formulations 
+K5 
+CO5 
+Study the concept of iso parametric elements and analyze iso 
+parametric formulations  
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+3
+3
+1
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO2 
+3
+3
+1
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO3 
+3
+3
+1
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO4 
+3
+3
+1
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CO5 
+3
+3
+1
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+An introduction to Finite 
+Element Method 
+J N Reddy 
+McGrawHill 
+Education 
+Third 
+Edition, 
+2009 
+2 
+Concept and application of 
+Finite Element method 
+Robert D Cook 
+Wiley 
+Third 
+Edition, 
+2008 
+3 
+Finite Element Analysis, 
+S SBhavikatti, 
+New Age Publisher 
+Third 
+edition,200
+8 
+4 
+A First Course in Finite 
+Elements 
+Jacob Fish Rensselaer 
+,Ted Belytschko 
+John Wiley & Sons, 
+Ltd 
+Second 
+edition,200
+7 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Applied Finite Element 
+Analysis 
+Larry J Segerlind 
+Johny Wiley and sons 
+Second 
+Edition,201
+0 
+2 
+Applied Finite element 
+Analysis 
+G Ramamurthi 
+I K International 
+Publishing House Pvt. 
+Ltd 
+Second 
+Edition 
+3 
+Fundamentals of Finite 
+Element Methods 
+David V Hutton 
+McGrawHillEducation 
+Third 
+Edition,200
+9 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/112106135 
+2 
+https://nptel.ac.in/courses/112106135 
+3 
+https://nptel.ac.in/courses/112106135 
+4 
+https://nptel.ac.in/courses/112106135 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+SEMESTER S6 
+  NON – DESTRUCTIVE TESTING

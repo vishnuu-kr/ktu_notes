@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "BJT and FET Amplifiers: BJT Amplifiers, RC Coupled amplifier:\nNeed of different components and design. Multistage amplifiers: Effect\nof cascading on gain and bandwidth.\nNMOSFET amplifiers: MOSFET circuits at DC, MOSFET as an\namplifier, Biasing of discrete MOSFET amplifier, Small signal analysis\nof CS configuration using small signal hybrid-pi model, Derivation of\nsmall signal voltage and current gain, input and output impedance.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Operational Amplifiers: Op-Amp Basics, Block diagram of an Op\nAmp, Op Amp parameters -Slew Rate, Band Width, CMRR, Gain,\nOffset Voltage and Offset Current, differential and common mode\noperation of Op Amps, Inverting & Non Inverting Amplifier.\nOscillators: Condition for oscillations, RC phase shift and wein bridge\noscillators.\n555 timer: Functional block diagram, Astable and Monostable\noperation.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Boolean Algebra: Binary logic functions, Boolean laws, truth tables,\nassociative and distributive properties, De Morgans theorems,\nrealization of switching functions using logic gates.\nCombinational Logic: Canonical logic forms, sum of product &\nproduct of sums, Karnaugh maps, two and three and four variable\nKarnaugh maps, simplification of expressions.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Combinational and Sequential Logic: Analysis & design of\nCombinational Logic: Introduction to combinational circuits, code\nconversions, decoder, encoder, priority encoder, binary adder,\nsubtractor.\nSequential Logic: Sequential circuits, flip-flops : JK,D & T, clocked\nand edge triggered flipflop, block diagram, timing diagram and working\nof asynchronous and synchronous four bit counters using JK FF.\nRegisters , serial in serial out shift registers.",
+    "contact_hours": "11"
+  }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Role of SOC in industrial settings",
+            "Challenges of monitoring OT networks vs. IT networks",
+            "Integration of IT and OT security monitoring: Convergence of IT and OT systems",
+            "Tools and techniques for unified monitoring",
+            "Incident detection in OT networks: Threat vectors and vulnerabilities in OT environments",
+            "Detection techniques for SCADA, PLCs, and ICS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "OT-specific threat intelligence sources",
+            "ISACs and proprietary feeds for industrial environments",
+            "Vulnerability management in OT: Identifying and managing OT system vulnerabilities",
+            "Challenges in patch management for critical systems",
+            "Integrating threat intelligence with OT systems: Correlating threat intelligence with industrial protocols",
+            "Case studies of OT-targeted attacks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Responding to incidents in OT environments",
+            "Balancing operational safety with security response",
+            "Forensic analysis of OT incidents: Techniques for forensic analysis in OT systems",
+            "Data acquisition and analysis from industrial devices",
+            "Coordination with industrial stakeholders: Collaborating with engineering and operations teams",
+            "Best practices for communication during OT incidents"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Anomaly detection for industrial protocols",
+            "Machine learning for OT-specific threat detection",
+            "Proactive security measures in OT: Threat hunting in OT networks",
+            "Red and purple teaming in industrial settings",
+            "Security metrics and reporting in OT: KPIs for OT security operations",
+            "Reporting to technical and non-technical stakeholders",
+            "Continuous improvement in OT security operations: Post-incident reviews and OT security audits",
+            "Feedback loops for enhancing SOC capabilities"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

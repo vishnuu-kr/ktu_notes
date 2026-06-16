@@ -1,0 +1,80 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Entropy",
+            "Properties of Entropy",
+            "Joint and Conditional Entropy",
+            "Mutual Information",
+            "Properties of Mutual Information",
+            "Discrete Memoryless Sources",
+            "Source Code",
+            "Average Length of Source Code",
+            "Bounds on Average Length",
+            "Uniquely Decodable and Prefix-Free Source Codes",
+            "Kraft Inequality",
+            "Huffman Code",
+            "Shannon's Source Coding Theorem (Achievability and Converse) and Operational Meaning of Entropy"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Discrete Memoryless Channels",
+            "Capacity of Discrete Memoryless Channels",
+            "Binary Symmetric Channels (BSC) and Binary Erasure Channels (BEC)",
+            "Capacity of BSC and BEC",
+            "Channel Code and Rate of Channel Code",
+            "Shannon's Channel Coding Theorem (Achievability and Converse) and Operational Meaning of Channel Capacity",
+            "Modeling of Additive White Gaussian Channels and Continuous-Input Channels with Average Power Constraint",
+            "Differential Entropy and Differential Entropy of Gaussian Random Variable",
+            "Relation Between Differential Entropy and Entropy",
+            "Shannon-Hartley Theorem",
+            "Inferences from Shannon-Hartley Theorem: Spectral Efficiency Versus SNR per Bit, Power-Limited and Bandwidth-Limited Regions, Shannon Limit, Ultimate Shannon Limit"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Overview of Groups, Rings, Finite Fields, and Vector Spaces",
+            "Construction of Finite Fields from Polynomial Rings",
+            "Block Codes and Parameters",
+            "Error Detecting and Correcting Capability",
+            "Linear Block Codes",
+            "Two Simple Examples: Repetition Code and Single Parity Check Code",
+            "Generator and Parity Check Matrix",
+            "Systematic Form",
+            "Maximum Likelihood Decoding of Linear Block Codes",
+            "Bounded Distance Decoding",
+            "Syndrome",
+            "Standard Array Decoding"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Cyclic Codes",
+            "Polynomial and Matrix Description of Cyclic Codes",
+            "Interrelation Between Polynomial and Matrix Viewpoint",
+            "Systematic Encoding and Decoding of Cyclic Codes",
+            "Hamming Codes",
+            "BCH Codes",
+            "Reed-Solomon Codes",
+            "Convolutional Codes",
+            "State Diagram and Trellis Diagram",
+            "Maximum Likelihood Decoding",
+            "Viterbi Algorithm",
+            "Low-Density Parity Check (LDPC) Codes",
+            "Tanner Graph Representation",
+            "Message Passing Decoding for Transmission Over Binary Erasure Channel"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

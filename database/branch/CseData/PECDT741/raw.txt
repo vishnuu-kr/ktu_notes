@@ -1,0 +1,272 @@
+Course Code 
+PECDT741 
+CIE Marks 
+40 
+Teaching 
+Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Nil 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To facilitate the learner to get an overview of recommender systems.  
+2. To introduce learners to the concepts of Collaborative Filtering, Content-based recommendation, 
+Knowledge based recommendation, Hybrid approaches and Evaluating Recommender System.     
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to basic concepts and   Recent developments: Collaborative 
+recommendation - User-based nearest neighbour recommendations,  Item-
+based nearest neighbour recommendation,    Collaborative recommendation  
+ratings ,  Model-based and pre-processing- based approaches,  Recent practical 
+approaches and systems  Content-based recommendation - Content 
+representation and content similarity  Similarity-based retrieval  and   Other 
+text classification methods   
+8 
+2 
+Knowledge-based recommendation : Knowledge representation and 
+reasoning, Constraints, Cases and similarities,   Interacting with constraint-
+based recommenders  - Defaults    Dealing with unsatisfiable requirements and 
+empty result set,   Proposing repairs for unsatisfiable requirements,    Ranking 
+the 
+items/utility-based 
+recommendation, 
+Interacting 
+with 
+case-based 
+recommenders,   Critiquing -Compound critiquing, Dynamic critiquing 
+9 
+3 
+Hybrid recommendation approaches : Opportunities for hybridization 
+Recommendation paradigms,  Hybridization designs,   Monolithic 
+8 
+
+hybridization design  -  Feature combination hybrids, Feature augmentation 
+hybrids,     Parallelized hybridization design -Mixed hybrids,  Switching 
+hybrids,   Weighted hybrids,     Pipelined hybridization design   Cascade 
+hybrids,  Meta-level hybrids. Limitations of hybridization strategies 
+4 
+Evaluating Recommender Systems : Introduction  - Evaluation Paradigms ,  
+User Studies ,  Online Evaluation  Offline Evaluation with Historical Data 
+Sets,   General Goals of Evaluation Design -  Accuracy,  Coverage , 
+Confidence and Trust ,  Novelty ,  General Goals of Evaluation Design - 
+Serendipity  ,Diversity , Robustness and Stability   Scalability,   Design Issues 
+in Offline Recommender Evaluation  -  Case Study of the Netflix Prize Data 
+Set, Segmenting the Ratings for Training and Testing- Hold-Out , Cross-
+Validation ,  Comparison with Classification,   Accuracy Metrics in Offline 
+Evaluation  -  Measuring the Accuracy of  Ratings  Prediction  , RMSE versus 
+MAE,   Impact of the Long Tail, Evaluating Ranking via Correlation ,   
+Evaluating Ranking via Utility   Evaluating Ranking via Receiver Operating 
+Characteristic,   Limitations of Evaluation Measures  -  Avoiding Evaluation 
+Gaming 
+10 
+ 
+Course Assessment Method 
+(CIE: 50 marks, ESE: 100 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Micro project
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+10 
+15 
+10 
+10 
+50 
+ 
+ 
+ 
+ 
+End Semester Examination Marks (ESE) 
+
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each module.  
+● Total of 10 Questions, each carrying 
+3 marks 
+(10x3 =30 marks) 
+● Each question carries 14 marks.  
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 2 subdivisions.  
+(5x14 = 70 marks) 
+100 
+Course Outcomes (COs) 
+ At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the basic concepts of recommender systems 
+K2 
+CO2 
+Summarize the features of   constraint based   and case-based knowledge-based 
+recommender systems    
+K2 
+CO3 
+Illustrate the use of hybridizing algorithms    
+K2 
+CO4 
+Examine the design issues in offline recommender evaluation   
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Recommender Systems: An 
+Introduction 
+Jannach D., Zanker M. and 
+FelFering A 
+Cambridge University 
+Press 
+1/e, 2011 
+2 
+Recommender Systems: The 
+Textbook 
+C.C. Aggarwal 
+Springer 
+1/e, 2016 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Recommender systems handbook
+F. Ricci, L Rokach, B. 
+Shapira and P.B. Kantor 
+Springer 
+1/e, 2010 
+2 
+Recommender Systems For 
+Learning 
+Manouselis N., Drachsler 
+H., Verbert K., Duval E 
+Springer 
+1/e, 2013 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12
+CO1
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+SEMESTER 7 
+FINANCIAL DATA SCIENCE 
+(Common CD/AD/CR)

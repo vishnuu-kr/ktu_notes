@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to robotics\nRobot\ndefinition,\napplications,\nIndustrial\nrobot\nanatomy,\nrobot\nclassifications, Understanding its technical specifications, serial robots and\nparallel robots.\nElectrical Actuators and Drives:\nDC Motors, Stepper motors, BLDC Motor, and Synchronous AC servo\nmotors, Industrial Servo drives, hardware controllers and interfaces,\nSelection of motors. Understanding Manufacturer's Technical datasheet.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Robot sensors and its interfaces\nRobot sensors and its interfaces: Contact and non-contact sensors; position,\nvelocity, acceleration, proximity, and force sensors. Characteristics of\nSensors\nGrubler-Kutzbach Criterion; DOF of a Robot Manipulator. Kinematic\nTransformations: Homogeneous Transformation, Denavit-Hartenberg (DH)\nParameters; Forward Kinematics..\nInverse Kinematic Model – Manipulator Workspace-Solvability-Solution\ntechniques-Closed form solution.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Industrial Robot Installation and Commissioning, Mastering a Robot, Tool\nCenter Point Calibration: 4-Point method, External reference method,\nOrientation calibration: World frame method, Two-point method.\nCalibration of Industrial Robot system: External fixed tool, Workpiece\ncalibration: Direct and Indirect.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Imaging components-image representation-picture coding-object recognition\nand categorization-visual inspection.Robot cell-design and control layouts.\nIndustrial\nApplications\n–\nMaterial\nHandling,\nProcess,\nAssembly,\nInspection.Non-Industrial Applications.",
+    "contact_hours": "9"
+  }
+]

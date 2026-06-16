@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Command Line Interface and Batch processing",
+            "R Packages",
+            "Basic Concepts: Variables",
+            "Data Types. Data Structures: Vectors (vector operations and factor vectors",
+            "Lists and their operations",
+            "Data Frames",
+            "Matrices and arrays",
+            "Control Statements: Branching and looping (for loops",
+            "while loops",
+            "controlling loops",
+            "Functions: Function as arguments",
+            "Named arguments"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Importing data from Text files and other software",
+            "exporting data",
+            "importing data from databases (Database Connection packages",
+            "Handling Missing Data: NA",
+            "NULL Data Manipulation: Combining data sets",
+            "Transformations",
+            "Binning Data",
+            "Subsets",
+            "summarizing functions",
+            "Data Cleaning (Finding and removing duplicates",
+            "Sorting"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Summary statistics",
+            "Statistical Tests: Continuous Data",
+            "Discrete Data",
+            "Power Probability Distributions: Common distributions (type arguments",
+            "Probability distributions",
+            "Normal distributions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "R Graphics (Overview",
+            "Customizing Charts",
+            "Graphical parameters",
+            "Basic Graphics functions",
+            "Lattice Graphics (Lattice functions",
+            "Customizing Lattice Graphics",
+            "Ggplot Introduction to Regression Models: Building linear models (model fitting",
+            "predict values using models",
+            "analysing the fit",
+            "Refining the model",
+            "Generalized linear models (Logistic Regression",
+            "Poisson Regression"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Multirate Systems and Filter banks\nIntroduction to multirate signal processing and its applications. Multirate\nsystem fundamentals - Basic multi-rate operations - up sampling and down\nsampling, Time domain and Frequency domain analysis, Need for anti\naliasing and anti imaging filters. Noble identities. Fractional sampling rate\nalteration.\nType 1 and Type 2 Polyphase decomposition, Efficient structures for\ndecimation and interpolation filters. Introduction to Digital Filter Banks,\nEfficient implementation, Two Channel Quadrature Mirror Filterbank\n(QMF), Perfect Reconstruction.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Time - Frequency analysis of signals and Wavelet Transform\nTime - frequency analysis of signals - Spectral analysis of signals, Spectral\nleakage by windowing effect, Time and frequency localization of signals, the\nUncertainty Principle and its implications.\nShort Time Fourier transform – Continuous time and discrete time STFT,\nFilter bank implementation of STFT.\nContinuous wavelet transform – Concept of wavelets, CWT for signal\nanalysis, Condition of admissibility and its implications, Inverse Continuous\nWavelet Transform, Properties of CWT.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Discrete Wavelet Transform and filter bank implementation\nDiscrete Wavelet Transform – Concept of DWT, Time frequency tiling of\nDWT and comparison to STFT. Haar Scaling and Wavelet functions,\nFunction Spaces, Refinement relation, Wavelet decomposition of signals.\nDesigning orthogonal wavelet systems- Relation of DWT to filter banks for\nsignal decomposition and reconstruction\nMulti resolution Analysis (MRA) - Concept of MRA and relating it to filter\nbanks.\nComputation of DWT using Mallat Algorithm and Lifting Scheme.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Wavelet Transform applications\nWavelet Transform applications in image processing – Wavelet Transform\nof images, Wavelet Transform based Image compression, EZW Coding.\nApplications of Wavelet Transform   in image denoising, edge detection and\nobject detection.\nWavelet Transform applications in audio processing - Application of\nwavelets in audio compression, Wavelet based audio coding.",
+    "contact_hours": "9"
+  }
+]

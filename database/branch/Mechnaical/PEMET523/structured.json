@@ -1,0 +1,81 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to CAD",
+      "historical developments",
+      "industrial look at CAD",
+      "comparison of CAD with traditional designing",
+      "application of computers in design",
+      "basics of geometric and solid modeling",
+      "packages for CAD/CAM/CAE/CAPP",
+      "hardware in CAD components",
+      "user interaction devices",
+      "design database",
+      "graphic standards",
+      "data exchange formats",
+      "raster scan",
+      "random scan",
+      "various display systems",
+      "CAD software",
+      "latest developments in the area",
+      "PLM and CAD"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Transformation of points and lines",
+      "2-D rotation",
+      "reflection",
+      "scaling",
+      "combined transformation",
+      "homogeneous coordinates",
+      "shearing",
+      "orthographic and perspective projections",
+      "simple problems",
+      "line drawing algorithms",
+      "DDA algorithm",
+      "Bresenham’s line algorithm",
+      "circle drawing algorithms",
+      "Bresenham's circle algorithm",
+      "curve drawing algorithms"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "3D graphics",
+      "algebraic and geometric forms",
+      "tangents and normals",
+      "blending functions",
+      "straight lines",
+      "conics",
+      "cubic splines",
+      "Bezier curves",
+      "B-spline curves",
+      "solid models and representation scheme",
+      "boundary representation",
+      "constructive solid geometry",
+      "sweep representation",
+      "cell decomposition",
+      "spatial occupancy enumeration",
+      "coordinate systems for solid modelling"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Introduction to finite element analysis, steps involved in FEM, pre-processing phase, discretization, types of elements, stiffness matrix Fundamentals of Finite volume methods, different types of finite volume grids, approximation of surface and volume integrals",
+      "interpolation methods, Review of governing equations"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

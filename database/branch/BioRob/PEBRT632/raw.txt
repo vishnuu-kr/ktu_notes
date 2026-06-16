@@ -1,0 +1,294 @@
+Course Code 
+PEBRT632 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+2:1:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCBRT302 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To explain the concepts of topology and configuration space in motion planning 
+2. To describe the classical motion planning techniques 
+3. To describe the working of sampling-based motion planners 
+4. To apply sensor information to motion planning and obstacle avoidance 
+5. To explain dynamic motion planning techniques 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Overview of robot motion planning: Application areas of robot motion 
+planning - Personal Transport Vehicles, Planetary Exploration, Demining, 
+Fixed-base Robot Arms in Industry, Search and Rescue Robots, Surgical 
+Robots; Concepts in Motion Planning – Task, Properties of the Robot, 
+Properties of the Algorithm 
+Basic Topological Concepts: Basic definitions of Topological Spaces, 
+Homeomorphism, Diffeomorphism, Differentiable Manifolds, Paths and 
+Connectivity – Paths, connected vs. path connected 
+Configuration space: Specifying a Robot’s Configuration, Obstacles and 
+the Configuration Space - Circular Mobile Robot, Two-Joint Planar Arm, C 
+obstacles, Topology of the Configuration Space 
+9 
+
+ 
+ 
+2 
+Roadmaps: Definition, Accessibility, Departability, Connectivity, Types of 
+roadmaps: visibility maps – visibility graphs, deformation retracts – 
+Generalized Voronoi Diagram GVD, Sensor-Based Construction of the GVD, 
+Polygonal Spaces, Grid Configuration Spaces - The Brushfire Method, 
+Silhouette Methods - Canny’s Roadmap Algorithm 
+Cell decomposition: Exact cell decomposition, Approximate cell
+decomposition, Trapezoidal Decomposition, Morse Cell Decomposition, 
+Boustrophedon Decomposition 
+Potential Field Planning: Potential Field Method, Attractive, Repulsive 
+potential 
+9 
+3 
+Sampling-Based Algorithms: Characteristics of Sampling-Based Planners, 
+Probabilistic Roadmaps: Basic PRM – Roadmap Construction, Query Phase, 
+PRM Sampling Strategies - Sampling near the obstacles, Sampling inside 
+narrow 
+passages, 
+Visibility-Based 
+Sampling, 
+Manipulability-Based 
+Sampling, Single-Query Sampling-Based Planners - Expansive-Spaces Trees 
+EST, Rapidly-Exploring Random Trees RRTs 
+9 
+4 
+Sensor-Based Motion Planning Algorithms: Bug1, Bug2, Tangent Bug 
+algorithms, Dynamic window approaches, A*, D* Algorithms 
+Multiple Robot Motion Planning: Problem Formulation, Composite 
+Configuration Space, Centralized Planning, Decoupled planning - Prioritized 
+planning - Fixed-path coordination, Fixed-roadmap coordination 
+Dynamic Motion Planning: Moving Obstacles, Configuration Time space, 
+Planning without velocity bound - Exact Cell Decomposition, Approximate 
+Cell Decomposition, Planning with velocity bound - Asteroid Avoidance 
+Problem, Approximate Cell Decomposition, Velocity Tuning 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the concepts of topology and configuration space in motion 
+planning 
+K2 
+CO2 
+Describe the classical motion planning techniques 
+K1 
+CO3 
+Describe the working of sampling-based motion planners 
+K1 
+CO4 
+Apply sensor information to motion planning and obstacle avoidance 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and 
+Year 
+1 
+Principles of Robot Motion - 
+Theory, Algorithms, and 
+Implementation 
+Choset, Lynch, 
+Hutchinson, Kantor, 
+Burgard, Kavraki, 
+Thrun 
+MIT Press 
+2007 
+2 
+Planning Algorithms 
+Steven M. LaValle, 
+Cambridge 
+University Press 
+1999 
+3 
+Introduction to Autonomous 
+Mobile Robots 
+Roland Siegwart and 
+Illah R. Nourbakhsh, 
+MIT Press 
+2011 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Autonomous Mobile Robots and 
+Multi-Robot Systems - Motion-
+Planning, Communication, and 
+Swarming 
+Kagan, Shvalb, 
+Ben-Gal 
+Wiley 
+2019 
+2 
+Robot Motion Planning 
+Jean- Claude 
+Latombe 
+Springer 
+Science+Business 
+Media 
+2012 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/112/104/112104308/ 
+2 
+https://archive.nptel.ac.in/courses/112/104/112104308/ 
+3 
+https://archive.nptel.ac.in/courses/112/104/112104308/ 
+4 
+https://archive.nptel.ac.in/courses/112/104/112104308/ 
+
+ 
+ 
+SEMESTER S6 
+INDUSTRY 5.0

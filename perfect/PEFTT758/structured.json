@@ -1,0 +1,78 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Optimization Introduction to Optimization",
+            "Definitions",
+            "Historical development",
+            "Scope of optimization techniques. Classification of Optimization Problems",
+            "Linear and Non-linear",
+            "Static and Dynamic",
+            "Deterministic and Stochastic",
+            "Single and Multi-objective. Formulation of Optimization Problems",
+            "Objective function",
+            "Constraints",
+            "Decision variables. 9"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Classical Optimization Techniques Single Variable Optimization",
+            "Optimality criteria",
+            "Unconstrained optimization",
+            "Constrained optimization using Lagrange multipliers and Kuhn-Tucker conditions. Multi-variable Optimization",
+            "Direct search methods",
+            "Gradient-based methods",
+            "Newton’s method",
+            "Conjugate gradient method. Linear Programming",
+            "Formulation",
+            "Graphical method",
+            "Simplex method",
+            "Duality theory",
+            "Sensitivity analysis. 9"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Numerical Methods and Algorithms Numerical Optimization Techniques",
+            "Introduction to numerical methods",
+            "Numerical differentiation and integration. Gradient Descent",
+            "Steepest 9 descent method",
+            "Conjugate gradient method",
+            "Quasi-Newton methods. Non-linear Programming",
+            "Penalty function methods",
+            "Barrier methods",
+            "Sequential quadratic programming",
+            "Interior point methods"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Advanced Optimization Techniques Dynamic Programming",
+            "Principle of optimality",
+            "Recursive equations",
+            "Applications. Genetic Algorithms",
+            "Basics of genetic algorithms",
+            "Operators",
+            "Selection, crossover, mutation",
+            "Applications. Simulated Annealing",
+            "Principles",
+            "Algorithm",
+            "Applications. Particle Swarm Optimization",
+            "Basic concepts",
+            "Algorithm",
+            "Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

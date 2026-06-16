@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "MOS TRANSISTOR PRINCIPLES\nIntroduction to CMOS technology: CMOS logic, CMOS fabrication and\nlayout, Design partitioning, Circuit design, Physical Design, Design\nverification, Fabrication, Packaging and testing.\nMOS transistor: MOS Transistor Basics, Secondary Effects, Process\nVariations, Technology Scaling.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Static and Dynamic circuits:\nCMOS Inverter: Static CMOS Inverter: DC Characteristics, Beta Ratio\nEffects, Noise margin. Other static CMOS logic gates, static properties (2\ninput NAND, NOR), Combinational logic circuits.\nFundamentals of dynamic logic: Dynamic pass transistor circuits, High\nperformance dynamic circuits-Domino CMOS, Multi Output Domino Logic,\nDual-rail Domino Logic, NP Domino logic (NORA) logic.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Designing arithmetic building blocks:\nAdders: Design considerations, Fast adders, Multipliers, Barrel Shifters,\nSpeed and Area Trade-offs.\nSemiconductor Memories: Memory Design, SRAM, DRAM structure and\nimplementations",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Interconnect effects:\nIntroduction,\nWire\nGeometry,\nInterconnect\nModelling:\nResistance,\nCapacitance, and Inductance. Interconnect Impact: Delay, Energy, Crosstalk,\nInductive Effects, Effective Resistance and Elmore Delay.",
+    "contact_hours": "11"
+  }
+]

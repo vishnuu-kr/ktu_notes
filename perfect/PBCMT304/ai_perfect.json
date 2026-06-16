@@ -1,0 +1,52 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to ML: Machine Learning vs. Traditional Programming",
+            "Machine Learning Paradigms: Supervised, Semi-Supervised, Unsupervised, Reinforcement Learning",
+            "Basics of Parameter Estimation: Maximum Likelihood Estimation (MLE) and Maximum A Posteriori Estimation (MAP), Bayesian Formulation",
+            "Supervised Learning: Feature Representation and Problem Formulation, Role of Loss Functions and Optimization",
+            "Regression: Linear Regression with One Variable, Linear Regression with Multiple Variables - Solution Using Gradient Descent Algorithm and Matrix Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Classification: Naive Bayes, KNN",
+            "Generalisation and Overfitting: Idea of Overfitting, LASSO and RIDGE Regularization",
+            "Idea of Training, Testing, Validation",
+            "Evaluation Measures: Classification - Precision, Recall, Accuracy, F-Measure, Receiver Operating Characteristic Curve (ROC), Area Under Curve (AUC)",
+            "Regression Evaluation: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), R Squared/Coefficient of Determination"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Neural Networks (NN): Perceptron, Multilayer Feed-Forward Network",
+            "Activation Functions: Sigmoid, ReLU, Tanh",
+            "Back Propagation Algorithm",
+            "Issues in Back Propagation Learning: Vanishing and Exploding Gradient Problems, Local Minima and Saddle Points, Overfitting, Slow Convergence, Sensitivity to the Selection of the Initial Weights, Computational Cost",
+            "Use of Adaptive Learning Rate Methods: Back Propagation Algorithm with Momentum, Adaptive Gradient Descent Algorithm (ADAGRAD), Root Mean Square Propagation (RMSProp), Adaptive Momentum Estimation (ADAM)",
+            "Decision Trees: Information Gain, Gain Ratio, ID3 Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Clustering: Similarity Measures, Hierarchical Clustering - Agglomerative Clustering, Partitional Clustering, K-means Clustering",
+            "Dimensionality Reduction: Principal Component Analysis, Multidimensional Scaling",
+            "Ensemble Methods: Bagging, Boosting",
+            "Resampling Methods: Bootstrapping, Cross Validation",
+            "Practical Aspects: Bias-Variance Trade-off",
+            "Suggestion on Project Topics: Students may identify a real life problem that can be solved using the concepts of machine learning. They may either use a standard dataset or build their own, for the purpose of applying machine learning algorithms. Besides, they may make use of various evaluation parameters to measure the efficiency of the methods. A few sample questions are given below. 1. Classification of Handwritten Digits: Classify handwritten digits (0-9) from the MNIST dataset using various machine learning algorithms and compare their performance. This will involve pre-processing the data, applying different classification techniques and using ensemble methods to improve accuracy. 2. Predicting Student Examination Performance Based on Internal Marks: Develop a real life dataset using the historical data of your institution. Use various machine learning algorithms to build models to predict students' final examination scores based on their internal assessment marks and evaluate their performance. Use ensemble methods to improve accuracy of prediction. Also, segment the students using clustering techniques to identify potential students at academic risk so that the educators can make timely interventions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

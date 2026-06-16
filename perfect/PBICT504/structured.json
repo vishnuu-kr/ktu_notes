@@ -1,0 +1,77 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Intel 8051 Microcontroller - Overview-Architecture- Instruction set -Addressing modes Evolution of microprocessors and microcontrollers- Overview of Intel 8051 family of microcontroller - Architecture of Intel 8051 - ALU",
+            "internal RAM and ROM",
+            "Oscillator and Reset Circuits",
+            "Stack and stack pointer - Special Function Registers of 8051 - Ports - Instruction set of 8051 - Data transfer instructions",
+            "Arithmetic",
+            "Logical",
+            "Compare and Rotate instructions",
+            "Bit processing instructions - Addressing modes of 8051"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Microcontroller languages",
+            "ports",
+            "timers Comparison of machine language, assembly language and high-level languages",
+            "Assembler directives and C data types for 8051",
+            "An introduction to programming 8051 in Assembly and C language programming of 8051 -Examples illustrating the use of basic types of instructions",
+            "Programming the ports of 8051",
+            "Timers of 8051",
+            "Modes of operations",
+            "Programming the timers in assembly language and C language"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Serial communication and Interrupts Introduction to serial communication",
+            "Synchronous and asynchronous communication",
+            "RS 232",
+            "MAX232",
+            "Modes of operations",
+            "Serial communication programming in assembly language and C language -Introduction to interrupts in 8051",
+            "Priority of interrupts",
+            "Interrupt handling and execution for timer",
+            "External and serial interrupts",
+            "Programming to handle all types of interrupts in assembly language and C language. 8051 Microcontroller Interfacing Interfacing external memory to Intel 8051",
+            "Examples of Interfacing data memory and code Memory",
+            "Interfacing LCD to 8051",
+            "Interfacing matrix keyboard Interfacing",
+            "ADC and DAC interfacing",
+            "Interfacing sensors -Interfacing relays, stepper motors and DC motors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Overview of AVR family",
+            "RISC and Harvard architecture of the AVR",
+            "salient features",
+            "The general-purpose registers in the AVR",
+            "AVR data memory",
+            "Using instruction with data memory",
+            "AVR status register",
+            "Data RAM / ROM memory space allocation in AVR",
+            "AVR data format and directives",
+            "I/O ports",
+            "Counters and Timers",
+            "Interrupts",
+            "Serial ports -(no programming in AVR) Atmega 32 microcontroller block diagram Arduino",
+            "Block diagram description of the system",
+            "Programming Arduino-Examples of practical solutions using Arduino Suggestion on Project Topics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

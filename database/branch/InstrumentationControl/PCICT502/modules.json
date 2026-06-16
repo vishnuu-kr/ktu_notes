@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to process control\nProcess, process variables, need for process control, basic control actions,\nprocess control block diagram.\nControl system evaluation\nControl system objective, control  system evaluation criteria.\nFinal control operation\nSignal conversion (analogue and digital electrical signals), actuators\n(electric, pneumatic and hydraulic), control elements (mechanical and\nelectrical  valves).\nController principles\nProcess characteristics, control system  parameters.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Discontinuous controller modes\nTwo position mode, multi- position mode, floating control mode.\nContinuous controller modes\nProportional controller mode, integral controller mode, derivative controller\nmode, composite controller modes-PI, PD and three mode.\nControl systems with multiple loops\nFeed forward control, practical aspects of the design of feed forward control,\nfeed forward- feedback control, ratio control.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Electronic controllers\nGeneral features. Single mode and composite controller modes (P and PI\ncontroller design using OP AMP).\nPneumatic controllers\nContinuous controller modes (Principle and Design of P, PI, PD, PID control\nmodes).\nProcess loop tuning\nTuning of controllers, Cohen-Coon method of tuning (process reaction curve\nmethod). Ultimate cycle method (Ziegler Nichol’s method). Damped\noscillation method. Frequency response method. Comparing tuning methods.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Programmable logic controller (PLC)\nPLC versus relay, evolution of PLC, functions of PLC, advantages. PLC\nProgramming -Basics of Ladder  Programming, on/off instructions,\ninternal relay, jump instructions, data handling instruction, data\nmanipulation instructions, Arithmetic and Comparison ,PID and other\nimportant instructions .Timers and Counters in PLC\nDistributed Control System (DCS)\nIntroduction to DCS, evolution of DCS, DCS flow sheet symbols,\narchitecture of DCS.\nSCADA\nIntroduction to Supervisory computer tasks and DCS configuration:\nsupervisory computer functions.",
+    "contact_hours": "11"
+  }
+]

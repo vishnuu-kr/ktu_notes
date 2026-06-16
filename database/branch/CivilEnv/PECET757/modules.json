@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "General Introduction –introduction to boundary value problems –\napproximate numerical solutions for solving differential equations – least\nsquare method – collocation method – Galerkin method – introduction to\nfinite element method- advantages and disadvantages.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Brief review of matrix methods – Direct stiffness method – truss and beam\nelement – Coordinate transformation –global assembly –Estimation of\nelement\nforces.\nInterpolation\nand\nshape\nfunctions-\npolynomial\napproximations for 1D and 2D  elements using Lagrange polynomials –\nCST, LST and bilinear rectangular elements",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Formulation techniques – Variational approach and weighted residual\napproach – formulation of element equations for 1D bar element, 1D beam\nelement and CST element. Isoparametric, sub-parametric and super-\nparametric elements",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Development of stiffness matrix for bar element and beam element -\nIntroduction to higher order elements – introduction to axisymmetric\nelements – Numerical Integration – Gauss quadrature. Discussion of\nmodelling and analysis using recent commercial finite element software\npackages",
+    "contact_hours": "9"
+  }
+]

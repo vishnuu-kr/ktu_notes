@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Reinforcement Learning: Overview, History, and\nApplications of Reinforcement Learning, Differences from Supervised and\nUnsupervised Learning. Basic Concepts: Agents, Environments, Rewards,\nand Policies.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Markov Decision Processes (MDPs) and Dynamic Programming (DP):\nDefinition and Properties, Value Functions, Bellman Equations, Policy\nEvaluation, Improvement, Policy Iteration, Value Iteration, Asynchronous\nDP, Efficiency of DP Algorithms.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Monte Carlo Methods and Temporal Difference (TD) Learning: Monte\nCarlo Prediction, Monte Carlo Control, Off-policy Prediction and Control, TD\nPrediction, Q-Learning, SARSA, Eligibility Traces",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Function Approximation and Advanced Topics: Linear Function\nApproximation, Neural Networks for Function Approximation, Deep\nQ-Networks (DQN), Policy Gradient Methods, Actor-Critic Methods,\nApplications of Reinforcement Learning in Games, Robotics, and Other\nDomains.",
+    "contact_hours": "9"
+  }
+]

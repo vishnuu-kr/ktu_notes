@@ -1,0 +1,50 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Image Perception and Light",
+            "Luminance",
+            "Brightness and Contrast",
+            "Simultaneous Contrast",
+            "Mach Bands",
+            "Monochrome Vision Models",
+            "Color Vision Model",
+            "Image Sampling and Quantization",
+            "Two-Dimensional Sampling Theory",
+            "Representing Digital Images",
+            "Basic Relationship Between Pixels"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Point Operations",
+            "Contrast Stretching",
+            "Clipping and Thresholding",
+            "Digital Negative",
+            "Intensity Level Slicing",
+            "Bit Extraction"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Edge Detection",
+            "Gradient Operators, Laplace Operators and Zero Crossings"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Image Segmentation: Techniques Such as Thresholding, Region-Based Segmentation, and Edge Detection",
+            "Image Enhancement: Methods Like Histogram Equalization, Contrast Adjustment, and Noise Reduction",
+            "Image Reconstruction: Methods for Reconstructing Images from Raw Data, Including CT and MRI Reconstruction Algorithms",
+            "Feature Extraction: Techniques for Identifying and Extracting Significant Features from Images, Such as Texture Analysis and Morphological Operations",
+            "Implement the Selected Image Processing Technique on a Set of Medical Images Using Matlab, Python, or C++",
+            "Develop a Codebase That Accurately Applies the Chosen Technique to Biomedical Images",
+            "Collaborate in Teams to Document the Entire Process, from Literature Review to Implementation",
+            "Prepare a Comprehensive Project Report Detailing the Methodology, Implementation Steps, Results, and Conclusions",
+            "Present the Project and Findings to the Class, Highlighting the Technique's Effectiveness and Potential Applications in Medical Imaging"
+        ]
+    }
+]

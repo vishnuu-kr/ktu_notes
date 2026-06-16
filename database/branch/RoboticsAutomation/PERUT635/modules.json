@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to IoT and IIoT: IOT Definition, Importance of IoT, IoT\narchitecture, Technology Behind IoT - Server End Technology, Sources of\nInternet of Things, M2M Communication. IoT Application Areas.\nThe Various Industrial Revolutions, Role of Internet of Things (IoT) &\nIndustrial Internet of Things (IIoT) in Industry, Industry 4.0 revolutions,\nSupport System for Industry 4.0.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Implementation Systems for IIoT: Sensors and actuators for industrial\nprocesses, sensor networks: network topologies, types of networks. Study of\ndifferent sensors and their characteristics: Light sensor, temperature sensor\nwith thermistor, voltage sensor, ADC and DAC, Temperature and Humidity\nSensor DHT11, Motion Detection Sensors, Wireless Bluetooth Sensors,\nLevel Sensors. Actuators: Thermal, hydraulic, pneumatic, electromechanical.\nCommunication Protocols: UART Communication Protocol, I2C Protocol\ndevice interfacing and decoding of signal, SPI Protocol device interfacing\nand decoding of signal. Application layer protocols: HTTP, CoAP, MQTT.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Data Handling in IIoT: Role of microcontrollers in IIoT: Introduction to\nRaspberry Pi-Installation, programming, Interfaces (serial, SPI, I2C)\nCloud Services:  Configuration of the cloud platform, Sending data from the\nIoT nodes to the gateways using different communication options;\nTransferring data from gateway to the cloud. Google, AWS, Microsoft Azure\ncloud architect.\nCase study: Program different Sensors for IoT applications\nSecurity and privacy issues in IoT",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Industrial IoT Applications:  Healthcare, Power Plants, Inventory\nManagement & Quality Control, Plant Safety and Security (Including AR\nand VR safety applications), Facility Management. Oil, chemical and\npharmaceutical industry, applications of UAVs in industries",
+    "contact_hours": "9"
+  }
+]

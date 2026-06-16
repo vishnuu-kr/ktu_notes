@@ -1,0 +1,429 @@
+Course Code 
+PBCIT604 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:1 
+ESE Marks 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+ Programming for 
+Internet of Things 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand the basics of  IoT related softwares. 
+2. To learn the basics of mobile app design for IoT. 
+3. To understand the tools for mobile app development for IoT 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction : Basics of embedded systems design Embedded OS - Design 
+constraints for mobile applications, both hardware and software related 
+Architecting mobile applications user interfaces for mobile applications 
+touch events and gestures Achieving quality constraints performance, 
+usability, security, availability and modifiability. 
+10 
+2 
+Iot MOBILE APPs: IoT Mobile App Development - Role of Mobile Apps 
+in revolutionizing the world of IoT - UX / UI design for IoT Mobile apps - 
+challenges of UX/UI design for IoT applications - practice tips on design for 
+IoT mobile apps IoT App Design Solutions 
+  
+10 
+ 
+3 
+Technology I Android: Introduction Establishing the development 
+environment Android architecture Activities and views Interacting with UI 
+Persisting data using SQLite Packaging and deployment Interaction with 
+server side applications Using Google Maps, GPS and Wifi Integration with 
+social media applications. 
+10 
+4 
+Technology Ii Android Things: Android things Installation of Android 
+things Verification of Android things installation API in Android IoT Setting 
+up the Android things - Building your first IOT-Android application with 
+Android Things. 
+10 
+
+ 
+Suggestion on Project Topics 
+1. Create a screen that has input boxes for User Name, Password, Address, Gender (radio 
+buttons for male and female), Age (numeric), Date of Birth (Date Picket), State 
+(Spinner) and a Submit button. On clicking the submit button, print all the data below 
+the Submit Button. Use (a) Linear Layout (b) Relative Layout and (c) Grid Layout or 
+Table Layout. 
+2. Develop an application that shows names as a list and on selecting a name it should 
+show the details of the candidate on the next screen with a “Back” button. If the screen 
+is rotated to landscape mode (width greater than height), then the screen should show 
+list on left fragment and details on right fragment instead of second screen with back 
+button. Use Fragment transactions and Rotation event listener. 
+3. Develop an application that uses a menu with 3 options for dialing a number, opening a 
+website and sending an SMS. On selecting an option, the appropriate action should be 
+invoked using intents. 
+4. Develop an application that inserts some notifications into Notification area and 
+whenever a notification is inserted, it should show a toast with details of the notification. 
+5. Create an application that uses a text file to store usernames and passwords (tab 
+separated fields and one record per line). When the user submits a login name and 
+password through a screen, the details should be verified with the text file data and if 
+they match, show a dialog saying that login is successful. Otherwise, show the dialog 
+with a Login Failed message. 
+6. Create a user registration application that stores the user details in a database table. 
+7. Create a database and a user table where the details of login names and passwords are 
+stored. Insert some names and passwords initially. Now the login details entered by the 
+user should be verified with the database and an appropriate dialog should be shown to 
+the user. 
+8. Create an admin application for the user table, which shows all records as a list and the 
+admin can select any record to edit or modify. The results should be reflected in the 
+table. 
+9. Develop an application that shows all contacts of the phone along with details like 
+name, phone number, mobile number etc. 
+
+ 
+10. Create an application that saves user information like name, age, gender etc. in shared 
+preference and retrieves them when the program restarts. 
+11. Create an alarm that rings every Sunday at 8:00 AM. Modify it to use a time picker to 
+set alarm time. 
+12. Create an application that shows the given URL (from a text field) in a browser. 
+13. Develop an application that shows the current location’s latitude and longitude 
+continuously as the device is moving (tracking). 
+14. Create an application that shows the current location on Google maps. 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+ 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+ 
+2 questions will be given from each module, 
+out of which 1 question should be answered.  
+ 
+Each question can have a maximum of 2 sub 
+divisions.  
+ 
+Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the fundamental concepts of mobile apps used in internet 
+of things 
+ 
+K2 
+CO2 
+Demonstrate the designs for IoT mobile apps. 
+K2 
+CO3 
+ Describe the  android architecture and usage of the server side 
+applications in IoT.
+K2 
+CO4 
+Develop  mobile application using Android things 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Professional Mobile 
+Application Development 
+Jeff McWherter and 
+Scott Gowell 
+Wrox 
+ 
+2012 
+2 
+Android in Practice 
+Charlie Collins, Michael 
+Galpin and Matthias 
+Kappler
+Dream Tech 
+2012 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher
+Edition 
+and Year
+1 
+From machine to machine to 
+the internet of things: 
+Introduction to a New Age of 
+Intelligence 
+Jan Holler, Vlasios 
+Tsiatsis, Catherine 
+Mulligan, Stefan 
+Avesand, Stamatis 
+Karmouskos, David 
+Boyle
+Academic Press 
+2014 
+2 
+Architecting the Internet of 
+Things
+Bernd Scholz-Reiter, 
+Florian Michahelles
+Springer 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+3 
+3 
+2 
+ 
+CO2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+3 
+2 
+2 
+CO3 
+3 
+2 
+1 
+2 
+2 
+ 
+ 
+ 
+3 
+3 
+2 
+2 
+CO4 
+3 
+2 
+3 
+2 
+2 
+ 
+ 
+ 
+3 
+3 
+2 
+2 
+
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+Introduction to Modern Application Development, IIT Madras 
+Prof. Gaurav Raina, Tanmai Gopal Module 15: Introduction to mobile apps 
+2 
+Introduction to Modern Application Development, IIT Madras 
+Prof. Gaurav Raina, Tanmai GopalModule 16 - Introduction to Mobile Application 
+Development Part 2 
+3 
+Introduction to Modern Application Development, IIT Madras 
+Prof. Gaurav Raina, Tanmai GopalModule 17 - Introduction to Android 
+4 
+Introduction to Modern Application Development, IIT Madras 
+Prof. Gaurav Raina, Tanmai GopalModule P12 - Getting started with Android Application 
+Development 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery
+Project identification 
+Simulation/ 
+Laboratory 
+Work/ 
+Workshops
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group 
+discussion
+Project Analysis 
+Data Collection 
+Evaluation  
+Question 
+answer 
+ Sessions/ 
+Brainstorming 
+Sessions
+Analytical 
+thinking 
+and 
+ self-learning 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project 
+reformation 
+(If 
+required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case 
+Study/ 
+Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video Presentation: Students 
+present their results in a 2 to 5 
+minutes video
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions
+4 
+3 
+Involvement in the project work and Team Work
+3 
+4 
+Execution and Implementation
+10 
+5 
+Final Presentations
+5 
+6 
+Project Quality, Innovation and Creativity
+3 
+Total 
+30 
+ 
+
+ 
+1. Project Planning and Proposal (5 Marks) 
+● 
+Clarity and feasibility of the project plan  
+● 
+Research and background understanding  
+● 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+● 
+Individual contribution to the presentation  
+● 
+Effectiveness in answering questions and handling feedback  
+3.  Involvement in the Project Work and Team Work (3 Marks) 
+● 
+Active participation and individual contribution  
+● 
+Teamwork and collaboration  
+4. Execution and Implementation (10 Marks) 
+● 
+Adherence to the project timeline and milestones  
+● 
+Application of theoretical knowledge and problem-solving  
+● 
+Final Result 
+5. Final Presentation (5 Marks) 
+● 
+Quality and clarity of the overall presentation  
+● 
+Individual contribution to the presentation  
+● 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+● 
+Overall quality and technical excellence of the project  
+● 
+Innovation and originality in the project 
+● 
+Creativity in solutions and approaches
+
+ 
+SEMESTER S6 
+DESIGN THINKING AND PRODUCT DEVELOPMENT 
+(Common to Group A & Group B)

@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Embedded Systems and Definition of Embedded System",
+            "Embedded Systems vs General Computing Systems",
+            "History of Embedded Systems",
+            "Classification",
+            "Major Application Areas",
+            "Purpose of Embedded Systems",
+            "Characteristics and Quality Attributes of Embedded Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Typical Embedded System",
+            "Core of the Embedded System: General Purpose and Domain Specific Processors",
+            "ASICs",
+            "PLDs",
+            "Commercial Off-The-Shelf Components (COTS)",
+            "Memory: ROM",
+            "Memory According to the Type of Interface",
+            "Memory Shadowing",
+            "Memory Selection for Embedded Systems",
+            "Sensors and Actuators",
+            "Communication Interface: Onboard and External Communication Interfaces"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "RTOS Based Embedded System Design",
+            "Operating System Basics",
+            "Types of Operating Systems",
+            "Tasks",
+            "Process and Threads",
+            "Multiprocessing and Multitasking",
+            "Task Scheduling",
+            "Task Communication: Shared Memory",
+            "Message Passing",
+            "Device Drivers",
+            "How to Choose an RTOS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Embedded System Development Process",
+            "Requirements",
+            "Architecture",
+            "Selection of Operating System",
+            "Processor Selection",
+            "Development Platform",
+            "Programming Language and Coding Issues",
+            "Code Optimization",
+            "Efficient Input/Output",
+            "Testing and Debugging",
+            "Verify the Software on the Host System",
+            "Verify the Software on the Embedded System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

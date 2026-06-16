@@ -1,0 +1,374 @@
+Course Code 
+PCICT501 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0 :0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCICT302 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce students to the foundational concepts of control systems, including the 
+differences between open-loop and closed-loop systems and the historical development of 
+automatic control. 
+2. To develop the ability to analyse control systems' time-domain and frequency-domain 
+behaviours, focusing on the response characteristics and stability criteria. 
+3. To equip students with the tools and techniques for modelling, reducing, and analysing 
+control systems using block diagrams, signal flow graphs, root locus, and frequency response 
+methods. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Control System (3 Hours) 
+Introduction to control systems; open-loop and closed-loop systems; 
+Feedback and non-feedback systems; servomechanism; history and 
+development of automatic control. 
+Feedback Characteristics of Control Systems include reduction of 
+parameter variation, control over system dynamics, and control of the 
+effects of disturbance signals. 
+ 
+Review of Mathematical Modelling and Transfer Function (1 Hour) 
+ 
+Block Diagram Algebra & Signal Flow Graphs (7 Hours) 
+Block diagram of an open-loop system; Block diagram of a 
+closed loop system; block diagram and transfer function of a 
+typical first-order system and second-order system. 
+Block diagram reduction techniques. 
+Concept of signal flow graph; construction of signal flow graph; Finding 
+transfer function from Signal flow graph using Mason’s gain formula. 
+11 
+ 
+2 
+Time-domain Analysis of First-order Systems (5 Hours) 
+Time response, transient and steady-state response; standard test signals 
+12 
+
+ 
+ 
+and their application in system analysis.  Open-loop and closed-loop 
+transfer functions, type and order of systems; the concept of poles and 
+zeros; type and order of the system; Response of first-order system to unit 
+impulse and unit step input (with derivation); Time response specifications 
+of first-order systems. 
+ 
+Time-domain Analysis of Second-order Systems (5 Hours) 
+Response of under-damped second-order system to unit-step input (with 
+derivation); Response of under-damped second-order system to unit 
+impulse and unit ramp input (Derivation not required); Response of over-
+damped, critically damped and un-damped second-order system to unit 
+step input (derivation not required); time response specifications of under-
+damped second order system. 
+ 
+Steady-state Errors and Error Constants (2 Hours) 
+Steady-state error, static error constants. 
+3 
+Stability of Linear Systems (4 Hours) 
+Stability of linear systems: Definitions, characteristic polynomial and 
+characteristic equation, general stability criterion with reference to s-plane; 
+Absolute and relative stability; necessary conditions for stability. 
+Routh’s criterion of stability. 
+ 
+The Root Locus Technique (6 Hours) 
+The root-locus concept; Evan’s criteria; Construction of root locus; 
+determination of roots from root locus; Effect of addition of zeros and 
+poles on root locus; root contours. 
+10  
+4 
+Frequency Response Analysis (6 Hours) 
+Frequency 
+response 
+representation; 
+sinusoidal 
+transfer 
+function; 
+Frequency domain specifications. 
+Polar plot and bode plot: Construction. 
+ 
+Stability in Frequency Domain (5 Hours) 
+Stability in frequency domain; gain margin and phase margin; stability 
+from bode plots. 
+Nyquist stability criterion; assessment of relative stability using Nyquist 
+criterion. 
+11  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+To understand the fundamental principles of control systems, including 
+the distinctions between open-loop and closed-loop systems. 
+K2  
+CO2 
+Apply block diagram reduction techniques or Mason’s gain formula to 
+simplify a given control system and determine its transfer function. 
+K3  
+CO3 
+To analyse the transient and steady-state response of first and second-
+order control systems. 
+K4  
+CO4 
+To apply Routh Stability Criterian or root locus technique for 
+determining system stability. 
+K3  
+CO5 
+To analyse system stability using gain margin, phase margin, and the 
+Nyquist stability criterion 
+K4  
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Control Systems Engineering 
+I. J. Nagrath, Madan 
+Gopal 
+New Age 
+International Private 
+Limited 
+7 & 2021 
+2 
+Modern Control Engineering 
+Katsuhiko Ogata 
+Pearson Education 
+India 
+5 & 2015 
+3 
+Automatic Control Systems 
+Farid Golnaraghi and 
+Benjamin C. Kuo 
+McGraw Hill 
+Education (India) 
+Pvt. Ltd 
+10 & 2017
+4 
+Control Systems: Principles 
+and Design 
+M Gopal 
+McGraw Hill 
+Education 
+4 & 2012 
+5 
+Linear Control Systems with 
+MATLAB Applications 
+B.S. Manke 
+Khanna Publishers 
+12 & 2016
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Modern Control Systems 
+Richard Dorf, Robert 
+Bishop 
+Pearson 
+14 & 2021
+2 
+Control Systems 
+A. Anand Kumar 
+PHI Learning 
+2 & 2014 
+3 
+Modern Control Engineering 
+Choudhury, Dr. Roy 
+Prentice Hall India 
+Learning Private 
+Limited 
+1 & 2005 
+4 
+Schaum’s Outline of Feedback 
+and Control Systems 
+Joseph Distefano III, 
+Allen R. Stubberud, 
+Ivan J. Williams 
+McGraw Hill 
+2 & 2013 
+5 
+Nise's Control Systems 
+Engineering 
+Norman S. Nise 
+Wiley 
+1 & 2018 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+Swayam - Control Systems by Prof. C. S. Shankar Ram, IIT Madras 
+2 
+Swayam - Control Systems by Prof. C. S. Shankar Ram, IIT Madras 
+3 
+Swayam - Control Systems by Prof. C. S. Shankar Ram, IIT Madras 
+4 
+Swayam - Control Systems by Prof. C. S. Shankar Ram, IIT Madras 
+
+ 
+ 
+SEMESTER S5 
+PROCESS CONTROL INSTRUMENTATION

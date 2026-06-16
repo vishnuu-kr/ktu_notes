@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to DSP and Discrete Fourier transform:\nBasic elements of DSP system.  Advantages and applications.\nReview of Discrete-Time Fourier transform (DTFT) and its properties.\nFrequency domain sampling, Discrete Fourier transform (DFT) - DFT pair,\nproperties of DFT, frequency response analysis of signals using the DFT,\ncircular convolution using DFT, linear filtering based on DFT.\nFast Fourier transform (FFT): Introduction, Radix -2 decimation in time FFT\nalgorithm, Radix-2 decimation in frequency algorithm, IDFT using FFT\nalgorithm.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Realisation of Filters:\nIntroduction to IIR and FIR systems.\nStructures for IIR Systems: Direct-Form Structures, Cascade-Form\nStructures, Parallel-Form Structures, Lattice Structures for IIR Systems.\nStructures for FIR Systems: Direct-Form Structure, Cascade-Form\nStructures, Lattice Structure. Linear Phase FIR filters.\nSignal Flow Graphs and Transposed Structures.",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Design of Digital Filters:\nGeneral considerations, Causality and its implications, characteristics of\npractical frequency selective filters.\nIIR filter design: Discrete time IIR filter from analog filter (Butterworth), IIR\nfilter (LPF, HPF, BPF, BRF) design by Impulse Invariance, Bilinear\ntransformation.\nFIR filter design: Structures of FIR filter, Linear phase FIR filter\nFilter design using windowing techniques (Rectangular, Hanning, Hamming),\nfrequency sampling Techniques.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Finite Word Length effects in Digital Filters:\nFixed point and floating-point number representations, Comparison,\nTruncation and Rounding errors.\nQuantization noise, Derivation for quantization noise power, coefficient\nquantization error, Product quantization error.\nOverflow error, Round-off noise power. Limit cycle oscillations due to\nproduct round-off and overflow errors, signal scaling.\nIntroduction to TMS320 Family:\nArchitecture, C24x CPU and other components; Assembly language\nInstructions, Instruction Set summary, simple programs.\nDesign & Implementation and Filter Structures: MATLAB functions and\nTMS320 Implementation (Demo/Assignment only)",
+    "contact_hours": "9"
+  }
+]

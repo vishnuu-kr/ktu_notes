@@ -1,0 +1,56 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of PLC-PLC advantages and disadvantages- Architecture of PLC-Scan Cycles",
+            "Types of PLC- PLC Programming languages",
+            "Relay logic",
+            "Ladder logic",
+            "connecting PLC to computer PLC Troubleshooting and Maintenance"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Programming of Timers",
+            "ON delay, OFF delay, Retentive Timers",
+            "PLC Timer functions",
+            "Examples of timer function Industrial application. Programming Counters",
+            "Up/Down counter",
+            "Examples of counter function Industrial application. PLC Arithmetic Functions",
+            "PLC number Comparison function"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Master Control -Reset",
+            "Skip",
+            "Jump and Move Instructions. Sequencer instructions",
+            "Types of PLC Analog modules and systems, PLC analog signal processing",
+            "Case study of Tank level control system, bottle filling system and Sequential switching of motors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Sampling theorem",
+            "Sampling and digitizing",
+            "Aliasing",
+            "Sample and hold circuit",
+            "Practical implementation of sampling and digitizing",
+            "Definition, design and need for data acquisition systems",
+            "Interfacing ADC and DAC with Microprocessor / Multiplexer",
+            "Multiplexed channel operation",
+            "Microprocessor/PC based acquisition systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

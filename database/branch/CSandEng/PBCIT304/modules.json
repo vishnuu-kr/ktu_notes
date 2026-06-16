@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basic Structure of computers – functional units - basic operational\nconcepts - bus structures. Memory locations and addresses - memory\noperations, Instructions and instruction sequencing,  addressing modes.\nBasic processing unit – fundamental concepts – instruction cycle –\nexecution of a complete instruction - single bus and multiple bus\norganization Register transfer logic: inter register transfer – arithmetic,\nlogic and shift micro operations.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Processor Logic Design: - processor organization – Arithmetic logic\nunit - design of arithmetic circuit - design of logic circuit - Design of\narithmetic logic unit - status register – design of shifter - processor unit\n– design of accumulator.\nArithmetic Algorithms: Algorithms for multiplication and division\n(restoring method) of binary numbers. Array multiplier, Booth’s\nmultiplication algorithm.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Pipelining: Basic principles, classification of pipeline processors,\ninstruction and arithmetic pipelines (Design examples not required), hazard\ndetection and resolution I/O Organization: accessing of I/O devices –\ninterrupts, interrupt hardware -Direct memory access. Control Logic\nDesign: Control organization – Hardwired control-micro program control –\ncontrol of processor unit - Micro program sequencer, micro programmed\nCPU organization - horizontal and vertical micro instructions.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Memory System: basic concepts – semiconductor RAMs. memory\nsystem considerations – ROMs, Content addressable memory, cache\nmemories - mapping functions. Hardware Software Design and\nEmbedded Product Development: Hardware software co design,\nmodeling of systems, embedded product development life cycle\nmanagement, life cycle models, Product design, design process , testing.\nSuggestions on Project Topics\n1. Ripple Carry Adder\n2. Carry Look Ahead Adder\n3. Wallace Tree Adder\n4. Synthesis of Flipflops\n5. Register and Counters\n6. Combinational Multipliiers\n7. Booths Multiplier\n8. ALU\n9. Memory Design\n10. Associative Cache Design\n11. Direct Memory MappedDesign",
+    "contact_hours": "12"
+  }
+]

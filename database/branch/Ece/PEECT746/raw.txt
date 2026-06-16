@@ -1,0 +1,1070 @@
+Course Code 
+PEECT746 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Digital Signal 
+Processing
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To gain an in-depth knowledge of processing of digital signals and their application to 
+modern world problems 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Multi-rate system and filter banks : 
+Basic multi-rate operations: up sampling and down sampling , time domain 
+and frequency domain analysis, Need for anti aliasing and anti imaging 
+filters. Noble identities. 
+Type 1 and Type 2 polyphase decomposition, Efficient structures for 
+decimation and interpolation filters. Uniform filter banks and its 
+implementation using polyphase decomposition. QMF Filter Bank- 
+conditions for perfect reconstruction, polyphase implementation. Design of 
+perfect reconstruction M- channel Filter Banks. Applications of multirate 
+systems. 
+ 
+9 
+2 
+Wavelet transform: 
+Time Frequency Trade off in signal analysis, Heisenberg's uncertainty 
+principle.  
+Short Time Fourier transform-Filter Bank representation. Continuous 
+Wavelet Transform- Admissibility condition. Time-frequency diagrams for 
+the STFT and the wavelet transform 
+Discrete Wavelet Transform- Haar Scaling and Wavelet Functions, Haar 
+analysis of signals, concept of nested space. Orthonormal Wavelet Analysis- 
+Filter bank interpretation. Applications of wavelet transform.  
+ 
+9 
+
+ 
+ 
+3 
+Power spectrum estimation- Rational power spectra representation, 
+Relationships Between the Filter Parameters and the Autocorrelation 
+Sequence, Parametric method of power spectrum estimation-Yule Walker 
+equations, Non parametric method of power spectrum estimation- 
+Periodogram, Averaging periodogram.  
+9 
+4 
+Linear prediction filters- Forward and backward predictors, lattice filter 
+structure, relationship between linear filter coefficients and reflection 
+coefficients, Normal equations for optimum filter design. Adaptive filters- 
+Weiner filter design, Adaptive filters for adaptive channel equalization, 
+adaptive noise cancellation and Linear Predictive Coding of Speech Signals, 
+Steepest descent algorithm, LMS algorithm.  
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Classify continuous and discrete time signals and systems based on 
+their properties and perform basic operations on signals. 
+K2 
+CO2 
+Determine the stability and causality of LTI systems using convolution 
+operations. 
+K3 
+CO3 
+Analyze signals in frequency domain using Laplace, Fourier and z-
+transforms and examine the properties of transforms. 
+K3 
+CO4 
+Interpret the use of various transforms to analyze continuous and 
+discrete time LTI systems. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Signals and Systems 
+Alan V. Oppenheim 
+and Alan Willsky 
+Pearson Education 
+2/e, 2015 
+2 
+Signals and Systems 
+Simon Haykin 
+John Wiley 
+2/e, 2021 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+2 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO3 
+3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO4 
+3 
+3 
+3 
+3 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Signals and Systems  
+Anand Kumar 
+PHI 
+3/e, 2013 
+ 
+2 
+Principles of Signal Processing 
+& Linear systems 
+B P. Lathi 
+Oxford University 
+Press 
+2/e, 2009 
+ 
+3 
+Signals 
+& 
+Systems 
+- 
+Continuous and Discrete 
+Rodger E. Ziemer 
+Pearson 
+4/e, 2013 
+ 
+4 
+Analog and Digital Signal 
+Processing 
+Ashok Ambardar 
+Brooks/Cole Publishing 
+Company  
+ 
+2/e, 2013 
+ 
+5 
+Signals 
+and 
+systems 
+- 
+Principles and Applications 
+Shaila Dinkar Apte 
+Cambridge University 
+Press 
+1/e, 2016 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/117101055 
+https://nptel.ac.in/courses/117104074 
+https://nptel.ac.in/courses/108104100 
+ 
+2 
+https://nptel.ac.in/courses/117101055 
+https://nptel.ac.in/courses/117104074 
+https://nptel.ac.in/courses/108104100 
+ 
+3 
+https://nptel.ac.in/courses/117101055 
+https://nptel.ac.in/courses/117104074 
+https://nptel.ac.in/courses/108104100 
+ 
+4 
+https://nptel.ac.in/courses/117101055 
+https://nptel.ac.in/courses/117104074 
+https://nptel.ac.in/courses/108104100 
+ 
+
+ 
+ 
+SEMESTER S7 
+CRYPTOGRAPHY 
+Course Code 
+PEECT 747 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None/
+(Course code) 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce fundamental concepts of symmetric and asymmetric cipher models. 
+2. To understand the basics of authentication. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to cryptology: Stream and block ciphers- secret and public 
+key cryptography.  
+Introduction to Complexity of Algorithm- P, NP, NP-Complete classes.  
+Number theory: Primes, divisibility, linear diaphantine equations, 
+congruences, system of linear congruences, Wilson theorem, Fermat‘s little 
+theorem, Euler's theorem. Multiplicative functions, Primitive roots, 
+Quadratic congruences- quadratic residues, Legrende symbol. 
+ 
+10 
+2 
+Review of algebraic structures: groups, rings, finite fields, polynomial 
+rings over finite field. 
+Symmetric Ciphers: Affine cipher, Hill cipher, Enciphering matrices. Data 
+Encryption standard (DES), Advanced Encryption standard (AES). 
+8 
+3 
+Public key cryptography: One-way functions, RSA, Discrete Log, Diffie-
+Helman Key Exchange system, Digital signature standards. Knapsack Crypto 
+system, Zero-knowledge protocols. 
+Elliptic curves and elliptic curve cryptosystems 
+9 
+4 
+Cryptanalysis: Primality testing- pseudo primes- the rho method.   
+Cryptanalysis methods: linear, differential, higher order differential, 
+quadratic. Factoring Algorithms- Trial Division, Dixon's Algorithm, 
+Quadratic Sieve. 
+9 
+
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply the principles of number theory and abstract algebra in 
+cryptology. 
+K3 
+CO2 
+Design and analyze various symmetric ciphers 
+K3 
+CO3 
+Design and analyze various asymmetric ciphers 
+K3 
+CO4 
+Apply the mathematical techniques for the cryptanalysis of symmetric 
+and asymmetric ciphers. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+
+ 
+ 
+ 
+ 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+A Course in Number Theory 
+and Cryptography 
+Neal Koblitz: 
+Springer 
+2/e, 2012 
+2 
+Elementary Number Theory 
+with Applications 
+Thomas Koshy 
+Elsevier India 
+2/e, 2007 
+3 
+Handbook 
+of 
+Applied 
+Cryptography 
+Menezes, Paul C. 
+V, Scott A. Vanstone 
+CRC Press 
+5/e, 2010 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Number Theory in Science and 
+Communication 
+MR Schroeder 
+Springer 
+5th Edition, 
+2009 
+2 
+Cryptography: 
+Theory 
+and 
+Practice 
+Douglas R. Stinson 
+Chapman and 
+Hall/CRC 
+3rd Edition, 
+2006 
+3 
+Guide 
+to 
+Elliptic 
+Curve 
+Cryptography 
+Hankerson, D.J., 
+Menezes, A., Vanstone, 
+S.A. 
+Springer 
+2004 
+4 
+Advanced 
+Engineering 
+Mathematics 
+Merle C. Potter, David C. 
+Wiggert 
+Wiley 
+10th 
+Edition, 
+2012 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106105162 
+2 
+https://nptel.ac.in/courses/106105162 
+3 
+https://nptel.ac.in/courses/106105162 
+4 
+https://nptel.ac.in/courses/106105162 
+
+ 
+ 
+SEMESTER S7 
+DEEP LEARNING TECHNIQUES 
+Course Code 
+PEECT 745 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide foundational knowledge of advanced neural network architectures like CNNs, 
+RNNs, and generative models, with practical insights into their training, optimization, and 
+applications in transfer learning and sequence modeling. 
+ 
+SYLLABUS 
+ 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Review of ANN: Perceptrons 
+Convolutional Neural Networks: Convolution operation , CNN Architecture  
+kernels, padding- Convolutional layers-,  Pooling Layers, fully connected 
+layers. 
+Feature and weight visualization, t-SNE 
+ 
+7 
+2 
+Loss functions-Mean Squared Error, Cross Entropy  
+Activation functions, Sigmoid Relu , Softmax 
+Training CNNs:-Initialization   Back-propagation 
+Optimization algorithms:-SGD, Momentum, Adagrad, RMS Prop, Adam, 
+Hyper parameter optimization-Learning rate  
+Regularization methods: L1, L2 regularizaton dropout, Data Augmentation, 
+Early stopping  batch  normalization  
+Introduction to Transfer learning, feature extraction , fine tuning.  
+Case study: CNN architectures*:  AlexNet, VGG, ResNet,Google net  
+*(Case study only for practical assignments/microprojects) 
+ 
+10 
+3 
+Sequence models, Recurrent Neural Networks (RNN): cell structure and 
+architecture, Training  RNN, back propagation through time.   Vanishing 
+9 
+
+ 
+ 
+and exploding gradients. 
+Long Short-Term Memory (LSTM), architecture and training.  
+Gated Recurrent Units (GRU), architectture and training.  
+4 
+Introduction to  Generative models: parameter estimation, Maximum 
+Likelyhood Estimation 
+Auto encoders, latent space variational auto encoders.  
+ GANs : adversarial training. Discriminator ,      Generator,  up sampling,  
+ Transformer models, architecture  Word embedding, position encoding , 
+attention , training  transformer models   
+ Large language models BERT,GPT 
+( Detailed mathematical treatment not required for this module) 
+ 
+10 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Evaluation Methods: 
+1: Practical Experiments Using Design and Analysis Tools (10 marks) 
+Students will perform specific experiments using tools like TensorFlow, PyTorch, or Keras. 
+Each experiment will focus on implementing and analyzing different types of neural network 
+architectures and techniques. 
+ 
+ 
+ 
+
+ 
+ 
+2: Course Project (10 marks) 
+Comprehensive project involving design, implementation, and analysis of neural network 
+models. Project phases: Proposal, Design, Implementation, Testing, Final Report, 
+Presentation, and Viva Voce. 
+Sample Experiments: 
+Experiment 1: Building a Convolutional Neural Network (CNN) 
+ 
+Objective: Design and train a CNN for image classification. 
+ 
+Tools: TensorFlow/Keras or PyTorch. 
+ 
+Steps: 
+ 
+Implement a CNN with convolutional layers, pooling layers, and fully connected layers. 
+ 
+Train the model on a dataset like CIFAR-10. 
+ 
+Analyze the model's performance using evaluation metrics like accuracy and loss curves. 
+Experiment 2: Visualizing Feature Maps and Weight Distributions 
+ 
+Objective: Visualize the internal workings of a neural network. 
+ 
+Tools: TensorFlow/Keras or PyTorch, Matplotlib. 
+ 
+Steps: 
+ 
+Train a CNN on a simple dataset. 
+ 
+Visualize the feature maps after each convolutional layer. 
+ 
+Use t-SNE for feature visualization and analyze the distribution of weights. 
+Experiment 3: Transfer Learning and Fine-Tuning 
+ 
+Objective: Use a pre-trained model for a new task. 
+ 
+Tools: TensorFlow/Keras or PyTorch. 
+ 
+Steps: 
+ 
+Use a pre-trained model like VGG or ResNet. 
+ 
+Fine-tune the model on a new dataset. 
+ 
+Analyze the performance improvement compared to training from scratch. 
+Experiment 4: Exploring Recurrent Neural Networks 
+ 
+Objective:Implement an RNN to predict time-series data(eg. Word prediction). 
+ 
+Tools: TensorFlow/Keras or PyTorch. 
+
+ 
+ 
+ 
+Steps: 
+ 
+Build an RNN model with LSTM or GRU cells.. 
+ 
+Train the model on a time-series dataset 
+ 
+Visualize and interpret the model's predictions. 
+ 
+Sample Project Topics: 
+1. Designing a Real-Time Object Detection System Using YOLO 
+2. Development of a Neural Network for Sentiment Analysis on Social Media 
+3. Implementing a GAN for Image-to-Image Translation 
+4. Building a Speech Recognition System Using RNNs and LSTMs 
+5. Creating a Transfer Learning Model for Medical Image Classification 
+Criteria for Evaluation: Lab Experiments (10 marks) 
+Understanding of Concepts (3 marks) 
+ 
+Demonstrates a thorough understanding of the theoretical concepts related to the experiments. 
+ 
+Correctly explains the purpose and expected outcomes. 
+Implementation and Accuracy (3 marks) 
+ 
+Correctly implements the neural network models using appropriate tools. 
+ 
+Ensures the design functions as expected with minimal errors. 
+Analysis and Problem-Solving (2 marks) 
+ 
+Effectively analyzes the model performance and identifies issues. 
+ 
+Demonstrates problem-solving skills in addressing challenges encountered during experiments. 
+Documentation and Reporting (1 mark) 
+ 
+Provides detailed documentation of the experimental setup, process, and outcomes. 
+ 
+Includes visualizations, code snippets, and analysis of results. 
+
+ 
+ 
+Presentation and Communication (1 mark) 
+ 
+Clearly presents the experiments and their results. 
+ 
+Able to answer questions and explain design choices. 
+Course Project (10 marks) 
+Project Proposal and Planning (2 marks) 
+ 
+Submits a well-defined project proposal outlining objectives, methodology, and expected 
+outcomes. 
+ 
+Demonstrates thorough planning and a clear timeline for the project. 
+Design and Implementation (3 marks) 
+ 
+Implements the project design accurately using appropriate tools and techniques. 
+ 
+The design is functional and meets the project objectives. 
+Innovation and Creativity (2 marks) 
+ 
+Introduces innovative ideas or unique approaches in the design and implementation. 
+ 
+Demonstrates creativity in solving problems or optimizing designs. 
+Analysis and Testing (2 marks) 
+ 
+Effectively analyzes the project design to identify and address any issues. 
+ 
+Conducts thorough testing to verify the functionality and performance of the model. 
+Final Report and Presentation (1 mark) 
+ 
+Submits a comprehensive final report detailing the project, including objectives, design, 
+methodology, analysis, and results. 
+ 
+Clearly presents the project and its outcomes, and effectively communicates the key points. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A
+Part B
+Total
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24marks) 
+ 
+2 questions will be given from each module, 
+out of which 1 question should be answered. 
+Each question can have a maximum of 3 sub 
+divisions. Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Analyze and differentiate between various neural network components. 
+K3 
+CO2 
+Develop and implement strategies for training neural networks  
+K4 
+CO3 
+Apply and Integrate Sequence and Generative Models 
+K3 
+CO4 
+Evaluate the effectiveness of transformer models, including BERT and 
+GPT, and assess the impact of transfer learning techniquess 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+ 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Learning Deep Learning 
+Magnus Ekman 
+Addison -Wesley 
+2022 
+2 
+Hands-on 
+Machine 
+learning 
+with Sc-kit Learn Keras and 
+Tensorflow 
+Aurelien Geron 
+Oreilly 
+Second 
+edition 
+2019 
+3 
+Dive 
+deep 
+into 
+machine 
+learning 
+Astan Zhang and Zachary 
+and Alexander semola 
+Cambridge university 
+press  https://d2l.ai/ 
+ 
+ 2019 
+4 
+Neural 
+Networks 
+for 
+deep 
+learning 
+Michael Nielsen 
+http://neuralnetworksa
+nddeeplearning.com/ 
+2019 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Deep Learning.  
+Ian Goodfellow. Yoshua 
+Bengio and Aaron 
+Courville. 
+ MIT Press 
+2016.  
+2 
+Neural Networks and Deep 
+Learning: A Textbook.. 
+Charu C. Aggarwal. 
+Springer 
+. 2019 
+3 
+ 
+Generative Deep Learning 
+ 
+David Foster 
+OReilly 
+2022 
+4 
+Build a Large Language 
+Model  
+Sebastian Raschka  
+Manning  
+2023  
+5 
+Deep Learning with Python 
+second Edition 
+Francois chollet 
+Manning 
+2021 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://www.cse.iitm.ac.in/~miteshk/CS6910.html 
+2 
+https://cs231n.github.io/ 
+3 
+https://wiki.pathmind.com/lstm
+ 
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+4 
+https://jalammar.github.io/illustrated-transformer/  Jay Almar
+ 
+
+ 
+ 
+SEMESTER S7 
+SATELLITE AND RADAR COMMUNICATION

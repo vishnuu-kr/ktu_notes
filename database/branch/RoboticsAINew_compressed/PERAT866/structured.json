@@ -1,0 +1,52 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to mobile robots",
+      "principle of locomotion",
+      "types of mobile robots: ground robot, aerial robot, underwater robot and water-surface robot",
+      "principles of underwater vehicle construction"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Equations for moving frame",
+      "rigid motion in a plane",
+      "representation of a rotated frame",
+      "holonomic and non-holonomic systems",
+      "kinematic modeling with respect to global coordinates"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Types of sensors",
+      "magnetic and optical position sensor",
+      "gyroscope",
+      "accelerometer",
+      "magnetic compass inclinometer",
+      "tactile and proximity sensor",
+      "ultrasound range finder",
+      "laser scanner, infrared range finder",
+      "visual and motion sensing systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Motion path planning",
+      "control and stability: path planning algorithms -collision-free path planning - sensor-based obstacle avoidance - motion control methods: kinematic control",
+      "dynamic control",
+      "controllability and stability about a point and trajectory"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

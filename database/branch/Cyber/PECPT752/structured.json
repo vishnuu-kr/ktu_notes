@@ -1,0 +1,56 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Fault Tolerance - Definitions and key concepts",
+      "Importance in networked systems Types of Faults and Failures - Crash failures",
+      "omission failures",
+      "timing failures",
+      "and Byzantine failures",
+      "Impact on system performance and reliability Redundancy and Replication Techniques - Hardware vs. software redundancy",
+      "Data redundancy (RAID levels and their implications",
+      "Replication strategies: primary-backup",
+      "quorum-based"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Fault Detection Mechanisms - Basic fault detection techniques: heartbeat",
+      "monitoring",
+      "logging",
+      "Tools and frameworks for fault detection (basic overview) Fault Diagnosis and Isolation - Techniques for identifying and isolating faults",
+      "Practical examples and simplified tools Recovery Strategies - Checkpointing and rollback basics",
+      "Simple transaction recovery mechanisms"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Paxos",
+      "Raft",
+      "Basic concepts of coordination services: Zookeeper",
+      "Consul Load Balancing and Failover - Principles of load balancing in fault-tolerant systems",
+      "Simple failover strategies and practical case studies Network Fault Tolerance - Basic network redundancy and routing protocols",
+      "Handling network partitioning and latency issues"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Fault Tolerance in Modern Systems - Fault tolerance in cloud computing and microservices",
+      "Real-world applications and case studies Security Considerations - Impact of security breaches on fault tolerance",
+      "Designing fault-tolerant systems with basic security considerations Emerging Trends and Future Directions - Fault tolerance in IoT and edge computing",
+      "Current research and future directions Project Presentations and Review - Student presentations of fault-tolerant system projects",
+      "Review of key concepts and course wrap-up"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

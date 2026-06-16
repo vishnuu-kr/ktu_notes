@@ -1,0 +1,428 @@
+Course Code 
+PEAET785 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L:T:P:R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+- 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To understand about the fundamentals of Internet of Things, its building blocks and their 
+characteristics 
+2. To select suitable network architecture and use appropriate protocols for a given IoT 
+application 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Internet of Things 
+Definition, basic IoT block diagram, Characteristics of IoT devices – 
+power, computational constraints. 
+IoT Architecture – Middle ware based architecture and Service oriented 
+architecture 
+M2M Communication – M2M system model, device domain, network 
+domain, application domain, M2M v/s IoT.  
+Typical application areas of IoT – Smart homes, Agriculture and Smart city 
+9  
+2 
+IoT Hardware 
+Commercially available sensors (Operating principles only) – Temperature 
+and humidity sensor (DHT11/22), Gas Sensor (MQ series), Ultrasonic 
+distance sensor (HC-SR04). 
+Actuators (Working principles only)  – DC motors, Solenoid based valves, 
+electro-mechanical relay, solid state relay, stepper motors 
+Embedded boards – Overview of typical microcontroller and single board 
+9  
+
+ 
+ 
+computers boards used in IoT applications – Arduino Uno, ESP32, 
+Raspberry Pi (Overview only) 
+3 
+IoT Communication 
+IoT device gateways, Overview of IP addressing – IPv4, IPv6.  Network 
+address translation (overview only) 
+IoT infrastructure protocols (only overview and key features required) – 
+RFID, Zigbee, Bluetooth, BLE, NFC, DASH7, LoRa, 6LoWPAN, SigFox, 
+NB-IoT, WiFi. 
+Overview of Cellular Communication for IoT (LTE 4G only) 
+9  
+4 
+Application Protocols and Cloud Computing 
+(fundamental concepts only required) Message Queue Telemetry Transport 
+(MQTT) – architecture, Quality of Service levels. HTTP REST API, 
+Constrained Application Protocol (CoAP) – architecture, request-response 
+model. Typical use cases of MQTT, CoAP and REST API in IoT networks. 
+Cloud computing – overview of architecture. 
+cloud models  - Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS), 
+and Infrastructure-as-a-Service (IaaS). 
+Emerging Trends in IoT - AI Integration, 5G, and Beyond. 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5
+15
+10
+10
+40
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+Evaluation Methods: 
+ 
+Each student should develop an IoT based system  
+ 
+The system developed should include IoT Protocols and web/smartphone based user 
+interface/dashboard for controlling/monitoring the IoT based system 
+ 
+The project details and the outcomes to be evaluated are as follows 
+ 
+
+ 
+ 
+Project: Design, simulate and realize an IoT based system 
+ 
+ 
+Design Specifications  
+ 
+Detailed specifications of the system are to be made after conducting study of the 
+place/facility where the system is to be deployed 
+ 
+System design 
+ 
+Develop a block diagram of the system 
+ 
+Select sensors, actuators, embedded boards and power source required for the system 
+ 
+Select the communication protocol required for the system 
+ 
+System development 
+ 
+Develop the code for the embedded components of the system 
+ 
+Develop the application code for IoT protocols (eg, MQTT, CoAP) 
+ 
+Develop the user interface/dashboard for controlling/monitoring the IoT based system 
+ 
+Hardware implementation and integration of the system 
+ 
+Assemble the various hardware components of the system 
+ 
+Test the functionality of the system in a controlled environment 
+ 
+Deployment of the system in the field  
+ 
+Sensor data collection and analysis 
+Sanple Projects: 
+ 
+Home automation system 
+ 
+Smart metering 
+ 
+Logistics tracking 
+ 
+Precision agriculture 
+ 
+Air Quality Monitoring System 
+ 
+Health Monitoring System 
+Evaluation parameters: 
+ 
+Relevance of the project idea 
+ 
+Design of the system 
+ 
+Use of IoT protocols and web/smartphone based user interfacce 
+ 
+Hardware Implementation and Testing 
+ 
+Innovation and Creativity 
+ 
+Final Report and Presentation 
+
+ 
+ 
+Project Deliverables: 
+1. Detailed design specifications  of the IoT based system 
+2. Hardware implementation and deployment of  the system in field condition 
+3. Comprehensive project report including methodology, results, challenges, 
+and recommendations 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 Marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 Marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain in a concise manner the architecture of IoT 
+K2 
+CO2 
+Identify various hardware components used in IoT 
+K3 
+CO3 
+Illustrate the various connectivity technologies and application 
+protocols in IoT 
+K2 
+CO4 
+Design and develop IoT systems 
+K6 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to IoT 
+Sudeep. Misra, A. 
+Mukherjee, and A. Roy 
+Cambridge 
+University Press 
+1st Edition, 
+2021 
+2 
+Internet of Things: A Hands-on 
+Approach 
+Arshdeep Bahga and Vijay 
+Madisetti 
+Orient Blackswan  
+1st Edition, 
+2015 
+3 
+Internet of Things (IoT) 
+Architecture and Design 
+Principles 
+Raj Kamal 
+McGraw Hill 
+ 
+2nd Edition, 
+2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The Internet of Things 
+Samuel Greengard 
+The MIT Press 
+Essential 
+Knowledge Series 
+1st Edition, 
+2015 
+2 
+The Internet of Things: How Smart 
+TVs, Smart Cars, Smart Homes, 
+and Smart Cities Are Changing the 
+World   
+Michael Miller 
+QUE 
+2015 
+3 
+IoT Fundamentals 
+Hanes David, Salgueiro 
+Gonzalo, Grossetete 
+Patrick, Barton 
+Rob, Henry Jerome 
+Pearson 
+1st Edition, 
+2017 
+4 
+Introduction to Industrial Internet 
+of Things and Industry 4.0  
+Sudip Misra, Chandana 
+Roy, Anandarup 
+Mukherjee 
+CRC Press 
+1st Edition, 
+2020 
+5 
+Getting Started with the Internet of 
+Things 
+Cuno Pfister 
+O’Rielly 
+1st Edition, 
+2011 
+6 
+Internet of Things: Converging 
+Technologies for Smart 
+Environments and Integrated 
+Ecosystem 
+Ovidiu Vermesan, Peter 
+Friess 
+River Publishers 
+1st Edition, 
+2013 
+7 
+Internet of things: A survey on 
+enabling technologies, protocols, 
+and applications.  
+A. Al-Fuqaha, M. 
+Guizani, M. 
+Mohammadi, M. 
+Aledhari and M. Ayyash 
+IEEE 
+Communications 
+Surveys & Tutorials
+2015 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/105/106105166/ 
+https://online.stanford.edu/courses/xee100-introduction-internet-things 
+2 
+https://archive.nptel.ac.in/courses/106/105/106105166/ 
+https://online.stanford.edu/courses/xee100-introduction-internet-things 
+3 
+https://archive.nptel.ac.in/courses/106/105/106105166/ 
+https://online.stanford.edu/courses/xee100-introduction-internet-things 
+4 
+https://archive.nptel.ac.in/courses/106/105/106105166/ 
+https://online.stanford.edu/courses/xee100-introduction-internet-things 
+
+ 
+ 
+SEMESTER S7 
+INTERNET OF THINGS

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": ": Overview of Computational Complexity and Introduction to\nApproximation Algorithms\nOverview\nof\nComputational\nComplexity:\nDecision\nproblem\nvs\nOptimization problem - P, NP, co-NP, NP-Hard, and NP-Complete classes—\nalong with their interrelationships- Intractability of NP-Complete problems:\nChallenges and Importance- Polynomial time reductions- Examples of  NP-\nComplete problems -SAT, 3-SAT, Clique, Vertex Cover.\nApproaches\nto\nsolve\nNP-Complete\nProblems\n(Concept\nonly):\nApproximation algorithms, Exact algorithms, Randomized algorithms,\n9\nFixed-parameter tractable algorithms.\nIntroduction to Approximation Algorithms: Definition and Motivation-\nApproximation Ratio: Definition - Basic Techniques : Greedy Algorithms\nand Local Search.  : Basic Concept, Algorithm and analysis of\napproximation factor (detailed analysis not required)  of Set Cover problem,\nScheduling jobs on identical parallel machines, Travelling Salesman\nproblem, Metric Steiner Tree  problem.",
+    "contact_hours": "2"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": ": Advanced  Techniques for Designing Approximation\nAlgorithms\nPrimal Dual  Schema: Introduction to Linear Programming, Concept of\nPrimal Dual Schema- LP Duality Theorem, Complementary Slackness\nTheorem. Linear programming formulation of  the Set Cover, Vertex Cover,\nMinimum Multicut, Multiwaycut and Weighted Vertex Cover Problems -\nApproximation algorithm for the SET Cover problem - using simple\nrounding technique and primal dual schema - analysis of approximation\nfactor.\nRandomized Algorithms: Concept of randomization, Randomized rounding\n-Set Cover Problem, Randomized algorithm for MAX CUT problem,\nDerandomization of  MAX CUT algorithm.\nSemidefinite Programming (SDP) :  Basics of SDP and its relation to LP,\nFormulating approximation problems using SDP,  SDP-based approximation\nalgorithm and analysis of approximation ratio for the  MAX-CUT problem.\n9",
+    "contact_hours": "3"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": ": Hardness of Approximation Algorithms\nHardness of Approximation: Reductions, gaps, and hardness factors, PCP\nTheorem, Hardness of MAX-3SAT, Hardness of MAX-3SAT with bounded\noccurrence of variables, Hardness  of vertex cover and Steiner tree, Hardness\nof Clique.\n9",
+    "contact_hours": "4"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": ": Introduction to Parameterized Complexity Theory\nIntroduction to Parameterized Complexity Theory : Parameterized\nproblem-  Definition and Example, Fixed-parameter Tractable (FPT)\nalgorithms - Definition.\nDesign Techniques in Parameterized Complexity : Kernelization-\nConcept, FPT algorithms for Vertex Cover problem and 3-Hitting set\nproblem, Bounded Search Tree - Concept, FPT algorithms for Vertex Cover\nproblem and Feedback Vertex Set problem, Iterative Compression -\nConcept, FPT algorithms for Vertex Cover problem.\nParameterized Intractability: Parameterized reductions, W-hierarchy.",
+    "contact_hours": "9"
+  }
+]

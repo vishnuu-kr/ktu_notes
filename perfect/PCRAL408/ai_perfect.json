@@ -1,0 +1,29 @@
+[
+    {
+        "module": "List of Experiments",
+        "topics": [
+            "Generate a random array representing a set of observations and apply min-max scaling, standardizing and normalizing to it",
+            "Train and evaluate linear regression model using any available housing dataset",
+            "Train and evaluate a polynomial regression model",
+            "Reduce the variance of the regression model using regularization"
+        ]
+    },
+    {
+        "module": "List of Experiments",
+        "topics": [
+            "Train and evaluate a naïve Bayes classifier given continuous, discrete and count features",
+            "Use k-means clustering to group observations and evaluate the performance",
+            "Train, evaluate and visualize a decision tree classifier",
+            "Train and evaluate classification model using a forest of randomized decision trees"
+        ]
+    },
+    {
+        "module": "List of Experiments",
+        "topics": [
+            "Train and evaluate a boosted model using AdaBoost Classifier",
+            "Reduce features using the Principal Components and Matrix factorization",
+            "Implement robot path plan using BFS algorithm",
+            "Implement robot path plan using A* search algorithm"
+        ]
+    }
+]

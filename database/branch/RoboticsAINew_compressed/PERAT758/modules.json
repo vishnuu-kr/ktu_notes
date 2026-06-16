@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Digital Filtering-Review of Z-Transform; Z-domain transfer function,\nconcept of poles and zeroes, location of poles and zeroes and their effect on\nfilter responses, FIR and IIR type of digital filters, ideal and practical\nresponses of Low pass, high pass, band pass and band reject filters, Analog\nfilter\nresponses-Butterworth,\nChebyschev\nand\nelliptic\nresponses,\napplications and advantages of digital filtering.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "FIR Filter Design-linear phase filters, Location of zeroes, Design using\nFourier series, window method-rectangular, hanning, hamming windows-\ncomparison of window frequency responses; LP, HP, BP and BR type\ndesigns.\nFIR Filter banks- quadrature mirror sub band filters-tree structured design",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "IIR Filter Design- Design from analog filters-Design of Butterworth\nanalog filter transfer function, specifications of analog and digital\nfrequency responses, conversion to digital responses-impulse invariant and\nbi-linear transformations, frequency transformation in analog domain,\ndesign of LP and HP filters, design of comb filter by pole-zero placement.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Filter Structures: FIR filter structures-direct, linear phase and lattice\nstructures.\nIIR filter structures-direct, cascade, parallel, lattice structures.\nCoefficient quantization effects in FIR and IIR filters-basic concepts (No\nanalysis required)",
+    "contact_hours": "9"
+  }
+]

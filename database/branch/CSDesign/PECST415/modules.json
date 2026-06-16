@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "CMOS Fundamentals for Digital VLSI Design :\nCPN junction,  MOS transistor theory and operation, PMOS, NMOS,\nCMOS, CMOS Inverter, Voltage Transfer Curve, CMOS logic gates,\nTristate Inverter, Tristate buffer. Combinational Circuits Timing - Rise Time,\nFall time,  Propagation Delay. Introduction to sequential logic circuits, flip-\nflops and latches, Timing analysis - Set-up time, Hold Time, Propagation\nDelay, Frequency of Operation, Static and Dynamic Timing Analysis,\nPipelining",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to Integrated Circuits (ICs):\nCMOS fabrication process overview- Photolithography, Structure of an\nIntegrated Circuit, Types of Design flow - Custom design, Semi-custom\ndesign, array based design. A System Perspective, Hardware – Software\nPartitioning, example Video compression, Functional Specification to RTL,\nBehavioural Synthesis.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Semi-custom Design flow\nAbstraction in VLSI Design Flow- Gajski-Kuhn’s Y-chart, Hardware design\nusing hardware description Languages, Design Verification- Simulation\nusing Testbench, Property Checking, Equivalence Checking, Static Timing\nAnalysis, Logic Synthesis, Physical Design- Min-cut Partitioning, Floor\nplan- , Global and  Detailed Placement, Global and Detailed Routing, Micro\nproject*",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Finite State Machines (FSMs): Mealy and Moore models. Verilog HDL\nDesign and implementation of RISC stored programmed Machine.\nField Programmable Gate Arrays (FPGAs) : FPGA Architecture-\nProgramming Technology, Programmable logical blocks,  Programmable\nInterconnects, Programmable I/O blocks, FPGA  Design Flow, SoC Design\non FPGA, Micro project*.\n* Micro-project on FPGA / Semi-Custom Flow.",
+    "contact_hours": "9"
+  }
+]

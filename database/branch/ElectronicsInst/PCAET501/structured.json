@@ -1,0 +1,52 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to control systems",
+      "Classification of control systems. Open loop and closed loop control systems",
+      "Transfer function",
+      "Poles and Zeros-Mathematical modelling of electrical, mechanical and electromechanical system",
+      "Block diagram reduction techniques",
+      "Signal flow graph",
+      "Mason’s gain formula"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Standard test signals - Response of first and second order systems to impulse and step inputs. Time domain specifications: Delay time",
+      "rise time",
+      "peak time",
+      "maximum percentage overshoot and settling time. Steady state response: Steady state error- Static & Dynamic error coefficients. Concept of stability: Routh-Hurwitz method for stability analysis"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Root locus: Construction of root locus - Effect of addition of poles and zeros. Frequency domain analysis: Frequency response",
+      "Frequency domain specifications",
+      "Stability in the frequency domain",
+      "Nyquist stability criterion",
+      "Stability analysis using Polar and Bode plots",
+      "relative stability",
+      "Gain margin and phase margin"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "State space representation of Continuous Time systems. Transfer function from State Variable Representation",
+      "Solution of state equations",
+      "state transition matrix",
+      "Controllability and Observability -Kalman’s Test"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

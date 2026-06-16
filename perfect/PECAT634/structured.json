@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to wireless sensor networks (WSN",
+            "Network architecture and protocol stack",
+            "MAC access control - fundamental MAC protocols",
+            "MAC design for WSNs",
+            "MAC protocols for WSN (Contention based",
+            "Contention free",
+            "and Hybrid protocols",
+            "IEEE 802.15.4",
+            "Zigbee"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Routing and data dissemination - Fundamentals and challenges",
+            "taxonomy of routing and data dissemination protocols",
+            "Overview of routing and data dissemination protocols - geographic adaptive fidelity",
+            "LEACH",
+            "Sensor protocols for information via negotiation",
+            "joint mobility and routing protocol. Transport protocols for WSNs",
+            "Operating systems for sensor networks - TinyOs",
+            "Contiki"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Security requirements in WSNs",
+            "Security vulnerabilities in WSNs - DoS attacks",
+            "physical layer attacks",
+            "link layer",
+            "network layer",
+            "transport layer attacks",
+            "Attacks on secrecy and authentication",
+            "Security mechanisms for WSNs - cryptography in WSNs",
+            "Key management protocols",
+            "Defence against DoS attacks",
+            "Defence against routing attacks -TESLA",
+            "SPINS",
+            "Intrusion detection in WSNs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Topology Control",
+            "Clustering",
+            "Time Synchronization",
+            "Localization and Positioning",
+            "Sensor Tasking and Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

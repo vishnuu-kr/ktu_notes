@@ -1,0 +1,91 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Vehicle fundamentals - general description",
+            "vehicle resistances",
+            "tractive effort",
+            "vehicle performance - maximum speed",
+            "power",
+            "gradability",
+            "etc. Electric vehicles - introduction",
+            "history",
+            "social and environmental importance of hybrid and electric vehicles",
+            "Types of EVs. EV transmission - configurations - front wheel drive and rear-wheel drive. Traction motor characteristics and comparison with IC engine characteristics. Hybrid electric vehicles - concept",
+            "architecture",
+            "classification",
+            "series",
+            "parallel",
+            "series-parallel and complex",
+            "hybrid drivetrains",
+            "the configuration of the series hybrid electric drive train",
+            "the configuration of the parallel hybrid electric drive train"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Energy storage - Battery basics",
+            "battery parameters",
+            "battery technologies -Lead-Acid Battery",
+            "Nickel-Cadmium Battery",
+            "Nickel-Metal-Hydride (NiMH) Battery",
+            "Li-Ion Battery",
+            "Li-Polymer Battery. Alternative energy sources - fuel cell",
+            "supercapacitors and ultracapacitors",
+            "flywheel (Overview only). Battery pack design",
+            "battery management system (BMS",
+            "sensors used in BMS",
+            "thermal management systems of battery",
+            "battery safety standards in India",
+            "AIS 156 (2020) and AIS 038 Rev (2020). EV charging - types",
+            "layout of AC and DC chargers",
+            "different charging protocols-CHAdeMO",
+            "CCS2",
+            "GB/T",
+            "battery swapping"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Electric propulsion system - electric motors",
+            "classification",
+            "induction motors",
+            "basic principles and construction",
+            "torque - slip characteristics. Permanent magnets",
+            "ferrite",
+            "SmCo and NdFeB types",
+            "PM motors-BLDC",
+            "PMSM",
+            "basic principles and construction",
+            "switched reluctance motors (SRM",
+            "basic principles and construction. Regenerative braking - principle",
+            "block diagram. Gearbox",
+            "selection of gear ratio",
+            "Different kinds of gearboxes. EV motor sizing - need of gearbox"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Motor controllers - motor drive components",
+            "power electronic switches",
+            "MOSFET and IGBT",
+            "bidirectional switch. Induction motor controls - constant speed/frequency control",
+            "variable DC/AC inverter with sinusoidal PWM",
+            "field orientation control. BLDC motor controls - torque control and speed control methods",
+            "principles and block diagrams. SRM drive converter - classical half-bridge converter. Vehicle Sensors specific to EV sensors interfaced to the ECU’s in the vehicle network. Controller Area Networking (CAN) - frame types of CAN",
+            "layered architecture of CAN. Vehicle Validation - 6 levels of EV validations. Advances in electric and hybrid vehicle technology - autonomous driving",
+            "connected vehicles (overview only"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "1.1 Complex Systems and Microprocessors\nEmbedding\nComputers,\nCharacteristics\nof\nEmbedded\nComputing\nApplications, Application of Microprocessors, The Physics of Software,\nChallenges in Embedded Computing System, Characteristics and quality\nattributes of an embedded system, Performance in Embedded Computing\n1.2 The Embedded System Design Process\nRequirements, Specification, Architecture Design, Designing Hardware and\nSoftware Components, System Integration.\n1.3 Formalisms for System Design\nStructural Description, Behavioral Description, An embedded system design\nexample.\n1.4 Embedded product development cycle (EDLC)\nDifferent phases of EDLC, EDLC models",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "2.1 Communication devices\nSerial Communication Standards and Devices - UART, HDLC and SPI.\nSerial Bus Protocols - I2C Bus, CAN Bus and USB Bus. Parallel\ncommunication standards ISA, PCI and PCI-X Bus.\n2.2 Memory\nMemory devices and systems – ROM-Flash, EEPROM,RAM-SRAM,\nDRAM, Cache memory, memory mapping and addresses, memory\nmanagement unit– DMA .\n2.3 Interrupts/Device Driver\nInterrupts--Interrupt sources, recognizing an interrupt, ISR – Device drivers\nfor handling ISR, Interrupt latency.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "3.1 ARM Processor architecture\nThe Acorn RISC Machine, Architectural inheritance, The ARM\nprogrammer's model, ARM development tools.\n3.2 ARM Assembly Language Programming\nData processing instructions, Data transfer instructions, Control flow\ninstructions, writing simple assembly language programs.\n3.3 ARM Organization and Implementation\nThree stage pipeline ARM organization, five stage pipeline ARM\norganization, ARM\ninstruction execution, ARM implementation, The ARM coprocessor\ninterface",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "4.1 Architectural Support for High-Level Languages\nAbstraction in software design, Data types, Floating-point data types, The\nARM floating-point architecture, Expressions, Conditional statements,\nLoops, Functions and procedures, Assembly and C language programming\napplications of embedded systems.\n4.2 Architectural Support for System Development\nThe ARM memory interface, The Advanced Microcontroller Bus\nArchitecture (AMBA).\n4.3 Operating system basics\nFunctions of OS, Kernel, types of operating systems.\n4.4Introduction to Real time operating systems\nTasks, process, threads, multiprocessing and multitasking, task scheduling,\ntask communication, choosing an RTOS\nSuggestion on Project Topics\n1. Design and Implementation of ARM Cortex Based Motor Speed Control\n2. ARM7 Processor based Auto Ignition control in automobiles\n3. ARM Processor-based Real-time Car Theft Detection\n4. Automated Irrigation system using ARM processor\n5. ARM processor based Industrial Automation using GSM/Wi-Fi",
+    "contact_hours": "10"
+  }
+]

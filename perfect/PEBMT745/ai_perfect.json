@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Neural Networks",
+            "Perceptron Model - Single Layer Perceptron and Multi-Layer Perceptron",
+            "Activation Functions - Sigmoid",
+            "Tanh and ReLU",
+            "McCulloch & Pitts Model",
+            "Back Propagation",
+            "The Problem of Overfitting",
+            "Vanishing and Exploding Gradient Problems",
+            "Difficulties in Convergence",
+            "Local and Spurious Optima"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to Deep Learning",
+            "Bayesian Learning",
+            "Decision Surfaces",
+            "Deep Feed Forward Network",
+            "Training Deep Models",
+            "Optimization Techniques - Gradient Descent (GD)",
+            "GD with Momentum",
+            "Nesterov Accelerated GD",
+            "Stochastic GD",
+            "AdaGrad",
+            "RMSProp",
+            "Adam",
+            "Regularization Techniques - L1 and L2 Regularization",
+            "Early Stopping",
+            "Dataset Augmentation",
+            "Parameter Sharing and Tying",
+            "Injecting Noise at Input",
+            "Ensemble Methods",
+            "Dropout",
+            "Parameter Initialization"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to Convolutional Neural Networks - Convolution",
+            "Pooling",
+            "Architecture",
+            "Convolution and Pooling as an Infinitely Strong Prior",
+            "Variants of Convolution Functions",
+            "Structured Outputs",
+            "Data Types",
+            "Efficient Convolution Algorithms"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Recurrent Neural Networks - Computational Graphs",
+            "RNN Design",
+            "Encoder-Decoder Sequence to Sequence Architectures",
+            "Deep Recurrent Networks",
+            "Recursive Neural Networks",
+            "Modern RNNs - LSTM",
+            "Recent Trends in Deep Learning Architectures",
+            "Residual Network",
+            "Skip Connection Network",
+            "Fully Connected CNN, etc."
+        ]
+    }
+]

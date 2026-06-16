@@ -1,0 +1,82 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of Database - Introduction and applications of DBMS",
+            "Purpose of database",
+            "View of Data",
+            "Database Languages",
+            "Database architecture and Classification",
+            "Database users and Administrators. ER model - Entity Sets",
+            "Relationship Sets",
+            "Attributes",
+            "Constraints",
+            "Removing Redundant Attributes in Entity Sets",
+            "Entity-Relationship Diagrams. Introduction to Relational Model - Structure of Relational Databases",
+            "Database Schema",
+            "Keys",
+            "Schema Diagrams",
+            "Relational Query Languages",
+            "Relational Algebra",
+            "Synthesizing ER diagram to relational schema"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to Structured Query Language (SQL) - Overview of the SQL Query Language",
+            "SQL Data Definition",
+            "Basic Structure of SQL Queries",
+            "Additional Basic Operations",
+            "Set Operations",
+            "Null Values",
+            "Aggregate Functions",
+            "Nested Subqueries",
+            "Views",
+            "assertions",
+            "Triggers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Relational Database Design - Different anomalies in designing a database",
+            "the idea of normalization",
+            "Functional dependency",
+            "Armstrong’s Axioms (proofs not required",
+            "Closures and their computation",
+            "Equivalence of Functional Dependencies (FD",
+            "Minimal Cover (proofs not required). First Normal Form (1NF",
+            "Second Normal Form (2NF",
+            "Third Normal Form (3NF",
+            "Boyce Codd Normal Form (BCNF"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Transaction Processing Concepts - overview of concurrency control",
+            "Transaction Model",
+            "Significance of concurrency Control & Recovery",
+            "Transaction States",
+            "System Log",
+            "Desirable Properties of transactions. Serial schedules",
+            "Concurrent and Serializable Schedules",
+            "Conflict equivalence and conflict serializability",
+            "Recoverable and cascade-less schedules",
+            "Locking",
+            "Two-phase locking and its variations. Log-based recovery",
+            "check-pointing. NoSQL Databases - Introduction",
+            "properties of NoSQL Databases",
+            "types of No SQL Databases"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

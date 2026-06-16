@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Image Filtering",
+            "Image Enhancement",
+            "Image Segmentation",
+            "Thresholding",
+            "Image Transforms",
+            "Color Image Processing",
+            "Mathematical Morphology and Use in Texture Analysis",
+            "Binary Shape Analysis and Connectedness"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Reflectance and BRDF (Basics Only)",
+            "Monocular and Binocular Imaging System",
+            "Geometric Transformation",
+            "Orthographic and Perspective Projection",
+            "Camera Model - Basic Pinhole Camera Model",
+            "Stereo Vision: Introduction",
+            "Concept of Disparity and Its Relationship with Depth"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Harris Corner Detection",
+            "Canny Edge Detection",
+            "Blob Detection",
+            "Line and Curve Detection",
+            "Hough Transform",
+            "Feature Descriptors: Histogram of Oriented Gradients",
+            "Scale Invariant Feature Transform (SIFT)",
+            "Mosaics and Snakes",
+            "Feature Matching Algorithms: Brute Force Matcher",
+            "Need for Feature Detection and Description and Limitations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Shape from X - Shape from Shading",
+            "Photometric Stereo",
+            "Occluding Contour Detection",
+            "Motion Analysis - Regularization Theory",
+            "Optical Flow: Brightness Constancy Equation",
+            "Lucas-Kanade Method",
+            "Principles of Structure from Motion (Introduction)",
+            "Object Recognition: Hough Transforms and Other Simple Object Recognition Methods",
+            "Application: Face Detection",
+            "Face Recognition and Eigenfaces"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

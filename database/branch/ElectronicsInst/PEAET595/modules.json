@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Fundamentals of Robotics\nRobotics and Automation – Definition and history of robotics, Differences\nbetween robotics and automation, Applications of robotics in industry and\nservice sectors.\nRobot Anatomy – Basic components - Links, joints, and end effectors,\nDegrees of Freedom (DOF) and their significance.\nConfigurations of Robots – Cartesian, Cylindrical, Spherical, Articulated,\nSCARA.\nWork Volume and Workspace Analysis – Definition and importance,\nFactors affecting workspace.\nManipulator Kinematics – Position representation, Introduction to forward\nand inverse kinematics, Homogeneous transformations and their application\nin robot kinematics.\nD-H Notations – Formulating and solving kinematic equations.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Control Systems for Robots\nBasic Control System Models – Open-loop and closed-loop control, Block\ndiagrams and transfer functions.\nRobot Motions – Types of motions – Slew motion, joint-interpolated\nmotion, and straight-line motion. Path planning and trajectory generation.\nControllers – On/off control, Proportional (P) control, Integral (I) control,\nProportional plus integral (PI) control, Proportional plus derivative (PD)\ncontrol and Proportional plus integral plus derivative (PID) control.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Actuation and Feedback Mechanisms\nSensors – Types of sensors - Position and velocity sensors. Working\nprinciples of encoders and resolvers, Potentiometers and tachometers.\nActuators - Electric actuators - DC motors, stepper motors, and\nservomotors. Hydraulic actuators, Pneumatic actuators.\nPower Transmission Devices - Gears, belts, chains, lead screws and ball\nscrews.\nEnd Effectors – Types of grippers - Mechanical, vacuum and magnetic,\nDesign considerations for grippers.\nMethods of Power and Control Signal Transmission - Electrical, hydraulic\nand pneumatic transmission.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Industrial Applications and Work Cell Design\nMaterial Handling - General considerations for material handling with\nrobots, Material transfer applications.\nPick and Place Operations - Techniques and applications, Integration with\nproduction lines.\nPalletizing and Related Operations - Methods and case studies.\nManufacturing Processes - Die casting, plastic molding, forging,\nMachining operations, stamping press operations, Role of robots in\nautomation of these processes.\nRobot Cell Layouts - Design considerations for multiple robots and\nmachine interfaces, Examples of typical robot cell layouts.\nWork Cell Control - Interlocks and safety mechanisms, Error detection and\nrecovery strategies.\nWork Cell Controllers - Types and functions of work cell controllers,\nIntegration with other control systems.\nCycle Time Analysis - Techniques for analyzing and optimizing robot cycle\ntimes, Factors affecting cycle time and productivity.",
+    "contact_hours": "9"
+  }
+]

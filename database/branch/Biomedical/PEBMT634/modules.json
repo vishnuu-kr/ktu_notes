@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to numerical Techniques\nApproximations - Accuracy and precision, definitions of round off and\ntruncation errors, error propagation, Algebraic equations - Formulation and\nsolution of linear algebraic equations, Gauss elimination method\nIntroduction to Eigenvalue Analysis – Eigenvectors and Eigenvalues,\nEigenvalue problems in Biomedical Engineering.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Interpolation Techniques\nNewton-Raphson method and Regula-Falsi method. Interpolation-finite\ndifferences, Newton’s forward and backward difference method, Newton’s\ndivided difference method and Lagrange’s method.Cubic spline and\nquadratic spline interpolation method",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Numeriacal integration and Solution of ODE\nNumerical integration-Trapezoidal rule and Simpson’s 1/3rd rule,3/8 rule\nODE-Taylor’s series method,Euler’s method,modified Euler’s method R-K\nmethod of order four",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Finite Element Method\nIntroduction to Finite Element Method - strong form and weak form\nequations, test and trial functions, discretization, boundary conditions,\nnumerical assembly and solution Finite Element Method for nonlinear ODEs\n- Linearization and Newton-Raphson method, numerical assembly and\nsolution",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "ECG Data Reduction: Direct data compression Techniques: Turning Point-\nAZTEC. Transformation Compression Techniques: Karhunen - Loeve\nTransform. Other data compression Techniques: Huffman coding\nECG signal processing Techniques: Filtering: baseline removal by linear\ntime variant filtering. Powerline interference removal by linear filter. Event\ndetection: QRS detection basic steps – P Wave detection using time domain\nanalysis. Morphological analysis of ECG- correlation coefficient -minimum\nphase component. Heart rate variability analysis: time domain measures -\nspectrum analysis of heart rate variability",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Speech signal Processing Speech Fundamentals: Articulatory Phonetics –\nProduction and Classification of Speech Sounds- Articulation- Voicing-\nArticulatory Model Speech Analysis: -short Time Speech Analysis - short\ntime energy- short time average magnitude- short time zero crossing\nrateshort time ACF. Frequency domain analysis: Filter Banks- STFT-\nSpectrogram- Formant Estimation & analysis- Cepstral Analysis-MFCC",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Signal Processing Techniques in EEG Modelling the EEG signals: linear\nand stochastic EEG models -Time varying AR modelling. Artefacts in EEG:\ntypes – artefact reduction methods -linear filtering – Artifact cancellation\nusing linearly combined reference signals -adaptive artefact cancellation.\nNon parametric spectral analysis-spectral parameters: Power in bands,\nspectral slope, peak frequency. Parametric spectrum estimation: Burg\nmethod. EEG segmentation-basics",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "EMG Signal Processing Techniques EMG applications: Diagnostic EMG,\nKinesiology, Ergonomics. Prosthesis control. Amplitude Estimation in the\nSurface EMG-Signal Model and ML Estimation, spectral analysis of surface\nEMG- Conduction velocity estimation -intramuscular EMG signal\ndecomposition",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Digital logic: Binary, Octal, and Hexadecimal number\nsystems – Representation of negative numbers in binary – Binary arithmetic.\nBinary codes: BCD & BCD addition, XS-3 & Gray Codes, Error detection\nand correction codes – Parity & Hamming codes. Boolean algebra:\nOperations, Laws & Theorems, De Morgan’s theorems – SOP & POS\nBoolean expressions and truth tables - Formation of switching functions\nfrom word statements, Minterm and Maxterm expansions, Incompletely\nspecified functions. Minimization of Boolean Expressions:\nAlgebraic, Karnaugh map (up to 5 variables) - Realization using basic gates\nand universal gates.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Combinational Logic Circuits & Design: Adders & Subtractors – Types,\nRipple carry & Carry look ahead adders, BCD adder. Code converters –\nexamples & Comparators. Multiplexers, Demultiplexers, Decoders &\nEncoders. Basics of Verilog programming: Basic language elements -\nidentifiers, data objects, scalar data types, operators. Modelling and\nImplementation of logic gates using Verilog codes. Modelling and\nImplementation of simple combinational circuits at the gate level using\nVerilog codes. Sequential Logic circuits & Design: Latches – SR Latch.\nFlip-Flops – SR, JK, D & T Flip Flops – Level & Edge triggered flip flops\n– Synchronous & Asynchronous inputs - Conversion between flip flops.\nMaster slave flip flops.",
+    "contact_hours": "14"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Shift Registers: SISO, SIPO, PISO, PIPO shift registers, Right & Left\nshifts, Bidirectional & Universal shift registers. Applications: Serial binary\nadder Counters: Asynchronous counters - Up, Down and Up/ Down\ncounter, Mod n counters. Shift register counters: Ring & Johnson counters.\nDesign of Synchronous counters Introduction to design of synchronous\nsequential circuits using Finite State Machines: Mealy & Moore types –\nFlip flops.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Logic families: Introduction to different logic families, Standard logic\nlevels – Current and voltage parameters – fan in and fan out – Propagation\ndelay, noise consideration. TTL: Basic working principle of a TTL NAND\ngate – Totem pole and Open collector gate output configurations – Tri-state\nlogic – characteristics of a TTL NAND gate. CMOS: Basic working\nprinciple of a CMOS inverter, Comparison of TTL & CMOS, Interfacing\nTTL & CMOS ICs.",
+    "contact_hours": "8"
+  }
+]

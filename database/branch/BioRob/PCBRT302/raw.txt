@@ -1,0 +1,383 @@
+Course Code 
+PCBRT302 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3: 1: 0: 0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To help the students to get a basic idea about Robots. 
+2. Basic design of robots are introduced. 
+3. Trajectory planning, obstacle avoidance and kinematics of robots are introduced to students. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Definitions- Robots, Robotics; Types of Robots- Manipulators, Mobile 
+Robots-wheeled & Legged Robots, Aerial Robots; Anatomy of a robotic 
+manipulator-links, joints, actuators, sensors, controller; open kinematic vs 
+closed kinematic chain; degrees of freedom; Robot configurations-PPP, RPP, 
+RRP, RRR; features of SCARA, PUMA Robots; Classification of robots 
+based on motion control methods and drive technologies; 3R concurrent 
+wrist; Classification of End effectors - mechanical grippers, special tools, 
+Magnetic grippers, Vacuum grippers, adhesive grippers, Active and passive 
+grippers, selection and design considerations of grippers in robot., Trajectory 
+planning, Tasks, Path planning, Trajectory Planning. Joint space trajectory 
+planning- cubic polynomial, linear trajectory with parabolic blends, 
+trajectory planning with via points; Cartesian space planning, Point to point 
+vs continuous path planning. Obstacle avoidance methods- Artificial 
+Potential field. 
+11 
+2 
+Robot Kinematics 
+Direct 
+Kinematics-Rotations-Fundamental 
+and 
+composite 
+Rotations, 
+Homogeneous co- ordinates, Translations and rotations, Composite 
+homogeneous transformations, Screw transformations, Kinematic parameters, 
+ 
+
+ 
+ 
+The Denavit-Hartenberg (D-H) representation, The arm equation, direct 
+kinematics problems (upto 3DOF) 
+Inverse kinematics- general properties of solutions, Problems (upto 3DOF) 
+Inverse 
+kinematics 
+of 
+3DOF 
+manipulator with 
+concurrent 
+wrist 
+(demo/assignment only) Tool configuration Jacobian, relation between joint 
+and end effector velocities. 
+3 
+Manipulator Dynamics 
+Lagrange’sformulation – Kinetic Energy expression, velocity Jacobian and 
+Potential Energy expression, Generalised force, Euler-Lagrange equation, 
+Dynamic model of planar and spatial serial robots upto 2 DOF, modelling 
+including motor and gearbox. 
+Robot Control 
+The control problem, Single axis PID control-its disadvantages, PD gravity 
+control, computed torque control. 
+Simulation of 
+simple robot-control 
+system-Matlab programming 
+for 
+control of robots (demonstration/assignment only) 
+11 
+4 
+Locomotion, Key issues for locomotion, Legged Mobile Robots, Wheeled 
+Mobile Robots, Aerial Mobile Robots. Mobile Robot Kinematics (Differential 
+Drive Robot), Mobile Robot Workspace- Degree of freedom, Holonomic and 
+nonholonomic robots. Motion Control, Open Loop control, feedback control. 
+Industrial application- Medical, material handling, pick and place robot. Robot 
+selection- number of axes, work volume, capacity and speed, stroke and reach, 
+repeatability , precision and accuracy, operating environment 
+11 
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+
+ 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, 
+out of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Familiarise with anatomy, specifications and types of Robots 
+K1 
+CO2 
+Obtain forward and inverse kinematic models of robotic 
+manipulators 
+K6 
+CO3 
+Plan trajectories in joint space & Cartesian space and avoid 
+obstacles while robots are in motion 
+K3 
+CO4 
+Familiarise with different types of mobile robots, kinematic 
+models, motion control for mobile robots 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and 
+Year 
+1 
+Fundamentals of robotics–
+Analysis and control 
+Robert J. Schilling 
+Prentice Hall 
+ 
+2 
+Introduction to Robotics 
+(Mechanics and control) 
+John J. Craig 
+Pearson Education 
+ 
+3 
+Introduction to Robotics 
+S K Saha 
+Mc Graw Hill 
+Education 
+ 
+4 
+Robotics and Control 
+R K Mittal and I J 
+Nagrath 
+Tata McGrawHill 
+ 
+5 
+Robotics-Fundamental concepts 
+and analysis 
+Ashitava Ghosal 
+Oxford University 
+press. 
+ 
+6 
+Robotics Technology and Flexible 
+Automation 
+S. R. Deb 
+ 
+2nd Ed 
+7 
+Introduction to Autonomous 
+Mobile Robots 
+Siegwart, Roland 
+Cambridge, Mass: 
+MIT Press 
+2nd ED 
+ 
+ 
+Reference Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of 
+the 
+Publisher 
+Edition 
+and 
+Year 
+1 
+Handbook of Robotics 
+Sicilliano, Khatib 
+Springer 
+ 
+2 
+Introduction to Robotics–Mechanics and 
+Control 
+John J. Craig 
+ 
+ 
+3 
+Modern Robotics Mechanics, Planning 
+and Control 
+Kevin M. Lynch, 
+Frank C. Park 
+ 
+ 
+4 
+Robotics Modelling, Planning and 
+Control 
+Bruno Siciliano, 
+Lorenzo Sciavicco, 
+ 
+ 
+
+ 
+ 
+Luigi Villani, 
+Giuseppe Oriolo 
+5 
+Fundamentals of Robotics  
+D.K. Pratihar 
+Narosa 
+Publishing 
+House, 
+New-
+Delhi 
+2017 
+6 
+Robotics  
+K.S. Fu, R.C. 
+Gonzalez, C.S.G. Lee 
+McGraw-
+Hill Book 
+Company 
+1987 
+7 
+Introduction to Robotics  
+J.J. Craig 
+Addison-
+Wesley 
+Publishing 
+Company 
+1986 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+https://nptel.ac.in/courses/107106090 
+2 
+https://onlinecourses.nptel.ac.in/noc19_me74/preview 
+3 
+https://www.classcentral.com/course/swayam-introduction-to-robotics-19912 
+
+ 
+ 
+SEMESTER S3 
+SENSORS AND ACTUATORS

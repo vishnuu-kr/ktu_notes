@@ -1,0 +1,956 @@
+Course Code 
+OEERT615 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce basic principles that drive complex real world intelligence applications.   
+2. To introduce and discuss the basic concepts of AI Techniques and Learning. 
+ 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Artificial Intelligence: What is Artificial Intelligence(AI)? 
+The Foundations of AI, History of AI, Applications of AI.  Intelligent 
+Agents, Types of agents and their environments, goodbehavior: The concept 
+of rationality, nature of Environments, Structure of Agents. Examples of 
+practical agents. 
+9 
+2 
+Problem Solving: Solving Problems by searching-Problem solving Agents, 
+Example problems, Searching for solutions, Uninformed search strategies- 
+Depth First Search (DFS) and Breadth First Search (BFS), Informed search 
+strategies- Greedy Search, A* Search, AO* Search, Hill Climbing 
+Algorithm, Heuristic functions. 
+9 
+3 
+Adversarial search: Games, Optimal decisions in games, The Minimax 
+algorithm, Alpha-Beta pruning. Constraint Satisfaction Problems – Defining 
+CSP, Constraint Propagation- inference in CSPs, Backtracking search for 
+CSPs, Structure of CSP problems. 
+9 
+4 
+Knowledge Representation and Reasoning: First Order Predicate Logic – 
+Syntax and Semantics of First Order Logic, Knowledge representation in 
+9 
+
+ 
+ 
+First Order Logic. Inference in First Order Logic – Unification and Lifting, 
+Forward chaining, Backward chaining, Resolution.  
+Basic concepts of Machine Learning: Learning from Examples – Forms of 
+Learning, Supervised Learning/Unsupervised Learning. 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the fundamental concepts of intelligent systems and their 
+architecture. 
+K2 
+CO2 
+Illustrate uninformed and informed search techniques for problem solving 
+in intelligent systems.  
+K2 
+CO3 
+Solve Constraint Satisfaction Problems using search techniques.  
+K3 
+CO4 
+Represent AI domain knowledge using logic systems and use inference 
+techniques for reasoning in intelligent systems.  
+K3 
+CO5 
+Illustrate different types of learning techniques used in intelligent systems  
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Artificial Intelligence: A 
+Modern Approach 
+Stuart Russell and 
+Peter Norvig 
+Prentice Hall 
+3/e, 2010 
+2 
+Artificial Intelligence 
+E Rich, K Knight, 
+Tata McGraw Hill 
+3/e, 2009 
+3 
+Artificial Intelligence- 
+Structures and Strategies for 
+Complex Problem Solving 
+GeorgeF.Luger 
+Pearson Education 
+4/e, 2002 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Artificial Intelligence - A New 
+Synthesis 
+Nilsson N.J 
+Harcourt Asia Pvt. 
+Ltd. 
+1998 
+2 
+Artificial intelligence, A 
+modern approach 
+Stuart Jonathan Russell, 
+Peter Norvig 
+Pearson Education 
+3/e, 2010 
+ 
+3 
+Artificial 
+Intelligence 
+and 
+Machine Learning  
+Chandra SS And 
+Hareendran S 
+PHI Learning 
+2014 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+An Introduction to Artificial Intelligence - Course (nptel.ac.in) 
+https://onlinecourses.nptel.ac.in/noc22_cs56/preview 
+2 
+Fundamentals of Artificial Intelligence - Course (nptel.ac.in) 
+https://onlinecourses.nptel.ac.in/noc22_ge29/preview 
+3 
+Artificial Intelligence - Course (swayam2.ac.in) 
+https://onlinecourses.swayam2.ac.in/cec21_cs08/preview 
+
+ 
+ 
+SEMESTER S6 
+EMBEDDED SYSTEMS AND IoT LAB 
+ 
+Course Objectives:  
+1. To provide students a lot of hands-on experience designing different embedded systems and 
+exposing them to the tools needed to make them Internet of Things devices. 
+Details of Experiment 
+Expt. No
+Experiment 
+Part A: Arduino based embedded system 
+1 
+Implement an arduino based system to detect when something is moved, tilted, or shaken. 
+2 
+Implement temperature control system by controlling a fan, if the temperature exceeds a 
+limit. (Use arduino as control board) 
+3 
+Use Arduino to read the key presses on matrix keypad and display the pressed key on an LCD 
+display. 
+4 
+Use Arduino to monitor one or more voltages and take some action when the voltage rises or 
+falls below a threshold. For example, you want to flash an LED to indicate a low battery 
+level—perhaps to start flashing when the voltage drops below a warning threshold and 
+increasing in urgency as the voltage drops further. 
+5 
+Use Arduino to measure voltages greater than 5 volts. For example, you want to display the 
+voltage of a 9V battery and trigger an alarm LED when the voltage falls below a certain level. 
+Part B: NodeMCU based systems 
+6 
+Installing the Arduino IDE for the ESP8266 and connecting the module to your Wi-Fi 
+network. 
+7 
+Reading data from a digital sensor connected to a digital pin of ESP8266. 
+Course Code 
+PCERL 607 
+CIE Marks 
+50 
+Teaching Hours/Week 
+(L: T:P: R) 
+0:0:3:0 
+ESE Marks 
+50 
+Credits 
+2 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBERT 604 
+Course Type 
+Lab  
+
+ 
+ 
+8 
+Configuring the ESP8266 module and controlling an LED connected to it, from anywhere in 
+the world; using MQTT. 
+9 
+Controlling the lock from the cloud using Blynk and NodeMCU. 
+10 
+Sending an e-mail/SMS notification based on activity at sensor connected to NodeMCU; 
+using IFTTT. 
+Part C: Raspberry Pi based systems 
+11 
+Setting up Raspberry Pi by installing OS and obtaining static IP of Raspberry Pi. 
+12 
+Light an LED by reading status of a switch connected to GPIO of the board. 
+13 
+Install Arduino IDE on Raspberry Pi and control LED using LDR; in which both are 
+connected to Digital IO pin of Arduino. 
+14 
+Realize a datalogger with ThingSpeak Server: capture the real-time data of any sensor by 
+Raspberry Pi and upload to the cloud. 
+15 
+Implement a Home Appliance Control system using Raspberry Pi using Blynk App 
+** Any four experiments are mandatory from each part. 
+Course Assessment Method (CIE: 50 Marks, ESE 50 Marks) 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Preparation/Pre-Lab Work, experiments, Viva and 
+Timely completion of Lab Reports / Record. 
+(Continuous Assessment) 
+Internal 
+Exam 
+Total 
+5 
+25 
+20 
+50 
+ 
+End Semester Examination Marks (ESE): 
+Procedure/ 
+Preparatory 
+work/Design/ 
+Algorithm 
+Conduct of experiment/ 
+Execution of work/ 
+troubleshooting/ Programming 
+Result with 
+valid inference/ 
+Quality of 
+Output 
+Viva 
+voce 
+Record 
+Total 
+10 
+15 
+10 
+10 
+5 
+50 
+ 
+ 
+
+ 
+ 
+Mandatory requirements for ESE: 
+      Submission of Record: Students shall be allowed for the end semester examination only upon   
+submitting the duly certified record. 
+      Endorsement by External Examiner: The external examiner shall endorse the record. 
+Course Outcomes (COs) 
+At the end of the course the student will be able to:  
+K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table  
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+ 
+3 
+3 
+CO2 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+ 
+3 
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+ 
+3 
+3 
+1: Slight (Low),2: Moderate (Medium),3: Substantial (High), : No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Arduino Cookbook_ Recipes to 
+Begin, Expand, and Enhance 
+Your Projects 
+Michael Margolis 
+O'Reilly Media 
+3e, 2020 
+2 
+Internet 
+of 
+Things 
+with 
+ESP8266-Packt Publishing 
+Marco Schwartz 
+Packt Publishing 
+2016 
+3 
+Internet 
+Of 
+things 
+With 
+Raspberry Pi and Arduino 
+Rajesh Singh, Anita 
+Gehlot, Lovi Raj Gupta, 
+Bhupendra Singh, 
+Mahendra Swain 
+CRC Press Taylor & 
+Francis Group 
+2019 
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Implement interfacing of various sensors and actuators with Arduino. 
+K3 
+CO2 
+Implement interfacing of various sensors and actuators with Node MCU. 
+K3 
+CO3 
+Design and develop smart systems using Raspberry Pi. 
+K3 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to IoT 
+Misra, Mukherjee, 
+Roy 
+Cambridge 
+University Press 
+2021 
+2 
+NodeMCU 
+ESP8266 
+Communication 
+Methods 
+and 
+Protocols 
+_ 
+Programming with Arduino 
+IDE 
+Manoj R. Thakur 
+Amazon Media EU 
+S.à r.l 
+2018 
+3 
+Raspberry Pi and MQTT 
+Essentials 
+Dhairya Parikh 
+Packt 
+2022 
+4 
+Electronics Projects with the 
+ESP8266 
+and 
+ESP32_ 
+Building 
+Web 
+Pages, 
+Applications, 
+and 
+WiFi 
+Enabled Devices 
+Neil Cameron 
+Apress 
+2021 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Sl. No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/128/108/128108016/ 
+ 
+Continuous Assessment (25 Marks) 
+1. Preparation and Pre-Lab Work (7 Marks) 
+ Pre-Lab Assignments: Assessment of pre-lab assignments or quizzes that test understanding of 
+the upcoming experiment. 
+ Understanding of Theory: Evaluation based on students’ preparation and understanding of the 
+theoretical background related to the experiments. 
+
+ 
+ 
+2. Conduct of Experiments (7 Marks) 
+ Procedure and Execution: Adherence to correct procedures, accurate execution of experiments, 
+and following safety protocols. 
+ Skill Proficiency: Proficiency in handling equipment, accuracy in observations, and 
+troubleshooting skills during the experiments. 
+ Teamwork: Collaboration and participation in group experiments. 
+3. Lab Reports and Record Keeping (6 Marks) 
+ Quality of Reports: Clarity, completeness and accuracy of lab reports. Proper documentation of 
+experiments, data analysis and conclusions. 
+ Timely Submission: Adhering to deadlines for submitting lab reports/rough record and 
+maintaining a well-organized fair record. 
+4. Viva Voce (5 Marks) 
+ Oral Examination: Ability to explain the experiment, results and underlying principles during a 
+viva voce session. 
+Final Marks Averaging: The final marks for preparation, conduct of experiments, viva, and 
+record are the average of all the specified experiments in the syllabus. 
+Evaluation Pattern for End Semester Examination (50 Marks) 
+1. Procedure/Preliminary Work/Design/Algorithm (10 Marks) 
+ Procedure Understanding and Description: Clarity in explaining the procedure and understanding 
+each step involved. 
+ Preliminary Work and Planning: Thoroughness in planning and organizing materials/equipment. 
+ Algorithm Development: Correctness and efficiency of the algorithm related to the experiment. 
+ Creativity and logic in algorithm or experimental design. 
+2. Conduct of Experiment/Execution of Work/Programming (15 Marks) 
+ Setup and Execution: Proper setup and accurate execution of the experiment or programming 
+task. 
+ 
+ 
+
+ 
+ 
+3. Result with Valid Inference/Quality of Output (10 Marks) 
+ Accuracy of Results: Precision and correctness of the obtained results. 
+ Analysis and Interpretation: Validity of inferences drawn from the experiment or quality of 
+program output. 
+4. Viva Voce (10 Marks) 
+ 
+Ability to explain the experiment, procedure results and answer related questions 
+ 
+Proficiency in answering questions related to theoretical and practical aspects of the subject. 
+5. Record (5 Marks) 
+ 
+Completeness, clarity, and accuracy of the lab record submitted 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEMESTER 7 
+ELECTRONICS & COMPUTER 
+ENGINEERING 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S7 
+IMAGE PROCESSING 
+Course Code 
+PEERT 741 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Linear Algebra 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce the fundamental concepts of Digital Image Processing and study the various 
+transforms required for image processing. 
+2. To study spatial and frequency domain image enhancement and image restoration methods. 
+3. To understand image compression and segmentation techniques. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Digital Image Fundamentals: Image representation, Types of images, 
+Elements of DIP system, Basic relationship between pixels, Distance 
+Measures, Simple image formation model. Brightness, contrast, hue, 
+saturation, Mach band effect. Colour image fundamentals-RGB, CMY, HIS 
+models, 2D sampling and quantization. 
+ 
+9  
+2 
+2D Image transforms: DFT, Properties, Walsh transform, Hadamard 
+transform, Haar transform, DCT, KL transform and Singular Value 
+Decomposition.  
+Image 
+Compression: 
+Image 
+compression 
+model, 
+Lossy, 
+lossless 
+compression, Concept of transform coding, JPEG Image compression 
+standard.  
+ 
+9  
+3 
+Image Enhancement: Spatial domain methods: Basic Gray Level 
+Transformations, 
+Histogram 
+Processing, 
+Enhancement 
+Using 
+Arithmetic/Logic Operations, Basics of Spatial Filtering, Smoothing spatial 
+9  
+
+ 
+ 
+Filters, Sharpening spatial Filters.  
+Frequency domain methods: low pass filtering, high pass filtering, 
+homomorphic filtering. 
+4 
+Image Restoration: Degradation model, Inverse filtering- removal of blur 
+caused by uniform linear motion, Minimum Mean Square Error (Wiener) 
+Filtering. 
+Image segmentation: Region based approach, clustering , Segmentation 
+based on thresholding, edge based segmentation, Hough Transform. 
+ 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination- 
+2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand different components of image processing system 
+K2 
+CO2 
+Analyse the various concepts and mathematical transforms necessary for 
+image processing 
+K3 
+CO3 
+Illustrate the various schemes of image compression 
+K3 
+CO4 
+Understand the basic image segmentation techniques  
+K3 
+CO5 
+Analyze the filtering and restoration of images 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Image Processing 
+Gonzalez Rafel C 
+Pearson Education 
+4/e, 2019 
+2 
+Digital Image Processing 
+S Jayaraman, S 
+Esakkirajan, T 
+Veerakumar 
+Tata McGraw Hill 
+Education 
+2009 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+3 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+3 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Image Processing 
+Kenneth R Castleman 
+ 
+Pearson Education 
+ 
+2/e,2003 
+2 
+Fundamentals of digital image 
+processing 
+Anil K Jain 
+PHI 
+1988 
+3 
+Digital Image Processing 
+Pratt William K 
+John Wiley 
+ 
+4/e,2007 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/117/105/117105135 
+2 
+https://archive.nptel.ac.in/courses/106/105/106105216 
+3 
+https://nptel.ac.in/courses/117105079 
+4 
+https://nptel.ac.in/courses/106105032 
+
+ 
+ 
+SEMESTER S7 
+DEEP LEARNING

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "ARM Embedded Systems and ARM Processor Fundamentals: The RISC\ndesign philosophy, ARM design philosophy, embedded system hardware-\nAMBA bus protocol, embedded system software- applications. ARM core\ndata flow model, Registers, CPSR-Processor modes, Banked registers.\nPipeline- Characteristics.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "ARM Instruction Set: Fundamentals of ARM instructions, Barrel shifter,\nClassification and explanation of instructions with examples-Data\nprocessing, Branch, Load-store, SWI and Program Status Register\ninstruction.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to THUMB and ARM Programming: Introduction to\nTHUMB, Differences between ARM and THUMB, Register usage in\nThumb, ARM Thumb Interworking. General Structure of ARM assembly\nmodule, Assembler directives- AREA, ENTRY, END, SPACE, DCD, DCB,\nDCW, DCI, DCQ, EQU, EXPORT, ALIGN, CODE16, CODE32, DATA.\nSimple ALP programs on Arithmetic & logical operations, Factorial, string\noperation, sorting, searching, and Scan",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Exception and Interrupt handling schemes: Exception handling- ARM\nprocessor exceptions and modes, vector table, exception priorities, link\nregister offsets. Interrupts- assigning interrupts, interrupt latency, IRQ and\nFIQ exceptions with example- code for enabling and disabling IRQ and FIQ\nexceptions, Comparison between exception and interrupts. Interrupt handling\nschemes- nested interrupt handler, non-nested interrupt handler. Basic\ninterrupt stack design.",
+    "contact_hours": "9"
+  }
+]

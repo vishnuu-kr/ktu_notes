@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Reinforcement Learning:\nBasic Concepts: Agents, Environments, Rewards, and Policies,\nSingle stage decision making problems: N-Arm Bandit Problem, Simulation\nof N-arm bandit problem, Action-Value Methods, Incremental Implementation,\nepsilon –greed method, Exploration Vs Exploitation, Pursuit algorithm",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Markov Decision Processes (MDPs) and Dynamic Programming (DP):\nDefinition and Properties, Value Functions, Bellman Equations, Policy\nEvaluation, Improvement, Policy Iteration, Value Iteration, Asynchronous DP,\nEfficiency of DP Algorithms.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Monte Carlo Methods and Temporal Difference (TD) Learning:\nMonte Carlo Prediction, Monte Carlo Control, Off-policy Prediction and\nControl, TD Prediction, Q-Learning, SARSA, Eligibility Traces",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Function Approximation and Advanced Topics:\nLinear\nFunction\nApproximation,\nNeural\nNetworks\nfor\nFunction\nApproximation, Deep Q-Networks (DQN), Policy Gradient Methods, Actor-\nCritic Methods, Applications of Reinforcement Learning in Games, Robotics,\nand Other Domains.",
+    "contact_hours": "10"
+  }
+]

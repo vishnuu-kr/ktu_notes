@@ -1,0 +1,318 @@
+Course Code 
+PEITT751 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCITT502: Algorithm 
+Analysis and Design
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce the fundamental concepts of approximation algorithms and their importance in 
+solving NP-hard problems. 
+2. To explore various design techniques used in approximation algorithms, including greedy 
+methods, layering, primal-dual method and semidefinite programming. 
+3. To understand the analysis of approximation algorithms and the concepts of approximation 
+ratio, performance guarantees and inapproximability results. 
+4. To introduce the fundamental concepts of fixed-parameter tractable algorithms and various 
+design techniques used in parameterized complexity to solve NP-hard problems. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours  
+1 
+Module 1: Overview of Computational Complexity and Introduction to 
+Approximation Algorithms 
+Overview 
+of 
+Computational 
+Complexity: 
+Decision 
+problem 
+vs 
+Optimization problem - P, NP, co-NP, NP-Hard, and NP-Complete classes—
+along with their interrelationships- Intractability of NP-Complete problems: 
+Challenges and Importance- Polynomial time reductions- Examples of  NP-
+Complete problems -SAT, 3-SAT, Clique, Vertex Cover. 
+Approaches 
+to 
+solve 
+NP-Complete 
+Problems 
+(Concept 
+only): 
+Approximation algorithms, Exact algorithms, Randomized algorithms, 
+9 
+
+ 
+ 
+Fixed-parameter tractable algorithms. 
+Introduction to Approximation Algorithms: Definition and Motivation- 
+Approximation Ratio: Definition - Basic Techniques : Greedy Algorithms 
+and Local Search.  : Basic Concept, Algorithm and analysis of 
+approximation factor (detailed analysis not required)  of Set Cover problem, 
+Scheduling jobs on identical parallel machines, Travelling Salesman 
+problem, Metric Steiner Tree  problem. 
+2 
+Module 2: Advanced  Techniques for Designing Approximation 
+Algorithms 
+Primal Dual  Schema: Introduction to Linear Programming, Concept of 
+Primal Dual Schema- LP Duality Theorem, Complementary Slackness 
+Theorem. Linear programming formulation of  the Set Cover, Vertex Cover, 
+Minimum Multicut, Multiwaycut and Weighted Vertex Cover Problems - 
+Approximation algorithm for the SET Cover problem - using simple 
+rounding technique and primal dual schema - analysis of approximation 
+factor. 
+Randomized Algorithms: Concept of randomization, Randomized rounding 
+-Set Cover Problem, Randomized algorithm for MAX CUT problem, 
+Derandomization of  MAX CUT algorithm. 
+Semidefinite Programming (SDP) :  Basics of SDP and its relation to LP,  
+Formulating approximation problems using SDP,  SDP-based approximation 
+algorithm and analysis of approximation ratio for the  MAX-CUT problem.  
+9 
+3 
+Module 3: Hardness of Approximation Algorithms 
+Hardness of Approximation: Reductions, gaps, and hardness factors, PCP 
+Theorem, Hardness of MAX-3SAT, Hardness of MAX-3SAT with bounded 
+occurrence of variables, Hardness  of vertex cover and Steiner tree, Hardness 
+of Clique. 
+9 
+4 
+Module 4: Introduction to Parameterized Complexity Theory 
+Introduction to Parameterized Complexity Theory : Parameterized 
+problem-  Definition and Example, Fixed-parameter Tractable (FPT) 
+algorithms - Definition. 
+Design Techniques in Parameterized Complexity : Kernelization- 
+Concept, FPT algorithms for Vertex Cover problem and 3-Hitting set 
+problem, Bounded Search Tree - Concept, FPT algorithms for Vertex Cover 
+problem and Feedback Vertex Set problem, Iterative Compression - 
+Concept, FPT algorithms for Vertex Cover problem. 
+Parameterized Intractability: Parameterized reductions, W-hierarchy. 
+9 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 
+Questions 
+from 
+each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the fundamentals of computational complexity and apply 
+the basic concepts of approximation algorithms to solve NP-hard 
+problems with near-optimal solutions. 
+K3 
+CO2 
+Integrate advanced techniques in approximation algorithms to tackle 
+complex computational problems. 
+K3 
+CO3 
+Analyze the hardness of approximation for various problems.  
+K3 
+CO4 
+Design Fixed-parameter tractable (FPT) algorithms for practically 
+relevant NP-hard problems. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+The Design of Approximation 
+Algorithms 
+David P. Williamson, 
+David B. Shmoys 
+Cambridge 
+University Press 
+1st Edition, 
+2011 
+2 
+Approximation Algorithms 
+Vijay V. Vazirani 
+Springer 
+1st Edition, 
+2001 
+3 
+Parameterized Algorithms 
+Cygan et. al 
+Springer 
+1st Edition, 
+2015 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Randomized Algorithms 
+Rajeev Motwani, 
+Prabhakar Raghavan 
+Cambridge 
+University Press 
+1st Edition, 
+1995 
+2 
+Approximation Algorithms for 
+NP-Hard Problems 
+Dorit Hochbaum 
+PWS Publishing 
+1st Edition, 
+1997 
+3 
+Complexity and Approximation: 
+Combinatorial Optimization 
+Problems and Their 
+Approximability Properties 
+Giorgio Ausiello, 
+Pierluigi Crescenzi, 
+Giorgio Gambosi 
+Springer 
+1st Edition, 
+2003 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc24_cs97 
+2 
+https://onlinecourses.nptel.ac.in/noc20_cs39 
+3 
+https://onlinecourses.nptel.ac.in/noc21_cs92 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+2 
+CO2 
+3 
+3 
+3 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+2 
+2 
+CO3 
+3 
+3 
+3 
+3 
+2 
+2 
+- 
+- 
+- 
+- 
+2 
+2 
+CO4 
+3 
+3 
+3 
+3 
+3 
+2 
+2 
+- 
+- 
+- 
+2 
+3 
+
+ 
+ 
+SEMESTER S7 
+SOFTWARE QUALITY ASSURANCE

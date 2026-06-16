@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Fundamentals: Basic operational concepts, memory locations and\naddresses, instructions and instruction sequencing, instruction set principles\nmodes, classifying instruction set architectures, memory addressing, type and\nsize of operands, operations in the instruction set, instructions for control\nflow, encoding an instruction set, RISC architecture.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Pipelining: Introduction to single cycle and multi cycle processors.\nPipelining- Basic and intermediate concepts, Introduction to pipelining,\npipeline hazards, structural hazards, data hazards, control hazards, pipelining\nimplementation, RISC V integer pipeline to handle multicycle operations.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Memory Organization: Introduction to cache memory, cache mapping,\nblock replacement techniques, cache performance, six basic cache\noptimizations. DRAM memory system organization, basic nomenclature,\nmemory modules, basic DRAM memory access protocol, basic DRAM\ncommands, DRAM controller architecture, row buffer management policy,\nopen page row buffer management policy, close page row buffer\nmanagement policy.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to Parallel Processors:  SISD, MIMD, SIMD, SPMD, and\nvector hardware multithreading, multicore and other shared memory\nmultiprocessors, Case Study: Intel Core i7.",
+    "contact_hours": "9"
+  }
+]

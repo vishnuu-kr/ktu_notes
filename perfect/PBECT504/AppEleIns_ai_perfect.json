@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Review of Sampling",
+            "Z-Transform and DTFT; The Discrete Fourier Transform - DFT as a Linear Transformation",
+            "IDFT",
+            "Properties of DFT and Examples. Circular Convolution",
+            "Linear Convolution using Circular Convolution",
+            "Filtering of Long Data Sequences",
+            "Overlap Save and Overlap Add Methods. Frequency Analysis of Signals using the DFT (Concept Only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Design of FIR Filters - Symmetric and Anti-symmetric FIR Filters",
+            "Design of Linear Phase FIR Filters using Window Methods (Rectangular, Hamming and Hanning); Design of IIR Digital Filters from Analog Filters (Butterworth)",
+            "IIR Filter Design by Impulse Invariance and Bilinear Transformation",
+            "Frequency Transformations in the Analog Domain"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Structures for the Realization of Discrete-Time Systems - Block Diagram and Signal Flow Graph Representations of Filters; FIR Filter Structures - Linear Structures",
+            "Direct Form; IIR Filter Structures - Direct Form",
+            "Transposed Form",
+            "Cascade Form and Parallel Form; Multi-rate Digital Signal Processing - Decimation and Interpolation (Time Domain and Frequency Domain Interpretation)",
+            "Anti-aliasing and Anti-imaging Filter"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Efficient Computation of DFT - Fast Fourier Transform and Computational Advantage over DFT",
+            "Radix-2 Decimation in Time FFT Algorithm; Computer Architecture for Signal Processing - Harvard Architecture",
+            "Pipelining",
+            "Introduction to TMS320C67xx Digital Signal Processor",
+            "Functional Block Diagram; Finite Word Length Effects in DSP Systems - Introduction",
+            "Fixed-point and Floating-point DSP Arithmetic",
+            "ADC Quantization Noise"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

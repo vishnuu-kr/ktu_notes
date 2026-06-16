@@ -1,0 +1,427 @@
+Course Code 
+PECHT635 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min.  
+Prerequisites (if any) 
+PBCHT304 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Impart a solid understanding of the fundamental principles of fluid dynamics through 
+governing equations, turbulence models and boundary conditions. 
+2. Develop the ability to analyze and solve fluid flow problems using numerical techniques. 
+3. Enable proficient use of computational tools to set up, run, and interpret simulations for a 
+variety of fluid flow problems, ensuring application to real-world engineering scenarios and 
+research projects. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction: Need of CFD as an analysis tool, Applications of CFD. CFD 
+software packages and tools. CFD solution procedure: pre-processing, 
+numerical solution – CFD solver, post-processing. Classification of partial 
+differential equations (PDE) and boundary conditions: well-posed problems. 
+Review of governing equations: Continuity equation, Momentum equation, 
+Energy equation, Navier – Stokes equation, generic form of governing 
+equations.   
+9 
+2 
+Basic concepts of CFD: Introduction to discretization, Finite difference 
+approximation of a derivative, discretization of differential equations using 
+finite differences, consistency, convergence and stability (concepts alone), 
+concept of explicit and implicit methods, Crank Nicholson scheme (FTCS 
+only). 
+9 
+
+ 
+3 
+Finite Volume Discretization: Diffusion problem, convection-diffusion 
+problem, properties of discretization schemes – conservativeness, 
+boundedness, transportiveness. Solution to discretized equations: TDMA, 
+Jacobi, Gauss-Seidel, Gauss elimination methods. 
+Detailed study of Navier stokes Equation-Solution of the Navier Stokes 
+Equations. Grid arrangement-collocated and staggered grid. SIMPLE 
+algorithm. 
+9 
+4 
+Turbulence modelling: Need for turbulence modelling. Closure problem. 
+Reynolds averaged Navier Stokes equation. Turbulence modelling. 
+Multiphase flow modelling in CFD: Classification of multiphase flow, 
+Industrial examples, Examples for multiphase reactors, Multiphase flow 
+modelling approaches Eulerian-Lagrangian approach, Eulerian – Eulerian 
+Approach, Volume of fluid approach. 
+9 
+ 
+Suggestions on Project Topics 
+Assignment/Project: 20 Marks 
+Students should evaluate and analyze a real-world problem, assess the proposed solutions, 
+provide a conclusion on which solution is most appropriate for the problem, and implement 
+the chosen solution using any computational tools like ANSYS, Open Foam, Matlab etc. 
+Level: Analyze 
+1. Problem Definition and Decomposition: 
+ Clarity and Completeness (2 points): Evaluate the clarity and completeness of the 
+problem definition. Are the objectives well-defined? Is the problem broken down into 
+manageable sub-problems? 
+ 
+Identification of Key Parameters (2 points): Assess the identification and justification of 
+key parameters influencing the fluid dynamics problem. Are all relevant variables and 
+boundary conditions considered? 
+2. Analytical Approach: 
+ 
+Methodological Soundness (1 points): Evaluate the soundness of the chosen analytical 
+methods. Are the equations and principles correctly applied to the problem? 
+ 
+Critical Analysis (1 points): Assess the depth of critical analysis in the approach. Are 
+assumptions and limitations clearly stated and justified? 
+ 
+
+ 
+3. Data Interpretation: 
+ 
+Accuracy and Consistency (2 points): Evaluate the accuracy and consistency of the data 
+interpretation. Are the results logically derived from the data? 
+ 
+Comparison with Theoretical Predictions (2 points): Assess how well the results are 
+compared with theoretical predictions or existing literature. Are discrepancies analyzed 
+and explained? 
+Level: Evaluate 
+1. Simulation Setup and Execution: 
+ 
+Appropriateness of CFD Tool (1 point): Evaluate the appropriateness of the chosen CFD 
+tool for the problem at hand. Is the tool well-suited to model the specific fluid dynamics 
+scenario? 
+ 
+Simulation Accuracy and Robustness (2 points): Assess the accuracy and robustness of 
+the simulation setup. Are the mesh, time steps, and convergence criteria appropriately 
+chosen? 
+2. Results Validation: 
+ 
+Validation against Experimental Data (1 point): Evaluate the extent and rigor of 
+validation against experimental or benchmark data. Are the validation methods 
+appropriate and convincingly presented? 
+ 
+Error Analysis (1 point): Assess the thoroughness of error analysis. Are sources of error 
+identified and quantified? Are their impacts on the results discussed? 
+3. Conclusions and Recommendations: 
+ 
+Logical Consistency (1 point): Evaluate the logical consistency of the conclusions drawn 
+from the analysis and simulation results. Are the conclusions supported by the data? 
+ 
+Practical Implications and Recommendations (1 point): Assess the practical 
+implications and recommendations based on the findings. Are the recommendations 
+feasible and well-grounded in the analysis? 
+4. Presentation and Communication: 
+ 
+Clarity and Organization (1 point): Evaluate the clarity and organization of the project 
+report or presentation. Is the information logically structured and easy to follow? 
+ 
+Technical Writing and Visual Aids (2 points): Assess the quality of technical writing 
+and the effectiveness of visual aids (graphs, charts, simulations). Are complex concepts 
+clearly explained and visually supported? 
+ 
+ 
+ 
+ 
+
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part A 
+Part B 
+Total 
+ 2 
+Questions 
+from 
+each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply fundamental knowledge of science and engineering to solve 
+practical problems. 
+K3 
+CO2 
+Identify the proficiency in solving basic fluid flow problems, including 
+mesh generation, boundary conditions, and post-processing. 
+K3 
+CO3 
+Analyze and compare the performance of different numerical schemes 
+for solving fluid flow equations, considering accuracy, stability, and 
+computational efficiency. 
+K4 
+CO4 
+Critically analyze and evaluate different turbulence models and their 
+applicability to various flow regimes and demonstrate a deep 
+understanding of turbulence theory. 
+K5 
+CO5 
+Estimate advanced multiphase flow modeling techniques in CFD to 
+simulate and optimize processes involving gas-liquid or solid-liquid 
+interactions, demonstrating a deep understanding of interfacial 
+phenomena. 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+3 
+ 
+3 
+CO4
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+3 
+ 
+3 
+CO5
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+3 
+ 
+3 
+
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computational Fluid Dynamics 
+– The basics with applications 
+John D Anderson 
+McGraw Hill 
+Indian 
+Edition 
+2017 
+2 
+An Introduction to 
+Computational Fluid 
+Dynamics: The Finite Volume 
+Method 
+H Versteeg, M 
+Malalasekra 
+Pearson 
+2nd Edition 
+2008 
+3 
+Numerical Heat Transfer and 
+Fluid Flow 
+Suhas V Patankar 
+CRC Press 
+Special 
+Indian 
+Edition, 
+2017 
+4 
+Computational Fluid 
+Mechanics and Heat transfer 
+Anderson, D. A; 
+Tarmeheil 
+CRC Press 
+Special 
+Indian 
+Edition, 
+2016 
+5 
+Computational methods for 
+Fluid Mechanics 
+Ferziger, J. H and Peric, 
+M 
+Springer 
+4th Edition 
+2019 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Computational Fluid flow and 
+Heat transfer 
+K Muralidhar and 
+Sundararajan 
+Narosa 
+1st Edition 
+2009 
+2 
+Introduction to Computational 
+Fluid Dynamics 
+Pradeep Niyogi, S K 
+Chakrabarthy 
+Pearson 
+1st Edition  
+2005 
+3 
+Computational Fluid Dynamics 
+for Engineers and Scientists 
+Sreenivas Jayanti 
+Springer 
+1st Edition 
+2018 
+ 
+ 
+ 
+ 
+
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+https://onlinecourses.nptel.ac.in/noc20_ch05/preview 
+2 
+https://onlinecourses.nptel.ac.in/noc20_ch05/preview 
+3 
+https://onlinecourses.nptel.ac.in/noc20_ch05/preview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+SEMESTER S6 
+PROCESS DYNAMICS AND CONTROL

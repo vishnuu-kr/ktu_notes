@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Image perception - Image Perception-Light, Luminance, Brightness\nand Contrast, Simultaneous Contrast, Mach Bands-monochrome\nvision models - color vision model - Image sampling and quantization\n-Two-dimensional sampling theory Representing Digital Images,\nBasic relationship between pixels",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Image transforms -Two-dimensional orthogonal and Unitary\nTransforms, Properties of Unitary Transforms,2D-DFT, cosine, sine,\nproperties, Haar and Hadamard Transform.\nImage Enhancement in the Spatial Domain: Point Operations,\nContrast Stretching, Clipping and Thresholding, Digital Negative,\nIntensity Level Slicing, Bit Extraction",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Histogram modeling, histogram equalization- modification. Spatial\noperations - smoothing techniques. Magnification and interpolation.\nFrequency Domain methods - low pass filtering, high pass filtering,\nhomomorphic filtering-Image restoration- inverse filtering, Wiener\nfiltering. Image Analysis: Edge Detection-Gradient Operators, Laplace\nOperators and Zero Crossings.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Boundary\nRepresentation–Chain\nCodes.\nBoundary\nExtraction-\nConnectivity, Contour Following-Image Segmentation-Amplitude\nThresholding or Window Slicing, Component Labelling, Boundary\nbased Approaches, Region-based Approaches and Clustering.\nSuggestion on Project Topics\n●\nStudents should do a literature review and present various applications of image processing\ntechniques on biomedical images\n●\nIdentify and summarize key applications, advancements, and challenges associated with each\ntechnique.\n●\nBased on the literature review, choose one image processing technique that can be applied to\nmedical images.\n●\nJustify the selection by explaining its relevance and potential impact on biomedical imaging.\nTechniques to Choose From:\nImage Segmentation: Techniques such as thresholding, region-based segmentation, and\nedge detection.\nImage Enhancement: Methods like histogram equalization, contrast adjustment, and noise\nreduction.\nImage Reconstruction: Methods for reconstructing images from raw data, including CT\nand MRI reconstruction algorithms.\nFeature Extraction: Techniques for identifying and extracting significant features from\nimages, such as texture analysis and morphological operations.\n●\nImplement the selected image processing technique on a set of medical images using Matlab,\nPython, or C++.\n●\nDevelop a codebase that accurately applies the chosen technique to biomedical images.\n●\nCollaborate in teams to document the entire process, from literature review to\nimplementation.\n●\nPrepare a comprehensive project report detailing the methodology, implementation steps,\nresults, and conclusions.\n●\nPresent the project and findings to the class, highlighting the technique's effectiveness and\npotential applications in medical imaging.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Large Language Models: An Introduction :-\nIntroduction, Natural Language, NLP and Language Models Evolution, The\nEra of Large Language Models, Large Language Models in Practice.\nLanguage Models Pre-training :–\nEncoder-Decoder Architecture, Attention Mechanism, Transformers, Data,\nPre-trained LLM Design Choices, Commonly Used Pre-trained LLMs\n(BERT, T5, GPT, Mixtral 8x7B).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Prompt-Based Learning :–\nIntroduction, Basics of Prompt-based Learning, Prompt Engineering,\nAnswer Engineering, Multi-Prompt Inference.\nLLM Adaptation and Utilization :–\nIntroduction,\nInstruction\nTuning,\nParameter-Efficient\nFine-Tuning,\nCompute-Efficient Fine-Tuning, End-User Prompting.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Tuning for LLM Alignment :–\nAlignment Tuning, The Reinforcement Learning Framework, Mapping the\nRL Framework to LLMs with Human Feedback, Evolution of RLHF,\nOvercoming RLHF Challenges.\nLLM Challenges and Solutions :–\nHallucination, Bias and Fairness, Toxicity, Privacy.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Retrieval-Augmented Generation :–\nIntroduction, Basics of RAG, Optimizing RAG, Enhancing RAG, Evaluating\nRAG Applications.\nLLMs in Production :–\nIntroduction, LLM Applications, LLM Evaluation Metrics, LLM Benchmark\nDatasets, LLM Selection, Tooling for Application Development, Inference,\nLLMOps.",
+    "contact_hours": "9"
+  }
+]

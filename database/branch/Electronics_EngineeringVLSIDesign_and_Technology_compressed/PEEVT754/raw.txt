@@ -1,0 +1,2090 @@
+Course Code 
+PEEVT754 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Linear Algebra and Calculus, 
+Probability, Random Process 
+and Numerical Methods, 
+Signals and Systems.
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To lay down the foundation of information theory introducing both source coding and channel 
+coding 
+2. To expose students to algebraic and probabilistic error-control codes that are used for reliable 
+transmission 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Entropy, Properties of Entropy, Joint and Conditional Entropy, Mutual 
+Information, Properties of Mutual Information. 
+Discrete memoryless sources, Source code, Average length of source code, 
+Bounds on average length, Uniquely decodable and prefix-free source codes. 
+Kraft Inequality (with proof), Huffman code. Shannon’s source coding 
+theorem (both achievability and converse) and operational meaning of 
+entropy. 
+9 
+2 
+Discrete memoryless channels. Capacity of discrete memoryless channels. 
+Binary symmetric channels (BSC), Binary Erasure channels (BEC). Capacity 
+of BSC and BEC. Channel code. Rate of channel code. Shannon’s channel 
+coding theorem (both achievability and converse without proof) and 
+operational meaning of channel capacity. 
+Modeling of Additive White Gaussian channels. Continuous-input channels 
+with average power constraint. Differential entropy. Differential Entropy of 
+Gaussian random variable. Relation between differential entropy and 
+entropy. Shannon-Hartley theorem (with proof – mathematical subtlities 
+9 
+
+ 
+regarding power constraint may be overlooked). 
+Inferences from Shannon Hartley theorem – spectral efficiency versus SNR 
+per bit, power-limited and bandwidth-limited regions, Shannon limit, 
+Ultimate Shannon limit. 
+3 
+Overview of Groups, Rings, Finite Fields, Construction of Finite Fields from 
+Polynomial rings, Vector spaces. 
+Block codes and parameters. Error detecting and correcting capability. 
+Linear block codes. Two simple examples -- Repetition code and single 
+parity-check code. Generator and parity-check matrix. Systematic form. 
+Maximum likelihood decoding of linear block codes. Bounded distance 
+decoding. Syndrome. Standard array decoding. 
+9 
+4 
+Cyclic codes. Polynomial and matrix description. Interrelation between 
+polynomial and matrix view point. Systematic encoding. Decoding of cyclic 
+codes. (Only description, no decoding algorithms) Hamming Codes, BCH 
+codes, Reed-Solomon Codes 
+Convolutional Codes. State diagram. Trellis diagram. Maximum likelihood 
+decoding. Viterbi algorithm. 
+Low-density parity check (LDPC) codes. Tanner graph representation. 
+Message-passing decoding for transmission over binary erasure channel. 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain measures of information – entropy, conditional entropy, 
+mutual information 
+K2 
+CO2 
+Apply Shannon’s source coding theorem and channel capacity for data 
+compression. 
+K3 
+CO3 
+Apply linear block codes for error detection and correction 
+K3 
+CO4 
+Apply algebraic codes with reduced structural complexity for error 
+correction 
+K3 
+CO5 
+Understand encoding and decoding of convolutional and LDPC codes 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Elements 
+of 
+Information 
+Theory. 
+Joy A Thomas, Thomas 
+M Cover, 
+Wiley-Interscience 
+1st 
+2 
+Digital 
+Communication 
+Sysmtes  
+Simon Haykin,  
+Wiley. 
+2nd 
+3 
+Principles 
+of 
+digital 
+communication  
+RG Gallager 
+Cambridge University 
+Press 
+2010 
+4 
+Information Theory, Inference 
+and Learning Algorithms”, ,  
+David JC McKay 
+Cambridge University 
+Press 
+1st 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Modern Coding Theory 
+Rüdiger Urbanke and TJ 
+Richardson
+Cambdridge 
+University Press
+1st 
+2 
+Error 
+Control 
+Coding: 
+Fundamentals 
+and 
+Applications, 
+Shu Lin & Daniel J. 
+Costello. Jr., 
+Wiley 
+2nd 
+Edition. 
+3 
+Introduction to Coding Theory  
+Ron M Roth 
+Cambrdige University 
+Press
+1st 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+2 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+3 
+2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+3 
+2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/117101053 
+2 
+https://nptel.ac.in/courses/117108097 
+3 
+https://archive.nptel.ac.in/noc/courses/noc18/SEM2/noc18-ee39/ 
+4 
+https://archive.nptel.ac.in/courses/117/104/117104120/ 
+
+ 
+SEMESTER S7 
+OPTOELECTRONIC DEVICES 
+ 
+Course Code 
+PEEVT 756 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type
+Theory 
+ 
+Course Objectives: 
+1. To provide an insight over the working principles and performance parameters of 
+various optoelectronics devices used for optical networks and communication 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Fundamentals of Semiconductor Optoelectronics Optical processes in 
+semiconductors: electron-hole generation and recombination, Absorption, 
+Auger 
+recombination, 
+Heat 
+generation 
+and 
+dissipation, 
+Heat 
+sources.Various light production mechanisms,Indirect band gap materials, 
+Semiconductors used for optical Applications, Basic principle of LED and 
+LASER, Spontaneous emission and Stimulated Emission, Coherence of 
+sources. 
+9 
+2 
+Optical Sources Construction and Operation of LEDs, Heterojunctios, 
+Surface Emitter and Edge Emitter LEDs, Characteristics of LEDs, LASERs, 
+Threshold Condition for lasing, Line Broadening Mechanisms, Fabry-Perot 
+Lasers, 
+Distributed 
+Feedback(DFB) 
+Lasers, 
+Distributed 
+Bragg 
+Reflector(DBR) Lasers, Vertical Cavity Surface Emitting Lasers (VCSELs), 
+In-Fibre Lasers. 
+9 
+
+ 
+3 
+Optical Detectors Principle of Photo Detection,Working of LDR, PN 
+diode, PIN diode, Avalanche Photodiode (APD), Characteristics of APD, 
+Resonant Cavity Photo detector, Photo Transistor, Quantum efficiency, 
+Responsivity, Noise in Photo detectors, Thermal Noise, Dark Current, Shot 
+Noise, Quantum limit of Optical Detection. 
+9 
+4 
+Optoelectronic Devices and Modulator Optoelectronic ICs, Advantages, 
+Liquid Crystal Display, Structure, TFT display, Structure, Polymer LED, 
+Organic LED, Optical Modulators using PN junction, Electro-Optic 
+Modulators, Acousto-Optic Modulators, Raman-Nath Modulators, Optical 
+switching and Logic devices,Optical Memory. 
+Solar Cells: basic working principle, VI Characteristics, Different types of 
+solar cells, Dye sensitized solar cells (DSSC), Perovskite Solar cells. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal Examination-
+2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 3 sub divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+
+ 
+ 
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 Understand physics of optical processes in semiconductors.  
+K2 
+CO2 Distinguish different optical sources used in optoelectronic applications.  
+K3 
+CO3 
+Analyse different types of photo detectors based on their performance 
+parameters  
+K3 
+CO4 Explain various optical modulators and optoelectronic devices.  
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Fundamentals of Light Sources 
+and Lasers 
+Mark Csele, 
+Wiley-Interscience, 
+2004 
+2 
+  Solid State Lasers 
+W.Koechner,M.Bass 
+Springer, 
+2003 
+3 
+Photonics Optical Electronics in 
+modern communication 
+Yariv, 
+Oxford University 
+Press, 
+6/e , 2006. 
+ 
+4 
+Understanding 
+Optical 
+Communications, 
+Harry J R Dutton 
+IBM 
+1/e 1998 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+ 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+ 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Organic Light-Emitting Diodes,  
+ 
+Alastair Buckley 
+Woodhead, 
+2013 
+6, 
+2 
+Solar Cell Device Physics 
+Stephen J Fonash 
+Elsevier 
+2/e, 2010 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No.
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/113/104/113104012/ 
+2 
+https://archive.nptel.ac.in/courses/115/102/115102026/ 
+3 
+https://www.youtube.com/watch?v=WWjldCmRteg 
+4 
+https://archive.nptel.ac.in/courses/113/106/113106065/ 
+ 
+
+ 
+SEMESTER S7 
+VLSI ARCHITECTURES FOR DSP  
+ 
+Course Code 
+PEEVT 757 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+VLSI 
+Course Type
+Theory 
+ 
+Course Objectives: 
+1. Equip students with the ability to represent DSP algorithm Representations and Techniques 
+2. Develop student’s proficiency in designing and implementing pipelined and parallel 
+processing structures for DSP applications 
+3. Enable students to apply retiming and transformation techniques: 
+4. Train students to analyze and compute scaling and round-off noise in digital filters. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Representations of DSP algorithms - Block Diagram, Signal Flow Graph, 
+Data Flow Graph, Dependence Graph. Loop Bound & Iteration Bound, 
+Definition, Examples, Algorithms for Computing Iteration Bound – Longest 
+Path Matrix Algorithm, Minimum Cycle Mean Algorithm, Iteration Bound 
+of Multirate Data-Flow Graphs. 
+9 
+2 
+Pipelining and Parallel Processing - Pipelining of FIR Digital Filters, Data-
+Broadcast Structures, Fine-Grain Pipelining. Parallel Processing, Pipelining, 
+and Parallel Processing for Low Power.  
+Retiming: Definition and Properties, Solving System of Inequalities, 
+Retiming Techniques- Cutset Retiming and Pipelining, Retiming for Clock 
+Period Minimization, Retiming for Register Minimization 
+9 
+
+ 
+3 
+Unfolding: Properties of Unfolding, Critical Path, Unfolding and Retiming, 
+Application of Unfolding, Sample Period Reduction, Parallel Processing. 
+Folding: Introduction to Folding Transformation, Register Minimization 
+Techniques, Register Minimization in Folded Architectures, Folding in 
+Multirate Systems. 
+9 
+4 
+Scaling and round off noise – scaling and round off noise, state variable 
+description of digital filters, scaling and round off noise computation, round 
+off noise in pipelined IIR filters, Round off noise omputation using state 
+variable description, slow down, retiming and pipelining 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each module. 
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out of 
+which 1 question should be answered.  
+● Each question can have a maximum of 3 sub divisions. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Represent DSP algorithms using block diagrams, signal flow graphs, 
+data flow graphs, and dependence graphs, and analyze iteration 
+bounds using relevant algorithms. 
+K3 
+CO2 
+Demonstrate the ability to design, implement, and optimize pipelined 
+and parallel processing structures for DSP systems, including FIR 
+digital filters and data broadcast structures, focusing on low-power 
+solutions. 
+K4 
+CO3 
+Apply retiming techniques to minimize clock periods and registers 
+and use unfolding and folding transformations to optimize DSP 
+architectures. 
+K6 
+CO4 
+Become Proficient in evaluating and mitigating scaling and round-off 
+noise in digital filters, particularly in pipelined IIR filters, using state 
+variable descriptions and related computation techniques. 
+K5 
+CO5 
+Design efficient DSP architectures by integrating knowledge of 
+algorithm representations, pipelining, parallel processing, retiming, 
+and noise mitigation techniques. 
+K6 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3 
+2 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+3 
+2 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+2 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+2 
+3 
+2 
+3 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+VLSI DSP Systems- Design and 
+Implementation 
+Keshab K Parhi 
+John Wiley 
+1st Edn 1999. 
+2 
+Digital 
+Signal 
+processing 
+for 
+multimedia systems 
+Keshab K Parhi and Takao 
+Nishitami 
+CRC press 
+2018 
+3 
+Digital Signal Processing with Field 
+Programmable Gate Arrays 
+Uwe Meyer-Baese 
+Springer 
+4th Edn, 2014 
+4 
+VLSI 
+Design 
+Methodology 
+Development 
+Thomas Dillinger 
+Prentice Hall 
+1st Edn 1998 
+5 
+Advanced Digital Signal Processing 
+and Noise Reduction
+Saeed V. Vaseghi 
+Wiley 
+4th Edn 2008 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Understanding digital signal 
+processing 
+Richard G Lyons 
+Pearson Education 
+India 
+3,1997 
+2 
+DSP Integrated Circuits  
+Lars Wanhammar 
+Academic Press 
+1st Edn 1999 
+ 
+3 
+Digital Filter Design 
+T. W. Parks and            C. 
+S. Burrus 
+Wiley-Interscience 
+1st Edn 1987 
+ 
+4 
+Architectures 
+for 
+Digital 
+Signal Processing 
+Peter Pirsch 
+John Wiley & Sons 
+1st Edn 1998 
+5 
+CMOS 
+VLSI 
+Design: 
+A 
+Circuits 
+and 
+Systems 
+Perspective 
+ 
+Neil H. E. Weste and David 
+Harris 
+Pearson 
+ 
+4th Edn 2010 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc20_ee44/preview 
+2 
+https://www.youtube.com/playlist?list=PLT1QAv48lhQKwFZ0TkqpJaUm2LeW9226z 
+
+ 
+SEMESTER 7 
+AI AND ML FOR VLSI CAD 
+Course Code 
+PEEVT 758 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Machine Learning 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide students with a comprehensive understanding of the applications of Artificial 
+Intelligence and Machine Learning in VLSI CAD. 
+2. To introduce students to the concept of Compact Process Models (CPM) in lithographic 
+patterning, enabling them to develop and train machine learning models for accurate 
+representation and optimization of the lithographic process. 
+3. To equip students with the skills to apply machine learning algorithms for various aspects of 
+physical design, mask synthesis, and physical verification in VLSI, focusing on enhancing 
+efficiency, accuracy, and automation. 
+4. To train students in using machine learning techniques for yield estimation, reliability 
+analysis, and testing in high-volume VLSI manufacturing, improving process optimization, 
+and reliability prediction. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to AI and ML in VLSI CAD: Overview of AI and ML 
+applications in VLSI CAD, Unsupervised, Supervised, and Semisupervised 
+Learning, 
+Introduction 
+to 
+neural 
+networks 
+and 
+decision 
+trees
+Introduction to VLSI Design Methodologies: VLSI Design Cycle - 
+Physical Design Cycle - Design Styles and comparison of different Design 
+Styles, Fabrication of VLSI Circuits. 
+Machine Learning for Compact Lithographic Process Models: 
+Introduction, 
+Lithographic 
+Patterning 
+Process, 
+Representation 
+of 
+Lithographic Patterning Process – Mask, Imaging, Resist & Etch Transfer 
+Function, Compact process model machine learning problem statement, 
+CPM Task, CPM Training Experience, Performance metrics, Supervised 
+9 
+
+ 
+learning of a CPM 
+2 
+Neural Network Compact Patterning Models: Neural Network Mask 
+Transfer Function, Neural Network Image Transfer Function, Neural 
+Network Resist Transfer Function, Neural Network Etch Transfer Function 
+Machine Learning for Mask Synthesis Introduction, Machine Learning 
+guided OPC, MLP Construction, ML-EPC, EPC Algorithm  
+Machine Learning in Physical Verification Introduction, Machine 
+Learning in Physical Verification – layout feature extraction & encoding, 
+models for hotspot detection. 
+9 
+3 
+Machine Learning in Mask Synthesis and Physical Design: Machine 
+Learning in Mask Synthesis – mask synthesis flow, Machine Learning for 
+sub-resolution assist features, Machine Learning for optical proximity 
+correction. Machine Learning in Physical Design - for datapath placement, 
+routability driven placement, clock optimization, lithography friendly routing 
+Machine Learning for Manufacturing: Gaussian Process-Based Wafer-
+Level Correlation Modeling and Its Applications 
+9 
+4 
+Machine Learning for Yield and Reliability: High-volume manufacturing 
+yield estimation – Histogram with random sampling, Histogram with GPST-
+PS, Kernel density estimation. Machine learning-based aging analysis.  
+Learning-Based VLSI Test and Verification: VLSI Testing Process, Off-
+Chip Testing, On-Chip Testing, Combinational Circuit Testing, Sequential 
+Circuit Testing, Advantages of VLSI Testing, Machine Learning's 
+Advantages in VLSI Design, Ease in the Verification Process, Time-Saving, 
+3Ps (Power, Performance, Price), Electronic Design Automation, System-
+Level Design, Logic Synthesis and Physical Design, Test, Diagnosis, and 
+Validation, Verification, Challenges 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply AI and ML concepts to VLSI CAD problems 
+K3 
+CO2 
+Develop and train machine learning models for lithographic process 
+modeling 
+K6 
+CO3 
+Implement machine learning algorithms for physical design automation 
+and verification
+K3 
+CO4 
+Analyze machine learning-based solutions for yield estimation and 
+reliability in VLSI manufacturing 
+K4 
+CO5 
+Evaluate the effectiveness of AI/ML techniques in VLSI testing and 
+verification
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+2 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+CO3 
+3 
+2 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+CO4 
+3 
+2 
+1 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+CO5 
+3 
+2 
+1 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Joobbani, R. An Artificial 
+Intelligence Approach to VLSI 
+Routing.  
+Joobbani, R. 
+Springer Science & 
+Business Media 
+2012 
+2 
+VLSI 
+Physical 
+Design 
+Automation.  
+Sait, Sadiq. 
+ 
+World Scientific, 
+ 
+1999 
+3 
+Machine Learning in VLSI 
+Computer-Aided Design. 
+Elfadel, Ibrahim. 
+Springer, 
+ 
+2019 
+4 
+VLSI Physical Design: From 
+Graph Partitioning to Timing 
+Closure.
+Kahng, Andrew. 
+Springer Nature 
+2022 
+5 
+Machine Learning Applications 
+in 
+Electronic 
+Design 
+Automation.
+Ren, Haoxing. 
+ 
+Springer Nature 
+2023 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Layout Optimization in VLSI 
+Design.  
+Lu, Bing. 
+Springer Science & 
+Business Media 
+2001 
+2 
+Machine Learning for VLSI Chip 
+Design 
+Abhishek Kumar, Suman 
+Lata Tripathi and  K 
+Srinivasa Rao 
+John Wiley & Sons 
+2023 
+ 
+
+ 
+SEMESTER S7 
+ADVANCED VLSI ARCHITECTURES FOR DSP 
+ 
+Course Code 
+PEEVT 755 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2Hrs.30 Min. 
+Prerequisites (if any) 
+VLSI 
+ 
+ 
+ 
+Course Objectives: 
+1. Equip students with the knowledge of pipelining and parallel processing techniques 
+2. Enable students to comprehend and apply retiming and unfolding techniques for system 
+optimization. 
+3. Develop the ability to implement and analyze fast convolution algorithms and advanced 
+filtering methods. 
+4. Train students to design and optimize bit-level arithmetic architectures, focusing on efficiency 
+and noise reduction. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Pipelining and Parallel Processing - Pipelining of FIR Digital Filters, Data-
+Broadcast Structures, Fine-Grain Pipelining. Parallel Processing, Pipelining, 
+and Parallel Processing for Low Power.  
+Retiming: Definition and Properties, Solving System of Inequalities, 
+Retiming Techniques- Cutset Retiming and Pipelining, Retiming for Clock 
+Period Minimization, Retiming for Register Minimization 
+9 
+2 
+Unfolding: Properties of Unfolding, Critical Path, Unfolding and Retiming, 
+Application of Unfolding, Sample Period Reduction, Parallel Processing. 
+Folding: Introduction to Folding Transformation, Register Minimization 
+Techniques, Register Minimization in Folded Architectures, Folding in 
+Multirate Systems. 
+9 
+3 
+Fast convolution – Cook Toom Algorithm, Winograd Algorithm, Iterated 
+convolution, Cyclic convolution 
+9 
+
+ 
+Algorithmic strength reduction in filters and transforms- Parallel FIR filters, 
+DCT and IDCT, Pipelined and parallel recursive and adaptive filters- 
+pipeline interleaving in Digital filters, Pipelining in IIR digital filters, 
+Parallel processing for IIR filters, Low power IIR filter design using 
+pipelining and parallel processing. 
+4 
+Digital lattice filter structures- Schur algorithm, Digital basic lattice filters, 
+Derivation of one multiplier Lattice filter, Derivation of scaled-normalized 
+lattice filter, Round off noise calculation in Lattice filters. 
+Bit level arithmetic architectures- parallel multipliers, interleaved floor plan 
+and bit plane based digital filters, bit serial filter design and implementation, 
+Canonic signed digital arithmetic. 
+9 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Evaluation Methods: 
+1: Practical Experiments Using Design and Analysis Tools (10 marks) 
+Students will perform specific experiments using tools like MATLAB/Simulink, 
+Cadence Virtuoso, Xilinx Vivado Design Suite, or Synopsys Design Compiler. Each 
+experiment will focus on implementing and analyzing different DSP architectures and 
+techniques. 
+2: Course Project (10 marks) 
+Comprehensive project involving design, implementation, and analysis of different 
+DSP architectures models. Project phases: Proposal, Design, Implementation, Testing, 
+Final Report, Presentation, and Viva Voce. 
+Sample Experiments: 
+Experiment 1: Design and simulate a pipelined FIR filter. 
+ 
+Objective: Understand the impact of pipelining on the performance and power consumption 
+of FIR filters. 
+ 
+Tools Used: MATLAB/Simulink 
+ 
+Steps Involved: 
+ 
+Define the FIR filter specifications (filter order, cutoff frequency). 
+
+ 
+ 
+Design the FIR filter using MATLAB. 
+ 
+Implement the filter in Simulink and add pipelining stages. 
+ 
+Simulate the filter and compare performance metrics (latency, power consumption) 
+with and without pipelining. 
+ 
+Analyze and document the results. 
+Experiment 2: Design an unfolded DSP system to reduce the critical path. 
+ 
+Objective: Learn how unfolding can reduce the critical path and enhance system throughput. 
+ 
+Tools Used: MATLAB/Simulink 
+ 
+Steps Involved: 
+ 
+Select a DSP algorithm (e.g., FIR filter). 
+ 
+Implement the algorithm in MATLAB. 
+ 
+Apply unfolding techniques to the algorithm. 
+ 
+Simulate the original and unfolded designs in Simulink. 
+ 
+Compare critical paths and document the performance improvements. 
+Experiment 3: Design and simulate the Winograd convolution algorithm. 
+ 
+Objective: Demonstrate the computational benefits of the Winograd algorithm over 
+conventional methods. 
+ 
+Tools Used: Xilinx Vivado 
+ 
+Steps Involved: 
+ 
+Study the Winograd algorithm theory. 
+ 
+Implement the algorithm in HDL. 
+ 
+Simulate the design in Vivado. 
+ 
+Compare the computational efficiency with conventional convolution methods. 
+ 
+Document the findings. 
+Experiment 4: Implement a scaled-normalized lattice filter and analyze noise reduction 
+techniques. 
+ 
+Objective: Evaluate round-off noise reduction in digital lattice filters. 
+ 
+Tools Used: Cadence Virtuoso 
+ 
+Steps Involved: 
+ 
+Design a lattice filter in HDL. 
+ 
+Implement the design in Cadence Virtuoso. 
+ 
+Apply scaled-normalized techniques for noise reduction. 
+ 
+Simulate the filter and analyze round-off noise. 
+ 
+Document the noise reduction results. 
+
+ 
+Sample Project Topics: 
+1. Design a low-power parallel processing architecture for a DSP application 
+2. Apply retiming to minimize the clock period of a digital circuit 
+3. Optimize the register usage in digital circuits through retiming. 
+4. Apply unfolding techniques to reduce the sample period of a digital filter. 
+5. Implement a folded architecture for a multirate system focusing on register minimization. 
+6. Apply folding transformations and understand their impact on hardware resource optimization 
+7. Analyze the efficiency of the Cook-Toom algorithm compared to standard convolution 
+methods 
+8. Design and implement a parallel FIR filter using algorithmic strength reduction techniques. 
+9. Implement a pipelined recursive filter using algorithmic strength reduction. 
+10. Design and simulate a digital lattice filter with one multiplier. 
+11. Design and implement a parallel multiplier architecture and evaluate their performance and 
+efficiency. 
+12. Implement a bit-serial filter design for understanding the trade-offs between hardware 
+complexity and performance in bit-serial designs. 
+Criteria for Evaluation: Lab Experiments (10 marks) 
+Understanding of Concepts (3 marks) 
+ 
+Demonstrates a thorough understanding of the theoretical concepts related to the experiments. 
+ 
+Correctly explains the purpose and expected outcomes. 
+Implementation and Accuracy (3 marks) 
+ 
+Correctly implements the DSP architectures using appropriate tools. 
+ 
+Ensures the design functions as expected with minimal errors. 
+Analysis and Problem-Solving (2 marks) 
+ 
+Effectively analyzes the model performance and identifies issues. 
+ 
+Demonstrates problem-solving skills in addressing challenges encountered during experiments. 
+Documentation and Reporting (1 mark) 
+ 
+Provides detailed documentation of the experimental setup, process, and outcomes. 
+ 
+Includes visualizations, code snippets, and analysis of results. 
+
+ 
+Presentation and Communication (1 mark) 
+ 
+Clearly presents the experiments and their results. 
+ 
+Able to answer questions and explain design choices. 
+Course Project (10 marks) 
+Project Proposal and Planning (2 marks) 
+ 
+Submits a well-defined project proposal outlining objectives, methodology, and expected 
+outcomes. 
+ 
+Demonstrates thorough planning and a clear timeline for the project. 
+Design and Implementation (3 marks) 
+ 
+Implements the project design accurately using appropriate tools and techniques. 
+ 
+The design is functional and meets the project objectives. 
+Innovation and Creativity (2 marks) 
+ 
+Introduces innovative ideas or unique approaches in the design and implementation. 
+ 
+Demonstrates creativity in solving problems or optimizing designs. 
+Analysis and Testing (2 marks) 
+ 
+Effectively analyzes the project design to identify and address any issues. 
+ 
+Conducts thorough testing to verify the functionality and performance of the model. 
+Final Report and Presentation (1 mark) 
+ 
+Submits a comprehensive final report detailing the project, including objectives, design, 
+methodology, analysis, and results. 
+ 
+Clearly presents the project and its outcomes, and effectively communicates the key points. 
+ 
+ 
+ 
+ 
+
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+ 
+Part A
+Part B
+Total
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, 
+each carrying 3 marks 
+            (8x3 =24marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each 
+question can have a maximum of 3 sub divisions. 
+Each question carries 9 marks. 
+                    (4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Demonstrate an understanding of pipelining and parallel processing 
+techniques in DSP systems, including the design and implementation 
+of pipelined FIR digital filters and low power parallel processing 
+architectures. 
+K3 
+CO2 
+Apply retiming techniques to optimize digital circuits for clock period 
+and 
+register 
+minimization, 
+solving 
+system 
+inequalities 
+and 
+implementing cutset retiming and pipelining. 
+K5 
+CO3 
+Utilize unfolding and folding transformations to reduce critical path 
+and register usage in DSP architectures, and apply these techniques to 
+multirate systems for sample period reduction. 
+K4 
+CO4 
+Implement advanced convolution algorithms such as Cook-Toom and 
+Winograd, and apply algorithmic strength reduction techniques to 
+enhance the performance of FIR and IIR filters 
+K6 
+CO5 
+Design and analyze digital lattice filter structures and bit-level 
+arithmetic architectures, including parallel multipliers, bit-plane-based 
+digital filters, and bit-serial filter designs, focusing on performance 
+optimization and noise reduction. 
+K6 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+ 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+VLSI DSP Systems- Design and 
+Implementation 
+Keshab K Parhi 
+John Wiley 
+1st Edn 1999. 
+2 
+Digital 
+Signal 
+processing 
+for 
+multimedia systems 
+Keshab K Parhi and 
+Takao Nishitami 
+CRC press 
+2018 
+3 
+Digital Signal Processing with Field 
+Programmable Gate Arrays 
+Uwe Meyer-Baese 
+Springer 
+4th Edn, 2014 
+4 
+VLSI 
+Design 
+Methodology 
+Development 
+Thomas Dillinger 
+Prentice Hall 
+1st Edn 1998 
+5 
+Advanced Digital Signal Processing 
+and Noise Reduction 
+Saeed V. Vaseghi 
+Wiley 
+4th Edn 2008 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11 PO12 
+CO1 
+3
+ 
+3 
+2 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3
+ 
+3 
+2 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3
+ 
+3 
+2 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3
+ 
+3 
+2 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3
+ 
+3 
+2 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Understanding digital signal 
+processing 
+Richard G Lyons 
+Pearson Education 
+India 
+3,1997 
+2 
+DSP Integrated Circuits  
+Lars Wanhammar 
+Academic Press 
+1st Edn 1999 
+ 
+3 
+Digital Filter Design 
+T. W. Parks and         
+C. S. Burrus 
+Wiley-Interscience 
+1st Edn 1987 
+ 
+4 
+Architectures for Digital Signal 
+Processing 
+Peter Pirsch 
+John Wiley & Sons 
+1st Edn 1998 
+5 
+CMOS 
+VLSI 
+Design: 
+A 
+Circuits 
+and 
+Systems 
+Perspective 
+ 
+Neil H. E. Weste and 
+David Harris 
+Pearson 
+ 
+4th Edn 2010 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc20_ee44/preview 
+2 
+https://www.youtube.com/playlist?list=PLT1QAv48lhQKwFZ0TkqpJaUm2LeW9226z 
+
+ 
+SEMESTER S7 
+MECHATRONICS 
+ 
+Course Code 
+OEEVT 721 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide knowledge about the integration of mechanical, electronics, control and computer 
+engineering in the design of mechatronics systems. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Mechatronics: Structure of Mechatronics system. Sensors - 
+Characteristics - Temperature, flow, pressure sensors. Displacement, position 
+and proximity sensing by magnetic, optical, ultrasonic, inductive, capacitive 
+and eddy current methods. Encoders: incremental and absolute, gray coded 
+encoder. Resolvers and synchros. Piezoelectric sensors. Acoustic Emission 
+sensors. Principle and types of vibration sensors. 
+Actuators: Mechanical actuators, Electrical actuators, Hydraulic and 
+Pneumatic actuators 
+Directional control valves, pressure control valves, process control valves. 
+Rotary actuators. Development of simple hydraulic and pneumatic circuits 
+using standard Symbols. 
+9 
+2 
+Mechatronics in Computer Numerical Control (CNC) machines: Design of 
+modern CNC machines - Mechatronics elements - Machine structure: guide 
+ways, drives. Bearings: anti- friction bearings, hydrostatic bearing and 
+hydrodynamic bearing. Re-circulating ball screws, pre-loading methods. Re-
+circulating roller screws. Measuring system for NC machines - direct and 
+indirect measuring system. 
+9 
+
+ 
+System modeling - Mathematical models and basic building blocks of 
+general mechanical, electrical, fluid and thermal systems 
+3 
+Typical elements of open and closed loop control systems. Adaptive 
+controllers for machine tools. Programmable Logic Controllers (PLC) –Basic 
+structure, input/ output processing. Programming: Timers, Internal Relays, 
+Counters and Shift registers. Development of simple ladder programs for 
+specific purposes. 
+Case studies of Mechatronics systems: Automatic camera, bar code reader, 
+pick and place robot, automatic car park barrier system, automobile engine 
+management system. 
+9 
+4 
+Mechatronics in Robotics-Electrical drives: DC, AC, brushless, servo and 
+stepper motors. Harmonic drive. Force and tactile sensors. Range finders: 
+ultrasonic and light-based range finders 
+Robotic vision system - Image acquisition: Vidicon, charge coupled device 
+(CCD) and charge injection device (CID) cameras. Image processing 
+techniques: histogram processing: sliding, stretching, equalization and 
+thresholding. 
+9 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+
+ 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Explain the sensors and actuators used in mechatronics 
+K2 
+CO2 
+Demonstrate the various components of a CNC machine  
+K2 
+CO3 
+Explain the principles of PLCs 
+K2 
+CO4 
+Explain the robotic sensors and vision system 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+ 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+ 
+2 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Mechatronics: 
+Electronic 
+Control Systems in Mechanical 
+and Electrical Engineering,  
+Bolton W., 
+Person Education 
+Limited, New Delhi,  
+2007 
+2 
+Mechatronics: 
+Integrated 
+Mechanical 
+Electronic 
+Systems,  
+Ramachandran K. P., G. 
+K. Vijayaraghavan, M. S. 
+Balasundaram, 
+Wiley India Pvt. Ltd., 
+New Delhi,  
+2008 
+3 
+Introduction 
+to 
+Robotics: 
+Analysis, 
+Systems, 
+Applications,. 
+Saeed B. Niku 
+Person Education, Inc., 
+New Delhi 
+2006 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Mechatronics 
+and Measurement Systems,  
+ 
+David G. Aldatore, 
+Michael B. Histand 
+McGraw-Hill Inc., 
+USA. 
+2003 
+2 
+Industrial Robotics  
+Gordon M. Mair 
+Prentice Hall 
+International, UK,  
+1998 
+3 
+Mechatronics,  
+HMT 
+Tata McGraw-Hill 
+Publishing Company 
+Ltd., New Delhi,. 
+2004 
+4 
+Smart Material Systems and 
+MEMS: 
+Design 
+and 
+Development Methodologies,  
+Vijay K. Varadan, K. J. 
+Vinoy, S. 
+Gopalakrishnan, 
+John Wiley & Sons 
+Ltd., England,  
+2006. 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc21_me27/preview 
+2 
+https://nptel.ac.in/courses/112103174 
+3 
+https://archive.nptel.ac.in/courses/112/103/112103174/ 
+4 
+https://nptel.ac.in/courses/112107298 
+
+ 
+SEMESTER S7 
+ENTERTAINMENT ELECTRONICS

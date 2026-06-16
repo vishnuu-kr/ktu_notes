@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basic Object-Oriented concepts, Introduction to Java - Java programming\nand Runtime Environment, Development Platforms- Java Virtual Machine\n(JVM), Java compiler, Bytecode, Java Buzzwords, Java program structure,\nComments.Primitive Data types - Integers, Floating Point Types, Characters,\nBoolean. Literals, Operators - Arithmetic Operators, Bitwise Operators,\nRelational Operators, Boolean Logical Operators, Assignment Operator,\nConditional (Ternary) Operator, Operator Precedence. Control Statements -\nSelection Statements, Iteration Statements and Jump Statements.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Object Oriented Programming in Java - Class Fundamentals, Declaring\nObjects, Introduction to Methods, Constructors, this Keyword, Method\nOverloading, Using Objects as Parameters, Returning Objects. Static\nMembers, Final Variables, Inner Classes.Inheritance - Super Class, Sub\nClass, The Keyword super, protected Members, Calling Order of\nConstructors, Method Overriding, the Object class, Abstract Classes and\nMethods, using final with Inheritance.Packages and Interfaces - Defining\nPackage, CLASSPATH, Access Protection, Importing Packages, Interfaces.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Exception Handling - Checked Exceptions, Unchecked Exceptions, try Block\nand catch Clause, Multiple catch Clauses, Nested try Statements, throw,\nthrows and finally. Java Library - String Handling – String Constructors,\nString Length, Special String Operations -Character Extraction, String\nComparison,\nSearching\nStrings,\nModifying\nStrings.Multithreaded\nProgramming - The Java Thread Model, The Main Thread, Creating Thread,\nCreating Multiple Threads, Synchronization, Suspending, Resuming and\nStopping Threads.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Event handling - Event Handling Mechanisms, Delegation Event Model,\nEvent Classes, Sources of Events, Event Listener Interfaces.Swings\nfundamentals-Swing\nControls,\nComponents\nand\nContainers,\nSwing\nPackages, Event Handling in Swings, Swing Layout Managers, Exploring\nSwings –JFrame, JLabel , Swing Buttons, JText Field.Java Database\nConnectivity (JDBC) - JDBC overview, Creating and Executing Queries –\ncreate table, delete, insert, select.",
+    "contact_hours": "9"
+  }
+]

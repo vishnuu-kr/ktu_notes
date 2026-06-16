@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Annealing Schedule",
+            "Parameter Selection",
+            "Applications",
+            "Hill Climbing: Mathematical Description",
+            "Types of Hill Climbing Algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Local and Global Maxima",
+            "Ridges",
+            "Plateau",
+            "Hybrid Approaches Combining Simulated Annealing and Hill Climbing",
+            "Introduction to Genetic Algorithms - Biological Background",
+            "Genetic Algorithm vs. Traditional Algorithms",
+            "Simple Genetic Algorithm",
+            "Classification of Genetic Algorithm - Messy Genetic Algorithms",
+            "Adaptive Genetic Algorithms",
+            "Hybrid Genetic Algorithms",
+            "Parallel Genetic Algorithm",
+            "Genetic Programming",
+            "Working of Genetic Programming",
+            "Characteristics of Genetic Programming",
+            "Advantages and Limitations of Genetic Algorithm",
+            "Applications of Genetic Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Ant Foraging Behavior",
+            "Theoretical Considerations",
+            "Convergence Proofs",
+            "ACO Algorithm",
+            "ACO and Model Based Search",
+            "Variations of ACO: Elitist Ant System (EAS)",
+            "Minmax Ant System (MMAS)",
+            "Rank Based Ant Colony System (RANKAS)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Behaviour of Real Bees",
+            "ABC Algorithm",
+            "Variations of ABC: AbcGbest and AbcGbestDist"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

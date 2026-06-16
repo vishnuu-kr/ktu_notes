@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definitions and scope",
+            "Historical milestones in AI development",
+            "Intelligent agents: concepts of agents and environments",
+            "Rationality and the nature of environments",
+            "Structures of agents: simple reflex, model-based, goal-based, and utility-based",
+            "Problem-solving agents: problem formulation and agent-based problem solving",
+            "Examples of problem-solving scenarios"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Uninformed search strategies: breadth-first search (BFS)",
+            "Depth-first search (DFS)",
+            "Heuristic search: hill climbing",
+            "A* algorithm",
+            "Problem reduction techniques",
+            "Game playing and adversarial search: concepts of adversarial search and game theory",
+            "Minimax algorithm for optimal decision-making",
+            "Challenges in game playing and problem-solving in multiplayer games",
+            "Alpha-beta pruning for efficient game tree exploration",
+            "Evaluation functions and heuristics in game playing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Predicate logic and logic programming",
+            "Semantic networks, frames, and inheritance systems",
+            "Rule-based systems and constraint propagation",
+            "Reasoning under uncertainty: basics of probability theory and Bayesian reasoning",
+            "Dempster-Shafer theory for managing uncertainty",
+            "Applications of reasoning under uncertainty in AI systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Inductive learning and decision trees",
+            "Explanation-based learning",
+            "Statistical learning methods and reinforcement learning",
+            "Expert systems: introduction and basic concepts of expert systems",
+            "Structure and functioning of expert systems",
+            "Knowledge engineering and acquisition methods",
+            "Societal impacts and ethical considerations in AI",
+            "Reasoning techniques: rule-based, frame-based, model-based, and case-based",
+            "Handling uncertainty in expert systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

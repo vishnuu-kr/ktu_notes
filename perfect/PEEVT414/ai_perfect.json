@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Transmission Modes",
+            "Asynchronous",
+            "Synchronous",
+            "Simplex",
+            "Half Duplex",
+            "Full Duplex Communication",
+            "Switching Network Criteria",
+            "Physical Structures",
+            "Network Models",
+            "Categories of Networks",
+            "Interconnection of Networks",
+            "OSI Model",
+            "TCP/IP Protocol Suite"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Guided and Unguided Transmission Media",
+            "Data Link Layer: Framing",
+            "Flow Control (Stop and Wait)",
+            "Sliding Window Flow Control",
+            "Error Control",
+            "Error Detection (Checksum)",
+            "Bit Stuffing",
+            "Ethernet (802.3)",
+            "CSMA/CD",
+            "Logical Link Control",
+            "Wireless LAN (802.11)",
+            "CSMA/CA"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Routing and Forwarding",
+            "Static Routing and Dynamic Routing",
+            "IPv4 and IPv6",
+            "Address Resolution Protocols (ARP and RARP)",
+            "Routing Algorithms: Distance Vector Routing Algorithm",
+            "Routing Protocols: Routing Information Protocol (RIP)",
+            "Networking Devices - Hubs, Bridges and Switches",
+            "Transport Layer: UDP",
+            "Congestion Control and Quality of Service - Data Traffic",
+            "Application Layer: Introduction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Information Security: Common Attacks",
+            "Security at Application Layer (E-MAIL, PGP and S/MIME)",
+            "Security at Transport Layer (SSL and TLS)",
+            "Security at Network Layer (IPSec)",
+            "Firewalls",
+            "Limitations of Firewalls"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

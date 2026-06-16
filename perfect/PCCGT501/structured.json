@@ -1,0 +1,73 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "OSI security architecture - Security attacks",
+            "Services",
+            "Mechanisms. Cryptography vs Cryptanalysis. Classical encryption techniques - Symmetric cipher model. Substitution ciphers - Monoalphabetic vs Polyalphabetic ciphers",
+            "Caesar cipher",
+            "Affine cipher",
+            "Playfair cipher",
+            "Vigenere cipher",
+            "Hill cipher. Transposition ciphers - Keyless",
+            "Keyed",
+            "Double transposition"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Symmetric key ciphers - Block vs Stream ciphers",
+            "Product ciphers",
+            "Feistel and Non-Feistel ciphers. Data Encryption Standard (DES) - Structure",
+            "Key generation",
+            "Design criteria",
+            "6 Weaknesses",
+            "Double DES",
+            "Triple DES. Advanced Encryption Standard (AES) - Structure",
+            "Key expansion. Blow Fish",
+            "Block cipher modes of operation - Electronic Codebook Mode (ECB",
+            "Cipher Block Chaining Mode (CBC",
+            "Cipher Feedback Mode (CFB",
+            "Output Feedback Mode (OFB",
+            "Counter Mode (CTR). Stream ciphers - Structure"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to public key cryptosystems - Principles",
+            "Applications",
+            "Requirements",
+            "Conventional vs Public key cryptosystems. RSA cryptosystem - Algorithm",
+            "Security",
+            "Attacks. ElGamal cryptosystem - Algorithm. Diffie-Hellman key exchange - Algorithm",
+            "Man-in-the middle attack. Elliptic Curve Cryptography (ECC) - ElGamal ECC",
+            "Key exchange using ECC"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Hash functions - Security requirements",
+            "Secure Hash Algorithm (SHA-512). Message Authentication Code (MAC) - Requirements",
+            "Uses",
+            "Hash-based MAC (HMAC",
+            "Cipherbased MAC (CMAC). Digital signatures - Attacks",
+            "Forgeries",
+            "Requirements",
+            "Direct vs Arbitrated digital signatures",
+            "RSA digital signature",
+            "ElGamal digital signature",
+            "Digital Signature Standard (DSS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "History of Computer Networks and the Internet , types of networks,  Client-\nserver and peer-to-peer architecture. Design issues for the layers – Interface\n& Service – Service Primitives. Reference models – OSI – TCP/IP.\nConcept of Quality of Service metrics - throughput, delay, packet loss, and\njitter in packet-switched networks.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Physical layer design issues -  Media, Signal strength and interference. Data\nencoding, Multiplexing (TDM, FDM).\nData Link layer Design Issues – Flow Control and ARQ techniques. Data\nlink Protocols – HDLC. IEEE 802 FOR LANs  IEEE 802.3, 802.5. Wireless\nLANs - 802.11.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Networking devices - Bridges, Routers, Gateways,\nNetwork Layer Protocols - Virtual circuits and datagrams, Principles of\nrouting, internet protocol Ipv4 CIDR, IPv6,  Network Address Translation ,\nFirewalls, and VPNs\nRouting algorithms - Link-state and distance vector routing, Routing on the\ninternet RIP OSPF and BGP.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to transport layer, Multiplexing and de-multiplexing, Principles\nof Reliable data transfer – end-to - end flow control mechanisms, Connection\noriented transport TCP, Connectionless transport UDP.\nApplication layer protocols - HTTP and HTTPs, FTP, SMTP- S/MIME,\nDNS, and Peer-to-peer file sharing networks\nSuggestion on Project Topics\nProject: Installation and configuration of the LAMP stack. Design and develop a relevant web\napplication using the LAMP stack. Deploy the web application project in a LAN with a server and\nclients with distinct IP addresses.",
+    "contact_hours": "9"
+  }
+]

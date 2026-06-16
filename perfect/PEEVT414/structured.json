@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Transmission modes",
+            "asynchronous",
+            "synchronous",
+            "simplex",
+            "half duplex",
+            "full duplex communication. Switching Network criteria",
+            "physical structures",
+            "network models",
+            "categories of networks",
+            "Interconnection of Networks Network models",
+            "OSI model",
+            "TCP/IP protocol suite"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Guided and unguided transmission media Data Link Layer: Framing",
+            "Flow control (stop and wait",
+            "sliding window flow control) Error control",
+            "Error detection( check sum",
+            "Bit stuffing",
+            "Ethernet (802.3",
+            "CSMA/CD",
+            "Logical link control",
+            "Wireless LAN (802.11",
+            "CSMA/CA"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Routing and Forwarding",
+            "Static routing and Dynamic routing",
+            "IPv4 & IPV6",
+            "Address Resolution protocols (ARP",
+            "RARP) Routing Algorithms: Distance vector routing algorithm",
+            "Routing Protocols: Routing Information protocol (RIP",
+            "Networking devices - Hubs",
+            "Bridges & Switches Transport Layer: UDP",
+            "Congestion Control & Quality of Service - Data traffic. Application Layer: Introduction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Information security: common attacks Security at Application Layer (E-MAIL",
+            "PGP and S/MIME). Security at Transport Layer (SSL and TLS). Security at Network Layer (IPSec). Firewalls",
+            "limitations of firewalls"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

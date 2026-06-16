@@ -1,0 +1,75 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Robotics: Degrees of Freedom",
+            "Robot Types - Manipulators - Anatomy of a Robotic Manipulator: Links",
+            "Joints",
+            "Actuators",
+            "Sensors",
+            "Controllers",
+            "Robot Configurations - PPP, RRR",
+            "Mobile Robots - Wheeled, Legged, Aerial, Underwater, Surface Water",
+            "Dynamic Characteristics - Speed of Motion, Load Carrying Capacity and Speed of Response",
+            "Introduction to End Effectors - Mechanical Grippers",
+            "Special Tools",
+            "Magnetic Grippers",
+            "Vacuum Grippers",
+            "Adhesive Grippers",
+            "Active and Passive Grippers",
+            "Ethics in Robotics - Three Laws - Applications of Robots"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sensors, Actuators and Control: Sensor Classification - Touch, Force, Proximity, Vision Sensors",
+            "Internal Sensors - Position Sensors, Velocity Sensors, Acceleration Sensors, Force Sensors",
+            "External Sensors - Contact Type, Non-contact Type",
+            "Digital Camera - CCD Camera - CMOS Camera - Omnidirectional Cameras",
+            "Sensor Characteristics",
+            "Actuators - DC Motors - H-Bridge - Pulse Width Modulation - Stepper Motors - Servos, Hydraulic and Pneumatic Actuators"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Sensing",
+            "Pre-processing",
+            "Segmentation",
+            "Description",
+            "Recognition",
+            "Interpretation",
+            "Feature Extraction - Camera Sensor Hardware Interfacing",
+            "Representation of Transformations - Pure Translation - Pure Rotation about an Axis - Combined Transformations - Transformations Relative to the Rotating Frame",
+            "Basic Understanding of Differential-Drive Wheeled Mobile Robot",
+            "Degree of Mobility - Different Wheel Configurations",
+            "Holonomic and Nonholonomic Robots",
+            "Omnidirectional Wheeled Mobile Robots"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Representing Robot Position",
+            "Basics of Reactive Navigation",
+            "Robot Localization",
+            "Challenges in Localization - Continuous Representations - Decomposition Strategies - Current Challenges in Map Representation",
+            "Probabilistic Map-based Localization (Kalman Method)",
+            "Autonomous Map Building",
+            "Simultaneous Localization and Mapping (SLAM) - Mathematical Definition and Various Types of SLAM",
+            "Path Planning - Graph Search - Deterministic Graph Search - Breadth First Search - Depth First Search - Dijkstra's Algorithm - A* - D* Algorithms",
+            "Potential Field Based Path Planning",
+            "Obstacle Avoidance - Bug Algorithm - Vector Field Histogram - Dynamic Window Approaches",
+            "Navigation Architectures - Modularity for Code Reuse and Sharing - Control Localization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to ML\nMachine Learning vs. Traditional Programming, Machine learning paradigms\n- supervised, semi-supervised, unsupervised, reinforcement learning.\nBasics of parameter estimation - maximum likelihood estimation (MLE) and\nmaximum aposteriori estimation (MAP), Bayesian formulation.\nSupervised Learning\nFeature Representation and Problem Formulation, Role of loss functions and\noptimization\nRegression - Linear regression with one variable, Linear regression with\nmultiple variables - solution using gradient descent algorithm and matrix\nmethod.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Classification - Naïve Bayes, KNN\nGeneralisation and Overfitting - Idea of overfitting, LASSO and RIDGE\nregularization, Idea of Training, Testing, Validation\nEvaluation measures – Classification - Precision, Recall, Accuracy, F-\nMeasure, Receiver Operating Characteristic Curve(ROC), Area Under Curve\n(AUC).\nRegression - Mean Absolute Error (MAE), Root Mean Squared Error\n(RMSE), R Squared/Coefficient of Determination.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Neural Networks (NN) - Perceptron, Neural Network - Multilayer feed-\nforward network, Activation functions (Sigmoid, ReLU, Tanh), Back\npropagation algorithm.\nDecision Trees – Information Gain, Gain Ratio, ID3 algorithm",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Unsupervised Learning\nClustering - Similarity measures, Hierarchical Clustering - Agglomerative\nClustering, partitional clustering, K-means clustering\nDimensionality reduction - Principal Component Analysis, Multidimensional\nscaling\nEnsemble methods - bagging, boosting\nResampling methods - Bootstrapping, Cross Validation. Practical aspects -\nBias-Variance trade-off",
+    "contact_hours": "10"
+  }
+]

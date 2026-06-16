@@ -1,0 +1,81 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Computer Hardware Organization",
+            "BIOS and Boot Process",
+            "Multithreading Concepts",
+            "Processes",
+            "Threads",
+            "Scheduling",
+            "Structures: Simple Batch",
+            "Multi-Programmed",
+            "Time-Shared",
+            "Personal Computer",
+            "Parallel",
+            "Distributed Systems",
+            "Real-Time Systems",
+            "System Components",
+            "Operating System Services"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Terminology: RTOS Concepts and Definitions",
+            "Real-Time Design Issues",
+            "Examples",
+            "Hardware Considerations: Logic States",
+            "Memory",
+            "Architectures",
+            "RTOS Building Blocks",
+            "Real-Time Kernel"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Concepts",
+            "Scheduling",
+            "CPU Scheduling",
+            "Scheduling Criteria",
+            "Scheduling Algorithms",
+            "Threads: Multi-Threading Models",
+            "Threading Issues",
+            "Thread Libraries",
+            "Synchronization",
+            "Mutex: Creating",
+            "Mutex: Deleting",
+            "Prioritizing Mutex",
+            "Mutex Internals"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Messages",
+            "Buffers",
+            "Mailboxes",
+            "Queues",
+            "Semaphores",
+            "Deadlock",
+            "Priority Inversion",
+            "Pipes",
+            "Memory Management: Process Stack Management",
+            "Run-Time Buffer Size",
+            "Swapping",
+            "Overlays",
+            "Block/Page Management",
+            "Replacement Algorithms",
+            "Real-Time Garbage Collection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

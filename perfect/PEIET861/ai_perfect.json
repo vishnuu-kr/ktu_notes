@@ -1,0 +1,43 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of Julia software package, installation and set up, variables, data types and operations, data structures - arrays, tuples, dictionaries, sets",
+            "Conditionals and loops, functions, methods and constructors, modules and packages, input and output"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Object oriented programming and functional programming",
+            "Parallel programming",
+            "Metaprogramming",
+            "Working with dates and time",
+            "Working with data frames"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Exploratory data analysis",
+            "Hypothesis testing",
+            "Time series analysis. Machine learning with Julia: Regression analysis",
+            "Classification",
+            "Clustering and dimensionality reduction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Solving linear programming problems, mixed integer programming and vehicle routing problems, solving non-linear and mixed integer non-linear programming problems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "FAT12",
+      "FAT16",
+      "FAT32",
+      "NTFS (New Technology File System",
+      "Structure and Characteristics",
+      "Master File Table (MFT",
+      "EXT (Extended File System",
+      "EXT2",
+      "EXT3",
+      "EXT4",
+      "Journaling in EXT3 and EXT4",
+      "HFS (Hierarchical File System",
+      "HFS and HFS+ Structure and Characteristics",
+      "Metadata and Attributes Tools suggested : Hex Viewer",
+      "FTK Imager",
+      "OS Forensics"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Hex Viewer",
+      "FTK Imager",
+      "Autopsy",
+      "RegRipper",
+      "Volatility",
+      "Dumpit"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "MobileCheck, BlueStacks(Android Emulator), SQLite Database viewer"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Wireshark , Apache Log Viewer"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

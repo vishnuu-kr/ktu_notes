@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "An Introduction :-Introduction",
+            "Natural Language",
+            "NLP and Language Models Evolution",
+            "The Era of Large Language Models",
+            "Large Language Models in Practice. Language Models Pre-training : - Encoder-Decoder Architecture",
+            "Attention Mechanism",
+            "Transformers",
+            "Data",
+            "Pre-trained LLM Design Choices",
+            "Commonly Used Pre-trained LLMs (BERT",
+            "Mixtral 8x7B"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Prompt-Based Learning : - Introduction",
+            "Basics of Prompt-based Learning",
+            "Prompt Engineering",
+            "Answer Engineering",
+            "Multi-Prompt Inference. LLM Adaptation and Utilization : - Introduction",
+            "Instruction Tuning",
+            "Parameter-Efficient Fine-Tuning",
+            "Compute-Efficient Fine-Tuning",
+            "End-User Prompting"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Tuning for LLM Alignment : - Alignment Tuning",
+            "The Reinforcement Learning Framework",
+            "Mapping the RL Framework to LLMs with Human Feedback",
+            "Evolution of RLHF",
+            "Overcoming RLHF Challenges. LLM Challenges and Solutions : - Hallucination",
+            "Bias and Fairness",
+            "Toxicity",
+            "Privacy"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Retrieval-Augmented Generation : - Introduction",
+            "Basics of RAG",
+            "Optimizing RAG",
+            "Enhancing RAG",
+            "Evaluating RAG Applications. LLMs in Production : - Introduction",
+            "LLM Applications",
+            "LLM Evaluation Metrics",
+            "LLM Benchmark Datasets",
+            "LLM Selection",
+            "Tooling for Application Development",
+            "Inference",
+            "LLMOps"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

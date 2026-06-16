@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Java :-\nStructure of a simple java program; Java programming Environment and\nRuntime Environment (Command Line & IDE); Java compiler; Java Virtual\nMachine; Primitive Data types and Wrapper Types; Casting and Autoboxing;\nArrays; Strings; Vector class; Operators - Arithmetic, Bitwise, Relational,\nBoolean Logical, Assignment, Conditional (Ternary); Operator Precedence;\nControl Statements - Selection Statements, Iteration Statements and Jump\nStatements; Functions; Command Line Arguments; Variable Length\nArguments; Classes; Abstract Classes; Interfaces. [Use proper naming\nconventions]\nOOP Concepts :-\nData abstraction, encapsulation, inheritance, polymorphism, Procedural and\nobject oriented programming paradigm; Microservices.\nObject Oriented Programming in Java :-\nDeclaring Objects; Object Reference; Introduction to Methods; Constructors;\nAccess Modifiers; this keyword.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Polymorphism :-\nMethod Overloading, Using Objects as Parameters, Returning Objects,\nRecursion.\nStatic Members, Final Variables, Inner Classes.\nInheritance - Super Class, Sub Class, Types of Inheritance, The super\nkeyword, protected Members, Calling Order of Constructors.\nMethod Overriding, Dynamic Method Dispatch, Using final with\nInheritance.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Packages and Interfaces –\nPackages - Defining a Package, CLASSPATH, Access Protection, Importing\nPackages.\nInterfaces - Interfaces v/s Abstract classes, defining an interface,\nimplementing interfaces, accessing implementations through interface\nreferences, extending interface(s).\nException Handling - Checked Exceptions, Unchecked Exceptions, try\nBlock and catch Clause, Multiple catch Clauses, Nested try Statements,\nthrow, throws and finally, Java Built-in Exceptions, Custom Exception",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Swings fundamentals – Overview of AWT, Swing v/s AWT, Swing Key\nFeatures, Model View Controller (MVC), Swing Controls, Components and\nContainers, Swing Packages, Event Handling in Swings, Swing Layout\nManagers, Exploring Swings–JFrame, JLabel, The Swing Buttons,\nJTextField.\nEvent handling – Event Handling Mechanisms, Delegation Event Model,\nEvent Classes, Sources  of Events, Event Listener Interfaces, Using the\nDelegation Event Model.\nDeveloping Database Applications using JDBC – JDBC overview, Types,\nSteps, Common JDBC Components, Connection Establishment, SQL\nFundamentals [For projects only] - Creating and Executing basic SQL\nQueries, Working with Result Set, Performing CRUD Operations with\nJDBC.\nAssessment Method\n(CIE: 40 marks, ESE: 60 marks)",
+    "contact_hours": "10"
+  }
+]

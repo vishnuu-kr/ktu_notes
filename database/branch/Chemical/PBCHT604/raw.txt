@@ -1,0 +1,495 @@
+Course Code 
+PBCHT604 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+4 
+ESE Marks 
+40 
+Credits 
+3:0:0:1 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+4 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+ Sound knowledge in process control is very important for Chemical Engineers. Process control has 
+become increasingly important in the process industries as a consequence of global competition, 
+rapidly changing economic conditions, and more stringent environmental and safety regulations. 
+Proper application of process control improves the safety and profitability of a process, while 
+maintaining consistently the desired product quality. 
+1. Model chemical engineering processes and analyze/predict their dynamics both for open-
+(without control) and closed-loop (with control) cases. 
+2. Develop control strategies and select the most appropriate input to manipulate, and totune 
+controllers to meet/achieve process objectives. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to process dynamics and control: - definition of terms - 
+Laplace transform - transform of simple functions - derivatives and integral 
+- properties of Laplace transforms - final value theorem - initial value 
+theorem - transition of transforms and functions – examples - inversion by 
+partial fraction - solution of differential equations- linear open loop systems 
+- first order systems - mercury thermometer, liquid level and mixing 
+processes - response of these towards different types of forcing functions. 
+(Study of dynamics by conducting experiments in above studied first order 
+systems and  simulation in MATLAB/SCILAB- for self study/project) 
+9 
+
+ 
+2 
+Systems in series: - interacting and non-interacting types and 
+generalization of results. Linear open loop second order systems - 
+manometer - response of these towards different types of forcing 
+functions: step and sinusoidal functions.  Control valves- Characteristics- 
+P, PI and PID Controllers - basic principles and transfer functions. 
+(Study of dynamics by conducting experiments in above studied second 
+order systems, simulation in MATLAB/SCILAB- Controllers/Control 
+valve characteristics- forself study/project) 
+9 
+3 
+Closed loop system: – feedback control- servo and regulator problems -
+block diagram development –Block diagram reduction-Transient response of 
+simple control systems - step response and offset. 
+Introduction to stability of linear systems: - Routh- Hurwitz criterion for 
+stability -Root locus technique-plotting root locus diagram. 
+(Plottingroot 
+locus 
+diagrams 
+and 
+stability 
+analysis 
+using 
+MATLAB/SCILAB/SIMULINK-for self study/project) 
+9 
+4 
+Introduction to frequency response: - substitution rule – Bode diagram for 
+first order systems - first order systems in series - bode stability criterion, 
+gain margin and phase margin. 
+Controller tuning:- Ziegler-Nichol’s method - comparison of closed loop 
+responses for different controller settings. 
+(Plotting 
+Bode 
+diagrams 
+and 
+stability 
+analysis 
+using 
+MATLAB/SCILAB/SIMULINK-for self study/project) 
+9 
+ 
+Suggestion on Project Topics 
+The students shall be directed to carry out any one of the projects listed below. 
+1. Design and simulation of suitable temperature control system for stirred tank heater. 
+2. Design and simulation of suitable level or flow control system for a single tank system. 
+3. Design and simulationof suitable level or flow control system for a multi-tank system. 
+4. Design and simulation of suitable control system to maintain product concentration in 
+continuous stirred tank reactor. 
+5. Design and simulation of a temperature control system for a continuous stirred tank reactor 
+used in chemical process. 
+6. Any other relevant project related to process dynamics and control. 
+ 
+
+ 
+ 
+ 
+The completed project work should consist of following key components 
+ 
+1. Fundamental Concept:  The dynamic behaviour of the process (Module 1) 
+2. System Modelling: Develop a model for the selected system from fundamental 
+conservation principles  (Module 1 and 2) 
+3. Block Diagram development: Develop a feed back control system using the concept of 
+block diagram development and reduction. (Module 3) 
+4. Controller selection: Select a suitable controller for the process (Module 2 and 3) 
+5. Simulation: Implement the system model and controller in MATLAB or Simulink and 
+simulate the response. (Self -study) 
+6. Stability analysis: Analyse the stability of the system using methods like Routh-Hurwitz 
+Criterion, Root Locus method, Bode stability criterion etc. (Module 4) 
+7. Controller tuning: Optimize the control parameter for desired performance using 
+Ziegler- Nichols tuning. (Module 4) 
+8. Validation by experimental data: Conduct experiment in the laboratory and evaluate the 
+system performance with the experimental data (Conduct experiment in lab and obtain 
+data for validation) 
+9. Report preparation and oral presentation: Prepare a detailed report and presentation 
+before the evaluation committee. 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Project 
+Internal Ex-1 
+Internal Ex-2 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply Laplace transforms to solve linear differential equations and to 
+obtain the transfer function related to first order systems. 
+K3 
+CO2 
+Develop the response of linear open loop second order systems and 
+systems in series for various forcing functions. 
+ 
+K3 
+CO3 
+Examine various types of controllers and analyze servo and regulatory 
+problems of closed loop systems by using transient response. 
+K4 
+CO4 
+Analyze the stability of linear systems by using analytical and 
+graphical methods. Design controllers. 
+ 
+K4 
+CO5 
+Recommend suitable controller for a processing system to obtain 
+desired parameter. 
+ 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+Part A 
+Part B 
+Total 
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, 
+each carrying 2 marks 
+(8x2 =16 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each 
+question can have a maximum of 2 sub divisions. 
+Each question carries 6 marks.  
+(4x6 = 24 marks) 
+40 
+
+ 
+ 
+CO-PO Mapping Table: 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Process Systems Analysis& 
+Control 
+Donald R. Coughanowr 
+McGraw Hill 
+International Edition 
+ 
+2nd Edition 
+ 
+2 
+Chemical Process Control - An 
+Introduction to Theory & 
+Practice 
+George Stephanopoulos 
+Prentice Hall of India 
+Fifth 
+Indian 
+Reprint 
+3 
+Process Dynamics and Control 
+Dale E. Seborg, Thomas 
+F. Edgar and Duncan A. 
+Mellichamp 
+John Wiley & Sons 
+Inc 
+2nd Edition 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Automatic Process Control for 
+Chemical Engineers 
+Ceaglske N.H 
+John Wiley & Sons 
+Inc 
+2nd Edition 
+ 
+2 
+Process Dynamics and Control 
+Govind Das Nageshwar,   
+  Sudheer S. Bhagade 
+PHI Learning Pvt. 
+Ltd.,  
+2011 
+3 
+Chemical Process Modelling 
+and Computer Simulation 
+Amiya K. Jana 
+PHI Learning Pvt. 
+Ltd. 
+Second 
+edition, 
+2011 
+4 
+Computational techniques for 
+process simulations and 
+analysis using MATLAB  
+Niket S. Kaisare 
+CRC Press 
+2018 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+3 
+3 
+3 
+3 
+3 
+
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/103/101/103101142/ 
+ 
+2 
+https://archive.nptel.ac.in/courses/112/107/112107214/ 
+3 
+https://archive.nptel.ac.in/courses/103/101/103101142/ 
+4 
+https://archive.nptel.ac.in/courses/112/107/112107214/ 
+ 
+PBL Course Elements 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+Lecture delivery 
+Project identification 
+Simulation/ 
+Laboratory Work/ 
+Workshops 
+Presentation 
+(Progress 
+and 
+Final 
+Presentations) 
+Group discussion 
+Project Analysis 
+Data Collection 
+Evaluation  
+Question answer 
+ Sessions/ 
+Brainstorming 
+Sessions 
+Analytical thinking and 
+ self-learning 
+Testing 
+Project 
+Milestone 
+Reviews, 
+Feedback, 
+Project reformation (If required) 
+Guest Speakers 
+(Industry 
+Experts) 
+Case 
+Study/ 
+Field 
+Survey Report 
+Prototyping 
+Poster Presentation/ 
+Video 
+Presentation: 
+Students 
+present their results in a 2 to 5 
+minutes video 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Assessment and Evaluation for Project Activity 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer 
+Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+1. Project Planning and Proposal (5 Marks) 
+ 
+Clarity and feasibility of the project plan  
+ 
+Research and background understanding  
+ 
+Defined objectives and methodology  
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions and handling feedback  
+3. Involvement in the Project Work and Team Work (3 Marks) 
+ 
+Active participation and individual contribution  
+ 
+Teamwork and collaboration  
+ 
+ 
+
+ 
+4. Execution and Implementation (10 Marks) 
+ 
+Adherence to the project timeline and milestones  
+ 
+Application of theoretical knowledge and problem-solving  
+ 
+Final Result 
+5. Final Presentation (5 Marks) 
+ 
+Quality and clarity of the overall presentation  
+ 
+Individual contribution to the presentation  
+ 
+Effectiveness in answering questions 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ 
+Overall quality and technical excellence of the project  
+ 
+Innovation and originality in the project  
+ Creativity in solutions and approaches
+
+ 
+SEMESTER S6 
+PROCESS UTILITIES

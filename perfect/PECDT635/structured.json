@@ -1,0 +1,61 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction",
+            "Web Mining",
+            "Theoretical background",
+            "Association rule mining",
+            "Sequential Pattern Mining -Information retrieval and Web search",
+            "Information retrieval Models-Relevance Feedback- Text and Web page Pre-processing",
+            "Inverted Index",
+            "Latent Semantic Indexing",
+            "Web Search",
+            "Meta-Search",
+            "Web Spamming"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "PageRank Algorithm",
+            "Link-Based Similarity Search",
+            "Enhanced Techniques for Page Ranking - HITS: HITS Algorithm",
+            "Finding Other Eigenvectors-Community Discovery: Problem Definition",
+            "Bipartite Core Communities. Web Crawling -A Basic Crawler Algorithm: Breadth-First Crawlers",
+            "Preferential Crawlers",
+            "Universal Crawlers- Focused Crawlers and Topical Crawlers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Wrapper Generation",
+            "Preliminaries- Wrapper Induction- Instance Based Wrapper Learning",
+            "Automatic Wrapper Generation: Problems",
+            "String Matching and Tree Matching -Multiple Alignment",
+            "Building DOM Trees",
+            "Extraction Based on a Single List Page and Multiple pages- Introduction to Schema Matching",
+            "Schema Level Match -Domain and Instance Level Matching",
+            "Extracting and Analysing Web Social Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Sources and Types of Data, Key Elements of Web Usage Data",
+            "Data Modelling for Web Usage Mining",
+            "Discovery and Analysis of Web Usage Patterns",
+            "Applications- Recommender Systems and Collaborative Filtering",
+            "Query Log Mining"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

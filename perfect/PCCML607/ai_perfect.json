@@ -1,0 +1,19 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Acquire text data from a standard dataset such as 20 Newsgroup, perform text extraction, clean-up, and pre-processing tasks such as tokenization, stemming, lemmatization, and stop-word removal",
+            "Implement basic vectorization approaches like One-Hot Encoding, Bag of Words, and TF-IDF, and compare these methods on a sample dataset",
+            "Explore word embeddings using Word2Vec, GloVe, and Doc2Vec, and visualize word embeddings to analyse their effectiveness in capturing semantic relationships",
+            "Create a pipeline for text classification, including feature extraction and model selection (e.g., Naïve Bayes, Logistic Regression, SVM), and apply it to a sentiment analysis task",
+            "Tune hyper-parameters for Naïve Bayes, Logistic Regression, and SVM models to improve sentiment classification accuracy",
+            "Develop a Named Entity Recognition (NER) system using sequence labelling techniques that handles ambiguity in NER, and evaluate the NER model",
+            "Build a general Information Extraction (IE) pipeline, focusing on extracting structured information such as names, dates, and relations from unstructured text",
+            "Implement supervised learning approaches to relation detection and classification, and apply them to extract relationships between entities in a text corpus",
+            "Build an inverted index, applying term weighting and document scoring techniques, and use it to evaluate the performance of an IR system on a sample dataset",
+            "Implement a basic neural network model for machine translation and a factoid question-answering system, including question processing, passage retrieval, and answer generation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

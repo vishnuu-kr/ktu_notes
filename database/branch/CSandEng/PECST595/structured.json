@@ -1,0 +1,57 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Maximum Flow Algorithms",
+      "Dinic's Algorithm, Push-Relabel Algorithm. Applications",
+      "network bandwidth allocation, data center resource management. Minimum Cost Flow",
+      "Cycle-Canceling Algorithm, Capacity Scaling Algorithm. Applications",
+      "transportation logistics, network routing with cost constraints. Assignments: 1. Network Bandwidth Allocation",
+      "Optimize bandwidth allocation in a communication network using Dinic's Algorithm. Implement Dinic's Algorithm to solve a network flow problem where you are given a communication network represented as a directed graph with capacities on edges. Your goal is to maximize the flow from a source node to a sink node. Use a real-world network dataset (e.g. , a telecommunications network with nodes and link capacities). 2. Logistics Optimization",
+      "Optimize the transportation of goods in a supply chain network using the Capacity Scaling Algorithm. Use the Capacity Scaling Algorithm to address a logistics problem where you need to minimize transportation costs in a supply chain network. The network is represented as a graph where nodes represent locations (warehouses, distribution centers, etc. ), and edges represent transportation routes with associated costs. Use a dataset representing a supply chain network with nodes, edges, and costs"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Strongly Connected Components (SCC",
+      "Tarjan's Algorithm, Kosaraju's Algorithm. Applications",
+      "analyzing web page link structures, understanding connected components in social networks. Dynamic Graph Connectivity",
+      "Dynamic connectivity algorithms, Eulerian and Hamiltonian paths. Applications",
+      "real-time network monitoring, dynamic route planning. Assignments: 1. Web Page Link Analysis",
+      "Objective: Analyze strongly connected components (SCC) in a web graph using Tarjan's Algorithm. Implement Tarjan's Algorithm to find SCCs in a web graph where nodes represent web pages and edges represent hyperlinks. SCCs help in understanding the structure of the web and identifying clusters of interconnected pages. Use a real-world web graph dataset with nodes and edges. 2. Dynamic Route Planning",
+      "Manage and analyze routes in a transportation network that evolves over time using dynamic connectivity algorithms. Implement dynamic connectivity algorithms to handle a transportation network where edges and nodes may be added or removed over time. The goal is to maintain and update the connectivity information efficiently. Use a dataset representing a transportation network with dynamic updates"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Graph Matching",
+      "Edmonds' Algorithm for finding maximum matchings. Applications",
+      "job assignment, network design. Graph Coloring",
+      "Colorings for special classes of graphs (e.g. , planar graphs, interval graphs). Applications",
+      "frequency assignment in wireless networks, scheduling problems Assignments: 1. Job Assignment Optimization",
+      "Solve job assignment problems using Edmonds' Algorithm. Implement Edmonds' Blossom Algorithm to address job assignment problems where you need to match workers to jobs in a way that maximizes the overall efficiency or minimizes the cost. Use a dataset with job assignments and associated costs or efficiencies. 2. Frequency Assignment -Allocate frequencies in wireless communication systems using graph coloring techniques. Apply graph coloring techniques to allocate frequencies to transmitters in a wireless communication network to avoid interference. The goal is to minimize the number of frequencies used while ensuring that adjacent transmitters do not use the same frequency. Use a dataset representing a network of transmitters with potential interference"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Graph Partitioning and Community Detection",
+      "Kernighan-Lin Algorithm, Spectral Partitioning. Applications",
+      "social network community detection, large-scale data clustering. Parameterized Algorithms for Graph Problems",
+      "Fixed-parameter tractability for vertex cover, feedback vertex set. Applications",
+      "network security, bioinformatics. Assignments: 1. Social Network Community Detection",
+      "Detect communities in a social network using the Kernighan-Lin Algorithm. Apply the Kernighan-Lin Algorithm to detect communities in a social network where nodes represent individuals and edges represent relationships. The goal is to find clusters of highly interconnected individuals. Use a social network dataset with nodes and edges representing social connections. 2. Network Security Analysis",
+      "Identify critical nodes in a network using parameterized algorithms to assess network security. Use parameterized algorithms to identify critical nodes and vulnerabilities in a network. These nodes are crucial for the network's connectivity, and their removal would impact the network's security and robustness. Use a dataset representing a network with nodes and edges, along with possible vulnerabilities"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

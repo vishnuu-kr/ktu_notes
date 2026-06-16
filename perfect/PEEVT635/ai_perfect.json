@@ -1,0 +1,91 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Scope of Testing and Verification in VLSI Design Process",
+            "Issues in Testing and Verification of Complex Chips",
+            "Embedded Cores and SoCs",
+            "Functional Verification",
+            "Timing Verification",
+            "System Level Verification: Test Plan, Block Level Verification, Interface Verification",
+            "Application Based Verification",
+            "Canonical SoC Design",
+            "Testbench for the Canonical Design",
+            "Fast Prototype vs. 100 Percent Testing",
+            "FPGA Prototyping",
+            "Emulation Based Testing",
+            "Silicon Prototyping",
+            "Gate Level Verification",
+            "Sign Off Simulation",
+            "Gate Level Simulation with Unit-Delay Timing",
+            "Gate Level Simulation with Full Timing",
+            "Formal Verification",
+            "Choosing Simulation Tools"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction",
+            "Verification Planning and Coverage-Driven Verification",
+            "Multi-Language and Methodologies",
+            "UVM Overview",
+            "UVM Testbench and Environments",
+            "Interface UVCs",
+            "System and Module UVCs",
+            "Software UVCs",
+            "The SystemVerilog UVM Class Library",
+            "UVM Utilities",
+            "UVM Library Basics",
+            "Automating UVC Creation",
+            "Simple Testbench Integration",
+            "Register and Memory Package",
+            "System UVCs and Testbench Integration"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Basic Circuits Design using SystemVerilog",
+            "Procedural Statements and Functions",
+            "Implementation of OOPs Concepts in SystemVerilog",
+            "SystemVerilog DPI (Direct Programming Interface)",
+            "Example",
+            "Enum Cast",
+            "Code Library",
+            "SystemVerilog TestBench and Its Components",
+            "Combinational Circuit TestBench Example",
+            "Memory Model TestBench Example",
+            "Connecting the Testbench and Design",
+            "4-Port ATM Router Case Study"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "VLSI Testing Process and Test Equipment",
+            "Automatic Test Equipment",
+            "SCOAP Controllability and Observability",
+            "High-Level Testability Measures",
+            "Combinational Circuit Test Generation",
+            "Redundancy Identification (RID)",
+            "Combinational ATPG Algorithms",
+            "Test Generation Systems",
+            "Test Compaction",
+            "Sequential Circuit Test Generation",
+            "ATPG for Single-Clock Synchronous Circuits",
+            "Simulation-Based Sequential Circuit ATPG",
+            "Memory Test",
+            "Delay Test",
+            "IDDQ Test",
+            "Design for Testability",
+            "DFT and Scan Design",
+            "Partial-Scan Design",
+            "Built-In-Self-Test (BIST)",
+            "Random Logic BIST",
+            "Memory BIST",
+            "Boundary Scan Standard",
+            "Analog Test Bus Standard"
+        ]
+    }
+]

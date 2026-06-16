@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Components and Structure of Robots:  Symbolic Representation, Degrees\nof Freedom and Workspace, Classification of Robots - Power Source,\nApplication Area, Method of Control, Geometry, Common Kinematic\nArrangements (Structure and Workspace) - Articulated Configuration\n(RRR), Spherical Configuration (RRP), SCARA Configuration (RRP),\nCylindrical Configuration (RPP), Cartesian configuration (PPP), Parallel\nManipulator, Spherical wrist\nEnd Effectors:  Mechanical, Magnetic and Vacuum Grippers, Active and\nPassive Grippers\nKinematics of Robots: Rotations - Fundamental and Composite Rotations,\nHomogeneous coordinates, Translations and Rotations, Composite\nhomogeneous transformations, Screw transformations, Inverse of\nHomogeneous Transformation Matrices, Other representations of Rotations:\nDefinitions of RPY, Euler Angles and Quaternions",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Forward Kinematics: Definition, Kinematic Chains, Denavit Hartenberg\nRepresentation, Assigning the coordinate frames, Algorithm based on DH\nConvention for Forward Kinematics, Forward Kinematics Examples -  up to\n3-DoF (Higher degrees can be given as assignment)\nInverse Kinematics:  Definition, The General Inverse Kinematics Problem,\nGeneral properties of solutions to the inverse kinematics problem, Theory of\nKinematic Decoupling,  Inverse  Kinematics Example -  up to 2-DoF (Higher\ndegrees can be given as assignment) Velocity Kinematics: Derivation of the\nJacobian – Angular Velocity, Linear Velocity, combining linear and angular\nJacobians, Velocity Jacobian Examples given forward kinematic matrices - 2\nlink planar manipulator,  Singularities – Definition and importance of\nidentifying singularities",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Dynamic Analysis:  Force-mass-acceleration and torque-inertia-angular-\nacceleration relationships, Lagrangian Mechanics – Overview, Dynamic\nAnalysis Examples – 1 DOF spring cart system\nRobot Control: The control problem, Single axis PID control - Control\nLaw, Block Diagram, Derivation of Closed Loop Transfer Function,\nadvantages and disadvantages",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Trajectory Planning:  Definitions of Path planning and Trajectory\nPlanning, Joint space versus Cartesian Space trajectory planning, Cubic\nPolynomial based trajectory planning, Point to Point and Continuous Path\nPlanning\nRobot selection considerations for an application: Number of axes, work\nvolume, capacity and speed, stroke and reach, Repeatability\nPrecision and Accuracy, Operating environment",
+    "contact_hours": "9"
+  }
+]

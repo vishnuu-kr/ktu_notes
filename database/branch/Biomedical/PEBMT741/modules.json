@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Intel 80386 Microprocessor: Architecture - Registers – Descriptors - Real\nMode - Protected mode - Virtual 8086 mode - Paging and Segmentation -\nComparison with 80486 Microprocessor. Pentium class of processors: RISC\nand CISC architectures - Superscalar Architecture - MMX technology – SSE\n– Pipelining - Branch Prediction techniques – FPU - Comparative study of\nfeatures of Pentium-II, Pentium-III and Pentium-IV processors.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "High performance CISC architecture: 80386 - Salient features, Architecture\nand Signal Description, Register Organization. Real Address mode,\nProtected mode, Segmentation, Paging & Virtual modes. Pentium - General\nfeatures, pipelining and super scalar architecture. Introduction to multicore\nprocessors: Advantages of multicore, Concept of Hyper-Threading,\nhomogeneous and heterogeneous multicore processors, Internal architecture\nof Intel Core2 Duo (Simple block diagram level only), Comparison of Core\ni3, i5 and i7 processors",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "High performance RISC architecture: ARM Processor Fundamentals: ARM\ncategory overview- Classic ARM, ARM Cortex, ARM for Embedded\nApplications. The Classic ARM programmer's model, ARM Processor\nFamilies, ARM Organization - 3-stage and 5-stage pipeline ARM\norganization, ARM instruction execution, ARM Instruction Set, Thumb\nInstruction set. Architectural Support for System Development - The ARM\nmemory interface, The Advanced Microcontroller Bus Architecture\n(AMBA)ARM Classic/Cortex based SOC: Basic system-on-chip (SoC)\narchitecture, Overview of SoC design flow. Raspberry Pi family - Overview\nand general architecture, accessories. Application and use in healthcare\n(Case study such as People’s Ventilator Project), Feature comparison: Pi 4 vs\nPi Pico",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to high performance computing: CPU vs GPU, Application\nareas, GPUs as Parallel Computers, Evolution of Graphics Pipelines, GPU\nComputing, Parallelism with GPUs - Data parallelism and task parallelism,\nFeature comparison: Raspberry Pi vs NVIDIA Jetson NANO. Literature\nReview: Smartphone processors (Overview of system functionalities) -\nSamsung Exynos 5410 SoC and Apple A14",
+    "contact_hours": "9"
+  }
+]

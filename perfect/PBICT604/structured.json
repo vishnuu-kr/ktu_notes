@@ -1,0 +1,42 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Design of Cascade Compensators Dominant pole",
+            "realisation of basic compensators: lead, lag, lag, and lag-lead compensator. Cascade compensation using root-locus: lead, lag, and lead-lag compensation. Cascade compensation using bode plot: lag, lead, and lag-lead compensation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Controllable canonical form, observable canonical form, Jordan Canonical Form"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "State Variable Analysis of Continuous LTI Systems Solution of state equation",
+            "state transition matrix",
+            "properties of state transition matrix. Computation of the state transition matrix using Lyapunov’s Method and Cayley Hamilton theorem",
+            "Response of homogeneous and non-homogeneous state-space model. Concept of controllability and observability",
+            "Kalaman test"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "State Variable Design (Continuous) Design of state variable feedback if the given model is in the controllable canonical form",
+            "design of arbitrary state variable feedback if the given model is not in controllable canonical form. Design of full order state observer",
+            "application of duality Principle",
+            "concept of reduced order state-observer. Stability analysis of Continuous LTI Systems using Phase Plane Method Singular points, classification of singular points. Suggestion on Project Topics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

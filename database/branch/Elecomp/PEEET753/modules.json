@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Neural Network:\nIntroduction to neural networks -Single layer perceptrons, Multi Layer\nPerceptrons (MLPs), Activation functions - Sigmoid, Tanh, ReLU, Softmax,\nRisk minimization, Loss function, Training MLPs with Backpropagation,\nPractical issues in neural network training - The problem of Overfitting,\nVanishing and Exploding gradient problems, Difficulties in convergence,\nLocal and spurious Optima, Computational challenges. Applications of\nneural networks",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Deep Learning:\nIntroduction to Deep Learning, Deep Feed Forward network, Training deep\nlearning models, Optimization techniques - Gradient Descent (GD), GD with\nmomentum, Nesterov accelerated GD, Batch, Mini-batch and Stochastic GD,\nAdaGrad, RMSProp, Adam",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Convolutional Neural Network (CNN):\nIntroduction to CNN - Convolution and Pooling, Convolution and Pooling as\nan infinitely strong prior, variants of convolution functions, Efficient\nconvolution algorithms, Applications - Computer Vision",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Recurrent Neural Network (RNN):\nIntroduction to RNN - Computational graphs, RNN design, Encoder-decoder\nsequence to sequence architectures, Deep RNNs, Modern RNN - LSTM and\nGRU, Applications - Natural Language Processing (NLP),",
+    "contact_hours": "9"
+  }
+]

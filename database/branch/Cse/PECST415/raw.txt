@@ -1,0 +1,314 @@
+Course Code 
+PECST415 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GAEST305 
+Course Type 
+Elective 
+Course Objectives: 
+1. To impart the key concepts of MOS technology including characteristics of CMOS and its 
+application in digital VLSI circuits to design basic CMOS logic gates. 
+2. To impart the key concepts of Integrated Circuit Design and introduce various design flows. 
+3. To equip the learner to implement both combinational and sequential logic circuits using both 
+semi-custom and FPGA design flow.   
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+CMOS Fundamentals for Digital VLSI Design : 
+CPN junction, MOS transistor theory and operation, PMOS, NMOS, CMOS, 
+CMOS Inverter, Voltage Transfer Curve, CMOS logic gates, Tristate 
+Inverter, Tristate buffer. Combinational Circuits Timing - Rise Time, Fall 
+time, Propagation Delay. Introduction to sequential logic circuits, flip-flops 
+and latches, Timing analysis - Set-up time, Hold Time, Propagation Delay, 
+Frequency of Operation, Static and Dynamic Timing Analysis, Pipelining 
+9 
+2 
+Introduction to Integrated Circuits (ICs): 
+CMOS fabrication process overview- Photolithography, Structure of an 
+Integrated Circuit, Types of Design flow - Custom design, Semi-custom 
+design, array based design. A System Perspective, Hardware – Software 
+Partitioning, example Video compression, Functional Specification to RTL, 
+Behavioural Synthesis.  
+9 
+
+ 
+ 
+3 
+Semi-custom Design flow 
+Abstraction in VLSI Design Flow- Gajski-Kuhn’s Y-chart, Hardware design 
+using hardware description Languages, Design Verification- Simulation 
+using Testbench, Property Checking, Equivalence Checking, Static Timing 
+Analysis, Logic Synthesis, Physical Design- Min-cut Partitioning, Floor 
+plan- , Global and  Detailed Placement, Global and Detailed Routing, Micro 
+project* 
+9 
+4 
+Finite State Machines (FSMs): Mealy and Moore models. Verilog HDL 
+Design and implementation of RISC stored programmed Machine. 
+Field Programmable Gate Arrays (FPGAs) : FPGA Architecture- 
+Programming Technology, Programmable logical blocks,  Programmable 
+Interconnects, Programmable I/O blocks, FPGA  Design Flow, SoC Design 
+on FPGA, Micro project*. 
+9 
+* Micro-project on FPGA / Semi-Custom Flow. 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+● Ability to capture the specification and ability for RTL coding,  
+● Ability to analyze the circuit for resource utilization such as area consumption and power 
+consumption.  Analyze the circuit for timing violations. Optimize performance.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24marks) 
+ 
+2 questions will be given from each 
+module, out of which 1 question should be 
+answered.  
+ 
+Each question can have a maximum of 3 
+sub divisions.  
+ 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Utilize the MOS Circuits and design basic circuits using CMOS.  
+K3 
+CO2 
+Explain IC design flow and design a system using hardware software 
+co-design strategy. 
+K3 
+CO3 
+Design,  simulate and implement systems design in HDL using semi-
+custom flow. 
+K4 
+CO4 
+Design, simulate and implement digital systems using programmable 
+devices. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to VLSI Design 
+Flow 
+Sneh Saurabh 
+Cambridge 
+University Press 
+1/e, 2023 
+2 
+Digital Integrated Circuits: A 
+Design Perspective. 
+Jan M. Rabaey, Anantha P. 
+Chandrakasan, Borivoje Nikolic 
+Pearson 
+Education 
+ 
+2/e, 2003 
+2 
+Digital Systems Design 
+Using Verilog 
+Charles H. Roth Jr., Lizy Kurian 
+John, Beyeong Kil Lee, 
+CL Engineering 
+1/e, 2015 
+3 
+Advanced Digital Design 
+with the Verilog HDL 
+Micahel D. Ciletti 
+Pearson 
+2/e, 2017 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Design and Computer 
+Architecture - RISC-V Edition  
+Sarah L. Harris, David 
+Harris 
+Morgan 
+Kaufmann 
+1/e, 2022 
+2 
+Digital Design: With an 
+Introduction to the Verilog HDL 
+M. Morris Mano, 
+Michael D. Ciletti 
+Pearson India 
+5/e, 2012 
+3 
+Verilog HDL – A guide to 
+digital design & Synthesis 
+Samir Palnitkar 
+Pearson 
+2/e, 2003 
+4 
+FPGA Based System Design 
+Wayne Wolf 
+Pearson 
+1/e, 2004 
+5 
+Embedded Core Design with FPGAs 
+Zainalabedin Navabi 
+McGraw-Hill 
+1/e, 2006 
+ 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+No. 
+Link ID 
+1 
+Introduction to Digital VLSI Design Flow, Introduction to Digital VLSI Design Flow, IIT 
+Guwahati https://nptel.ac.in/courses/106103116 
+2 
+Introduction to VLSI Design by Prof. S. Srinivasan , IIT Madras, 
+https://nptel.ac.in/courses/117106092 
+3 
+VLSI Physical Design by Prof. Indranil Sengupta, IIT Kharagpur, 
+https://onlinecourses.nptel.ac.in/noc21_cs12/preview 
+4 
+Digital  System Design using PLDs and FPGAs ,  Prof. Kuruvilla Varghese from IISc 
+Bangalore https://archive.nptel.ac.in/courses/117/108/117108040/ 
+ 
+
+ 
+ 
+SEMESTER S4 
+ADVANCED DATA STRUCTURES 
+(Common to CS/CD/CM/CA/AM/CB/CN/CC/CU/CI/CG)

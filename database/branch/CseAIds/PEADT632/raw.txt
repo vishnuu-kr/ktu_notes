@@ -1,0 +1,334 @@
+Course Code 
+ 
+  
+  
+ 
+PEADT632 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To introduce the core concepts and methodologies in computational linguistics. 
+2. To equip the practical skills in applying language processing tools, such as Python and NLTK. 
+ 
+                                                    SYLLABUS 
+ 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Linguistic Essentials- Parts of Speech and Morphology, Nouns and Pronouns, 
+Words that Accompany Nouns: Determiners and Adjectives, Verbs, Other 
+Parts of Speech, Phrase Structure, Phrase Structure Grammars, Semantics and 
+Pragmatics, Corpus-Based Work, The Ambiguity of Language (NLP 
+Challenges). 
+Mathematical Essentials- Probability Theory, Probability Space, Conditional 
+Probability 
+and 
+Independence, 
+Bayes 
+Theorem, 
+Random 
+Variables, 
+Expectation and Variance, Notation, Joint and Conditional Distributions, 
+Standard Distributions, Bayesian Statistics. 
+12 
+2 
+Statistical Inference- n-gram Models over Sparse Data, Bins: Forming 
+Equivalence Classes, Reliability vs Discrimination, n-gram Models 
+Markov Models- Hidden Markov Models, Use of HMMs, General Form of 
+8 
+
+ 
+ 
+HMM, Probability of an Observation, Best State Sequence 
+3 
+Word Sense Disambiguation- Methodological Preliminaries,  Supervised and 
+unsupervised learning, Pseudowords, Upper and lower bounds on performance, 
+Supervised Disambiguation, Bayesian classification-, Dictionary based 
+Disambiguation, Disambiguation based on sense definitions, Thesaurus based 
+disambiguation, 
+Lexical 
+Acquisition, 
+ 
+Evaluation 
+Measures, 
+Verb 
+subcategorization,      Attachment Ambiguity, PP attachment, Selectional 
+references, Semantic Similarity,  Word2Vec and Doc2Vec 
+10 
+4 
+Grammar and tools: Part-of-Speech Tagging, The Information Sources in 
+Tagging, Markov Model Taggers, Hidden Markov Model Taggers, Applying 
+HMMs to POS Tagging, Probabilistic Context Free Grammars, Some Features 
+of PCFGs, Questions for PCFGs, The Probability of a String, Using Inside 
+Probabilities, Using Outside Probabilities, Finding the Most Likely Parse for a 
+Sentence, Parsing for Disambiguation, Parsing Model versus Language Model, 
+Language Processing with Python using NLTK 
+10 
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+ At the end of the course students should be able to: 
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1
+Explain the fundamental linguistic concepts, including parts of speech, 
+morphology, phrase structure, semantics, and pragmatics to analyze 
+natural language data. 
+K2 
+CO2 Describe probabilistic and statistical models, such as n-gram models and 
+Hidden Markov Models (HMMs), to process and predict linguistic 
+patterns in sparse data.  
+K2 
+CO3 Demonstrate knowledge of word sense disambiguation techniques, 
+including supervised and unsupervised learning methods 
+K2 
+CO4 Evaluate and employ lexical acquisition methods, such as verb 
+subcategorization and semantic similarity measures 
+K5 
+CO5
+Utilize computational tools and grammars, such as part-of-speech 
+tagging, probabilistic context-free grammars (PCFGs), and Python 
+NLTK, to develop and implement language processing applications. 
+K3 
+
+ 
+ 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Foundations of Statistical Natural      
+Language Processing 
+C.D.Manning 
+H. Schutze 
+MIT Press 
+1/e, 1999 
+2 
+Natural Language Processing with 
+Python and NLTK.  
+Steven Bird, Ewan 
+Klein, Edward Loper 
+O’reilly Pub 
+1/e, 2009 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Speech and Language Processing: 
+Introduction to Natural Language 
+Processing Computational Linguistics 
+and Speech Recognition, PHI 
+D. Jurafsky, J H Martin 
+Pearson 
+1/e,, 2009 
+2 
+Natural Language Understanding  
+James Allen 
+Benjamin-
+Cummings 
+1/e,, 1988 
+3 
+ 
+Natural Language Processing: Python 
+and NLTK 
+Nithin Hardeniya, Jacob 
+Perkins, Deepthi Chopra, 
+Nisheeth Joshi, Iti Mathur 
+Packt 
+Publishing 
+1/e,, 2016 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+3 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5
+3 
+3 
+ 
+ 
+3 
+ 
+ 
+ 
+3 
+3 
+3 
+3 
+
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1,2,3 
+https://onlinecourses.nptel.ac.in/noc20_cs87/preview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+SEMESTER S6 
+MACHINE LEARNING IN COMPUTATIONAL BIOLOGY

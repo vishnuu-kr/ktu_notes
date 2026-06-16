@@ -1,0 +1,392 @@
+Course Code 
+PEAET635 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBECT504 Digital 
+Signal Processing 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To establish a theoretical foundation for fundamental concepts in Digital Image Processing  
+2. Comprehend the algorithms utilized in two-dimensional signal processing.  
+3. Apply image processing techniques to address engineering challenges. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Digital Image Fundamentals - Image representation, basic relationship 
+between pixels, elements of DIP system, elements of visual perception-
+simple image formation model. Digital Camera working principles 
+Brightness, Contrast, Hue, Saturation. 
+Colour image fundamentals - RGB, CMY, HIS models, 2D sampling, 
+Quantization. 
+Review of matrix theory - Row and column ordering - Toeplitz, Circulant 
+and block matrix. 
+ 
+9  
+2 
+2D Image transforms - DFT and its properties, DCT, KL transform and 
+Singular Value Decomposition. 
+Image Enhancement - Spatial domain methods - point processing- intensity 
+transformations, histogram processing, image subtraction, image averaging. 
+ 
+9  
+
+ 
+ 
+Spatial filtering- smoothing filters, sharpening filters. 
+Frequency domain methods - low pass filtering and high pass filtering. 
+3 
+Image Restoration - Degradation model, Unconstrained restoration- 
+Lagrange multiplier and constraint restoration 
+Inverse filtering - removal of blur caused by uniform linear motion. 
+Feature Extraction - Introduction to feature extraction techniques-Harris 
+corner detection, SIFT 
+9  
+4 
+Feature descriptors - Histogram of Oriented Gradients (HOG), Scale 
+Invariant Features  
+Image Classification - Support Vector Machine, Decision Trees, Object 
+Detection using HOG, Object Detection using Viola-Jones Algorithm. 
+Image Segmentation - Thresholding, Region-based segmentation, Clustering 
+techniques (k-means).  
+Morphological Operations - Dilation and Erosion, Opening and Closing, Hit-
+or-Miss transformation, Boundary Extraction, Region filling,  
+ 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+ 
+Each student should design, implement, and analyze a digital image processing system 
+for various applications.  
+ 
+System development can be accomplished using 
+ 
+Python: OpenCV, NumPy, Scikit-image 
+ 
+MATLAB: Image Processing Toolbox 
+ 
+Each student should do minimum two microprojects from each of the below Topics 
+1 to 5. Topic 6 is not compulsory. 
+ 
+Topic 1: Basic Image Manipulation 
+▪ Grayscale Conversion: Convert color images to grayscale. 
+▪ Image Resizing: Implement different resizing techniques (nearest neighbor, 
+
+ 
+ 
+bilinear, bicubic). 
+▪ Image Cropping: Allow users to crop specific regions of an image. 
+▪ Image Rotation: Rotate images by specified angles. 
+▪ Image Flipping: Flip images horizontally or vertically. 
+ 
+Topic 2: Image Enhancement 
+▪ Contrast Adjustment: Adjust image contrast using linear or non-linear methods. 
+▪ Brightness Adjustment: Modify image brightness. 
+▪ Histogram Equalization: Enhance image contrast using histogram equalization. 
+▪ Image Sharpening: Apply sharpening filters to enhance image details. 
+ 
+Topic 3: Image Filtering 
+▪ Averaging Filter: Apply a smoothing filter to reduce noise. 
+▪ Median Filter: Remove noise while preserving edges. 
+▪ Gaussian Blur: Create a Gaussian blur effect. 
+▪ Edge Detection: Implement edge detection techniques (Sobel, Canny). 
+ 
+Topic 4: Image Analysis 
+▪ Image Segmentation: Divide an image into meaningful regions. 
+▪ Object Detection: Detect specific objects within an image. 
+▪ Feature Extraction: Extract relevant features from images  
+ 
+Topic 5: Image Classification 
+▪ Traffic Sign Recognition: Classify common traffic signs (stop, yield, speed 
+limit, etc.). 
+▪ Cat vs. Dog Classification: Build a model to differentiate between cat and dog 
+images. 
+▪ Classify fruits (apples, oranges, bananas). 
+ 
+Topic 6 (optional): Advanced Image Classification with Machine Learning 
+▪ Recognize different types of flowers. 
+▪ Classify types of cars (sedan, SUV, truck). 
+▪ Detect objects in images (faces, cars, pedestrians). 
+ 
+The project deliverables consist of the following components: 
+ 
+Detailed design specifications 
+ 
+Identification and resolution of technical challenges 
+ 
+Designed and developed  algorithms 
+ 
+Implementation results and performance evaluations 
+
+ 
+ 
+ 
+Comprehensive project report, incorporating methodology, results, challenges, and 
+recommendations. 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full 
+question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module. 
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+2 questions will be given from each module, 
+out of which 1 question should be answered. 
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+ 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Identify and summarize the aspects of digital image processing. 
+K2 
+CO2 
+Demonstrate knowledge of the significance of transforms in digital 
+image processing. 
+K2 
+CO3 
+Apply principles and techniques of image restoration, enhancement, 
+and segmentation. 
+K2 
+CO4 
+Utilize modern principles and techniques for classifying and 
+segmenting images. 
+K3 
+CO5 
+Model and solve engineering problems by utilizing digital image 
+processing algorithms. 
+K5 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Image Processing 
+Gonzalez Rafel C 
+Pearson Education 
+1/e, 2009 
+2 
+Fundamentals of digital image 
+processing 
+Jain Anil K 
+Prentice Hall 
+1/e, 1989 
+3 
+Foundations of Computer 
+Vision 
+Antonio Torralba 
+MIT Press 
+1/e, 2024 
+4 
+Computer Vision: Algorithms 
+and Applications 
+ Richard Szeliski, 
+Springer 
+2/e,  2010 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital image processing 
+Kenneth R Castleman 
+Pearson Education 
+2/e, 2003 
+2 
+Digital image processing 
+Pratt William K 
+John Wiley 
+4/e, 2007 
+3 
+Hands-On Image Processing 
+with Python 
+ Sandipan Dey 
+Packt Publishing 
+1/e, 2024 
+4 
+Computer Vision with Python 3 
+Saurabh Kapur 
+Packt Publishing 
+1/e, 2017 
+5 
+Programming Computer Vision 
+with Python 
+Jan Erik Solem 
+O'Reilly Media 
+1/e, 2012 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3
+2
+2
+2
+ 
+3
+CO3 
+3
+2
+2
+2
+2
+3
+CO4 
+3 
+2 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+2 
+3 
+2 
+2 
+2 
+2 
+2 
+ 
+ 
+3 
+3 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+ https://www.youtube.com/playlist?list=PL1F076D1A98071E24 
+2 
+ https://www.youtube.com/playlist?list=PL1F076D1A98071E24 
+3 
+ https://www.youtube.com/playlist?list=PL1F076D1A98071E24 
+4 
+ https://www.youtube.com/playlist?list=PL1F076D1A98071E24           
+ https://www.youtube.com/playlist?list=PLwdnzlV3ogoVsma5GmBSsgJM6gHv1QoAo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S6 
+  EMBEDDED SYSTEM DESIGN

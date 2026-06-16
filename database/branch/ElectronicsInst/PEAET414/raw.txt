@@ -1,0 +1,808 @@
+Course Code 
+PEAET414 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam 
+Hours
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GYEST204  Program
+ming in C 
+Course 
+Type
+Theory 
+ 
+Course Objectives: 
+1. 
+To acquire knowledge about algorithms and their complexities 
+2. 
+To develop algorithms for sorting,  linked list, trees and graphs 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Data Structures 
+System Life Cycle, Algorithms, Performance Analysis, Space Complexity, 
+Time Complexity, Asymptotic Notation  
+(Big O Notation), Complexity Calculation of Simple Algorithms. 
+Primitive and Non-primitive data structures, Abstract data types, Array as 
+ADT, Operations on ADT (insert, delete, search, sort), Queue as ADT, 
+Circular queue, Priority queue, Stack as ADT. 
+ 
+9 
+2 
+Sorting and Searching Algorithms 
+Sorting algorithms - Selection sort, insertion sort, merge sort, quick sort. 
+ Searching algorithms - Linear search and Binary search algorithms. 
+Hashing - Basic concepts of Hashing and hash functions. 
+ 
+9 
+3 
+Linked List 
+Self-Referential Structures, Dynamic Memory Allocation, Singly Linked List 
+- Operations on Linked List, Doubly Linked List, Circular Linked List, Stacks 
+and Queues using Linked List. 
+9 
+4 
+Trees and Graphs 
+Trees, Binary Trees-Tree Operations, Binary Tree Representation, Tree 
+Traversals, Binary Search Trees- Binary Search Tree Operations. 
+Graphs - Representation of Graphs, Depth First Search and Breadth First 
+Search on Graphs, Applications of Graphs. 
+ 
+9 
+ 
+ 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one full question 
+out of two questions 
+Part A 
+Part B 
+Total 
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Design an algorithm to do a particular task and calculate its time/space 
+complexities  
+K3
+CO2 
+To familiarize data structures like arrays/linked list and their related 
+operations 
+K2
+CO3 
+Design algorithms for sorting and searching problems 
+K3
+CO4 
+Design data structures for solving real world problems using trees and 
+graphs 
+K3
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Algorithms 
+Thomas H. 
+Cormen, Charles E. 
+Leiserson, Ronald L. 
+Rivest and Clifford Stein
+MIT Press 
+4th 
+Edition, 
+2022 
+2 
+Data Structures: A Pseudocode 
+Approach with C  
+ 
+Richard F. Gilberg 
+Cengage India 
+Private Limited 
+2nd 
+Edition , 
+2007 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Data structures and 
+algorithm analysis in C 
+Mark Allen Weiss 
+Pearson Education 
+2nd 
+Edition, 
+2002 
+2 
+An Introduction to Data 
+Structures with 
+Application 
+ J P Trembley and P Sorenson 
+McGraw Hill 
+2nd 
+Edition, 
+2017 
+3 
+Data Structures and 
+Algorithms 
+Aho A. V., J. E. Hopcroft and 
+J. D. Ullman 
+Pearson Education 
+1st 
+Edition, 
+2002 
+4 
+ 
+ 
+Data structures using C 
+ 
+Aaron M. Tenanbaum, Y. 
+Langsam and M J Augenstein 
+PHI 
+2017 
+5 
+Fundamental of Data 
+structure in C 
+E. Horowitz, S Sahni and S 
+Anderson-Freed 
+W H Freeman and 
+Co. 
+1992 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 
+PO12 
+CO1 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+   2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106102064 
+2
+https://nptel.ac.in/courses/106102064
+3
+https://nptel.ac.in/courses/106102064
+4 
+https://nptel.ac.in/courses/106102064 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+DIGITAL SYSTEMS AND VLSI DESIGN 
+ 
+Course Code 
+PEECT 415 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam 
+Hours
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PBECT304 Logic 
+Circuit Design 
+Course 
+Type 
+Theory 
+ 
+Course Objectives: 
+1. To equip students with comprehensive knowledge and skills in designing, analysing, modelling, 
+and optimizing clocked synchronous sequential networks (CSSNs). 
+2. To provide a thorough understanding of the designing, analyzing, and optimizing techniques 
+of asynchronous sequential circuits (ASCs). 
+3. To equip students with the knowledge and skills to identify and mitigate static and dynamic 
+hazards and to understand fault detection and testing methods. 
+4. To provide students with a comprehensive understanding of the VLSI design flow and the 
+application of VHDL constructs and coding for combinational and sequential circuits. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours 
+1 
+Clocked Synchronous Networks, Analysis of Clocked Synchronous 
+Sequential Networks (CSSN), Mealy machine, Moore machine, 
+Modelling of CSSN, State assignment and reduction, Design of CSSN, 
+ASM Chart and its realization. 
+9 
+2 
+Asynchronous Sequential Circuits, Analysis of Asynchronous Sequential 
+Circuits (ASC), Flow table reduction, Races in ASC, State assignment 
+problem and the transition table, Design of Asynchronous Sequential 
+Circuits, Design of ALU. 
+9 
+3 
+Hazards – static and dynamic hazards in combinational networks,  
+Essential Hazards, Design of Hazard free circuits, Data synchronizers, 
+9 
+
+ 
+ 
+Mixed operating mode asynchronous circuits, Practical issues- clock 
+skew and jitter, Synchronous and asynchronous inputs, Flip-Flops and 
+Simple Flip-Flop Applications, switch debouncer. 
+Faults, Fault table method – path sensitization method – Boolean 
+difference method, Kohavi algorithm, Automatic test pattern generation – 
+Built in Self-Test (BIST) 
+4 
+VLSI Design flow: Design entry: Schematic, FSM & HDL, VHDL 
+Hardware Description Language, VHDL Modules, VHDL Processes, 
+Different modeling styles in VHDL, Data types and operators, Objects, 
+Dataflow, Behavioral and Structural Modeling, Synthesis, Simulation. 
+VHDL constructs and codes for combinational and sequential circuits. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Evaluation Methods: 
+ 
+1. Experiments Using Design and Analysis Tools: (10 marks) 
+ 
+ 
+Students can perform specific experiments using tools like GHDL, iVerilog, ModelSim, 
+                 Xilinx ISE, Vivado etc. 
+ 
+Each experiment can focus on designing and simulating different types of circuits 
+                (synchronous, asynchronous, combinational, sequential). 
+2. Course Project: 
+Comprehensive project involving design, modeling, and analysis of a digital system. (10 marks) 
+Project phases: Proposal, Design, Implementation, Testing, Final Report. 
+Presentations and Viva Voce: 
+ 
+Students present their projects and experiments, explaining design choices, methodologies, 
+                and results. 
+ 
+Viva voce to assess understanding and ability to answer related questions. 
+ 
+
+ 
+ 
+Sample Experiments: 
+Experiment 1: Basic Mealy/Moore Machine Design 
+ 
+Objective: Design a simple Mealy/Moore machine to detect a specific sequence of bits 
+                 (e.g., "101"). 
+ 
+Tools: VHDL/Verilog, GHDL, iVerilog, ModelSim/Xilinx ISE, Vivado. 
+ 
+ Steps: 
+1. Draw the state diagram for the sequence detector. 
+2. Write the VHDL or Verilog code for the Mealy machine. 
+3. Simulate the design to verify its functionality. 
+Experiment 2: Basic Flow Table Reduction 
+ 
+Objective: Reduce the flow table for a simple asynchronous sequential circuit. 
+ 
+ Tools: Manual calculation, VHDL/Verilog for verification. 
+ 
+ Steps: 
+1. Given a flow table, perform flow table reduction. 
+2. Assign binary codes to the reduced states. 
+3. Implement the reduced state machine in VHDL or Verilog and simulate it. 
+ 
+Experiment 3: Identifying and Eliminating Static Hazards 
+ 
+Objective: Identify and eliminate static hazards in a simple combinational circuit.  
+ 
+ Tools: VHDL/Verilog, GHDL, iVerilog, ModelSim/Xilinx ISE, Vivado.  
+ 
+ Steps: 
+1. Design a combinational circuit with a known static hazard. 
+2. Identify the static hazard in the circuit. 
+3. Modify the design to eliminate the static hazard and simulate it. 
+Experiment 4: Fault Detection Using Path Sensitization 
+ 
+Objective: Use the path sensitization method to detect faults in a simple digital circuit.  
+ 
+ Tools: VHDL/Verilog, GHDL, iVerilog, ModelSim/Xilinx ISE, Vivado. 
+ 
+ Steps: 
+1. Design a simple digital circuit. 
+2. Apply the path sensitization method to detect faults. 
+3. Impleent and simulate the circuit in VHDL or Verilog to verify fault detection. 
+Sample Project Topics: 
+1. Design and Analysis of a Traffic Light Controller Using Mealy and Moore Machines 
+2. State Reduction and Assignment for a Sequence Detector 
+3. Design and Analysis of an Asynchronous Sequence Detector 
+4. Designing a Simple Arithmetic Logic Unit (ALU) with Flow Table Reduction and Hazard 
+    Handling 
+5. Design of a Hazard-Free Circuit for a Critical Application 
+
+ 
+ 
+6. Implementing Data Synchronizers for Mixed Operating Mode Asynchronous Circuits 
+7. Comprehensive VLSI Design Project Using VHDL (e.g., Digital Clock, ALU, Traffic Light 
+    Controller) 
+8. Synthesis and Simulation of Complex Sequential Circuits Using Different VHDL Modeling 
+     Styles 
+Criteria for Evaluation: Lab Experiments (10 marks) 
+1. Understanding of Concepts (3 marks) 
+ 
+Demonstrates a clear understanding of the theoretical concepts related to the 
+                 experiment. 
+ 
+Correctly explains the purpose and expected outcomes of the experiment. 
+2. Implementation and Accuracy (3 marks) 
+ 
+Correctly implements the design using appropriate tools.  
+ 
+ The design functions as expected without errors. 
+3. Analysis and Problem-Solving (2 marks) 
+ 
+Effectively analyse the design to identify and resolve issues. 
+ 
+Demonstrates problem-solving skills in addressing any encountered challenges. 
+4. Documentation and Reporting (1 mark) 
+ 
+Provides clear and concise documentation of the steps and processes followed. 
+ 
+The report includes diagrams, code snippets, and simulation results. 
+5. Presentation and Communication (1 mark) 
+ 
+Clearly presents the experiment and its results. 
+ 
+Able to answer questions and explain the design choices. 
+Criteria for Evaluation: Course Project (10 marks) 
+1. Project Proposal and Planning (2 marks) 
+ 
+Submits a well-defined project proposal outlining objectives, methodology, and 
+        expected outcomes. 
+ 
+Demonstrates thorough planning and a clear timeline for the project. 
+       2. Design and Implementation (3 marks) 
+ 
+Implements the project design accurately using appropriate tools and techniques. 
+ 
+The design is functional and meets the project objectives. 
+      3. Innovation and Creativity (2 marks) 
+ 
+Introduces innovative ideas or unique approaches in the design and 
+               implementation. 
+ 
+Demonstrates creativity in solving problems or optimizing designs. 
+     4. Analysis and Testing (2 marks) 
+ 
+Effectively analyzes the project design to identify and address any issues. 
+ 
+Conducts thorough testing to verify the functionality and performance of the 
+
+ 
+ 
+               design. 
+    5. Final Report and Presentation (1 mark) 
+ 
+Submits a comprehensive final report detailing the project, including objectives, 
+                design, methodology, analysis, and results. 
+ 
+Clearly presents the project and its outcomes, and effectively communicates the 
+                key points. 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24 marks) 
+ 
+2 questions will be given from each 
+module, out of which 1 question should 
+be answered.  
+ 
+Each question can have a maximum of 3 
+sub divisions.  
+ 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Design, analyze, and model clocked synchronous sequential networks 
+(CSSNs), optimize state assignment and reduction, and effectively utilize 
+ASM charts for the realization of complex digital systems. 
+K3 
+CO2 
+Design and analyze asynchronous sequential circuits (ASCs), perform 
+flow table reduction, address race conditions and state assignment 
+problems, and design both ASCs and Arithmetic Logic Units (ALUs). 
+K3 
+CO3 
+Identify and mitigate static and dynamic hazards in combinational 
+networks, design hazard-free circuits, address practical issues in digital 
+systems and apply fault detection and testing methods. 
+K2 
+CO4 
+Understand the VLSI design flow, utilize various design entry methods, 
+apply different VHDL modeling styles, and develop and simulate VHDL 
+constructs for combinational and sequential circuits. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Principles & Design 
+Donald G Givone 
+McGraw Hill 
+Education 
+2017 
+2 
+Digital Design: Principles and 
+Practices 
+John F Wakerly 
+Pearson India 
+4th, 2008 
+3 
+Digital Logic Applications and 
+Design 
+John M Yarbrough 
+Cengage Learning 
+India 
+1st,  2006 
+4 
+Digital Design: With an 
+Introduction to the Verilog 
+HDL, VHDL, and 
+SystemVerilog 
+M.Morris Mano and 
+Michel.D.Ciletti, 
+Pearson 
+6th, 2017 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+2 
+2 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Systems Testing and 
+Testable Design 
+Melvin A. Breuer, Miron 
+Abramovici, Arthur D. 
+Friedman 
+Wiley-IEEE Press 
+1st, 1994 
+2 
+Logic Design Theory 
+Nripendra N. Biswas 
+Prentice Hall 
+1993 
+3 
+Introduction to Digital Design 
+Using Digilent FPGA Boards: 
+Block 
+Diagram 
+/ 
+VHDL 
+Examples 
+Richard E. Haskell 
+Darrin M. Hanna 
+LBE Books- LLC 
+2019 
+4 
+Digital Circuits and 
+Logic 
+Design 
+Samuel C. Lee 
+Prentice Hall India 
+Learning Private 
+Limited 
+1980 
+5 
+Switching and Finite Automata 
+Theory 
+Zvi Kohavi, Niraj K. Jha 
+Cambridge University 
+Press 
+3rd 2009 
+6 
+Digital System Design Using 
+VHDL 
+Rishabh Anand 
+Khanna Publishing 
+1st, 2013 
+7 
+Digital System Design Using 
+VHDL 
+Lizy Kurian John, 
+Charles H. Roth 
+Cengage 
+1st, 2012 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/117/106/117106086/ 
+ 
+2 
+https://archive.nptel.ac.in/courses/117/106/117106086/ 
+ 
+3 
+https://archive.nptel.ac.in/courses/108/105/108105132/  
+Lecture 15 
+4 
+https://nptel.ac.in/courses/108106177 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+MACHINE LEARNING

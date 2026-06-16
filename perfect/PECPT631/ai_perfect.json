@@ -1,0 +1,74 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "The RISC Design Philosophy",
+            "ARM Design Philosophy",
+            "Embedded System Hardware - AMBA Bus Protocol",
+            "Embedded System Software Applications",
+            "ARM Core Data Flow Model",
+            "Registers",
+            "CPSR - Processor Modes",
+            "Banked Registers",
+            "Pipeline Characteristics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Fundamentals of ARM Instructions",
+            "Barrel Shifter",
+            "Classification and Explanation of Instructions with Examples - Data Processing",
+            "Branch",
+            "Load-Store",
+            "SWI and Program Status Register Instruction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to Thumb",
+            "Differences Between ARM and Thumb",
+            "Register Usage in Thumb",
+            "ARM Thumb Interworking",
+            "General Structure of ARM Assembly Module",
+            "Assembler Directives - AREA",
+            "ENTRY",
+            "SPACE",
+            "EXPORT",
+            "ALIGN",
+            "CODE16",
+            "CODE32",
+            "DATA",
+            "Simple ALP Programs on Arithmetic and Logical Operations",
+            "Factorial",
+            "String Operation",
+            "Sorting",
+            "Searching"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Exception Handling - ARM Processor Exceptions and Modes",
+            "Vector Table",
+            "Exception Priorities",
+            "Link Register Offsets",
+            "Interrupts - Assigning Interrupts",
+            "Interrupt Latency",
+            "IRQ and FIQ Exceptions with Example Code for Enabling and Disabling IRQ and FIQ Exceptions",
+            "Comparison Between Exceptions and Interrupts",
+            "Interrupt Handling Schemes - Nested Interrupt Handler",
+            "Non-Nested Interrupt Handler",
+            "Basic Interrupt Stack Design"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

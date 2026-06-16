@@ -1,0 +1,93 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Pre-Processing Measures - Geometrical Transformations and Image Interpolation",
+            "Distortion Identification - Disparity Analysis",
+            "Image Registration - Global Similarity",
+            "Transform Identification",
+            "Registration Evaluation and Approval",
+            "Image Fusion",
+            "Image Subtraction and Addition",
+            "Vector-Valued Images",
+            "Presentation of Vector-Valued Images",
+            "Three-Dimensional Data from Two-Dimensional Slices",
+            "Panorama Fusion",
+            "Stereo Surface Reconstruction",
+            "Time Development Analysis",
+            "Time Development via Disparity Analysis",
+            "Time Development via Optical Flow"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Image Intensity versus Image Texture",
+            "Characterizing the Texture",
+            "From Markov Random Fields to Fractals",
+            "From Markov Random Fields to Gibbs Distributions",
+            "Local Binary Patterns (LBPs)",
+            "Co-occurrence Matrices",
+            "Generalized Co-occurrence Matrices",
+            "Orientation Histograms",
+            "Textons",
+            "From Spatio-Frequency to Spatio-Structural Space",
+            "Statistical Spatio-Structural Space",
+            "Monogenic Signal",
+            "From Monogenic Signal Back to Gabor Functions",
+            "Deep Learning Techniques on Texture Analysis - Lung Nodule Detection in CT Scans"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Creating an ASM",
+            "Using ASMs for Segmentation",
+            "The Active Appearance Model",
+            "Deficiencies of Statistical Shape Models",
+            "Changing the Parametric Model",
+            "Using a Part-Based Model",
+            "Using a Non-Parametric Model",
+            "Physically-Based Shape Models",
+            "Mass-Spring Models",
+            "Finite Element Models",
+            "Shape",
+            "Appearance and Pose Priors for Segmentation",
+            "Atlas-Based Segmentation",
+            "Combining Shape Information with Level Set Segmentation",
+            "Solutions Based on Graph Cuts",
+            "Graph Cuts on Pre-Segmented Images"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Surface Rendering",
+            "Reconstruction of Surfaces from Contours",
+            "Marching Cubes",
+            "Indirect Volume Visualization - Surface Rendering of Unsegmented and Segmented Volume Data",
+            "Advanced Mesh Smoothing",
+            "Mesh Simplification and Web-Based Surface Rendering",
+            "Image Storage and Transfer",
+            "Image Management: Archiving",
+            "Information Systems in a Hospital",
+            "The DICOM Standard",
+            "Establishing DICOM Connectivity",
+            "The DICOM File Format",
+            "Technical Properties of Medical Images",
+            "Displays and Workstations",
+            "HL7 Standard",
+            "Principles of Image Compression for Archiving and Communication",
+            "Philosophy of Image Compression",
+            "Generic Still-Image Compression System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

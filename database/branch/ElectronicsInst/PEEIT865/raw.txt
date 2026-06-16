@@ -1,0 +1,393 @@
+Course Code 
+PEEIT865 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PEAET527 
+Introduction to 
+Robotics
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To familiarize robot structures and distinguish between different sensors and drives. 
+2. To develop skills in performing spatial transformations and kinematic analysis of robot 
+manipulator. 
+3. To develop knowledge installing and commissioning the robot.. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to robotics 
+Robot 
+definition, 
+applications, 
+Industrial 
+robot 
+anatomy, 
+robot 
+classifications, Understanding its technical specifications, serial robots and 
+parallel robots. 
+Electrical Actuators and Drives:  
+DC Motors, Stepper motors, BLDC Motor, and Synchronous AC servo 
+motors, Industrial Servo drives, hardware controllers and interfaces, 
+Selection of motors. Understanding Manufacturer's Technical datasheet. 
+8  
+2 
+Robot sensors and its interfaces 
+Robot sensors and its interfaces: Contact and non-contact sensors; position, 
+velocity, acceleration, proximity, and force sensors. Characteristics of 
+Sensors 
+Grubler-Kutzbach Criterion; DOF of a Robot Manipulator. Kinematic 
+Transformations: Homogeneous Transformation, Denavit-Hartenberg (DH) 
+Parameters; Forward Kinematics.. 
+Inverse Kinematic Model – Manipulator Workspace-Solvability-Solution 
+10  
+
+ 
+ 
+techniques-Closed form solution. 
+ 
+3 
+Industrial Robot Installation and Commissioning, Mastering a Robot, Tool 
+Center Point Calibration: 4-Point method, External reference method, 
+Orientation calibration: World frame method, Two-point method. 
+Calibration of Industrial Robot system: External fixed tool, Workpiece 
+calibration: Direct and Indirect. 
+9  
+4 
+Imaging components-image representation-picture coding-object recognition 
+and categorization-visual inspection.Robot cell-design and control layouts. 
+Industrial 
+Applications 
+– 
+Material 
+Handling, 
+Process, 
+Assembly, 
+Inspection.Non-Industrial Applications. 
+9  
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation(Evaluate and Analyse): 20 marks 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Each student should Design, simulate, and analyze a robotic arm with three or more 
+degrees of freedom (DoF) for a pick and place system, operating within a defined work 
+volume. 
+ 
+Computational tools such as MATLAB or Octave can be utilized for for simulation and 
+analysis. 
+ 
+Find below the details of the project and the outcomes to be evaluated. 
+ 
+Project: Design, simulate, and analyze a robotic arm with three or more degrees of freedom 
+(DoF) for a pick and place system, operating within a defined work volume. 
+Project Components: 
+1. Design Specifications and Simulation 
+ 
+Develop comprehensive arm specifications, including: a) Link 
+dimensions b) Joint movement parameters c) Actuator specifications d) 
+Sensor requirements 
+
+ 
+ 
+ 
+Ensure design enables full access to the specified work volume 
+ 
+Create a detailed 3D model for simulation purposes 
+2. 
+Kinematic Analysis 
+ 
+Derive kinematic equations using Denavit-Hartenberg (DH) parameters 
+ 
+Construct homogeneous transformation matrices 
+ 
+Implement and validate forward as well as inverse kinematics 
+3. 
+Path Planning and Motion Simulation 
+ 
+Define an efficient path for pick and place operations 
+ 
+Simulate arm movements along the planned path 
+ 
+Analyze motion profiles for optimization opportunities 
+4. 
+Actuator Modeling and Dynamic Analysis 
+ 
+Develop an electric motor models for joint actuation 
+ 
+Simulate joint torques and forces during movement under a fixed load 
+condition 
+5. 
+Control System Implementation and Evaluation 
+ 
+Simulate arm movement along the predefined path under load for each 
+control strategy 
+ 
+Evaluate and compare performance metrics for each control method 
+Project Deliverables: 
+1. Detailed design specifications and 3D model 
+2. Kinematic and dynamic analysis reports 
+3. Identify and address technical challenges encountered 
+4. Simulation results and performance comparisons 
+5. Comprehensive project report including methodology, results, challenges, 
+and recommendations 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks)
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Compare, evaluate and choose sensors/drives for robots 
+K2 
+CO2 
+Understand the kinematic model of a  manipulator and the inverse 
+kinematics
+K2 
+CO3 
+Understand the steps for installation and commissioning of industrial 
+robots
+K2 
+CO4 
+Choose appropriate image processing techniques for robotic 
+applications
+K3 
+CO5 
+llustrate the various indsurial applications of robotics systems . 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+2 
+ 
+3 
+ 
+CO4 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Modern Robotics: Mechanics, 
+Planning, and Control 
+ Kevin M. Lynch, Frank 
+C. Park 
+Cambridge University 
+Press 
+1st Edition, 
+2017 
+2 
+Robotics:  
+Modelling, Planning and 
+Control 
+Bruno Siciliano,   
+Lorenzo Sciavicco, Luigi 
+Villani, Giuseppe Oriolo 
+Springer 
+1st Edition, 
+2009 
+3 
+ ‘Robotics: Control, Sensing, 
+Vision, and Intelligence’  
+Fu, K.S., Gonzalez, R.C. 
+and Lee C.S.G 
+McGraw Hill, New 
+York, NY 
+1987 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+https://onlinecourses.nptel.ac.in/noc24_me117/preview 
+NPTEL 
+ 
+Industrial Robotics : Theories for Implementation 
+By Prof. Arun Dayal Udai   |   IIT-ISM Dhanbad 
+ 
+ 
+ 
+Text Books 
+Sl. 
+No 
+Title of the Book 
+Name of the Author/s
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+ “Introduction to 
+Robotics 
+. 
+S. K. Saha 
+McGraw Hill 
+Education, (India) 
+Pvt. Ltd. 
+2nd Edition,. 
+2008. 
+2 
+Introduction to Robotics: 
+Mechanics and Control” 
+John J. Craig, 
+Pearson Publishers 
+3rd 
+edition,2008 
+3 
+Robot Modeling and 
+Control 
+Mark W. Spong, Seth 
+Hutchinson, M. 
+Vidyasagar 
+Wiley (India) 
+2nd Edition, , 
+2020. 
+
+ 
+ 
+SEMESTER S8 
+MECHATRONICS

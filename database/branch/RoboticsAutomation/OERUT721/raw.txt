@@ -1,0 +1,311 @@
+Course Code 
+OERUT721 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To give students the ability to understand the various types of mobile robots and sensors used 
+for these robots 
+2. To give students the ability to apply different models and algorithms to kinematics, 
+localization and navigation of mobile robots 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Types of Mobile Robots: 
+Introduction, key issues for locomotion, Wheeled Mobile Robots, Wheeled 
+locomotion: The design space, Wheeled locomotion: Case studies, Legged 
+Mobile Robots - Leg configurations and stability, Examples of legged robot 
+locomotion, aerial robots, underwater robots and surface water robots 
+ 
+9  
+2 
+Sensors for mobile robot navigation:  
+Sensor classification, Characterizing sensor performance, Wheel /motor 
+sensors, Heading sensors, Accelerometers, IMUs, Ground-based beacons, 
+Active ranging, Motion/speed sensors, Robot Vision: Sensing, Pre-
+processing, Segmentation, Description, Recognition, Interpretation, Feature 
+extraction 
+ 
+9  
+3 
+Mobile Robot Kinematics:   
+Introduction, Kinematic Models and Constraints -  Representing robot 
+position, Forward kinematic models, Wheel kinematic constraints for Fixed 
+standard wheel, Steered standard wheel and Castor wheel only, Robot 
+kinematic constraints 
+Example of Robot kinematic models and constraints: Differential-drive robot 
+9 
+
+ 
+ 
+only 
+Mobile Robot Maneuverability - Degree of mobility, Degree of steerability, 
+Robot maneuverability, Mobile Robot Workspace - Degrees of freedom, 
+Holonomic robots 
+4 
+Robot Navigation:  
+Robot Localization: Challenges in localization, An error model for 
+odometric position estimation, Localization-Based Navigation versus 
+Programmed Solutions, Belief Representation - Single-hypothesis belief, 
+Multiple-hypothesis belief, Markov versus Kalman Localization (basics 
+only) 
+Path Planning: Local vs global path planning, Joint space versus Cartesian 
+Space Trajectory Planning, Cubic Polynomial and LSPB methods of joint 
+space trajectory planning, Graph search,  Dijkstra’ s algorithm, A*, D* 
+algorithms, Potential field based path planning,  Bug algorithm 
+ 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Describe the various types of mobile robots 
+K2 
+CO2 
+Explain the working and application of sensors used in mobile robots 
+K2 
+CO3 
+Derive kinematic constraints and models for mobile robots 
+K2 
+CO4 
+Apply various algorithms and techniques for localization and path 
+planning of mobile robots 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Autonomous 
+Mobile Robots 
+R Siegwart, IR 
+Nourbakhsh, D Scaramuzza 
+The MIT Press 
+ 2nd 
+edition, 
+2011 
+2 
+Introduction to Mobile Robot 
+Control 
+Spyros G. Tzafestas 
+Elsevier Science 
+Publishing Co Inc 
+1st edition, 
+2013 
+3 
+Sensors for mobile robot: Theory 
+and Application 
+H.R. Everett 
+A K Peters/CRC 
+Press 
+1st edition, 
+1995 
+4 
+Chapman & Hall_CRC Artificial 
+Intelligence and Robotics Series - 
+A First Course in Aerial Robots 
+and Drones- 
+Yasmina Bestaoui Sebbane 
+CRC Press  
+1st edition, 
+2022 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO2 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO3 
+3 
+3 
+3 
+- 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO4 
+3 
+3 
+3 
+- 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Mobile Robotics: Mathematics, 
+Models and methods 
+A Kelly 
+Cambridge 
+University 
+Press 
+2013 
+2 
+Computational Principles of Mobile 
+Robotics 
+Gregory Dudek, 
+Michael Jenkin 
+Cambridge University 
+Press 
+2nd edition, 
+2010 
+3 
+Autonomous Mobile Robots and 
+Multi-Robot Systems - Motion-
+Planning, Communication, and 
+Swarming 
+Kagan, Shvalb, 
+Ben-Gal 
+Wiley 
+1st edition, 
+2019 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc24_ge31/preview 
+2 
+https://nptel.ac.in/courses/112105249/ 
+3 
+https://archive.nptel.ac.in/courses/112/106/112106298/ 
+4 
+https://archive.nptel.ac.in/courses/112/106/112106298/ 
+
+ 
+ 
+SEMESTER S7 
+PLC AND DISTRIBUTED CONTROL SYSTEMS

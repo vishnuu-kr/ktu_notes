@@ -1,0 +1,80 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Convolutional Neural Network (CNN",
+      "Convolution layer",
+      "Activation function",
+      "Pooling Layer",
+      "Dense Layer",
+      "Transfer learning",
+      "Deep CNN architectures. Feedforward Neural Networks",
+      "Backpropagation",
+      "Gradient Descent",
+      "Loss functions",
+      "Optimizers",
+      "Train/Val/Test dataset distributions",
+      "Performance matrix. Hyper parameter tuning",
+      "Bias Variance trade-off",
+      "Problem of overfitting",
+      "Regularization",
+      "Batch normalization",
+      "Dataset augmentation. Applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "History-AlexNet",
+      "GoogLeNet",
+      "VGGNet",
+      "ResNet",
+      "Dense Net Deep learning platforms: Keras",
+      "Theano",
+      "TensorFlow and PyTorch. Tensor Flow: data Types",
+      "Tensors",
+      "create Tensors",
+      "operations on Tensors",
+      "Tensor Board Keras: Common Functional Modules",
+      "Model Configuration",
+      "Training",
+      "and Testing"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Recurrent Neural Networks Forwards and Backward pass. Gradient propagation. Backpropagation through time (BPTT) algorithm. Many-to-one RNN model (sentiment analysis",
+      "Many-to-many RNN model (language model",
+      "Vanishing gradients in Recurrent networks LSTMs",
+      "Bidirectional RNNs",
+      "Gated RNNs",
+      "Encoder-Decoder Models",
+      "Attention Networks Issues in RNN/LSTM"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Unsupervised Deep Learning",
+      "Autoencoders Undercomplete autoencoders",
+      "Regularized autoencoders - Applications Generative Modelling: Variational Autoencoder (VAE). Variational Learning",
+      "VAE: network architecture. Generative Adversarial networks (GANs",
+      "Boltzmann Machines",
+      "Restricted Boltzmann Machines. Deep reinforcement learning: Reinforcement learning RL Process Reward hypothesis",
+      "Observations/States Space Action Space Rewards. The Policy π: the agent’s brain Policy-Based Methods",
+      "Value based methods. Deep reinforcement learning-Q-learning",
+      "actor-critic",
+      "policy gradient",
+      "experience replay. Applications"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

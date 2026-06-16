@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Parallel Computing - Overview of parallel computing and its\nimportance, Types of parallelism: data parallelism, task parallelism, Parallel\ncomputing architectures: SIMD, MIMD, shared memory, distributed memory.\nParallel Programming Models - Parallel programming models: Parallel Random\nAccess Machine (PRAM), bulk synchronous parallel (BSP), LogP, Shared\nmemory vs. distributed memory models; Performance Metrics - Performance\nmetrics for parallel algorithms: speedup, efficiency, scalability, Amdahl's Law\nand Gustafson's Law.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Parallel Algorithms for Basic Operations - Parallel algorithms for matrix\naddition, matrix multiplication, and reduction, Parallel prefix sum (Parallel\nscan) algorithms. Case Studies of Parallel Addition, Multiplication, Reduction,\nand Prefix Sum in Modern Computing Systems; Parallel Sorting Algorithms -\nParallel sorting algorithms: parallel merge sort, parallel quicksort, bitonic merge\nsort, Comparison of parallel sorting techniques.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Parallel Graph Algorithms - Parallel algorithms for graph traversal: BFS, DFS,\nParallel algorithms for minimum spanning tree (MST) and shortest path.\nParallel Search Algorithms - Parallel search algorithms: parallel binary search,\nparallel search trees, Applications and analysis.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Parallel Programming with OpenMP - Introduction to OpenMP, Parallel\nprogramming constructs in OpenMP, Performance tuning and optimization\nParallel Programming with MPI - Introduction to MPI, Message passing model\nand MPI basics, Advanced MPI features and applications\nParallel Numerical Algorithms - Solving linear systems: parallel Gaussian\nelimination, parallel LU decomposition, Parallel algorithms for eigenvalue\nproblems, Applications and analysis.",
+    "contact_hours": "9"
+  }
+]

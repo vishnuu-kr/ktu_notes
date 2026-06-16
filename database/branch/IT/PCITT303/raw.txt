@@ -1,0 +1,319 @@
+Course Code 
+PCITT303 
+CIE Marks 
+40 
+Teaching Hours/Week
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+UCEST105: Algorithmic Thinking 
+in Python 
+GXEST204: Programming in C 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. Students will be able to understand and classify various data structures and their complexities, 
+analyze algorithms for space and time efficiency, and perform basic operations on arrays, 
+stacks, and queues. 
+2. Students will be able to implement basic searching, sorting, and hash table operations for 
+efficient data management in computational applications. 
+3. Students will be able to master operations on linked lists and implement stacks and queues 
+using linked lists effectively. 
+4. Students will be able to achieve a solid grasp of tree and graph structures, their traversal 
+methods, and applications, including the implementation of binary search trees, heaps, and 
+graph algorithms like Dijkstra’s shortest path. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Data Structures: Definitions, Classifications of Data 
+Structures- ADT and CDT, Linear and Non-Linear, Static and Dynamic. 
+Algorithm/Program 
+Development: 
+Analysis 
+of 
+Algorithms- 
+Space 
+Complexity, Understanding the notion of Time Complexity using graphical 
+and tabular representation for Linear, Quadratic, Cubical, Logarithmic and 
+Exponential functions. Asymptotic Notations- Best Case, Worst Case, 
+Average Case. Arrays: Definition, Properties of Array. Representation of 
+Single/Two-dimensional Arrays, Sparse Matrix, Polynomial representation, 
+and manipulation using Arrays (Addition only). Stack:  Operations on Stack 
+using Array   Queues: Definition, Operations on Queue using Array, Circular 
+11 
+
+ 
+ 
+Queue implementation using Array, Other types of Queues: Dequeue, 
+Priority Queue (Concept only) 
+Applications of Stack: Infix to Postfix conversion and Postfix evaluation. 
+2 
+Searching: Linear Search and Binary search.  
+Sorting: Bubble Sort, Selection Sort, Insertion Sort. Quicksort and Merge 
+Sort (Recursive Algorithms only) Complexity analysis of sorting algorithms 
+(Detailed analysis is not required) and Heap sort.  
+Hash Tables: Different Hash Functions: Division method, Multiplication 
+Method, Mid Square Method, Folding Method, Collision Resolution 
+Techniques: Closed Hashing (Linear Probing) -Drawbacks, Open Hashing 
+(Separate Chaining). Remedies-Random Probing, Quadratic Probing, Double 
+Hashing. Load Factor and Re-hashing 
+11 
+3 
+Linked List: Definition, Array Vs Linked List, Dynamic memory 
+management. Representation of a Linked List, Classification (Singly Linked 
+List, Doubly Linked List, Circular singly linked list), Operations on Singly 
+Linked List- Traversal, Insertion, Deletion and Searching. 
+Applications of Linked List: Polynomial representation and manipulation 
+(Addition only). Operations on Doubly Linked List- Traversal, Insertion, 
+Deletion and Searching, Circular Linked List (Concept only) Linked List 
+representation of Stack and Queue, Stack implementation and Operations on 
+Stack using Linked List, Queue implementation and Operations on Queue 
+using Linked list. 
+11 
+4 
+Trees: Definition, Height, Depth, Degree, Level. 
+Binary Trees: Properties of Binary Trees, Complete, Perfect and Full Binary 
+Tree, Linear and Linked List representations of Binary Trees, Binary Tree 
+Traversals - Preorder, In order, and Post order (Recursive Algorithms only), 
+Binary Tree Applications: Expression Tree creation. 
+Binary Search Tree: Creation, Insertion, Deletion, and Search operations. 
+Heap: Creation Graph: Definition, set representations, Directed and 
+Undirected Graph, Adjacency Matrix and Adjacency List representation, 
+Graph Traversal: Breadth First Search (BFS), Depth First Search (DFS), 
+Graph Applications: Shortest Path Problem-Dijkstra’s Algorithm. 
+11 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 
+Questions 
+from 
+each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Apply the concept of data structure and analyze algorithm complexity 
+using graphical and tabular methods in implementing stack and queue 
+operations.  
+K3 
+CO2 
+Implement and evaluate searching, sorting, and hash table operations 
+with various collision resolution techniques. 
+K3 
+CO3 
+Implement and manipulate linked lists and utilize them for stack and 
+queue operations, including polynomial manipulation 
+K2 
+CO4 
+Apply tree and graph algorithms to traverse, search, and solve 
+problems, including shortest path computations in graph structures. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Classic Data Structures  
+Debasis Samantha 
+Prentice Hall 
+2nd Edition 
+2008 
+2 
+Data Structures Through C 
+Yashvanth Kanenthkar 
+BPB Publications 
+3rd Edition 
+2019 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Data Structures and Algorithms 
+A. Aho, J. Hopcroft, J. 
+Ulman
+Pearson Education 
+2nd Edition 
+2008
+2 
+Introduction to Algorithms 
+T.H.Cormen, C.E. 
+Leiserson, R.L. Rivest, 
+C. Stein
+MIT Press 
+4th Edition 
+2022 
+3 
+Introduction to Data Structures 
+with Applications
+Tremblay J. P. and P. G. 
+Sorenson
+Tata McGraw Hill 
+2nd Edition 
+2001
+4 
+Fundamentals of Data 
+Structures in C
+E. Horwitz , S. Sahani, 
+D. Mehta
+University Press 
+2nd Edition 
+2008
+ 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+ No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc24_cs96/preview 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+2 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO2 
+3 
+3 
+2 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO3 
+3 
+3 
+2 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+CO4 
+3 
+3 
+3 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+
+ 
+ 
+SEMESTER S3 
+DATABASE MANAGEMENT SYSTEM

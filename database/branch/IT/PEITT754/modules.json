@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to network science - The main premise of network science,\nHistory and relation to graph theory, physics, sociology, and other\ndisciplines, Examples of networks from different application domains, The\ncharacteristics of Network Science, societal and scientific impact.\nFamiliarisation of Network analysis and visualization tools - NetworkX,\nGephi, Cytoscape, Infomap, Igraph, Statnet, Network Workbench, Pajek\nnetwork visualization, Jung network analysis, GraphViz, Matlab's Random\nBoolean Networks (RBN) toolbox.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Relevant Concepts From Graph Theory - Undirected, directed, signed,\nweighted and spatial networks, Paths, connected components,Directed\nAcyclic Graphs, Bipartite graphs, Clustering coefficients.\nThe Random Network Model - Introduction, Number of Links, Degree\nDistribution in random network, The Evolution of a Random Network,\nSmall Worlds, Clustering Coefficient in random network, Watts-Strogatz\nmodel.\nThe Barabasi-Albert model- Growth and Preferential Attachment, The\nBarabási-Albert Model.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Network Robustness- Percolation Theory, Inverse Percolation Transition\nand Robustness, Robustness of Scale-free Networks, Molloy-Reed\nCriterion, Critical Threshold, Attack Tolerance, Cascading Failures,\nModelling Cascading Failures, Failure Propagation Model, Branching\nModel, Building Robustness, Designing Robust Networks.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Communities-\nBasics\nof\nCommunities,\nHierarchical\nClustering,\nAgglomerative Procedures: the Ravasz Algorithm, Divisive Procedures: the\nGirvan-Newman Algorithm, Hierarchy in Real Networks, Modularity.\nSpreading Phenomena- Epidemic Modelling, Susceptible-Infected (SI)\nModel,\nSusceptible-Infected-Susceptible\n(SIS)\nModel,\nSusceptible-\nInfected-Recovered (SIR) Model, Network Epidemics, Susceptible-Infected\n(SI) Model on a Network, SIS Model and the Vanishing Epidemic\nThreshold, Contact Networks, Digital Viruses, Immunization, Random\nImmunization, Vaccination Strategies in Scale-Free Networks.",
+    "contact_hours": "9"
+  }
+]

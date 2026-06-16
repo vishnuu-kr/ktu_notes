@@ -1,0 +1,52 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of industrial automation systems (e.g",
+            "SCADA",
+            "PLC). Importance of cybersecurity in protecting critical infrastructure. Key differences between IT (Information Technology) and OT (Operational Technology) networks. Fundamentals of Cybersecurity Basics of cybersecurity: threats",
+            "vulnerabilities",
+            "and risks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Industrial Control Systems (ICS) Architecture Components of ICS: sensors",
+            "actuators",
+            "controllers",
+            "and communication protocols Understanding network topologies in industrial environments. Typical architectures (e.g",
+            "Purdue model). Threat Landscape for Industrial cyber threats to ICS (e.g",
+            "malware",
+            "ransomware",
+            "insider threats). Case studies of historical cyber incidents in industrial settings"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Cyber attacks Impact of cyber",
+            "attacks on industrial operations and safety. Security Challenges and Vulnerabilities in ICS, Specific vulnerabilities in ICS components and protocols (e.g. , Insecure protocols, lack of authentication). Human factors: challenges in securing ICS due to operational needs and legacy systems. Risk Assessment and Management for ICS Conducting risk assessments specific to industrial environments. Identifying critical assets and vulnerabilities. Developing risk mitigation strategies and incident response"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Secure Design and Configuration of ICS Best practices for secure system design and architecture",
+            "Secure configuration of ICS components (e.g. , PLCs, HMIs",
+            "Principles of secure coding and application development for ICS",
+            "Network security Network Security for ICS Segmentation and isolation strategies for ICS networks",
+            "Secure communication protocols (e.g. , TLS, VPNs) and encryption methods",
+            "Intrusion detection and prevention systems (IDPS) for ICS. encryption methods",
+            "Emerging Technologies and Future Trends IoT (Internet of Things) and IIoT (Industrial Internet of Things) in industrial cybersecurity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

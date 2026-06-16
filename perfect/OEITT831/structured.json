@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Image filtering",
+            "Image enhancement",
+            "Image segmentation",
+            "thresholding",
+            "Image Transforms",
+            "Color Image Processing",
+            "Mathematical morphology and use in texture analysis",
+            "Binary shape analysis and connectedness"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Reflectance and BRDF(basics only), Monocular and binocular imaging system, Geometric Transformation,Orthographic & Perspective Projection, Camera model-Basic Pinhole Camera model Stereo vision: introduction",
+            "concept of disparity and its relationship with depth"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Harris Corner Detection",
+            "Canny Edge Detection",
+            "Blob Detection",
+            "Line and curve detection",
+            "Hough transform Feature Descriptors: Histogram of Oriented Gradients",
+            "Scale Invariant Feature Transform(SIFT",
+            "Mosaics and Snakes",
+            "Feature Matching algorithms: Brute Force Matcher",
+            "Need for feature detection and description and limitations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Shape from X - Shape from shading",
+            "Photometric stereo. Occluding contour detection. Motion Analysis-Regularization theory",
+            "Optical Flow: brightness constancy equation",
+            "Lucas-Kanade method",
+            "Principles of Structure from motion(Introduction). Object recognition: Hough transforms and other simple object recognition methods Application: Face detection",
+            "Face recognition and Eigen faces"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

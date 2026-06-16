@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview and Key Concepts Overview of Mobile Platforms: iOS and Android",
+            "Introduction to Cross Platform Development with Flutter: Key Benefits",
+            "Flutter vs. Other Cross-Platform Frameworks Setting Up the Flutter Development Environment: Installing Flutter SDK and Tools",
+            "Building and Running the \"Hello World\" App",
+            "Brief Introduction to Git (Cloning and Basic Commands) Mobile App Architectures: Overview of MVC and MVVM",
+            "Brief Introduction to the BLoC Pattern in Flutter Basics of Dart Programming Language: Syntax and Data Types",
+            "Introduction to Asynchronous Programming"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Principles of Mobile UI/UX Design-Overview -Importance of Usability",
+            "Accessibility",
+            "and User-Centered Design Designing Responsive UIs with Flutter Using Flutter Widgets: Stateless Widget and Stateful Widget-Practical Examples and Use Cases Layouts in Flutter: Deep Dive into Layout Widgets: Container",
+            "Column",
+            "Stack-Aligning and Positioning Widgets Effectively Navigation and Routing in Flutter: Implementing Basic Navigation: Navigator and Routes-Managing Multiple Screens and Passing Data Between Them Customizing UI with Themes and Styles: Introduction to Flutter's Theming Capabilities-Creating Custom Themes and Applying Styles Introduction to Material Design and Cupertino Widgets: Overview of Material Design Principles and Components-Using Cupertino Widgets for iOS Design in Flutter"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "State Management in Flutter: Overview of State Management Concepts-Introduction to Provider: Basic State Management-Exploring Riverpod: Advanced State Management Patterns-Deep Dive into the BLoC Pattern: Managing Complex State Networking in Flutter: Making HTTP Requests: GET",
+            "POST",
+            "DELETE",
+            "JSON Parsing: Working with APIs",
+            "Integrating RESTful APIs in Flutter Apps Data Persistence: Introduction to SQLite: Local Database Storage-Using Shared Preferences for Simple Key-Value Storage-Overview of Hive Asynchronous Programming with Dart: Futures",
+            "async/await",
+            "and Streams Working with Firebase: Setting Up Firebase - Firebase Authentication: Sign-In/Sign-Up Flow"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Advanced UI Components and Animations:Building Complex UI Components in Flutter",
+            "Implementing Animations App Security Best Practices:Securing Mobile Applications: Common Threats and Mitigations",
+            "Implementing Secure Authentication and Data Storage Testing and Debugging Flutter Applications:Introduction to Unit Testing, Widget Testing, and Integration Testing",
+            "Debugging Techniques and Tools in Flutter Continuous Integration/Continuous Deployment (CI/CD) with Flutter",
+            "Publishing Apps to Google Play Store and Apple App Store",
+            "Industry Trends and Future of Mobile Development with Flutter"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Integrated Circuit Fabrication Process\nBrief overview of integrated circuit fabrication technology – Silicon wafer\npreparation, Epitaxial Growth, Oxidation, Photolithography, Diffusion, Ion\nImplantation, isolation techniques, metallization and packaging.\nOperational amplifiers\nIntroduction of op amps- block level diagram of op amp –Basic information\nof op amp (741 op amp)\nCharacteristics of Operational amplifiers\nIdeal op amp characteristics-DC characteristics-input bias current, input offset\ncurrent, input offset voltage, thermal drift, CMRR, PSRR-AC characteristics-\nfrequency response, stability of op amp, slew rate.\nApplications of Operational amplifiers\nBasic applications-inverting amplifier, non-inverting amplifier, differential\namplifier, scale changer, summing amplifier, subtractor, adder, voltage\nfollower, V-I converter (grounded load type and floating load type), Howland\nconstant current circuit and I-V converter.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Instrumentation amplifier (3 op amp design)-op amp integrator- op amp\ndifferentiator- op amp circuit using diodes-rectifier (half and full wave), peak\ndetector, sample and hold circuit, log and antilog amplifier, multiplier and\ndivider.\nComparator (inverting and non-inverting type)-applications of comparator-\nzero crossing detector, window detector, time marker generator.\nWaveform generators and Oscillators using Operational amplifier\nSchmitt trigger- Astable multivibrator- Monostable multivibrator- Triangular\nwaveform generator.\nOscillator-introduction, Block level diagram-RC phase shift oscillator- Wien\nBridge Oscillator.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Filters\nIntroduction-LPF-first\norder\nfilter,\nsecond\norder\nfilter\n(sallen-key\nButterworth), higher order filter-HPF- first order filter, second order filter\n(sallen-key Butterworth), higher order filter- BPF-wide BPF, Narrow band\npass filter-BRF-wide BRF, narrow BRF (Twin T Notch design)-All pass filter.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Analog to Digital Converter and Digital to Analog Converter\nDAC-weighted resistor type DAC, R-2R DAC, ADC-Direct type -Flash type,\ncounter type, Servo type, successive approximation type- Integrating type\nADC - dual slope type- specifications of DAC and ADC.\nVoltage regulator-Introduction, series op amp regulator-IC regulators-78XX\nand 79XXcharecteristics.\n555 timer-introduction-functional diagram-Mono stable operation and its\napplications- Astable operation and its applications.\nVoltage controlled oscillator and PLL (basic principle only)",
+    "contact_hours": "11"
+  }
+]

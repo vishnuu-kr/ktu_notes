@@ -1,0 +1,64 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Java - Java programming Environment and Runtime Environment (Command Line & IDE",
+      "Java compiler",
+      "Java Virtual Machine",
+      "Primitive Data types and Wrapper Types",
+      "Casting and Autoboxing",
+      "Arrays",
+      "Strings",
+      "Vector class",
+      "Operators - Arithmetic, Bitwise, Relational, Boolean Logical, Assignment, Conditional (Ternary",
+      "Operator Precedence",
+      "Control Statements - Selection Statements, Iteration Statements and Jump Statements",
+      "Functions",
+      "Command Line Arguments",
+      "Variable Length Arguments",
+      "Classes",
+      "Abstract Classes",
+      "Interfaces",
+      "OOP Concepts - Data abstraction, encapsulation, inheritance, polymorphism, Procedural and object oriented programming paradigm",
+      "Microservices",
+      "Object Oriented Programming in Java - Declaring Objects",
+      "Object Reference",
+      "Introduction to Methods",
+      "Constructors",
+      "Access Modifiers",
+      "this keyword"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Polymorphism - Method Overloading, Using Objects as Parameters, Returning Objects, Recursion",
+      "Static Members, Final Variables, Inner Classes. Inheritance - Super Class, Sub Class, Types of Inheritance, The super keyword, protected Members, Calling Order of Constructors",
+      "Method Overriding, Dynamic Method Dispatch, Using final with Inheritance"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Packages and Interfaces - Packages - Defining a Package, CLASSPATH, Access Protection, Importing Packages",
+      "Interfaces - Interfaces v/s Abstract classes, defining an interface, implementing interfaces, accessing implementations through interface references, extending interface(s",
+      "Exception Handling - Checked Exceptions, Unchecked Exceptions, try Block and catch Clause, Multiple catch Clauses, Nested try Statements, throw, throws and finally, Java Built-in Exceptions, Custom Exceptions"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Swings fundamentals - Overview of AWT, Swing v/s AWT, Swing Key Features, Swing Controls, Components and Containers, Swing Packages, Event Handling in Swings, Swing Layout Managers, Exploring Swings - JFrame, JLabel, The Swing Buttons, JTextField",
+      "Event handling - Event Handling Mechanisms, Delegation Event Model, Event Classes, Sources of Events, Event Listener Interfaces, Using the Delegation Event Model",
+      "Developing Database Applications using JDBC - JDBC overview, Types, Steps, Common JDBC Components, Connection Establishment"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "System Identification\nModels for identification: Models of LTI systems: Linear Models-State\nspace Models-OE model- Model sets, Structures and identifiability-Models\nfor Time-varying and Non-linear systems: Models with Nonlinearities –\nNon-linear state-space models-Black box models, Fuzzy models",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Non-parametric and parametric identification: Transient response and\nCorrelation Analysis – Frequency response analysis – Spectral Analysis –\nLeast Square – Recursive Least Square –Forgetting factor- Maximum\nLikelihood – Instrumental Variable methods",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to adaptive control\nLinear feedback; effects of process variations; adaptive schemes;\nIntroduction to deterministic self-tuning regulators; pole placement design;\nindirect self-tuning regulator; design of minimum variance and moving\naverage controllers; adaptive predictive control",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Model Reference Adaptive Systems\nIntroduction to model-reference adaptive systems; Lyapunov theory; design\nof MRAS using Lyapunov theory; Bounded-input bounded-output stability;\napplications to adaptive control.",
+    "contact_hours": "9"
+  }
+]

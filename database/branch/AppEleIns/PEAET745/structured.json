@@ -1,0 +1,69 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Overview of Computer Vision and Image Processing - Introduction to computer vision",
+      "applications",
+      "history",
+      "and challenges. Basics of image formation",
+      "pinhole camera model",
+      "image representation (grayscale",
+      "color spaces",
+      "and digital image properties (resolution",
+      "bit depth) Image filtering (smoothing",
+      "sharpening) and histogram processing"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Feature Detection & Morphological Processing - Edge detection (Canny",
+      "Keypoint detection (Harris corner detector",
+      "blob detection and feature descriptors (SIFT",
+      "SURF) Basic morphological operations (erosion",
+      "dilation",
+      "opening",
+      "closing",
+      "boundary extraction",
+      "and applications in segmentation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Image Segmentation and Object Detection - Thresholding methods (global",
+      "adaptive",
+      "region-based segmentation",
+      "clustering-based techniques (K-means",
+      "Mean Shift",
+      "and edge-based segmentation. Sliding window approach",
+      "Haar cascades",
+      "Histogram of Oriented Gradients (HOG",
+      "and template matching"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Motion Analysis and 3D Vision - Background subtraction",
+      "frame differencing",
+      "temporal differencing",
+      "and basic optical flow concepts (Lucas-Kanade method). Tracking algorithms (Kalman filter",
+      "Mean Shift). Principles of stereo vision",
+      "epipolar geometry",
+      "disparity maps",
+      "depth estimation",
+      "Structure from Motion (SfM",
+      "camera calibration",
+      "and 3D reconstruction"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

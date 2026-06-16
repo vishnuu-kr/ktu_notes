@@ -1,0 +1,68 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Authentication protocols:-Message Authentication Requirements",
+      "Authentication functions",
+      "Message authentication codes-Hash functions",
+      "Digital signatures",
+      "Authentication Protocols - Mutual authentication",
+      "One way authentication. Kerberos - Kerberos Version 4",
+      "Kerberos Version 5.X.509 Authentication service. Public Key Infrastructure (PKI) - Trust models",
+      "Revocation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Electronic Mail Security- Pretty Good Privacy (PGP) - Operational Description",
+      "Cryptographic keys and key rings",
+      "Message format",
+      "PGP message generation",
+      "PGP message reception",
+      "Public key management. S/MIME - Functionality",
+      "Messages",
+      "Certificate processing",
+      "Enhanced security services"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Network Layer Security and Web Security-Internet Protocol Security (IPSec) - Overview",
+      "IP security architecture",
+      "Authentication Header (AH",
+      "Encapsulating Security Payload (ESP",
+      "Combining Security Associations",
+      "Key management. Internet Key Exchange (IKE) - Phases. Web Security - Web security considerations. Secure Socket Layer and Transport Layer Security (SSL/TLS) - SSL Architecture",
+      "SSL protocols"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Application Layer Security and System Security-Hypertext Transfer Protocol Secure (HTTPS) - Connection initiation",
+      "Closure. Secure Shell (SSH) - Transport layer protocol",
+      "User authentication protocol",
+      "Connection protocol.Secure Electronic Transaction (SET) - Overview",
+      "Features",
+      "Participants",
+      "Dual signature",
+      "Payment processing. Firewalls - Firewall characteristics",
+      "Types of Firewalls",
+      "Firewall configurations",
+      "Encrypted Tunnels",
+      "Trusted systems - Data access control",
+      "The concept of Trusted Systems",
+      "Trojan horse defense"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

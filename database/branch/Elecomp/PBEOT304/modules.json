@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Number Systems and Codes – binary, octal and hexadecimal –\nconversions – ASCII code, Excess –3 code, Gray code, BCD code\nSigned numbers – 1’s complement and 2’s complement – addition and\nsubtraction\nBasic logic gates – universal gates – TTL – CMOS – Internal diagram of\nTTL NAND gate and CMOS NOR gate – comparison of CMOS and TTL\nperformance.\nBoolean laws and theorems – Sum of products and Product of sums forms\n– K map representation and simplification (up to four variables) – pairs,\nquads, octets – don’t careconditions.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Combinational circuits– half adder and full adder, halfsubtractor and\nfullsubtractor –4-bit parallel binary adder/subtractor.\nComparators – parity generators and checkers – encoders – decoders –\nBCD to seven segment decoder.\nMultiplexers– implementation of boolean expressions using multiplexers–\ndemultiplexers.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Flip-Flops– SR, JK, D and T flip-flops – characteristic table and\nexcitation table– JK Master Slave Flip-flop – Conversion of flip-flops –\nSR to JK and JK to SR only.\nUp/Down counters – asynchronous counters – mod-6 and mod-10\ncounters.\nSynchronous counters – design of synchronous counters – Ring counter\n–  Johnson Counter.\nShift registers - SISO, SIPO, PISO, PIPO.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "State Machines – state transition diagram – Moore and Mealy machines.\nDigital to Analog converter –weighted resistor type, R-2R Laddertype.\nAnalog to Digital Converter – flash type, successive approximation\ntype.\nIntroduction to Verilog– Implementation of AND, OR, half adder and full\nadder.\nSuggestion on Project Topics\nProject based learning\nProject-based learning (PBL) in digital electronics combines hands-on learning with theoretical\nknowledge, providing a comprehensive understanding of digital systems and components.\nProject-Based Learning Structure:\n1. Selection of Topic\n•Objective: Choose a relevant digital electronics project that incorporates both combinational and\nsequential logic circuits.\n•Guidance: Topics should be selected based on their applicability, innovation, and the depth of\nknowledge they offer in digital electronics.\n2. Design and Optimization of Digital Circuit\n•Tools: Utilize design software to draft and optimize circuit layouts.\n•Verilog HDL: Focus on coding the logic in Verilog, ensuring that the design is efficient and scalable.\n3. Simulation and Hardware Implementation\n•Discrete Components: Integrate additional discrete components as necessary to complete the project\nsetup.\n•FPGA: Implement the design on FPGA boards, translating the Verilog HDL code into a physical,\nfunctioning circuit.\nThis structured approach not only enhances the learning experience but also prepares students for\nprofessional challenges in the field of digital electronics.",
+    "contact_hours": "8"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to formal language theory– Alphabets, Strings, Concatenation\nof strings, Languages. Regular Languages - Deterministic Finite State\nAutomata (DFA) (Proof of correctness of construction not required),\nNondeterministic Finite\nState Automata (NFA), NFA with epsilon\ntransitions, Eliminating epsilon transitions, Equivalence of DFA and NFA,\nSubset Construction.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "The\nformal\ndefinition\nof\na\nregular\nexpression,\nBuilding\nRegular\nExpressions, Equivalence with finite automata (Proof not expected) -\nConverting FA to Regular Expressions, Converting Regular Expressions to\nFA, Closure properties of Regular Languages (with proofs), DFA State\nMinimization, Pumping Lemma for Regular Languages.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Formal definition of a context-free grammar, Designing context-free\ngrammars, Leftmost and Rightmost Derivations Using a Grammar, Parse\nTrees, Ambiguous Grammars. Formal definition of a pushdown automaton,\nDPDA and NPDA, Examples of pushdown automata – Normal Forms of\nCFG – Chomsky and Greibach.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Linear bounded automaton, the formal definition of a Turing machine,\nExamples of Turing machines - Turing machines as language acceptors,\nTuring machines as computing functions, Variants of Turing Machines\n(Proofs for equivalence with basic model not expected), Universal Turing\nMachine,\nHalting\nProblem,\nRecursive\nand\nrecursively\nenumerable\nlanguages. Chomsky hierarchy of formal languages.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Process optimization & overview of mathematical\nfunctions: Scope and hierarchy of optimization, Typical chemical\nengineering applications of optimization. Statement of an Optimization\nProblem and its essential features, Classification of Optimization Problems\nand its essential features. Mathematical modelling of typical chemical\nengineering\noptimization\nproblems.\nNature\nand\nclassification\nof\nmathematical functions, Graphical representation of univariate and bivariate\nfunctions (using MATLAB / Python etc. – Assignment). Unimodal\nfunctions, determination of convexity and concavity of single and\nmultivariate functions.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Analytical & Numerical methods for unconstrained optimization\nproblems:\nAnalytical methods: Necessary and sufficient conditions for optimum of\nunivariate unconstrained functions.\nNumerical methods: One dimensional gradient-free search methods (Fixed\n& accelerated step size, Dichotomous search, Fibonacci search, golden-\nsection method and quadratic interpolation), One dimensional gradient\nsearch methods (Newton’s method and Quasi-Newton method).",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Analytical methods for constrained multivariate optimization problems:\nNonlinear programming with equality constraints: method of direct\nsubstitution, Lagrange multiplier method, Nonlinear programming with\ninequality constraints: Kuhn-Tucker conditions for local optimality,\nComplex method, Rosen’s gradient projection method.\nNumerical methods for unconstrained & constrained multivariate\noptimization problems: Unconstrained multivariate optimization problems:\nUnivariate search, Powell’s method, method of steepest descent, Fletcher-\nReeve’s conjugate-gradient method, Newton’s method. Constrained\nmultivariate optimization problems: Basic concepts and graphical\nrepresentation of Linear programming, graphical solution, Simplex method\nand two-phase simplex method.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Optimization of Chemical Processes: Optimum pipe diameter for an\nincompressible fluid, Optimization of Heat Exchanger Network, Optimal\nreflux ratio for a staged Distillation column, Optimal design of an Ammonia\nReactor. (Solving chemical engineering. Optimization problems in Excel/\nPython/MATLAB/Scilab or any optimization software- Assignments/\nMicroproject only)\nChemical Product Design and Optimization: Introduction to the current\nproduct design process, typical applications of chemical product design,\nproduct formulation and optimization. Case studies- optimization of\ndisinfectant formulation, optimization of mechanical properties of natural\nfiber polymer composites.\nNon-traditional Optimization Techniques: Introduction to Simulated\nannealing, Genetic algorithms and Particle Swarm Optimization (Algorithm\nonly).",
+    "contact_hours": "9"
+  }
+]

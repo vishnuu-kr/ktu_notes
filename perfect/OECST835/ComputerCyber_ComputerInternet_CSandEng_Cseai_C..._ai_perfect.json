@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of Computer Graphics and Its Applications",
+            "Video Display Devices - LED, OLED, PDP, FED and Reflective Displays",
+            "Random and Raster Scan Displays and Systems",
+            "Line Drawing Algorithms - Bresenham's Algorithm and Liang-Barsky Algorithm",
+            "Circle Drawing Algorithms - Midpoint Circle Generation Algorithm and Bresenham's Circle Drawing Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "2D and 3D Geometric Transformations - Translation, Rotation, Scaling, Reflection and Shearing",
+            "Matrix Representations and Homogeneous Coordinates",
+            "Filled Area Primitives - Scan Line Polygon Filling, Boundary Filling and Flood Filling"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Transformations and Clipping Algorithms",
+            "Window to Viewport Transformation",
+            "Cohen Sutherland and Midpoint Subdivision Line Clipping Algorithms",
+            "Sutherland Hodgeman and Weiler Atherton Polygon Clipping Algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Three Dimensional Graphics and Viewing Pipeline",
+            "Projections - Parallel and Perspective Projections",
+            "Visible Surface Detection Algorithms - Back Face Detection",
+            "Depth Buffer Algorithm",
+            "Scan Line Algorithm",
+            "A Buffer Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

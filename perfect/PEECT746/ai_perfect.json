@@ -1,0 +1,50 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic multi-rate operations: up sampling and down sampling, time domain and frequency domain analysis, need for anti aliasing and anti imaging filters. Noble identities. Type 1 and Type 2 polyphase decomposition, efficient structures for decimation and interpolation filters. Uniform filter banks and its implementation using polyphase decomposition. QMF filter bank",
+            "Conditions for perfect reconstruction, polyphase implementation. Design of perfect reconstruction M-channel filter banks. Applications of multirate systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Time frequency trade off in signal analysis, Heisenberg's uncertainty principle. Short time Fourier transform",
+            "Filter bank representation. Continuous wavelet transform",
+            "Admissibility condition. Time-frequency diagrams for the STFT and the wavelet transform. Discrete wavelet transform",
+            "Haar scaling and wavelet functions, Haar analysis of signals, concept of nested space. Orthonormal wavelet analysis",
+            "Filter bank interpretation. Applications of wavelet transform"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Power spectrum estimation - Rational power spectra representation",
+            "Relationships between the filter parameters and the autocorrelation sequence",
+            "Parametric method of power spectrum estimation - Yule Walker equations",
+            "Non parametric method of power spectrum estimation - Periodogram",
+            "Averaging periodogram"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Linear prediction filters - Forward and backward predictors",
+            "Lattice filter structure",
+            "Relationship between linear filter coefficients and reflection coefficients",
+            "Normal equations for optimum filter design. Adaptive filters - Weiner filter design",
+            "Adaptive filters for adaptive channel equalization",
+            "Adaptive noise cancellation and linear predictive coding of speech signals",
+            "Steepest descent algorithm",
+            "LMS algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

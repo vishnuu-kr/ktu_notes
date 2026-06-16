@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to computer networks: Transmission modes - serial and\nparallel transmission, asynchronous, synchronous, simplex, half duplex, full\nduplex communication. Switching: circuit switching and packet switching\nNetworks: Network criteria, physical structures, network models, categories\nof networks, Network models: OSI model, Layers in OSI model, TCP/IP\nprotocol suite.\nPhysical Layer: Guided and unguided transmission media (Co-axial cable,\nUTP, STP, Fiber optic cable)",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Data Link Layer: Framing, Flow control (stop and wait, sliding window\nflow control) Error control, Error detection (check sum, CRC), Bit stuffing,\nHDLC\nMedia access control: Ethernet (802.3), CSMA/CD, Logical link control,\nWireless LAN (802.11), CSMA/CA\nNetwork Layer: IPv4 & IPV6, Address Resolution protocols (ARP, RARP)\nSubnetting, Classless Routing (CIDR), ICMP, IGMP, DHCP.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Networking devices: Hubs, Bridges & Switches\nRouting: Routing and Forwarding, Static routing and Dynamic routing\nRouting Algorithms:  Distance vector routing algorithm, Link state routing\n(Dijkstra’s algorithm) Routing Protocols: Routing Information protocol\n(RIP), Open Shortest Path First (OSPF), Border Gateway Protocol (BGP),\nMPLS",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to information system security, common attacks\nSecurity at Application Layer (E-MAIL, PGP and S/MIME). Security at\nTransport Layer (SSL and TLS). Security at Network Layer (IPSec).\nDefence and counter measures: Firewalls and their types. Limitations of\nfirewalls, Intrusion Detection Systems -Host based, Network based, and\nHybrid Intrusion detection systems",
+    "contact_hours": "8"
+  }
+]

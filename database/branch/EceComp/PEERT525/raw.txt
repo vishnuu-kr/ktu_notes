@@ -1,0 +1,786 @@
+Course Code 
+PEERT525 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min.  
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. The purpose of this course is to introduce mathematical foundations of basic Machine 
+Learning concepts among learners, on which Machine Learning systems are built. 
+2. This course helps the learners to understand the mathematical principles in Machine Learning 
+and aid in the creation of new Machine Learning solutions, understand & debug existing ones, 
+and learn about the inherent assumptions & limitations of the current methodologies. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+LINEAR ALGEBRA: Systems of Linear Equations – Matrices, Solving 
+Systems of Linear Equations. Vector Spaces –Vector Spaces, Linear 
+Independence, Basis and Rank. Linear Mappings – Matrix Representation of 
+Linear Mappings, Basis Change, Image and Kernel. 
+OPTIMIZATION: Optimization Using Gradient Descent - Gradient Descent 
+with Momentum, Stochastic Gradient Descent. Constrained Optimization 
+and Lagrange Multipliers - Convex Optimization - Linear Programming - 
+Quadratic Programming. 
+12 
+2 
+ANALYTIC GEOMETRY, MATRIX DECOMPOSITIONS: Norms, Inner 
+Products, Lengths and Distances, Angles and Orthogonality, Orthonormal 
+Basis, Orthogonal Complement, Orthogonal Projections – Projection into 
+One Dimensional Subspaces, Projection onto General Subspaces, Gram-
+8 
+
+ 
+ 
+Schmidt Orthogonalization. Determinant and Trace, Eigenvalues and 
+Eigenvectors, 
+Cholesky 
+Decomposition, 
+Eigen 
+decomposition 
+and 
+Diagonalization, Singular Value Decomposition, Matrix Approximation. 
+3 
+VECTOR CALCULUS: Differentiation of Univariate Functions - Partial 
+Differentiation and Gradients, Gradients of Vector Valued Functions, 
+Gradients of Matrices, Useful Identities for Computing Gradients. Back 
+propagation and Automatic Differentiation – Gradients in Deep Network, 
+Automatic Differentiation. Higher Order DerivativesLinearization and 
+Multivariate Taylor Series. 
+8 
+4 
+Probability and Distributions: Construction of a Probability Space - Discrete 
+and Continuous Probabilities, Sum Rule, Product Rule, and Bayes’ Theorem. 
+Summary Statistics and Independence – Gaussian Distribution - Conjugacy 
+and the Exponential Family - Change of Variables/Inverse Transform. 
+8 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal exam 
+Evaluate  
+Analyse  
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Assignment: 20 Marks 
+Students should evaluate and analyze a real-world problem, assess the proposed solutions, 
+provide a conclusion on which solution is most appropriate for the problem. 
+Criteria for evaluation: 
+1. 
+Problem Definition (K4 - 4 points) 
+a. 
+Clearly defines the real-world problem. 
+b. 
+Examine and identifies relevant contextual factors (constraints, resources, 
+objectives). 
+2. 
+Problem Analysis (K4 - 4 points) 
+a. 
+Break-down and presents a well-reasoned solution approach. 
+b. 
+Compare and justify the proposed solutions with evidence and logical reasoning. 
+3. 
+Evaluate (K5 - 4 points) 
+a. 
+Thoroughly evaluate the proposed solutions. 
+
+ 
+ 
+b. 
+Compares trade-offs, advantages, and disadvantages. 
+c. 
+Considers feasibility, scalability, and practical implications. 
+4. 
+Implementation (K5 - 4 points) 
+a. 
+Select the most feasible solution by implementing the proposed solutions. 
+b. 
+Successfully translates the chosen solution into code. 
+c. 
+Demonstrates proficiency in coding practices (readability, efficiency, error 
+handling). 
+5. 
+Conclusion (K4- 2 points, K5 – 2 points) 
+a. 
+Summarizes findings and insights. State which solution is most appropriate for the 
+problem. (K4) 
+b. 
+Reflects critical thinking and informed decision-making. (K5) 
+ 
+Scoring: 
+1. Accomplished (4 points): Exceptional analysis, clear implementation, and depth of 
+understanding. 
+2. Competent (3 points): Solid performance with minor areas for improvement. 
+3. Developing (2 points): Adequate effort but lacks depth or clarity. 
+4. Minimal (1 point): Incomplete or significantly flawed. 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Make use of the concepts, rules and results about linear equations, 
+matrix algebra, vector spaces, eigenvalues & eigenvectors and 
+orthogonality & diagonalization to solve computational problems. 
+Apply  
+CO2 
+Perform calculus operations on functions of several variables and 
+matrices, including partial derivatives and gradients. 
+Apply 
+CO3 
+Utilize the concepts, rules and results about probability, random 
+variables, additive & multiplicative rules, conditional probability, 
+probability distributions and Bayes’ theorem to find solutions of 
+computational problems. 
+Apply 
+CO4 
+Train Machine Learning Models using unconstrained and constrained 
+optimization methods. 
+Evaluate  
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Mathematics 
+for 
+Machine 
+Learning 
+Marc Peter Deisenroth, 
+A. Aldo Faisal, and 
+Cheng Soon Ong 
+Cambridge University 
+Press 
+2020 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Linear 
+Algebra 
+and 
+Its 
+Applications 
+Gilbert Strang 
+Cengage India Private 
+Limited 
+4e/2014 
+2 
+Linear Algebra Done Right 
+Axler, Sheldon 
+Springer 
+2015 
+3 
+Introduction to Applied Linear 
+Algebra 
+Stephen Boyd and 
+Lieven Vandenberghe 
+Cambridge University 
+Press 
+2018 
+4 
+Convex Optimization 
+Stephen Boyd and 
+Lieven Vandenberghe 
+Cambridge University 
+Press 
+2004 
+5 
+Pattern 
+Recognition 
+and 
+Machine Learning 
+Christopher M Bishop 
+Springer 
+2009 
+6 
+Learning 
+with 
+Kernels 
+– 
+Support 
+Vector 
+Machines, 
+Regularization, 
+Optimization, 
+and Beyond 
+Bernhard Scholkopf and 
+Smola, Alexander J 
+Smola 
+MIT Press 
+2002 
+7 
+Information Theory, Inference, 
+and Learning Algorithms 
+David J. C MacKay 
+Cambridge University 
+Press 
+2003 
+8 
+Machine 
+Learning: 
+A 
+Probabilistic Perspective 
+Kevin P Murphy 
+MIT Press 
+2012 
+9 
+The 
+Nature 
+of 
+Statistical 
+Learning Theory 
+Vladimir N Vapnik 
+Springer 
+2000 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/106/106106139/ 
+
+ 
+ 
+SEMESTER: S5 
+DIGITAL SIGNAL PROCESSING LABORATORY  
+Course Code 
+PCERL 507 
+CIE Marks 
+50 
+Teaching Hours/Week (L: 
+T:P: R) 
+0:0:3:0 
+ESE Marks 
+(Internal only)  
+50 
+Credits 
+2 
+Exam Hours 
+2 Hrs. 30 Min.  
+Prerequisites (if any) 
+PCERT 501 Digital 
+Signal Processing  
+ GYEST 204 
+Programming in C 
+Course Type 
+Lab 
+ 
+Course Objectives: 
+1. Simulate DSP algorithms using MATLAB/PYTHON/OCTAVE/SCILAB 
+2. Perform real time DSP computing on development boards 
+ 
+Expt.  
+No. 
+Experiments 
+ 
+PART-A 
+Experiments based on MATLAB/PYTHON/SCILAB/OCTAVE 
+(7 experiments are mandatory 
+1 
+Generation of Waveforms (Continuous and Discrete). 
+2 
+Time and Frequency Response of LTI systems (First and second order).  
+3 
+Linear Convolution, Circular Convolution and Linear Convolution using Circular 
+Convolution.  
+4 
+To find the DFT and IDFT for the given input sequence.  
+5 
+Linear convolution using DFT.  
+6 
+ To find FFT and IFFT for the given input sequence.  
+7 
+FIR and IIR filter design using Filter Design Toolbox.  
+8 
+FIR Filter (Low-pass, High-pass and Band-pass) design (Window method).  
+9 
+IIR Filter (Low-pass, High-pass) design (Butterworth). 
+ 
+Part -B 
+
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 50 marks, ESE: 50 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Preparation/Pre-Lab Work experiments, 
+Viva and Timely 
+completion of Lab Reports / Record 
+(Continuous Assessment) 
+Internal 
+Examination 
+Total 
+5 
+25 
+20 
+50 
+ 
+End Semester Examination Marks (ESE):  
+Procedure/ 
+Preparatory 
+work/Design/ 
+Algorithm 
+Conduct of experiment/ 
+Execution of work/ 
+troubleshooting/ 
+Programming 
+Result with valid 
+inference/ 
+Quality of 
+Output 
+Viva 
+voce 
+Record 
+Total 
+10 
+15 
+10 
+10 
+5 
+50 
+ 
+ Submission of Record: Students shall be allowed for the end semester examination only upon 
+submitting the duly certified record. 
+ Endorsement by External Examiner: The external examiner shall endorse the record 
+ 
+Experiments on Digital Signal Processor/ DSP kits 
+(3 experiments are mandatory) 
+1.  
+ 
+Generation of sine wave and standard test signals.  
+2.  
+Convolution: Linear and Circular.  
+3.  
+ Real time FFT of the signal using a real-time input signal.  
+4.  
+Real Time FIR Filter implementation (Low-pass, High-pass) using a real-time input 
+Signal 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Simulate digital signals. 
+K2 
+CO2 
+Understand LTI systems and its properties 
+K2 
+CO3 
+Simulate efficient DFT algorithms and digital filters 
+K2 
+CO4 
+Familiarize the DSP hardware and interface with computer. 
+K2 
+CO5 
+Understand the spectrum of real time signals. 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO- PO Mapping (Mapping of Course Outcomes with Program Outcomes)  
+1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Signal Processing, A 
+Practical approach 
+Sanjit K. Mitra 
+Tata McGraw Hill 
+Publishing Company 
+Limited 
+2005 
+2 
+ Digital signal processing using 
+MATLAB. 
+Ingle, Vinay K., and John 
+G. Proakis 
+Brooks/Cole 
+Publishing Co., 
+1999 
+3 
+Think 
+DSP: 
+digital 
+signal 
+processing in Python. 
+Downey, Allen 
+O'Reilly Media, Inc. 
+2016 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+     3 
+     3 
+     3 
+ 
+     3 
+ 
+ 
+ 
+     3 
+ 
+ 
+    1 
+CO2 
+     3 
+     3 
+     3 
+ 
+     3 
+ 
+ 
+ 
+     3 
+ 
+ 
+    1 
+CO3 
+     3 
+     3 
+     3 
+ 
+     3 
+ 
+ 
+ 
+     3 
+ 
+ 
+    1 
+CO4 
+     3 
+     3 
+     3 
+ 
+     3 
+ 
+ 
+ 
+     3 
+ 
+ 
+    1 
+CO5 
+     3 
+     3 
+     3 
+ 
+     3 
+ 
+ 
+ 
+     3 
+ 
+ 
+    1 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Digital Signal Processing 
+Principles, Algorithms, 
+Applications 
+John G Proakis, G. 
+Manolakis, 
+Prentice Hall India 
+Private Limited, 
+Fourth Edition 
+2007 
+2 
+Discrete time Signal Processing 
+Allen V. Oppenheim, 
+Ronald W. Schafer 
+Prentice Hall India 
+Private Limited, Fifth 
+Edition 
+200 
+3 
+ DSP applications using C and 
+the TMS320C6x DSK.  
+Chassaing, Rulph 
+John Wiley & Sons 
+2003 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://onlinecourses.nptel.ac.in/noc19_ee50/preview 
+2 
+https://onlinecourses.nptel.ac.in/noc21_ee20/preview 
+3 
+https://onlinecourses.nptel.ac.in/noc22_ee62/preview 
+ 
+Continuous Assessment (25 Marks) 
+1. Preparation and Pre-Lab Work (7 Marks) 
+   Pre-Lab Assignments: Assessment of pre-lab assignments or quizzes that test understanding 
+of the upcoming experiment. 
+   Understanding of Theory: Evaluation based on students’ preparation and understanding of 
+the theoretical background related to the experiments. 
+ 
+2. Conduct of Experiments (7 Marks) 
+   Procedure and Execution: Adherence to correct procedures, accurate execution of 
+experiments, and following safety protocols. 
+   Skill Proficiency: Proficiency in handling equipment, accuracy in observations, and 
+troubleshooting skills during the experiments. 
+
+ 
+ 
+   Teamwork: Collaboration and participation in group experiments. 
+3. Lab Reports and Record Keeping (6 Marks) 
+   Quality of Reports: Clarity, completeness and accuracy of lab reports. Proper documentation 
+of experiments, data analysis and conclusions. 
+   Timely Submission: Adhering to deadlines for submitting lab reports/rough record and 
+maintaining a well-organized fair record. 
+ 
+4. Viva Voce (5 Marks) 
+   Oral Examination: Ability to explain the experiment, results and underlying principles 
+during a viva voce session. 
+Final Marks Averaging: The final marks for preparation, conduct of experiments, viva, and record 
+are the average of all the specified experiments in the syllabus. 
+Evaluation Pattern for End Semester Examination (50 Marks) 
+1. Procedure/Preliminary Work/Design/Algorithm (10 Marks) 
+   Procedure Understanding and Description: Clarity in explaining the procedure and 
+understanding each step involved. 
+   Preliminary 
+Work 
+and 
+Planning: 
+Thoroughness 
+in 
+planning 
+and 
+organizing 
+materials/equipment. 
+   Algorithm Development: Correctness and efficiency of the algorithm related to the 
+experiment. 
+   Creativity and logic in algorithm or experimental design. 
+ 
+2. Conduct of Experiment/Execution of Work/Programming (15 Marks) 
+   Setup and Execution: Proper setup and accurate execution of the experiment or 
+programming task. 
+3. Result with Valid Inference/Quality of Output (10 Marks) 
+   Accuracy of Results: Precision and correctness of the obtained results. 
+   Analysis and Interpretation: Validity of inferences drawn from the experiment or quality of 
+program output. 
+ 
+
+ 
+ 
+ 
+ 
+4. Viva Voce (10 Marks) 
+   Ability to explain the experiment, procedure results and answer related questions 
+   Proficiency in answering questions related to theoretical and practical aspects of the subject. 
+ 
+5. Record (5 Marks) 
+   Completeness, clarity, and accuracy of the lab record submitted
+
+ 
+ 
+SEMESTER S5 
+            DATABASE MANAGEMENT SYSTEMS LAB 
+ 
+ 
+Course Objectives:  
+1. Enable students to design, create, and manage databases using practical tools. 
+2. Equip students with the skills to write and execute SQL queries for various database 
+operations. 
+3. Introduce students to NoSQL databases and Big Data technologies like MongoDB for 
+handling large datasets 
+Details of Experiment 
+Expt. No
+Experiment 
+1 
+Design a database schema for an application with ER diagram from a problem description  
+2 
+Creation, modification, configuration, and deletion of databases using UI and SQL 
+Commands  
+3 
+Creation of database schema - DDL (create tables, set constraints, enforce relationships, 
+create indices, delete and modify tables)  
+4 
+Database initialization - Data insert, Data import to a database  
+5 
+Practice SQL commands for DML (insertion, updating, altering, deletion of data, and 
+viewing/querying records based on condition in databases)  
+6 
+Implementation of built-in functions in RDBMS  
+7 
+Implementation of various aggregate functions in SQL  
+8 
+Implementation of Order By, Group By & Having clause  
+9 
+Implementation of set operators nested queries, and join queries  
+10 
+Practice of SQL TCL commands like Rollback, Commit, Save point 
+11 
+Practice of SQL DCL commands for granting and revoking user privileges

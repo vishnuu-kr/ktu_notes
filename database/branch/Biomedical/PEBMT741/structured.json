@@ -1,0 +1,73 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Architecture",
+      "Registers",
+      "Descriptors",
+      "Real Mode",
+      "Protected mode",
+      "Virtual 8086 mode",
+      "Paging and Segmentation -Comparison with 80486 Microprocessor. Pentium class of processors: RISC and CISC architectures",
+      "Superscalar Architecture",
+      "MMX technology",
+      "Pipelining",
+      "Branch Prediction techniques",
+      "Comparative study of features of Pentium-II, Pentium-III and Pentium-IV processors"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "High performance CISC architecture: 80386 - Salient features",
+      "Architecture and Signal Description",
+      "Register Organization. Real Address mode",
+      "Protected mode",
+      "Segmentation",
+      "Paging & Virtual modes. Pentium - General features",
+      "pipelining and super scalar architecture. Introduction to multicore processors: Advantages of multicore",
+      "Concept of Hyper-Threading",
+      "homogeneous and heterogeneous multicore processors",
+      "Internal architecture of Intel Core2 Duo (Simple block diagram level only",
+      "Comparison of Core i3",
+      "i5 and i7 processors"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "ARM Processor Fundamentals: ARM category overview- Classic ARM",
+      "ARM Cortex",
+      "ARM for Embedded Applications. The Classic ARM programmer's model",
+      "ARM Processor Families",
+      "ARM Organization - 3-stage and 5-stage pipeline ARM organization",
+      "ARM instruction execution",
+      "ARM Instruction Set",
+      "Thumb Instruction set. Architectural Support for System Development - The ARM memory interface",
+      "The Advanced Microcontroller Bus Architecture (AMBA)ARM Classic/Cortex based SOC: Basic system-on-chip (SoC) architecture",
+      "Overview of SoC design flow. Raspberry Pi family - Overview and general architecture",
+      "accessories. Application and use in healthcare (Case study such as People’s Ventilator Project",
+      "Feature comparison: Pi 4 vs Pi Pico"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "CPU vs GPU",
+      "Application areas",
+      "GPUs as Parallel Computers",
+      "Evolution of Graphics Pipelines",
+      "GPU Computing",
+      "Parallelism with GPUs - Data parallelism and task parallelism",
+      "Feature comparison: Raspberry Pi vs NVIDIA Jetson NANO. Literature Review: Smartphone processors (Overview of system functionalities) -Samsung Exynos 5410 SoC and Apple A14"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

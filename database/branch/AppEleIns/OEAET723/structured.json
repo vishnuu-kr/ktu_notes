@@ -1,0 +1,55 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Embedded Systems Definition of Embedded System",
+      "Embedded Systems Vs General Computing Systems",
+      "History of Embedded Systems",
+      "Classification",
+      "Major Application Areas",
+      "Purpose of Embedded Systems",
+      "Characteristics and Quality Attributes of Embedded Systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Typical Embedded System Core of the Embedded System - General Purpose and Domain Specific Processors - ASICs",
+      "PLDs",
+      "Commercial Off-The-Shelf Components (COTS). Memory - ROM",
+      "Memory according to the type of Interface",
+      "Memory selection for Embedded Systems",
+      "Introduction to sensors and Actuators for Embedded Systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "RTOS Based Embedded System Design Operating System Basics",
+      "Types of Operating Systems",
+      "Tasks",
+      "Process and Threads",
+      "Multi processing and Multi-tasking",
+      "Task Scheduling. Basics of Task Communication - Shared Memory",
+      "Message Passing. How to Choose an RTOS"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Embedded System Development Process Overview of embedded system development process - Waterfall model and spiral model. Requirements analysis",
+      "System Architecture design",
+      "Selection of processor",
+      "development platform and tools selection",
+      "coding issues and code optimization basics of testing and debugging. Introduction to verification and validation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

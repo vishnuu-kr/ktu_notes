@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to basic concepts and  Recent developments:Collaborative\nrecommendation  - User-based nearest neighbour recommendations,  Item-\nbased nearest neighbour recommendation,    Collaborative recommendation\nratings ,  Model-based and pre-processing- based approaches,  Recent\npractical approaches and systems  Content-based recommendation - Content\nrepresentation and content similarity  Similarity-based retrieval  and   Other\ntext classification methods",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Knowledge-based recommendation : Knowledge representation and\nreasoning, Constraints, Cases and similarities,   Interacting with constraint-\nbased recommenders  - Defaults    Dealing with unsatisfiable requirements\nand empty result set,   Proposing repairs for unsatisfiable requirements,\nRanking the items/utility-based recommendation, Interacting with case-based\nrecommenders,   Critiquing -Compound critiquing, Dynamic critiquing",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Hybrid recommendation approaches : Opportunities for hybridization\nRecommendation paradigms,  Hybridization designs,   Monolithic\nhybridization design  -  Feature combination hybrids, Feature augmentation\nhybrids,     Parallelized hybridization design -Mixed hybrids,  Switching\nhybrids,   Weighted hybrids,     Pipelined hybridization design   Cascade\nhybrids,  Meta-level hybrids. Limitations of hybridization strategies",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Evaluating Recommender Systems : Introduction  - Evaluation Paradigms ,\nUser Studies ,  Online Evaluation  Offline Evaluation with Historical Data\nSets,   General Goals of Evaluation Design -  Accuracy,  Coverage ,\nConfidence and Trust ,  Novelty ,  General Goals of Evaluation Design -\nSerendipity  ,Diversity , Robustness and Stability   Scalability,   Design Issues\nin Offline Recommender Evaluation  -  Case Study of the Netflix Prize Data\nSet, Segmenting the Ratings for Training and Testing- Hold-Out , Cross-\nValidation ,  Comparison with Classification,   Accuracy Metrics in Offline\nEvaluation  -  Measuring the Accuracy of  Ratings  Prediction  , RMSE versus\nMAE,   Impact of the Long Tail, Evaluating Ranking via Correlation ,\nEvaluating Ranking via Utility   Evaluating Ranking via Receiver Operating\nCharacteristic,   Limitations of Evaluation Measures  -  Avoiding Evaluation\nGaming",
+    "contact_hours": "10"
+  }
+]

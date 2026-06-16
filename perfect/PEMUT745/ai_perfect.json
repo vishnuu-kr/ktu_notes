@@ -1,0 +1,41 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Finite Element Methods - Areas of Application - General Steps in Finite Element Methods - Geometric Modelling Techniques. Derivation of the Stiffness Matrix using Displacement Technique - Spring and Truss Elements - Assembly of Global Stiffness Matrix, Boundary Conditions. Development of Euler Beam Equations - Finite Element Formulations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Coordinate Transformation",
+            "Global and Local Coordinate System, Interpolation Functions for General Element Formulation. Stiffness Matrix of Isoparametric Elements. Patch Test, Mesh Convergence",
+            "Basic Concept Only. Different Types of Refinements (h, p and r). Rayleigh's Ritz Method (Variational Method) and Weighted Residual Method. Numerical Integration using Gaussian Quadrature"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Development of the Plane Stress and Plane Strain Stiffness Equations - Development of the CST, Linear-Strain Triangle (Shape Functions and Equations Only)",
+            "Galerkin Weighted Residual Techniques",
+            "Types of Boundary Conditions (Neumann, Dirichlet and Robin)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Euler's Method",
+            "Central Difference Technique",
+            "Critical Time Step",
+            "Rigid Body Modes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

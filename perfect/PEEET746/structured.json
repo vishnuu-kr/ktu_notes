@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Image representation",
+            "Types of images",
+            "Elements of DIP system",
+            "Basic relationship between pixels",
+            "Distance Measures",
+            "Simple image formation model. Brightness",
+            "contrast",
+            "saturation",
+            "Mach band effect. Colour image fundamentals-RGB",
+            "HIS models",
+            "2D sampling and quantization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Properties",
+            "Walsh transform",
+            "Hadamard transform",
+            "Haar transform",
+            "KL transform and Singular Value Decomposition. Image Compression: Image compression model",
+            "Lossy",
+            "lossless compression",
+            "Concept of transform coding",
+            "JPEG Image compression standard"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Spatial domain methods: Basic Gray Level Transformations",
+            "Histogram Processing",
+            "Enhancement Using Arithmetic/Logic Operations",
+            "Basics of Spatial Filtering",
+            "Smoothing spatial Filters",
+            "Sharpening spatial Filters. Frequency domain methods: low pass filtering",
+            "high pass filtering",
+            "homomorphic filtering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Degradation model",
+            "Inverse filtering- removal of blur caused by uniform linear motion",
+            "Minimum Mean Square Error (Wiener) Filtering. Image segmentation: Region based approach",
+            "clustering",
+            "Segmentation based on thresholding",
+            "edge based segmentation",
+            "Hough Transform"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

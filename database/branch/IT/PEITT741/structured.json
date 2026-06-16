@@ -1,0 +1,71 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Applications",
+      "Levels of NLP",
+      "Basic Text Processing",
+      "Empirical Laws",
+      "Minimum Edit Distance. N-gram Language Models: N-grams",
+      "Evaluating Language Models",
+      "Smoothing:Knesser-Ney Smoothing",
+      "Perplexity’s Relation to Entropy. Naive Bayes",
+      "Text Classification",
+      "and Sentiment: Naive Bayes Classifiers",
+      "Training the Naive Bayes Classifier",
+      "Evaluation: Precision",
+      "Recall",
+      "F-measure",
+      "Test sets and Cross-validation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "POS Tagging",
+      "HMM POS Tagging",
+      "Viterbi Algorithm",
+      "Morphology",
+      "Named Entity Recognition",
+      "Conditional Random Fields. Lexical Semantics",
+      "Vector Semantics",
+      "TF-IDF",
+      "Word2Vec",
+      "Word Senses",
+      "Word Sense Disambiguation",
+      "WordNet Context-Free Grammars and Constituency Parsing",
+      "Treebank"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Semantic Roles",
+      "Logical Representations of Sentence Meaning",
+      "Semantic Role Labeling",
+      "Lexicons for Sentiment",
+      "Affect",
+      "and Connotation",
+      "Coreference Resolution",
+      "Discourse Coherence"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Machine Translation",
+      "Question Answering and Information Retrieval",
+      "Chatbots & Dialogue Systems",
+      "Automatic Speech Recognition and Text-to-Speech",
+      "Relation and Event Extraction"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

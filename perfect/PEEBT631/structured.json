@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Mesh and node analysis of network containing independent and dependent sources. Supermesh and Supernode analysis. Steady-state AC analysis using Mesh and Node analysis. Thevenin’s theorem",
+            "Norton’s theorem",
+            "Superposition theorem",
+            "Reciprocity theorem",
+            "Maximum power transfer theorem. (applied to both dc and ac circuits having dependent source"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Transients - DC and sinusoidal response of RL",
+            "RC and RLC circuits",
+            "Initial and final conditions",
+            "Review of Laplace Transforms and Inverse Laplace Transforms",
+            "Transformation of basic signals and circuits into s-domain. Transient analysis of RL",
+            "and RLC networks with impulse",
+            "step and sinusoidal inputs (with and without initial conditions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Transform impedance/admittance of R, L and C",
+            "Transfer Function representation",
+            "Poles and zeros. Analysis of Coupled Circuits",
+            "Dot polarity convention",
+            "Sinusoidal steady state analysis of coupled circuits",
+            "Linear Transformer as a coupled circuit -Analysis of coupled circuits in s-domain"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Characterization of two port networks using Z",
+            "Hybrid and Transmission parameters",
+            "Tand π representations. Interrelationship among parameter sets. Series and parallel connections of two port networks. Passive filters - Filter fundamentals",
+            "Classification of Filters",
+            "Characteristic impedance",
+            "Design of Constant K -Low Pass",
+            "High Pass & Band Pass filters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

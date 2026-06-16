@@ -1,0 +1,72 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic Operational Concepts",
+            "Memory Locations and Addresses",
+            "Instructions and Instruction Sequencing",
+            "Instruction Set Principles Modes",
+            "Classifying Instruction Set Architectures",
+            "Memory Addressing",
+            "Type and Size of Operands",
+            "Operations in the Instruction Set",
+            "Instructions for Control Flow",
+            "Encoding an Instruction Set",
+            "RISC Architecture"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to Single Cycle and Multi Cycle Processors",
+            "Pipelining - Basic and Intermediate Concepts",
+            "Introduction to Pipelining",
+            "Pipeline Hazards",
+            "Structural Hazards",
+            "Data Hazards",
+            "Control Hazards",
+            "Pipelining Implementation",
+            "RISC V Integer Pipeline to Handle Multicycle Operations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to Cache Memory",
+            "Cache Mapping",
+            "Block Replacement Techniques",
+            "Cache Performance",
+            "Six Basic Cache Optimizations",
+            "DRAM Memory System Organization",
+            "Basic Nomenclature",
+            "Memory Modules",
+            "Basic DRAM Memory Access Protocol",
+            "Basic DRAM Commands",
+            "DRAM Controller Architecture",
+            "Row Buffer Management Policy",
+            "Open Page Row Buffer Management Policy",
+            "Close Page Row Buffer Management Policy"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "SISD",
+            "MIMD",
+            "SIMD",
+            "SPMD",
+            "Vector Hardware",
+            "Multithreading",
+            "Multicore and Other Shared Memory Multiprocessors",
+            "Case Study: Intel Core i7"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

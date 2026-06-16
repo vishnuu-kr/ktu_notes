@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Firewalls: Types of Firewalls",
+            "Configuration of Firewalls",
+            "Intrusion Detection and Prevention Systems (IDPS)",
+            "Virtual Private Networks (VPNs)",
+            "Network Segmentation",
+            "Endpoint Security: Antivirus and Antimalware",
+            "Endpoint Detection and Response (EDR)",
+            "Patch Management",
+            "Device Encryption"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Secure Software Development Lifecycle (SDLC)",
+            "Code Review and Static Analysis",
+            "Web Application Firewalls (WAF)",
+            "Database Security",
+            "Data Protection Controls: Data Classification and Handling",
+            "Data Loss Prevention (DLP)",
+            "Encryption at Rest and In Transit",
+            "Backup and Recovery"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Identity Lifecycle Management",
+            "Single Sign-On (SSO)",
+            "Federation and Trust Models",
+            "Privileged Access Management (PAM)",
+            "Security Monitoring and Incident Response: Security Information and Event Management (SIEM)",
+            "Threat Intelligence",
+            "Incident Response Planning",
+            "Forensics and Post-Incident Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "General Data Protection Regulation (GDPR)",
+            "Health Insurance Portability and Accountability Act (HIPAA)",
+            "Sarbanes-Oxley Act (SOX)",
+            "Payment Card Industry Data Security Standard (PCI DSS)",
+            "Emerging Trends and Technologies: Zero Trust Architecture",
+            "Artificial Intelligence in Cybersecurity",
+            "Blockchain for Security",
+            "Quantum Computing Implications",
+            "Case Study: Analysis of Real-World Cybersecurity Incidents"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

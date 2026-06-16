@@ -1,0 +1,68 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of CPS and communication requirements",
+            "Types of communication in CPS (eg: sensor-sensor",
+            "sensor-actuator",
+            "actuator-actuator",
+            "Communication protocols and standards for CPS. Network topologies and architecture for CPS (TCP/IP",
+            "HTTP",
+            "Network performance matrices (eg: Throughput",
+            "latency",
+            "jitter"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Wireless communication technologies (Wi-Fi",
+            "Bluetooth",
+            "Zigbee) Wireless network protocols and standards (802.11",
+            "802.15.4",
+            "Wireless Communication challenges (interference",
+            "fading",
+            "Wired communication for CPS: Wired communication technologies (Ethernet",
+            "Wired network topologies and standards (TCP/IP",
+            "Modbus"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Data compression techniques (Huffman coding",
+            "LZ77",
+            "Encryption techniques (AES",
+            "Data compression and Encryption algorithms for CPS) Communication protocols for CPS applications: IoT communication protocols (MQTT",
+            "CoAP",
+            "LWM2M",
+            "Industrial automatic communication protocols (Modbus",
+            "Profibus",
+            "Profinet",
+            "Healthcare communication protocols (HL7",
+            "DICOM"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Performance matrices for CPS communication (throughput",
+            "latency",
+            "reliability) performance Evaluation tools (simulation",
+            "testing",
+            "Optimization techniques for CPS communication (buffer sizing",
+            "packet scheduling",
+            "Security and Privacy in CPS communication: Threats and vulnerabilities in CPS communication",
+            "Security measures for CPS communication (encryption and authentication",
+            "privacy concerns and solutions in CPS communication"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

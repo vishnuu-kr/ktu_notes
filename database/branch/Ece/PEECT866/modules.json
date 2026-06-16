@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Physics of Power dissipation in MOSFET devices\nNeed for low power circuit design, MIS Structure\nDeep submicron transistor design issues: Short channel effects\nChannel Length Modulation , Surface scattering, Punch through, Velocity\nsaturation, Impact ionization, Hot electron effects, Body Effect, Narrow\nwidth effect, Vth roll-off,  Drain Induced Barrier Lowering, Gate Induced\ndrain leakage, Tunneling Through Gate Oxide, Subthreshold Leakage\nCurrent,\nEmerging Technologies for Low Power:\nHi-K Gate Dielectric, Lightly Doped Drain–Source, Silicon on Insulator,",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Sources of power dissipation in digital  ICs –\nDynamic Power Dissipation:\nShort Circuit Power: Short Circuit Current of Inverter , Short circuit current\ndependency on input rise and fall time, Variation of shortcircuit current\nwith load capacitance.\nSwitching power dissipation: Switching Power of CMOS Inverter,\nSwitching activity and its effects.\nGlitching Power: Glitches and its effect on power dissipation\nStatic Power Dissipation:\nSources of Leakage Power, Effects  of  Vdd and  Vt  on  speed,  Constraints\non  Vt Reduction.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Low-Power Design Approaches-\nSupply Voltage Scaling for Low Power:\nEffect of Supply voltage on Delay and Power\nEffect of Supply voltage on Static and Dynamic Power\nMulti VDD ,Dynamic VDD, Dynamic Voltage and Frequency Scaling\n(DVFS) Approaches.\nArchitectural Level Approaches: Pipelining and Parallel Processing\nLeakage power reduction Techniques:\nEffect of threshold voltage on Leakage Power\nTransistor stacking, MTCMOS, VTCMOS\nPower gating& Clock gating Techniques.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Circuit Design Styles for Low Power-\nNon clocked circuit design style: Fully Complementary logic. NMOS and\nPseudo –NMOS logic, Differential Cascode Voltage Switch logic(DCVS)\nClocked design style: Basic concept, Dynamic Logic, Domino logic,\nDifferential Current Switch Logic.\nAdiabatic switching – Adiabatic charging, Adiabatic amplification,\nAdiabatic logic gates, Pulsed power supplies.",
+    "contact_hours": "9"
+  }
+]

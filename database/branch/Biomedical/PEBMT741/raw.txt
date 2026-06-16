@@ -1,0 +1,304 @@
+Course Code 
+PEBMT741 
+ 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+2:1:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCBMT 402 
+Course Type 
+PE 
+ 
+Course Objectives: 
+1. Is to enable get the students gives a broad overview of the architecture of basic and advanced 
+microprocessors along with an update of current technology in SOC design and high-
+performance computing. 
+2.  Students shall be encouraged to review technical manuals of relevant processors and 
+microcontrollers one of the assignments shall be a case study of Medical Embedded 
+application of the latest hardware technology. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Intel 80386 Microprocessor: Architecture - Registers – Descriptors - Real 
+Mode - Protected mode - Virtual 8086 mode - Paging and Segmentation - 
+Comparison with 80486 Microprocessor. Pentium class of processors: RISC 
+and CISC architectures - Superscalar Architecture - MMX technology – SSE 
+– Pipelining - Branch Prediction techniques – FPU - Comparative study of 
+features of Pentium-II, Pentium-III and Pentium-IV processors. 
+9 
+2 
+High performance CISC architecture: 80386 - Salient features, Architecture 
+and Signal Description, Register Organization. Real Address mode, 
+Protected mode, Segmentation, Paging & Virtual modes. Pentium - General 
+features, pipelining and super scalar architecture. Introduction to multicore 
+processors: Advantages of multicore, Concept of Hyper-Threading, 
+homogeneous and heterogeneous multicore processors, Internal architecture 
+of Intel Core2 Duo (Simple block diagram level only), Comparison of Core 
+i3, i5 and i7 processors 
+9 
+
+ 
+ 
+3 
+High performance RISC architecture: ARM Processor Fundamentals: ARM 
+category overview- Classic ARM, ARM Cortex, ARM for Embedded 
+Applications. The Classic ARM programmer's model, ARM Processor 
+Families, ARM Organization - 3-stage and 5-stage pipeline ARM 
+organization, ARM instruction execution, ARM Instruction Set, Thumb 
+Instruction set. Architectural Support for System Development - The ARM 
+memory interface, The Advanced Microcontroller Bus Architecture 
+(AMBA)ARM Classic/Cortex based SOC: Basic system-on-chip (SoC) 
+architecture, Overview of SoC design flow. Raspberry Pi family - Overview 
+and general architecture, accessories. Application and use in healthcare 
+(Case study such as People’s Ventilator Project), Feature comparison: Pi 4 vs 
+Pi Pico 
+9 
+4 
+Introduction to high performance computing: CPU vs GPU, Application 
+areas, GPUs as Parallel Computers, Evolution of Graphics Pipelines, GPU 
+Computing, Parallelism with GPUs - Data parallelism and task parallelism, 
+Feature comparison: Raspberry Pi vs NVIDIA Jetson NANO. Literature 
+Review: Smartphone processors (Overview of system functionalities) - 
+Samsung Exynos 5410 SoC and Apple A14 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, 
+out of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO 1 
+Describe the architecture, registers and memory unit in a basic CISC 
+processor-based computing device 
+K2 
+CO 2 
+Discuss about advanced RISC platforms and illustrate its usage in a 
+typical Medical Embedded application  
+K2 
+CO 3 
+Outline the architecture of high-performance GPUs and their 
+application areas. 
+K2 
+CO 4 
+Describe parallelism in supercomputing processors 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11 PO12
+CO1 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+2 
+CO3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+2 
+CO4 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+2 
+2 
+
+ 
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Reliable design of medical 
+devices 
+Fries, Richard C 
+Wiley Dreamtech, 
+2012 
+2 
+Medical Device Design 
+Innovation from Concept to 
+Market 
+Peter Ogrodnik 
+Elsevier 
+2013 
+3 
+Biomedical devices: materials, 
+design, and manufacturing.  
+Lam, Raymond HW, 
+and Weiqiang Chen 
+Springer 
+2019 
+4 
+Design of Biomedical Device 
+and Systems 
+Paul H. King, Richard 
+C. Fries, Arthur T. 
+Johnson 
+Third Edition 
+2015 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Design controls for the medical 
+device industry  
+Teixeira, Marie B 
+CRC press 
+2019 
+2 
+Medical devices: regulations, 
+standards and practices  
+Ramakrishna, Seeram, 
+Lingling Tian, Charlene 
+Wang, Susan Liao, and 
+Wee Eong Teo 
+Woodhead Publishing 
+2003 
+3 
+Embedded systems: An 
+Integrated Approach  
+Lyla B. Das 
+Lyla B. Das 
+2015 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://archive.nptel.ac.in/courses/108/105/108105102/ 
+2 
+https://nptel.ac.in/courses/117104072  
+3 
+https://archive.nptel.ac.in/courses/106/108/106108100/ 
+4 
+https://nptel.ac.in/courses/108107029 
+
+ 
+ 
+SEMESTER S7 
+HUMAN FACTORS IN ENGINEERING AND DESIGN

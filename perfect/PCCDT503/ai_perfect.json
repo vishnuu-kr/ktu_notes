@@ -1,0 +1,66 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Data Analytics - Analytics Process Model",
+            "Analytical Model Requirements. Data Analytics Life Cycle Overview",
+            "Probability Calculus - Probability Distributions",
+            "Hypothesis Testing - Basic Definitions. Proximity Measures - Data Objects",
+            "Attribute Types",
+            "Dissimilarity and Similarity Measures. Statistical Description of Data - Central Tendency",
+            "Dispersion",
+            "Range",
+            "Quartiles",
+            "Variance",
+            "Standard Deviation",
+            "Interquartile Range"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Association of Two Variables - Summarizing the Distribution of Two Discrete Variables",
+            "Contingency Tables for Discrete Data",
+            "Joint",
+            "Marginal",
+            "Conditional Frequency Distributions",
+            "Graphical Representation of Two Nominal or Ordinal Variables",
+            "Measures of Association for Two Discrete Variables",
+            "Association Between Ordinal and Continuous Variables",
+            "Visualization of Variables from Different Scales"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Data Preprocessing - Cleaning",
+            "Integration",
+            "Reduction",
+            "Transformation",
+            "Discretization. Mining Frequent Patterns - Associations",
+            "Correlations",
+            "Apriori Algorithms. Classification - General Approach to Classification",
+            "Attribute Selection Measures",
+            "Naive Bayesian Classification. Clustering - K-Means",
+            "Agglomerative versus Divisive Hierarchical Clustering",
+            "BIRCH",
+            "DBSCAN"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Text Processing - Boolean Retrieval",
+            "Example IR Problem",
+            "Inverted Index",
+            "Processing Boolean Queries",
+            "Tokenization",
+            "Stemming",
+            "Phrase Queries",
+            "Vector Space Model",
+            "Finite Automata and Language Model",
+            "Query Likelihood Model",
+            "Naïve Bayes Text Classification"
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Hybrid PET/CT Systems",
+      "PET/MRI Systems. Super resolution imaging. Image Fusion: Preprocessing measures-geometrical transformations and image interpolation",
+      "Distortion identification- disparity analysis. Image Registration- Global Similarity",
+      "Transform Identification",
+      "Registration Evaluation and Approval. Three-Dimensional Data from Two-Dimensional Slices",
+      "Panorama Fusion",
+      "Stereo Surface Reconstruction"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Image intensity versus image texture",
+      "Characterizing the Texture",
+      "From Markov Random Fields to Fractals",
+      "From Markov Random Fields to Gibbs Distributions",
+      "Local binary patterns (LBPs",
+      "Co-occurrence Matrices",
+      "Generalized Co-occurrence Matrices",
+      "Orientation Histograms",
+      "Textons",
+      "From Spatio-Frequency to Spatio-Structural Space",
+      "Statistical Spatio-Structural Space",
+      "Monogenic Signal",
+      "From Monogenic Signal Back to Gabor Functions. Deep Learning Techniques on Texture Analysis- Lung nodule detection in CT scans"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Creating an ASM",
+      "Using ASMs for Segmentation",
+      "The Active Appearance Model",
+      "Deficiencies of Statistical Shape Models",
+      "Changing the Parametric Model",
+      "Using a Part-Based Model",
+      "Using a Non-parametric Model",
+      "Physically-Based Shape Models",
+      "Mass-Spring Models",
+      "Finite Element Models",
+      "Shape",
+      "Appearance and Pose Priors for Segmentation",
+      "Atlas-Based Segmentation",
+      "Combining Shape Information with Level Set Segmentation",
+      "Solutions Based on Graph Cuts",
+      "Graph Cuts on Pre-segmented Images"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Image Management: Archiving- Image Storage and Transfer",
+      "Information Systems in a Hospital",
+      "The DICOM Standard",
+      "Establishing DICOM Connectivity",
+      "The DICOM File Format",
+      "Technical Properties of Medical Images",
+      "Displays and Workstations",
+      "HL7 standard",
+      "Principles of Image Compression for Archiving and Communication- Philosophy of Image Compression",
+      "Generic Still-Image Compression. System",
+      "Principles of Lossless Compression",
+      "Predictive Coding",
+      "Principles of Lossy Compression",
+      "Pixel-Oriented Methods",
+      "Block-Oriented Methods",
+      "Global Compression Methods"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

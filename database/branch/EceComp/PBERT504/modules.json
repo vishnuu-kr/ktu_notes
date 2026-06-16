@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basics of Database - Introduction and applications of DBMS, Purpose of\ndatabase, View of Data, Database Languages, Database architecture and\nClassification, Database users and Administrators.\nER model - Entity Sets, Relationship Sets, Attributes, Constraints, Removing\nRedundant Attributes in Entity Sets, Entity-Relationship Diagrams.\nIntroduction to Relational Model - Structure of Relational Databases,\nDatabase Schema, Keys, Schema Diagrams, Relational Query Languages,\nRelational Algebra, Synthesizing ER diagram to relational schema.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to Structured Query Language (SQL) - Overview of the SQL\nQuery Language, SQL Data Definition, Basic Structure of SQL Queries,\nAdditional Basic Operations, Set Operations, Null Values, Aggregate\nFunctions, Nested Subqueries, Views, assertions, Triggers.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Relational Database Design - Different anomalies in designing a database,\nthe idea of normalization, Functional dependency, Armstrong’s Axioms\n(proofs not required), Closures and their computation, Equivalence of\nFunctional Dependencies (FD), Minimal Cover (proofs not required). First\nNormal Form (1NF), Second Normal Form (2NF), Third Normal Form\n(3NF), Boyce Codd Normal Form (BCNF).",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Transaction Processing Concepts - overview of concurrency control,\nTransaction Model, Significance of concurrency Control & Recovery,\nTransaction States, System Log, Desirable Properties of transactions. Serial\nschedules, Concurrent and Serializable Schedules, Conflict equivalence and\nconflict serializability, Recoverable and cascade-less schedules, Locking,\nTwo-phase locking and its variations. Log-based recovery, check-pointing.\nNoSQL Databases - Introduction, properties of NoSQL Databases, types of\nNo SQL Databases.",
+    "contact_hours": "9"
+  }
+]

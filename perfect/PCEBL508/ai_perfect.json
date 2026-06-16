@@ -1,0 +1,24 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Familiarization of Python & QT Octave programming - Generation of elementary signals and its basic operations",
+            "Basic signal processing operations (Convolution, Correlation, Digital filters, etc.)",
+            "Analysis of ECG (calculation of heart rate & parameters related to QRS complex, P wave & T wave)",
+            "Analysis of respiratory signal and calculation of respiratory rate",
+            "Analysis of PPG signal and calculation of pulse rate",
+            "Time & frequency domain analysis of HRV from ECG and using HRV software",
+            "Time domain filtering of bio signal for removal of baseline drift & high frequency noise",
+            "Power line interference rejection from bio signals",
+            "Detection of Premature Ventricular Contraction in ECG",
+            "Estimation of dicrotic notch from PPG signal",
+            "Event detection in EEG signal",
+            "Spectral analysis of EEG signal",
+            "Time and frequency domain analysis of EMG signal",
+            "Concurrent signal analysis with ECG, PPG and PCG",
+            "Familiarisation of Python toolbox (biosppy, neurokit2, etc.) for bio signal processing",
+            "Arrhythmia classification using machine learning techniques",
+            "Analysis of speech signal (identification of voiced, unvoiced and silent portion, etc.)"
+        ]
+    }
+]

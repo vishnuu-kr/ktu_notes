@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Basics of biomedical signal processing: Introduction & relevance of\nbiomedical signal processing. Biomedical signals –ECG, EMG, EEG, PCG,\nVAG, carotid pulse, speech signal, concurrent signals. Signal representation,\nAliasing-Sampling theorem. Elementary signals. Classification of discrete\nsignals - Energy and Power signals – periodic and aperiodic, even and odd\nsignals. Discrete time systems - Properties of discrete systems. LTI system-\nImpulse Response of a Linear Time-Invariant System -convolution-\ncorrelation - difference equation representation of discrete systems",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Fourier Analysis: Fourier Analysis for Continuous Time Processes-Synthesis\nof an ECG signal using pure sinusoid. Frequency Domain Analysis of\ndiscrete time signals: Discrete Fourier series - Discrete Time Fourier\nTransform- Discrete Fourier Transform-properties - Fast Fourier Transform-\nFFT algorithms (Radix 2)- decimation in - time - decimation in -\nfrequency.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Spectrum analysis & Z Transform: Spectrum analysis of bio signals –\nIntroduction to parametric & non parametric methods. Z transform – ROC,\nproperties of ROC, Properties of Z transform: Linearity, Time shifting,\nScaling, Time reversal, Differentiation in Z domain, Convolution,\nCorrelation, Multiplication, Parseval’s relation, initial value theorem-\nrational Z transform-poles &zeros-LTI system function - inverse Z\ntransform-long division-partial fraction expansion method-residue method-\nconvolution method.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Digital filters: Concept of digital filtering, types of digital filters.\nComparison with analog filters. FIR filter design using Fourier series - use of\nwindow functions, IIR Digital Filters - Analog filter approximations -\nButterworth approximation - Frequency transformation techniques - impulse\ninvariant transformation - Matched Z transform technique- bilinear\ntransformation\nSuggestion on Project Topics\nStudents are asked to form groups of maximum five members. Each group should identify a project\non the areas specified below and choose suitable data base. Develop a methodology to implement the\nproject. Develop the algorithm and code for the project\nAreas of Projects Topics:\n\nFiltering for removal of artefacts: Implementation of time domain Filters & Frequency\ndomain filters for removal of high frequency and low frequency and periodic artefacts\n\nEvent detection in biomedical signals – ECG: QRS wave detection, P wave and T wave\ndetection, PPG: dicrotic notch detection - Heart sound detection- EEG rhythm detection\n\nFrequency Domain characterisation of Biomedical signal: Power spectrum density estimation\nof biomedical signals\n\nWave shape and Waveform Complexity analysis: Normal and Ectopic beat, Arrhythmia\nanalysis, Analysis of exercise ECG, Analysis of respiration",
+    "contact_hours": "10"
+  }
+]

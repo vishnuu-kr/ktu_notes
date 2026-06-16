@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Fundamental Steps in Digital Image Processing: Elements of Visual\nPerception, Image Sensing and Acquisition, A Simple Image Formation\nModel, Image Sampling and Quantization, Basic Relationship between\npixels, Distance Measures",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Intensity Transformation Functions- Image Negatives, Log Transformations,\nPower Law Transformations, Piecewise-Linear Transformation Functions,\ncontrast stretching, intensity level slicing, bit plane slicing, Fundamentals of\nspatial Filtering-mechanics of spatial filtering, vector representation of linear\nfiltering, generating spatial filter masks, smoothing linear filters and\nnonlinear filters",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Reflection of a set and translation of a set, erosion and dilation, duality,\nOpening and closing, Image Segmentation, Classification, Region Approach\nto Image Segmentation, Clustering Techniques-Hierarchical, K- Means,\nThresholding- global thresholding, adaptive thresholding",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Perspective, Binocular Stereopsis: Camera and Epipolar Geometry,\nHomography, Rectification, DLT, RANSAC, 3-D reconstruction framework,\nBackground Subtraction and Modelling",
+    "contact_hours": "9"
+  }
+]

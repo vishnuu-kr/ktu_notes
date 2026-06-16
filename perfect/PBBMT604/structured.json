@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Image perception - Image Perception-Light",
+            "Luminance",
+            "Brightness and Contrast",
+            "Simultaneous Contrast",
+            "Mach Bands-monochrome vision models - color vision model - Image sampling and quantization -Two-dimensional sampling theory Representing Digital Images",
+            "Basic relationship between pixels"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Point Operations",
+            "Contrast Stretching",
+            "Clipping and Thresholding",
+            "Digital Negative",
+            "Intensity Level Slicing",
+            "Bit Extraction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Edge Detection",
+            "Gradient Operators, Laplace Operators and Zero Crossings"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Image Segmentation: Techniques such as thresholding",
+            "region-based segmentation",
+            "and edge detection. Image Enhancement: Methods like histogram equalization",
+            "contrast adjustment",
+            "and noise reduction. Image Reconstruction: Methods for reconstructing images from raw data",
+            "including CT and MRI reconstruction algorithms. Feature Extraction: Techniques for identifying and extracting significant features from images",
+            "such as texture analysis and morphological operations. ● Implement the selected image processing technique on a set of medical images using Matlab",
+            "Python",
+            "or C++. ● Develop a codebase that accurately applies the chosen technique to biomedical images. ● Collaborate in teams to document the entire process",
+            "from literature review to implementation. ● Prepare a comprehensive project report detailing the methodology",
+            "implementation steps",
+            "results",
+            "and conclusions. ● Present the project and findings to the class",
+            "highlighting the technique's effectiveness and potential applications in medical imaging"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

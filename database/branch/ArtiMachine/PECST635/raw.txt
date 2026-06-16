@@ -1,0 +1,278 @@
+Course Code 
+PECST635 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type  
+Theory 
+Course Objectives: 
+1. To learn fundamentals of cloud and configure cloud environments, deploy virtual machines, 
+and work with containerization tools, gaining practical skills. 
+2. To learn to identify and address common security threats in cloud environments, implementing 
+best practices to ensure the safety and compliance of applications.  
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction - Limitations of Traditional Computing & solution, Three Layers 
+of Computing, Factors behind Cloud Service Adoption;  Evolution and 
+Enabling Technologies of Cloud; Benefits and Challenges; [Text 2]  
+Fundamental Concepts and Models - Roles and Boundaries, Cloud 
+Characteristics, Cloud Delivery Models, Cloud Deployment Models; [Text 1] 
+Introduction to Cloud Providers (AWS, Azure, Google Cloud). 
+Handson - Cloud Account Setup and Virtual Machine Deployment - Create 
+accounts on a cloud provider and deploy virtual machine instances, and 
+document the process and inferences. 
+8 
+2 
+Cloud-Enabling Technology - Networks and Internet Architecture, Cloud 
+Data Center Technology, Modern Virtualization, Multitenant Technology, 
+Service Technology and Service APIs; Understanding Containerization - 
+Influencers,  Fundamental Virtualization and Containerization, Understanding 
+Containers, Understanding Container Images, Multi-Container Types.[Text 1] 
+10 
+
+Handson - Hypervisor and Containers installation - Install hypervisors and 
+deploy VMs on local machines. Install any container platform and deploy 
+applications. 
+3 
+Resource Management - Resource Pooling, Sharing, Provisioning;  Scaling in 
+Cloud and the Strategies; Capacity Planning in Cloud Computing; Storage and 
+File System - Challenges; Cloud Native File System, Deployment models, 
+Storage Types, Popular Cloud Storages. High performance Computing 
+Models.[Text 2] 
+Handson - Use Map-reduce to implement basic big data applications such as 
+word count.  
+9 
+4 
+Understanding Cloud Security - Basic Security Terminology, Basic Threat 
+Terminology, Threat Agents, Common Threats; Other Considerations - 
+Flawed Implementations, Security Policy Disparity, Contracts, Risk 
+Management.[Text 1] 
+Handson : Identify possible attacks of any selected cloud applications and 
+suggest/implement solutions/policies for mitigation. 
+7 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Criteria for Evaluation(Evaluate and Analyse): 20 marks 
+Ways of assessing at  
+1. Analyze level - Analyze performance of traditional models (Hardware, Application, Computing 
+/ security models) against that in the cloud. 
+2. Evaluate level - Derive conclusions on the cloud programming / computing / security  models 
+based on standard performance evaluation criteria.   
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose 
+any one full question out of two questions 
+ 
+
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24 marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each question 
+can have a maximum of 3 subdivisions. Each 
+question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Evaluate the limitations of traditional computing models and recognize 
+the factors driving cloud service adoption and compare between various 
+cloud delivery and deployment models. 
+K5 
+CO2 
+Demonstrate proficiency in cloud-enabling technologies, including 
+modern virtualization and containerization 
+K3 
+CO3 
+Examine the resource management within the cloud, including resource 
+pooling, scaling strategies, and storage management and utilize tools 
+like MapReduce for processing big data applications. 
+K4 
+CO4 
+Identify potential security threats in cloud environments and apply 
+appropriate security measures to mitigate these risks. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Cloud Computing : Concepts, 
+Technology, Security, and Architecture 
+Thomas Erl 
+Pearson 
+2/e, 2023 
+2 
+Cloud Computing 
+Sandeep Bhowmik 
+Cambridge 
+University Press 
+1/e, 2017 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Cloud Computing : Theory and 
+Practice 
+Dan C. Marinescu 
+Morgan Kaufman 
+3/e, 2023 
+2 
+Cloud Computing: A Hands-On 
+Approach 
+Arshdeep Bahga and Vijay 
+Madisetti 
+Universities Press 
+1/e, 2014 
+3 
+Mastering Cloud Computing 
+Rajkumar Buyya, Christian 
+Vecchiola S.Thamarai Selvi 
+Morgan Kaufman 
+1/e, 2013 
+4 
+Cloud Computing : A Practical 
+Approach 
+Anthony T. Velte, Toby J. 
+Velte, Robert Elsenpeter 
+McGraw Hill 
+1/e, 2010 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Sl.No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/105/106105167/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SEMESTER S6 
+DATA HANDLING AND VISUALIZATION

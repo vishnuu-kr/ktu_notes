@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Image Fusion:\nPre-processing\nmeasures-geometrical\ntransformations\nand\nimage\ninterpolation, Distortion identification- disparity analysis\nImage\nRegistration-\nGlobal\nSimilarity,\nTransform\nIdentification,\nRegistration Evaluation and Approval. Image Fusion, Image Subtraction and\nAddition, Vector-Valued Images, Presentation of Vector-Valued Images,\nThree-Dimensional Data from Two-\nDimensional Slices, Panorama Fusion, Stereo Surface Reconstruction,\nTime Development Analysis, Time Development via Disparity Analysis,\nTime Development via Optical Flow.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Texture in Biomedical Images:\nImage intensity versus image texture, Characterizing the Texture,\nFrom Markov Random Fields to Fractals, From Markov Random Fields to\nGibbs Distributions, Local binary patterns (LBPs), Co-occurrence Matrices,\nGeneralized Co-occurrence Matrices, Orientation\nHistograms, Textons, From Spatio-Frequency to Spatio-Structural Space,\nStatistical Spatio-Structural Space, Monogenic Signal, From Monogenic\nSignal Back to Gabor Functions. Deep Learning\nTechniques on Texture Analysis- Lung nodule detection in CT scans.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Active Shape and Active Appearance Models:\nCreating an ASM, Using ASMs for Segmentation, The Active Appearance\nModel, Deficiencies of Statistical Shape Models, Changing the Parametric\nModel, Using a Part-Based Model, Using a Non-parametric Model,\nPhysically-Based Shape Models, Mass-Spring Models, Finite Element\nModels, Shape, Appearance and Pose Priors for Segmentation, Atlas-Based\nSegmentation, Combining Shape Information with Level Set Segmentation,\nSolutions Based on Graph Cuts, Graph Cuts on Pre-segmented Images",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Visualization of medical volume data:\nSurface rendering, Reconstruction of surfaces from contours, marching\ncubes, Indirect volume visualisation - surface rendering of unsegmented and\nsegmented volume data, advanced mesh smoothing, mesh simplification and\nweb-based surface rendering.\nImage Storage and Transfer:\nImage Management: Archiving- Image Storage and Transfer,\nInformation Systems in a Hospital, The DICOM Standard, Establishing\nDICOM Connectivity, The DICOM File Format, Technical Properties of\nMedical Images, Displays and Workstations, HL7 Standard Principles of\nImage Compression for Archiving and Communication- Philosophy of\nImage Compression, Generic Still-Image Compression System",
+    "contact_hours": "9"
+  }
+]

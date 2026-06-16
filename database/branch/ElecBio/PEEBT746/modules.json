@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Convolutional Neural Network (CNN), Convolution layer, Activation\nfunction, Pooling Layer, Dense Layer, Transfer learning, Deep CNN\narchitectures. Feedforward Neural Networks, Backpropagation, Gradient\nDescent, Loss functions, Optimizers, Train/Val/Test dataset distributions,\nPerformance matrix. Hyper parameter tuning, Bias Variance trade-off,\nProblem of overfitting, Regularization, Batch normalization, Dataset\naugmentation. Applications",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Deep learning Networks: History-AlexNet, GoogLeNet, VGGNet, ResNet,\nDense Net Deep learning platforms: Keras, Theano, TensorFlow and\nPyTorch. Tensor Flow: data Types, Tensors, create Tensors, operations on\nTensors, Tensor Board Keras: Common Functional Modules, Model\nConfiguration, Training, and Testing.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Recurrent Neural Networks Forwards and Backward pass. Gradient\npropagation. Backpropagation through time (BPTT) algorithm. Many-to-one\nRNN model (sentiment analysis), Many-to-many RNN model (language\nmodel), Vanishing gradients in Recurrent networks LSTMs, Bidirectional\nRNNs, Gated RNNs, Encoder-Decoder Models, Attention Networks Issues\nin RNN/LSTM.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Deep\nAutoencoders:\nUnsupervised\nDeep\nLearning,\nAutoencoders\nUndercomplete autoencoders, Regularized autoencoders - Applications\nGenerative Modelling: Variational Autoencoder (VAE). Variational\nLearning, VAE: network architecture. Generative Adversarial networks\n(GANs), Boltzmann Machines, Restricted Boltzmann Machines. Deep\nreinforcement learning: Reinforcement learning RL Process Reward\nhypothesis, Observations/States Space Action Space Rewards. The Policy π:\nthe agent’s brain Policy-Based Methods, Value based methods. Deep\nreinforcement learning-Q-learning, actor-critic, policy gradient, experience\nreplay. Applications.",
+    "contact_hours": "9"
+  }
+]

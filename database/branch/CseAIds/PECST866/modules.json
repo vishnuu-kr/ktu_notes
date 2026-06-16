@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Speech Production :- Acoustic theory of speech production; Source/Filter\nmodel - Pitch, Formant; Spectrogram- Wide and narrow band spectrogram;\nDiscrete model for speech production; Short-Time Speech Analysis;\nWindowing; STFT; Time domain parameters (Short time energy, short time\nzero crossing Rate, ACF); Frequency domain parameters - Filter bank\nanalysis; STFT Analysis.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Mel-frequency cepstral coefficient (MFCC)- Computation; Pitch Estimation\nACF/AMDF approaches; Cepstral analysis - Pitch and Formant estimation\nusing cepstral analysis;  LPC Analysis - LPC model; Auto correlation\nmethod - Levinson Durbin Algorithm",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Speech Enhancement :-   Spectral subtraction and Filtering, Harmonic\nfiltering, Parametric resynthesis;  Speech coding - fundamentals, class of\ncoders : Time domain/spectral domain/vocoders,  Sub band coding, adaptive\ntransform coding, phase vocoder;  Speaker Recognition :- Speaker\nverification and speaker identification, log-likelihood;  Language\nidentification - Implicit and explicit models; Machine learning models in\nSpeaker Recognition.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Signal Processing models of audio perception - Basic anatomy of hearing\nSystem, Basilar membrane behaviour;   Sound perception -  Auditory Filter\nBanks, Critical Band Structure, Absolute Threshold of Hearing; Masking -\nSimultaneous Masking, Temporal Masking; Models of speech perception.",
+    "contact_hours": "9"
+  }
+]

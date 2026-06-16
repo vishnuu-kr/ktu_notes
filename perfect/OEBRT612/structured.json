@@ -1,0 +1,78 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definitions- Robots, Robotics",
+            "Types of Robots- Manipulators, Mobile Robots-wheeled & Legged Robots, Aerial Robots",
+            "Anatomy of a robotic manipulator-links, joints, actuators, sensors, controller",
+            "open kinematic vs closed kinematic chain",
+            "degrees of freedom",
+            "Robot configurations-PPP, RPP, RRP, RRR",
+            "features of SCARA, PUMA Robots",
+            "Classification of robots based on motion control methods and drive technologies",
+            "3R concurrent wrist",
+            "Classification of End effectors - mechanical grippers, special tools, Magnetic grippers, Vacuum grippers, adhesive grippers, Active and passive grippers, selection and design considerations of grippers in robot. Trajectory planning Tasks, Path planning, Trajectory Planning. Joint space trajectory planning- cubic polynomial, linear trajectory with parabolic blends, trajectory planning with via points",
+            "Cartesian space planning, Point to point vs continuous path planning. Obstacle avoidance methods- Artificial Potential field"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Robot Kinematics Direct Kinematics- Rotations-Fundamental and composite Rotations",
+            "Homogeneous co- ordinates",
+            "Translations and rotations",
+            "Composite homogeneous transformations",
+            "Screw transformations",
+            "Kinematic parameters",
+            "The Denavit-Hartenberg (D-H) representation",
+            "The arm equation",
+            "direct kinematics problems (upto 3DOF) Inverse kinematics- general properties of solutions",
+            "Problems (upto 3DOF) Inverse kinematics of 3DOF manipulator with concurrent wrist (demo/assignment only) Tool configuration Jacobian",
+            "relation between joint and end effector velocities"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Manipulator Dynamics Lagrange’sformulation - Kinetic Energy expression",
+            "velocity Jacobian and Potential Energy expression",
+            "Generalised force",
+            "Euler-Lagrange equation",
+            "Dynamic model of planar and spatial serial robots upto 2 DOF",
+            "modelling including motor and gearbox. Robot Control The control problem",
+            "Single axis PID control-its disadvantages",
+            "PD gravity control",
+            "computed torque control. Simulation of simple robot-control system-Matlab programming for control of robots (demonstration/assignment only"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Locomotion",
+            "Key issues for locomotion",
+            "Legged Mobile Robots",
+            "Wheeled Mobile Robots",
+            "Aerial Mobile Robots. Mobile Robot Kinematics (Differential Drive Robot",
+            "Mobile Robot Workspace- Degree of freedom",
+            "Holonomic and nonholonomic robots. Motion Control",
+            "Open Loop control",
+            "feedback control. Industrial application- Medical",
+            "material handling",
+            "pick and place robot. Robot selection- number of axes",
+            "work volume",
+            "capacity and speed",
+            "stroke and reach",
+            "repeatability",
+            "precision and accuracy",
+            "operating environment"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

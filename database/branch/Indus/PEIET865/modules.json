@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to data analytics with python: Introduction to Python;\nusing pandas for data manipulation; cleaning and preparing data.\nFeature engineering with pandas and NumPy; techniques for creating\nand transforming features for analytical models. Introduction to data\nvisualization\nwith\nMatplotlib\nand\nSeaborn;\nexploring\ndata\ndistributions and relationships.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Statistical analysis and feature selection: Descriptive and inferential\nstatistics with SciPy; understanding data through statistical metrics.\nFeature selection techniques; using scikit-learn for automated feature\nselection methods like RFE (Recursive Feature Elimination).\nDimensionality reduction techniques; PCA and t-SNE with scikit-\nlearn for feature extraction and data visualization.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Machine learning models and handling imbalanced data:\nOverview of machine learning algorithms (classification, regression)\nwith scikit-learn. Handling imbalanced datasets; techniques like\nSMOTE, and balanced random forests with imbalanced-learn. Model\nevaluation and hyperparameter tuning using cross-validation and\nGridSearchCV in scikit-learn.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Advanced\nmachine\nlearning\ntechniques and\napplications:\nIntroduction to deep learning with TensorFlow and Keras; basics of\nneural networks. Building and training deep learning models for\nclassification and regression problems. Advanced topics in machine\nlearning: ensemble methods, boosting, and stacking models to\nimprove performance.",
+    "contact_hours": "9"
+  }
+]

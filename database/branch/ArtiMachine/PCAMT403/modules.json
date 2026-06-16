@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Neural Networks:-  Biological Neuron versus Artificial\nNeuron, The Perceptron Model, Notion of Bias and Activation Functions,\nDifferent Activation Functions (Sign Function, Sigmoid Function, Hyperbolic\nTangent Function,  ReLU Function, Leaky ReLU function, Softmax function).\nArchitecture of Neural Networks:- Feedforward and Feedback Neural\nNetworks, Single Layer Perceptron, Linear Separability, The Perceptron\nLearning Algorithm and its Convergence, The XOR Problem,  Designing\nsimple mathematical functions using Single Layer Perceptron.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Multilayer Neural Networks:- Multilayer Perceptron, Representational\nCapability, Universal Approximation Capability, Kolmogorov’s Theorem,\nSize versus depth, MLP Representational Capability.\nBack Propagation Algorithm:- Back Propagation Learning Law, The Back\nPropagation Learning Algorithm (Derivation of the Algorithm is required),\nIssues in Back Propagation Learning (Vanishing and Exploding Gradient\nProblems, Local Minima and Saddle Points, Overfitting, Slow  Convergence,\nSensitivity to the selection of the Initial weights, Computational Cost)",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Methods to Rectify the Issues in Backpropagation :-  Gradient Clipping,\nBatch Normalization, Regularization, Dropout, Use of Adaptive Learning\nRate Methods (Back Propagation Algorithm with Momentum, Adaptive\nGradient Descent Algorithm (ADAGRAD), Root Mean Square Propagation\n(RMSProp),  Adaptive Momentum Estimation (ADAM))\nWeight Initialization Techniques:-  Random Initialization methods, Non-\nrandom Initialization methods",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Unsupervised Learning Models:- Clustering, Similarity measures, Different\nTypes (Partitional Clustering, Hierarchical Clustering, Density Based\nClustering,  Model Based Clustering), K-means Clustering Algorithm,\nHierarchical Agglomerative Clustering Algorithm, Expectation maximization\n(EM) Algorithm, DBSCAN Algorithm.\nDimensionality reduction, Principal Component Analysis.",
+    "contact_hours": "10"
+  }
+]

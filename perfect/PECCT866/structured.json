@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Digital investigations and evidence",
+            "Digital crime scene investigation process",
+            "Data analysis",
+            "overview of toolkits. Computer foundations- Data organizations-booting process-Hard disk technology- Hard disk data acquisition-introduction- reading the source data-writing the output data"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Data Collection Introduction",
+            "Live Response- Locard’s Exchange Principle",
+            "Order of Volatility",
+            "When to Perform Live Response",
+            "What Data to Collect",
+            "System Time",
+            "Logged-on Users",
+            "Open Files",
+            "Network Information",
+            "Network Connections Process Information",
+            "Process-to-Port Mapping",
+            "Process Memory",
+            "Network Status",
+            "Nonvolatile Information",
+            "Live Response Methodologies"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Static Analysis",
+            "Dynamic Analysis. Registry Analysis: System Information",
+            "Auto Start Locations",
+            "USB Removable Storage Devices",
+            "Mounted Devices",
+            "Portable Devices. Finding Users",
+            "Tracking User Activity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Linux Overview",
+            "Modern Linux Systems",
+            "Forensic Analysis of Linux Systems",
+            "Linux File Types and Identification. Linux File Analysis",
+            "Crash and Core Dumps",
+            "Investigating Evidences From Linux Logs",
+            "Network Configuration Analysis",
+            "Network Security Artifacts"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

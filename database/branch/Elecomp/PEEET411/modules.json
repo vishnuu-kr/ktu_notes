@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Functional elements of electronic instrumentation system – Calibration\nmethods: Static, Dynamic, Field, Traceable, Master.\nTransducers- Classification-Criteria for selection- Static and dynamic\ncharacteristics- Zeroth and  first order instruments and time responses.\nResistive  transducers for liquid level and humidity\nInductive transducers- types and basic principles- LVDT- synchro\nCapacitive transducers- types and basic principles- Thickness measurement\nPiezoelectric transducers- Hall effect transducers-Basic principle  and\napplications\nElectronic IC for sensor applications, Micro Electromechanical system\n(MEMS)\nAdvantages and Applications, MEMS micro sensors and actuators, MEMS\naccelerometers Signal conditioning for instrumentation systems: Voltage to\nCurrent Converter,  Transducer bridges: null type and deflection bridges, AC\nbridges using push pull transducers",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Amplifiers: Instrumentation amplifiers- charge amplifiers- isolation amplifier\nRole of filters: Low pass, high pass, band pass and band rejection filters,\nIntroduction to digital filters\nData Transmission- Types of Telemetry System- Modulation methods: Pulse\nmodulation, Pulse amplitude modulation, Pulse code modulation\nGeneral telemetry systems- Cable transmission of analog and digital data- Fibre\noptic data transmission\nPrinciples of time division and frequency division multiplexing-\nRadio-wireless communication, WLAN architecture. Protocols: Field Bus,\nProfibus , HART",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Display methods and devices: Different types of display –display system\nbuilding blocks.\nData Presentation Element: Recorders-Strip Chart Recorder, Potentiometric\nRecorder, X-Y Recorder. Magnetic recorder, Digital recorders- Data logger\nExperiments and statistical analysis: Performance of experiment- characteristics\nof experimental data- description of dispensed data- type of probability\ndistribution-probability error",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to Process Control - Block diagram of the process control loop.\nAnalog and Digital DAS:\nProgrammable logic controllers (PLC), Organization- Hardware details- I/O-\nPower supply- CPU- Standards Programming aspects- Ladder programming-\nrealization of AND, OR, NAND, NOR and XOR logic, the concept of latching,\nIntroduction to Timer/Counters, Numerical Exercises based on Timers and\nCounters.\nSCADA and DCS systems:\nSCADA: Introduction, SCADA Architecture, Common System Components,\nSupervision and Control, HMI, RTU and Supervisory Stations, Protocols-IEC\n60870-5-101 and DNP3.\nDistributed Control System: Introduction, DCS Architecture, Control modes.",
+    "contact_hours": "10"
+  }
+]

@@ -1,0 +1,287 @@
+Course Code 
+PCITT402 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To familiarise with the fundamental concepts of Computer Networks, Network hardware and 
+Software. 
+2. To familiarize with the terminologies and concepts and protocols associated with the different 
+layers of the Computer Software with the help of Reference Models. 
+3. To raise awareness of students with the fundamentals of Internet and internet services. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction: Uses of computer networks, Network hardware, Network 
+software,   Reference Models –The OSI Reference Model, TCP/IP Reference 
+Model, Comparison of the OSI and TCP/IP Reference Models. 
+Physical Layer: Guided Transmission Media (twisted pair, coaxial cable, 
+Fiber Cables), Wireless Transmission (Radio Transmission, Microwave 
+Transmission, Infrared Transmission), Communication satellites (GEO, 
+LEO, MEO). 
+Interfacing devices: Repeaters, Hubs, Bridges, Switches, Routers, And 
+Gateways 
+8 
+2 
+Data link layer: Data link layer design issues, Error detection and correction 
+- Error Correcting codes (Hamming codes, Reed-Solomon codes, Low-
+Density Parity Check codes), Error-Detecting Codes (Parity, Checksums, 
+Cyclic Redundancy Checks), A Simplex Stop-and-Wait Protocol for a Noisy 
+Channel, Sliding window protocols. 
+Medium Access Control (MAC) sublayer: Channel allocation problem, 
+12 
+
+ 
+ 
+Multiple access protocols (ALOHA, Slotted ALOHA, Carrier Sense Multiple 
+Access Protocols, Collision-Free Protocols -bit map protocol, token passing, 
+binary countdown, Wireless LAN Protocols).  
+Ethernet: Frame format, types- Fast Ethernet, Gigabit Ethernet, 10-Gigabit 
+Ethernet. 
+3 
+Network Layer: Network layer design issues. Routing algorithms - The 
+Optimality Principle, Shortest path routing, Flooding, Distance Vector 
+Routing, Link State Routing, Multicast routing, Routing for mobile hosts. 
+Congestion control algorithms: Approaches to Congestion Control- Choke 
+Packets, Random Early Detection. Quality-of-service - Application 
+Requirements, Traffic Shaping - Leaky and Token Buckets. 
+The Network Layer in the internet: Internet Protocol, IP Version 4 
+Protocol, IP Addresses, IP Version 6. 
+12 
+4 
+Transport Layer: Transport service – Services provided to the upper layers, 
+Transport service primitives. Socket programming, User Datagram Protocol 
+(UDP)- User Datagram, Checksum. Real-Time Transport Protocols (RTP, 
+RTCP), Transmission Control Protocol (TCP)- TCP Service Model, TCP 
+Protocol, TCP Segment Header, TCP Connection Establishment, TCP 
+Connection Release, TCP Sliding Window, TCP Congestion Control. 
+Application Layer: Domain Name System (DNS)- Electronic mail. World 
+Wide Web - Architectural Overview, HTTP—The Hypertext Transfer 
+Protocol. 
+12 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+End Semester Examination Marks (ESE): 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 
+Questions 
+from 
+each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Distinguish the terminology and concepts of computer networks and 
+Physical Layer 
+K2 
+CO2 
+Illustrate different concepts of Data Link Layer including Error 
+Control, Channel allocation and popular wired and wireless LAN 
+technologies 
+K2 
+CO3 
+Describe the network layer concepts, routing algorithms, congestion 
+control approaches and IP protocol and addressing fundamentals. 
+K2 
+CO4 
+Describe the features and format of different   Transport layer and 
+Application layers protocols  
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO2 
+3 
+2 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO3 
+3 
+2 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO4 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+ Computer Networks  
+Andrew S. Tanenbaum 
+Pearson 
+6th Edition 
+2021 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Data Communication and 
+Networking
+Behrouz A Forouzan 
+Tata McGraw Hill 
+4th Edition 
+2007
+2 
+Computer Networking - A Top-
+Down Approach featuring the 
+Internet
+James F Kurose 
+Pearson Education 
+7th edition 
+2016 
+3 
+Computer Networks: A 
+Systems Approach 
+Larry Peterson and Bruce 
+Davie 
+The Morgan 
+Kaufmann Series in 
+Networking 
+5th Edition 
+2011 
+ 
+Video Links (NPTEL, SWAYAM…) 
+ No. 
+Link ID 
+1 
+Computer Networks and Internet Protocol By Prof. Soumya Kanti Ghosh, Prof. Sandip Chakraborty 
+https://onlinecourses.nptel.ac.in/noc22_cs19/preview 
+ 
+ 
+
+ 
+ 
+SEMESTER S4 
+OPERATING SYSTEMS

@@ -1,0 +1,59 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Signals and Signal Processing-Characterization and Classification of Signals",
+      "Typical signal Processing Operations",
+      "Examples of Biomedical Signals and Analog-to-Digital Conversion (block diagram only) Discrete-Time Signals -Typical Sequences and Sequence. Representation",
+      "Discrete-Time Systems-Classification of Discrete-Time Systems"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Discrete-Time Fourier Transform (DTFT)-Definition",
+      "Properties",
+      "Discrete Fourier Transform-Definition",
+      "Properties",
+      "FFT-Decimation-in-Time",
+      "Decimation-in-Frequency. The z- Transform-Properties of the z-Transform",
+      "Poles and Zeros",
+      "Inversion of the z-Transform- Using partial fraction expansion",
+      "Analysis of Linear Time-Invariant Systems in the z-Domain- Transfer function",
+      "Frequency response"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "LTI systems as frequency selective filters-Ideal filter characteristics-Simple Digital Filter Design-Preliminary Considerations",
+      "Design of linear-phase FIR Filter using windows (Bartlett",
+      "hamming",
+      "Hanning",
+      "Kaiser) and frequency sampling method-Applications of FIR filters in Biomedical systems - pre-processing of bio signals. IIR Filter Design-Approximation of Derivatives",
+      "Impulse invariance",
+      "IIR digital filters for ECG analysis"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Periodogram-Averaged periodogram",
+      "Blackman-Tukey Spectral estimation",
+      "QRS detection in ECG",
+      "Analysis of Heart Rate Variability using periodogram Adaptive Filters-Principle of Wiener Filters",
+      "Principle of adaptive filtering",
+      "Principle of adaptive noise cancellation",
+      "Cancellation of 50-Hz interference in ECG Suggestion on Project Topics  The objective of Project based learning is to strengthen the understanding of student’s fundamentals through effective application of theoretical concepts. Projects can help to boost student’s skills and widen the horizon of their thinking.  The ultimate aim of an engineering student is to resolve a problem by applying theoretical knowledge.  In the first class",
+      "students shall be given an awareness and/or guideline on how to implement and learn this course through a project and form groups.  Each group should identify a project relevant to the subject of study.  Develop the block diagram and present before the jury within first month after the commencement of classes.  Implement necessary hardware and software to develop the prototype.  Prepare a report and present before the jury for final evaluation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

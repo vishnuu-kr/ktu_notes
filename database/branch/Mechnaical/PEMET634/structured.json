@@ -1,0 +1,49 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction FEM",
+      "Mathematical Modelling of field problems in Engineering",
+      "Governing Equations - Discrete and continuous models",
+      "discretization-convergence behavior. General procedure of Finite Element analysis",
+      "Types of elements",
+      "Formulation of stiffness matrix- one dimensional spring",
+      "bar element assembly and solution procedure"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Types of coordinate system in FEM",
+      "coordinate transformation Plane truss stiffness formulation and its assembly. Shape functions",
+      "Derivation of shape functions using polynomial of One-Dimensional bar",
+      "2-Dimensional CST and 1- Dimensional beam element. Convergence requirement of shape functions",
+      "Pascal triangle. Shape functions using Langrange polynomial"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Derivation of strain -displacement relation- B matrix- bar",
+      "CST and beam element. Potential energy and equilibrium",
+      "principle of minimum potential energy",
+      "Variational formulation in FEM.Element stiffness-bar",
+      "beam and CST element",
+      "consistent loads"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Gaussian quadrature"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

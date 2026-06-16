@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction: Functions of OS, Types of OS - Batch, Multi programmed,\nTime-sharing and Real time systems, System calls,  System structure -\nSimple structure, Layered approach, Microkernel system structure,\nMonolithic, Modules, Hybrid Systems,  System Boot.\nProcess Management: Process concept, Process State, PCB-Multithreading\n- Benefits. Case study: Linux system - process management.\nProcess Scheduling: Basic concepts, Non Pre-emptive Scheduling, Pre-\nemptive Scheduling, Dispatcher, Scheduling criteria, Scheduling Algorithms\n- FCFS, SJF, Priority scheduling, Round Robin Scheduling.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Process Synchronization: Race Conditions - Critical Sections – Peterson’s\nSolution-Mutual Exclusion - Busy Waiting- Sleep and Wakeup – Bakery\nAlgorithm-Semaphores.\nDeadlocks: Deadlock characteristics - conditions for deadlock - Prevention –\nAvoidance -Safe state, Resource Allocation Graph, Banker’s algorithm,\nDeadlock Detection, Recovery from dead lock.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Memory Management: Basics, Swapping, Memory Allocation - fixed\npartitions, variable partitions, Fragmentation, Paging, Segmentation, Virtual\nmemory concepts, Demand paging, Page replacement algorithms - FIFO,\nOptimal, LRU, Allocation of frames, Thrashing.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "File System: File concept - Attributes, Operations, File Types - File\nstructure - File access methods (Sequential Access, Direct Access, Indexed\nAccess)– File allocation methods (Contiguous, linked, and indexed\nallocation), Directory structure (Single-Level, Two-Level, Tree-Structured,\nAcyclic Graph, General Graph), Case Study: Linux file systems\nDisk Management: Introduction, Disk Scheduling algorithms (FCFS, SSTF,\nSCAN, C-SCAN, LOOK, C-LOOK)\nVirtual Machines: Benefits & Features- Building Blocks- Types of VMs-\nVirtualization & Operating System Components.",
+    "contact_hours": "11"
+  }
+]

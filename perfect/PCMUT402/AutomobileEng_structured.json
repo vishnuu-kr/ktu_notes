@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to analysis of deformable bodies. Types of external loads - Normal",
+            "Shear",
+            "Bending and Bearing stress- Linear and Shear strains. Hooke’s law - Stress-Strain diagrams - concepts of Isotropy",
+            "Orthotropy",
+            "Anisotropy. Young’s Modulus",
+            "Bulk Modulus and Rigidity Modulus. Poisson’s ratio -Relationship between elastic constants. Deformation in axially loaded bars - uniform cross section",
+            "varying cross section",
+            "dissimilar materials",
+            "principle of superposition. Thermal effects - simple",
+            "composite bars"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Shafts",
+            "torsion theory of elastic circular bars",
+            "assumptions and limitations",
+            "polar modulus",
+            "torsional rigidity",
+            "shaft design for torsional load. Beams- Classification",
+            "Diagrammatic conventions for supports and loading",
+            "Differential equations between load, Shear Force and Bending Moment-Shear Force and Bending Moment Diagrams of Cantilever and Simply supported beam with Point load/UDL. Point of Inflection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Pure Bending",
+            "Flexure formula for beams -assumptions and limitations",
+            "Section Modulus",
+            "Flexural Rigidity Shearing Stress formula for beams",
+            "Shear stress distribution in beam section",
+            "derivation and problems for rectangular section only",
+            "assumptions and limitations Deflection of Beams: Moment-Curvature relation",
+            "assumptions and limitations",
+            "Double Integration method",
+            "Macaulay’s method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Stress on an inclined plane due to Uniaxial stress",
+            "Stress on an inclined plane due to Biaxial stress",
+            "Stress on an inclined plane due to two Normal Stresses accompanied by Shear stresses",
+            "principal planes and stresses. Mohr’s circle of stress. Buckling and stability of long columns",
+            "Euler’s buckling/crippling load for columns with different end conditions",
+            "Euler equation derivation for both ends hinged only",
+            "Rankine’s formula"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

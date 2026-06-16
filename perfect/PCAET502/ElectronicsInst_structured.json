@@ -1,0 +1,69 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Incentives for process control",
+            "Process Variables types and selection criteria",
+            "Process degree of freedom",
+            "The period of Oscillation and Damping",
+            "Characteristics of physical System: Resistance",
+            "Capacitive and Combination of both. Elements of Process Dynamics",
+            "Types of processes- Dead time",
+            "Single /multi capacity",
+            "self-Regulating /non-self-regulating",
+            "Interacting /non interacting",
+            "Linear/non-linear",
+            "and Selection of control action for them. Study of Liquid",
+            "Flow and Thermal Processes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Pneumatic and electric actuators",
+            "control valves - characteristics of control valves",
+            "valve positioner - I/P and P/I converters- Electronic Controllers. Analysis of Control Loop: Steady state gain",
+            "Process gain",
+            "Valve gain",
+            "Process time constant",
+            "Variable time Constant",
+            "Transmitter gain",
+            "linearizing an equal percentage valve",
+            "Variable pressure drop. Analysis of Liquid level Control",
+            "Temperature control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Block Diagram",
+            "Control Performance Measures for standard Input Changes. Different Controllers (P",
+            "PD and PID) and tuning parameters. Tuning of feedback controllers: Open loop and closed loop tuning techniques. Quarter Decay ratio response",
+            "minimal error integral criteria. Advanced Control Techniques: Cascade control",
+            "Feed forward control",
+            "feedback-feed forward control",
+            "Ratio control",
+            "Selective Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Internal Model control",
+            "Model Predictive controller",
+            "Adaptive and Self-Tuning Controller. Computer Control of Process Plants: Centralised Control System",
+            "Distributed Control Systems- Fieldbus System-Fieldbus Types",
+            "Hierarchical Control Systems",
+            "Supervisory Control and Data Acquisition (SCADA) system- Basic concept Industry 4.0 and Smart Manufacturing: Integration of cyber-physical systems (CPS",
+            "and AI to optimize manufacturing processes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

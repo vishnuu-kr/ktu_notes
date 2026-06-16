@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Motivation and Applications of numerical methods, Significant digits,\nAccuracy and precision; Truncation and round-off errors.\nRoots of nonlinear equations-Bisection method, Newton Raphson method\nSolution of system of linear equations-Gauss elimination, Gauss Jordan,\nGauss Siedel, LU decomposition\nCurve fitting:Least square regression-Linear regression, linearization of\nnonlinear relationships, Polynomial and multiple linear regression",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Curve fitting: Interpolation-Newton’s forward, backward, divided difference,\nLagrange’s interpolation, cubic spline\nNumerical differentiation-Difference formula, Newton’s forward, backward\nand divided difference method, Sterling’s formula\nNumerical integration-Trapezoidal, Simpson’s one-third rule, Simpson’s\nthree-eight rule, Gauss Quadrature",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Numerical solution of ordinary differential equations-Initial value and\nboundary value problems\nTaylor’s method, Euler method, Modified Euler method, Runge Kutta fourth\norder method for first order, second order and simultaneous first order\ndifferential equations, Predictor corrector method, Shooting method, finite\ndifference method",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Numerical solution of partial differential equation-Types, Difference\nequations\nElliptic equation-Laplace equation, Poisson’s equation, Liebmann’s iterative\nmethod, Parabolic equation-explicit and implicit method, convergence and\nstability, Crank Nicolson method, Hyperbolic equation",
+    "contact_hours": "9"
+  }
+]

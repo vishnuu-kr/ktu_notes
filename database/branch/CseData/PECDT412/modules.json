@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of Computer Security: Definition and importance, Historical\ncontext. Fundamental Concepts: CIA triad: Confidentiality, Integrity,\nAvailability, Authentication, Authorization, and Accountability. Common\nThreats and Vulnerabilities: Malware: Viruses, Worms, Trojans, Phishing,\nSocial Engineering, Denial of Service (DoS) attacks.  Security Policies and\nRisk Management: Developing and implementing security policies, Risk\nassessment and mitigation.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Introduction to Cryptography: Basic concepts and terminology, Historical\nbackground. Symmetric Encryption: Algorithms: DES, AES, Key\nmanagement. Asymmetric Encryption: Algorithms: RSA, ECC, Public and\nprivate keys. Cryptographic Protocols: Digital signatures, Hash functions,\nPublic Key Infrastructure (PKI). Applications of Cryptography: Secure\ncommunications (SSL/TLS), Email security (PGP, S/MIME).",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to Network Security: Network security principles, Common\nnetwork threats. Network Security Protocols: IPsec, SSL/TLS, SSH, VPNs.\nFirewalls and Intrusion Detection Systems (IDS): Types of firewalls, IDS and\nIPS systems. Wireless Network Security: Wireless encryption protocols\n(WEP, WPA, WPA2), Securing wireless access points. Network Security\nPractices: Network segmentation, Monitoring and logging.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to Software Security:- Importance of secure software,\nSoftware development lifecycle (SDLC); Common Software Vulnerabilities -\nBuffer overflows, SQL injection, Cross-site scripting (XSS), Cross-site\nrequest forgery (CSRF). Secure Coding Practices: Input validation and\nsanitization, Secure error handling, Code reviews and static analysis.\nSoftware Security Testing: Penetration testing, Fuzz testing, Dynamic\nanalysis. Security in Software Development: Secure software development\nframeworks, Integrating security into DevOps (DevSecOps)",
+    "contact_hours": "10"
+  }
+]

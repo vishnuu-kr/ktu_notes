@@ -1,0 +1,83 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to AI and Machine Learning Introduction",
+            "Foundations of AI",
+            "History",
+            "Applications",
+            "Intelligent Agents",
+            "Agents and Environments",
+            "Properties",
+            "Solving Problems by Searching",
+            "Search Algorithms",
+            "Adversarial Search",
+            "Introduction",
+            "Machine Learning Paradigms- Supervised",
+            "Unsupervised",
+            "Semi-supervised",
+            "Reinforcement Learning"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Supervised Learning Basics of parameter estimation - maximum likelihood estimation (MLE) and maximum a posteriori estimation (MAP). Introduction to Bayesian formulation. Regression - Linear Regression with One Variable",
+            "Linear Regression with Multiple Variables",
+            "Solution using Gradient Descent Algorithm and Matrix Method",
+            "Basic Idea of Overfitting in Regression. Linear Methods for Classification- Logistic regression",
+            "Naive Bayes",
+            "Decision tree algorithm ID3. Classification Performance measures -Precision",
+            "Recall",
+            "Accuracy",
+            "F-Measure",
+            "Receiver Operating Characteristic Curve (ROC",
+            "Area Under Curve (AUC. Bootstrapping",
+            "Cross Validation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Unsupervised Learning and Dimensionality Reduction Ensemble Methods- Voting",
+            "Bagging",
+            "Boosting",
+            "Similarity measures-Minkowski distance measures (Manhattan",
+            "Euclidean",
+            "Cosine Similarity",
+            "K-means clustering",
+            "Clustering - Hierarchical Clustering",
+            "Density based Clustering",
+            "Expectation maximization (EM) for soft clustering",
+            "Dimensionality reduction - Subset selection",
+            "Principal Component Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Neural Networks and SVM Perceptron",
+            "Neural Network - Multilayer feed forward network",
+            "Activation functions (Sigmoid",
+            "ReLU",
+            "Tanh",
+            "Backpropagation algorithm. SVM -Introduction",
+            "Maximum Margin Classification",
+            "Mathematics behind Maximum Margin Classification",
+            "Maximum Margin linear separators",
+            "soft margin SVM classifier",
+            "non-linear SVM",
+            "Kernels for learning non-linear functions",
+            "polynomial kernel",
+            "Radial Basis Function (RBF"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

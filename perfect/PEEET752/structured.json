@@ -1,0 +1,40 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic characteristics of nonlinear systems. Examples. State-space representation of nonlinear systems. Classification of nonlinearities. Phase plane analysis: Concept of phase plane, singular points. Definition of stability - asymptotic stability, instability",
+            "Construction using isocline method. Classification of equilibrium points",
+            "Systems with multiple equilibria. Periodic orbits - limit cycles"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Lyapunov's direct method - Definite functions - Stability theorems",
+            "Variable gradient method - La-Salle theorems. Stability of linear systems - Lyapunov equation for time-invariant systems - Lyapunov’s linearization (indirect) method - Region of attraction (concept only"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Describing function method: Analysis through harmonic linearization-Determination of describing function of nonlinearities. Application of describing function for stability analysis of autonomous system with single nonlinearity (relay, dead zone and saturation only). Feedback Stabilisation, Kalman-Yakubovitch-Popov lemma (Concept only",
+            "Stability Analysis of feedback systems, Circle Criterion"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Lie Derivatives and Lie Brackets",
+            "Feedback linearization, Input state linearization and input - output linearization of SISO systems. Design via linearization - regulation via integral control",
+            "gain scheduling, tracking. Concepts of other nonlinear controllers - sliding mode, backstepping"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,317 @@
+Course Code 
+PCADT502 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To Understand the concepts of manipulator and mobile robotics 
+2. To enable the learner to choose the suitable sensors, actuators and control for robot design 
+3. To equip the learners to  develop   kinematic   model   of   mobile   robot   and   understand   robotic   
+vision intelligence. 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Introduction to robotics - Degrees of freedom, Robot types- Manipulators- 
+Anatomy of a robotic manipulator-links, joints, actuators, sensors, 
+controllers. Robot configurations-PPP, RPP, RRP, RRR. Mobile robots- 
+wheeled, legged, aerial robots, underwater robots, surface water robots. 
+Dynamic characteristics- speed of motion, load carrying capacity & speed of 
+response. Introduction to End effectors - mechanical grippers, special tools, 
+Magnetic grippers, Vacuum grippers, adhesive grippers, Active and Passive 
+grippers. Ethics in robotics - 3 laws - applications of robots. 
+ 
+11 
+2 
+Sensors, Actuators and Control) Sensor classification- touch, force, 
+proximity, vision sensors. Internal sensors-Position sensors, velocity 
+sensors, acceleration sensors, Force sensors; External sensors-contact type, 
+non-contact type; Digital Camera - CCD camera - CMOS camera - 
+Omnidirectional cameras Sensor characteristics. Actuators - DC Motors - 
+H-Bridge - Pulse Width Modulation - Stepper Motors - Servos, Hydraulic 
+& pneumatic actuators. 
+ 
+11 
+3 
+Robotic Vision: Sensing, Pre-processing, Segmentation, Description, 
+11 
+
+ 
+ 
+Recognition, Interpretation, Feature extraction -Camera sensor hardware 
+interfacing. Representation of Transformations - Representation of a Pure 
+Translation - - Pure Rotation about an Axis - Combined Transformations - 
+Transformations Relative to the Rotating Frame. Basic understanding of 
+Differential-Drive Wheeled Mobile Robot, Degree of mobility - different 
+wheel configurations, holonomic and nonholonomic robots. Omnidirectional 
+Wheeled Mobile Robots. 
+4 
+Position and Orientation - Representing robot position. Basics of reactive 
+navigation; Robot Localization, Challenges in localization - Continuous 
+representations - Decomposition strategies - Current challenges in map 
+representation. Probabilistic map-based localization (only Kalman method), 
+Autonomous map building, Simultaneous localization and mapping (SLAM) 
+- Mathematical definition and various types of SLAM -, Path Planning- 
+Graph search, deterministic graph search -, breadth first search - depth first 
+search- Dijkstra' s algorithm, A*, D* algorithms, Potential field based path 
+planning. Obstacle avoidance - Bug algorithm - Vector Field Histogram - 
+Dynamic window approaches. Navigation Architectures - Modularity for 
+code reuse and sharing - Control localization. 
+ 
+11 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the concepts of manipulator and mobile robotics. 
+K2 
+CO2 
+Choose the suitable sensors,  actuators  and  control  for  robot  design.    
+K3 
+CO3 
+Developing   kinematic   models   of   mobile   robots   and   
+understanding   robotic   vision intelligence.
+K3 
+CO4 
+Discover the  localization  and  mapping  methods  in  robotics. 
+K3 
+CO5 
+Plan  the  path  and  navigation  of the robot  by  applying an artificial  
+intelligence  algorithm.
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Autonomous Mobile 
+Robots 
+R Siegwart,  IR 
+Nourbakhsh,  D 
+Scaramuzza 
+MIT Press 
+2/e, 2011 
+2 
+Embedded   Robotics, Mobile Robot   
+Design and   Applications   with 
+Embedded Systems 
+Thomas   Bräunl 
+Springer 
+3/e, 2006 
+3 
+Introduction to Mobile Robot Control 
+S.G. Tzafestas 
+Elsevier 
+1/e, 2014 
+4 
+Artificial Intelligence for Robotics 
+Francis X. Govers 
+Packt  
+1/e, 2018 
+5 
+Introduction to Robotics - Analysis, 
+Control, Applications 
+Saeed B. Niku 
+Wiley 
+2/e, 2011 
+6 
+Industrial Robotics - Technology 
+,Programming and Applications 
+Mikell P Groover 
+McGraw Hill  
+2/e, 2017 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+2 
+- 
+- 
+- 
+2 
+2 
+- 
+- 
+- 
+- 
+- 
+2 
+CO2 
+2 
+2 
+- 
+- 
+3 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO3 
+3 
+3 
+- 
+3 
+2 
+3 
+- 
+- 
+- 
+- 
+- 
+3 
+CO4 
+2 
+- 
+- 
+3 
+3 
+3 
+- 
+- 
+- 
+- 
+- 
+3 
+CO5 
+3 
+- 
+- 
+3 
+3 
+2 
+- 
+- 
+- 
+- 
+- 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Introduction to Robotics 
+John J. Craig 
+Pearson Education  
+3/e, 2005 
+2 
+Introduction to Robotics 
+S. K. Saha 
+TATA McGraw Hills  
+2/e, 2014 
+3 
+Robotics,  Vision  and  Control 
+-  Fundamental  Algorithms  in 
+MATLAB 
+Peter  Corke 
+Springer-Verlag  
+1/e, 2021 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No.
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/107/106/107106090/ 
+2 
+https://archive.nptel.ac.in/courses/108/108/108108147/ 
+3 
+https://www.youtube.com/watch?v=nAwVfwSHAP0 
+4 
+https://www.youtube.com/watch?v=bBPeV5Bee7k 
+ 
+ 
+
+ 
+ 
+SEMESTER S5 
+MACHINE LEARNING 
+(Common to CS/AD/CR/CA/CC/CD)

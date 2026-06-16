@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to the Graph Data Model:\nGraphs as the future of data, The relevance of data relationships, High-level\nview of Graph Space, The Power of Graph Databases, Options for Storing\nConnected Data: Relational Databases Limitations, NoSQL Databases,\nGraph Databases, Defining Graph Analytics and Graph Data Science.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Data Modelling with Graph:\nModels and Goals, The Property Graph Model,\nQuerying Graphs: An Introduction to Cypher, Other Cypher Clauses,\nComparison of Relational and Graph Modelling, Cross Domain Models,\nCommon Modelling Pitfalls.\nBuilding a Graph Database Application: Data Modelling, Application\nArchitecture, Redundancy",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Graph Algorithms:\nGraph Algorithms in Neo4j, Graph Algorithm Concepts, The Neo4j Graph\nAlgorithms Library, Pathfinding and Graph Search Algorithms, Centrality\nAlgorithms, Community Detection Algorithms, Graph Algorithms in\nPractice",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Predictive Analysis with Graph Theory in Real World:\nReal-World Examples, Looking at Graphs in the Health Industry. Graph\nDatabase Internals: Native Graph Processing, Native Graph Storage,\nProgrammatic APIs, Non-functional Characteristics\nDepth and Breadth-First Search, Path-Finding with Dijkstra’s Algorithm,\nThe A* Algorithm, Graph Theory and Predictive Modelling",
+    "contact_hours": "10"
+  }
+]

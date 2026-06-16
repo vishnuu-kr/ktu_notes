@@ -1,0 +1,66 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Finite Automata: Need for Mathematical Modelling",
+            "Symbols",
+            "Alphabets",
+            "Strings",
+            "Languages",
+            "Formal Definition of a Finite Automaton",
+            "Deterministic Finite Automata (DFA)",
+            "Regular Languages",
+            "Formal Definition of a Nondeterministic Finite Automaton",
+            "Equivalence of NFAs and DFAs - Subset Construction, Minimization of DFA, NFA with Epsilon Transitions",
+            "Eliminating Epsilon Transitions",
+            "Moore and Mealy Machines"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Formal Definition of a Regular Expression",
+            "Building Regular Expressions",
+            "Equivalence with Finite Automata - Converting FA to Regular Expressions",
+            "Converting Regular Expressions to FA",
+            "Regular Languages, Properties of Regular Languages: Closure and Decision Properties",
+            "Pumping Lemma for Regular Languages",
+            "Myhill-Nerode Theorem (MNT) without Proof",
+            "Applications of MNT, Context-Free Grammars and Applications: Formal Definition of a Context-Free Grammar",
+            "Designing Context-Free Grammars",
+            "Parse Trees",
+            "Ambiguous Grammars",
+            "CYK Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Formal Definition of a Pushdown Automaton (PDA)",
+            "Design of Deterministic PDA and Nondeterministic PDA, Simplification of Context-Free Languages: Chomsky Normal Form",
+            "Greibach Normal Form, Properties of Context-Free Languages: The Pumping Lemma for Context-Free Languages",
+            "Closure and Decision Properties of Context-Free Languages, Linear Bounded Automata"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Definition of a Turing Machine (TM)",
+            "Design of Turing Machines - TM as Language Acceptors",
+            "TM as Computers of Functions",
+            "Variants of Turing Machines",
+            "Recursive and Recursively Enumerable Languages, Chomsky Hierarchy, Computability: Universal Machine",
+            "Church-Turing Thesis",
+            "Decidable and Undecidable Problems",
+            "Halting Problem of TM"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

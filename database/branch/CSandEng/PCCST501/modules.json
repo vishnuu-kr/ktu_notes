@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Overview of the Internet, Protocol layering (Book 1 Ch 1)\nApplication Layer: Application-Layer Paradigms, Client-server applications -\nWorld Wide Web and HTTP, FTP. Electronic Mail, DNS. Peer-to-peer\nparadigm - P2P Networks, Case study: BitTorrent (Book 1 Ch 2)",
+    "contact_hours": "6"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Transport Layer: Services, Protocols, UDP, TCP (Book 1 Ch 3).\nHands-on:\nSockets\nIntroduction,\nElementary\nTCP\nSockets,\nTCP\nClient/Server Example, I/O Multiplexing: The select and poll Functions\n(Book 2 Ch 3 to 6), Elementary UDP Sockets (Book 2 Ch 8), Advanced I/O\nFunctions (Book 2 Ch 14)\nNetwork Layer: Introduction, Network-layer protocols, Unicast routing,\nMulticast routing - Multicasting Basics, Intra domain and inter-domain\nrouting, Next generation IP (Book 1 Ch 4), Quality of Service (Book 1 Ch 8)\nHands-on: Linux Kernel Implementation of Routing Table and Caches,\nRouting Cache Implementation Overview, Adding new entry in the Routing\nTable using ip command (Book 3 Ch 14)",
+    "contact_hours": "18"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Data-Link Layer: Data link control (DLC), Multiple access protocols (MAC),\nLink-layer addressing, Ethernet protocol, Connecting devices (Book 1 Ch 5)\nWireless LANs, Mobile IP (Book 1 Ch 6)\nHands-on: Datalink Provider Interface, SOCK_PACKET and PF_PACKET\n(Book 2 Ch 29)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "SNMP, ASN.1 (Book 1 Ch 9)\nPhysical Layer: Data and signals, Digital transmission, Analog transmission,\nBandwidth utilization, Transmission media (Book 1 Ch 7)",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Foundations of Data Science Algorithms\nIntroduction to Data Science and Algorithms - Overview of data science and\nits significance, Role of algorithms in data science; Data Preprocessing\nTechniques - Data cleaning, transformation, and normalization, Handling\nmissing data, outliers, and data imputation techniques; Dimensionality\nreduction techniques - Principal Component Analysis (PCA), t-Distributed\nStochastic Neighbor Embedding (t-SNE); Algorithmic Approaches to Data\nSampling - Random sampling, stratified sampling, and bootstrapping,\nImportance of representative sampling in data analysis.\nProject 1: Data Cleaning and Preprocessing - Develop a pipeline for cleaning\nand preprocessing a large, messy dataset like UCI Machine Learning\nRepository - Adult Data Set\nTasks: Handle missing values, outliers, and noisy data. Apply dimensionality\nreduction techniques to simplify the dataset. Implement data transformation\nand normalization processes.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Algorithms for Data Summarization and Visualization :-\nData Summarization Techniques - Central tendency measures: mean, median,\nmode; Dispersion measures - variance, standard deviation, Interquartile range\n(IQR), Quantiles, percentiles, and outlier detection; Visualization Algorithms\n- Basics of data visualization, histograms, bar charts, scatter plots; Advanced\nvisualization techniques - heatmaps, correlation matrices, and pair plots;\nVisualization tools and libraries - Matplotlib, Seaborn, Plotly; Algorithmic\nApproaches to Data Grouping - Clustering: k-means, hierarchical clustering,\nDBSCAN; Association rule learning - Apriori, FP-Growth.\nProject 2: Exploratory Data Analysis and Visualization Perform exploratory\ndata analysis (EDA) and create visualizations to uncover patterns and insights\nin the dataset like Kaggle - Titanic Dataset\nTasks: Summarize the dataset using statistical measures. Create various\nvisualizations to explore relationships and patterns in the data. Implement\nclustering algorithms to identify natural groupings within the data.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Algorithms for Data Modeling :-\nRegression Algorithms - Linear regression and polynomial regression;\nRegularization techniques - Ridge, Lasso, Elastic Net; Evaluation metrics -\nRMSE, MAE, R²; Classification Algorithms - Logistic regression, decision\ntrees, and k-Nearest Neighbors (k-NN); Performance metrics - accuracy,\nprecision, recall, F1-score, ROC-AUC; Algorithmic Optimization Techniques\n- Gradient descent and its variants: stochastic, mini-batch;\nHyperparameter tuning - grid search, random search, Bayesian optimization.\nProject 3: Predictive Modeling and Evaluation - Build and evaluate predictive\nmodels using regression and classification algorithms using datasets like\nKaggle - House Prices: Advanced Regression Techniques\nTasks: Implement linear and polynomial regression models to predict house\nprices. Apply classification algorithms to classify houses into different\ncategories. Evaluate the models using appropriate performance metrics and\nfine-tune them for better accuracy.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Algorithms for Big Data and Scalability :-\nIntroduction to Big Data Algorithms - Overview of big data challenges and\nprocessing techniques; Distributed computing frameworks - Hadoop, Spark;\nMapReduce paradigm - concepts and applications;  Scalable Data Processing\nAlgorithms - Algorithms for large-scale data processing : sorting, searching,\nfiltering; Data partitioning and shuffling techniques in distributed systems;\nHandling data with memory constraints - external memory algorithms.\nProject 4: Scalable Data Processing with Spark - Implement scalable\nalgorithms using Apache Spark to process large datasets efficiently using\ndatasets like Kaggle - Google Analytics Customer Revenue Prediction\nTasks: Set up a Spark environment for large-scale data processing. Implement\nscalable algorithms for sorting, searching, and filtering the dataset. Analyze\nthe performance of your algorithms on different dataset sizes and optimize for\nscalability.",
+    "contact_hours": "11"
+  }
+]

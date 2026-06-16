@@ -1,0 +1,302 @@
+Course Code 
+OECPT721 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3: 0: 0: 0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+- 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To be able to develop simple programs for 8051 using assembly language programming 
+2. To interface 8051 microcontroller with peripheral devices.    
+3. To understand the architecture and design concept of embedded systems 
+4. To be able to design embedded systems based on Arduino. 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+8051 
+microcontroller: 
+Difference 
+between 
+microprocessor 
+and 
+microcontroller Architecture, 8051 pin diagram; Architecture, I/O Port 
+structure, Register organization - special function registers, Memory 
+organization, Instruction set, Addressing modes 
+Simple Assembly language programs: Arithmetic (Addition, Subtraction, 
+Multiplication & Division),Transfer a block of data from one internal 
+memory location to another. 
+9 
+2 
+8051 microcontroller Programming and Peripherals. 
+Timers/Counters- Serial Communication, Interrupt structure-programming. 
+Interfacing of peripherals – LED (ALP and embedded C programming). 
+OLED, LCD, ADC, DAC, sensors, simple Switch and keyboard interfacing, 
+7 segment LED (embedded C programming). 
+9 
+3 
+Embedded Systems Overview 
+Introduction to Embedded Systems: Definition, Features, Simple Example 
+of Embedded Systems,Applications of embedded systems-Consumer 
+9 
+
+ 
+ 
+electronics, Robotics, Automobiles 
+Embedded System Architecture: HW - Processor, Controller, SoC, 
+Memory, Peripherals; SW - Application, Middleware, OS, Device Drivers, 
+Tool chain- Assembler, Interpreter, Compiler, Linker, Loader, Debugger 
+Embedded system design process: Requirement Analysis, Specification 
+Development, HW & SW 
+Co-Design and Development, Module Integration, Testing. 
+4 
+Embedded System Board Study (Arduino Uno) 
+Arduino Uno Board: Board Study (Board level Block schematic) - Chip 
+(Features only – Architecture not needed), GPIO, Memory, Programming 
+Interface 
+Programming: Arduino IDE, Sample Code (LED, Switch, DC motor, 
+Stepper motor control), Temperature monitoring system using LM35 
+Temperature sensor & Seven Segment display 
+Embedded Operating system basic concepts: Functional layers in a 
+computer system OS terminology, Kernel Functions (Overview only), Types 
+of Kernels (Monolithic kernel & Microkernel), Tasks/ Processes. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks ,  ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, 
+out of which 1 question should be answered.  
+● Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the internal architecture of 8051 Microcontroller 
+K2 
+CO2 
+Develop simple programs for 8051 using assembly language 
+programming 
+K3 
+CO3 
+Interface 8051 microcontroller with peripheral devices using 
+ALP/Embedded C 
+K3 
+CO4 
+Interpret the architecture and design concept of embedded systems 
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+CO2 
+3 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2 
+ 
+CO3 
+3 
+2 
+3 
+ 
+2 
+ 
+ 
+ 
+2 
+ 
+2 
+ 
+CO4 
+3 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+
+ 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The 8051 Microcontroller and 
+Embedded Systems: Using 
+Assembly and C 
+Muhammad Ali Mazidi 
+Pearson 
+2e, 2007 
+2 
+Embedded Systems: An 
+Integrated Approach  
+Lyla B Das 
+Pearson 
+ 
+1e, 2012 
+3 
+Beginning Arduino 
+Michael McRoberts 
+Apress 
+1e, 2011 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition and 
+Year 
+1 
+Embedded Systems 
+Architecture, programming and 
+Design 
+Raj Kamal 
+Tata McGraw-Hill 
+ 
+3e, 2013 
+ 
+2 
+Embedded Systems 
+Architecture, A 
+Comprehensive Guide for 
+Engineers and Programmers 
+Tammy Noergaard 
+Newnes – Elsevier 
+2e, 2012 
+3 
+Arduino: The complete guide 
+to Arduino for beginners, 
+including projects, tips, tricks 
+and programming 
+James Arthur, 
+Ingram 
+1e, 2019 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module No. 
+Link ID  
+1 
+https://onlinecourses.nptel.ac.in/noc21_ee32/preview 
+2 
+https://onlinecourses.nptel.ac.in/noc21_ee32/preview 
+3 
+https://archive.nptel.ac.in/courses/106/105/106105193/ 
+4 
+https://nptel.ac.in/courses/106105193 
+
+ 
+ 
+SEMESTER S7 
+INTRODUCTION TO ROBOTICS

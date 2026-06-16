@@ -1,0 +1,54 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Histogram",
+            "Mean",
+            "Measure of dispersion from the mean",
+            "Range",
+            "Deviation",
+            "Average deviation",
+            "Standard Deviation",
+            "Variance Design of measurement systems-Example"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Optical Encoders -Synchro/Resolver Sensors -Time of Flight Ultrasonic Sensors- Laser Interferometers Speed measurement",
+            "Introduction to Speed measurement -Mechanical tachometer (Revolution counter",
+            "electrical tachometer (Eddy current tachometer)-optical tachometer (Stroboscopic tachometer) Acceleration-Strain gauge-based accelerometers Quartz accelerometers MEMS accelerometers Thickness Measurement- Micrometers- Laser scanners Position, Location and Altitude Measurement-MEMS devices -Global Positioning System (GPS) Range measurement",
+            "Laser range sensor Slant angle measurement",
+            "tilt sensor"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Optical Variables Measurement - Photometry and Radiometry-Photomultipliers -photodiodes Charge coupled devices (CCD cameras) Radiation Measurement -Basic principle - Geiger Muller counter - Scintillation counter Thermal Variables Measurement-Temperature measurement- Thermistors-Thermopile-Infrared sensors - Pyroelectric sensors- Sensor ICs - LM34",
+            "LM35",
+            "Thermal Imaging -Calorimetry Pressure measurement -Bourdon tubes-Fiber optic pressure sensor-Differential pressure transmitter for pressure measurement-Dead weight tester Vacuum measurement-Thermal Conductivity gauge",
+            "Pirani Gauge Flow Measurement - Electromagnetic Flow meters -Ultrasonic Flow meters- Thermal Mass Flow meters- Flow transmitter Humidity measurements-Definitions and units-psychrometer",
+            "dew point hygrometer",
+            "electrical resistive hygrometer Qualitative and Quantitative methods of chemical measurement - Beer-Lambert’s law Spectrometry - NMR - Chromatography"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Transmitters-types of signals- pneumatic instrument communication signals (3-15 psig",
+            "electronic instrument communication signals (4-20 ma",
+            "signal transducers_ I to P converter",
+            "P to I converter-features of smart and intelligent transmitters- smart transmitter with HART communicator. Digital interfaces in measurement systems: IEEE -488_ instrumentation bus (GPIB)- objectives of industrial communications - serial data communications links- RS-232C and D interfaces- RS-422",
+            "RS-423 and RS-485 interfaces - Communication protocols- field bus-profibus-modbus-foundation fieldbus. Instrumentation diagrams: instruments' labeling- ISA standards-Data Sheets- P&ID diagrams"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

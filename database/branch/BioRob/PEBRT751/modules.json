@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Building blocks of navigation: Definitions - perception, localization,\ncognition, motion control\nPerception: Sensors for Perception - Schematic representation of the sensing\nunit, Obstacle Sensor (Bumper), the odometry sensor, Heading sensors -\nGyroscopes, IMUs, Distance sensors - ToF, Phase shift, triangulation,\nultrasonic rangefinders, Ground based beacons, GPS, Motion field and\noptical flow, Color tracking sensors, Feature Extraction - Feature Definition,\nTarget Environment, Environment representation",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Localization: General schematic for mobile robot localization, Challenge of\nLocalization - Sensor noise and Sensor aliasing, Effector noise, Error model\nfor odometric position estimation\nLocalization-Based Navigation versus Programmed Solutions, Belief\nRepresentation,\nMap\nRepresentation\n-\nContinuous\nRepresentation,\nDecomposition Strategies, current challenges in map representation,\nProbabilistic Map-Based Localization - Markov localization, Kalman filter\nlocalization, Application to mobile robots: Kalman filter localization -\nschematic, Robot position prediction, Observation, Measurement prediction,\nMatching, Estimation, Landmark- based navigation.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Motion in Potential Field and Navigation Function-Problem Statement,\nconfiguration space, free configuration space, Gradient Descent Method of\nOptimization, Gradient Descent without and with Constraints, Minkowski\nSum, Potential Field, Navigation Function - in Static Deterministic\nEnvironment, in Static Uncertain Environment, Navigation Function and\nPotential Fields in Dynamic Environment - Estimation, Prediction,\nOptimization.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Satellite Navigation\nIntroduction to Satellite Navigation, Trilateration, Position Calculation -\nMultipath Signals, GNSS Accuracy Analysis, Dilution of Precision,\nCoordinate Systems, UTM Projection, Local Cartesian Coordinates, Velocity\nCalculation, Urban Navigation - Urban Canyon Navigation, Map Matching,\nDead Reckoning – Inertial Sensors, Incorporating GNSS Data with INS -\nModified Particle Filter, Estimating Velocity by Combining GNSS and INS,\nA- GPS, DGPS Systems, RTK Navigation, GNSS Threats",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Databases :- Database System Concepts and Architecture-\nData Models, Schemas and Instances, Three-Schema Architecture and Data\nIndependence, Database Languages and Interfaces, Centralized and\nClient/Server Architectures for DBMSs.\nConceptual Data Modelling and Database Design:- Data Modelling\nUsing the Entity, Relationship (ER) Model - Entity Types, Entity Sets,\nAttributes, and Keys, Relationship Types, Relationship Sets, Roles, and\nStructural Constraints, Weak Entity Types. Refining the ER Design for the\nCOMPANY Database.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "The Relational Data Model and SQL - The Relational Data Model and\nRelational Database Constraints-Relational Algebra and Relational\nCalculus - Structured Query Language (SQL)-Data Definition Language,\nData Manipulation Language,  Assertions, Triggers, views,  Relational\nDatabase Design Using ER-to-Relational Mapping.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Database Design Theory & Normalization - Functional Dependencies -\nBasic definition; Normalization- First, Second, and Third normal forms.\nTransaction Management - Transaction Processing : Introduction, problems\nand\nfailures\nin\ntransaction,\nDesirable\nproperties\nof\ntransaction,\nCharacterizing schedules based on recoverability and serializability;\nConcurrency Control with Two-Phase Locking Techniques- Database\nRecovery management: Deferred update-immediate update- shadow paging.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction To NoSQL Concepts - types of NoSQL databases- CAP\nTheorem- BASE properties-  Use Cases and limitations of NoSQL.\nSQL architectural Patterns - Key value Stores, Graph Stores, Column\nFamily stores and Document Stores.",
+    "contact_hours": "11"
+  }
+]

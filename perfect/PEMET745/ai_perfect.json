@@ -1,0 +1,47 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Mechatronics: Structure of Mechatronics System and Sensors",
+            "Characteristics",
+            "Temperature, Flow, and Pressure Sensors; Displacement, Position, and Proximity Sensing by Magnetic, Optical, Ultrasonic, Inductive, Capacitive, and Eddy Current Methods",
+            "Encoders: Incremental and Absolute, Gray Coded Encoder; Piezoelectric Sensors; Acoustic Emission Sensors; Principle and Types of Vibration Sensors",
+            "Signal Conditioning: Need and Methods; Op-Amp Configurations; Current/Resistance/Reactance to Voltage Circuits; Bridge Circuits Applications; ADC and DAC Circuits; Basics of Sampling Theorem"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Mechanical Actuators",
+            "Electrical Actuators",
+            "Hydraulic and Pneumatic Actuators; Basic Mechanical Elements: Guide Ways and Drives; Bearings: Anti-friction, Hydrostatic, and Hydrodynamic Bearings; Re-circulating Ball Screws and Pre-loading Methods; Re-circulating Roller Screws",
+            "Pneumatics and Hydraulics: Directional Control Valves, Pressure Control Valves, and Process Control Valves; Rotary Actuators; Development of Simple Hydraulic and Pneumatic Circuits Using Standard Symbols",
+            "Electric Motors: BLDC and Stepper Motors; Torque-Speed Characteristics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "System Modeling: Mathematical Models and Basic Building Blocks of General Mechanical, Electrical, Fluid, and Thermal Systems; Typical Elements of Open and Closed Loop Control Systems; Adaptive Controllers for Machine Tools",
+            "Microcontrollers: Architecture and Use for Mechatronic Applications",
+            "Programmable Logic Controllers (PLC): Basic Structure, Input/Output Processing; Programming: Timers, Internal Relays, Counters, and Shift Registers; Development of Ladder Programs for Specific Purposes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Micro Electro Mechanical Systems (MEMS): Fabrication - Deposition, Lithography, and Micromachining Methods for MEMS; Deep Reactive Ion Etching (DRIE) and LIGA Processes",
+            "MEMS Devices: Principle, Fabrication, and Working of MEMS-Based Pressure Sensor, Accelerometer, and Gyroscope; MEMS Devices for Biomedical Applications",
+            "Mechatronics in Automobiles: Sensors, ECU, and Cruise Control",
+            "Mechatronics in Robotics: Sensors and Drives for Robots"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

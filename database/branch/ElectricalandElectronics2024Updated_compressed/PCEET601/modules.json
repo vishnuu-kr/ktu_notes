@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to Control Systems and its time domain analysis\nReview of Open loop and Closed loop control systems; Automatic control\nsystems; Necessity and significance.  (Not for evaluation)\n(1 hour)\nTime domain analysis of control systems: Impulse and Step responses of first\nand second order systems - Pole dominance for higher order systems. Time\ndomain specifications. (4 hours)\nError analysis: Steady state error analysis and static error constants. (2\nhours)",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Root Locus Analysis and Controllers:\nRoot locus technique: Construction of Root locus - stability analysis- effect\nof addition of poles and zeros; Effect of positive feedback systems on Root\nlocus.  (5 hours)\nController design:  Types of controllers and their control action-\nproportional (P), integral (I), derivative (D), PID control. PID tuning using\nZiegler-Nichols method. (2 hours)",
+    "contact_hours": "7"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Frequency domain analysis:\nBode Plot: Construction, Concept of gain margin and phase margin-stability\nanalysis. (4 hours)\nFrequency domain specifications - correlation between time domain and\nfrequency domain responses (Resonant peak and resonant frequency).\nIntroduction to compensators. (Concept only). (2 hours)\nPolar plot: Gain margin and phase margin, Stability analysis.\n(2 hours)\nNyquist stability criterion. Concept of Nichols Chart. (3 hours)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "State space representation of systems:\nIntroduction to state-space modelling: State variables, state equations.  State\nvariable representation of electrical systems. (2 hours)\nRelationship between State space and Transfer function models: Derivation\nof transfer functions from state equations.  Controllable, Observable and\nDiagonal/Jordan canonical forms.\nIntroduction to similarity transformations (concept only).\n(4 hours)\nSolution of time invariant systems: Solution of time response of autonomous\nsystems and forced systems. State transition matrix - computation using\nMethod of Laplace Transform and Cayley Hamilton theorem. (4 hours)\nControllability & Observability: Definition, Kalman’s test.\n(1 hour)",
+    "contact_hours": "11"
+  }
+]

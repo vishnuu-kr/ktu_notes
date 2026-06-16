@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Data Transmission and Encoding Techniques\nDigital-To-Digital Conversion: Line Coding Schemes: Unipolar, Polar,\nBipolar - Block Coding, Scrambling, Analog-To-Digital Conversion: Pulse\nCode Modulation, Delta Modulation - Digital-To-Analog Conversion: ASK,\nFSK, PSK. Transmission Modes: Parallel and Serial Transmission,\nAsynchronous, Synchronous, Isochronous Transmission, Multiplexing -\nTDM, FDM, WDM",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Overview of Computer Communication\nIntroduction: - Types of Computer Networks, Network Software - Protocol\nHierarchies, Connection oriented and Connection less hierarchies, Reference\nModels - ISO-OSI Reference Model, TCP/IP Reference Model –\nComparison of OSI and TCP/IP reference models.\nPhysical Layer: - Guided Transmission Media– Twisted Pair, Coaxial and\nFiber Optics\nData Link Layer: – design issues - Error Detection: Parity Check,\nChecksum, CRC, Error Correction: Hamming code\n- Flow Control: Stop-and-Wait, Go-Back-N, and Selective- Repeat. Multiple\nAccess Protocols: ALOHA, CSMA, CSMA/CD, Collision free protocols",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Network Layer and Transport Layer\nNetwork Layer Design Issues, Routing Algorithm – Optimality principle -\nFlooding - Distance vector routing – Link state routing –Congestion Control\nAlgorithms – General principles – Congestion prevention policies – Choke\npackets – Random Early Detection.\nTransport layer – transport services, elements of transport protocols,\nintroduction to UDP, introduction to TCP – TCP service model, TCP\nsegment header, TCP connection establishment and release",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Network Security\nIntroduction to network security, principles of cryptography – symmetric key\ncryptography, public key cryptography, message integrity and digital\nsignatures, securing e-mail, securing TCP connections, IPSec, VPN,\nFirewalls and Intrusion detection systems",
+    "contact_hours": "8"
+  }
+]

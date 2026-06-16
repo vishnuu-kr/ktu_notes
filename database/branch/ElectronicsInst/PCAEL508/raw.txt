@@ -1,0 +1,336 @@
+Course Code 
+PCAEL508 
+CIE Marks 
+50 
+Teaching Hours/Week 
+(L: T:P: R) 
+0:0:3:0 
+ESE Marks  
+50 
+Credits 
+2 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PCECT403: Linear 
+Integrated Circuits 
+Course Type 
+Lab 
+Course Objectives: 
+1. To study the design and implementation of various linear integrated circuits. 
+2. To familiarize the simulation of basic linear integrated circuits. 
+Expt.  
+No. 
+ 
+Part A – List of Experiments using Op Amps 
+ (Minimum seven experiments mandatory) 
+1 
+Familiarization of Operational amplifiers - Inverting and Non inverting amplifiers, 
+Integrator, Differentiator - frequency response, Adder, Comparators 
+2 
+Measurement of Op-Amp parameters 
+3 
+Difference Amplifier and Instrumentation amplifier 
+4 
+Schmitt trigger circuit  
+5 
+Astable and Monostable multivibrators 
+6 
+Waveform generators using Op Amps - Triangular and Sawtooth 
+7 
+Wien bridge oscillator - without & with amplitude stabilization 
+8 
+RC Phase shift Oscillator 
+9 
+Active first and second order filters (LPF, HPF, BPF and BRF) 
+
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 50 marks, ESE: 50 marks) 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Preparation/Pre-Lab Work experiments, 
+Viva and Timely 
+completion of Lab Reports / Record 
+(Continuous Assessment) 
+Internal 
+Examination 
+Total 
+5 
+25 
+20 
+50 
+ 
+ 
+10 
+Active Notch filter to eliminate the 50Hz power line frequency  
+11 
+Precision rectifiers 
+ 
+Part B – Application circuits using ICs  
+[Minimum three experiments are to be done] 
+1 
+Astable and Monostable multivibrator using Timer IC NE555 
+2 
+DC power supply using IC 723: Low voltage and high voltage configurations, 
+Short circuit and Fold-back protection. 
+3 
+A/D converters- counter ramp and flash type. 
+4 
+D/A Converters - R-2R ladder circuit 
+5 
+Study of PLL IC: free running, frequency lock range and capture range 
+Expt. 
+No. 
+Part C – Simulation experiments 
+[The experiments shall be conducted using open tools such as QUCS, KiCad or 
+variants of SPICE] 
+1 
+Simulation of any three circuits from experiments 3, 5, 6, 7, 8, 9, 10 and 11 of section I 
+2 
+Simulation of experiments 3 or 4 from section II 
+
+ 
+ 
+End Semester Examination Marks (ESE):  
+Procedure/ 
+Preparatory 
+work/Design/ 
+Algorithm 
+Conduct of experiment/ 
+Execution of work/ 
+troubleshooting/ 
+Programming 
+Result with valid 
+inference/ 
+Quality of 
+Output 
+Viva 
+voce 
+Record 
+Total 
+10 
+15 
+10 
+10 
+5 
+50 
+ 
+Submission of Record: Students shall be allowed for the end semester examination only upon 
+submitting the duly certified record. 
+ 
+Endorsement by External Examiner: The external examiner shall endorse the record 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Design and implement basic linear integrated circuits using Op Amps. 
+K4 
+CO2 
+Design and implement basic linear integrated circuits using linear ICs. 
+K4 
+CO3 
+Design and simulate the functioning of basic linear integrated circuits and 
+linear ICs. using simulation tools. 
+K4 
+CO4 
+Effectively troubleshoot a given circuit and analyze it 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO- PO Mapping (Mapping of Course Outcomes with Program Outcomes)  
+1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+3 
+CO2 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+3 
+CO3 
+3 
+3 
+2 
+ 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+3 
+CO4 
+3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Linear Integrated Circuits 
+D. Roy Choudhary and 
+Shail B Jain 
+New Age International 
+6th edition, 
+2021 
+2 
+Introduction to Pspice Using 
+Orcad for Circuits and 
+Electronics 
+M. H. Rashid 
+Pearson 
+3rd edition, 
+2015 
+Continuous Assessment (25 Marks) 
+1. Preparation and Pre-Lab Work (7 Marks) 
+ 
+Pre-Lab Assignments: Assessment of pre-lab assignments or quizzes that test 
+understanding of the upcoming experiment. 
+ 
+Understanding of Theory: Evaluation based on students’ preparation and understanding of 
+the theoretical background related to the experiments. 
+2. Conduct of Experiments (7 Marks) 
+ 
+Procedure and Execution: Adherence to correct procedures, accurate execution of 
+experiments, and following safety protocols. 
+ 
+Skill Proficiency: Proficiency in handling equipment, accuracy in observations, and 
+troubleshooting skills during the experiments. 
+ Teamwork: Collaboration and participation in group experiments. 
+3. Lab Reports and Record Keeping (6 Marks) 
+ 
+Quality of Reports: Clarity, completeness and accuracy of lab reports. Proper 
+documentation of experiments, data analysis and conclusions. 
+ 
+Timely Submission: Adhering to deadlines for submitting lab reports/rough record and 
+maintaining a well-organized fair record. 
+ 
+4. Viva Voce (5 Marks) 
+ Oral Examination: Ability to explain the experiment, results and underlying 
+principles during a viva voce session. 
+
+ 
+ 
+Final Marks Averaging: The final marks for preparation, conduct of experiments, viva, and 
+record are the average of all the specified experiments in the syllabus. 
+Evaluation Pattern for End Semester Examination (50 Marks) 
+1. Procedure/Preliminary Work/Design/Algorithm (10 Marks) 
+ 
+Procedure Understanding and Description: Clarity in explaining the procedure and 
+understanding each step involved. 
+ 
+Preliminary Work and Planning: Thoroughness in planning and organizing 
+materials/equipment. 
+ 
+Algorithm Development: Correctness and efficiency of the algorithm related to the 
+experiment. 
+ 
+Creativity and logic in algorithm or experimental design. 
+ 
+2. Conduct of Experiment/Execution of Work/Programming (15 Marks) 
+ 
+Setup and Execution: Proper setup and accurate execution of the experiment or 
+programming task. 
+3. Result with Valid Inference/Quality of Output (10 Marks) 
+ 
+Accuracy of Results: Precision and correctness of the obtained results. 
+ 
+Analysis and Interpretation: Validity of inferences drawn from the experiment or quality of 
+program output. 
+ 
+4. Viva Voce (10 Marks) 
+ 
+Ability to explain the experiment, procedure results and answer related questions 
+ 
+Proficiency in answering questions related to theoretical and practical aspects of the 
+subject. 
+ 
+5. Record (5 Marks) 
+ Completeness, clarity, and accuracy of the lab record submitted 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEMESTER 6 
+ELECTRONICS AND INSTRUMENTATION 
+ENGINEERING 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S6 
+ELECTRIC DRIVES AND CONTROL

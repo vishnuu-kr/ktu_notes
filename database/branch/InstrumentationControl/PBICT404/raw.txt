@@ -1,0 +1,495 @@
+Course Code 
+PBICT404 
+CIE Marks 
+60 
+Teaching Hours/Week 
+(L: T:P: R) 
+ 
+3:0:0:1 
+ 
+ESE Marks 
+ 
+40 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+PC40T302 
+Course Type 
+Theory 
+ 
+ 
+Course Objectives: 
+ 
+1. Provide students with a comprehensive understanding of integrated circuit fabrication 
+techniques and operational amplifier theory. 
+2. Enable students to apply their theoretical understanding of operational amplifiers to design 
+and analyze fundamental circuit configurations. 
+3. To develop a comprehensive understanding of advanced operational amplifier circuits and their 
+applications in signal processing, waveform generation, and oscillation. 
+4. To comprehensively understand the theory, design principles, and practical 
+implementation of various types of analog filters using operational amplifiers. 
+5. To develop a comprehensive understanding of analog-to-digital converters (ADCs), digital-
+to-analog converters (DACs), voltage regulators, 555 timers, voltage- controlled oscillators 
+(VCOs), and phase-locked loops (PLLs) 
+ 
+SYLLABUS 
+ 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Integrated Circuit Fabrication Process 
+Brief overview of integrated circuit fabrication technology – Silicon wafer 
+preparation, Epitaxial Growth, Oxidation, Photolithography, Diffusion, Ion 
+Implantation, isolation techniques, metallization and packaging. 
+Operational amplifiers 
+Introduction of op amps- block level diagram of op amp –Basic information 
+of op amp (741 op amp) 
+Characteristics of Operational amplifiers 
+Ideal op amp characteristics-DC characteristics-input bias current, input offset 
+current, input offset voltage, thermal drift, CMRR, PSRR-AC characteristics- 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+
+frequency response, stability of op amp, slew rate. 
+Applications of Operational amplifiers 
+Basic applications-inverting amplifier, non-inverting amplifier, differential 
+amplifier, scale changer, summing amplifier, subtractor, adder, voltage 
+follower, V-I converter (grounded load type and floating load type), Howland 
+constant current circuit and I-V converter. 
+ 
+ 
+ 
+ 
+2 
+Instrumentation amplifier (3 op amp design)-op amp integrator- op amp 
+differentiator- op amp circuit using diodes-rectifier (half and full wave), peak 
+detector, sample and hold circuit, log and antilog amplifier, multiplier and 
+divider. 
+Comparator (inverting and non-inverting type)-applications of comparator- 
+zero crossing detector, window detector, time marker generator. 
+Waveform generators and Oscillators using Operational amplifier 
+Schmitt trigger- Astable multivibrator- Monostable multivibrator- Triangular 
+waveform generator. 
+Oscillator-introduction, Block level diagram-RC phase shift oscillator- Wien
+Bridge Oscillator. 
+ 
+ 
+ 
+ 
+12 
+ 
+3 
+Filters 
+Introduction-LPF-first 
+order 
+filter, 
+second 
+order 
+filter 
+(sallen-key 
+Butterworth), higher order filter-HPF- first order filter, second order filter 
+(sallen-key Butterworth), higher order filter- BPF-wide BPF, Narrow band
+pass filter-BRF-wide BRF, narrow BRF (Twin T Notch design)-All pass filter. 
+ 
+9 
+ 
+ 
+ 
+4 
+Analog to Digital Converter and Digital to Analog Converter 
+DAC-weighted resistor type DAC, R-2R DAC, ADC-Direct type -Flash type, 
+counter type, Servo type, successive approximation type- Integrating type 
+ADC - dual slope type- specifications of DAC and ADC. 
+Voltage regulator-Introduction, series op amp regulator-IC regulators-78XX 
+and 79XXcharecteristics. 
+555 timer-introduction-functional diagram-Mono stable operation and its 
+applications- Astable operation and its applications. 
+Voltage controlled oscillator and PLL (basic principle only) 
+ 
+ 
+ 
+11 
+ 
+ 
+ 
+ 
+Course Assessment Method 
+(CIE: 60 marks, ESE: 40 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+
+ 
+Attendance 
+ 
+Project 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+ 
+Total 
+5 
+30 
+12.5 
+12.5 
+60 
+ 
+End Semester Examination Marks (ESE) 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+ 2 Questions from each 
+module. 
+ Total of 8 Questions, each 
+carrying 2 marks 
+ 
+(8x2 =16marks) 
+ Each question carries 6 marks. 
+ Two questions will be given from each module, out 
+of which 1 question should be answered. 
+ Each question can have a maximum of 2 sub 
+divisions. 
+(4x6 = 24 marks) 
+ 
+ 
+40 
+ 
+ 
+Course Outcomes (COs) 
+ 
+At the end of the course students should be able to: 
+ 
+ 
+ 
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Achieve proficiency in Integrated Circuit Fabrication and Operational 
+Amplifier Theory 
+K2 
+CO2 
+Design linear, nonlinear circuits, oscillators and waveform generators. 
+K3 
+CO3 
+Design active filters using operational amplifiers. 
+K3 
+CO4 
+Understand 
+the 
+working 
+of 
+Analog-to-Digital, 
+Digital-to-Analog 
+Conversion Techniques, Voltage Regulators, 555 Timer, VCO and PLL. 
+K2 
+CO5 
+Design and implement an op-amp based circuit for specific application and 
+prepare a brief report. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12 
+CO1 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+ 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+ 
+3 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+ 
+3 
+ 
+ 
+ 
+3 
+3 
+2 
+3 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+ 
+1 
+Linear Integrated Circuits 
+D Roy Choudhury and 
+Shail B Jain 
+New Age
+International 
+Publishers 
+6th Edition, 
+2021 
+ 
+2 
+Laboratory Manual for 
+Operational Amplifiers and 
+Linear ICs 
+ 
+David A. Bell 
+ 
+OUP Canada 
+2nd edition 
+2006 
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Op Amps: Design, Application, 
+and Troubleshooting 
+David Terrell 
+Newnes 
+2nd edition 
+1996 
+2 
+Op-Amps and Linear Integrated 
+Circuits 
+Ramakant A. Gayakwad 
+Pearson Education 
+4th edition 
+2015 
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+http://nptel.ac.in/courses/117103063/ 
+2 
+https://nptel.ac.in/courses/117/101/117101106/ 
+3 
+https://nptel.ac.in/courses/117/107/117107094/ 
+ 
+
+                                     
+    PBL Course Elements 
+ 
+L: Lecture 
+(3 Hrs.) 
+R: Project (1 Hr.), 2 Faculty Members 
+Tutorial 
+Practical 
+Presentation 
+ 
+Lecture delivery 
+ 
+Project 
+identification 
+Simulation/ 
+Laboratory Work/ 
+Workshops 
+Presentation (Progress and Final 
+Presentations) 
+Group discussion 
+Project Analysis 
+Data Collection 
+Evaluation 
+Question answer 
+Sessions/ 
+Brainstorming 
+Sessions 
+ 
+Analytical thinking 
+and self-learning 
+ 
+Testing 
+Project Milestone Reviews, 
+Feedback, 
+Project reformation (If 
+required) 
+ 
+Guest Speakers 
+(Industry Experts) 
+ 
+Case Study/ Field 
+Survey Report 
+ 
+Prototyping 
+Poster Presentation / Video 
+Presentation: Students present 
+their results in a 2 to 5 minutes 
+video 
+ 
+ 
+ 
+Assessment and Evaluation for Project Activity 
+ 
+Sl. No 
+Evaluation for 
+Allotted 
+Marks 
+1 
+Project Planning and Proposal 
+5 
+2 
+Contribution in Progress Presentations and Question Answer Sessions 
+4 
+3 
+Involvement in the project work and Team Work 
+3 
+4 
+Execution and Implementation 
+10 
+5 
+Final Presentations 
+5 
+6 
+Project Quality, Innovation and Creativity 
+3 
+Total 
+30 
+ 
+ 
+
+ 
+Project Assessment and Evaluation criteria (30 Marks) 
+ 
+1. Project Planning and Proposal (5 Marks) 
+ 
+ Clarity and feasibility of the project plan 
+ Research and background understanding 
+ Defined objectives and methodology 
+ 
+2. Contribution in Progress Presentation and Question Answer Sessions (4 Marks) 
+ 
+ Individual contribution to the presentation 
+ Effectiveness in answering questions and handling feedback 
+ 
+3. Involvement in the Project Work and Team Work (3 Marks) 
+ 
+ Active participation and individual contribution 
+ Teamwork and collaboration 
+ 
+4. Execution and Implementation (10 Marks) 
+ 
+ Adherence to the project timeline and milestones 
+ Application of theoretical knowledge and problem-solving 
+ Final Result 
+ 
+5. Final Presentation (5 Marks) 
+ 
+ Quality and clarity of the overall presentation 
+ Individual contribution to the presentation 
+ Effectiveness in answering questions 
+ 
+6. Project Quality, Innovation, and Creativity (3 Marks) 
+ 
+ Overall quality and technical excellence of the project 
+ Innovation and originality in the project 
+ Creativity in solutions and approaches 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+SEMESTER: S4 
+POWER ELECTRONICS FOR CONTROL ENGINEERING

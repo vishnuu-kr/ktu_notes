@@ -1,0 +1,51 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to control systems",
+      "Classification of control systems. Principles of automatic control. Feedback control systems",
+      "Practical examples",
+      "Transfer function",
+      "Transfer function of electrical, mechanical and electromechanical systems",
+      "Block diagram",
+      "Signal flow graph",
+      "Mason’s gain formula"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Standard test signals - Response of systems to standard test signals - Step response of second order systems in detail - Time domain specifications - delay time",
+      "rise time",
+      "peak time",
+      "maximum percentage overshoot and settling time. Steady state response - Steady state error- Static & Dynamic error coefficients"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Asymptotic and BIBO stability, Routh-Hurwitz criterion of stability. Root locus",
+      "Construction of root locus",
+      "Effect of addition of poles and zeros on root locus"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Basic Control actions and Controller characteristics: Classification of Controllers",
+      "Two position control",
+      "proportional",
+      "integral and derivative controllers- Principle of working",
+      "advantages and disadvantages. Transfer Function of PI",
+      "PD and PID controllers"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to robotics: Degrees of freedom, Robot types, Manipulators,\nAnatomy of a robotic manipulator-links, joints, actuators, sensors,\ncontrollers. Robot configurations-PPP, RPP, RRP, RRR, Mobile robots-\nwheeled, legged, aerial robots, underwater robots, surface water robots,\nDynamic characteristics- speed of motion, load carrying capacity & speed of\nresponse, Introduction to End effectors - mechanical grippers, special tools,\nMagnetic grippers, Vacuum grippers, adhesive grippers, Active and Passive\ngrippers.  Ethics in robotics - 3 laws - applications of robots.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Sensor classification: Sensor classification, Internal sensors-Position\nsensors, velocity sensors, acceleration sensors, Force sensors external\nsensors-contact type, non-contact type,  Digital Camera - CCD camera -\nCMOS camera - Omnidirectional cameras Sensor characteristics, Actuators -\nDC Motors - H-Bridge - Pulse Width Modulation, Stepper Motors – Servos ,\nHydraulic & pneumatic actuators,  Control - On-Off Control - PID Control,\nVelocity Control and Position Control",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Representation of Transformations: Representation of a Pure Translation,\nPure Rotation about an Axis, Combined Transformations\nTransformations Relative to the Rotating Frame, Basic understanding of\nDifferential-Drive Wheeled Mobile Robot, Car-Like Wheeled Mobile Robot,\nKinematic model of a differential drive and a steered mobile robot, Degree\nof freedom and manoeuvrability, Degree of steerability, Degree of mobility,\nDifferent wheel configurations, holonomic and nonholonomic robots,\nOmnidirectional Wheeled Mobile Robots, Position and Orientation -\nRepresenting robot position\nBasics of reactive navigation, Robot Localization, Challenges in localization,\nAn error model for odometric position estimation. Map Representation\nContinuous representations, Decomposition strategies, Current challenges in\nmap representation, Probabilistic map-based localization (only Kalman\nmethod), Autonomous map building, Simultaneous localization and mapping\n(SLAM)",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Path Planning: Graph search, deterministic graph search - , breadth first\nsearch - depth first search- Dijkstra’ s algorithm, A*, D* algorithms,\nPotential field based path planning, Obstacle avoidance - Bug algorithm -\nVector Field Histogram - Dynamic window approaches, Navigation\nArchitectures - Modularity for code reuse and sharing - Control localization,\nTechniques for decomposition,  Alternatives for navigation - Neural\nnetworks,  Processing the image - Training the neural network for navigation\n- Convolutional neural network robot control implementation",
+    "contact_hours": "10"
+  }
+]

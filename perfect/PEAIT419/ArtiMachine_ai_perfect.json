@@ -1,0 +1,81 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Alphabet",
+            "Strings",
+            "Languages",
+            "Grammar",
+            "Deterministic Finite Automata/Accepter (DFA)",
+            "Language of a DFA",
+            "Regular Languages",
+            "Nondeterministic Finite Automata/Accepter (NFA)",
+            "NFA with Epsilon Transitions",
+            "Language of an NFA",
+            "Eliminating Epsilon Transitions (Proof not expected)",
+            "Equivalence of NFAs and DFAs (Proof not expected) - The Subset Construction; DFA State Minimization",
+            "Applications of Finite Automata"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Regular Expression",
+            "Language of a Regular Expression",
+            "Equivalence with Finite Automata (Proof not expected) - Converting FA to Regular Expressions",
+            "Converting Regular Expressions to FA",
+            "Regular Grammar - Examples; Closure Properties of Regular Languages (Proof not expected)",
+            "Pumping Lemma for Regular Languages (Proof not expected)",
+            "Pumping Lemma as a Tool to Prove Nonregularity of Languages",
+            "Context Free Language (CFL) and Context-Free Grammar (CFG)",
+            "Designing CFGs for CFLs",
+            "Leftmost and Rightmost Derivations",
+            "Parse Trees",
+            "Ambiguity in CFGs and CFLs"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Simplification of Context-Free Grammars - Eliminating Useless Symbols and Productions",
+            "Eliminating Epsilon Productions",
+            "Eliminating Unit Productions",
+            "Chomsky Normal Form (CNF)",
+            "Converting CFGs into CNF",
+            "Greibach Normal Form (definition only); Pushdown Automata (PDA)",
+            "Language of a PDA",
+            "DPDA and NPDA",
+            "Designing PDAs for CFLs; Equivalence of NPDAs and CFGs (Proof not expected); Pumping Lemma for Context-Free Languages (Proof not expected)",
+            "Pumping Lemma as a Tool to Identify Non-Context-Free Languages",
+            "Closure Properties of CFLs (Proof not expected)",
+            "Context Sensitive Grammar and Languages (introduction only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Turing Machines (TMs) - Turing Machines as Language Acceptors",
+            "Language of a TM",
+            "Turing Machines as Transducers",
+            "Nondeterministic Turing Machines (definition only)",
+            "Recursive and Recursively Enumerable Languages",
+            "Unrestricted Grammar (definition only)",
+            "Chomsky Hierarchy",
+            "Linear Bounded Automaton as a Restricted TM (introduction only); Church-Turing Thesis",
+            "Encoding of TMs",
+            "Universal Turing Machine",
+            "Existence of Languages that are not Recursively Enumerable",
+            "Recursive but not Recursively Enumerable",
+            "Decidable and Undecidable Problems",
+            "The TM Halting Problem"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

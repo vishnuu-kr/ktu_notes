@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Linguistic Essentials- Parts of Speech and Morphology, Nouns and Pronouns,\nWords that Accompany Nouns: Determiners and Adjectives, Verbs, Other\nParts of Speech, Phrase Structure, Phrase Structure Grammars, Semantics and\nPragmatics, Corpus-Based Work, The Ambiguity of Language (NLP\nChallenges).\nMathematical Essentials- Probability Theory, Probability Space, Conditional\nProbability\nand\nIndependence,\nBayes\nTheorem,\nRandom\nVariables,\nExpectation and Variance, Notation, Joint and Conditional Distributions,\nStandard Distributions, Bayesian Statistics.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Statistical Inference- n-gram Models over Sparse Data, Bins: Forming\nEquivalence Classes, Reliability vs Discrimination, n-gram Models\nMarkov Models- Hidden Markov Models, Use of HMMs, General Form of\nHMM, Probability of an Observation, Best State Sequence",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Word Sense Disambiguation- Methodological Preliminaries,  Supervised and\nunsupervised learning, Pseudowords, Upper and lower bounds on performance,\nSupervised Disambiguation, Bayesian classification-, Dictionary based\nDisambiguation, Disambiguation based on sense definitions, Thesaurus based\ndisambiguation,\nLexical\nAcquisition,\nEvaluation\nMeasures,\nVerb\nsubcategorization,      Attachment Ambiguity, PP attachment, Selectional\nreferences, Semantic Similarity,  Word2Vec and Doc2Vec",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Grammar and tools: Part-of-Speech Tagging, The Information Sources in\nTagging, Markov Model Taggers, Hidden Markov Model Taggers, Applying\nHMMs to POS Tagging, Probabilistic Context Free Grammars, Some Features\nof PCFGs, Questions for PCFGs, The Probability of a String, Using Inside\nProbabilities, Using Outside Probabilities, Finding the Most Likely Parse for a\nSentence, Parsing for Disambiguation, Parsing Model versus Language Model,\nLanguage Processing with Python using NLTK",
+    "contact_hours": "10"
+  }
+]

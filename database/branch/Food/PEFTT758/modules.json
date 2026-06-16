@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": ": Introduction to Optimization\nIntroduction to Optimization – Definitions – Historical development – Scope\nof optimization techniques. Classification of Optimization Problems – Linear\nand Non-linear – Static and Dynamic – Deterministic and Stochastic – Single\nand Multi-objective. Formulation of Optimization Problems – Objective\nfunction – Constraints – Decision variables.\n9",
+    "contact_hours": "2"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": ": Classical Optimization Techniques\nSingle Variable Optimization – Optimality criteria – Unconstrained\noptimization – Constrained optimization using Lagrange multipliers and\nKuhn-Tucker conditions. Multi-variable Optimization – Direct search\nmethods – Gradient-based methods – Newton’s method – Conjugate gradient\nmethod. Linear Programming – Formulation – Graphical method – Simplex\nmethod – Duality theory – Sensitivity analysis.\n9",
+    "contact_hours": "3"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": ": Numerical Methods and Algorithms\nNumerical Optimization Techniques – Introduction to numerical methods –\nNumerical differentiation and integration. Gradient Descent – Steepest\n9\ndescent method – Conjugate gradient method – Quasi-Newton methods.\nNon-linear Programming – Penalty function methods – Barrier methods –\nSequential quadratic programming – Interior point methods.",
+    "contact_hours": "4"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": ": Advanced Optimization Techniques\nDynamic Programming – Principle of optimality – Recursive equations –\nApplications. Genetic Algorithms – Basics of genetic algorithms – Operators\n– Selection, crossover, mutation – Applications. Simulated Annealing –\nPrinciples – Algorithm – Applications. Particle Swarm Optimization – Basic\nconcepts – Algorithm – Applications.",
+    "contact_hours": "9"
+  }
+]

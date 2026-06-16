@@ -1,0 +1,64 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Elements of Visual Perception",
+      "Image Sensing and Acquisition",
+      "A Simple Image Formation Model",
+      "Image Sampling and Quantization",
+      "Basic Relationship between pixels",
+      "Distance Measures"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Intensity Transformation Functions- Image Negatives",
+      "Log Transformations",
+      "Power Law Transformations",
+      "Piecewise-Linear Transformation Functions",
+      "contrast stretching",
+      "intensity level slicing",
+      "bit plane slicing",
+      "Fundamentals of spatial Filtering-mechanics of spatial filtering",
+      "vector representation of linear filtering",
+      "generating spatial filter masks",
+      "smoothing linear filters and nonlinear filters"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Reflection of a set and translation of a set",
+      "erosion and dilation",
+      "duality",
+      "Opening and closing",
+      "Image Segmentation",
+      "Classification",
+      "Region Approach to Image Segmentation",
+      "Clustering Techniques-Hierarchical",
+      "K- Means",
+      "Thresholding- global thresholding",
+      "adaptive thresholding"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Camera and Epipolar Geometry",
+      "Homography",
+      "Rectification",
+      "RANSAC",
+      "3-D reconstruction framework",
+      "Background Subtraction and Modelling"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "8051 microcontrollers. Review-Basics of Computer Architecture: Basic\nblock diagram of a computer, System bus and components, RISC and CISC\n.architectures, Von Neumann and Harvard architecture,\n8051\nmicrocontrollers:\nDifference\nbetween\nmicroprocessor\nand\nmicrocontroller architecture, 8051 architecture, Register organization - special\nfunction registers,\nMemory organization 8051 microcontrollers: Instruction set- Arithmetic,\nData transfer, Control\ntransfer, Bit- oriented and Data exchange instructions (familiarization only,\nnot for exams), Addressing modes",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "8051 microcontroller Programming and Peripherals.\nTimers/Counters- TMOD and TCON registers,\nSerial Communication-SBUF, SCON, PCON registers and their functions\n(details of different modes of operation not included), Interrupts in 8051- Timer\nflag interrupt, Serial port interrupt, external interrupts and interrupt priority\nInterfacing of peripherals – LED, LCD, ADC, DAC, LM35 temperature sensor,\n7 segment LED (embedded C programming)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Embedded Systems Overview and introduction to OS\nIntroduction to Embedded Systems: Definition, Features, applications of\nembedded systems in Robotics (examples only) Embedded System\nArchitecture: HW - Processor, Controller, SoC, Memory, Peripherals; SW -\nApplication, Middleware, OS, Device Drivers, Tool chain- Assembler,\nInterpreter, Compiler, Linker,\nLoader, Debugger\nEmbedded system design process: Requirement Analysis, Specification\nDevelopment, HW & SW Co-Design and Development, Module Integration,\nTesting. (2 hours)\nIntroduction to OS:\nEmbedded Operating system basic concepts: Functional layers in a computer\nsystem, Kernel Functions (Overview only), Tasks/ Processes: definition, five\nstates of a process/task, RTOS – definition, comparison of General Purpose OS\nand Real Time OS (3 hours)",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Embedded System Board Study, communication protocols and IoT.\nEmbedded System Board Study (Arduino Uno):\nArduino Uno Board: Board Study (Board level Block schematic) - Chip\n(Features only - architecture not needed), GPIO, Memory, familiarization of\nArduino IDE (2 hours)\nProgramming: Sample code for LED and Switch, DC motor, Stepper motor\ncontrol (2 hours)\nInternet of Things (IoT): An Introduction toInternet of Things (overview\nonly): Basic components of IoT- Building blocks of IoT, IoT Application\nframework, The Internet Gateway, Edge IT, IoT Service Providers, IoT\nInfrastructure, IoT Development service, Comparison of M2M and IoT\ntechnology. (2 hours)\nRole of cloud technology in IoT computing: Definition of cloud computing,\ntypes of cloud services (examples for various types only), Need of cloud\ncomputing in IoT applications (1 hour)\nCommunication Protocols: UART, I2C, SPI and USB (2 hours)",
+    "contact_hours": "11"
+  }
+]

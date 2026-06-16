@@ -1,0 +1,428 @@
+Course Code 
+PCCSL407 
+CIE Marks 
+50 
+Teaching Hours/Week 
+(L: T:P: R) 
+0:0:3:0 
+ESE Marks  
+50 
+Credits 
+2 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+GYEST204  
+Course Type 
+Lab 
+ 
+Course Objectives: 
+1. To familiarize various Linux commands related to Operating systems. 
+2. To give practical experience for learners on implementing different functions of Operating 
+systems such as process management, memory management, and disk management. 
+Expt.  
+No. 
+Experiments 
+1 
+Familiarisation with basic Linux programming commands: ps, strace,  gdb, strings, 
+objdump, nm, file, od, xxd, time, fuser, top 
+2 
+Use /proc file system to gather basic information about your machine: 
+(a) Number of CPU cores 
+(b) Total memory and the fraction of free memory 
+(c) Number of processes currently running.  
+(d) Number of processes in the running and blocked states. 
+(e) Number of processes forked since the last bootup. How do you compare 
+this value with the one in (c) above? 
+(f) The number of context switches performed since the last bootup for a 
+particular process.   
+3 
+Write a simple program to print the system time and execute it. Then use the /proc file 
+system to determine how long this program (in the strict sense, the corresponding process) 
+ran in user and kernel modes. 
+
+ 
+ 
+4 
+Create a new process using a fork system call. Print the parent and child process IDs. Use 
+the pstree command to find the process tree for the child process starting from the init 
+process. 
+5 
+Write a program to add two integers (received via the command line) and compile it to an 
+executable named “myadder”. Now write another program that creates a new process 
+using a fork system call. Make the child process add two integers by replacing its image 
+with the “myadder” image using execvp system call.  
+6 
+Create a new process using a fork system call. The child process should print the string 
+“PCCSL407” and the parent process should print the string “Operating Systems Lab”. 
+Use a wait system call to ensure that the output displayed is “PCCSL407 Operating 
+Systems Lab”  
+7 
+Inter-process Communication (https://www.linuxdoc.org/LDP/lpg/node7.html) 
+(a) Using Pipe – Evaluate the expression 
+. The first process 
+evaluates 
+. The second process evaluates 
+ and sends it to the first 
+process which evaluates the final expression and displays it. 
+(b) Using Message Queue - The first process sends a string to the second 
+process. The second process reverses the received string and sends it back 
+to the first process. The first process compares the original string and the 
+reversed string received from the second one and then prints whether the 
+string is a palindrome or not. 
+(c) Using Shared Memory - The first process sends three strings to the second 
+process. The second process concatenates them to a single string (with 
+whitespace being inserted between the two individual strings) and sends it 
+back to the first process. The first process prints the concatenated string in 
+the flipped case, that is if the concatenated string is “Hello S4 Students”, 
+the final output should be “hELLO s4 sTUDENTS” 
+8 
+Write a multithreaded program that calculates the mean, median, and standard deviation 
+for a list of integers. This program should receive a series of integers on the command line 
+and will then create three separate worker threads. The first thread will determine the 
+mean value, the second will determine the median and the third will calculate the standard 
+deviation of the integers. The variables representing the mean, median, and standard 
+deviation values will be stored globally. The worker threads will set these values, and the 
+parent thread will output the values once the workers have exited. 
+
+ 
+ 
+9 
+Input a list of processes, their CPU burst times (integral values), arrival times, and 
+priorities. Then simulate FCFS, SRTF, non-preemptive priority (a larger priority number 
+implies a higher priority), and RR (quantum = 3 units) scheduling algorithms on the 
+process mix, determining which algorithm results in the minimum average waiting time 
+(over all processes). 
+10 
+Use semaphores to solve the readers-writers problem with writers being given priority 
+over readers.  
+11 
+Obtain a (deadlock-free) process mix and simulate the banker’s algorithm to determine a 
+safe execution sequence. 
+12 
+Obtain a process mix and determine if the system is deadlocked.  
+13 
+Implement the deadlock-free semaphore-based solution for the dining philosopher’s 
+problem.  
+14 
+Simulate the address translation in the paging scheme as follows: The program receives 
+three command line arguments in the order  
+● size of the virtual address space (in megabytes) 
+● page size (in kilobytes) 
+● a virtual address (in decimal notation) 
+The output should be the physical address corresponding to the virtual address in <frame 
+number, offset> format. You may assume that the page table is implemented as an array 
+indexed by page numbers. (NB: If the page table has no index for the page number 
+determined from the virtual address, you may just declare a page table miss!) 
+15 
+Simulate the FIFO, LRU, and optimal page-replacement algorithms as follows: First, 
+generate a random page-reference string where page numbers range from 0 to 9. Apply the 
+random page-reference string to each algorithm, and record the number of page faults 
+incurred by each algorithm. Assume that demand paging is used. The length of the 
+reference string and the number of page frames (varying from 1 to 7) are to be received as 
+command line arguments.  
+16 
+Simulate the SSTF, LOOK, and CSCAN disk-scheduling algorithms as follows: Your 
+program will service a disk with 5,000 cylinders numbered 0 to 4,999. The program will 
+generate a random series of 10 cylinder requests and service them according to each of the 
+algorithms listed earlier. The program will be passed the initial position of the disk head 
+(as a parameter on the command line) and will report the total number of head movements 
+required by each algorithm.  
+
+ 
+ 
+Course Assessment Method 
+(CIE: 50 marks, ESE: 50 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Preparation/Pre-Lab Work experiments, 
+Viva and Timely 
+completion of Lab Reports / Record 
+(Continuous Assessment) 
+Internal 
+Examination 
+Total 
+5 
+25 
+20 
+50 
+ 
+End Semester Examination Marks (ESE):  
+Procedure/ 
+Preparatory 
+work/Design/ 
+Algorithm 
+Conduct of experiment/ 
+Execution of work/ 
+troubleshooting/ 
+Programming 
+Result with valid 
+inference/ 
+Quality of 
+Output 
+Viva 
+voce 
+Record 
+Total 
+10 
+15 
+10 
+10 
+5 
+50 
+ 
+● Submission of Record: Students shall be allowed for the end semester examination only upon 
+submitting the duly certified record. 
+● Endorsement by External Examiner: The external examiner shall endorse the record 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Illustrate the use of various systems calls in Operating Systems. 
+K3 
+CO2 
+Implement process creation and inter-process communication in Operating 
+Systems 
+K3 
+CO3 
+Compare the performance of various CPU scheduling algorithms 
+K4 
+CO4 
+Compare the performance of various disk scheduling algorithms 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO- PO Mapping (Mapping of Course Outcomes with Program Outcomes)  
+1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+3 
+CO5 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+3 
+
+ 
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Operating Systems: Three Easy 
+Pieces  
+Andrea Arpaci-
+Dusseau, Remzi 
+Arpaci-Dusseau 
+CreateSpace 
+1/e, 2018 
+2 
+Linux Kernel Development 
+Robert Love 
+Pearson 
+3/e, 2018 
+3 
+Unix 
+Network 
+Programming 
+- 
+Volume 
+2: 
+Interprocess 
+Communications  
+Richard Stevens 
+Prentice Hall 
+2/e, 1999 
+ 
+Reference Books/Websites 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+The Design of the UNIX 
+Operating System 
+Maurice J. Bach 
+Prentice Hall of India 
+1/e, 1994 
+2 
+The Little Book of Semaphores 
+Allen B. Downey 
+Green Tea Press 
+1/e, 2016 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://archive.nptel.ac.in/courses/106/105/106105214/ 
+2 
+https://www.youtube.com/playlist?list=PLDW872573QAb4bj0URobvQTD41IV6gRkx 
+ 
+ 
+
+ 
+ 
+Continuous Assessment (25 Marks) 
+1. Preparation and Pre-Lab Work (7 Marks) 
+● Pre-Lab Assignments: Assessment of pre-lab assignments or quizzes that test understanding 
+of the upcoming experiment. 
+● Understanding of Theory: Evaluation based on students’ preparation and understanding of the 
+theoretical background related to the experiments. 
+2. Conduct of Experiments (7 Marks) 
+● Procedure and Execution: Adherence to correct procedures, accurate execution of 
+experiments, and following safety protocols. 
+● Skill Proficiency: Proficiency in handling equipment, accuracy in observations, and 
+troubleshooting skills during the experiments. 
+● Teamwork: Collaboration and participation in group experiments. 
+3. Lab Reports and Record Keeping (6 Marks) 
+● Quality of Reports: Clarity, completeness and accuracy of lab reports. Proper documentation 
+of experiments, data analysis and conclusions. 
+● Timely Submission: Adhering to deadlines for submitting lab reports/rough record and 
+maintaining a well-organized fair record. 
+ 
+4. Viva Voce (5 Marks) 
+● Oral Examination: Ability to explain the experiment, results and underlying principles during 
+a viva voce session. 
+Final Marks Averaging: The final marks for preparation, conduct of experiments, viva, 
+and record are the average of all the specified experiments in the syllabus. 
+Evaluation Pattern for End Semester Examination (50 Marks) 
+1. Procedure/Preliminary Work/Design/Algorithm (10 Marks) 
+● Procedure Understanding and Description: Clarity in explaining the procedure and 
+understanding each step involved. 
+● Preliminary Work and Planning: Thoroughness in planning and organizing 
+materials/equipment. 
+
+ 
+ 
+● Algorithm Development: Correctness and efficiency of the algorithm related to the 
+experiment. 
+● Creativity and logic in algorithm or experimental design. 
+ 
+2. Conduct of Experiment/Execution of Work/Programming (15 Marks) 
+● Setup and Execution: Proper setup and accurate execution of the experiment or programming 
+task. 
+3. Result with Valid Inference/Quality of Output (10 Marks) 
+● Accuracy of Results: Precision and correctness of the obtained results. 
+● Analysis and Interpretation: Validity of inferences drawn from the experiment or quality of 
+program output. 
+ 
+4. Viva Voce (10 Marks) 
+● Ability to explain the experiment, procedure results and answer related questions 
+● Proficiency in answering questions related to theoretical and practical aspects of the subject. 
+ 
+5. Record (5 Marks) 
+● Completeness, clarity, and accuracy of the lab record submitted 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+SEMESTER S4 
+DBMS Lab 
+(Common to CS/CD/CR/CA/AD/AI/CB/CN/CC/CU/CI/CG)

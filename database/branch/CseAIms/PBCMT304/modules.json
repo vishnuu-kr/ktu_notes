@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to ML - Machine Learning vs. Traditional Programming,\nMachine learning paradigms - supervised, semi-supervised, unsupervised,\nreinforcement learning.\nBasics of parameter estimation - maximum likelihood estimation (MLE)\nand maximum aposteriori estimation (MAP), Bayesian formulation.\nSupervised Learning - Feature Representation and Problem Formulation,\nRole of loss functions and optimization\nRegression - Linear regression with one variable, Linear regression with\nmultiple variables - solution using gradient descent algorithm and matrix\nmethod.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Classification - Naive Bayes, KNN\nGeneralisation and Overfitting - Idea of overfitting, LASSO and RIDGE\nregularization, Idea of Training, Testing, Validation\nEvaluation Measures – Classification - Precision, Recall, Accuracy, F-\nMeasure, Receiver Operating Characteristic Curve(ROC), Area Under\nCurve (AUC).\nRegression - Mean Absolute Error (MAE), Root Mean Squared Error\n(RMSE), R Squared/Coefficient of Determination.",
+    "contact_hours": "8"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Neural Networks (NN) - Perceptron, Neural Network - Multilayer feed-\nforward network, Activation functions (Sigmoid, ReLU, Tanh), Back\npropagation algorithm, Issues in Back Propagation Learning (Vanishing and\nExploding Gradient Problems, Local Minima and Saddle Points,\nOverfitting, Slow  Convergence, Sensitivity to the selection of the Initial\nweights, Computational Cost), Use of Adaptive Learning Rate Methods\n(Back Propagation Algorithm with Momentum, Adaptive Gradient Descent\nAlgorithm (ADAGRAD), Root Mean Square Propagation (RMSProp),\nAdaptive Momentum Estimation (ADAM))\nDecision Trees – Information Gain, Gain Ratio, ID3 algorithm",
+    "contact_hours": "13"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Clustering - Similarity measures, Hierarchical Clustering - Agglomerative\nClustering, partitional clustering, K-means clustering\nDimensionality reduction:- Principal Component Analysis,\nMultidimensional scaling\nEnsemble methods:-  Bagging, Boosting\nResampling methods:- Bootstrapping, Cross Validation. Practical aspects -\nBias-Variance trade-off\nSuggestion on Project Topics\nStudents may identify a real life problem that can be solved using the concepts of machine learning. They\nmay either use a standard dataset or build their own, for the purpose of applying machine learning\nalgorithms. Besides, they may make use of various evaluation parameters to measure the efficiency of the\nmethods. A few sample questions are given below.\n1. Classification of Handwritten Digits: Classify handwritten digits (0-9) from the MNIST dataset\nusing various machine learning algorithms and compare their performance. This will involve pre-\nprocessing the data, applying different classification techniques and using ensemble methods to\nimprove accuracy.\n2. Predicting Student Examination Performance Based on Internal Marks: Develop a real life\ndataset using the historical data of your institution. Use various machine learning algorithms to\nbuild models to predict students’ final examination scores based on their internal assessment\nmarks and evaluate their performance. Use ensemble methods to improve accuracy of prediction.\nAlso, segment the students using clustering techniques to identify potential students at academic\nrisk so that the educators can make timely interventions.",
+    "contact_hours": "10"
+  }
+]

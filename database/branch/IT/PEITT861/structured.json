@@ -1,0 +1,76 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Introduction to Bioinformatics - scope",
+      "elementary tasks in bioinformatics",
+      "Molecular biology basics - human genome organization",
+      "central dogma",
+      "DNA and RNA structure",
+      "Genetic codes",
+      "Datatypes - Gene expression data",
+      "Micro Arrays",
+      "Pathways",
+      "molecular interactions",
+      "Biological Databases - Types of databases",
+      "Sequence databases - GenBank",
+      "DDBJ",
+      "EMBL",
+      "Entrez",
+      "Unigene",
+      "Protein sequence databases - SwissProt",
+      "UniProt"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Sequence Alignment - local and global alignment",
+      "similarity vs homology",
+      "dot matrices and hash coding",
+      "FASTA files",
+      "Algorithms for pairwise sequence alignment - Needleman and Wunsch",
+      "Scoring Matrices - basic concepts",
+      "BLAST and its variants",
+      "Multiple Sequence Alignment - Goals",
+      "scoring",
+      "substitution matrices",
+      "PAM and BLOSUM",
+      "gap penalties",
+      "CLUSTAL and its variants"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Phylogenetic trees",
+      "Topologies",
+      "Distance matrix based and Character based tree construction",
+      "Algorithms for Phylogenetic tree construction - UPGMA",
+      "Neighbor-Joining",
+      "Maximum Parsimony",
+      "Pattern representations - deterministic and probabilistic patterns",
+      "algorithms for pattern discovery - HMM",
+      "gene discovery using GeneMark"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Introduction to Protein structures - primary",
+      "secondary and tertiary",
+      "measures of prediction accuracy",
+      "statistical algorithms for protein secondary structure prediction - Chou-Fasman",
+      "Protein Folding - Lattice models",
+      "algorithms for predicting RNA secondary structure - Nussinov algorithm"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

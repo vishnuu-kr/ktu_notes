@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "First order RC low pass and high pass filters",
+            "Differentiator and Integrator",
+            "Diode clipping circuits",
+            "Diode clamping circuits",
+            "Voltage multipliers Transistor biasing: Concept of DC and AC load lines",
+            "Types -Fixed bias circuit",
+            "Self-bias",
+            "voltage divider bias",
+            "Bias stabilization. Switching Circuits: Astable",
+            "Bistable and Monostable multivibrators",
+            "Schmitt Trigger"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "RC coupled amplifier - Design",
+            "Voltage gain and frequency response. Small signal analysis of CE configuration - small signal hybrid-pi model for mid and low frequency (Gain",
+            "Input and output impedance). High frequency equivalent circuits of BJT",
+            "Miller effect",
+            "Analysis of high frequency response of CE amplifier. Multistage amplifiers - Cascade and Cascode amplifiers: Design",
+            "Effect on gain and bandwidth"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Effect of positive and negative feedback on gain",
+            "frequency response and distortion",
+            "Feedback topologies and its effect on input and output impedance",
+            "Feedback amplifier circuits using BJT in each feedback topologies (Analysis of only Voltage series feedback circuit is required"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction",
+            "Barkhausen criterion",
+            "Classification of oscillators - RC phase shift",
+            "Wien bridge",
+            "Hartley",
+            "Colpitts and Crystal oscillators (working principle and design equations of the circuits only). Analysis of RC phase shift oscillator. Power amplifiers: Classification",
+            "Transformer coupled class A power amplifier",
+            "push pull class B and class AB power amplifiers",
+            "complementary symmetry class B and class AB power amplifiers",
+            "Class C power amplifier efficiency and distortion (no analysis required). Regulated power supplies: Load and line regulation",
+            "Series voltage regulator",
+            "shunt voltage regulator",
+            "Short circuit protection and fold back protection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

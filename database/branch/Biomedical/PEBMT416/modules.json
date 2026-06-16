@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Review of digital system\nBinary decoder- decoder networks, encoders-priority encoder,\nMultiplexers-multiplexer trees, demultiplexers, shifters —barrel\nshifter. Implementation of combinational circuits using Multiplexers\nand Decoders. Adder modules- ripple carry adder, carry look ahead\nadder (CLA),Carry-Save Adder (CSA), Carry-Save Adder (CSA),\nComparator module.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Sequential network Design\nGeneral model for sequential network, State tables, State graphs,\nDerivations of state graph. State reduction-equivalence classes and and\nstate assignment. Design examples using the FSM approach-serial\nadder, modulo —p counter, pattern recognizer. 3pattern recognizer.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Timing characteristics and Hazards\nImpediments to synchronous design- Clock skew,jitter, gating the\nclock,Asynchronous\ninputs, synchronizer\nfailure and\nmetastability.\nData  synchronizer.\nTiming hazard-Static hazard, dynamic hazard, essential hazard and\ndesigning hazard free circuits.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Introduction to digital design methodology using HDL and\nProgrammable devices.\nFundamentals-, basic language elements —data object, data types,\nidentifiers.\nProcess statement-signal assignment vs variable assignment .\nProgrammable Array Logic-combinational PLDs (Eg:PAL 12H6)\nPLDs((Eg PAL12H6),\n3\nSequential PLDs (Eg: PAL16R8), Simple PLD (Eg: PAL16R8)\nComplex Programmable Logic Devices- Xilinx XC 9500 CPLD\nfamily. 4",
+    "contact_hours": "9"
+  }
+]

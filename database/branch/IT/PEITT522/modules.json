@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "TCP/IP protocol suite- Comparison between OSI and TCP/IP Protocol Suite\nLayers in the TCP/IP Protocol Suite, Addressing, IPv4 Addresses - Address\nSpace, Notation, Range of Addresses,  Classful Addressing, Classless\nAddressing (simple problems on subnetting), Special Addresses,  NAT,\nDelivery and Forwarding of IP Packets - Delivery, Forwarding - Forwarding\nBased on Destination Address, Forwarding with Classful Addressing\n(without and with subnetting), Forwarding with Classless Addressing,\nAddress Aggregation, Longest Mask Matching,  Structure of a Router.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "IPv4 - Datagram, Fragmentation, Options, Checksum, Address Mapping-\nARP Protocol, ARP Package, ICMPv4- ICMP encapsulation, Messages,\nDebugging Tool, ICMP package, Mobile IP - addressing, agents, three\nphases, inefficiency in mobile IP,\nUnicast Routing Protocols - RIP, OSPF - Areas, Types of Links, OSPF\nPackets, Common Header, Link State Update Packet (general format & LSA\ngeneral header only), Hello Message, Database Description Message, Link\nState Request Packet, Link State Acknowledgment Packet), BGP.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Multicasting and Multicast Routing Protocols - Multicasting, Multicast\nAddresses in IPv4, Delivery of Multicast Packets at Data Link Layer, IGMP\n- Group Management, IGMP Messages (Membership Query Message\nFormat, Three Formats of Query Messages, Membership Report Message\nFormat), Multicast routing, Multicast routing protocols - MOSPF, DVMRP,\nPIM.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "TCP - TCP Services, TCP features, TCP Segment format & encapsulation,\nState transition diagram (TCP connection management), Windows in TCP,\nTCP timers, TCP options, TCP Package,\nIPv6 - Notations, Address Space, Three address types, Address Space\nallocation Algorithm, Auto Configuration, Renumbering, Packet Format\n(base header and extension headers),\nLabel Switching, Flows, and MPLS- Switching Technology, Flows and Flow\nSetup, Large Networks, Label Swapping, and Paths, IP Switching\nTechnologies and MPLS, Labels and Label Assignment, MPLS\nEncapsulation, Label Switching Router (",
+    "contact_hours": "unknown"
+  }
+]

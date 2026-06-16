@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "History of Computer Networks and the Internet",
+            "types of networks",
+            "Client-server and peer-to-peer architecture. Design issues for the layers - Interface & Service - Service Primitives. Reference models - OSI - TCP/IP. Concept of Quality of Service metrics - throughput",
+            "delay",
+            "packet loss",
+            "and jitter in packet-switched networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Physical layer design issues",
+            "Media, Signal strength and interference. Data encoding, Multiplexing (TDM, FDM). Data Link layer Design Issues",
+            "Flow Control and ARQ techniques. Data link Protocols",
+            "HDLC. IEEE 802 FOR LANs IEEE 802.3, 802.5. Wireless LANs",
+            "802.11"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Networking devices - Bridges",
+            "Routers",
+            "Gateways",
+            "Network Layer Protocols - Virtual circuits and datagrams",
+            "Principles of routing",
+            "internet protocol Ipv4 CIDR",
+            "IPv6",
+            "Network Address Translation",
+            "Firewalls",
+            "and VPNs Routing algorithms - Link-state and distance vector routing",
+            "Routing on the internet RIP OSPF and BGP"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Installation and configuration of the LAMP stack",
+            "Design and develop a relevant web application using the LAMP stack",
+            "Deploy the web application project in a LAN with a server and clients with distinct IP addresses"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

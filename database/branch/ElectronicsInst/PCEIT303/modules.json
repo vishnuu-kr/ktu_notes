@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Network Theorems\nReview of mesh and node analysis, Super mesh and Super node Analysis –\nAnalysis of DC and AC circuits containing independent and dependent\nsources, Network Theorems - Thevenin’s theorem, Norton’s theorem,\nSuperposition theorem, Reciprocity theorem, Maximum power transfer\ntheorem.  Steady state AC analysis – Application of network theorems to\nsolve AC circuits.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Circuit Analysis through Laplace transform\nReview of Laplace transform and inverse Laplace transform, Initial value\ntheorem and Final value theorem (no proof required) - Transformation of\ncircuits into s-domain, Transient analysis of RL, RC and RLC circuits\nthrough Laplace transform with impulse, step and sinusoidal inputs (with\nand without initial conditions), Analysis of networks with transformed\nimpedance and dependent sources.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Network Functions – Poles & Zeros\nNetwork functions of single port and two port networks – Driving point\nimpedance and transfer functions, Computation of network functions for\nLadder and non-Ladder networks, Poles and zeros of network functions –\nSignificance of poles and zeros, Properties of driving point and transfer\nfunctions, Necessary conditions for driving point and transfer functions,\nTime domain response from pole-zero plot, Amplitude and phase response\nfrom pole-zero plot, Stability Criteria.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Two Port Network Parameters\nTwo port networks - Impedance, admittance, hybrid and transmission\nparameters – conditions for reciprocity and symmetry, Inter relationships of\ndifferent parameters, Interconnection of two port networks - Series, &\nParallel.  T and π equivalent of a two-port network, Image impedance\nparameter description of a two-port network, Characteristic impedance and\npropagation constant of a symmetrical two port network (derivation not\nrequired).",
+    "contact_hours": "11"
+  }
+]

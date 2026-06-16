@@ -1,0 +1,361 @@
+Course Code 
+PESFT635 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+ 
+3:0:0:0 
+ 
+ESE Marks 
+ 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives 
+1. Learn the foundational concepts of functional safety and relevant standards (IEC 
+61508, ISO 26262, IEC 61511) for E/E/PE systems. 
+2. Develop skills to assess risks and determine Safety Integrity Levels (SIL) using 
+methods like HAZOP, Bow Tie Analysis, and LOPA. 
+3. Gain proficiency in designing, implementing, and maintaining Safety Instrumented 
+Systems (SIS), including failure management, safety lifecycle, and verification 
+processes. 
+SYLLABUS 
+ 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+ 
+ 
+ 
+ 
+1 
+Deterministic approach and Probabilistic approach, Introduction to 
+functional safety, Overview, History and application of relevant 
+standards (IEC  61508,  ISO  26262,  IEC  61511),  Scope  of  
+IEC  61508  in Electrical/Electronic/Programmable Electronics 
+(E/E/PE)., Random Hardware failures, Systematic Failures, Common 
+cause and Common Mode failures, Safety Instrumented Function, 
+Safety Instrumented System, Safety Integrity Level, Systematic 
+Capability, Probability of Failure on Demand (PFD), Probability of 
+Failure per Hour (PFH), Process Safety Time (PST). 
+ 
+ 
+ 
+ 
+8 
+
+ 
+ 
+ 
+ 
+2 
+IEC 61511 General Principles, Risk reduction and layers of 
+protection, Evacuation Procedures Internal Emergency Plan (IEP), 
+Emergency Services External Emergency Plan (EEP), SIS Safety 
+life-cycle phases, Risk Assessment methods, Risk Reduction Factor, 
+Tolerable risk, Inductive and Deductive approaches, HAZOP, Bow 
+Tie Method, Prevention safeguard and Protection safeguard, Exercise 
+on HAZOP and Bow Tie. Allocation of Safety functions to the protection 
+layer, Low demand Mode, High Demand mode, Continuous Mode, 
+Determination of SIL for every SIF, Risk assessment Matrix, SIL 
+Allocation/Determination of SIF using Risk graph and LOPA Method, 
+Exercise on QRA. 
+ 
+ 
+8 
+ 
+ 
+ 
+ 
+ 
+3 
+SIS Safety Requirement Specifications, Independency of the 
+protective layers, Demand rate and operational modes, SIF structure 
+redundancies, Workshop reliability and acceptable level of spurious 
+trip. Design and realization of SIS, SIS Safety plan, Verification and 
+validation plan, Safety requirement specification, SIS Failure 
+Management, Failure types, Fail-Safe Failures, Dangerous failures, 
+Safe Failure Fraction, Hardware Fault Tolerance (HFT), Prior in use 
+requirements, Analysis and Fault detection – Basic Architecture,
+Choice safety, Choice availability, Mixed choice. 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+PFD Calculation, Failure Rate of Electronic and Mechanical 
+components, MTTF, MTDF, MRT, MTTR, MTBF, PFD of SIF, 
+Reliability block diagram, Series and parallel System. Formula for 
+PFD and PFH, Operating or system software, Utility Software, 
+Application software, Software Safety lifecycle: V Cycle, Software 
+design Documentation, Installation and validation, Nominal Tests, 
+Outside Limit tests, Performance tests, Interface tests, Operation and 
+Maintenance of SIS, Proof tests, Impact of periodic tests, Test 
+Coverage/depth, Importance of test depth in PFD Calculation, 
+Bypass Management, Process demand, Trip test, Spurious trip, 
+Failures and process states, Decommissioning, Verification and
+audits, Functional Safety Assessment (FSA), Independence Level 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+
+ 
+ 
+ 
+ 
+Course Assessment 
+Method (CIE: 40 marks, 
+ESE: 60 marks) 
+ 
+ 
+ 
+Attendance 
+ 
+ 
+Assignment 
+ 
+Internal 
+Examination-1 
+(Written) 
+ 
+Internal 
+Examination- 2 
+(Written ) 
+ 
+ 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose 
+any one full question out of two questions 
+ 
+Part A 
+Part B 
+Total
+ 2 Questions from 
+each module. 
+ Total of 8 Questions, 
+each carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks. 
+ Two questions will be given from each module, 
+out of which 1 question should be answered. 
+ Each question can have a maximum of 3 
+sub divisions. 
+(4x9 = 36 marks)
+ 
+ 
+ 
+ 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to: 
+ 
+ 
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand and apply functional safety standards (IEC 61508,
+ISO 26262, IEC 61511) to E/E/PE systems.
+K3 
+CO2 
+Perform risk assessments and determine Safety Integrity Levels
+(SIL) using HAZOP, Bow Tie, and LOPA methods.
+K2 
+CO3 
+Design and specify requirements for Safety Instrumented
+Systems (SIS) with redundancy and failure management.
+K2 
+CO4 
+Calculate 
+safety 
+metrics 
+(PFD, 
+PFH) 
+and 
+conduct
+verification, validation, and maintenance of SIS.
+K2 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+
+ 
+ 
+CO-PO Mapping Table: 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 
+PO11 
+PO12
+CO1 
+3 
+3 
+2 
+2 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+3 
+3 
+3 
+2 
+2 
+3 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+3 
+3 
+3 
+3 
+2 
+3 
+2 
+ 
+ 
+2 
+2 
+CO4 
+3 
+3 
+3 
+3 
+3 
+2 
+3 
+2 
+ 
+ 
+2 
+3 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+ 
+1 
+ 
+Safety Critical Systems Handbook 
+David J Smith 
+Kenneth GL 
+Simpson 
+Butterworth- 
+Heinemann 
+ 
+2011 
+ 
+2 
+IS/IEC 61511 Functional Safety —
+Safety Instrumented Systems For 
+The Process Industry Sector 
+ 
+- 
+ 
+Indian Standard 
+ 
+2003 
+ 
+3 
+Fundamentals of Industrial 
+Instrumentation and Process 
+Control, 2nd Edition 
+ 
+William C. Dunn 
+McGraw-Hill 
+Education 
+ 
+2018 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Reliability Engineering, 
+Srinath L.S. 
+Affiliated East-West
+Press, New Delhi. 
+2005 
+2 
+Reliability Engineering, 
+Rao S.S 
+Pearson Education.
+2014 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://www.youtube.com/watch?v=ryuJTOUFXjU 
+2 
+https://www.youtube.com/watch?v=loXgscmKcc4 
+3-4 
+https://www.youtube.com/watch?v=z_cZz7avHO8 
+ 
+
+ 
+ 
+SEMESTER S6 
+CHEMICAL PROCESS SAFETY

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Morphology of design: Sequential and concurrent engineering,\nmanufacturing planning and control, manufacturing models, elements of\nCAD and CAM, CAD/CAM integration, CAD/CAM data bases and\nsystem architecture, requirements of CAD/CAM Packages.\nTransformations:\nGeometric\nand\nviewing\ntransformation,\nbasic\ntransformation   matrices- translation, rotation, scaling etc.\nGeometric modelling: Mathematical representation of curves, parametric\nrepresentation of analytical and synthetic curves,  parametric equations-\ncircle, ellipse, parabola, synthetic curves, geometric construction of\ncurves, control point and weights.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Wireframe modelling: Introduction to transformation of geometric\nmodels, visual realism, surface modelling- Bezier and B-spline surfaces.\nsolid modelling techniques: Boundary representation, constructive solid\ngeometry,\nanalytical\nsolid\nmodelling,\ndesign\nand\nengineering\napplications.\nStandards for computer graphics: Standards for exchange images,  data\nexchange standards- DFX, IGES, STEP, digital imaging and\ncommunication in medicine, STL conversion for additive manufacturing,\nintroduction to reverse Engineering.",
+    "contact_hours": "10"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Introduction to NC systems and CNC: Machine axis and coordinate\nsystem, CNC machine tools, principle of operation CNC.\nCNC Part programming: fundamentals, machine origin, program origin,\npart origin, setting up of origin- absolute and incremental programming,\npreparatory codes and miscellaneous codes, detailed manual part\nprogramming for turning & milling operations using G codes and M\ncodes, canned cycles and subroutines, cutting cycles, loops, sub program\nand macros, tool radius compensation CNC programming with interactive\ngraphics, introduction of CAM packages.",
+    "contact_hours": "12"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Engineering analysis of solid models: Use of CAE in product\ndevelopment, discretization methods- FEM, FDM and FVM, CAE tools,\nbasic steps in CAE.\nElement shapes: Nodes, nodal unknowns, coordinates systems, global\ncoordinates, local coordinates: natural coordinates, shape functions,\nconvergence requirement of shape functions, derivation of the shape\nfunctions using polynomials, numerical enumeration using 2 noded spring\nand bar elements\nComputer\naided\ndesign\noptimization:\nIntroduction to\ntopology\noptimization, role of AI and ML in design optimization, generative design\n-overview of popular CAE software used in industry .\nSuggestion on Project Topics:\n● Solid modelling of consumer products using commercial CAD software.\n● Experiment on CAD Customization (E.g., modelling of a customizable phone case).\n● Familiarise with the reverse engineering procedures to develop required CAD models.\n● Obtain 3D printable STL files from the DICOM model.\n● Develop a CAM program to manufacture a complex part using CNC machining (E.g., a\nturbine blade).\n● Evaluate the structural and mechanical integrity using CAE software.\n● Compare the thermal performance of two different heat sinks using CAE software.\n● Weight reduction of an existing design of an engineering component.",
+    "contact_hours": "12"
+  }
+]

@@ -1,0 +1,287 @@
+Course Code 
+PECPT862 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3: 0: 0: 0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+ 
+Course Type 
+Theory 
+Course Objectives: 
+1. To provide students with a thorough understanding of the basic principles and concepts of 
+networked control systems (NCS). 
+2. To develop the ability to model, analyze, and design networked control systems, including 
+switched feedback control and boundary control for damped wave equations. 
+3. To teach students how to integrate various components of NCS, including sensors, actuators, 
+and communication networks, and address implementation challenges. 
+4. To introduce concepts of robust control design, including the synthesis of strictly positive real 
+(SPR) transfer functions and ensuring system stability and robustness 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Overview of Networked Control Systems: Introduction- Advantages and 
+Applications of Control over Network, Brief History of Research Field of 
+NCS, NCS Categories and NCS Components - NCS Components, 
+Information Acquisition in a Network, Control of Actuators over a Network, 
+Communication, NCS Challenges and Solutions - Integration of Components 
+and Distribution of Intelligence 
+9 
+2 
+Overview of Agent-based Control and Management for NCS: 
+Introduction, From Electricity to Connectivity: Why Agent-based Control 
+and Management for Networked Systems, Hosting Mechanism and System 
+Architecture for ABC, Design Principle for Networked Control Systems: 
+Local Simple, Remote Complex (LSRC), Modular Construction and 
+Learning Algorithms of Neuro-fuzzy Networks for LSRC Implementation, 
+Issues in Software, Middleware, and Hardware Platforms, Real-world 
+Applications. 
+9 
+
+ 
+ 
+3 
+Switched Feedback Control for Wireless Networked Systems: 
+Mathematical Modeling of NCS as a Switched System, Optimal Output 
+Feedback Control - Gain Tuning of Output Feedback Parameter, Stability 
+Investigation. 
+Networked Boundary Control of Damped Wave Equations: A Brief 
+Introduction to the Smith Predictor, Boundary Control of Damped Wave 
+Equations with Large Delays, Stability and Robustness Analysis, Fractional 
+Order Case – Problem Formulation, Robustness of Boundary Stabilization, 
+Compensation of Large Delays in Boundary Measurement. 
+9 
+4 
+ Design of Robust Strictly Positive Real Transfer Functions:  Definitions 
+and Notation, Some Properties of SPR (WSPR) Regions, Characterization of 
+SPR (WSPR) Regions, Robust SPR Synthesis: Intersection of WSPR 
+Regions, Applications to Robust SPR Synthesis for Low-order Systems - 
+The Third-order SPR Synthesis, The Fourth-order SPR Synthesis 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total 
+ 
+2 Questions from each 
+module.  
+ 
+Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ 
+Each question carries 9 marks.  
+ 
+Two questions will be given from each module, 
+out of which 1 question should be answered.  
+ 
+Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the basic concepts, advantages, challenges and solutions in 
+integrating components of NCS 
+K2 
+CO2 
+Develop mathematical models, analyze stability, and design controllers 
+for networked control systems, including handling challenges such as 
+delays and packet loss. 
+K3 
+CO3 
+Utilize sensors, controllers, and actuators in a networked environment, 
+addressing issues related to communication, latency, and reliability. 
+K3 
+CO4 
+Apply robust control design techniques, including the synthesis of 
+strictly positive real (SPR) transfer functions, to ensure system stability 
+and robustness. 
+K3 
+CO5 
+Apply networked control systems in various industrial applications, 
+demonstrating the ability to implement solutions in real-world 
+scenarios 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table: 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Networked Control Systems 
+Theory and Applications 
+Fei-Yue Wang, Derong 
+Liu 
+Springer 
+1/e, 2008 
+2 
+Networked Control Systems: 
+Theory, Applications and 
+Analysis 
+Shiwen Tong,  Dianwei 
+Qian 
+Nova 
+2021 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+2 
+2 
+1 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+CO2 
+3 
+3 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+CO3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO4 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO5 
+3 
+2 
+3 
+3 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Networked Control Systems 
+with Their Application in 
+Industry  
+Geng Liang, Wen Li, 
+Guoping Liu 
+Nova Science Pub Inc 
+1/e, 2018 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 - 4 
+https://youtu.be/FVmQbfsOkGc 
+
+ 
+ 
+SEMESTER S8 
+ADVANCED CYBERSECURITY STRATEGIES FOR CPS

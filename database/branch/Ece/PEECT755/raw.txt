@@ -1,0 +1,407 @@
+Course Code 
+PEECT755 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+5/3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Solid State Devices, 
+Network Theory
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To gain indepth knowledge about analysis and design of various analog and digital CMOS 
+circuits  
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+CMOS Amplifiers 
+MOS small signal model: 
+CMOS Amplifiers: Common source amplifier with resistive and 
+active loads, Common source amplifier with source degeneration, 
+Common gate and Common drain amplifier (only voltage gain and 
+input and output impedances of the circuits). 
+Cascode Amplifier: Cascoded amplifier with cascade loads  Folded 
+cascode Amplifier. 
+9 
+2 
+CMOS 
+Differential 
+Amplifiers
+MOS Current Mirror: Basic circuit, PMOS and NMOS current 
+mirrors 
+Simple 
+and 
+Cascode 
+current 
+mirror 
+circuits.
+CMOS Differential Amplifier: Differential Amplifier with resistive, 
+current source and  current mirror loads, MOS telescopic cascode 
+amplifier  (only voltage gain and input and output impedance of the 
+circuits) 
+9 
+3 
+CMOS Operational Amplifier Two Stage Operational Amplifiers 
+Frequency compensation of OPAMPS Miller compensation. 
+Band 
+gap 
+References- 
+Supply 
+Independent 
+Biasing,
+Temperature independent references –band gap reference 
+9 
+
+ 
+ 
+4 
+Data Converters: DAC specifications, ADC specifications 
+DAC Architecture - Resistor String, R-2R Ladder Networks, Current 
+Steering, 
+Charge 
+Scaling, 
+cyclic 
+and 
+Pipeline 
+types.
+ADC Architecture- Flash type, The Successive approximation type and 
+oversampling ADCs. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Internal Ex 
+Evaluate 
+Analyse 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+ 
+Criteria for Evaluation (Evaluate and Analyse): 20 marks 
+Evaluation Methods: 
+ 
+1. Experiments Using Design and Analysis Tools: (10 marks) 
+ 
+Students can perform specific experiments using tools QUCS, KiCad or PSPICE or 
+LT Spice or CADENCE  etc. 
+Each experiment can focus on designing and simulating different types of circuits  
+ 
+2. Course Project: 
+Comprehensive project involving design, modeling, and analysis of a Mixed Signal 
+Circuit. (10 marks) 
+Project phases: Proposal, Design, Implementation, Testing, Final Report.Presentations 
+and Viva Voce: 
+Students present their projects and experiments, explaining design choices, 
+methodologies, and results. 
+Viva voce to assess understanding and ability to answer related questions. 
+ 
+The following topics may be identified for Assignments/ Miniproject 
+
+ 
+ 
+ 
+1. Simulation of a MOSFET Amplifier Circuits 
+2. Simulation of a Differential Amplifier Circuits 
+3. Design and Simulation of OPAMP 
+4. Design and Simulation of ADCs, DACs 
+ 
+Criteria for Evaluation: Experiments (10 marks) 
+ 
+1. Understanding of Concepts (3 marks) 
+a. Demonstrates a clear understanding of the theoretical concepts related to the 
+experiment. 
+b. Correctly explains the purpose and expected outcomes of the experiment. 
+2. Implementation and Accuracy (3 marks) 
+a. Correctly implements the design using appropriate tools. 
+b. The design functions as expected without errors. 
+3. Analysis and Problem-Solving (2 marks) 
+a. Effectively analyse the design to identify and resolve issues. 
+b. Demonstrates problem-solving skills in addressing any encountered 
+challenges. 
+4. Documentation and Reporting (1 mark) 
+a. Provides clear and concise documentation of the steps and processes followed. 
+b. The report includes diagrams, code snippets, and simulation results. 
+5. Presentation and Communication (1 mark) 
+a. Clearly presents the experiment and its results. 
+b. Able to answer questions and explain the design choices. 
+ 
+Criteria for Evaluation: Course Project (10 marks) 
+ 
+1. Project Proposal and Planning (2 marks) 
+a. Submits a well-defined project proposal outlining objectives, methodology, 
+and expected outcomes. 
+b. Demonstrates thorough planning and a clear timeline for the project. 
+2. Design and Implementation (3 marks) 
+a. Implements the project design accurately using appropriate tools and 
+
+ 
+ 
+techniques. 
+b. The design is functional and meets the project objectives. 
+3. Innovation and Creativity (2 marks) 
+a. Introduces innovative ideas or unique approaches in the design and 
+implementation. 
+b. Demonstrates creativity in solving problems or optimizing designs. 
+4. Analysis and Testing (2 marks) 
+a. Effectively analyzes the project design to identify and address any issues. 
+b. Conducts thorough testing to verify the functionality and performance of the 
+design. 
+5. Final Report and Presentation (1 mark) 
+a. Submits a comprehensive final report detailing the project, including 
+objectives, design, methodology, analysis, and results. 
+b. Clearly presents the project and its outcomes, and effectively communicates 
+the key points. 
+ 
+ 
+End Semester Examination Marks (ESE): 
+ 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+ 
+Part A 
+Part B 
+Total 
+● 2 Questions from each 
+module. 
+● Total of 8 Questions, 
+each carrying 3 marks 
+(8x3 =24marks) 
+2 questions will be given from each module, out of 
+which 1 question should be answered. Each 
+question can have a maximum of 3 sub divisions. 
+Each question carries 9 marks. 
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Analyze the effect of  different types of loads on the performance of 
+various MOS Amplifiers  
+K4 
+CO2 
+Apply the knowledge of amplifiers in the design of two stage OPAMP  
+K3 
+CO3 
+Demonstrate the concept of frequency  compensation in OPAMP 
+K3 
+CO4 
+Implement various types of data converter circuits 
+K3 
+CO5 
+Design and Implement amplifiers, OPAMPs, ADCs, DACs etc. with 
+given specifications 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+ Design 
+of Analog CMOS 
+Integrated Circuits 
+Behzad Razavi 
+McGraw-Hill 
+2/e, 2002 
+2 
+CMOS: 
+Circuits 
+Design, 
+Layout and Simulation,  
+Baker, Li, Boyce, 
+Prentice Hall India, 
+ 
+2000 
+3 
+Microelectronic Circuits  
+Sedra & Smith 
+ Oxford University Press 
+6/e,2017 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO1
+0
+PO1
+1
+PO1
+2
+CO1 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO3 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO5 
+3 
+2 
+2 
+ 
+2 
+ 
+ 
+ 
+ 
+3 
+2 
+3 
+
+ 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+CMOS Analog Circuit Design,  
+Phillip E. Allen, Douglas 
+R. Holbery 
+ Oxford University 
+Press  
+3/e 
+2 
+Fundamentals 
+of 
+Microelectronics 
+Behzad Razavi 
+Wiley student Edition 
+2014 
+3 
+ Analysis and Design of Analog 
+Integrated Circuits 
+Meyer Gray , Hurst, 
+Lewis 
+Wiley  
+5/e, 2009 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+www.youtube.com/@b_razavi,  www.youtube.com/@analogicdesign-iitm5234 
+2 
+www.youtube.com/@b_razavi,  www.youtube.com/@analogicdesign-iitm5234 
+3 
+www.youtube.com/@b_razavi,  www.youtube.com/@analogicdesign-iitm5234 
+4 
+Switching Circuits and Logic Design by Prof. Indranil Sengupta Lectures 47-51 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S7 
+OPTICAL COMMUNICATION

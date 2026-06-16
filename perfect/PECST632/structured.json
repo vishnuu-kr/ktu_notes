@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Neural Networks Multilayer Perceptron",
+            "Back-propagation algorithm and its variants Stochastic gradient descent",
+            "Curse of Dimensionality",
+            "Deep feedforward networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "RELU",
+            "LRELU",
+            "ERELU",
+            "Unsupervised Training of Neural Networks",
+            "Restricted Boltzmann Machines",
+            "Auto Encoders",
+            "Deep Learning Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "ResNet",
+            "Alexnet - Applications. Recurrent Neural Networks",
+            "Bidirectional RNNs",
+            "Encoder - decoder sequence to sequence architectures - BPTT for training RNN",
+            "Long Short Term Memory Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Computer Vision - Speech Recognition - Natural language Processing",
+            "Case studies in classification",
+            "Regression and deep networks. Regularized Autoencoder",
+            "stochastic Encoders and Decoders",
+            "Contractive Encoders. GAN and its variants"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

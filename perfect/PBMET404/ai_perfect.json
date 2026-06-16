@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Concepts of Kinematics and Dynamics",
+            "Mechanisms and Machines",
+            "Planar and Spatial Mechanisms",
+            "Degrees of Freedom",
+            "Mobility Analysis - Kutzbach and Grubler's Criterion",
+            "Grashof's Criterion",
+            "Kinematic Pairs",
+            "Kinematic Chains",
+            "Kinematic Diagrams",
+            "Kinematic Inversion",
+            "Four Bar Chain",
+            "Slider Crank Mechanisms",
+            "Double Slider Crank Mechanisms and Their Inversions",
+            "Exact Straight Line Motion Mechanisms - Peaucellier Mechanism",
+            "Approximate Straight Line Motion Mechanisms - Hart's Mechanism, Watt's Mechanism",
+            "Steering Gear Mechanism - Davis Steering Gear, Ackermann's Steering Gear"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Velocity Analysis of Mechanisms (Up to Six Links)",
+            "Relative Motion and Relative Velocity",
+            "Instantaneous Centre - Kennedy's Theorem - Velocity Analysis Using Instantaneous Centre",
+            "Acceleration Analysis - Relative Acceleration, Coriolis Acceleration",
+            "Crank and Slotted Lever and Whitworth Quick Return Mechanism"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Kinematic Synthesis (Planar Mechanisms) - Type, Number and Dimensional Synthesis - Definitions of Motion",
+            "Path and Function Generation",
+            "Precision Points",
+            "Chebychev Spacing",
+            "Freudenstein's Equation",
+            "Cams - Types of Cam and Followers - Displacement Diagrams",
+            "Velocity and Acceleration Analysis of SHM, Uniform Velocity, Uniform Acceleration, Cycloidal Motion",
+            "Graphical Cam Profile Synthesis - Knife Edge and Roller Follower with and without Offset"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Gears - Classification - Terminology of Spur, Helical, Bevel, and Worm Gear",
+            "Law of Gearing - Tooth Profiles - Path of Contact - Arc of Contact - Contact Ratio",
+            "Interference - Minimum Number of Teeth to Avoid Interference - Undercut - Backlash",
+            "Gear Trains - Simple and Compound Gear Trains - Planetary Gear Trains",
+            "Tabulation Method",
+            "Suggestion on Project Topics - Students should be given projects which may include development of computer codes of analytical methods, computer models and computer aided simulations, and development of functioning prototype of various mechanisms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

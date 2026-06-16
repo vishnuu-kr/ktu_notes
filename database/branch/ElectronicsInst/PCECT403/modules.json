@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Differential Amplifiers: Differential amplifier configurations using BJT,\nDC Analysis - transfer characteristics; AC analysis - differential and\ncommon mode gains, CMRR, input and output resistance, voltage gain,\nconstant current bias, constant current source.\nConcept of current mirror: two-transistor current mirror, Wilson and\nWidlar current mirrors.\nOperational amplifiers (Op Amps): The 741 Op Amp, Block diagram,\nIdeal Op Amp parameters, typical parameter values for 741, equivalent\ncircuit, open loop configurations, voltage transfer curve, frequency response\ncurve.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Op Amp with negative feedback: General concept of Voltage Series,\nVoltage Shunt, Current Series and Current Shunt negative feedback, Op\nAmp circuits with Voltage Series and Voltage Shunt feedback, Virtual\nground concept.Analysis of inverting and non-inverting amplifier for\nclosed loop gain, Input Resistance and Output Resistance.\nOp Amp applications: Summer, Voltage Follower, Differential and\nInstrumentation Amplifiers, Voltage to Current and Current to Voltage\nconverters, Integrator, Differentiator, Precision Rectifiers, Comparators,\nSchmitt Triggers, Log and Antilog amplifiers.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Oscillators and Multivibrators: Phase Shift and Wien-bridge Oscillators,\nTriangular and Sawtooth waveform generators, Astable and Monostable\nmultivibrators.\nActive filters: Comparison with passive filters, First and Second order\nLow pass, High pass, Band pass and Band Reject active filters, State\nVariable filters.\nVoltage Regulators: Fixed and Adjustable voltage regulators, IC 723 –\nLow voltage and High voltage configurations, Current boosting, Current\nlimiting, Short circuit and Fold-back protection.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Timer and VCO: Timer IC 555 - Functional diagram, Astable and\nmonostable operations, Basic concepts of Voltage Controlled Oscillator\nand application of VCO IC LM566.\nPhase Locked Loop:  Basic building block, Operation, Closed loop\nanalysis, Lock and capture range, Applications of PLL, PLL IC565.\nData Converters: Digital to Analog converters, Specifications, Weighted\nresistor type and R-2R Ladder type. Analog to Digital Converters:\nSpecifications, Flash type and Successive approximation type.",
+    "contact_hours": "11"
+  }
+]

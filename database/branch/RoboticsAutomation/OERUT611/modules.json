@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Definitions- Robots, Robotics; Types of Robots- Manipulators, Mobile\nRobots-wheeled & Legged Robots, Aerial Robots; Anatomy of a robotic\nmanipulator-links, joints, actuators, sensors, controller; open kinematic vs\nclosed kinematic chain; degrees of freedom; Robot considerations for an\napplication- number of axes, work volume, capacity & speed, stroke &reach,\nRepeatability, Precision and Accuracy, Operating environment, point to\npoint control or continuous path control. Robot Applications- medical,\nmining, space, defense, security, domestic, entertainment, Industrial\nApplications-Material handling, welding, Spray painting, Machining.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Sensors and Actuators\nSensor classification- touch, force, proximity, vision sensors. Internal\nsensors-Position sensors, velocity sensors, acceleration sensors, Force\nsensors; External sensors-contact type, noncontact type; Vision - Elements of\nvision sensor, image acquisition, image processing; Selection of sensors.\nActuators for robots- classification-Electric, Hydraulic, Pneumatic actuators;\ntheir advantages and disadvantages; Electric actuators- Stepper motors, DC\nmotors, DC servo motors and their drivers, AC motors, Linear actuators,\nselection of motors; Hydraulic actuators- Components and typical circuit,\nadvantages and disadvantages; Pneumatic Actuators- Components and\ntypical circuit, advantages and disadvantages.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Robotic configurations and end effectors\nRobot configurations-PPP, RPP, RRP, RRR; features of SCARA, PUMA\nRobots; Classification of robots based on motion control methods and drive\ntechnologies; 3R concurrent wrist; Classification of End effectors -\nmechanical grippers, special tools, Magnetic grippers, Vacuum grippers,\nadhesive grippers, Active and passive grippers, selection and design\nconsiderations of grippers in robot.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Kinematics and Motion Planning\nRobot Coordinate Systems- Fundamental and composite rotations,\nhomogeneous co-ordinates and transformations, Kinematic parameters, D-H\nrepresentation, Direct Kinematics. The Arm equation forward Kinematic\nanalysis of a typical robots up to 3 DOF. Motion Planning- joint space\ntrajectory planning-cubic polynomial, linear trajectory with parabolic blends;\nCartesian space planning, Point to point vs continuous path planning.",
+    "contact_hours": "9"
+  }
+]

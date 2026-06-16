@@ -1,0 +1,366 @@
+Course Code 
+PEEBT522 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2.30 
+Prerequisites (if any) 
+PBEBT 404 
+Course Type 
+Theory 
+Course Objectives: 
+1. Students will acquire an understanding of basic architecture of advanced microprocessors and 
+microcontrollers for system development. 
+2. Students will be able to design and develop microprocessor & controller-based solution for 
+solving real world problems. 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+8086 Microprocessor: Register organization – Architecture- Physical 
+memory organization & segmentation-Signal descriptions of 8086 chip – 
+General bus operation – Addressing capability- Assembler directives -
+Addressing Modes - Introduction to Stack, Interrupts & Interrupt service 
+routines, Minimum and Maximum mode 8086 system operation. 
+9 
+2 
+80386 Microprocessor: Salient features of 80386 DX -Architecture and 
+Signal Description- Register Organization-Memory addressing in Real 
+Address mode, Protected mode, Segmentation, Paging & Virtual modes. 
+Pentium - General features, pipelining and super scalar architecture. 
+Introduction to multicore processors: Concept of multi core processing - 
+Homogeneous and heterogeneous multicore processors -- Major issues in 
+multicore processing - Internal architecture of Intel Core2 Duo (Simple block 
+diagram representation only) - Technological features of IA processors. 
+9 
+3 
+High performance RISC ARM architecture:  ARM Processor 
+Fundamentals- ARM architecture - ARM7TDMI programmer’s model (basic 
+level only)- Memory format – Embedded Applications. ARM based SoC- 
+General features- Basic system-on-chip (SoC) architecture- System level 
+interconnection – Memory organisation- SoC design approach.  
+(Class Assignment/Seminar topics: SoC Interconnect Customization and 
+9 
+
+ 
+ 
+Configuration, Trade-off analysis on reconfigurable Parallelism, Case 
+studies on design approach) 
+Introduction 
+to 
+high 
+performance 
+computing- 
+GPU 
+hardware 
+architecture- Comparison with CPU – GPU programming mode- GPU in 
+Radiation imaging.  
+4 
+Introduction to ESP32 Microcontroller: Features of ESP32 development 
+board – Architecture - Pin configuration – ESP32 v/s Arduino – 
+Programming of ESP32 with Arduino IDE (only basic level). Introduction 
+to STM32: Fundamentals of 32 -bit STM controllers – Architecture - STM 
+boot modes - Interfacing of STM32 with stepper motor and 7 segment 
+display. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A
+Part B
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand the fundamentals of 8086 microprocessor architecture 
+K2 
+CO2 
+Demonstrate the features of advanced microprocessors. 
+K3 
+CO3 
+Describe the functions of the high-performance RISC architecture. 
+K4 
+CO4 
+Familiarize the basic features of GPUs. 
+K2 
+CO5 
+Describe the basic concepts of ESP32 and STM32 microcontroller. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO2 
+3 
+2 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO3 
+3 
+2 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO4 
+3 
+- 
+2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+CO5 
+3 
+3 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Advanced Microprocessors and 
+Peripherals 
+K.M Bhurchandi and A. 
+K Ray 
+Tata Mc Graw -Hill 
+Publishing Company 
+Limited 
+2009 
+2 
+The Pentium Microprocessor 
+James L Antonakos 
+Pearson Education 
+2009 
+3 
+General Purpose Graphic 
+Processor Architectures 
+Tor M. Aamodt, Wilson 
+Wai Lun Fung, Timothy 
+G. Rogers 
+Morgan & Claypool 
+Publishers 
+2018 
+4 
+Exploring Raspberry Pi-
+Interfacing to the Real world 
+with Embedded Linux 
+Derek Molloy 
+Wiley 
+2016 
+5 
+GPU based High Performance 
+Computing in Radiation 
+Therapy 
+Xun Jia, Steve B. Jiang 
+CRC Press 
+2018 
+6 
+Advanced Programming with 
+STM32 microcontrollers 
+Majid Pakdel 
+Elektor Publication 
+2020 
+7 
+ESP32 Formats & 
+Communication: Application 
+of Communication Protocols 
+with ESP32 Microcontroller 
+Neil Cameron 
+Apress 
+2023 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Intel Microprocessors-
+Architecture, Programming and 
+Interfacing 
+Barry B Brey 
+Pearson Prentice Hall, 
+8th Edition 
+2008 
+2 
+ARM System Developers 
+Guide 
+Andrew N SLOSS, 
+Dominic SYMES, Chris 
+WRIGHT 
+Elsevier 
+2012 
+3 
+Microprocessors and 
+Interfacing 
+D. V. Hall 
+MGH, 2nd Edition 
+2006 
+4 
+Microprocessors & 
+Microcontrollers 
+Latha C, Murugeshwari 
+B 
+SCITECH 
+Publications 
+2015 
+5 
+ARM System on Chip 
+Architecture 
+Steve Furber 
+Addison Wesley 
+Professional, 2nd 
+Edition 
+2000 
+6 
+Getting Started with STM32 
+Nucleo Development 
+Agus Kurniawan 
+Agus Kurni 
+2016 
+
+ 
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID  
+1 
+https://nptel.ac.in/courses/108/105/108105102/ 
+2 
+https://onlinecourses.nptel.ac.in/noc23_cs113/ 
+3 
+https://onlinecourses.nptel.ac.in/noc21_cs09/ 
+4 
+https://onlinecourses.swayam2.ac.in/aic20_sp04 
+
+ 
+ 
+SEMESTER S5 
+INTRODUCTION TO BIONANOTECHNOLOGY

@@ -1,0 +1,22 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Design and implement a lexical analyzer using C language to recognize all valid tokens in the input program, ignoring redundant spaces, tabs, newlines, and comments",
+            "Write a lex program to display the number of lines, words, and characters in an input text",
+            "Generate a YACC specification to recognize a valid arithmetic expression that uses operators and parenthesis",
+            "Implementation of Calculator using LEX and YACC",
+            "Convert the BNF rules into YACC form and write code to generate abstract syntax tree",
+            "Write a program to find First and Follow of any given grammar",
+            "Design and implement a recursive descent parser for a given grammar",
+            "Construct a Shift Reduce Parser for a given language",
+            "Write a program to perform constant propagation",
+            "Implement Intermediate code generation for simple expressions",
+            "Implement the back end of the compiler which takes the three address code and produces assembly language instructions that can be assembled and run using a corresponding assembler, including simple move and jump instructions",
+            "Instantiation of VMs with image file using open-source hypervisors or public cloud platforms",
+            "Virtual machine Cluster set up using open-source hypervisors or public cloud platforms",
+            "Setting host name for virtual machine nodes in cluster and ssh set up for remote login",
+            "Copy a file from one virtual machine to another virtual machine"
+        ]
+    }
+]

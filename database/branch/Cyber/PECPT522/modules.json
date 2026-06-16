@@ -1,0 +1,14 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Introduction to computer communication: Transmission modes - serial\nand parallel transmission, asynchronous, synchronous, simplex, half duplex,\nfull duplex communication.\nSwitching: circuit switching and packet switching Networks: Network\ncriteria, physical structures, network models, categories of networks,\nInterconnection of Networks: Internetwork\nNetwork models: Layered tasks, OSI model, Layers in OSI model,\nTCP/IP protocol suite.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Physical Layer: Guided and unguided transmission media\n(Coaxial cable, UTP,STP, Fiber optic cable)\nData Link Layer: Framing, Flow control (stop and wait , sliding\nwindow flow control)\nError control, Error detection( check sum, CRC), Bit stuffing,HDLC\nMedia access control: Ethernet (802.3), CSMA/CD, Logical link\ncontrol, Wireless LAN (802.11), CSMA/CA.",
+    "contact_hours": "9"
+  }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Estimation and Stochastic process-basics",
+            "Basic kinds of estimation, linear filter structures with finite and infinite memory, approaches for developing linear adaptive filters, applications. Discrete time Stochastic process-characterisation, mean ergodic theorem, correlation matrix-definition, properties, correlation matrix of sine wave plus noise, stochastic models- AR, MA, ARMA, Wold decomposition, complex gaussian processes, power spectral desnsity-properties and estimation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Linear optimum filtering",
+            "principle of orthogonality",
+            "minimum mean square error",
+            "Wiener Hopf equation The steepest descent algorithm- basic ideas and stability consideration",
+            "application to wiener filtering",
+            "advantages and limitations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Least mean square (LMS) algorithm",
+            "Signal flow graph, convergence of LMS algorithm",
+            "optimality considerations, applications. normalized LMS algorithm, affine projection adaptive filters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Limitations of LMS algorithm",
+            "formulation of recursive least squares (RLS) based adaptive filters",
+            "matrix inversion lemma",
+            "exponentially weighted RLS algorithm",
+            "single-weight adaptive noise canceller. Kalman filtering-recursive minimum mean square estimation",
+            "statement of kalman filtering problem",
+            "Innovations process",
+            "filtering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

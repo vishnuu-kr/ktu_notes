@@ -1,0 +1,345 @@
+Course Code 
+PECCT743 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:0:0:0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+Basic Understanding of 
+big Data 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide an understanding of the security challenges associated with Big Data systems. 
+2. To impart knowledge on securing Big Data environments using various techniques and 
+frameworks. 
+3. To explore privacy-preserving mechanisms and compliance with legal regulations in Big Data. 
+4. To equip students with skills to identify and mitigate threats and vulnerabilities in Big Data. 
+ 
+SYLLABUS 
+Module 
+No. 
+Syllabus Description 
+Contact 
+Hours 
+1 
+Introduction to Big Data: 
+Definition and characteristics: Volume, Velocity, Variety, Veracity, and 
+Value, Importance of Big Data in modern industries, Security Challenges in 
+Big Data:- Data breaches, privacy concerns, and compliance issues ,The CIA 
+triad in the context of Big Data. 
+Big Data Architecture: Hadoop ecosystem: HDFS, Map Reduce, YARN, 
+Apache Spark: Resilient Distributed Datasets (RDDs) and Data Frames, 
+NoSQL databases: Cassandra, MongoDB. 
+ Case Studies: 
+Real-world examples of Big Data security breaches and their implications. 
+8 
+2 
+Security Mechanisms: 
+Authentication and Authorization: Kerberos, LDAP, 
+ Access Control Frameworks: Apache Ranger, Apache Sentry, Data 
+Encryption: AES, RSA, SSL/TLS for data in transit and at rest. 
+8 
+
+ 
+ 
+Data Privacy Issues -Overview of data privacy in Big Data: PII, sensitive data, 
+and business data. 
+Anonymization Techniques: - Techniques like k-anonymity, l-diversity, t-
+closeness, Differential Privacy: -Concept, mechanisms, and applications. 
+3 
+Legal and Compliance Frameworks:- Overview of GDPR, CCPA, HIPAA, 
+and their implications for Big Data, 
+Threat Landscape: - Common threats: Insider threats, APTs, ransomware, and 
+DDoS attacks in Big Data. 
+ Vulnerabilities:   - Vulnerabilities in distributed frameworks: Hadoop, Spark, 
+and NoSQL databases, Security flaws in data aggregation and integration 
+processes. 
+Case studies on compliance challenges and solutions. 
+10 
+4 
+Risk Management - Risk assessment frameworks and tools specific to Big 
+Data, Threat modelling: STRIDE, DREAD models for Big Data systems. 
+Security Best Practices: - Data masking, tokenization, and maintaining audit 
+trails, Secure coding practices for Big Data applications. 
+Security Monitoring and Incident Response:- Security Information and Event 
+Management (SIEM) for Big Data, Incident response strategies for Big Data 
+breaches 
+ 10 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written ) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Understand and articulate the key characteristics of Big Data and athe 
+security challenges, including the CIA triad, within Big Data 
+architectures like Hadoop and Apache Spark. 
+K2 
+CO2 
+Understand security mechanisms such as authentication, authorization, 
+encryption, and anonymization techniques to protect sensitive data 
+within Big Data environments  
+K2 
+CO3 
+Understand the implications of major legal frameworks (e.g., GDPR, 
+CCPA, HIPAA) on Big Data, identifying common threats and 
+vulnerabilities in distributed systems. 
+K2 
+CO4 
+ Develop and implement risk management strategies, including threat 
+modelling and security best practices, to safeguard Big Data systems and 
+respond effectively to security incidents 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+ 
+ 
+ 
+
+ 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+Text Books 
+Sl. No
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Big Data: Principles and Best 
+Practices of Scalable Real-time 
+Data Systems 
+Nathan Marz and James 
+Warren. 
+Manning Publications 
+1st edition 
+2015 
+2 
+Hadoop Security: Protecting 
+Your Big Data Platform 
+Ben Spivey and Joey 
+Echeverria 
+O’Reilly Media 
+1st edition 
+2015 
+3 
+Big Data Security 
+Hemalatha M, B. K. 
+Tripathy, and L. Sudha. 
+CRC 
+1st edition 
+2021 
+ 
+Reference Books 
+Sl. No
+Title of the Book 
+Name of the 
+Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Security and Privacy in Big Data: 
+Volume 1: Foundations 
+Shui Yu and 
+Xiaodong Lin. 
+Springer 
+1st edition 
+2 
+Data-Intensive Text Processing with 
+MapReduce 
+Jimmy Lin and Chris 
+Dyer 
+Morgan & Claypool 
+1st edition 
+3 
+Privacy-Preserving Data Publishing: 
+Anonymization Models, Algorithms, 
+and Applications 
+Benjamin C. M. 
+Fung, Ke Wang, Ada 
+Wai-Chee Fu, and 
+Philip S. Yu. 
+Chapman and Hall 
+1st edition 
+4 
+Computer Security: Principles and 
+Practice 
+William Stallings 
+and Lawrie Brown 
+Pearson 
+4th edition 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+2 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+CO2 
+3 
+2 
+3 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+CO3 
+3 
+2 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+
+ 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+[Introduction to Big Data (NPTEL)] 
+[Big Data Computing ) 
+2 
+Cloud Computing  
+(NPTEL) 
+3 
+- [Information Security - V (NPTEL)]  
+4 
+[Information Security - IV (NPTEL)]  
+- [Network Security [NPTEL])
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S7 
+SECURITY OPERATIONS ANALYSIS

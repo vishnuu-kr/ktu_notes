@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Fundamentals of Mobile Application Development:\nIntroduction to Mobile Application Development, Overview of Mobile\nPlatforms: iOS and Android, Introduction to Flutter: History, Features, and\nBenefits, Setting Up the Flutter Development Environment*, Mobile App\nArchitectures (MVC, MVVM, and BLoC), Basics of Dart Programming\nLanguage.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "User Interface Design and User Experience:\nPrinciples of Mobile UI/UX Design, Designing Responsive UIs with Flutter,\nUsing Flutter Widgets: StatelessWidget and StatefulWidget, Layouts in Flutter:\nContainer, Column, Row, Stack, Navigation and Routing in Flutter, Customizing\nUI with Themes and Styles.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Advanced Flutter Development:\nState Management in Flutter: Provider, Riverpod, and BLoC\nNetworking in Flutter: HTTP Requests, JSON Parsing, RESTful APIs\nData Persistence: SQLite, SharedPreferences, Hive\nAsynchronous Programming with Dart: Futures, async/await, and Streams",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Industry Practices and App Deployment:\nAdvanced UI Components and Animations, App Security Best Practices, Testing\nand Debugging Flutter Applications, Publishing Apps to Google Play Store and\nApple App Store, Industry Trends and Future of Mobile Development with\nFlutter",
+    "contact_hours": "9"
+  }
+]

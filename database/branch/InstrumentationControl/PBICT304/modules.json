@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Number Systems: Binary, Octal, and Hexadecimal - Representation of\nnegative numbers in binary -binary arithmetic\nBinary Codes: BCD, BCD addition, Excess-3, Gray code. Concept of\nparity Logic Gates: Introduction to logic families. Basic gates and universal\ngates, Realisation of logic gates using transistors and diodes, internal\ndiagram and basic working of TTL NAND and CMOS NOT gates.",
+    "contact_hours": "9"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Minimization Techniques\nBoolean Algebra - Operations, Laws and theorems, De Morgan’s theorems,\nSOP and POS Boolean expressions, truth tables, Karnaugh map (up to 4\nvariables), Minterm and Maxterm expansions, incompletely specified\nfunctions, formation of switching functions from word statement,\nrealization using basic gates and universal gates\nFunctions of combinational logic\nAdders and subtractors, ripple carry adders, BCD adder, binary to gray and\ngray to binary code converters, comparators, multiplexers, demultiplexers,\ndecoders, encoders.",
+    "contact_hours": "13"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Sequential Logic circuits\nLatches – SR Latch. Flip- Flops – SR, JK, D & T Flip Flops – Level &\nEdge triggered flip flops – Synchronous & Asynchronous inputs -\nConversion between flip flops. Master slave flip flops, waveform diagrams\nShift Registers\nSISO, SIPO, PISO, PIPO shift registers, Right & Left shifts, Universal shift\nregisters",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Counters\nAsynchronous counters- Up, Down and Up/ Down counter, Mod n counters\n– Ring counter- Johnson counter. Introduction to design of synchronous\nsequential circuits using Finite State Machines - Mealy & Moore types with\nsingle input-single out problems-design of sequence detectors, synchronous\ncounters and sequence generators",
+    "contact_hours": "11"
+  }
+]

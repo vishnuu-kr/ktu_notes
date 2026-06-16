@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Syndrome",
+            "Error Detection",
+            "Distance Properties of Linear Block Codes",
+            "Single Parity Check Codes",
+            "Hamming Codes",
+            "Reed-Muller Codes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Generator and Parity-Check Matrices of Cyclic Codes",
+            "Encoding of Cyclic Codes",
+            "Syndrome Computation and Error Detection",
+            "Decoding of Cyclic Codes",
+            "Cyclic Hamming Codes",
+            "Shortened Cyclic Codes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Encoding",
+            "State Diagram",
+            "Trellis Diagram",
+            "Classification",
+            "Realization",
+            "Distance Properties of Convolutional Codes, Viterbi Algorithm",
+            "BCJR Algorithm",
+            "Performance Bounds for Convolutional Codes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Turbo Decoding",
+            "Distance Properties of Turbo Codes",
+            "Convergence of Turbo Codes",
+            "Automatic Repeat Request Schemes",
+            "Applications of Linear Codes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

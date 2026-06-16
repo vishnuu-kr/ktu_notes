@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "INTRODUCTION TO DATABASES -Database System Concepts and\nArchitecture- Data Models, Schemas and Instances, Three-Schema\nArchitecture and Data Independence, Database Languages and Interfaces,\nCentralized and Client/Server Architectures for DBMSs.\nCONCEPTUAL DATA MODELLING AND DATABASE DESIGN-\nData Modelling Using the Entity–Relationship (ER) Model -entity Types,\nEntity Sets, Attributes, and Keys, Relationship Types, Relationship Sets,\nRoles, and Structural Constraints, Weak Entity Types. Refining the ER\nDesign for the COMPANY Database",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "THE RELATIONAL DATA MODEL AND SQL - The Relational Data\nModel and Relational Database Constraints-Relational Algebra and\nRelational Calculus - Structured Query Language (SQL)-Data Definition\nLanguage,  Data Manipulation Language,  Assertions, Triggers, views,\nRelational Database Design Using ER-to-Relational Mapping",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "DATABASE DESIGN THEORY AND NORMALIZATION- Functional\nDependencies- Basic definition- Normalization- First, Second and Third\nnormal forms.\nTRANSACTION\nMANAGEMENT\n-\nTransaction\nProcessing\nintroduction-problems and failures in transaction-Desirable properties of\ntransaction-characterizing\nschedules\nbased\non\nrecoverability\nand\nserializabilty Concurrency Control with Two-Phase Locking Techniques-\nDatabase Recovery management: Deferred update-immediate update-\nshadow paging.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "INTRODUCTION TO NOSQL CONCEPTS - types of NoSQL databases-\nCAP Theorem- BASE properties- Use Cases and limitations of NoSQL.\nSQL architectural Patterns-Key value Stores, Graph Stores, Column\nFamily stores and Document Stores.",
+    "contact_hours": "11"
+  }
+]

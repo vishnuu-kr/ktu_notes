@@ -1,0 +1,59 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Network Theorems Review of mesh and node analysis",
+      "Super mesh and Super node Analysis - Analysis of DC and AC circuits containing independent and dependent sources",
+      "Network Theorems - Thevenin’s theorem",
+      "Norton’s theorem",
+      "Superposition theorem",
+      "Reciprocity theorem",
+      "Maximum power transfer theorem. Steady state AC analysis - Application of network theorems to solve AC circuits"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Circuit Analysis through Laplace transform Review of Laplace transform and inverse Laplace transform",
+      "Initial value theorem and Final value theorem (no proof required) - Transformation of circuits into s-domain",
+      "Transient analysis of RL",
+      "RC and RLC circuits through Laplace transform with impulse",
+      "step and sinusoidal inputs (with and without initial conditions",
+      "Analysis of networks with transformed impedance and dependent sources"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Network Functions - Poles & Zeros Network functions of single port and two port networks - Driving point impedance and transfer functions",
+      "Computation of network functions for Ladder and non-Ladder networks",
+      "Poles and zeros of network functions - Significance of poles and zeros",
+      "Properties of driving point and transfer functions",
+      "Necessary conditions for driving point and transfer functions",
+      "Time domain response from pole-zero plot",
+      "Amplitude and phase response from pole-zero plot",
+      "Stability Criteria"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Two Port Network Parameters Two port networks - Impedance",
+      "admittance",
+      "hybrid and transmission parameters - conditions for reciprocity and symmetry",
+      "Inter relationships of different parameters",
+      "Interconnection of two port networks - Series",
+      "Parallel. T and π equivalent of a two-port network",
+      "Image impedance parameter description of a two-port network",
+      "Characteristic impedance and propagation constant of a symmetrical two port network (derivation not required"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

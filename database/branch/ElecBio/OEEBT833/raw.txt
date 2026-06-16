@@ -1,0 +1,300 @@
+Course Code 
+OEEBT833 
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3-0-0-0 
+ESE Marks 
+60 
+Credits 
+3 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+ 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To provide an overview of the nature of human visual perception, the elements of an image-
+processing system which includes sampling, quantisation and two dimensional transforms. 
+2. To make the students familiar with image enhancement, restoration, segmentation, 
+classification, machine learning and deep learning techniques for image analysis. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Image perception -MTF of the visual system –monochrome vision models - 
+color vision model. Image sampling and quantization: Two-dimensional 
+sampling theory, Image quantization - uniform quantizer. Image transforms -
+Two dimensional orthogonal and unitary transforms - properties of unitary 
+transforms, 2D DFT, DCT, Hadamard, Haar, KL transforms. 
+9 
+2 
+Image enhancement: contrast enhancement, clipping and thresholding - 
+digital negative, intensity level slicing - bit extraction. Histogram processing, 
+Magnification and interpolation. Image Enhancement in Spatial domain: 
+Smoothing and sharpening operations in time domain, Filtering in frequency 
+domain: Smoothing and sharpening frequency domain filters, Homomorphic 
+filtering. 
+9 
+3 
+Image restoration: Image degradation, Noise, Blurring, Modelling image 
+degradation, Inverse filtering, Wiener filtering. Image segmentation- 
+Thresholding- optimal, adaptive, Region-based methods- region growing and 
+region merging, Boundary-based methods- edge detection and linking, 
+9 
+
+ 
+ 
+boundary tracking. 
+4 
+Feature recognition and classification: Features - describing the contents 
+and the shape of objects. Classification- Supervised and unsupervised 
+learning. Discriminant analysis, k-nearest-Neighbor (kNN) classifier. 
+Unsupervised- k-means clustering. Deep Learning for Medical Image 
+Analysis, Convolutional Neural Networks. Image fusion for hybrid imaging, 
+Super resolution imaging. 
+9 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+ 2 Questions from each 
+module.  
+ Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24marks) 
+ Each question carries 9 marks.  
+ Two questions will be given from each module, out 
+of which 1 question should be answered.  
+ Each question can have a maximum of 3 sub 
+divisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Infer the nature of processes involved in human visual image perception 
+and also in image-processing system which includes sampling, 
+quantisation and two dimensional transforms. 
+K2 
+CO2 
+Apply methods of image enhancement both in time and transform 
+domains. 
+K3 
+CO3 
+Analyse the techniques for feature extraction, image segmentation and 
+image restoration. 
+K4 
+CO4 
+Analyse machine and deep learning algorithms for medical image 
+analysis. 
+K4 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+CO-PO Mapping Table (Mapping od Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Fundamentals of Digital Image 
+Processing 
+Jain Anil K 
+Prentice Hall of India 
+1989 
+2 
+Digital Image Processing for 
+Medical Applications. 
+Geoff Dougherty 
+Cambridge University 
+Press 
+2007 
+3 
+Digital Image Processing 
+Gonzalez Rafel C 
+Fourth Edition 
+2018 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10 PO11
+PO12
+CO1 
+3 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+1 
+CO2 
+3 
+2 
+  
+ 
+1 
+ 
+ 
+ 
+  
+ 
+ 
+1 
+CO3 
+3 
+2 
+2 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+CO4 
+2 
+2 
+2 
+2 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+ 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Deep Learning for Medical 
+Image Analysis 
+Edited by S. Kevin Zhou 
+Hayit Greenspan Ding 
+gang Shen
+Academic Press, 
+Elsevier 
+Ist Edition, 
+2017 
+2 
+Computer Vision Algorithms 
+and Applications
+Richard Szeliski 
+Springer 
+2011 
+3 
+Hands-On One-shot Learning 
+with Python
+Shruti Jadon Ankush 
+Garg 
+Packt Publishing 
+2019 
+ 
+Video Links (NPTEL, SWAYAM…) 
+Module 
+No. 
+Link ID 
+1 
+https://youtu.be/7Pzq9IwscbE?si=4yMyNurWD3dfbQF5, 
+https://youtu.be/nfEaPWZ_dRQ?si=r-Ith_KIUfLDbO52, 
+https://youtu.be/7LXi7_lSJn0?si=dxNRVXnfr3t9yd7m,  
+2 
+https://youtu.be/ArKe6zMkXnk?si=v21e56QYZWgr5h5W,  
+3 
+https://youtu.be/ljCZM8mpj8I?si=yXQlEOrtXMwOP1lx,  
+4 
+https://youtu.be/Y_zQ9B4rWMY?si=DSVaLNRVDsVPaFRu, 
+https://youtu.be/11WBbnlMkwg?si=etrvyD6j0WGYZRD, 
+https://youtu.be/ljCZM8mpj8I?si=yXQlEOrtXMwOP1lx,  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+SEMESTER S8 
+REHABILITATION ENGINEERING

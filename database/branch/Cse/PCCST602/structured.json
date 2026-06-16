@@ -1,0 +1,63 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Distributed System Models and Enabling Technologies:-The age of internet computing:- - High performance and high throughput computing",
+      "Centralized",
+      "Parallel",
+      "Distributed and Cloud Computing. Design objectives of HPC and HTC. IoT and Cyber Physical systems. Technologies for Network-Based systems:- Multicore CPUs and Multithreading Technologies. GPU Computing. Virtual Machines. System models for distributed and cloud computing:- Clusters",
+      "Grids",
+      "P2P Systems",
+      "Clouds"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Computer Clusters :-Clustering for massive parallelism:- Design objectives",
+      "Design Issues - Ensuring high availability",
+      "Cluster families. Cluster Architecture. GPU Clusters - Components. Computer Clusters - Design principles - Single System Image features. High availability through redundancy. Fault tolerant cluster configurations",
+      "checkpoint and recovery techniques. Cluster Job and Resource Management:- - Job Scheduling methods",
+      "Job management system - administration",
+      "job types",
+      "migration schemes"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Virtualization:- Introduction",
+      "Virtualization at different levels and their comparison. VMM design requirements",
+      "OS level virtualization. Virtualization structures and mechanisms. CPU",
+      "Memory and I/O Virtualization. Virtual clusters and resource management. Live VM migration steps",
+      "migration of memory",
+      "files and network resources"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Cloud Computing",
+      "Microservices and Containers:-Cloud Computing and Service models:- Private",
+      "Public and Hybrid clouds. Cloud Design objectives and Cost Model. Infrastructure-as-a-Service",
+      "Platform-as-a-Service",
+      "Software-as-a-Service. Microservices:- - Introduction",
+      "advantages and disadvantages. Interprocess Communication - Types of interactions",
+      "Protocol",
+      "Standard and Message Format",
+      "Discovery Service",
+      "API Gateway",
+      "Service Registry Containers - Comparison of Virtual Machines and Containers. Introduction to Docker. Case Study - Docker Containers - Architecture",
+      "Components",
+      "Examples"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]

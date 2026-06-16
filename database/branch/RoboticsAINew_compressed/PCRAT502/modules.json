@@ -1,0 +1,26 @@
+[
+  {
+    "type": "module",
+    "title": "Module 1",
+    "content": "Convolutional Neural Network (CNN):\nConvolutional operation, filters, padding, and stride, activation functions -\nReLU, Sigmoid, Tanh, Pooling layers - average pooling, max pooling, Fully\nconnected layers, Training CNN - Loss functions, Optimizers,\nBackpropagation, Regularization Techniques - Overfitting and underfitting,\nDropout, Data augmentation, Advanced CNN Architectures – ResNets, VGG\nnetworks, Inception network.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 2",
+    "content": "Sequential Neural Network:\nRecurrent Neural Networks, Long Short-Term Memory (LSTM) Networks,\nGated Recurrent Units (GRUs), Backpropagation Through Time (BPTT),\nGradient Clipping,\nAttention mechanism.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 3",
+    "content": "Robot Control with AI:\nProportional-Integral-Derivative (PID) control, Tuning PID gains for optimal\nperformance, model predictive control, feedback linearization control.",
+    "contact_hours": "11"
+  },
+  {
+    "type": "module",
+    "title": "Module 4",
+    "content": "Simultaneous Localization and Mapping (SLAM):\nIntroduction to SLAM, Sensor Modalities for SLAM, Probabilistic\nFramework for SLAM, SLAM Algorithms - Kalman Filter, Extended\nKalman Filter (EKF), Particle Filter, Mapping algorithms: Occupancy grids,\nlandmark-based maps, SLAM for dynamic environments, Loop closure\ndetection.",
+    "contact_hours": "11"
+  }
+]

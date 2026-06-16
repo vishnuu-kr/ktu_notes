@@ -1,0 +1,67 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Transmission Modes - Serial and Parallel Transmission",
+            "Asynchronous",
+            "Synchronous",
+            "Simplex",
+            "Half Duplex",
+            "Full Duplex Communication",
+            "Switching: Circuit Switching and Packet Switching",
+            "Networks: Network Criteria",
+            "Physical Structures",
+            "Network Models",
+            "Categories of Networks",
+            "Network Models: OSI Model",
+            "Layers in OSI Model",
+            "TCP/IP Protocol Suite",
+            "Physical Layer: Guided and Unguided Transmission Media (Co-axial Cable, Fiber Optic Cable)"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Framing",
+            "Flow Control (Stop and Wait, Sliding Window Flow Control)",
+            "Error Control",
+            "Error Detection (Checksum, Bit Stuffing)",
+            "HDLC",
+            "Media Access Control: Ethernet (802.3)",
+            "CSMA/CD",
+            "Logical Link Control",
+            "Wireless LAN (802.11)",
+            "CSMA/CA",
+            "Network Layer: IPv4 & IPv6",
+            "Address Resolution Protocols (ARP, RARP)",
+            "Subnetting",
+            "Classless Routing (CIDR)",
+            "ICMP",
+            "IGMP",
+            "DHCP"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Hubs",
+            "Bridges & Switches",
+            "Routing: Routing and Forwarding",
+            "Static Routing and Dynamic Routing",
+            "Routing Algorithms: Distance Vector Routing Algorithm",
+            "Link State Routing (Dijkstra's Algorithm)",
+            "Routing Protocols: Routing Information Protocol (RIP)",
+            "Open Shortest Path First (OSPF)",
+            "Border Gateway Protocol (BGP)",
+            "MPLS"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Firewalls and Their Types",
+            "Limitations of Firewalls",
+            "Intrusion Detection Systems - Host Based, Network Based, and Hybrid Intrusion Detection Systems"
+        ]
+    }
+]

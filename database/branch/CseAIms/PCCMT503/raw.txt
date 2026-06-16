@@ -1,0 +1,301 @@
+Course Code 
+PCCMT503
+CIE Marks 
+40 
+Teaching Hours/Week 
+(L: T:P: R) 
+3:1:0:0 
+ESE Marks 
+60 
+Credits 
+4 
+Exam Hours 
+2 Hrs. 30 Min. 
+Prerequisites (if any) 
+None 
+Course Type 
+Theory 
+ 
+Course Objectives: 
+1. To give the learners an understanding about the foundations of deep learning architecture and 
+applications. 
+2. To equip the learners with the necessary skills to set up neural network architecture and use it 
+for real life problem solutions. 
+ 
+SYLLABUS 
+Module 
+No.
+Syllabus Description 
+Contact 
+Hours
+1 
+Review of Neural Networks:-  
+Biological Neuron vs.  Artificial Neuron, Activation Functions (Step, Sign, 
+Sigmoid, Softmax, tanh, ReLU, LreLU, EReLU functions), Single Layer 
+Perceptron, Linear Separability, XOR Problem, Multilayer Perceptron, Back-
+propagation algorithm. 
+9 
+2 
+Convolutional Neural Networks (CNN):-  
+CNN-Architectural Overview, Motivation, Layers, Filters, Parameter sharing, 
+Regularization, Convolution and Pooling as infinitely strong prior, Variants of 
+Convolution Operation, Efficient Convolution Computation Methods, Popular 
+CNN Architectures (ResNet, Alexnet,VGGNet, Inception) 
+11 
+3 
+Recurrent Neural Networks (RNN):-  
+Model of a typical RNN, Computation Graph, Bidirectional RNNs, Encoder – 
+decoder sequence to sequence architectures, BPTT for training RNN, Deep 
+11 
+
+ 
+ 
+Recurrent Networks, Recursive Recurrent Networks, Long Short Term 
+Memory Networks (LSTM), Gated Recurrent Networks (GRU) 
+4 
+Unsupervised Deep Learning Models:-  
+AutoEncoders(AE), Types of AutoEncoders (Undercomplete AE, Sparse AE, 
+Deep AE, Contractive AE, Denoising AE, Convolutional AE, Variational 
+AE), Boltzmann machines,  Types of Boltzmann machines (Restricted 
+Boltzmann Machines, Deep Belief Networks, Deep Boltzmann Machines) 
+Applications of Deep Learning:- 
+ Speech Processing, Computer Vision, Natural Language Processing, Word 
+Embedding Techniques (TF-IDF, Word2Vec, GloVe) 
+11 
+ 
+Course Assessment Method 
+(CIE: 40 marks, ESE: 60 marks) 
+ 
+ 
+Continuous Internal Evaluation Marks (CIE): 
+ 
+Attendance 
+Assignment/ 
+Microproject 
+Internal 
+Examination-1 
+(Written) 
+Internal 
+Examination- 2 
+(Written) 
+Total 
+5 
+15 
+10 
+10 
+40 
+ 
+End Semester Examination Marks (ESE) 
+In Part A, all questions need to be answered and in Part B, each student can choose any one 
+full question out of two questions 
+Part A 
+Part B 
+Total
+● 2 Questions from each 
+module.  
+● Total of 8 Questions, each 
+carrying 3 marks 
+ 
+(8x3 =24 marks) 
+● Each question carries 9 marks.  
+● Two questions will be given from each module, out 
+of which 1 question should be answered.  
+● Each question can have a maximum of 3 
+subdivisions.  
+(4x9 = 36 marks) 
+60 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Course Outcomes (COs) 
+At the end of the course students should be able to:  
+Course Outcome 
+Bloom’s 
+Knowledge 
+Level (KL) 
+CO1 
+Illustrate fundamental neural network architectures and algorithms, 
+including Multilayer Perceptron and Back-propagation.
+K3 
+CO2 
+Design and evaluate various deep learning architectures, including feed-
+forward networks, Convolutional Neural Networks (CNNs), and their 
+applications in real-world problems 
+K3 
+CO3 
+Develop and utilize Recurrent Neural Networks (RNNs) and Long 
+Short-Term Memory Networks (LSTMs) for sequence modelling and 
+natural language processing tasks. 
+K3 
+CO4 
+Use unsupervised learning techniques such as Autoencoders and 
+Boltzmann machines to solve complex problems in computer vision and 
+speech recognition. 
+K3 
+Note: K1- Remember, K2- Understand, K3- Apply, K4- Analyse, K5- Evaluate, K6- Create 
+ 
+CO-PO Mapping Table (Mapping of Course Outcomes to Program Outcomes) 
+Note: 1: Slight (Low), 2: Moderate (Medium), 3: Substantial (High), -: No Correlation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PO1 
+PO2 
+PO3 
+PO4 
+PO5 
+PO6 
+PO7 
+PO8 
+PO9 
+PO10
+PO11
+PO12
+CO1 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO2 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO3 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CO4 
+3 
+3 
+3 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+ 
+ 
+Text Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Deep Learning 
+Ian Goodfellow, 
+Yoshua Bengio and 
+Aaron Courville 
+MIT Press 
+1/e, 2016 
+2 
+Neural Networks and Deep 
+Learning 
+Charu C Agarwal 
+Springer 
+2/e, 2023 
+3 
+Neural Networks and Deep 
+Learning 
+Michael A. Nielsen 
+Determination Press 
+2/e, 2015 
+4 
+Learning Deep Architectures 
+for AI: 4 (Foundations and 
+Trends in Machine Learning) 
+Yoshua Bengio 
+now Publishers Inc. 
+1/e, 2009 
+5 
+Deep Learning: A Practitioner's 
+Approach 
+Josh Patterson, Adam 
+Gibson 
+O'Reilly Media 
+1/e, 2017 
+ 
+Reference Books 
+Sl. No 
+Title of the Book 
+Name of the Author/s 
+Name of the 
+Publisher 
+Edition 
+and Year 
+1 
+Applied Deep Learning.  
+Umberto Michelucci 
+APRESS 
+1/e, 2018 
+2 
+Deep Learning with Keras 
+Antonio Gulli, Sujit Pal 
+Packt Publishers 
+1/e, 2017 
+3 
+Deep Learning with Python
+Francois Chollet
+Manning Publications
+1/e, 2017
+ 
+Video Links (NPTEL, SWAYAM…) 
+Sl.  No. 
+Link ID 
+1 
+https://nptel.ac.in/courses/106105215 (Week 4)
+2 
+https://nptel.ac.in/courses/106105215 (Week 5)
+3 
+https://nptel.ac.in/courses/106105215 (Week 8)
+4 
+https://nptel.ac.in/courses/106105215 (Week 10,11 and 12)
+ 
+
+ 
+ 
+SEMESTER S5 
+INTRODUCTION TO COMPUTER VISION

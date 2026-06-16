@@ -1,0 +1,55 @@
+[
+  {
+    "module": "Module 1",
+    "topics": [
+      "Narrow and wide band FM and their spectra",
+      "relationship between FM and PM",
+      "Carson’s rule",
+      "pre-emphasis and de-emphasis filtering. Comparison of AM and FM",
+      "Block diagram of FM receiver. Superheterodyne receivers- Characteristics of receivers - image frequency. Noise: external",
+      "internal",
+      "White noise"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 2",
+    "topics": [
+      "Sampling and Quantization",
+      "SQNR for uniform quantization",
+      "Companding Pulse code modulation",
+      "Transmitter and receiver. DPCM transmitter and receiver. Delta modulation",
+      "Slope overload",
+      "Line codes"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 3",
+    "topics": [
+      "Baseband data transmission of digital data through AWGN channel",
+      "Mathematical model of ISI",
+      "Nyquist criterion for zero ISI",
+      "Signal modelling for ISI",
+      "Raised cosine spectrum",
+      "Equalization",
+      "Zero forcing Equaliser. Geometric representation of Signals-Gram-Schmitt procedure",
+      "Signal space. Vector model of AWGN channel. Matched filter and correlation receivers",
+      "MAP receiver",
+      "Maximum likelihood receiver"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  },
+  {
+    "module": "Module 4",
+    "topics": [
+      "Digital band pass modulation schemes",
+      "BPSK system and signal constellation. BPSK transmitter and receiver. QPSK system and Signal constellations. BER analysis of BPSK and QPSK in erfc. Plots of BER Vs SNR. QPSK transmitter and receiver. Quadrature amplitude modulation and signal constellation"
+    ],
+    "rejected_topics": null,
+    "status": "verified"
+  }
+]
