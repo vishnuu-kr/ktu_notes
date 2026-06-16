@@ -276,9 +276,8 @@ def process_file(file_path, key_pool, max_workers):
             # After the first max_workers threads are running, new submissions only
             # happen when a slot frees up (naturally rate-limited by API call duration).
             if submitted < max_workers:
-                stagger = (60.0 / max_workers) * submitted
-                if stagger > 0:
-                    time.sleep(60.0 / max_workers)  # e.g. 4s gap between each of 15 threads
+                if submitted > 0:
+                    time.sleep(4)  # 4s between each of 5 threads = 20s to full speed
             
             future = executor.submit(
                 _generate_with_release,
@@ -379,7 +378,7 @@ def main():
     
     # Initialize key pool with per-key concurrency limit
     key_pool = KeyPool(my_keys, max_per_key=args.max_per_key)
-    max_workers = min(len(my_keys) * args.max_per_key, 15)  # 15 concurrent per runner
+    max_workers = min(len(my_keys) * args.max_per_key, 5)  # 5 concurrent per runner = 90 total cluster-wide
     print(f"Max concurrent requests: {max_workers}", flush=True)
     
     # Find data directory
