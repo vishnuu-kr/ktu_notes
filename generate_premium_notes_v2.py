@@ -145,7 +145,10 @@ def fetch_notes(topic_title, course_info, module_info, api_key):
                 continue
                 
             resp.raise_for_status()
-            content = resp.json()["choices"][0]["message"]["content"]
+            data = resp.json()
+            content = data.get("choices", [{}])[0].get("message", {}).get("content")
+            if not content:
+                raise ValueError("API returned empty content")
             content = re.sub(r'<think>.*?</think>', '', content, flags=re.DOTALL).strip()
             return content
             
