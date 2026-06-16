@@ -148,14 +148,22 @@ def fetch_notes(topic_title, course_info, module_info, api_key):
             data = resp.json()
             content = data.get("choices", [{}])[0].get("message", {}).get("content")
             if not content:
-                raise ValueError("API returned empty content")
+                # API returned empty — treat like a server error, back off
+                wait_time = (attempt + 1) * 15
+                print(f"  [EMPTY] API returned no content for '{topic_title[:40]}', retry in {wait_time}s (Attempt {attempt+1}/{max_retries})", flush=True)
+                time.sleep(wait_time)
+                continue
             content = re.sub(r'<think>.*?</think>', '', content, flags=re.DOTALL).strip()
             return content
             
         except requests.exceptions.HTTPError as e:
-            if resp.status_code in (500, 502, 503):
-                wait_time = (attempt + 1) * 10
-                print(f"  [SERVER-ERR] {resp.status_code} for '{topic_title[:40]}...', retry in {wait_time}s (Attempt {attempt+1}/{max_retries})", flush=True)
+            if resp.status_code == 429:
+                retry_after = int(resp.headers.get("Retry-After", (attempt + 1) * 20))
+                print(f"  [RATE-LIMITED] Key ...{api_key[-6:]}, waiting {retry_after}s", flush=True)
+                time.sleep(retry_after)
+            elif resp.status_code in (500, 502, 503):
+                wait_time = (attempt + 1) * 15
+                print(f"  [SERVER-ERR] {resp.status_code} for '{topic_title[:40]}', retry in {wait_time}s (Attempt {attempt+1}/{max_retries})", flush=True)
                 time.sleep(wait_time)
             else:
                 print(f"  [HTTP-ERR] {resp.status_code}: {str(e)[:100]}", flush=True)
@@ -264,10 +272,13 @@ def process_file(file_path, key_pool, max_workers):
             # Acquire a key from the pool
             key, release_fn = key_pool.acquire()
             
-            # Stagger submissions: 1 second between each thread start
-            # to avoid cold-start burst on the API
-            if submitted > 0 and submitted < max_workers:
-                time.sleep(1)
+            # Stagger the first batch of threads over 60s to avoid cold-start burst.
+            # After the first max_workers threads are running, new submissions only
+            # happen when a slot frees up (naturally rate-limited by API call duration).
+            if submitted < max_workers:
+                stagger = (60.0 / max_workers) * submitted
+                if stagger > 0:
+                    time.sleep(60.0 / max_workers)  # e.g. 4s gap between each of 15 threads
             
             future = executor.submit(
                 _generate_with_release,
@@ -368,8 +379,8 @@ def main():
     
     # Initialize key pool with per-key concurrency limit
     key_pool = KeyPool(my_keys, max_per_key=args.max_per_key)
-    max_workers = min(len(my_keys) * args.max_per_key, 10)  # Cap at 10 concurrent per runner
-    print(f"Max concurrent requests: {max_workers} (capped to avoid API overload)", flush=True)
+    max_workers = min(len(my_keys) * args.max_per_key, 15)  # 15 concurrent per runner
+    print(f"Max concurrent requests: {max_workers}", flush=True)
     
     # Find data directory
     data_dir = "src/data/subjects"
