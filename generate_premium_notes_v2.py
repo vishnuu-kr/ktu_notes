@@ -355,7 +355,7 @@ def main():
         sys.exit(1)
     
     print(f"Runner config: Semester {args.semester}, Chunk {args.chunk}/{args.total_chunks}", flush=True)
-    print(f"Assigned {len(my_keys)} API keys (indices {start_idx}-{end_idx-1})", flush=True)
+    print(f"Assigned {len(my_keys)} API keys", flush=True)
     
     # Initialize key pool with per-key concurrency limit
     key_pool = KeyPool(my_keys, max_per_key=args.max_per_key)
