@@ -87,12 +87,16 @@ def fetch_notes_from_minimax(topic, course, module, api_key):
     prompt = SYSTEM_PROMPT.replace("{COURSE_INFO}", course).replace("{MODULE_INFO}", module).replace("{TOPIC}", topic)
     user_content = f"Generate notes for topic: '{topic}' from {module}.\nExecute KTU-PREMIER-ENGINE V10."
 
+    # Configurable via environment variables (defaults to TokenRouter / MiniMax-M3)
+    api_url = os.environ.get("API_URL", "https://api.tokenrouter.com/v1/chat/completions")
+    model_name = os.environ.get("MODEL_NAME", "MiniMax-M3")
+
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json"
     }
     payload = {
-        "model": "MiniMax-M3",
+        "model": model_name,
         "messages": [
             {"role": "system", "content": prompt},
             {"role": "user", "content": user_content}
@@ -103,7 +107,7 @@ def fetch_notes_from_minimax(topic, course, module, api_key):
     max_retries = 3
     for attempt in range(max_retries):
         try:
-            resp = requests.post("https://api.tokenrouter.com/v1/chat/completions", headers=headers, json=payload, timeout=600)
+            resp = requests.post(api_url, headers=headers, json=payload, timeout=600)
             resp.raise_for_status()
             content = resp.json()["choices"][0]["message"]["content"]
             content = re.sub(r'<think>.*?</think>', '', content, flags=re.DOTALL).strip()
