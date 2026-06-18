@@ -31,16 +31,21 @@ jobs:
         run: |
           SEMESTERS="${{ github.event.inputs.semesters }}"
           
-          # For semesters with many topics, split into multiple chunks
+          # Chunks = parallel runners per semester. MORE runners = more source
+          # IPs, each holding only ~5 concurrent connections (the stable limit
+          # that avoids RemoteDisconnected retry storms). This is how we scale
+          # throughput safely — NOT by raising per-runner concurrency.
+          # Heavy semesters get more chunks. GitHub max-parallel is 20.
           # Sem 1:   894 topics → 1 chunk
-          # Sem 2:  2570 topics → 1 chunk  
-          # Sem 3:  5331 topics → 2 chunks
-          # Sem 4: 10016 topics → 3 chunks
-          # Sem 5: 12834 topics → 3 chunks
-          # Sem 6: 15246 topics → 3 chunks
-          # Sem 7: 16978 topics → 3 chunks
-          # Sem 8: 10800 topics → 2 chunks
-          # Total: 18 runners (under GitHub's 20 max-parallel)
+          # Sem 2:  2570 topics → 2 chunks
+          # Sem 3:  5331 topics → 3 chunks
+          # Sem 4: 10016 topics → 5 chunks
+          # Sem 5: 12834 topics → 6 chunks
+          # Sem 6: 15246 topics → 7 chunks
+          # Sem 7: 16978 topics → 7 chunks
+          # Sem 8: 10800 topics → 5 chunks
+          # (Resume-aware: already-generated topics are skipped, so a re-run only
+          #  fills gaps and finishes much faster than these raw counts suggest.)
           
           MATRIX_JSON='{"include":['
           FIRST=true
@@ -50,13 +55,13 @@ jobs:
             SEM=$(echo "$SEM" | tr -d ' ')
             case $SEM in
               1) CHUNKS=1 ;;
-              2) CHUNKS=1 ;;
-              3) CHUNKS=2 ;;
-              4) CHUNKS=3 ;;
-              5) CHUNKS=3 ;;
-              6) CHUNKS=3 ;;
-              7) CHUNKS=3 ;;
-              8) CHUNKS=2 ;;
+              2) CHUNKS=2 ;;
+              3) CHUNKS=3 ;;
+              4) CHUNKS=5 ;;
+              5) CHUNKS=6 ;;
+              6) CHUNKS=7 ;;
+              7) CHUNKS=7 ;;
+              8) CHUNKS=5 ;;
               *) CHUNKS=1 ;;
             esac
             
