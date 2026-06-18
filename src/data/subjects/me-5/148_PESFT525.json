@@ -1,0 +1,117 @@
+{
+  "id": "pesft525-me-s5",
+  "code": "PESFT525",
+  "name": "RELIABILITY ENGINEERING",
+  "branchId": "me",
+  "semester": 5,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Definition",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Probability Concept",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Addition of Probabilities",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Complimentary Events",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Kolmogorov Axioms; Failure Data Analysis: Introduction, Mean Failure Rate, Mean Time to Failure (MTTF), Mean Time between Failures (MTBF), Graphical Plots, MTTF in terms of Failure Density, MTTF in Integral Form",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Introduction, Constant Hazard",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Linearly Increasing Hazard, The Weibull Model, Density Function and Distribution Function, Reliability Analysis, Important Distributions and Their Choice, Standard Deviation and Variance; Conditional Probability: Introduction, Multiplication Rule, Independent Events, Venn Diagram, Hazard Rate as Conditional Probability, Bayes Theorem",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Series, Parallel and Mixed Configurations, Complex Systems, Logic Diagrams, Markov Models; Reliability Improvement and Repairable Systems: Redundancy, Element, Unit and Standby Redundancy, Optimization",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Reliability-Cost Trade-Off, Introduction to Repairable Systems, Instantaneous Repair Rate, MTTR, Reliability and Availability Functions, Important Applications",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Fault-Tree Construction",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Calculation of Reliability",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Tie-Set and Minimal Tie-Set; Maintainability and Availability: Introduction",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Maintenance Planning",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Reliability and Maintainability Trade-Off",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

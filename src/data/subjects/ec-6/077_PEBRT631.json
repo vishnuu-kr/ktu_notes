@@ -1,0 +1,135 @@
+{
+  "id": "pebrt631-ec-s6",
+  "code": "PEBRT631",
+  "name": "INDUSTRIAL MANIPULATORS",
+  "branchId": "ec",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Position Definitions - Coordinate Frames",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Different Orientation Descriptions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Free Vectors - Translations, Rotations and Relative Motion - Position and Orientation of a Rigid Body - Rotation Matrix - Elementary Rotations - Representation and Rotation of a Vector",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Composition of Rotation Matrices - Euler Angles - YZY Angles - Roll-Pitch-Yaw Angles - Angle and Axis",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Kinematic Chains",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Denavit Hartenberg Representation - Kinematics of Manipulator Structures - Three Link Planar Arm - Parallelogram Arm - Anthropomorphic Arm - Spherical Arm",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Stanford Manipulator - Manipulator Kinematics - Inverse Kinematics - The General Inverse Kinematics Problem - Kinematic Decoupling",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Inverse Position",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Inverse Orientation - Joint Space and Operational Space - Workspace",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Differential Kinematics and Statics - Geometric Jacobian - Derivative of a Rotation Matrix",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Link Velocity - Jacobian Computation - Jacobian of Typical Manipulator Structures - Three-Link Planar Arm",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Anthropomorphic Arm - Stanford Manipulator",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Kinematic Singularities - Singularity Decoupling - Wrist Singularities - Arm Singularities - Analysis of Redundancy - Differential Kinematics Inversion - Redundant Manipulators",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Joint Space Control",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Independent Joint Control",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Feedback Control",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Decentralized Feedforward Compensation",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

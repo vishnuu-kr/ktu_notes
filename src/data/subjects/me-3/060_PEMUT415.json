@@ -1,0 +1,183 @@
+{
+  "id": "pemut415-me-s3",
+  "code": "PEMUT415",
+  "name": "COMPUTER AIDED DESIGN AND MANUFACTURING",
+  "branchId": "me",
+  "semester": 3,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Introduction to CAD/CAM",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Historical Development",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Industrial Look at CAD/CAM",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Application of Computers in Design",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Basics of Geometric and Solid Modelling",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "Packages for CAD/CAM",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_7",
+          "title": "Line Drawing - Clipping",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_8",
+          "title": "Bresenham's Line Algorithm",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_9",
+          "title": "Solid Modelling Techniques - CSG and B-Rep",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Geometric Transformations in CAD: 2D and 3D",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Transformations of Geometric Models (Translation, Scaling, Rotation, Reflection, Homogeneous Representations, Concatenated Representation)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Simple Problems in Geometric Transformations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Standards for Computer Graphics - Graphical Kernel System (GKS)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Standards for Exchange Images - Open Graphics Library (OpenGL)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_6",
+          "title": "Data Exchange Standards - IGES, STEP, CALS",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Introduction to NC Systems and CNC",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Machine Axis and Coordinate System, CNC Machine Tools, Principle of Operation, Construction Features, Structure, Drives and CNC Controllers, 2D and 3D Machining on CNC, Introduction to Part Programming",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Functions of CNC, Features of CNC Systems, Introduction to Part Programming",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Simple Turning and Drilling Programs Using G Codes and M Codes",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Cellular Manufacturing and Flexible Manufacturing System - Fundamentals of Cellular Manufacturing",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Group Technology (GT)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Part Families - Parts Classification and Coding",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Simple Problems in Opitz Part Coding System",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Flexible Manufacturing System (FMS) - Components and Types",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_6",
+          "title": "FMS Work Stations - FMS Application and Benefits",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

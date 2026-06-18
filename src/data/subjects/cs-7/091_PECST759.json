@@ -1,0 +1,99 @@
+{
+  "id": "pecst759-cs-s7",
+  "code": "PECST759",
+  "name": "PARALLEL ALGORITHMS",
+  "branchId": "cs",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Introduction to Parallel Computing: Overview, Importance, Types of Parallelism, and Architectures",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Parallel Programming Models: PRAM, BSP, LogP, and Memory Models",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Performance Metrics: Speedup, Efficiency, Scalability, Amdahl's Law, and Gustafson's Law",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Parallel Algorithms for Basic Operations: Matrix Addition, Multiplication, Reduction, and Parallel Prefix Sum",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Case Studies of Parallel Addition, Multiplication, Reduction, and Prefix Sum in Modern Computing Systems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Parallel Sorting Algorithms: Merge Sort, Quicksort, Bitonic Merge Sort, and Comparison",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Parallel Algorithms for Minimum Spanning Tree and Shortest Path",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Parallel Search Algorithms: Binary Search, Search Trees, and Applications",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Parallel Programming with OpenMP: Introduction, Constructs, and Performance Tuning",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Parallel Programming with MPI: Introduction, Message Passing, and Advanced Features",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Parallel Numerical Algorithms: Linear Systems, LU Decomposition, and Eigenvalue Problems",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

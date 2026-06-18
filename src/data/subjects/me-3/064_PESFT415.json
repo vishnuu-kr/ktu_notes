@@ -1,0 +1,105 @@
+{
+  "id": "pesft415-me-s3",
+  "code": "PESFT415",
+  "name": "COMPUTATIONAL FLUID DYNAMICS",
+  "branchId": "me",
+  "semester": 3,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Introduction to Computational Fluid Dynamics, Governing Equations of Fluid Flow and Heat Transfer, Conservative Form of Navier-Stokes Equation, General Transport Equation, Physical and Mathematical Classifications of Partial Differential Equations, Elliptic, Parabolic and Hyperbolic Equations, Comparison of Experimental, Theoretical and Numerical Approaches",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Applications of CFD",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Discretization",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Converting Derivatives to Their Finite Difference Forms",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Taylor's Series Approach and Polynomial Fitting Approach, Central Difference, Backward Difference, and Forward Difference of First and Second Order Derivatives, Solution of Partial Differential Equations Using Finite Difference Equations, Discretization Error, Truncation Error, Round Off Error, Consistency and Numerical Stability, Iterative Convergence, Condition for Convergence, Rate of Convergence, Termination of Iteration, Boundary and Initial Conditions",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Introduction to Finite Volume Method, Finite Volume Method for Steady One-Dimensional Conduction Problems, One-Dimensional Transient Heat Conduction Problems - Explicit, Implicit, Crank-Nicholson Schemes, Under and Over Relaxations, Handling of Boundary Conditions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Dealing with Dirichlet, Neumann, and Robin Type Boundary Conditions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Two-Dimensional Steady State Conduction Problems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Point-by-Point and Line-by-Line Method of Solution",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Tri-Diagonal Matrix Algorithm",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Finite Volume Method for Steady-State Diffusion and Convection-Diffusion Problems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Central Difference and Upwind Schemes for Convection and Diffusion Problems, Two-Dimensional Incompressible Viscous Flows, Staggered Grid, Pressure Correction Methods, Solution Algorithm for Pressure-Velocity Coupling in Steady Flows - SIMPLE Algorithm to Solve Navier-Stokes Equations, Computer Graphics Techniques to Present CFD Results",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "pemet415-me-s3",
+  "code": "PEMET415",
+  "name": "ADVANCED MECHANICS OF SOLIDS",
+  "branchId": "me",
+  "semester": 3,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Different boundary conditions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Examples for displacement formulation and force formulation",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Equations in polar coordinates (2D)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Equilibrium equations and strain displacement relations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Airy's stress function and equation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Polynomial method of solution",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Solution for bending of a cantilever beam with end load. Application of stress function to Lame's problem and stress concentration problem of a small hole in a large plate (only stress distribution)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Axisymmetric problems: thin cylinders pressurized from inside, and thick cylinders pressurized from inside and outside",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Rotating disks. Unsymmetrical bending of straight beams possessing two axes of symmetry",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Shear centre",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Winkler Bach theory for bending of curved beams (with rectangular cross-section)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "St. Venant's and Prandtl's methods",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Solutions for elliptical cross-section, membrane analogy, torsion of thin-walled tubes, thin rectangular sections, rolled sections and multiply connected sections",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

@@ -231,9 +231,16 @@ def process_file(file_path, key_pool, max_workers):
     with open(file_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
     
+    # Support both layouts:
+    #   - new per-subject file: data is a single subject dict
+    #   - legacy flat file:     data is a list of subject dicts
+    # `subjects` references the same objects as `data`, so in-place edits to
+    # topics are reflected when we save `data` back.
+    subjects = data if isinstance(data, list) else [data]
+    
     # Collect all pending tasks
     tasks = []
-    for subject in data:
+    for subject in subjects:
         course_name = f"{subject.get('code', '')} - {subject.get('name', '')}"
         for module in subject.get('modules', []):
             module_name = module.get('title', 'Unknown Module')
@@ -242,10 +249,9 @@ def process_file(file_path, key_pool, max_workers):
                     tasks.append((topic, course_name, module_name))
     
     total_in_file = sum(
-        len(topic) 
-        for subject in data 
+        len(module.get('topics', []))
+        for subject in subjects
         for module in subject.get('modules', [])
-        for topic in [module.get('topics', [])]
     )
     pending = len(tasks)
     already_done = total_in_file - pending
@@ -389,19 +395,32 @@ def main():
         print(f"ERROR: Cannot find data directory", flush=True)
         sys.exit(1)
     
-    # Gather target files for this semester
+    # Gather target subject files for this semester.
+    # Preferred layout: src/data/subjects/{branch}-{sem}/{NNN_code}.json
+    # Falls back to legacy flat files src/data/subjects/{branch}-{sem}.json
     sem_id = args.semester
     allowed_branches = args.branch.split(",") if args.branch != "ALL" else None
-    
+
+    def branch_allowed(branch):
+        return allowed_branches is None or branch in allowed_branches
+
     target_files = []
-    for f in sorted(os.listdir(data_dir)):
-        if f.endswith(f"-{sem_id}.json"):
-            branch = f.replace(f"-{sem_id}.json", "")
-            if allowed_branches is None or branch in allowed_branches:
-                target_files.append(os.path.join(data_dir, f))
-    
-    # Split files across chunks
-    # Each chunk gets a subset of files for this semester
+    for name in sorted(os.listdir(data_dir)):
+        full = os.path.join(data_dir, name)
+        # New layout: per-branch-sem folder containing one file per subject
+        if os.path.isdir(full) and name.endswith(f"-{sem_id}"):
+            branch = name[: -len(f"-{sem_id}")]
+            if branch_allowed(branch):
+                for sub in sorted(os.listdir(full)):
+                    if sub.endswith(".json"):
+                        target_files.append(os.path.join(full, sub))
+        # Legacy layout: single flat file per branch-sem
+        elif os.path.isfile(full) and name.endswith(f"-{sem_id}.json"):
+            branch = name.replace(f"-{sem_id}.json", "")
+            if branch_allowed(branch):
+                target_files.append(full)
+
+    # Split files across chunks (each subject file is an independent unit)
     chunk_files = []
     for i, f in enumerate(target_files):
         if i % args.total_chunks == args.chunk:

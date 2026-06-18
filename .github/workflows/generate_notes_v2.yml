@@ -146,7 +146,7 @@ jobs:
           
           # Save the generated files before switching branches
           mkdir -p /tmp/gen_output
-          cp src/data/subjects/*-${{ matrix.semester }}.json /tmp/gen_output/ 2>/dev/null || true
+          cp -r src/data/subjects/*-${{ matrix.semester }} /tmp/gen_output/ 2>/dev/null || true
           
           # Create or switch to the progress branch
           git fetch origin
@@ -157,7 +157,7 @@ jobs:
           fi
           
           # Restore generated files
-          cp /tmp/gen_output/* src/data/subjects/ 2>/dev/null || true
+          cp -r /tmp/gen_output/* src/data/subjects/ 2>/dev/null || true
           
           # Stage and commit
           git add src/data/subjects/

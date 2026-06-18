@@ -59,7 +59,7 @@ jobs:
           
           # Save the newly generated files to a temp directory
           mkdir -p /tmp/updated_data
-          cp src/data/subjects/*-${{ matrix.semester }}.json /tmp/updated_data/
+          cp -r src/data/subjects/*-${{ matrix.semester }} /tmp/updated_data/ 2>/dev/null || true
           
           # Fetch origin and switch to the target branch
           git fetch origin
@@ -71,7 +71,7 @@ jobs:
           fi
           
           # Copy the updated data back to the workspace
-          cp /tmp/updated_data/* src/data/subjects/
+          cp -r /tmp/updated_data/* src/data/subjects/ 2>/dev/null || true
           
           # Commit and push changes
           git add src/data/subjects/

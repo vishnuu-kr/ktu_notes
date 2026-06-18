@@ -1,0 +1,99 @@
+{
+  "id": "pcmrl407-me-s4",
+  "code": "PCMRL407",
+  "name": "ANALOG AND DIGITAL ELECTRONICS LAB",
+  "branchId": "me",
+  "semester": 4,
+  "modules": [
+    {
+      "id": "mExperiment 2",
+      "title": "Module Experiment 2",
+      "topics": [
+        {
+          "id": "tExperiment 2_1",
+          "title": "Study and verify the truth table of basic gates, half and full adder, and subtractor",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_2",
+          "title": "Design and implementation of binary to gray and gray to binary code converter, BCD to excess 3 code using logic gates",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_3",
+          "title": "Design and implementation of MUX and De-Mux using logic gates (4x1 MUX, 1x4 De-Mux); IC 74151 - Implementation of basic SOP functions (16x1, 8x1)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_4",
+          "title": "Study and verify the truth table of flip flops (Implement using logic gates)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_5",
+          "title": "Design and Implementation of 3 bit Synchronous and Asynchronous counter using JK Flip Flop",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_6",
+          "title": "Design and Implementation of 3 bit Synchronous and Asynchronous up counter using JK Flip Flop and MOD counters (e.g., MOD 10, MOD 12 Ripple counter)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_7",
+          "title": "Implementation of basic programs using Verilog - Adder, Subtractor, De-MUX",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_8",
+          "title": "CE characteristics of BJT (Input and output characteristics)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_9",
+          "title": "Characteristics of JFET (Input and output characteristics)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_10",
+          "title": "Design and implement Inverting op-amp, non inverting op-amp, and voltage follower using op-amp. Plot the frequency response curve",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_11",
+          "title": "Design and implement Integrator, Differentiator, Schmitt trigger (UTP = +3V and LTP = -3V) using IC 741. Verify the output waveform on CRO",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_12",
+          "title": "Design and implement RC phase shift oscillator/Wein bridge oscillator, Triangular/Saw tooth wave generator, Astable/Monostable multivibrator using IC 741",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_13",
+          "title": "Astable/Monostable multivibrator using IC 555 timer",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tExperiment 2_14",
+          "title": "Design of PLL using IC 565",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

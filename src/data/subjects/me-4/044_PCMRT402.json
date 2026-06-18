@@ -1,0 +1,207 @@
+{
+  "id": "pcmrt402-me-s4",
+  "code": "PCMRT402",
+  "name": "DIGITAL ELECTRONICS",
+  "branchId": "me",
+  "semester": 4,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Basics of Digital Electronics",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Binary, Octal, and Hexadecimal Number Systems – Representations, Base Conversions, and Arithmetic",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Signed Representation of Binary Numbers – Fixed and Floating Point",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "1's and 2's Complement of Binary Numbers and Their Arithmetic; BCD Number System – Conversion of BCD to Binary and Binary to BCD",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Gray Codes",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "Excess 3 Codes",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_7",
+          "title": "Basics of Verilog – Basic Language Elements: Identifiers, Data Objects, Scalar Data Types, Operators",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Boolean Algebra and Logic Gates – Laws of Boolean Algebra, Postulates, Simplification of Boolean Expressions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "De-Morgan's Law – Minimization of Boolean Expressions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Sum of Product (SOP), Product of Sum (POS), Canonical Form",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Karnaugh Map Simplification (up to 4 Variables)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Quine-McCluskey Method; Basic and Universal Gates – Universality of NAND and NOR",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_6",
+          "title": "Design of Simple Logic Circuits Using Logic Gates; TTL and CMOS Logic Families – Comparison; Internal Diagram of TTL NAND Gate and CMOS NOR Gate",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Difference Between Combinational and Sequential Circuits",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Half Adder/Subtractor, Full Adder/Subtractor",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Multiplexer (Using Logic Gates) – 4:1, 8:1, 16:1",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "De-Multiplexer (Using Logic Gates) – 1:4, 1:8, 1:16",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Implementation of Functions Using Multiplexer IC 74151",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_6",
+          "title": "Encoder (4:2, 8:3), Decoder (2:4, 3:8), BCD Adder",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_7",
+          "title": "Modelling and Simulation of Combinational Circuits with Verilog Codes at Gate Level (Adder, Subtractor, MUX, De-MUX)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Introduction to Latch, Flip Flops, FSM",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Concept of Edge Triggering and Level Triggering in Flip Flops",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "SR FF, JK FF, MS-JK FF, D FF, T FF – Truth Table, Excitation Table, and Characteristics Equation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Counter Designs – Asynchronous Counter",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Synchronous Counter",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_6",
+          "title": "MOD Counters",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_7",
+          "title": "Ring Counter, Johnson Counter, Shift Registers Using FFs – SISO, SIPO, PIPO, PISO",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_8",
+          "title": "Programmable Logic Devices – PAL, PLA, FPGA (Basic Concepts Only)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_9",
+          "title": "Modelling and Simulation of JK and D Flip Flops in Verilog",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
