@@ -384,11 +384,13 @@ def main():
     
     # Initialize key pool with per-key concurrency limit
     key_pool = KeyPool(my_keys, max_per_key=args.max_per_key)
-    # Use ALL available keys concurrently. Per-key load is bounded by
-    # (number_of_runners × max_per_key) via the KeyPool semaphore, NOT by this
-    # number — so scaling workers up to the key count adds throughput WITHOUT
-    # adding per-key rate-limit pressure. Capped at 50 to protect the runner itself.
-    max_workers = min(len(my_keys) * args.max_per_key, 50)
+    # NOTE: concurrency is limited by the API endpoint's per-IP connection
+    # tolerance, NOT by key count. Opening many connections from one runner
+    # causes "RemoteDisconnected" drops and retry storms that destroy throughput
+    # (a 30-worker run managed only ~14 topics/min across 8 runners).
+    # Keep this low and stable; scale total throughput via more runners (chunks)
+    # and more API keys instead.
+    max_workers = min(len(my_keys) * args.max_per_key, 5)
     print(f"Max concurrent requests: {max_workers}", flush=True)
     
     # Find data directory
