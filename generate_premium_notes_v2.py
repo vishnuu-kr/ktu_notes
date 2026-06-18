@@ -384,7 +384,11 @@ def main():
     
     # Initialize key pool with per-key concurrency limit
     key_pool = KeyPool(my_keys, max_per_key=args.max_per_key)
-    max_workers = min(len(my_keys) * args.max_per_key, 5)  # 5 concurrent per runner = 90 total cluster-wide
+    # Use ALL available keys concurrently. Per-key load is bounded by
+    # (number_of_runners × max_per_key) via the KeyPool semaphore, NOT by this
+    # number — so scaling workers up to the key count adds throughput WITHOUT
+    # adding per-key rate-limit pressure. Capped at 50 to protect the runner itself.
+    max_workers = min(len(my_keys) * args.max_per_key, 50)
     print(f"Max concurrent requests: {max_workers}", flush=True)
     
     # Find data directory
