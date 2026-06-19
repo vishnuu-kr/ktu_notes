@@ -1,0 +1,135 @@
+{
+  "id": "pemet745-me-s7",
+  "code": "PEMET745",
+  "name": "MECHATRONICS",
+  "branchId": "me",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Introduction to Mechatronics: Structure of Mechatronics System and Sensors",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Characteristics",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Temperature, Flow, and Pressure Sensors; Displacement, Position, and Proximity Sensing by Magnetic, Optical, Ultrasonic, Inductive, Capacitive, and Eddy Current Methods",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Encoders: Incremental and Absolute, Gray Coded Encoder; Piezoelectric Sensors; Acoustic Emission Sensors; Principle and Types of Vibration Sensors",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Signal Conditioning: Need and Methods; Op-Amp Configurations; Current/Resistance/Reactance to Voltage Circuits; Bridge Circuits Applications; ADC and DAC Circuits; Basics of Sampling Theorem",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Mechanical Actuators",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Electrical Actuators",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Hydraulic and Pneumatic Actuators; Basic Mechanical Elements: Guide Ways and Drives; Bearings: Anti-friction, Hydrostatic, and Hydrodynamic Bearings; Re-circulating Ball Screws and Pre-loading Methods; Re-circulating Roller Screws",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Pneumatics and Hydraulics: Directional Control Valves, Pressure Control Valves, and Process Control Valves; Rotary Actuators; Development of Simple Hydraulic and Pneumatic Circuits Using Standard Symbols",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Electric Motors: BLDC and Stepper Motors; Torque-Speed Characteristics",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "System Modeling: Mathematical Models and Basic Building Blocks of General Mechanical, Electrical, Fluid, and Thermal Systems; Typical Elements of Open and Closed Loop Control Systems; Adaptive Controllers for Machine Tools",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Microcontrollers: Architecture and Use for Mechatronic Applications",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Programmable Logic Controllers (PLC): Basic Structure, Input/Output Processing; Programming: Timers, Internal Relays, Counters, and Shift Registers; Development of Ladder Programs for Specific Purposes",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Micro Electro Mechanical Systems (MEMS): Fabrication - Deposition, Lithography, and Micromachining Methods for MEMS; Deep Reactive Ion Etching (DRIE) and LIGA Processes",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "MEMS Devices: Principle, Fabrication, and Working of MEMS-Based Pressure Sensor, Accelerometer, and Gyroscope; MEMS Devices for Biomedical Applications",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Mechatronics in Automobiles: Sensors, ECU, and Cruise Control",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Mechatronics in Robotics: Sensors and Drives for Robots",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
