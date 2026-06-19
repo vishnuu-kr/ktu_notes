@@ -1,0 +1,93 @@
+{
+  "id": "perut744-ec-s7",
+  "code": "PERUT744",
+  "name": "ANALOG AND DIGITAL COMMUNICATION",
+  "branchId": "ec",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Block diagram of a communication system. Need for analog modulation. Amplitude modulation. Equation and spectrum of AM signal. DSB-SC and SSB systems. Block diagram of SSB transmitter and receiver. Frequency and phase modulation. Narrow and wide band FM and their spectra. FM transmitter and receiver",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Stochastic processes and source coding: review of probability. Bayes theorem and conditional probability. Stochastic processes, stationarity. Conditions for WSS and SSS. Autocorrelation and power spectral density. LTI systems with WSS as input. Sampling and quantization. Pulse code modulation, transmitter and receiver. Companding. Practical 15 level A and mu-law companders. DPCM transmitter and receiver. Delta modulation",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Gram-Schmitt procedure and effects in the channel: definition of signal. Basic operation on signals. Gram-Schmitt procedure. Signal space. Baseband transmission through AWGN channel. Inter symbol interference. Nyquist criterion for zero ISI. Raised cosine and square root raised cosine spectrum. Partial response signalling and duobinary coding. Equalization. Vector model of AWGN channel. Matched filter and correlation receivers. MAP receiver, maximum likelihood receiver and probability of error",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Digital modulation schemes",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Baseband BPSK system and the signal constellation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "BPSK transmitter and receiver",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Baseband QPSK system and signal constellations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Plots of BER vs SNR with analysis",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_6",
+          "title": "QPSK transmitter and receiver",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_7",
+          "title": "Quadrature amplitude modulation and signal constellation",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
