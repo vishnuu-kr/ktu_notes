@@ -1,0 +1,141 @@
+{
+  "id": "perut747-ec-s7",
+  "code": "PERUT747",
+  "name": "POWER ELECTRONICS",
+  "branchId": "ec",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Power Diodes, TRIACs, GTOs, Power BJTs, Power MOSFETs, and IGBTs",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Thyristors, Static and Dynamic Characteristics",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Gate Characteristics",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Firing Methods",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Gate Drive Circuits",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "Thyristor Protection Circuits",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_7",
+          "title": "Series and Parallel Combinations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_8",
+          "title": "Commutation Types",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Single-Phase Uncontrolled and Controlled Rectifiers, Three-Phase Controlled Rectifiers, Inductive and Capacitive Loads, Power Factor Improvement in Rectifiers",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "DC-DC Converters: Step Up and Step Down Chopper, Buck, Boost, Buck-Boost Converters, Isolated and Non-Isolated Converters",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Single-Phase and Three-Phase Inverters, Voltage Source Inverters, Series, Parallel, and Bridge Inverters, Current Source Inverters, 180° and 120° Modes, PWM Inverters",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "AC-AC Converters: Single-Phase and Three-Phase AC-AC Converters, Cycloconverters",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "DC Motor Control - Phase Control",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Single-Phase SCR Drive",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Three-Phase SCR Drive",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Chopper Controlled DC Drives, AC Motor Control: Controlled Slip System and Slip Power Recovery System",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Stepper Motor Drive, UPS",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_6",
+          "title": "Battery Charging Techniques, Recent Developments in Power Electronics for Automation and Robotics",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

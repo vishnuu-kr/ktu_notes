@@ -1,0 +1,141 @@
+{
+  "id": "pemrt755-me-s7",
+  "code": "PEMRT755",
+  "name": "DIGITAL IMAGE PROCESSING",
+  "branchId": "me",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Steps in Digital Image Processing - Components - Elements of Visual Perception - Simple Image Formation Model. Relationships Between Pixels - Colour Image Fundamentals - RGB",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "HSI Models",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Review of Matrix Theory: Row and Column Ordering - Toeplitz",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Circulant Matrices",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Spatial Domain Methods: Point Processing - Intensity Transformations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Histogram Processing. Spatial Filtering - Smoothing Filters",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Sharpening Filters. Frequency Domain Methods: Low Pass Filtering",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "High Pass Filtering",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Homomorphic Filter",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Degradation Model",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Unconstraint Restoration and Constraint Restoration. Inverse Filtering",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Weiner Filtering. Image Compression: Need for Compression",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Basics of Lossless Compression and Lossy Compression. Concept of Transform Coding",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "JPEG Image Compression Standard",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Classification of Image Segmentation Techniques",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Region Approach - Region Growing",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Region Split and Merge. Segmentation Based on Thresholding. Edge Based Segmentation - Edge Detection",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Hough Transform",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
