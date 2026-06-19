@@ -1,0 +1,129 @@
+{
+  "id": "peebt634-ec-s6",
+  "code": "PEEBT634",
+  "name": "BIOMEDICAL SIGNAL PROCESSING & APPLICATIONS",
+  "branchId": "ec",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Estimation of Power Density Spectrum",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Non-Parametric Methods: Periodogram, Bartlett, Welch, Blackman and Tukey Methods - Comparison",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Parametric Models: Autoregressive (AR), Moving Average (MA), Autoregressive Moving Average (ARMA) Models",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Parametric Model Based Linear Prediction: Forward and Backward Linear Prediction, Estimation of Parameters, Spectrum Estimation of ECG",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Power Spectrum Estimation of Heart Rate Variability Data and Applications",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "Spectrum Estimation of EEG",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Introduction to Wavelet Analysis and Wavelet Transforms",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Continuous Wavelet Transform (CWT) and Discrete Wavelet Transform (DWT): Orthogonal Wavelet Decomposition, Orthonormal Wavelets",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Filter Banks and Applications of DWT: Wavelet Denoising, ECG Feature Detection, Heart Sound Analysis",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Optimal and Adaptive Filters",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Wiener Filters",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Adaptive Signal Processing: Steepest Descent Algorithm, LMS Adaptive Algorithm",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Adaptive Noise Canceller: Cancellation of 50 Hz Signal in ECG, Cancellation of Maternal ECG in Fetal Electrocardiography",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Principal Component Analysis",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Denoising of ECG and EEG Signals Using PCA and Independent Component Analysis",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "EEG Denoising and Computation of Diagnostic Signal Parameters of ECG: Heart Rate and QRS Detection Using Multivariate Analysis (PCA and ICA)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
