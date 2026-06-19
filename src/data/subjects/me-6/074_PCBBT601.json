@@ -1,0 +1,141 @@
+{
+  "id": "pcbbt601-me-s6",
+  "code": "PCBBT601",
+  "name": "PROCESS DYNAMICS CONTROL & INSTRUMENTATION",
+  "branchId": "me",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Definition of the Laplace transform; Laplace transforms of some basic forcing functions - step, exponential, ramp, sinusoidal, cosine, pulse, impulse and translated functions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Laplace transform of derivatives and integrals",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Initial value theorem and final value theorem; Numerical problems and theoretical model development of a tank heater system - input-output model and its solution",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Transfer functions and their general characteristics - SISO systems, general first order and second order systems; Development of transfer function models for first order systems and their general characteristics",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Development of transfer function models for first order systems - continuous single tank (mass storage) system and mercury in glass thermometer system (linear systems only); Dynamics of first order systems for step and impulse input",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Development of transfer function models for second order systems - multi-capacity systems (two tanks connected in series), inherently second order systems (damped vibrator), first order system in the presence of a controller",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Dynamics of second order systems - general characteristics of underdamped, overdamped and critically damped systems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Numerical problems on overshoot, decay ratio, period of oscillation, ultimate value, maximum value, transfer functions and dynamic response of first and second order systems",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Hardware elements of a control system with example of temperature control setup for a bioreactor; Instrumentation - final control elements and measuring devices for flow, temperature, pressure, level, and dissolved oxygen",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Transfer functions of components of feedback loop - measuring devices, transmission lines, and final control elements (pneumatic control valves and control valve characteristics); Dead time processes",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Types of feedback controllers; Control laws and transfer functions of P, PI, and PID controllers; Dynamic behaviour of feedback-controlled processes",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Difference between open loop and closed loop control systems; Closed loop transfer function for feedback (positive and negative) processes; Servo and regulatory responses due to proportional, integral, derivative, and composite control actions",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Notion of stability; Stable and unstable systems; BIBO stability",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Prediction of stability of transfer function for open loop and closed loop systems; Characteristic equation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Routh Hurwitz criterion for stability; Crossover frequency, gain and phase margin; Bode stability criterion",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Nyquist stability criterion; Numerical examples on Routh analysis, crossover frequency, and PM",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Design of feedback controllers - semi-empirical tuning techniques (CC and ZN tuning); Numerical problems based on semi-empirical tuning rules",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_6",
+          "title": "Introduction to other methods of controller tuning - Internal Model Control (IMC) tuning, Model Predictive Control (MPC), Fuzzy Logic PID tuning, and Adaptive PID control (basic overview only)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
