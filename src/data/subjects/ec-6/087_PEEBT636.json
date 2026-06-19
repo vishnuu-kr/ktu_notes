@@ -1,0 +1,123 @@
+{
+  "id": "peebt636-ec-s6",
+  "code": "PEEBT636",
+  "name": "COMPUTATIONAL METHODS IN BIOMEDICAL ENGINEERING",
+  "branchId": "ec",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Overview of Computational Methods in Biomedical Engineering",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Basic Programming Skills (Python/MATLAB): Variables and Operations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Conditional Statements (if, elif, else) and Loops (for, while)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Defining and Calling Functions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Data Structures",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "File Handling",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_7",
+          "title": "Libraries for Numerical Computing and Data Analysis",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_8",
+          "title": "Data Visualization",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Root Finding Methods (Bisection, Newton-Raphson), Solving Linear and Nonlinear Equations, Applications in Biomedical Engineering",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Ordinary Differential Equations (ODEs) and Their Applications",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Modeling of Biological Processes (Neuronal Dynamics, Cell Electrophysiology)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Partial Differential Equations (PDEs): Describing Spatial and Temporal Variations in Phenomena such as Heat Transfer in Tissues and Fluid Flow in Blood Vessels",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Sequence Analysis: Algorithms for DNA, RNA, and Protein Sequence Alignment",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Structural Bioinformatics: Molecular Modeling and Simulation Techniques for Studying Protein Structures and Interactions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Genomics and Proteomics: Computational Tools for Analyzing Genomic and Proteomic Data to Understand Gene Expression and Protein Functions",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

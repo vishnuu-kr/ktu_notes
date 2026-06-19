@@ -1,0 +1,81 @@
+{
+  "id": "pbcht604-me-s6",
+  "code": "PBCHT604",
+  "name": "PROCESS DYNAMICS AND CONTROL",
+  "branchId": "me",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Develop a model for the selected system from fundamental conservation principles",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Develop a feedback control system using the concept of block diagram development and reduction",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Implement the system model and controller in MATLAB or Simulink and simulate the response",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Stability analysis: Analyse the stability of the system using methods like Routh-Hurwitz criterion, root locus method, Bode stability criterion, etc.",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Select a suitable controller for the process",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Optimize the control parameter for desired performance using Ziegler-Nichols tuning",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Conduct experiment in the laboratory and evaluate the system performance with the experimental data",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Report preparation and oral presentation: Prepare a detailed report and presentation before the evaluation committee",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
