@@ -1,0 +1,153 @@
+{
+  "id": "peeit636-ec-s6",
+  "code": "PEEIT636",
+  "name": "ADVANCED CONTROL THEORY",
+  "branchId": "ec",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Realization of Compensators",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Lag, Lead and Lag-Lead",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Design of Compensator Using Bode Plot",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Design of P, PI and PID Controller Using Ziegler-Nichols Tuning Method",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Controllability and Observability",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "State Feedback Design via Pole Placement Technique",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Sampled Data Control System: Pulse Transfer Function",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Stability of Sampled Data System",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Routh Hurwitz Criterion and Jury's Test",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_6",
+          "title": "Introduction to State-Space Representation of Sampled Data Systems",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Introduction",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Characteristics of Nonlinear Systems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Types of Nonlinearities",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Analysis through Harmonic Linearisation – Determination of Describing Function of Nonlinearities (Relay, Dead Zone and Saturation Only)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Application of Describing Function for Stability Analysis of Autonomous System with Single Nonlinearity",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Concepts – Construction of Phase Trajectories for Nonlinear Systems and Linear Systems with Static Nonlinearities",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Singular Points",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Classification of Singular Points",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Definition of Stability: Asymptotic Stability and Instability",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Liapunov Methods for Stability of Linear and Nonlinear Continuous Time Systems",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
