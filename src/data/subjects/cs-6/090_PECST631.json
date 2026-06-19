@@ -1,0 +1,195 @@
+{
+  "id": "pecst631-cs-s6",
+  "code": "PECST631",
+  "name": "SOFTWARE TESTING",
+  "branchId": "cs",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Introduction to Software Testing - Concepts, importance of testing, software quality, and real-world failures (e.g., Ariane 5, Therac 25)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Software Testing Processes - Levels of thinking in testing",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Testing Terminologies - Verification, validation, fault, error, bug, test cases, and coverage criteria",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Types of Testing - Unit, Integration, System, Acceptance, Performance (stress, usability, regression), and Security Testing",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Industry Trends - AI in test case automation, Introduction to GenAI in testing",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "Testing Methods - Black-Box, White-Box, and Grey-Box Testing",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_7",
+          "title": "Automation in Testing - Introduction to automation tools (e.g., Selenium, Cypress, JUnit)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_8",
+          "title": "Case Study - Automation of Unit Testing and Mutation Testing using JUnit",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Unit Testing - Static and Dynamic Unit Testing, control flow testing, data flow testing, domain testing",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Mutation Testing - Mutation operators, mutants, mutation score, and modern mutation testing tools (e.g., Muclipse)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "JUnit Framework - Automation of unit testing, frameworks for testing in real-world projects",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "AI in Testing - GenAI for test case generation and optimization, impact on automation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Industry Tools - Application of AI-driven testing tools in automation and predictive testing",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_6",
+          "title": "Case Study - Mutation testing using JUnit, AI-enhanced test case automation",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Graph Coverage Criteria - Node, edge, and path coverage",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Prime Path and Round Trip Coverage",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Data Flow Criteria - du paths, du pairs, subsumption relationships",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Graph Coverage for Code - Control flow graphs (CFGs) for complex structures (e.g., loops, exceptions)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Graph Coverage for Design Elements - Call graphs, class inheritance testing, and coupling data-flow pairs",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_6",
+          "title": "Security Testing - Fundamentals, tools (OWASP, Burp Suite), and their role in protecting modern applications",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_7",
+          "title": "Case Study - Application of graph based testing and security testing using industry standard tools",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Black Box Testing - Input space partitioning, domain testing, functional testing (equivalence class partitioning, boundary value analysis, decision tables, random testing)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Grey Box Testing - Introduction, advantages, and methodologies (matrix testing, regression testing, orthogonal array testing)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Performance Testing - Network latency testing, browser compatibility, responsive testing across multiple devices (e.g., BrowserStack, LambdaTest)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Introduction to PEX - Symbolic execution, parameterized unit testing, symbolic execution trees, and their application",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "GenAI in Testing - Advanced use cases for predictive and responsive testing across devices and environments",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_6",
+          "title": "Case Study - Implementation of black-box, grey-box, and responsive testing using PEX and AI-driven tools",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
