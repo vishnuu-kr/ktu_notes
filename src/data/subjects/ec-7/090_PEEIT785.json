@@ -1,0 +1,171 @@
+{
+  "id": "peeit785-ec-s7",
+  "code": "PEEIT785",
+  "name": "REAL TIME OPERATING SYSTEMS",
+  "branchId": "ec",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Introduction to Operating Systems, Objectives and Functions of Operating Systems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Types of OS",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Concept of the Kernel Within an Operating System, Process Management - Process States",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Process Control Block and Operations on Process, Process Scheduling - Scheduling Algorithms - First Come First-Served (FCFS)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Shortest Job First (SJF)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "Priority Scheduling",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_7",
+          "title": "Round Robin (RR), Advanced Scheduling Techniques (Basics Only) - Multilevel Queue Scheduling",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_8",
+          "title": "Multilevel Feedback Queue Scheduling",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Real Time Operating Systems (RTOS) - Structure and Characteristics of RTOS, Task Management - Task States and Task Synchronization, Semaphores - Type",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Usage of Semaphores for Synchronization, Inter Task Communication Mechanisms (Basics Only) - Message Queues",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Pipes",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Event Registers and Signals",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Real-Time Task Scheduling and Constraints",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Task Constraints, Task Scheduling",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Aperiodic Task Scheduling (Jackson's Algorithm and Horn's Algorithm), Scheduling with Precedence Constraints",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "LDF and EDF, Periodic Task Scheduling (Basics Only)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Rate Monotonic Scheduling (RMS), Deadline Monotonic Scheduling (DMS), Real-Time Kernel",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_6",
+          "title": "Structure, State Transition Diagram and Kernel Primitives",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Real-Time Operating Systems in Practice - Feature and Applications of FreeRTOS and Linux, Overview of Commercial Real-Time Operating Systems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "PSOS, VRTX and RT, Case Study",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "MicroC/OS-II (Features, Threads and Task Scheduling - Basics Only), Real-Life Applications",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Adaptive Cruise Control",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Practical Implementation Challenges and Solutions",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
