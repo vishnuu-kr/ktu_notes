@@ -33,16 +33,18 @@ print(f"{'sem':>3} {'topics':>8} {'done':>8} {'missing':>8} {'%':>5}")
 for sem in sorted(sems):
     # topic_id -> done(bool), merged across chunks, per file
     file_topics = collections.defaultdict(dict)
-    suffix = f"-{sem}.json"
+    # Match either folder (e.g. me-6/xxx.json) or flat file (e.g. me-6.json)
     for br in sems[sem]:
         for path in list_files(br):
-            if not path.endswith(suffix):
+            # Check if directory name is like me-6 or filename is like me-6.json
+            if not (f"-{sem}/" in path or path.endswith(f"-{sem}.json")):
                 continue
             data = load(br, path)
             if not data:
                 continue
             fname = path.split("/")[-1]
-            for s in data:
+            subjects = data if isinstance(data, list) else [data]
+            for s in subjects:
                 for m in s.get("modules", []):
                     for top in m.get("topics", []):
                         tid = f"{s.get('code','')}|{top.get('id','')}"

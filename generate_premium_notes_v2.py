@@ -23,6 +23,9 @@ import sys
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+# ─── HTTP Session with Connection Pooling ─────────────────────────────────────
+session = requests.Session()
+
 # ─── Timing ──────────────────────────────────────────────────────────────────
 START_TIME = time.time()
 MAX_RUNTIME_SECONDS = 5.25 * 3600  # 5h 15m (safe margin for commit step)
@@ -135,7 +138,8 @@ def fetch_notes(topic_title, course_info, module_info, api_key):
         if is_time_up():
             return None
         try:
-            resp = requests.post(api_url, headers=headers, json=payload, timeout=300)
+            # Use pooled session and reduce timeout from 300s to 150s
+            resp = session.post(api_url, headers=headers, json=payload, timeout=150)
             
             # Handle rate limiting specifically
             if resp.status_code == 429:
@@ -390,8 +394,18 @@ def main():
     # (a 30-worker run managed only ~14 topics/min across 8 runners).
     # Keep this low and stable; scale total throughput via more runners (chunks)
     # and more API keys instead.
-    max_workers = min(len(my_keys) * args.max_per_key, 5)
+    # Raise local cap to 10 concurrent requests to boost speed (pooling keeps it safe)
+    max_workers = min(len(my_keys) * args.max_per_key, 10)
     print(f"Max concurrent requests: {max_workers}", flush=True)
+    
+    # Configure HTTP connection pool size to match thread count
+    adapter = requests.adapters.HTTPAdapter(
+        pool_connections=max_workers,
+        pool_maxsize=max_workers,
+        max_retries=3  # Automatically retry transient TCP name resolution or resets
+    )
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
     
     # Find data directory
     data_dir = "src/data/subjects"
