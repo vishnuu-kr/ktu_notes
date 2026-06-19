@@ -1,0 +1,117 @@
+{
+  "id": "perat635-ec-s6",
+  "code": "PERAT635",
+  "name": "ADVANCED CONTROL SYSTEMS",
+  "branchId": "ec",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "State Space Representation of Systems: Introduction to State Space and State Model Concepts, State Equation of Linear Continuous Time Systems, Matrix Representation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Examples of Electrical Circuits and DC Servomotors, Phase Variable Forms of State Representation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Diagonal Canonical Forms",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Similarity Transformations to Diagonal Canonical Form",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Solution of Time Response of Autonomous Systems and Forced Systems, State Space Analysis of Discrete Time Control Systems: Phase Variable Form and Diagonal Canonical Form Representations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Pulse Transfer Function from State Matrix",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Computation of State Transition Matrix (problems from 2nd order systems only)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Kalman's, Gilbert's and PBH Tests",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Duality Principle, State Feedback Controller Design: State Feedback Design via Pole Placement Technique, State Observers for LTI Systems - Types",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Design of Full Order Observer",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Singular Points",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Classification of Singular Points, Definition of Stability",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Asymptotic Stability and Instability, Construction of Phase Trajectories Using Isocline Method for Linear and Nonlinear Systems, Lyapunov Stability Analysis: Lyapunov Function",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Lyapunov Methods to Stability of Nonlinear Systems, Lyapunov Methods to LTI Continuous Time Systems",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
