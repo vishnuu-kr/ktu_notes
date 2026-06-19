@@ -1,0 +1,117 @@
+{
+  "id": "peect754-ec-s7",
+  "code": "PEECT754",
+  "name": "MIXED SIGNAL CIRCUITS",
+  "branchId": "ec",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "CMOS Amplifiers: Common Source Amplifier with Resistive and Active Loads, Common Source Amplifier with Source Degeneration, Common Gate and Common Drain Amplifier (Only Voltage Gain and Input and Output Impedances of the Circuits)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Cascode Amplifier: Cascoded Amplifier with Cascade Loads, Folded Cascode Amplifier",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Basic Circuit",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "PMOS and NMOS Current Mirrors, Simple and Cascode Current Mirror Circuits, CMOS Differential Amplifier: Differential Amplifier with Resistive Current Source and Current Mirror Loads",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "MOS Telescopic Cascode Amplifier (Only Voltage Gain and Input and Output Impedance of the Circuits)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "CMOS Operational Amplifier, Two Stage Operational Amplifiers, Frequency Compensation of OPAMPS, Miller Compensation, Band Gap References",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Supply Independent Biasing, Temperature Independent References - Band Gap Reference",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "DAC Specifications",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "ADC Specifications, DAC Architecture - Resistor String",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "R-2R Ladder Networks",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Current Steering",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Charge Scaling",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_6",
+          "title": "Cyclic and Pipeline Types, ADC Architecture - Flash Type",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_7",
+          "title": "The Successive Approximation Type and Oversampling ADCs",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

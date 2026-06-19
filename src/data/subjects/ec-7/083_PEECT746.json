@@ -1,0 +1,153 @@
+{
+  "id": "peect746-ec-s7",
+  "code": "PEECT746",
+  "name": "ADVANCED DIGITAL SIGNAL PROCESSING",
+  "branchId": "ec",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Basic multi-rate operations: up sampling and down sampling, time domain and frequency domain analysis, need for anti aliasing and anti imaging filters. Noble identities. Type 1 and Type 2 polyphase decomposition, efficient structures for decimation and interpolation filters. Uniform filter banks and its implementation using polyphase decomposition. QMF filter bank",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Conditions for perfect reconstruction, polyphase implementation. Design of perfect reconstruction M-channel filter banks. Applications of multirate systems",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Time frequency trade off in signal analysis, Heisenberg's uncertainty principle. Short time Fourier transform",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Filter bank representation. Continuous wavelet transform",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Admissibility condition. Time-frequency diagrams for the STFT and the wavelet transform. Discrete wavelet transform",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Haar scaling and wavelet functions, Haar analysis of signals, concept of nested space. Orthonormal wavelet analysis",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Filter bank interpretation. Applications of wavelet transform",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Power spectrum estimation - Rational power spectra representation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Relationships between the filter parameters and the autocorrelation sequence",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Parametric method of power spectrum estimation - Yule Walker equations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Non parametric method of power spectrum estimation - Periodogram",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Averaging periodogram",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Linear prediction filters - Forward and backward predictors",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Lattice filter structure",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Relationship between linear filter coefficients and reflection coefficients",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Normal equations for optimum filter design. Adaptive filters - Weiner filter design",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Adaptive filters for adaptive channel equalization",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_6",
+          "title": "Adaptive noise cancellation and linear predictive coding of speech signals",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_7",
+          "title": "Steepest descent algorithm",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_8",
+          "title": "LMS algorithm",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

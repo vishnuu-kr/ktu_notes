@@ -1,0 +1,31 @@
+{
+  "id": "oecht722-me-s7",
+  "code": "OECHT722",
+  "name": "OECHT722",
+  "branchId": "me",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": []
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": []
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Process Safety Engineering",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "pebbt743-me-s7",
+  "code": "PEBBT743",
+  "name": "COMPUTATIONAL BIOLOGY",
+  "branchId": "me",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Electronic Structure Methods: Quantum chemical methods, semi-empirical and ab initio methods, conformational analysis, energy minimization, and predicting the mechanism of organic reactions using electronic structure methods",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Molecular Modeling: Bioactive vs. global minimum conformations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Automated methods of conformational search",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Advantages and limitations of available software",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Molecular graphics",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Computer methodologies behind molecular modeling including artificial intelligence methods",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Structure-Activity Relationships in Drug Design: Qualitative versus quantitative approaches, advantages and disadvantages, random screening",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Non-random screening",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Rational approaches to lead discovery, homologation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Chain branching",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Ring-chain transformations, insights into molecular recognition phenomenon, structure-based drug design",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_6",
+          "title": "Ligand-based drug design",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Electronic Effects: Hammett equation, lipophilicity effects, Hansch equation, steric effects, Taft equation, experimental and theoretical approaches for the determination of physicochemical parameters, parameter interdependence, regression analysis, descriptor calculation, and the importance of biological data in the correct form",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "2D QSAR and 3D-QSAR examples of CoMFA and CoMSIA; Molecular Docking: Rigid docking, flexible docking, manual docking, advantages and disadvantages of Flex-X, FlexS, Autodock, and Dock software with successful examples, dynamics of drugs, biomolecules, drug-receptor complexes, Monte Carlo simulations, and molecular dynamics in performing conformational search and docking",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
