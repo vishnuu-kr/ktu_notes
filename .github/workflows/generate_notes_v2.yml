@@ -18,7 +18,6 @@ on:
 
 permissions:
   contents: write
-  workflows: write
 
 jobs:
   # ─── Build the dynamic matrix ─────────────────────────────────────────────
@@ -154,15 +153,20 @@ jobs:
           mkdir -p /tmp/gen_output
           cp -r src/data/subjects/*-${{ matrix.semester }} /tmp/gen_output/ 2>/dev/null || true
           
-          # Create or switch to the progress branch
+          # Switch to progress branch
           git fetch origin
           if git show-ref --verify --quiet refs/remotes/origin/$BRANCH_NAME; then
             git checkout -B $BRANCH_NAME origin/$BRANCH_NAME
+            # Delete any legacy workflow files that might be on this branch
+            rm -rf .github/ 2>/dev/null || true
           else
-            git checkout -b $BRANCH_NAME
+            # Create a clean, history-free orphan branch (no workflows inside)
+            git checkout --orphan $BRANCH_NAME
+            git rm -rf . 2>/dev/null || true
           fi
           
           # Restore generated files
+          mkdir -p src/data/subjects
           cp -r /tmp/gen_output/* src/data/subjects/ 2>/dev/null || true
           
           # Stage and commit
