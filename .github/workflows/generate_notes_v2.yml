@@ -57,11 +57,11 @@ jobs:
               1) CHUNKS=1 ;;
               2) CHUNKS=2 ;;
               3) CHUNKS=3 ;;
-              4) CHUNKS=5 ;;
-              5) CHUNKS=6 ;;
-              6) CHUNKS=7 ;;
-              7) CHUNKS=7 ;;
-              8) CHUNKS=5 ;;
+              4) CHUNKS=20 ;;
+              5) CHUNKS=20 ;;
+              6) CHUNKS=20 ;;
+              7) CHUNKS=20 ;;
+              8) CHUNKS=20 ;;
               *) CHUNKS=1 ;;
             esac
             
