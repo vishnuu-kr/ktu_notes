@@ -1,0 +1,117 @@
+{
+  "id": "pecst634-cs-s6",
+  "code": "PECST634",
+  "name": "ADVANCED DATABASE SYSTEMS",
+  "branchId": "cs",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Query Processing and Optimization: Measures of Query Cost, Algorithms for Selection with Cost Analysis, Algorithms for Join with Cost Analysis, Evaluation of Expressions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Heuristics in Query Optimization: Optimization of Relational Algebra Expressions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Physical Database Design and Tuning: Introduction to Physical Database Design, Overview of Database Tuning, Tuning the Conceptual Schema, Tuning Queries and Views",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Impact of Concurrency",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Distributed Databases: Distributed Systems, Introduction, Architecture, Distributed Database Concepts, Distributed Data Storage, Distributed Transactions, Commit Protocols, Concurrency Control",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Query Processing and Decomposition: Query Processing Objectives, Characterization of Query Processors, Layers of Query Processing, Query Decomposition, Localization of Distributed Data",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "DTD and XML Schema, XML Presentation, XPath Queries, XQuery",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "NoSQL Databases: CAP Theorem, Document Based",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "MongoDB Operation: Insert, Update, Delete, Query, Indexing, Application, Replication, Sharding, Deployment",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Cassandra: Data Model, Key Space, Table Operations, CRUD Operations",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Graph Database: Introduction, Data Modelling with Graphs, Building a Graph Database Application, Data Modeling, Predictive Analysis with Graph Theory",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Depth and Breadth First Search",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Path-Finding with Dijkstra's Algorithm",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Graph Theory and Predictive Modeling",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
