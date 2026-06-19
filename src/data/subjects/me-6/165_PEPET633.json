@@ -1,0 +1,117 @@
+{
+  "id": "pepet633-me-s6",
+  "code": "PEPET633",
+  "name": "DEEP LEARNING",
+  "branchId": "me",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Differences Between Machine Learning and Deep Learning, Comparisons in Applications",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Introduction to Neural Networks: Neurons, Layers, Activation Functions, Concepts of Forward and Backward Propagation",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "TensorFlow, Keras, PyTorch",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Setting Up the Environment and Basic Operations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Building and Training a Simple Neural Network Using TensorFlow/Keras/PyTorch",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Introduction to Deep Feedforward Networks",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Convolutional Neural Networks (CNNs) - Architecture, Operations, and Applications",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_6",
+          "title": "Recurrent Neural Networks (RNNs) - Architecture, Operations, and Applications",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Loss Functions and Optimization Algorithms",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Techniques to Avoid Overfitting - Regularization, Dropout, and Batch Normalization",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Identification of Suitable Algorithms",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Generative Adversarial Networks (GANs) - Concepts and Applications",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Autoencoders and Their Applications in Anomaly Detection and Compression",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Case Studies of Deep Learning Applications in Various Industries",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
