@@ -1,0 +1,159 @@
+{
+  "id": "pcmrt601-me-s6",
+  "code": "PCMRT601",
+  "name": "ROBOTICS & MACHINE VISION",
+  "branchId": "me",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Introduction to Robotics",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Basic Structure, Classification of Robot and Robotic System, Law of Robotics, Robot Motion, Wrist Configuration, Motion",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Roll",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Pitch, Yaw, Drives, Hydraulic Motors, DC Motor, Stepper Motor, Power Transmission Systems",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Position Sensor, Potentiometer, Encoders, LVDT, Velocity Sensor, Acceleration Sensor, Force, Pressure and Torque Sensor, Touch and Tactile Sensor, Proximity",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Range and Sniff Sensor, Robot End Effectors, Types of End Effectors, Mechanical Gripper",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Types of Gripper Mechanism",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Position and Orientation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Frames",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Mapping",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Changing Description from Frames to Frames, Transformation Arithmetics",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Translation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_6",
+          "title": "Rotation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_7",
+          "title": "Transformation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_8",
+          "title": "Transforms Equations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_9",
+          "title": "Transformation of Vectors",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_10",
+          "title": "Introduction to Manipulations, Forward Kinematics and Inverse Kinematics, D-H Representation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_11",
+          "title": "Method of Robotic Programming (Qualitative Treatment Only)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Machine Vision as a Sensor",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Low and Higher Level Vision, 1D and 3D Vision, Image Acquisition and Digitization, Cameras, CCD, CID, CPD, Illumination and Types, Image Processing and Analysis, Feature Extraction, Applications of Vision in Industrial Automation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Control Systems Using Vision for Decision Making and Feedback, Visual Servoing",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

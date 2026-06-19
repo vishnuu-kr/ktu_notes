@@ -1,0 +1,213 @@
+{
+  "id": "peftt638-me-s6",
+  "code": "PEFTT638",
+  "name": "PROCESS INSTRUMENTATION AND CONTROL",
+  "branchId": "me",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Introduction to Process Dynamics and Control",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Definition of Terms and Laplace Transform",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Transform of Simple Functions, Derivatives and Integrals, Properties of Laplace Transforms",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Final Value Theorem, Initial Value Theorem, Transition of Transforms and Functions, Examples",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Inversion by Partial Fraction",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "Solution of Differential Equation, Qualitative Nature of Solutions, Linear Loop Open System",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_7",
+          "title": "First Order Systems, Mercury Thermometer, Liquid Level and Mixing Processes",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_8",
+          "title": "Response of These to Different Types of Forcing Functions, Systems in Series",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_9",
+          "title": "Interacting and Non-Interacting Types",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Linear Open Loop Systems, Second Order Systems, Mercury Thermometer in Well and Manometer, Impulse and Step Response of Under Damped",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Critically Damped and Over-Damped System",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Their Derivation, Closed Loop System, Servo and Regulator Problems, Block Diagram Development, Controllers Types",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Basic Principles and Transfer Functions, PID",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "PI and PD",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Introduction to Stability of Linear System",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Routh Hurwitz Criterion for Stability",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Root Locus Technique, Plotting the Root Locus Diagram",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Transportation Lag and Its Effect on Root Locus Diagram, Introduction to Frequency Response",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Bode Diagram for First Order System",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_6",
+          "title": "Bode Stability Criterion, Gain Margin and Phase Margin",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Instrumentation Definition",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Performance Characteristics of an Instrument, Static and Dynamic Characteristics, Temperature Measurement, Three Types of Thermometers, Liquid Filled",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Vapour Pressure and Gas Type, Bimetallic Thermometer, Resistance Thermometer, Principles of Thermoelectricity like Seebeck Effect",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Peltier Effect",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Thomson Effect, Radiation Methods like Pyrometry",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_6",
+          "title": "Optical Pyrometry",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_7",
+          "title": "Thermistor, Pressure Measurement, Manometer of U-Tube",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_8",
+          "title": "Well Type and Inclined Type, Bourdon Tube",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_9",
+          "title": "Flat and Corrugated Diaphragm",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_10",
+          "title": "Capsules",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
