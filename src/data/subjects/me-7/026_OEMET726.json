@@ -1,0 +1,141 @@
+{
+  "id": "oemet726-me-s7",
+  "code": "OEMET726",
+  "name": "COMPUTATIONAL HEAT TRANSFER",
+  "branchId": "me",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Basics of Heat Transfer – Conduction, Convection and Radiation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Mathematical Description of Fluid Flow and Heat Transfer: Conservation Equations for Mass, Momentum, Energy and Chemical Species in Cartesian and Cylindrical Coordinates",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Classification of Partial Differential Equations – Elliptic, Parabolic and Hyperbolic Equations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Initial and Boundary Conditions",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Finite Difference Form of PDE Equations – Taylor's Series Approach: Central, Backward and Forward Difference of First and Second Order Derivatives",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Solution of Laplace Equation (Conduction Problems) Using Finite Difference Equations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Discretization Error, Truncation Error and Round Off Error",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Convergence of Iteration",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Solution of Unsteady Conduction Equation Using Finite Difference Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Explicit, Implicit and Semi-Implicit Methods",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Stability of Numerical Solutions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Solution of Linear Algebraic Equations – Direct Methods and Indirect Methods",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Point by Point Iterations, Tri-Diagonal Matrix Method (TDMA)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Introduction to Finite Volume Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Solution of One-Dimensional Steady State Conduction Problems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Handling Different Boundary Conditions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Solution of One-Dimensional Convection Diffusion Problems Using Central Difference Schemes and Upwind Scheme",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Introduction to SIMPLE Algorithm for Incompressible Flows",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

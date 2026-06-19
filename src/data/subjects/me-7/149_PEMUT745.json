@@ -1,0 +1,99 @@
+{
+  "id": "pemut745-me-s7",
+  "code": "PEMUT745",
+  "name": "FINITE ELEMENT ANALYSIS",
+  "branchId": "me",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Introduction to Finite Element Methods - Areas of Application - General Steps in Finite Element Methods - Geometric Modelling Techniques. Derivation of the Stiffness Matrix using Displacement Technique - Spring and Truss Elements - Assembly of Global Stiffness Matrix, Boundary Conditions. Development of Euler Beam Equations - Finite Element Formulations",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Coordinate Transformation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Global and Local Coordinate System, Interpolation Functions for General Element Formulation. Stiffness Matrix of Isoparametric Elements. Patch Test, Mesh Convergence",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Basic Concept Only. Different Types of Refinements (h, p and r). Rayleigh's Ritz Method (Variational Method) and Weighted Residual Method. Numerical Integration using Gaussian Quadrature",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Development of the Plane Stress and Plane Strain Stiffness Equations - Development of the CST, Linear-Strain Triangle (Shape Functions and Equations Only)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Galerkin Weighted Residual Techniques",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Types of Boundary Conditions (Neumann, Dirichlet and Robin)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Euler's Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Central Difference Technique",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Critical Time Step",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Rigid Body Modes",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
