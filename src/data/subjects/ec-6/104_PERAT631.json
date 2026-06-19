@@ -1,0 +1,129 @@
+{
+  "id": "perat631-ec-s6",
+  "code": "PERAT631",
+  "name": "DIGITAL CONTROL SYSTEMS",
+  "branchId": "ec",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Basic Elements of Discrete Data Control Systems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Advantages of Discrete Data Control Systems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Signal Conversion & Processing: Digital Signals & Coding",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Data Conversion & Quantization",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Sample and Hold Devices, Mathematical Modelling of the Sampling Process, Zero Order Hold & First Order Hold",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Pulse Transfer Function, Z-Transform Analysis of Closed Loop and Open Loop Systems, Modified Z-Transfer Function, Steady State Error Analysis of Digital Systems, Examples on Static Error Coefficients, Bilinear Transformation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Mapping from S-Plane to Z-Plane",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Stability Analysis of Linear Digital Control Systems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Routh Hurwitz Criteria, Jury's Test, Root Loci of Digital Control Systems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Rules for Construction of Root Locus, Frequency Domain Analysis",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Bode Plots, Gain Margin and Phase Margin",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "State Space Representation of Discrete Time Systems, Transfer Function from State Space Model",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Various Canonical Forms, Discrete Time State Transition Matrix",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Conversion of Transfer Function Model to State Space Model",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Characteristics Equation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Solution of Discrete State Equations",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
