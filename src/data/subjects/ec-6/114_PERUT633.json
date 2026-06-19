@@ -1,0 +1,81 @@
+{
+  "id": "perut633-ec-s6",
+  "code": "PERUT633",
+  "name": "MECHATRONIC SYSTEM DESIGN",
+  "branchId": "ec",
+  "semester": 6,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Overview of Mechatronics: Definition, Scope, and Applications of Mechatronic Systems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Interdisciplinary Approach: Integration of Mechanical, Electronic, and Software Components",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Mechanical Components: Introduction to Actuators, Sensors, and Mechanical Structures; Selection Criteria and Compatibility Considerations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Electronic Components: Overview of Microcontrollers, Sensors, and Signal Conditioning Circuits; Interfacing Techniques and Circuit Design for Integration",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Modeling Techniques: Introduction to Mathematical, Physical, and Empirical Models; Modeling Mechanical, Electrical, and Control Subsystems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Simulation Tools: Hands-on Experience with Simulation Software (e.g., MATLAB/Simulink, LabVIEW); Simulating Mechatronic Systems to Analyze Performance and Behavior",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Control Theory Basics: Introduction to Control Systems (Feedback, PID Control, and System Stability); Design Considerations for Mechatronic Control Systems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Implementation and Testing: Practical Implementation of Control Algorithms on Hardware Platforms; Testing and Validation of Mechatronic Systems Using Simulation and Real-World Experiments",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
