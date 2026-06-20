@@ -393,8 +393,8 @@ def main():
     # (a 30-worker run managed only ~14 topics/min across 8 runners).
     # Keep this low and stable; scale total throughput via more runners (chunks)
     # and more API keys instead.
-    # Raise local cap to 15 concurrent requests to boost speed (pooling keeps it safe)
-    max_workers = min(len(my_keys) * args.max_per_key, 15)
+    # Scale down total concurrency per runner to prevent API rate limit storms when 20 VMs run in parallel.
+    max_workers = min(len(my_keys) * args.max_per_key, 6)
     print(f"Max concurrent requests: {max_workers}", flush=True)
     
     # Configure HTTP connection pool size to match thread count
