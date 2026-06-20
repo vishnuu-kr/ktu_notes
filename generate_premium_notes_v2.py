@@ -138,8 +138,7 @@ def fetch_notes(topic_title, course_info, module_info, api_key):
         if is_time_up():
             return None
         try:
-            # Use pooled session and reduce timeout from 300s to 150s
-            resp = session.post(api_url, headers=headers, json=payload, timeout=150)
+            resp = session.post(api_url, headers=headers, json=payload, timeout=300)
             
             # Handle rate limiting specifically
             if resp.status_code == 429:

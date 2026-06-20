@@ -5,19 +5,6 @@ SUBDIR = "src/data/subjects"
 def sh(args):
     return subprocess.run(args, capture_output=True, text=True, encoding="utf-8", errors="replace")
 
-def list_files(branch):
-    r = sh(["git", "ls-tree", "-r", "--name-only", branch, SUBDIR])
-    return [l for l in r.stdout.splitlines() if l.endswith(".json")]
-
-def load(branch, path):
-    r = sh(["git", "show", f"{branch}:{path}"])
-    if r.returncode != 0 or not r.stdout.strip():
-        return None
-    try:
-        return json.loads(r.stdout)
-    except Exception:
-        return None
-
 # semester -> list of chunk branches
 sems = collections.defaultdict(list)
 r = sh(["git", "branch", "-r"])
@@ -28,29 +15,63 @@ for line in r.stdout.splitlines():
         sem = int(b.split("sem-")[1].split("-chunk")[0])
         sems[sem].append(b)
 
-grand_t = grand_done = 0
-print(f"{'sem':>3} {'topics':>8} {'done':>8} {'missing':>8} {'%':>5}")
+load_tasks = []
 for sem in sorted(sems):
-    # topic_id -> done(bool), merged across chunks, per file
-    file_topics = collections.defaultdict(dict)
-    # Match either folder (e.g. me-6/xxx.json) or flat file (e.g. me-6.json)
     for br in sems[sem]:
-        for path in list_files(br):
-            # Check if directory name is like me-6 or filename is like me-6.json
-            if not (f"-{sem}/" in path or path.endswith(f"-{sem}.json")):
-                continue
-            data = load(br, path)
-            if not data:
-                continue
-            fname = path.split("/")[-1]
-            subjects = data if isinstance(data, list) else [data]
-            for s in subjects:
-                for m in s.get("modules", []):
-                    for top in m.get("topics", []):
-                        tid = f"{s.get('code','')}|{top.get('id','')}"
-                        done = bool((top.get("content") or "").strip())
-                        prev = file_topics[fname].get(tid, False)
-                        file_topics[fname][tid] = prev or done
+        r_files = sh(["git", "ls-tree", "-r", "--name-only", br, SUBDIR])
+        for path in r_files.stdout.splitlines():
+            if path.endswith(".json") and (f"-{sem}/" in path or path.endswith(f"-{sem}.json")):
+                load_tasks.append((sem, br, path))
+
+# Run git cat-file --batch process
+proc = subprocess.Popen(
+    ["git", "cat-file", "--batch"],
+    stdin=subprocess.PIPE,
+    stdout=subprocess.PIPE,
+    text=False
+)
+
+sem_file_topics = collections.defaultdict(lambda: collections.defaultdict(dict))
+processed = 0
+for sem, br, path in load_tasks:
+    req = f"{br}:{path}\n".encode("utf-8")
+    proc.stdin.write(req)
+    proc.stdin.flush()
+    
+    header = proc.stdout.readline().decode("utf-8", errors="replace").strip()
+    if "missing" in header or not header:
+        continue
+    parts = header.split()
+    if len(parts) < 3:
+        continue
+    size = int(parts[2])
+    content_bytes = proc.stdout.read(size)
+    proc.stdout.read(1) # consume trailing newline
+    
+    try:
+        data = json.loads(content_bytes.decode("utf-8", errors="replace"))
+    except Exception:
+        continue
+        
+    fname = path.split("/")[-1]
+    subjects = data if isinstance(data, list) else [data]
+    for s in subjects:
+        for m in s.get("modules", []):
+            for top in m.get("topics", []):
+                tid = f"{s.get('code','')}|{top.get('id','')}"
+                done = bool((top.get("content") or "").strip())
+                prev = sem_file_topics[sem][fname].get(tid, False)
+                sem_file_topics[sem][fname][tid] = prev or done
+                
+    processed += 1
+
+proc.stdin.close()
+proc.wait()
+
+print(f"{'sem':>3} {'topics':>8} {'done':>8} {'missing':>8} {'%':>5}")
+grand_t = grand_done = 0
+for sem in sorted(sems):
+    file_topics = sem_file_topics[sem]
     t = done = 0
     for fname, topics in file_topics.items():
         t += len(topics)
