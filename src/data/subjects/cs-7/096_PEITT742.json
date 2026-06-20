@@ -1,0 +1,171 @@
+{
+  "id": "peitt742-cs-s7",
+  "code": "PEITT742",
+  "name": "SOFTWARE DEVELOPMENT WITH AGILE AND DEVOPS",
+  "branchId": "cs",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Overview of Traditional vs. Agile Development",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Agile Manifesto and Principles",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Agile Frameworks: Scrum, Kanban, and XP (Extreme Programming)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Agile Project Management: User Stories, Backlogs, Sprints, and Releases",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Roles in Agile Teams: Product Owner, Scrum Master, and Development Team",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "Agile Planning and Estimation: Story Points, Velocity, and Burndown Charts",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_7",
+          "title": "Agile Metrics and Reporting: Measuring Progress and Continuous Improvement",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Definition and Need for DevOps",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "DevOps Lifecycle",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Continuous Integration and Continuous Deployment (CI/CD): Jenkins, GitLab CI, Travis CI",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Infrastructure as Code (IaC): Terraform, Ansible, Docker, and Kubernetes",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Version Control Systems: Git, Git Workflows, and Branching Strategies",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_6",
+          "title": "Automated Testing in DevOps: Unit Tests, Integration Tests, and Deployment Testing",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Importance of Security in Software and Common Vulnerabilities",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Secure Coding Practices: OWASP Top 10 and Secure Coding Standards",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Threat Modeling: Identifying Threats and Security Design Principles",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Security Testing: Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), and Penetration Testing",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Security in CI/CD Pipeline: Integrating Security into DevOps (DevSecOps) and Automated Security Tools",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Custom Pipelines, Blue-Green Deployments, and Canary Releases",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Monitoring and Logging: Prometheus, Grafana, and ELK Stack (Elasticsearch, Logstash, Kibana)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Cloud and DevOps: DevOps Practices in AWS, Azure, and GCP",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Agile at Scale: Scaling Agile in Large Organizations, SAFe (Scaled Agile Framework), LeSS (Large Scale Scrum)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Continuous Feedback and Improvement: Retrospectives, Continuous Learning, and Adaptation",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
