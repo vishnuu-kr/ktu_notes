@@ -1,0 +1,171 @@
+{
+  "id": "peict745-ec-s7",
+  "code": "PEICT745",
+  "name": "VIRTUAL INSTRUMENTATION",
+  "branchId": "ec",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Graphical System Design: Model-Design Flow with GSD, Virtual Instrumentation, Virtual Instrument and Traditional Instrument, Hardware and Software in Virtual Instrumentation, Virtual Instrumentation for Test, Control and Design, Virtual Instrumentation in the Engineering Process, Virtual Instruments Beyond Personal Computer, Graphical System Design Using LabVIEW, Graphical Programming and Textual Programming",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Introduction to LabVIEW: Advantages of LabVIEW, Software Environment, Creating and Saving a VI, Front Panel Toolbar, Block Diagram Toolbar, Palettes, Shortcut Menus, Property Dialog Boxes",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Front Panel Controls and Indicators, Block Diagram, Data Types, Data Flow Program, LabVIEW Documentation Resources, Keyboard Shortcuts",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Modular Programming in LabVIEW",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Building a VI: Front Panel and Block Diagram, Icon and Connector Pane",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "Creating an Icon",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_7",
+          "title": "Building a Connector Pane, Displaying SubVIs and Express VIs as Icons or Expandable Nodes, Creating SubVIs from Sections of a VI",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_8",
+          "title": "Opening and Editing SubVIs, Placing SubVIs on Block Diagrams, Saving SubVIs",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_9",
+          "title": "Creating a Stand-Alone Application",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Repetition and Loops: For Loops, While Loops, Structure Tunnels, Terminals Inside or Outside Loops, Shift Registers, Feedback Nodes, Control Timing, Communicating Among Multiple Loops, Local Variables, Global Variables",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Arrays in LabVIEW: Creating One-Dimensional Array Controls, Indicators and Constants, Creating Two-Dimensional Arrays, Creating Multidimensional Arrays, Initializing Arrays, Deleting Elements, Rows, Columns and Pages Within Arrays, Inserting Elements, Rows, Columns and Pages Into Arrays, Replacing Elements, Rows, Columns and Pages Within Arrays, Array Functions, Auto Indexing, Creating Two-Dimensional Arrays Using Loops, Identification of Data Structure (Scalar and Array) Using Wires, Using Auto-Indexing to Set the For Loop Count, Matrix Operations with Arrays, Polymorphism",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Clusters: Creating Cluster Controls and Indicators, Creating Cluster Constant, Order of Cluster Elements, Cluster Operations, Assembling Clusters, Disassembling Clusters, Conversion Between Arrays and Clusters, Error Handling, Error Cluster",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Plotting: Data Types of Waveforms, Waveform Graphs, Waveform Charts, Waveform Data Type, XY Graphs, Intensity Graphs and Charts, Digital Waveform Graphs, 3D Graphs",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Customizing Graphs and Charts, Customizing Graphs, Customizing 3D Graphs",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Customizing Charts, Dynamically Formatting Waveform Graphs, Configuring a Graph or Chart",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Displaying Special Planes on the XY Graph",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Structures: Case Structures, Sequence Structures, Customizing Structures, Timed Structures, Formula Nodes",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_6",
+          "title": "Event Structure",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_7",
+          "title": "LabVIEW MathScript",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_8",
+          "title": "Strings and File I/O: Creating String Controls and Indicators, String Functions, Editing, Formatting and Parsing Strings, Formatting Strings, Configuring String Controls and Indicators, Basics of File Input/Output, Choosing a File I/O Format, LabVIEW Data Directory, File I/O VIs, Creating a Relative Path",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Instrument Control: Introduction, GPIB Communication, Hardware Specifications, Software Architecture, Instrument I/O Assistant, VISA, Instrument",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Serial Port Communications, Data Transfer Rate, Serial Port Standards, Using Other Interfaces",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Data Acquisition: Transducers, Signals, Signal Conditioning, DAQ Hardware Configuration, DAQ Hardware, Analog Inputs, Analog Outputs, Counters, Digital I/O (DIO), DAQ Software Architecture, DAQ Assistant, Channels and Task Configuration, Selecting and Configuring a Data Acquisition Device, Components of Computer-Based Measurement System",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}

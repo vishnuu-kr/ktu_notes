@@ -1,0 +1,189 @@
+{
+  "id": "perat755-ec-s7",
+  "code": "PERAT755",
+  "name": "FPGA BASED SYSTEM DESIGN",
+  "branchId": "ec",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Digital System Design Options and Tradeoffs",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Design Methodology and Technology Overview",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "High Level System Architecture and Specification: Behavioral Modelling and Simulation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Hardware Description Languages (Emphasis on Verilog)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Combinational and Sequential Design",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "State Machine Design",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_7",
+          "title": "Test Benches",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "CPLD",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "FPGA Features",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Limitations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Architectures and Programming",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Implementation of MSI Circuits Using Programmable Logic Devices",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "FPGA Architectural Options",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Granularity of Function and Wiring Resources",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Coarse vs. Fine Grained",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Vendor Specific Issues (Emphasis on Xilinx and Altera)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Logic Block Architecture: FPGA Logic Cells",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_6",
+          "title": "Timing Models",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_7",
+          "title": "Power Dissipation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_8",
+          "title": "I/O Block Architecture: Input and Output Cell Characteristics",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_9",
+          "title": "Clock Input",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_10",
+          "title": "Timing",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_11",
+          "title": "Power Dissipation",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Programmable Interconnect: Partitioning and Placement, Routing Resources, Delays",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Applications: Embedded System Design Using FPGAs, DSP Using FPGAs",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Commercial FPGAs: Xilinx, Altera, Actel (Different Series Description Only)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
