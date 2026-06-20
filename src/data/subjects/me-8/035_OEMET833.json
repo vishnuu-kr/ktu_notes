@@ -1,0 +1,129 @@
+{
+  "id": "oemet833-me-s8",
+  "code": "OEMET833",
+  "name": "NUMERICAL TECHNIQUES  ENGINEERING",
+  "branchId": "me",
+  "semester": 8,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Motivation and Applications of Numerical Methods, Significant Digits, Accuracy and Precision",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Truncation and Round-off Errors",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Roots of Nonlinear Equations - Bisection Method, Newton Raphson Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Solution of System of Linear Equations - Gauss Elimination, Gauss Jordan, Gauss Seidel, LU Decomposition",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Curve Fitting: Least Square Regression - Linear Regression, Linearization of Nonlinear Relationships, Polynomial and Multiple Linear Regression",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Interpolation - Newton's Forward, Backward, Divided Difference, Lagrange's Interpolation, Cubic Spline",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Numerical Differentiation - Difference Formula, Newton's Forward, Backward and Divided Difference Method, Sterling's Formula",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Numerical Integration - Trapezoidal, Simpson's One-Third Rule, Simpson's Three-Eight Rule, Gauss Quadrature",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Numerical Solution of Ordinary Differential Equations - Initial Value and Boundary Value Problems, Taylor's Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Euler Method, Modified Euler Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Runge Kutta Fourth Order Method for First Order, Second Order and Simultaneous First Order Differential Equations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Predictor Corrector Method, Shooting Method, Finite Difference Method",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Numerical Solution of Partial Differential Equation - Types, Difference Equations",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Elliptic Equation - Laplace Equation, Poisson's Equation, Liebmann's Iterative Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Parabolic Equation - Explicit and Implicit Method, Convergence and Stability, Crank Nicolson Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Hyperbolic Equation",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
