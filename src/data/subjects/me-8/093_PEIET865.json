@@ -1,0 +1,153 @@
+{
+  "id": "peiet865-me-s8",
+  "code": "PEIET865",
+  "name": "DATA ANALYTICS AND MACHINE LEARNING WITH PYTHON",
+  "branchId": "me",
+  "semester": 8,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Introduction to Python",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Using Pandas for Data Manipulation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Cleaning and Preparing Data: Feature Engineering with Pandas and NumPy",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Techniques for Creating and Transforming Features for Analytical Models",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Introduction to Data Visualization with Matplotlib and Seaborn",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "Exploring Data Distributions and Relationships",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Descriptive and Inferential Statistics with SciPy",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Understanding Data Through Statistical Metrics",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Feature Selection Techniques",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Using Scikit-learn for Automated Feature Selection Methods Like RFE (Recursive Feature Elimination)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Dimensionality Reduction Techniques",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_6",
+          "title": "PCA and t-SNE with Scikit-learn for Feature Extraction and Data Visualization",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Overview of Machine Learning Algorithms (Classification, Regression) with Scikit-learn",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Handling Imbalanced Datasets",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Techniques Like SMOTE and Balanced Random Forests with Imbalanced-learn",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Model Evaluation and Hyperparameter Tuning Using Cross-Validation and GridSearchCV in Scikit-learn",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Introduction to Deep Learning with TensorFlow and Keras",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Basics of Neural Networks",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Building and Training Deep Learning Models for Classification and Regression Problems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Advanced Topics in Machine Learning: Ensemble Methods, Boosting, and Stacking Models to Improve Performance",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
