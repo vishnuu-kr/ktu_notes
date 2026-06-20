@@ -1,0 +1,279 @@
+{
+  "id": "pecht755-me-s7",
+  "code": "PECHT755",
+  "name": "PROCESS OPTIMIZATION",
+  "branchId": "me",
+  "semester": 7,
+  "modules": [
+    {
+      "id": "mModule 1",
+      "title": "Module Module 1",
+      "topics": [
+        {
+          "id": "tModule 1_1",
+          "title": "Scope and Hierarchy of Optimization",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_2",
+          "title": "Typical Chemical Engineering Applications of Optimization",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_3",
+          "title": "Statement of an Optimization Problem and Its Essential Features",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_4",
+          "title": "Classification of Optimization Problems and Its Essential Features",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_5",
+          "title": "Mathematical Modelling of Typical Chemical Engineering Optimization Problems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_6",
+          "title": "Nature and Classification of Mathematical Functions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_7",
+          "title": "Graphical Representation of Univariate and Bivariate Functions (Using MATLAB / Python etc. - Assignment)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_8",
+          "title": "Unimodal Functions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 1_9",
+          "title": "Determination of Convexity and Concavity of Single and Multivariate Functions",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 2",
+      "title": "Module Module 2",
+      "topics": [
+        {
+          "id": "tModule 2_1",
+          "title": "Analytical Methods: Necessary and Sufficient Conditions for Optimum of Univariate Unconstrained Functions",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_2",
+          "title": "Numerical Methods: One Dimensional Gradient-Free Search Methods (Fixed and Accelerated Step Size)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_3",
+          "title": "Dichotomous Search",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_4",
+          "title": "Fibonacci Search",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_5",
+          "title": "Golden-Section Method and Quadratic Interpolation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 2_6",
+          "title": "One Dimensional Gradient Search Methods (Newton's Method and Quasi-Newton Method)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 3",
+      "title": "Module Module 3",
+      "topics": [
+        {
+          "id": "tModule 3_1",
+          "title": "Nonlinear Programming with Equality Constraints: Method of Direct Substitution",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_2",
+          "title": "Lagrange Multiplier Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_3",
+          "title": "Nonlinear Programming with Inequality Constraints: Kuhn-Tucker Conditions for Local Optimality",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_4",
+          "title": "Complex Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_5",
+          "title": "Rosen's Gradient Projection Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_6",
+          "title": "Numerical Methods for Unconstrained and Constrained Multivariate Optimization Problems",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_7",
+          "title": "Unconstrained Multivariate Optimization Problems: Univariate Search",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_8",
+          "title": "Powell's Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_9",
+          "title": "Method of Steepest Descent",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_10",
+          "title": "Fletcher-Reeve's Conjugate-Gradient Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_11",
+          "title": "Newton's Method",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_12",
+          "title": "Constrained Multivariate Optimization Problems: Basic Concepts and Graphical Representation of Linear Programming",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_13",
+          "title": "Graphical Solution",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 3_14",
+          "title": "Simplex Method and Two-Phase Simplex Method",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    },
+    {
+      "id": "mModule 4",
+      "title": "Module Module 4",
+      "topics": [
+        {
+          "id": "tModule 4_1",
+          "title": "Optimum Pipe Diameter for an Incompressible Fluid",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_2",
+          "title": "Optimization of Heat Exchanger Network",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_3",
+          "title": "Optimal Reflux Ratio for a Staged Distillation Column",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_4",
+          "title": "Optimal Design of an Ammonia Reactor",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_5",
+          "title": "Solving Chemical Engineering Optimization Problems in Excel/Python/MATLAB/Scilab or Any Optimization Software (Assignments/Microproject Only)",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_6",
+          "title": "Chemical Product Design and Optimization: Introduction to the Current Product Design Process",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_7",
+          "title": "Typical Applications of Chemical Product Design",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_8",
+          "title": "Product Formulation and Optimization",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_9",
+          "title": "Case Studies: Optimization of Disinfectant Formulation",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_10",
+          "title": "Optimization of Mechanical Properties of Natural Fiber Polymer Composites",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_11",
+          "title": "Non-Traditional Optimization Techniques: Introduction to Simulated Annealing",
+          "content": "",
+          "pyqs": []
+        },
+        {
+          "id": "tModule 4_12",
+          "title": "Genetic Algorithms and Particle Swarm Optimization (Algorithm Only)",
+          "content": "",
+          "pyqs": []
+        }
+      ]
+    }
+  ]
+}
