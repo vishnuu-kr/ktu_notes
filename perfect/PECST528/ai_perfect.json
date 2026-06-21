@@ -1,0 +1,72 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction - The Impact of Hardware and Software Technology Trends",
+            "Self Review - Instruction Set Architecture",
+            "Memory Addressing",
+            "Addressing Modes",
+            "Class of Computers",
+            "Concept of Computer Hardware and Organization",
+            "Measuring, Reporting and Summarizing Performance",
+            "Benchmarks - Desktop and Server",
+            "Amdahl's Law",
+            "Processor Performance Equation"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Review the Basic Concepts of Parallel Processing and Pipelining",
+            "Instruction Level Parallelism",
+            "Data Dependencies and Hazards",
+            "Different Types of Dependences",
+            "Compiler Techniques for ILP",
+            "Branch Prediction - Correlating Branch Predictor",
+            "Dynamic Scheduling - Idea",
+            "Introduction to Tomasulo's Scheme",
+            "Register Renaming",
+            "Hardware Speculation",
+            "Reorder Buffers",
+            "Multiple Issue and Static Scheduling",
+            "VLIW"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Data Level Parallelism",
+            "Vector Processors - How Do They Work",
+            "Memory Banks",
+            "Stride",
+            "Scatter Gather",
+            "SIMD - Comparison with Vector GPU",
+            "Comparison of Loops in C vs CUDA",
+            "NVIDIA GPU Memory Structure",
+            "Vector Processor vs GPU",
+            "Multimedia SIMD Computers vs GPU",
+            "Multiprocessor Architecture",
+            "Centralized Shared Memory Architecture",
+            "Cache Coherence and Snooping Protocol",
+            "Performance of Symmetric Shared-Memory Processors",
+            "Distributed Shared Memory and Directory Based Protocol - Basics",
+            "Synchronization - Basic Hardware Primitives",
+            "Memory Consistency Models - Sequential and Relaxed"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Warehouse Scale Computers - Goals and Requirements",
+            "Programming Frameworks for Batch Processing - Map Reduce and Hadoop",
+            "Computer Architecture of Warehouse-Scale Computers",
+            "Moore's Law",
+            "Dennard Scaling",
+            "Dark Silicon and the Transition towards Heterogeneous Architectures",
+            "Asymmetric Multi-Core Architecture - Static and Dynamic",
+            "Functional Heterogeneous Multicore Architecture - GPUs",
+            "Accelerators",
+            "Reconfigurable Computing"
+        ]
+    }
+]

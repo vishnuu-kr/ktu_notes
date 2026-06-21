@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Number Theory - Divisibility and the Division Algorithm",
+            "The Euclidean Algorithm",
+            "Modular Arithmetic",
+            "The Modulus",
+            "Properties of Congruences",
+            "Modular Arithmetic Operations",
+            "The Extended Euclidean Algorithm",
+            "Primitive Roots",
+            "Existence of Primitive Roots for Primes",
+            "Fermat's Theorem",
+            "Euler's Totient Function",
+            "Euler's Theorem",
+            "Testing for Primality",
+            "Miller-Rabin Algorithm",
+            "A Deterministic Primality Algorithm",
+            "Discrete Logarithms",
+            "Chinese Remainder Theorem"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Security Attacks",
+            "Security Services",
+            "Security Mechanisms",
+            "Fundamental Security Design Principles",
+            "Cryptography - Symmetric Cipher Model, Substitution Techniques, Transposition Techniques",
+            "Traditional Block Cipher Structure"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "The Data Encryption Standard - DES Encryption and Decryption, Avalanche Effect, Strength of DES",
+            "Advanced Encryption Standard - AES Structure",
+            "Stream Ciphers",
+            "Principles of Public-Key Cryptosystems - Public-Key Cryptosystems, Applications for Public-Key Cryptosystems, Requirements for Public-Key Cryptography, The RSA Algorithm, Description of the Algorithm",
+            "Diffie-Hellman Key Exchange"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Cryptographic Hash Functions - Applications of Cryptographic Hash Functions, Secure Hash Algorithm (SHA), SHA-3",
+            "Digital Signatures",
+            "Key Management and Distribution - Symmetric Key Distribution",
+            "X.509 Certificates"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

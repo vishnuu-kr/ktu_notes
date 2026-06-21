@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Wave Shaping Circuits",
+            "Sinusoidal and Non-Sinusoidal Wave Shapes",
+            "Principle and Working of RC Differentiating and Integrating Circuits",
+            "Applications of RC Integrator and Differentiator",
+            "Clipping Circuits - Positive, Negative and Biased Clipper",
+            "Clamping Circuits - Positive, Negative and Biased Clamper",
+            "Voltage Multipliers - Voltage Doubler and Tripler",
+            "Batteries - Types and Comparison"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Regulated Power Supplies",
+            "Review of Simple Zener Voltage Regulator",
+            "Shunt and Series Voltage Regulator Using Transistors",
+            "3-Pin Regulators - 78XX and 79XX",
+            "IC 723 and Its Use as Low and High Voltage Regulators",
+            "Optoelectronic Devices",
+            "Construction, Operation and Characteristics of LED",
+            "Photodiode",
+            "Phototransistors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Amplifiers",
+            "Introduction to Transistor Biasing",
+            "Operating Point",
+            "Concept of Load Line",
+            "Thermal Stability",
+            "Voltage Divider Bias",
+            "RC Coupled Amplifier - Voltage Gain and Frequency Response",
+            "Multistage Amplifiers - Effect of Cascading on Gain and Bandwidth"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Operational Amplifier",
+            "Differential Amplifier",
+            "Characteristics of Op-Amps (Gain, Bandwidth, Slew Rate, CMRR, Offset Voltage, Offset Current)",
+            "Comparison of Ideal and Practical Op-Amp (IC 741)",
+            "Applications of Op-Amps - Scale Changer, Sign Changer, Adder/Summing Amplifier, Subtractor, Integrator, Differentiator",
+            "Wien Bridge Oscillator",
+            "Integrated Circuits",
+            "Low Pass and High Pass Active Filters Using Op-Amp",
+            "Circuit Diagram and Working of Timer IC 555",
+            "Astable and Monostable Multivibrators Using 555"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Familiarisation with basic Linux programming commands",
+            "Use /proc file system to gather basic machine information",
+            "Program to print system time and determine execution time using /proc",
+            "Process creation using fork system call and process tree analysis",
+            "Process creation and image replacement using fork and execvp system calls",
+            "Process synchronization using fork and wait system calls",
+            "Inter-process communication using pipes, message queues, and shared memory",
+            "Multithreaded program to calculate mean, median, and standard deviation",
+            "Simulation of CPU scheduling algorithms: FCFS, SRTF, non-preemptive priority, and round robin",
+            "Readers-writers problem using semaphores with writer priority",
+            "Banker's algorithm to find safe execution sequence",
+            "Deadlock detection",
+            "Dining philosopher's problem using semaphores",
+            "Address translation simulation in paging scheme",
+            "Page replacement algorithms: FIFO and optimal",
+            "Disk scheduling algorithms: SSTF, LOOK, and CSCAN"
+        ]
+    }
+]

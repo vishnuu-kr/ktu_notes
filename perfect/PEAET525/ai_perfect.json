@@ -1,0 +1,56 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of PMOS and NMOS Devices (Prerequisite): CMOS Inverter - Working",
+            "Voltage Transfer Characteristics, Static Characteristics - Switching Threshold and Noise Margin, Dynamic Characteristics - Device Capacitance",
+            "RC Delay Model",
+            "Propagation Delay and Power Consumption"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Combinational Logic Circuits: Static CMOS Design - Complementary CMOS",
+            "Design Techniques for Large Fan-In",
+            "Ratioed Logic",
+            "Basics of Pass Transistor Logic and Transmission Gate Logic. Dynamic CMOS Design - Basic Principles",
+            "Concept of Domino Logic",
+            "Speed and Power Dissipation",
+            "Signal Integrity Issues in Dynamic Logic"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Sequential Logic Circuits and Arithmetic Building Blocks: Sequential Logic Circuits - Timing Metrics for Sequential Circuits",
+            "Static SR Flip-Flop",
+            "Static Multiplexer-Based D Flip-Flop and Master-Slave Configuration. Dynamic Clocked CMOS (C2MOS) Register. Arithmetic Building Blocks - Static CMOS Full Adder",
+            "4-Bit Carry Bypass Adder",
+            "Array Multiplier",
+            "Carry-Save Multiplier",
+            "Barrel Shifter"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "VLSI Design Methodologies: ASIC Design Flow and FPGA Design Flow",
+            "Introduction to SoC Design",
+            "Challenges in VLSI Design. Basics of Semi-Custom and Full Custom Design Methodologies. Validation and Testing - Fault Modelling",
+            "Stuck-At Faults",
+            "Test Procedure",
+            "Logic Testing vs Memory Testing",
+            "Built-In Self-Test (BIST)",
+            "Automatic Test Pattern Generation (ATPG)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "For the computer controlled 2D planar robot, when the desired destination position (X, Y) is given, move the end effector to this point and display the computed values of joint angles. Demonstrate importance of singularities.",
+            "Graphically simulate the forward kinematics of the following 3 joint manipulators: a) Cartesian robot b) Cylindrical robot c) Spherical robot d) Articulated robot",
+            "Using suitable programming language, find the homogeneous transformation matrix for a set of sequential joint movements (translation and rotation) if the parameters of joint movements are specified with respect to the fixed frame.",
+            "Repeat the above experiment, if the parameters of joint movements are specified relative to the moving frames.",
+            "Using a DC motor and suitable measuring instruments, plot the torque versus current, torque versus angular velocity and power versus angular velocity.",
+            "Using ultrasonic sensors, stepper/servo motors and infrared sensors, develop a line follower robot that will follow a trajectory, avoiding obstacles on its path.",
+            "Using DC servo / stepper motors, implement a pick and place SCARA robot arm in 3D plane."
+        ]
+    }
+]

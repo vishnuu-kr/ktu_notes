@@ -1,0 +1,73 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Fundamentals of Robotics and Automation: Definition and History of Robotics",
+            "Differences Between Robotics and Automation",
+            "Applications of Robotics in Industry and Service Sectors",
+            "Robot Anatomy: Basic Components - Links, Joints, and End Effectors",
+            "Degrees of Freedom (DOF) and Their Significance",
+            "Configurations of Robots - Cartesian, Cylindrical, Spherical, Articulated, SCARA",
+            "Work Volume and Workspace Analysis: Definition and Importance",
+            "Factors Affecting Workspace",
+            "Manipulator Kinematics: Position Representation",
+            "Introduction to Forward and Inverse Kinematics",
+            "Homogeneous Transformations and Their Application in Robot Kinematics",
+            "D-H Notations: Formulating and Solving Kinematic Equations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Control Systems for Robots: Basic Control System Models - Open-Loop and Closed-Loop Control",
+            "Block Diagrams and Transfer Functions",
+            "Robot Motions: Types of Motions - Slew Motion, Joint-Interpolated Motion, and Straight-Line Motion",
+            "Path Planning and Trajectory Generation",
+            "Controllers: On/Off Control, Proportional (P) Control, Integral (I) Control, Proportional Plus Integral (PI) Control, Proportional Plus Derivative (PD) Control, and Proportional Plus Integral Plus Derivative (PID) Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Actuation and Feedback Mechanisms",
+            "Sensors: Types of Sensors - Position and Velocity Sensors",
+            "Working Principles of Encoders and Resolvers",
+            "Potentiometers and Tachometers",
+            "Actuators: Electric Actuators - DC Motors, Stepper Motors, and Servomotors",
+            "Hydraulic and Pneumatic Actuators",
+            "Power Transmission Devices: Gears, Belts, Chains, Lead Screws, and Ball Screws",
+            "End Effectors: Types of Grippers - Mechanical, Vacuum, and Magnetic",
+            "Design Considerations for Grippers",
+            "Methods of Power and Control Signal Transmission: Electrical, Hydraulic, and Pneumatic Transmission"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Industrial Applications and Work Cell Design",
+            "Material Handling: General Considerations for Material Handling with Robots",
+            "Material Transfer Applications",
+            "Pick and Place Operations: Techniques and Applications",
+            "Integration with Production Lines",
+            "Palletizing and Related Operations: Methods and Case Studies",
+            "Manufacturing Processes: Die Casting, Plastic Molding, Forging, Machining Operations, and Stamping Press Operations",
+            "Role of Robots in Automation of These Processes",
+            "Robot Cell Layouts: Design Considerations for Multiple Robots and Machine Interfaces",
+            "Examples of Typical Robot Cell Layouts",
+            "Work Cell Control: Interlocks and Safety Mechanisms",
+            "Error Detection and Recovery Strategies",
+            "Work Cell Controllers: Types and Functions",
+            "Integration with Other Control Systems",
+            "Cycle Time Analysis: Techniques for Analyzing and Optimizing Robot Cycle Times",
+            "Factors Affecting Cycle Time and Productivity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

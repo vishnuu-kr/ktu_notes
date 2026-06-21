@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Control System: Concepts of Control System and Applications",
+            "Examples Including Physiological Control Systems",
+            "Open Loop and Closed Loop Control Systems",
+            "Control System Design Process and Review of Laplace Transforms",
+            "Transfer Function",
+            "Mathematical Modelling of Simple Electrical and Mechanical Systems and Block Diagram Reduction",
+            "Signal Flow Graphs and Mason's Gain Formula"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Time Domain Analysis: Standard Test Signals",
+            "Transient and Steady State Response",
+            "Time Response of First Order System",
+            "Time Domain Specifications",
+            "Step Response of Second Order Systems",
+            "Steady State Error, Static Error Coefficients, and Concept of Stability",
+            "Effect of Location of Poles on Stability"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Stability Analysis in s-Domain",
+            "Routh-Hurwitz Stability Criterion",
+            "Root Locus Construction, Frequency Domain Analysis, and Frequency Domain Specifications",
+            "Stability in Frequency Domain",
+            "Frequency Response Plots",
+            "Polar Plots",
+            "Bode Plots: Determination of Phase Margin and Gain Margin",
+            "Minimum Phase and Non-Minimum Phase Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "State Space Modelling and Concepts of State",
+            "State Variables",
+            "State Space and State Model",
+            "State Space Representation of nth Order Differential Equation",
+            "State Model of Simple Mechanical and Electrical Systems",
+            "State-Space Representation of Transfer Function",
+            "Transfer Function from State Model",
+            "State Transition Matrix and Properties of State Transition Matrix",
+            "Computation of State Transition Matrix Using Laplace Method",
+            "Controllability and Observability"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

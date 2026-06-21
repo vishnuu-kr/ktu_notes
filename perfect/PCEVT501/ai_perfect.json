@@ -1,0 +1,73 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "MOS Transistor Principles",
+            "Introduction to CMOS Technology",
+            "CMOS Logic",
+            "CMOS Fabrication and Layout",
+            "Design Partitioning",
+            "Circuit Design",
+            "Physical Design",
+            "Design Verification",
+            "Fabrication",
+            "Packaging and Testing",
+            "MOS Transistor Basics",
+            "Secondary Effects",
+            "Process Variations",
+            "Technology Scaling"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Static and Dynamic Circuits",
+            "CMOS Inverter",
+            "Static CMOS Inverter",
+            "DC Characteristics",
+            "Beta Ratio Effects",
+            "Noise Margin",
+            "Other Static CMOS Logic Gates",
+            "Static Properties of 2 Input NAND",
+            "Combinational Logic Circuits",
+            "Fundamentals of Dynamic Logic",
+            "Dynamic Pass Transistor Circuits",
+            "High Performance Dynamic Circuits - Domino CMOS",
+            "Multi Output Domino Logic",
+            "Dual-rail Domino Logic",
+            "NP Domino Logic (NORA)"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Designing Arithmetic Building Blocks",
+            "Adders",
+            "Design Considerations",
+            "Fast Adders",
+            "Multipliers",
+            "Barrel Shifters",
+            "Speed and Area Trade-offs",
+            "Semiconductor Memories",
+            "Memory Design",
+            "SRAM",
+            "DRAM Structure and Implementations"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Interconnect Effects",
+            "Introduction",
+            "Wire Geometry",
+            "Interconnect Modelling",
+            "Resistance, Capacitance, and Inductance",
+            "Interconnect Impact",
+            "Delay",
+            "Energy",
+            "Crosstalk",
+            "Inductive Effects",
+            "Effective Resistance and Elmore Delay"
+        ]
+    }
+]

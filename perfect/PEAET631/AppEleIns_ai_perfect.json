@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic MOS Device Physics",
+            "Review of MOS Characteristics and Second Order Effects (Only Basic Theoretical Concepts)",
+            "Single Stage Amplifiers",
+            "Common Source Stage with Different Load Types",
+            "Source Follower",
+            "Common Gate and Cascode Stage"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Differential Amplifiers - Single-ended and Differential Operation",
+            "Basic Differential Pair",
+            "Common-mode Response",
+            "Differential Pair with MOS Load",
+            "Gilbert Cell",
+            "Current Mirror",
+            "Cascode and Basic Concepts of Active Current Mirror"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Frequency Response of Amplifiers",
+            "Miller Effect",
+            "Poles and Zeros",
+            "Frequency Response Analysis of Common Source",
+            "Source Follower",
+            "Common Gate and Differential Pair"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Phase Locked Loops - Mathematical Model of VCO",
+            "Phase Detector",
+            "Basic PLL Topology",
+            "Type I and Type II (Charge Pump) PLL",
+            "Stability Analysis of PLL",
+            "Non-Ideal Effects in PLL",
+            "Application of PLL - Frequency Multiplication",
+            "Frequency Synthesizer and Skew Reduction",
+            "Block Diagram of Digital PLL"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

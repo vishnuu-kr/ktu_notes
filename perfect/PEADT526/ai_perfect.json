@@ -1,0 +1,79 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Biomolecules and Protein",
+            "The Central Dogma",
+            "Messenger RNA",
+            "tRNA",
+            "rRNA",
+            "Genetic Code",
+            "Gene Structure and Control",
+            "Transcription",
+            "Translation",
+            "Introduction to Structure of Prokaryotic and Eukaryotic Gene"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to Biological Databases",
+            "NCBI",
+            "GenBank",
+            "Biosequence Formats",
+            "FASTA",
+            "Sequence Alignment",
+            "Global Alignment and Local Alignment",
+            "Dot Matrix Method",
+            "Dynamic Programming Method",
+            "Gap Penalties",
+            "Amino Acid Scoring Matrices",
+            "PAM and BLOSUM",
+            "Database Similarity Searching",
+            "BLAST",
+            "Needleman-Wunsch and Smith-Waterman Method",
+            "Multiple Sequence Alignment",
+            "Scoring Function",
+            "Clustal"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Transcriptional Regulatory Networks",
+            "Genes and DNA Regulatory Regions",
+            "Genetic Interaction Map",
+            "Protein Interaction Networks",
+            "Experimental Methodologies to Obtain Protein Interaction Data",
+            "Computational Methods to Predict Protein-Protein Interactions",
+            "Visualization of Protein Interaction Networks",
+            "Metabolic Networks",
+            "Interacting Partners",
+            "Mathematical Representation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Next-Generation Sequencing (NGS) Technologies",
+            "Illumina Reversible Dye-Terminator Sequencing",
+            "Ion Torrent Semiconductor Sequencing",
+            "Pacific Biosciences Single Molecule Real-Time (SMRT) Sequencing",
+            "RNA Sequencing (RNA-Seq)",
+            "Protein-DNA Interaction Analysis (ChIP-Seq)",
+            "Base Calling",
+            "FASTQ File Format and Base Quality Score",
+            "NGS Data Quality Control and Preprocessing",
+            "Reads Mapping",
+            "Mapping Approaches and Algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

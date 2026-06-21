@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Compilers - Analysis of the Source Program",
+            "Phases of a Compiler",
+            "Grouping of Phases; Lexical Analysis - The Role of Lexical Analyzer",
+            "Input Buffering",
+            "Specification of Tokens Using Regular Expressions",
+            "Finite Automata",
+            "Recognition of Tokens; Syntax Analysis",
+            "Grammars",
+            "Context-Free Grammars",
+            "Derivation Trees and Parse",
+            "Ambiguity"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Top-Down Parsing",
+            "Recursive Descent Parsing",
+            "Predictive Parsing",
+            "LL(1) Grammars; Bottom-Up Parsing - Shift Reduce Parsing; Operator Precedence Parsing (Concepts Only); LR Parsing - Constructing SLR Parsing Tables",
+            "Constructing Canonical LR Parsing Tables and Constructing LALR Parsing Tables"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Syntax-Directed Translation",
+            "Syntax-Directed Definitions",
+            "Bottom-Up Evaluation of S-Attributed Definitions",
+            "L-Attributed Definitions",
+            "Bottom-Up Evaluation of Inherited Attributes; Type Checking",
+            "Type Systems",
+            "Specification of a Simple Type Checker; Run-Time Environments",
+            "Source Language Issues",
+            "Storage Organization",
+            "Storage-Allocation Strategies"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Intermediate Code Generation (ICG)",
+            "Intermediate Languages - Graphical Representations",
+            "Three-Address Code",
+            "Quadruples",
+            "Triples; Code Optimization",
+            "Principal Sources of Optimization",
+            "Optimization of Basic Blocks; Code Generation",
+            "Issues in the Design of a Code Generator; The Target Machine",
+            "A Simple Code Generator"
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Neural Network",
+            "Introduction to Neural Networks - Single Layer Perceptrons",
+            "Multi Layer Perceptrons (MLPs)",
+            "Activation Functions - Sigmoid",
+            "Tanh",
+            "ReLU",
+            "Softmax",
+            "Risk Minimization",
+            "Loss Function",
+            "Training MLPs with Backpropagation",
+            "Practical Issues in Neural Network Training - The Problem of Overfitting",
+            "Vanishing and Exploding Gradient Problems",
+            "Difficulties in Convergence",
+            "Local and Spurious Optima",
+            "Computational Challenges",
+            "Applications of Neural Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Deep Learning",
+            "Introduction to Deep Learning",
+            "Deep Feed Forward Network",
+            "Training Deep Learning Models",
+            "Optimization Techniques - Gradient Descent (GD)",
+            "GD with Momentum",
+            "Nesterov Accelerated GD",
+            "Batch",
+            "Mini-Batch and Stochastic GD",
+            "AdaGrad",
+            "RMSProp",
+            "Adam"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Convolutional Neural Network (CNN)",
+            "Introduction to CNN - Convolution and Pooling",
+            "Convolution and Pooling as an Infinitely Strong Prior",
+            "Variants of Convolution Functions",
+            "Efficient Convolution Algorithms",
+            "Applications - Computer Vision"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Recurrent Neural Network (RNN)",
+            "Introduction to RNN - Computational Graphs",
+            "RNN Design",
+            "Encoder-Decoder Sequence to Sequence Architectures",
+            "Deep RNNs",
+            "Modern RNN - LSTM and GRU",
+            "Applications - Natural Language Processing (NLP)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

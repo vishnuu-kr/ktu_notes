@@ -1,0 +1,52 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Integer Arithmetic - Divisibility - Greatest Common Divisor - Extended Euclidean Algorithm - Linear Diophantine Equation",
+            "Modular Arithmetic - Modulo Operator - Congruence - Addition and Multiplicative Inverse",
+            "Algebraic Structures - Field - Finite Fields of the Form GF(p) and GF(2n) - Polynomial Arithmetic",
+            "Prime Numbers - Fermat's and Euler's Theorem - Prime Factorization by Trial Division Method - Chinese Remainder Theorem - Security Goals - Security Services - Confidentiality - Integrity - Authentication - Nonrepudiation - Access Control",
+            "Security Mechanisms - Encipherment - Data Integrity - Signature - Authentication Exchange - Traffic Padding - Routing Control - Notarization - Access Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to Cryptography - Classification of Cryptosystems - Cryptanalytic Attacks - Cipher Properties - Confusion - Diffusion - Classical Cryptosystems - Substitution Techniques - Monoalphabetic Cipher - Caesar Cipher - Affine Cipher",
+            "Polyalphabetic Ciphers - Autokey Cipher - Playfair Cipher - Hill Cipher - Vigenere Cipher - One Time Pad Cipher",
+            "Stream and Block Ciphers",
+            "Modern Secret Key Ciphers - Substitution Box - Permutation Box - Product Ciphers - Data Encryption Standard - DES - Structure of DES - DES Attacks - 2-DES - 3-DES",
+            "Advanced Encryption Standard - AES - Structure - Analysis",
+            "Cryptographic Hash Functions - Properties - Secure Hash Algorithm - SHA-512 Logic - SHA-512 Round Function",
+            "Message Authentication Code - Hash-based Message Authentication Code - HMAC - Cipher-based Message Authentication Code - CMAC"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Public Key Cryptosystems - PKC - Types of PKC - Trapdoor - One-way Functions",
+            "RSA Cryptosystem - Key Generation - Encryption - Decryption",
+            "ElGamal Cryptosystem - Key Generation - Encryption - Decryption",
+            "Diffie-Hellman Key Exchange Protocol - Man in the Middle Attack on Diffie-Hellman Protocol - Digital Signature - Signing - Verification",
+            "Digital Signature Forgery - Existential Forgery - Selective Forgery - Universal Forgery",
+            "RSA Digital Signature Scheme - ElGamal Signature Scheme"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Symmetric Key Distribution using Symmetric and Asymmetric Encryption - Distribution of Public Keys - Public Announcement - Public Available Directory - Public-key Authority - Public Key Certificates - Electronic Mail Security - Pretty Good Privacy - PGP Message Format - Transmission and Reception of PGP Messages",
+            "IP Security Overview - IP Authentication Header - Encapsulating Security Payload - Distributed Denial of Service Attacks",
+            "Secure Electronic Transaction - Payment Processing - Dual Signature",
+            "Firewalls - Firewall Design Principles"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

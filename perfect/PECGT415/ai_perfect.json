@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Android",
+            "Android Architecture",
+            "Setting up Development Environment",
+            "Basic Building Blocks - Activities",
+            "Services",
+            "Broadcast Receivers and Content Providers",
+            "UI Components - Views and Notifications",
+            "Components for Communication - Intents and Intent Filters"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Application Structure: Android Manifest.xml",
+            "Uses-Permission and Uses-SDK",
+            "Layouts and Drawable Resources",
+            "First Sample Application",
+            "Emulator - Android Virtual Device",
+            "Basic UI Design",
+            "Styles and Themes",
+            "Android User Interface: Measurements",
+            "User Interface (UI) Components: Editable and Non-Editable Text Views",
+            "Buttons",
+            "Radio and Toggle Buttons",
+            "Checkboxes",
+            "Spinners",
+            "Dialog and Pickers"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Event Handling: Handling Clicks or Changes of Various UI Components",
+            "Fragments: Creating Fragments",
+            "Lifecycle of Fragments",
+            "Fragment States",
+            "Intent: Using Intents to Launch Activities",
+            "Explicitly Starting New Activity",
+            "Implicit Intents",
+            "Passing Data to Intents",
+            "Getting Results from Activities",
+            "Broadcast Receivers: Types of Broadcast Receivers",
+            "Creation of Broadcast Receivers"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Database: Introduction to SQLite Database",
+            "Creating and Opening a Database",
+            "Creating Tables",
+            "Inserting, Retrieving and Deleting Data",
+            "Registering Content Providers",
+            "Using Content Providers (Insert, Delete, Retrieve and Update)",
+            "IoT Communication Protocols: Overview of MQTT, HTTP, and CoAP",
+            "Implementing MQTT in Mobile Applications",
+            "Data Transmission Techniques",
+            "Interfacing Mobile Apps with IoT Devices: Connecting Mobile Apps to Sensors and Actuators",
+            "Using Bluetooth, Wi-Fi, and NFC for IoT Communication",
+            "Practical Lab",
+            "Developing a Simple IoT Mobile App",
+            "Suggestion on Project Topics",
+            "Project Suggestions: 1. Android App for Patient Health Monitoring, 2. Android App for Smart Farming, 3. Android App for Home Automation, 4. College Alert Application, 5. Garbage Management System for Smart City"
+        ]
+    }
+]

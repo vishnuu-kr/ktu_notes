@@ -1,0 +1,54 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Design of Cascade Compensators – Dominant Pole",
+            "Realisation of Basic Compensators: Lead, Lag, and Lag-Lead Compensators",
+            "Cascade Compensation Using Root Locus – Lead, Lag, and Lead-Lag Compensation",
+            "Cascade Compensation Using Bode Plot – Lag, Lead, and Lag-Lead Compensation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "State Space Modelling of Continuous Linear Time-Invariant Systems – Concept of State, State Variable, State Vector and State Space",
+            "State Models for Linear Continuous-Time Systems",
+            "State Variable Representation of Continuous-Time Systems Using Physical Variables – Transfer Function from State Variable Model",
+            "Transformation of State Variables and Invariance Property",
+            "State Space Representation Using Phase Variable (State Space Representation from Transfer Function)",
+            "Controllable Canonical Form, Observable Canonical Form, and Jordan Canonical Form"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "State Variable Analysis of Continuous LTI Systems – Solution of State Equation",
+            "State Transition Matrix",
+            "Properties of State Transition Matrix",
+            "Computation of the State Transition Matrix Using Lyapunov's Method and Cayley-Hamilton Theorem",
+            "Response of Homogeneous and Non-Homogeneous State-Space Model",
+            "Concept of Controllability and Observability",
+            "Kalman Test"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "State Variable Design (Continuous) – Design of State Variable Feedback if the Given Model is in the Controllable Canonical Form",
+            "Design of Arbitrary State Variable Feedback if the Given Model is not in Controllable Canonical Form",
+            "Design of Full Order State Observer",
+            "Application of Duality Principle",
+            "Concept of Reduced Order State Observer",
+            "Stability Analysis of Continuous LTI Systems Using Phase Plane Method – Singular Points, Classification of Singular Points",
+            "Suggestion on Project Topics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

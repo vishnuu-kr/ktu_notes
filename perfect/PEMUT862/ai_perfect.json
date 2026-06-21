@@ -1,0 +1,50 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "An overview of operations research modelling approach; mathematical formulation of linear programming problems",
+            "Graphical solution",
+            "Simplex algorithm - artificial starting solution - Big M method - two-phase method - alternative, optimal solutions - unboundedness - degeneracy",
+            "Duality in linear programming - primal-dual relationships - economic interpretation of duality"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Transportation problems - formulation and solution",
+            "Assignment problems - formulation and solution",
+            "Network flow models - shortest route problem, minimum spanning tree and maximum flow algorithms",
+            "Queuing theory - generalized Poisson queuing model, steady state solution of single server models for infinite and finite queue size"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction and a strategic view of supply chains, decision phases in a supply chain, process views of supply chain",
+            "Enablers of supply chain performance",
+            "Supply chain performance in India, challenges in maintaining supply chain in India",
+            "Supply chain strategy and performance measures, enhancing supply chain performance",
+            "Supply chain drivers, framework for structuring drivers"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to production planning and scheduling",
+            "Aggregate production plan",
+            "Formulation of lot size production problem",
+            "Wagner and Whitin algorithm",
+            "Basic concepts of Just-in-Time (JIT) and Material Requirement Planning (MRP)",
+            "Introduction to inventory systems",
+            "Inventory classification and its use in controlling inventory",
+            "Deterministic inventory models",
+            "Economic order quantity (EOQ) model",
+            "EOQ with finite supply",
+            "EOQ with backorders",
+            "EOQ with constraints",
+            "All-units quantity discounts model",
+            "Single period probabilistic inventory models with discrete and continuous demand",
+            "Determination of reorder point for deterministic and probabilistic inventory system"
+        ]
+    }
+]

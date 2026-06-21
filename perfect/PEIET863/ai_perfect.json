@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Quantum Mechanics",
+            "Basic Concepts - Dirac Notations",
+            "Qubits",
+            "Bell State",
+            "Superposition",
+            "Entanglement",
+            "Quantum States",
+            "Quantum Bits",
+            "And the Bloch Sphere",
+            "Introduction to Quantum Gates and Circuits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Quantum Algorithms",
+            "Overview of Quantum Computation Algorithms - Cirq",
+            "Qiskit",
+            "Deutsch-Jozsa",
+            "Bernstein-Vazirani",
+            "Simon's Algorithm",
+            "Grover's Algorithm",
+            "Shor's Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Quantum Protocols and Quantum Error Correction",
+            "Quantum Teleportation and Superdense Coding",
+            "Quantum Key Distribution (BB84 and E91 Protocols)",
+            "Basics of Quantum Error Correction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Practical Quantum Computing and Quantum Hardware",
+            "Review of Current Quantum Computers and Quantum Supremacy",
+            "Quantum Hardware Technologies (Superconducting Qubits)",
+            "Trapped Ions",
+            "Quantum Machine Learning and Deep Learning",
+            "Future Trends and Challenges in Quantum Computing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

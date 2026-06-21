@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Number Systems",
+            "Introduction to Number Systems (Decimal, Binary, Octal, Hexadecimal) and Their Bases – Conversion Methods",
+            "Binary Arithmetic – Addition, Multiplication, and Division",
+            "Addition of BCD, Octal, and Hexadecimal Numbers",
+            "Signed Numbers and Complements – Representing Negative Numbers",
+            "Subtraction with Complements (Binary, Octal, and Hexadecimal)",
+            "Alternative Coding Schemes – BCD, Gray Codes, and Excess-3 Codes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to Boolean Algebra – Postulates and Basic Theorems (De-Morgan's Theorem)",
+            "Minimization of Boolean Expressions – Canonical and Standard Forms",
+            "Karnaugh Map Minimization (Up to Four Variables, Don't-Care Conditions)",
+            "Digital Logic Gates – Implementation of Boolean Functions Using Basic and Universal Gates"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Combinational and Arithmetic Circuits – Combinatorial Logic Systems, Data Encoders and Decoders",
+            "Data Selection and Distribution (Mux and Demux)",
+            "Code Converters",
+            "Comparators",
+            "Arithmetic Circuits – Half and Full Adder, Half and Full Subtractor",
+            "Binary Parallel Adder",
+            "BCD Adder"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Sequential Logic Circuits",
+            "Sequential Circuits Fundamentals",
+            "Flip-Flops – SR, T, and D",
+            "Conversion of Flip-Flops",
+            "Excitation Table and Characteristic Equation",
+            "Asynchronous and Synchronous Counter Design (Binary Up, Down, Up-Down Counter, BCD Counter, Mod N Counter)",
+            "Shift Registers – SIPO, SISO, PISO, PIPO",
+            "Shift Registers with Parallel Load/Shift",
+            "Ring Counter and Johnson Counter"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

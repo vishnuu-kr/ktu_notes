@@ -1,0 +1,47 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "ECG Data Reduction",
+            "Direct Data Compression Techniques",
+            "Turning Point - AZTEC, Transformation Compression Techniques",
+            "Karhunen-Loeve Transform, Other Data Compression Techniques",
+            "Huffman Coding, ECG Signal Processing Techniques",
+            "Filtering",
+            "Baseline Removal by Linear Time Variant Filtering, Powerline Interference Removal by Linear Filter, Event Detection",
+            "QRS Detection Basic Steps - P Wave Detection Using Time Domain Analysis, Morphological Analysis of ECG - Correlation Coefficient - Minimum Phase Component, Heart Rate Variability Analysis",
+            "Time Domain Measures - Spectrum Analysis of Heart Rate Variability"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Speech Signal Processing, Speech Fundamentals",
+            "Articulatory Phonetics - Production and Classification of Speech Sounds - Articulation - Voicing - Articulatory Model, Speech Analysis",
+            "Short Time Speech Analysis - Short Time Energy - Short Time Average Magnitude - Short Time Zero Crossing Rate - Short Time ACF, Frequency Domain Analysis",
+            "Filter Banks - STFT - Spectrogram - Formant Estimation & Analysis - Cepstral Analysis - MFCC"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Signal Processing Techniques in EEG, Modelling the EEG Signals",
+            "Linear and Stochastic EEG Models - Time Varying AR Modelling, Artefacts in EEG",
+            "Types - Artefact Reduction Methods - Linear Filtering - Artifact Cancellation Using Linearly Combined Reference Signals - Adaptive Artefact Cancellation, Non Parametric Spectral Analysis - Spectral Parameters",
+            "Power in Bands",
+            "Spectral Slope",
+            "Peak Frequency, Parametric Spectrum Estimation",
+            "Burg Method, EEG Segmentation - Basics"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "EMG Signal Processing Techniques, EMG Applications",
+            "Diagnostic EMG",
+            "Kinesiology",
+            "Ergonomics, Prosthesis Control, Amplitude Estimation in the Surface EMG - Signal Model and ML Estimation",
+            "Spectral Analysis of Surface EMG - Conduction Velocity Estimation - Intramuscular EMG Signal Decomposition"
+        ]
+    }
+]

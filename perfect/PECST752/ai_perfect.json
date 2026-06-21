@@ -1,0 +1,52 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Foundations of Responsible AI: Introduction to Responsible AI - Overview of AI and Its Societal Impact",
+            "Fairness and Bias: Sources of Biases, Exploratory Data Analysis, Limitation of a Dataset, Preprocessing, In-Processing and Post-Processing to Remove Bias"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Interpretability and Explainability: Interpretability Through Simplification and Visualization",
+            "Intrinsic Interpretable Methods",
+            "Post Hoc Interpretability",
+            "Explainability Through Causality",
+            "Model Agnostic Interpretation; Interpretability Tools - SHAP (SHapley Additive exPlanations)",
+            "LIME (Local Interpretable Model-Agnostic Explanations)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Ethics",
+            "Privacy and Security: Ethics and Accountability - Auditing AI Models",
+            "Fairness Assessment",
+            "Principles for Ethical Practices; Privacy Preservation - Attack Models",
+            "Privacy-Preserving Learning",
+            "Differential Privacy - Working",
+            "The Laplace Mechanism",
+            "Introduction to Federated Learning; Security in AI Systems",
+            "Strategies for Securing AI Systems and Protecting Against Adversarial Attacks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Future of Responsible AI and Case Studies",
+            "Future of Responsible AI: Emerging Trends and Technologies in AI Ethics and Responsibility; Case Studies - Recommendation Systems",
+            "Medical Diagnosis",
+            "Computer Vision",
+            "Natural Language Processing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Implement linear regression with one variable on the California Housing dataset to predict housing prices based on a single feature (e.g., the average number of rooms per dwelling) using gradient descent and the normal equation, and evaluate with MSE and R-squared",
+            "Implement polynomial regression on the Auto MPG dataset to predict miles per gallon (MPG) based on engine displacement, and compare polynomial regression results with linear regression",
+            "Implement Ridge and Lasso regression on the Diabetes dataset, tune hyperparameters using cross-validation, and compare the performance of these regularized models with standard linear regression",
+            "Estimate the parameters of a logistic regression model using MLE and MAP on the Breast Cancer Wisconsin dataset, and compare the results and discuss the effects of regularization",
+            "Use MLE and MAP to estimate the parameters of a multinomial distribution on the 20 Newsgroups dataset, and explore the impact of different priors on the estimation",
+            "Implement a logistic regression model to predict the likelihood of a disease using the Pima Indians Diabetes dataset, and compare the performance with and without feature scaling",
+            "Implement a Naïve Bayes classifier to categorize text documents into topics using the 20 Newsgroups dataset, and compare the performance of Multinomial Naïve Bayes with Bernoulli Naïve Bayes",
+            "Implement the K-Nearest Neighbors (KNN) algorithm for image classification using the Fashion MNIST dataset, experiment with different values of K, and analyze their impact on model performance",
+            "Implement a Decision Tree classifier using the ID3 algorithm to segment customers based on their purchasing behavior using the Online Retail dataset, and analyze the tree structure and feature importance",
+            "Implement and compare Logistic Regression and Decision Trees on the Adult Income dataset for predicting income levels, and evaluate both models based on performance metrics and interpretability",
+            "Implement a Linear Support Vector Machine (SVM) to classify the Iris dataset, visualize the decision boundary, and discuss how the margin is determined",
+            "Implement and compare the performance of SVM classifiers with linear, polynomial, and RBF kernels on the Fashion MNIST dataset, and analyze the advantages and disadvantages of each kernel type",
+            "Implement and train a Multilayer Feed-Forward Network (MLP) on the Wine Quality dataset, experiment with different numbers of hidden layers and neurons, and discuss how these choices affect the network's performance",
+            "Implement and compare the performance of a neural network using different activation functions (Sigmoid, ReLU, Tanh) on the MNIST dataset, and analyze how each activation function affects training and accuracy",
+            "Implement and perform hyperparameter tuning for a neural network on the Fashion MNIST dataset, experiment with different learning rates, batch sizes, and epochs, and discuss the impact on model performance",
+            "Implement and compare hierarchical (agglomerative) and partitional (K-means) clustering algorithms on the Mall Customers dataset, and discuss the strengths and weaknesses of each method",
+            "Implement and apply K-means clustering to the Digits dataset, experiment with different numbers of clusters, and evaluate using metrics such as inertia and silhouette score",
+            "Implement bootstrapping and cross-validation on the Iris dataset, compare the model performance metrics obtained using these resampling methods, and discuss their advantages and disadvantages",
+            "Implement bagging and boosting ensemble methods on the Titanic dataset, compare the performance of both methods, and discuss how each method improves model performance",
+            "Investigate the bias-variance tradeoff using polynomial regression on the Boston Housing dataset, plot the training and validation errors for various polynomial degrees, and discuss the tradeoff"
+        ]
+    }
+]

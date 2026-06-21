@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Number System and Codes, Basics of Digital Electronics",
+            "Binary, Octal, Hexadecimal Number System - Representations, Base Conversions and Arithmetic",
+            "Signed Representation of Binary Numbers - Fixed and Floating Point",
+            "1's and 2's Complement of Binary Numbers and Their Arithmetic, BCD Number System - Conversion of BCD to Binary and Binary to BCD",
+            "Gray Codes",
+            "Excess-3 Codes",
+            "Basics of Verilog - Basic Language Elements, Identifiers, Data Objects, Scalar Data Types, Operators"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Boolean Algebra and Logic Gates, Laws of Boolean Algebra - Postulates - Simplification of Boolean Expressions",
+            "De-Morgan's Law - Minimization of Boolean Expressions",
+            "Sum of Product (SOP)",
+            "Product of Sum (POS), Canonical Form",
+            "Karnaugh Map Simplification (up to 4 Variables)",
+            "Quine-McCluskey Method, Basic and Universal Gates - Universality of NAND and NOR",
+            "Design of Simple Logic Circuits Using Logic Gates, TTL and CMOS Logic Families - Comparison, Internal Diagram of TTL NAND Gate and CMOS NOR Gate"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Combinational Circuits, Difference between Combinational and Sequential Circuits",
+            "Half Adder/Subtractor, Full Adder/Subtractor",
+            "Multiplexer (Using Logic Gates) - 4:1, 8:1, 16:1",
+            "De-Multiplexer (Using Logic Gates) - 1:4, 1:8, 1:16",
+            "Implementation of Functions Using Multiplexer IC 74151",
+            "Encoder (4:2, 8:3)",
+            "Decoder (2:4, 3:8), BCD Adder",
+            "Modelling and Simulation of Combinational Circuits with Verilog Codes at Gate Level (Adder, Subtractor, MUX, De-MUX)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Sequential Circuit Designs, Introduction to Latch, Flip Flops, FSM",
+            "Concept of Edge Triggering and Level Triggering in FF",
+            "SR FF, JK FF, MS-JK FF, D FF, T FF - Truth Table, Excitation Table and Characteristics Equation",
+            "Counter Designs - Asynchronous Counter",
+            "Synchronous Counter",
+            "MOD Counters",
+            "Ring Counter, Johnson Counter, Shift Registers Using FFs - SISO, SIPO, PIPO, PISO",
+            "Programmable Logic Devices - PAL, PLA, FPGA (Basic Concepts Only), Modelling and Simulation of JK and D Flip Flops in Verilog"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

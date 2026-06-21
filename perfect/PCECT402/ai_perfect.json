@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Signals and Systems",
+            "Continuous Time and Discrete Time Signals - Elementary Signals",
+            "Classification of Signals",
+            "Basic Signal Operations. Continuous Time and Discrete Time Systems - Representation and Classification (Memory, Causal, Stable, Linear, Time-Invariant, Invertible). Convolution Integral and Convolution Sum Operations. Continuous Time and Discrete Time LTI Systems - Stability and Causality of LTI Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Frequency Domain Representation of Continuous Time Signals",
+            "Continuous Time Fourier Series - Exponential Fourier Series Representation of Periodic Signals. Continuous Time Fourier Transform - Convergence and Gibbs Phenomenon",
+            "Continuous Time Fourier Transform of Standard Signals",
+            "Properties of Continuous Time Fourier Transform",
+            "Inverse Transform. Bilateral Laplace Transform",
+            "Concept of ROC",
+            "Relation of Laplace Transform to Fourier Transform"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Sampling of Continuous Time Signals to Discrete Signals and Frequency Domain Representation of Discrete Time Signals",
+            "Conversion of Continuous Time Signal to Discrete Time Signal",
+            "Sampling Theorem for Lowpass Signals",
+            "Nyquist Criteria",
+            "Aliasing. Discrete Time Fourier Series for Discrete Periodic Signals. Discrete Time Fourier Transform (DTFT) - Convergence Condition",
+            "DTFT of Standard Signals",
+            "Properties of DTFT",
+            "Inverse Transform. Z Transform - ROC",
+            "Properties of Z Transform (Proof Not Needed), Inverse Transform, Relation between DTFT and Z-Transform"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Analysis of LTI Systems Using Transforms. Concept of Transfer Function - Frequency Response, Magnitude Response and Phase Response. Analysis of Continuous Time LTI Systems Using Laplace and Fourier Transforms. Analysis of Discrete Time LTI Systems Using DTFT and Z Transforms, Stability and Causality Using Z Transform"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

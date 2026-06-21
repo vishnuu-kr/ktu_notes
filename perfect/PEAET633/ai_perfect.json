@@ -1,0 +1,38 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to DCS: Basic Elements of Discrete Data Control Systems, Advantages, Examples",
+            "Signal Conversion and Processing: Digital Signals and Coding, Data Conversion and Quantization, Sample and Hold Devices",
+            "Mathematical Modelling of the Sampling Process and Design of Maximum Sampling Frequency",
+            "Data Reconstruction and Filtering of Sampled Signals: Zero Order Hold and First Order Hold"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Discrete Time Control Systems: Pulse Transfer Function, Z-Transform Analysis of Closed Loop and Open Loop Systems, Steady State Error Analysis, Examples on Static Error Coefficients, Bilinear Transformation",
+            "Mapping from S-Plane to Z-Plane"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Analysis of Discrete Time Control Systems: Stability Analysis of Linear Digital Control Systems",
+            "Routh Hurwitz Criteria and Jury's Test, Root Loci of Digital Control Systems",
+            "Rules for Construction of Root Locus, Frequency Domain Analysis",
+            "Bode Plots: Gain Margin and Phase Margin"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "State Space Analysis: State Space Representation of Discrete Time Systems, State Space Model, Various Canonical Forms from Transfer Function",
+            "Conversion of Transfer Function Model to State Space Model",
+            "Discrete Time State Transition Matrix",
+            "Solution of Discrete State Equations",
+            "Controllability and Observability",
+            "Pole Placement Using State Feedback"
+        ]
+    }
+]

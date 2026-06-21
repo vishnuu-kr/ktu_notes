@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Scope of Finite Element Method in Solving Engineering Problems",
+            "General Steps in Finite Element Analysis",
+            "Variational Formulations and Weighted Residual Methods",
+            "Analysis of Trusses, Beams, and Frames",
+            "Analysis of Plates",
+            "Analysis of Three-Dimensional Problems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Shape Functions",
+            "Convergence Criteria",
+            "General Equations for Calculation of Stiffness Matrix",
+            "Derivation of Stiffness Matrix for Truss Beam",
+            "Plane Stress",
+            "Plane Strain",
+            "Axisymmetric Elements"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Ship Structural Analysis Using FEM",
+            "Formulation of Plate Finite Elements",
+            "Issues Associated with Plate Formulation of Finite Elements",
+            "Numerical Examples on Simple Plate Analysis",
+            "One-Dimensional and Two-Dimensional Finite Element Modelling of Ship Structure"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Preprocessing - Preliminary Checks",
+            "Engineering Model Checks - Analysis Type and Assumptions",
+            "Geometry Assumptions",
+            "Material Properties",
+            "Stiffness and Mass Properties",
+            "Loads and Boundary Conditions",
+            "Finite Element Model Checks",
+            "Element Types",
+            "Mesh Design",
+            "Substructures and Sub-Modelling",
+            "FE Model Loads and Boundary Conditions",
+            "Processing",
+            "Post Processing - Methods",
+            "Displacement Results",
+            "Stress Results",
+            "Fatigue and Fracture Results"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]
