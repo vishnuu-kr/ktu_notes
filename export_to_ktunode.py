@@ -10,166 +10,11 @@ if os.path.exists(DEST_DIR):
     shutil.rmtree(DEST_DIR)
 os.makedirs(DEST_DIR)
 
-BRANCH_MAP = {
-    # CS/IT
-    'AI and Machine Learning': 'cs',
-    'ArtiMachine': 'cs',
-    'Artificial Intelligence': 'cs',
-    'Artificial Intelligence and Data Science': 'cs',
-    'Artificial Intelligence and Machine Learning': 'cs',
-    'CS and Business Systems': 'cs',
-    'CS and Design': 'cs',
-    'CSDesign': 'cs',
-    'CSE (Artificial Intelligence and Data Science)': 'cs',
-    'CSE (Block Chain)': 'cs',
-    'CSE (Cyber Security)': 'cs',
-    'CSE (Internet of Things), CSE(IoT)': 'cs',
-    'CSE (IoT and CS including Block Chain Technology)': 'cs',
-    'CSandEng': 'cs',
-    'Computer Science and Business Systems': 'cs',
-    'Computer Science and Design': 'cs',
-    'Computer Science and Engineering': 'cs',
-    'Computer Science and Engineering (Artificial Intelligence and Data Science)': 'cs',
-    'Computer Science and Engineering (Artificial Intelligence and Machine Learning)': 'cs',
-    'Computer Science and Engineering (Artificial Intelligence)': 'cs',
-    'Computer Science and Engineering (Cyber Security)': 'cs',
-    'Computer Science and Engineering (Data Science)': 'cs',
-    'Computer Science and Engineering (IOT)': 'cs',
-    'Computer Science and Engineering and Business Systems': 'cs',
-    'ComputerBusiness': 'cs',
-    'ComputerCyber': 'cs',
-    'ComputerEngineeringBusiness': 'cs',
-    'ComputerInternet': 'cs',
-    'Cse': 'cs',
-    'CseAIds': 'cs',
-    'CseAIms': 'cs',
-    'CseData': 'cs',
-    'Cseai': 'cs',
-    'Cyber Security': 'cs',
-    'IT': 'cs',
-    'Information Technology': 'cs',
-    
-    # CE
-    'Civil': 'ce',
-    'Civil Engineering': 'ce',
-    'Civil and Environmenal Engineering': 'ce',
-    'Civil and Environmental Engineering': 'ce',
-    
-    # EC
-    'Applied Electronics & Instrumentation': 'ec',
-    'Applied Electronics & Instrumentation Engineering': 'ec',
-    'Biomedical': 'ec',
-    'Biomedical & Robotics Engineering': 'ec',
-    'Biomedical Engineering': 'ec',
-    'Cyber Physical System': 'ec',
-    'Ece': 'ec',
-    'EceComp': 'ec',
-    'ElecBio': 'ec',
-    'Electronics & Biomedical': 'ec',
-    'Electronics & Communication Engineering': 'ec',
-    'Electronics & Instrumentation': 'ec',
-    'Electronics & Instrumentation Engineering': 'ec',
-    'Electronics Engineering (VLSI Design and Technology)': 'ec',
-    'Electronics and Biomedical Engineering': 'ec',
-    'Electronics and Communication (Advanced Communication Technology)': 'ec',
-    'Electronics and Communication Engineering': 'ec',
-    'Electronics and Computer Engineering': 'ec',
-    'ElectronicsInst': 'ec',
-    'Electronics_EngineeringVLSIDesign_and_Technology_compressed': 'ec',
-    'Instrumentation and Control Engineering': 'ec',
-    'Robotics and Artificial Intelligence': 'ec',
-    'Robotics and Automation': 'ec',
-    'RoboticsAINew_compressed': 'ec',
-    
-    # EE
-    'Elecomp': 'ee',
-    'Electrical and Computer Engineering': 'ee',
-    'Electrical and Electronics Engineering': 'ee',
-    'ElectricalandElectronics2024Updated_compressed': 'ee',
-    
-    # ME
-    'Aeronautical Engineering': 'me',
-    'Automobile Engineering': 'me',
-    'AutomobileEng': 'me',
-    'Chemical': 'me',
-    'Chemical Engineering': 'me',
-    'Food': 'me',
-    'Food Technology': 'me',
-    'Indus': 'me',
-    'Industrial Engineering': 'me',
-    'Mechanical Engineering': 'me',
-    'Mechanical Engineering (Auto)': 'me',
-    'Mechanical Engineering (Automobile)': 'me',
-    'MechanicalAuto': 'me',
-    'Mechatronics': 'me',
-    'Mechatronics Engineering': 'me',
-    'Mechnaical': 'me',
-    'Metallurgical & Materials Engineering': 'me',
-    'Naval Architecture & Ship Building': 'me',
-    'Naval Architecture & Ship Building Engineering': 'me',
-    'Polymer': 'me',
-    'Polymer Engineering': 'me',
-    'Production': 'me',
-    'Production Engineering': 'me',
-    'Safety and Fire Engineering': 'me',
-    'Agriculture Engineering': 'me',
-    'Biotechnology': 'me',
-    'Biotechnology and Biochemical Engineering': 'me',
-}
-
-GROUP_A = [
-    "Computer Science and Engineering", "Artificial Intelligence", "Computer Science and Engineering (Artificial Intelligence)",
-    "Computer Science and Engineering (Artificial Intelligence and Machine Learning)", "AI and Machine Learning",
-    "Artificial Intelligence and Data Science", "CS and Business Systems", "CS and Design", "Cyber Security",
-    "Information Technology", "Computer Science and Engineering and Business Systems", "Computer Science and Engineering (Data Science)",
-    "CSE (Artificial Intelligence and Data Science)", "CSE (Internet of Things), CSE(IoT)", "CSE (Block Chain)",
-    "CSE (Cyber Security)", "CSE (IoT and CS including Block Chain Technology)"
-]
-
-GROUP_B = [
-    "Electronics & Communication Engineering", "Electrical and Electronics Engineering", "Electronics & Instrumentation Engineering",
-    "Instrumentation and Control Engineering", "Applied Electronics & Instrumentation Engineering", "Electronics and Biomedical Engineering",
-    "Cyber Physical System", "Biomedical Engineering", "Electronics and Computer Engineering", "Electrical and Computer Engineering",
-    "Robotics and Artificial Intelligence", "Robotics and Automation", "Electronics Engineering (VLSI Design and Technology)",
-    "Electronics and Communication (Advanced Communication Technology)"
-]
-
-GROUP_C = [
-    "Civil Engineering", "Chemical Engineering", "Civil and Environmental Engineering", "Mechanical Engineering",
-    "Mechanical Engineering (Auto)", "Mechanical Engineering (Automobile)", "Automobile Engineering", "Production Engineering",
-    "Aeronautical Engineering", "Industrial Engineering", "Mechatronics Engineering", "Metallurgical & Materials Engineering",
-    "Safety and Fire Engineering", "Polymer Engineering", "Naval Architecture & Ship Building Engineering"
-]
-
-GROUP_D = [
-    "Biotechnology", "Biotechnology and Biochemical Engineering", "Agriculture Engineering", "Food Technology"
-]
+with open("resolved_branch_map.json", "r", encoding="utf-8") as f:
+    RESOLVED_BRANCH_MAP = json.load(f)
 
 def map_branch_to_frontend(branch):
-    if branch == "1ST YEAR SYLLABUS_KTU_GROUPA":
-        return ["cs"]
-    elif branch == "1ST YEAR SYLLABUS_KTU_GROUPB":
-        res = []
-        for b in GROUP_B:
-            res.extend(map_branch_to_frontend(b))
-        return list(set(res))
-    elif branch == "1ST YEAR SYLLABUS_KTU_GROUPC":
-        res = []
-        for b in GROUP_C:
-            res.extend(map_branch_to_frontend(b))
-        return list(set(res))
-    elif branch == "1ST YEAR SYLLABUS_KTU_GROUPD":
-        res = []
-        for b in GROUP_D:
-            res.extend(map_branch_to_frontend(b))
-        return list(set(res))
-    elif branch in ["COMMON COURSES", "UCHUT347-EngineeringEthicsandSustainableDevelopment_Merged"]:
-        return ["cs", "ce", "ec", "ee", "me"]
-        
-    mapped = BRANCH_MAP.get(branch)
-    if mapped:
-        return [mapped]
-    return []
+    return RESOLVED_BRANCH_MAP.get(branch, [])
 
 def slugify(text):
     return re.sub(r'[^a-zA-Z0-9]+', '-', text).strip('-').lower()
@@ -258,102 +103,117 @@ for folder in os.listdir(PERFECT_DIR):
     folder_path = os.path.join(PERFECT_DIR, folder)
     if not os.path.isdir(folder_path): continue
     
-    # Get metadata
-    meta_path = os.path.join(folder_path, 'metadata.json')
-    if not os.path.exists(meta_path):
-        meta_files = [f for f in os.listdir(folder_path) if f.endswith('metadata.json')]
-        if meta_files: meta_path = os.path.join(folder_path, meta_files[0])
-    
-    if not os.path.exists(meta_path): continue
-    
-    with open(meta_path, 'r', encoding='utf-8') as f:
-        meta = json.load(f)
-        
-    # Get AI topics
-    ai_files = [f for f in os.listdir(folder_path) if f.endswith('ai_perfect.json')]
-    if not ai_files: continue
-    
-    with open(os.path.join(folder_path, ai_files[0]), 'r', encoding='utf-8') as f:
-        try:
-            modules_data = json.load(f)
-        except:
-            continue
+    # Get all metadata files in the directory
+    meta_files = []
+    if os.path.exists(os.path.join(folder_path, 'metadata.json')):
+        meta_files.append('metadata.json')
+    for f in os.listdir(folder_path):
+        if f.endswith('metadata.json') and f != 'metadata.json':
+            meta_files.append(f)
             
-    subject_code = meta.get('subject_code', 'UNKNOWN')
-    
-    # Get resolved subject name
-    subject_name = code_to_name.get(subject_code, subject_code)
-    # Fallback to parsing folder name if not resolved
-    if subject_name == subject_code:
-        subject_name = folder
-        if " - " in folder:
-            subject_name = folder.split(" - ", 1)[1].strip()
-            
-    semester_str = meta.get('semester', '')
-    
-    semesters = []
-    if "S1/S2" in semester_str or "1/2" in semester_str:
-        semesters = [1, 2]
-    else:
-        m = re.search(r'\d+', semester_str)
-        if m:
-            semesters = [int(m.group())]
+    for meta_file in meta_files:
+        meta_path = os.path.join(folder_path, meta_file)
+        with open(meta_path, 'r', encoding='utf-8') as f:
+            try:
+                meta = json.load(f)
+            except Exception as e:
+                print(f"Error reading metadata {meta_path}: {e}")
+                continue
+                
+        # Find corresponding ai_perfect file
+        if meta_file == 'metadata.json':
+            ai_file = 'ai_perfect.json'
         else:
-            # Try to extract from subject code digit
-            m_code = re.search(r'\d', subject_code)
-            if m_code:
-                sem = int(m_code.group())
-                if 1 <= sem <= 8:
-                    semesters = [sem]
+            prefix = meta_file.replace('_metadata.json', '')
+            ai_file = f'{prefix}_ai_perfect.json'
+            
+        ai_path = os.path.join(folder_path, ai_file)
+        if not os.path.exists(ai_path):
+            any_ai = [f for f in os.listdir(folder_path) if f.endswith('ai_perfect.json')]
+            if any_ai:
+                ai_path = os.path.join(folder_path, any_ai[0])
+            else:
+                continue
+                
+        with open(ai_path, 'r', encoding='utf-8') as f:
+            try:
+                modules_data = json.load(f)
+            except:
+                continue
+                
+        subject_code = meta.get('subject_code', 'UNKNOWN')
+        
+        # Get resolved subject name
+        subject_name = code_to_name.get(subject_code, subject_code)
+        if subject_name == subject_code:
+            subject_name = folder
+            if " - " in folder:
+                subject_name = folder.split(" - ", 1)[1].strip()
+                
+        semester_str = meta.get('semester', '')
+        
+        semesters = []
+        if "S1/S2" in semester_str or "1/2" in semester_str:
+            semesters = [1, 2]
+        else:
+            m = re.search(r'\d+', semester_str)
+            if m:
+                semesters = [int(m.group())]
+            else:
+                m_code = re.search(r'\d', subject_code)
+                if m_code:
+                    sem = int(m_code.group())
+                    if 1 <= sem <= 8:
+                        semesters = [sem]
+                    else:
+                        semesters = [0]
                 else:
                     semesters = [0]
-            else:
-                semesters = [0] # Unknown
-            
-    branches = meta.get('branches', [])
-    
-    # Map modules to frontend format
-    frontend_modules = []
-    for mod in modules_data:
-        mod_num = mod.get('module', 0)
-        mod_title = mod.get('title', f'Module {mod_num}')
-        topics = mod.get('topics', [])
+                
+        branches = meta.get('branches', [])
         
-        frontend_topics = []
-        for i, t in enumerate(topics):
-            frontend_topics.append({
-                "id": f"t{mod_num}_{i+1}",
-                "title": t,
-                "content": "",
-                "pyqs": []
+        # Map modules to frontend format
+        frontend_modules = []
+        for mod in modules_data:
+            mod_num = mod.get('module', 0)
+            mod_title = mod.get('title', f'Module {mod_num}')
+            topics = mod.get('topics', [])
+            
+            frontend_topics = []
+            for i, t in enumerate(topics):
+                frontend_topics.append({
+                    "id": f"t{mod_num}_{i+1}",
+                    "title": t,
+                    "content": "",
+                    "pyqs": []
+                })
+                
+            frontend_modules.append({
+                "id": f"m{mod_num}",
+                "title": mod_title,
+                "topics": frontend_topics
             })
             
-        frontend_modules.append({
-            "id": f"m{mod_num}",
-            "title": mod_title,
-            "topics": frontend_topics
-        })
-        
-    # Add to mapped branches and semesters
-    for branch in branches:
-        mapped_ids = map_branch_to_frontend(branch)
-        for mapped_id in mapped_ids:
-            for sem in semesters:
-                key = (mapped_id, sem)
-                if key not in branch_sem_subjects:
-                    branch_sem_subjects[key] = []
+        # Add to mapped branches and semesters
+        for branch in branches:
+            mapped_ids = map_branch_to_frontend(branch)
+            for mapped_id in mapped_ids:
+                for sem in semesters:
+                    key = (mapped_id, sem)
+                    if key not in branch_sem_subjects:
+                        branch_sem_subjects[key] = []
+                        
+                    sub_id = slugify(f"{subject_code}-{mapped_id}-s{sem}")
                     
-                sub_id = slugify(f"{subject_code}-{mapped_id}-s{sem}")
-                
-                subject_obj = {
-                    "id": sub_id,
-                    "code": subject_code,
-                    "name": subject_name,
-                    "branchId": mapped_id,
-                    "semester": sem,
-                    "modules": frontend_modules
-                }
-                branch_sem_subjects[key].append(subject_obj)
+                    subject_obj = {
+                        "id": sub_id,
+                        "code": subject_code,
+                        "name": subject_name,
+                        "branchId": mapped_id,
+                        "semester": sem,
+                        "modules": frontend_modules
+                    }
+                    branch_sem_subjects[key].append(subject_obj)
 
 # Deduplicate and write to disk
 total_written = 0
