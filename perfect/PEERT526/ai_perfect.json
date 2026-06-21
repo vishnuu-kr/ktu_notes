@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Programming Environment and Python Basics",
+            "Getting Started with Python Programming – Interactive Shell",
+            "Editing, Saving, and Running a Script: How Python Works; Using Editors – IDLE",
+            "Jupyter; Basic Coding Skills – Working with Data Types",
+            "Numeric Data Types and Character Sets",
+            "Strings",
+            "Keywords",
+            "Variables and Assignment Statement",
+            "Operators",
+            "Expressions and Type Conversions",
+            "Comments in the Program; Input, Processing, and Output; Formatting Text for Output"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Building Python Programs",
+            "Data Representation",
+            "List, Tuple, Sets, Dictionary; Working with Dates and Times",
+            "Control Statements – Selection Structure (if-else, switch-case); Iteration with for/while Loop; Testing the Control Statements",
+            "Functions – Hiding Redundancy and Complexity",
+            "Arguments and Return Values",
+            "Variable Scopes and Parameter Passing",
+            "Named Arguments",
+            "Main Function",
+            "Working with Recursion",
+            "Lambda Functions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Object Oriented Programming",
+            "Design with Classes – Objects and Classes, Methods, Instance Variables, Constructor, Accessors and Mutators",
+            "Structuring Classes with Inheritance and Polymorphism; Abstract Classes; Interfaces",
+            "Exceptions – Handle a Single Exception, Handle Multiple Exceptions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Data Processing",
+            "The os and sys Modules; Introduction to File I/O – Reading and Writing Text Files, Manipulating Binary Files",
+            "NumPy – Basics, Creating Arrays, Arithmetic, Slicing, Matrix Operations, Random Numbers",
+            "Plotting and Visualization; Working with CSV Files",
+            "Pandas – Reading, Manipulating, and Processing Data",
+            "Introduction to Microservice using Flask"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

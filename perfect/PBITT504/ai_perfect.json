@@ -1,0 +1,259 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "JavaScript",
+            "How JavaScript makes web pages more interactive",
+            "Examples of JavaScript in the browser",
+            "How HTML, CSS & JavaScript fit together",
+            "Creating a basic JavaScript",
+            "Placing the script in the page",
+            "Where to place your scripts",
+            "Basic JavaScript instructions",
+            "Statements",
+            "Comments",
+            "Variables",
+            "Data types",
+            "Arrays",
+            "Expressions",
+            "Operators",
+            "Functions, methods and objects",
+            "Function",
+            "Anonymous function",
+            "Variable scope",
+            "Object",
+            "This keyword",
+            "Arrays of objects and objects in arrays",
+            "Built-in objects",
+            "Browser object model",
+            "Document object model",
+            "Global objects (String, Number, Math, Date)",
+            "Document Object Model (DOM)",
+            "Working with DOM tree",
+            "Accessing elements",
+            "NodeLists",
+            "Selecting elements",
+            "Using class attribute",
+            "Tag name",
+            "CSS selectors",
+            "Repeating actions for an entire NodeList",
+            "Looping through a NodeList",
+            "Traversing the DOM",
+            "Previous & next sibling",
+            "First & last child",
+            "textContent",
+            "Adding or removing HTML content",
+            "Update text and markup",
+            "Adding/removing elements",
+            "Creating attributes and changing their values",
+            "Removing attributes",
+            "Event handling",
+            "Different event types",
+            "Three ways to bind an event to an element",
+            "Using DOM event handlers",
+            "Using event listeners",
+            "Using parameters with event listeners",
+            "The event object",
+            "Event bubbling",
+            "User interface events"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "ECMAScript",
+            "ECMAScript versions",
+            "ES5 Features",
+            "ES6 introduction",
+            "var declarations and hoisting",
+            "let declaration",
+            "Constant declaration",
+            "Function with default parameter values",
+            "Default parameter expressions",
+            "Unnamed parameters",
+            "The spread operator",
+            "Arrow functions",
+            "Object destructuring",
+            "Array destructuring",
+            "Sets and maps",
+            "Array.find",
+            "Array.findIndex",
+            "Template strings",
+            "JavaScript classes",
+            "Callbacks",
+            "Promises",
+            "async/await",
+            "AJAX",
+            "What is AJAX?",
+            "Why use AJAX?",
+            "How AJAX works?",
+            "Handling AJAX request and response",
+            "Data formats",
+            "XML",
+            "JSON",
+            "Working with JSON data",
+            "Loading HTML with AJAX",
+            "Loading JSON with AJAX",
+            "Working with data from other servers",
+            "jQuery",
+            "A basic jQuery example",
+            "Why use jQuery?",
+            "Finding elements",
+            "jQuery selection",
+            "Getting element content",
+            "Updating elements",
+            "Changing content",
+            "Inserting elements",
+            "Adding new content",
+            "Getting and setting attributes",
+            "Getting and setting CSS properties",
+            "Using .each()",
+            "Events",
+            "Event object",
+            "Effects",
+            "Animating CSS properties",
+            "Using animation",
+            "Traversing the DOM",
+            "Working with forms",
+            "jQuery and AJAX"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Node.js",
+            "What is Node.js",
+            "Installing Node.js",
+            "Creating first server",
+            "Request and response",
+            "Responding with HTML",
+            "Installing custom packages with NPM",
+            "Introduction to Express",
+            "Handling request with Express",
+            "Serving other HTML files",
+            "Serving static files with Express",
+            "Automatic server restart with Nodemon",
+            "Public folder for serving static files",
+            "Creating page routes",
+            "Templating engines",
+            "MongoDB",
+            "Architecture of MongoDB",
+            "Installing MongoDB",
+            "Mongoose",
+            "Defining a model",
+            "CRUD operations with Mongoose models",
+            "Reading data from MongoDB using Mongoose",
+            "Updating record",
+            "Deleting a single record",
+            "Saving to the database",
+            "Dynamic data with templating engines",
+            "Adding fields to the schema",
+            "Uploading image with Express",
+            "Saving uploaded images to database"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Refactoring to MVC",
+            "Express middleware",
+            "Custom middleware",
+            "Registering validation middleware",
+            "Refactoring to MVC",
+            "Refactoring validation layer",
+            "Mongoose validation",
+            "Password encryption",
+            "User login process",
+            "User authentication with Express sessions",
+            "Authentication middleware",
+            "User logout",
+            "Handling non-existent routes",
+            "Displaying validation errors in templates",
+            "Duplicate entry error",
+            "Flushing error messages from session",
+            "Customising error message",
+            "Persist request data on form",
+            "Adding a WYSIWYG editor",
+            "Deployment",
+            "Setting up MongoDB Atlas",
+            "Deploying web apps on Heroku",
+            "Deployment 7 Suggestions on Project Topics",
+            "Project Topics: Countdown clock (JavaScript)",
+            "Project Topics: To do list (JavaScript)",
+            "Project Topics: Rock paper scissors game (JavaScript)",
+            "Project Topics: Shopping cart page (JavaScript)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 5",
+        "topics": [
+            "Calculator app (JavaScript)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 6",
+        "topics": [
+            "Memory game (JavaScript)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 7",
+        "topics": [
+            "Movie app (Node.js, Express, MongoDB)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 8",
+        "topics": [
+            "Chat app (Node.js, Express, MongoDB)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 9",
+        "topics": [
+            "Hotel booking app (Node.js, Express, MongoDB)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 10",
+        "topics": [
+            "Library app (Node.js, Express, MongoDB)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 11",
+        "topics": [
+            "Job search app (Node.js, Express, MongoDB)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 12",
+        "topics": [
+            "E-commerce website (Node.js, Express, MongoDB)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

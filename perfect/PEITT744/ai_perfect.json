@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of Mobile Application Development",
+            "History, Trends, and Importance",
+            "Mobile Platforms: Android and Cross-Platform Development",
+            "Development Environments: Android Studio, Xcode, and Visual Studio Code",
+            "App Development Lifecycle: Design, Development, Testing, and Deployment",
+            "Introduction to Programming Languages: Java, Kotlin, Swift, and Dart",
+            "Lab: Setting up development environments (Android Studio, Xcode, Visual Studio Code)",
+            "Lab: Building a simple 'Hello World' app using Java (Android) and Swift (iOS)",
+            "Lab: Exploring cross-platform development with Flutter"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "UI/UX Design Principles: Visual Design, Information Architecture, and Interaction Design",
+            "Wireframing and Prototyping Tools: Figma, Sketch, and Adobe XD",
+            "Responsive Design for Multiple Devices and Screen Sizes",
+            "Material Design Guidelines for Android and Human Interface Guidelines for iOS",
+            "Accessibility in Mobile App Design",
+            "Lab: Creating wireframes and prototypes using Figma or Sketch",
+            "Lab: Implementing responsive design in Android and iOS apps",
+            "Lab: Applying Material Design and Human Interface Guidelines in simple UI components",
+            "Lab: Testing app accessibility features on various devices"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Connecting Mobile Apps to Backend Services: RESTful APIs and GraphQL",
+            "Cloud Services for Mobile Apps: Firebase, AWS Amplify, and Google Cloud",
+            "Working with Databases: SQLite, Realm, and Firebase Realtime Database",
+            "Data Storage and Management in Mobile Apps",
+            "Push Notifications and In-App Messaging",
+            "Lab: Setting up and integrating a Firebase backend with a mobile app",
+            "Lab: Implementing RESTful API calls in an app using Retrofit (Android) and URLSession (iOS)",
+            "Lab: Storing and retrieving data using SQLite and Firebase Realtime Database",
+            "Lab: Configuring push notifications and sending in-app messages"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Performance Optimization: Profiling, Memory Management, and Battery Efficiency",
+            "Mobile App Security: Secure Coding Practices, Encryption, and Authentication",
+            "Cross-Platform Development: React Native, Flutter, and Xamarin",
+            "App Store Deployment: Google Play Store and Apple App Store",
+            "Lab: Profiling and optimizing app performance using Android Studio and Xcode tools",
+            "Lab: Implementing secure coding practices and encryption in mobile apps",
+            "Lab: Developing and deploying a cross-platform app using Flutter",
+            "Lab: Preparing and submitting apps to the Google Play Store and Apple App Store"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

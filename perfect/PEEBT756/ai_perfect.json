@@ -1,0 +1,84 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Statistical Programming Language R",
+            "Downloading R and RStudio",
+            "Basics of Coding in R",
+            "Using Comments in R",
+            "Executing Commands in R",
+            "Importing Packages in R",
+            "Getting Data into R",
+            "Saving Output in R",
+            "Accessing Records and Variables in R",
+            "Slicing and Extracting Data",
+            "Variable Conversion",
+            "Data Selection and Manipulation",
+            "Math Functions",
+            "Visualizations Using the ggplot2 Library",
+            "Create Commonly Used Data Visualizations for Each Data Type Including Histograms, Scatter Plots, and Box Plots",
+            "Improve Data Visualizations Using Facets"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Advanced Data Processing - R Programming - Loading, Manipulating, Visualizing, and Saving R Data Structures",
+            "Sample-Based Statistics Measuring Central Tendency and Dispersion",
+            "Different Types of Variables",
+            "Scraping Data from Public Websites",
+            "Examples of Cohort-Rebalancing",
+            "Statistical Shape Analysis Using R",
+            "Shape Package",
+            "Shape Distances in R",
+            "Tangent Space Coordinates in R",
+            "Calculation of Mean Shapes in R",
+            "Generalized Procrustes Algorithms for Shape Analysis in R",
+            "Tangent-Based PCA",
+            "R Packages for Decision Tree Classification",
+            "Random Forest in R",
+            "R in Healthcare"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Coding in Python",
+            "Data Analysis with Pandas - The Data Structure of Pandas",
+            "Data Frame Basics",
+            "Basics of Deep Learning with Python",
+            "Gradient Descent Algorithm",
+            "ANN for Regression",
+            "Overfitting and Cross-Validation",
+            "Regularization",
+            "Convolutional Neural Networks",
+            "TensorFlow and Keras for Deep Convolutional Neural Networks",
+            "Deep Neural Network and Transfer Learning Using Python"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Robotics Programming - ROS Framework Operating System",
+            "UNIX Commands - Architecture of Operating System",
+            "Catkin Workspace",
+            "ROS Navigation and Listing Commands",
+            "Navigation Through File System",
+            "Understanding and Debugging Nodes",
+            "Visualization Using Gazebo and Rviz",
+            "URDF Modelling",
+            "Xacro Launch Files",
+            "Sensor Drivers and Motor Drivers for ROS",
+            "Actuator Interfacing Case Studies",
+            "Navigation Stack - Creating Transforms - Odometer, IMU, Laser Scan, Base Controller, Robot Configuration - TurtleBot the Low-Cost Mobile Robot"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

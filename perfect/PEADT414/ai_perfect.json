@@ -1,0 +1,74 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Molecular Biology Primer: Genes",
+            "DNA",
+            "RNA",
+            "Proteins",
+            "Genomics",
+            "Sequencing Techniques",
+            "Bioinformatics Overview and Scope",
+            "Sequence Alignment: Global and Local Sequence Alignment - Dynamic Programming Algorithms",
+            "Edit Distance",
+            "Similarity",
+            "Needleman-Wunsch Algorithm",
+            "Smith-Waterman Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Biological Databases and Data Formats",
+            "Genomic and Sequence Data Formats",
+            "GenBank",
+            "EMBL-Bank and DDBJ",
+            "PROSITE",
+            "NCBI Database Searching",
+            "BLAST",
+            "FASTA",
+            "Phylogenetics: Phylogenetic Tree Basics and Construction Methods",
+            "UPGMA",
+            "Neighbour Joining",
+            "Parsimonous Trees",
+            "Additive Trees",
+            "Bootstrapping"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Combinatorial Pattern Matching",
+            "Repeat Finding",
+            "Keyword Trees",
+            "Suffix Trees",
+            "Heuristic Similarity Search Algorithms",
+            "Approximate Pattern Matching"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "R for Bioinformatics: Variables",
+            "Data Types",
+            "Control Flow Constructs",
+            "String Manipulation",
+            "Pattern Matching",
+            "Arrays",
+            "Lists and Hashes",
+            "File Handling",
+            "Programs to Handle Biological Data and Parse Output Files for Interpretation",
+            "Packages for Sequence Alignment",
+            "FASTA",
+            "BLAST, Bioconductor, and Biostrings"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

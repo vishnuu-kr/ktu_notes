@@ -1,0 +1,50 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Pattern Recognition: Basics of Pattern Recognition",
+            "Applications and Examples",
+            "Statistical Pattern Recognition",
+            "Introduction to Classifiers",
+            "k-NN",
+            "Naive Bayes",
+            "Project 1: Image Classification Using k-NN and Naive Bayes (Classify images from the CIFAR-10 dataset; deliverables: code implementation, project report, and presentation)",
+            "Assignment on k-NN and Naive Bayes Classifiers and Mini-Project Proposal Submission"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Feature Extraction and Dimensionality Reduction: Feature Selection Techniques",
+            "Principal Component Analysis (PCA)",
+            "Non-linear Dimensionality Reduction Methods (t-SNE, LLE)",
+            "Project 2: Dimensionality Reduction for Handwritten Digit Recognition (Use PCA and LDA to reduce the dimensionality of the MNIST dataset and apply a classifier; deliverables: code implementation, project report, and presentation)",
+            "Assignment on PCA and LDA Theory, Mid-Term Project, and Detailed Report on Feature Extraction Project"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Machine Learning Algorithms for Pattern Recognition",
+            "Support Vector Machines (SVM)",
+            "Neural Networks and Deep Learning",
+            "Ensemble Methods (Random Forests, Gradient Boosting)",
+            "Clustering Techniques (k-means, Hierarchical Clustering)",
+            "Project 3: Text Classification Using SVM and Neural Networks (Classify text documents from the 20 Newsgroups dataset using SVM and a simple neural network; deliverables: code implementation, project report, and presentation)",
+            "Assignment on SVM and Neural Network Theory and Group Project on Ensemble Methods Applied to a Complex Dataset"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Advanced Topics and Applications",
+            "Hidden Markov Models (HMM)",
+            "Bayesian Networks",
+            "Pattern Recognition in Speech and Handwriting",
+            "Project 4: Speech Recognition Using Hidden Markov Models (Develop a speech recognition system using the TIMIT Acoustic-Phonetic Continuous Speech Corpus; tools: Python, HTK)",
+            "Project 5: Handwriting Recognition Using Deep Learning (Use MNIST Handwritten Digits Dataset and IAM Handwriting Database; tools: Python, TensorFlow/Keras, OpenCV)",
+            "Project 6: Bayesian Networks for Medical Diagnosis (Use UCI Machine Learning Repository and Hepatitis Dataset; tools: Python, PyMC3, Netica)",
+            "Assignment on HMM and Bayesian Networks and Final Project on Comprehensive Pattern Recognition Application"
+        ]
+    }
+]

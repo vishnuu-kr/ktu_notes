@@ -1,0 +1,83 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to R and Data Structures: The R Environment",
+            "Command Line Interface and Batch Processing",
+            "R Packages",
+            "Basic Concepts",
+            "Variables",
+            "Data Types and Data Structures",
+            "Vectors: Vector Operations and Factor Vectors",
+            "Lists and Their Operations",
+            "Data Frames",
+            "Matrices and Arrays",
+            "Control Statements",
+            "Branching and Looping: For Loops",
+            "While Loops",
+            "Controlling Loops",
+            "Functions",
+            "Functions as Arguments",
+            "Named Arguments"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Data Handling and Transformation: Reading and Writing Data",
+            "Importing Data from Text Files and Other Software",
+            "Exporting Data",
+            "Importing Data from Databases: Database Connection Packages",
+            "Handling Missing Data",
+            "NULL Data Manipulation",
+            "Combining Data Sets",
+            "Transformations",
+            "Binning Data",
+            "Subsets",
+            "Summarizing Functions",
+            "Data Cleaning: Finding and Removing Duplicates",
+            "Sorting"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Statistical Analysis with R: Analysing Data",
+            "Summary Statistics",
+            "Statistical Tests",
+            "Continuous Data",
+            "Discrete Data",
+            "Power and Probability Distributions",
+            "Common Distributions: Type Arguments",
+            "Probability Distributions",
+            "Normal Distributions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Data Visualization and Regression Models: Data Visualization",
+            "R Graphics: Overview",
+            "Customizing Charts",
+            "Graphical Parameters",
+            "Basic Graphics Functions",
+            "Lattice Graphics: Lattice Functions",
+            "Customizing Lattice Graphics",
+            "Ggplot: Introduction to Regression Models",
+            "Building Linear Models: Model Fitting",
+            "Predicting Values Using Models",
+            "Analysing the Fit",
+            "Refining the Model",
+            "Generalized Linear Models: Logistic Regression",
+            "Poisson Regression"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]
