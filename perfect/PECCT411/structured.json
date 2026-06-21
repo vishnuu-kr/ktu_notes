@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Distributed System",
             "Definition",
             "Relation to computer system components",
             "Motivation",
@@ -27,9 +28,11 @@
     {
         "module": "Module 3",
         "topics": [
+            "Parallel Computing",
             "Principles of Parallel Algorithm Design Decomposition Techniques",
             "Characteristics of Tasks and interactions",
-            "Mapping techniques for load balancing. Basic Communication operations: One to All Broadcast and All to One Reduction",
+            "Mapping techniques for load balancing. Basic Communication operations",
+            "One to All Broadcast and All to One Reduction",
             "All to All Broadcast and Reduction",
             "All Reduce And Prefix Sum operations",
             "Scatter and Gather",
@@ -43,8 +46,10 @@
     {
         "module": "Module 4",
         "topics": [
+            "Principles of Message Passing Programming",
+            "The building blocks",
             "Send and Receive Operations",
-            "MPI: The Message Passing Interface",
+            "The Message Passing Interface",
             "Overlapping Communication with Computation",
             "Collective Communication and Computation Operations",
             "Groups and Communicators"

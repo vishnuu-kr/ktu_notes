@@ -2,8 +2,8 @@
   {
     "module": "Module 1",
     "topics": [
-      "Definition, History, Principle, Advantage, Challenges, Scope",
-      "Satellite Remote Sensing: Principle, Sensor measurement, resolutions, Basic Remote Sensing unit using Landsat data: History, Different types, Landsat Accessing level, Selection, Landsat calibration"
+      "Introduction to remote sensing Introduction to remote sensing, Definition, History, Principle, Advantage, Challenges, Scope",
+      "Satellite Remote Sensing, Principle, Sensor measurement, resolutions, Basic Remote Sensing unit using Landsat data, History, Different types, Landsat Accessing level, Selection, Landsat calibration"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -11,12 +11,15 @@
   {
     "module": "Module 2",
     "topics": [
-      "Introduction to Image Processing Image: relevance",
+      "Introduction to Image Processing Image",
+      "relevance",
       "properties",
-      "Image Processing techniques: filtering pixels",
+      "Image Processing techniques",
+      "filtering pixels",
       "applying algorithms",
       "colour palettes",
-      "Practical software: SNAP",
+      "Practical software",
+      "SNAP",
       "downloading",
       "importing",
       "creating the image",
@@ -30,6 +33,10 @@
   {
     "module": "Module 3",
     "topics": [
+      "Introduction to QGIS and Water cycle GIS",
+      "installation",
+      "and packages",
+      "QGIS",
       "Importing remote sensing data into QGIS",
       "Data handling techniques",
       "CRS Adjustments within QGIS",
@@ -46,6 +53,16 @@
   {
     "module": "Module 4",
     "topics": [
+      "Urban Environments and Landscape evolution Introduction to optical signatures of urban surfaces",
+      "Thermal signatures of urban surfaces",
+      "Applications",
+      "Creep",
+      "dynamics",
+      "Air quality",
+      "Time series analysis for landscape evolution monitoring",
+      "Techniques",
+      "microwave data",
+      "applications. Future of Remote Sensing",
       "Instruments",
       "Data",
       "Satellite",

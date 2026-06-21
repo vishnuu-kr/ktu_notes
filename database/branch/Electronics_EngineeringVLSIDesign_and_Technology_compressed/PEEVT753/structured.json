@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to Aspects of EMC",
       "EMI Sources",
       "EMC units",
       "Signalsource specification",
@@ -15,11 +16,13 @@
   {
     "module": "Module 2",
     "topics": [
+      "Signal Integrity",
       "Transmission-Line Equations",
       "High-Speed Digital Interconnects",
       "Effect of Terminations",
       "Matching Schemes",
-      "Effects of LineDiscontinuities. Non-ideal Behaviour of Components: Wires",
+      "Effects of LineDiscontinuities. Non-ideal Behaviour of Components",
+      "Wires",
       "resistors",
       "capacitors",
       "inductors",
@@ -34,10 +37,12 @@
   {
     "module": "Module 3",
     "topics": [
+      "Conducted Emissions and Conducted Susceptibility",
       "Measurement",
       "Power Supplies",
       "Filters",
-      "Placement. Radiated Emissions andConducted Susceptibility: Simple Emission Models for Wires and PCBLands",
+      "Placement. Radiated Emissions andConducted Susceptibility",
+      "Simple Emission Models for Wires and PCBLands",
       "Simple Susceptibility Models for Wires and PCB Lands"
     ],
     "rejected_topics": null,
@@ -46,7 +51,7 @@
   {
     "module": "Module 4",
     "topics": [
-      "Three-Conductor Transmission Lines and Crosstalk, ShieldedWires, Twisted Wires. Shielding: Shielding Effectiveness- Far-FieldSources, Near-Field Sources",
+      "Crosstalk, Three-Conductor Transmission Lines and Crosstalk, ShieldedWires, Twisted Wires. Shielding, Shielding Effectiveness- Far-FieldSources, Near-Field Sources",
       "Low Frequency, Magnetic Field Shielding System Design for EMC:Common EMC Issues in Practice and Design Guidelines"
     ],
     "rejected_topics": null,

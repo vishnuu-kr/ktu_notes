@@ -11,60 +11,53 @@
             "Fourier Transform and Its Inverse",
             "Linearity",
             "Transforms of Derivative"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     },
     {
         "module": "Module 2",
         "topics": [
-            "Complex Functions",
+            "Complex Function",
             "Limit",
             "Continuity",
             "Derivative",
             "Analytic Functions",
             "Cauchy-Riemann Equations",
-            "Laplace's Equation",
+            "Laplace's Equations",
             "Harmonic Functions",
             "Finding Harmonic Conjugate",
             "Conformal Mapping",
-            "Mappings of w = z^2",
-            "Mappings of w = e^z",
-            "Mappings of w = 1/z",
-            "Mappings of w = sin z"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+            "Mappings of w = z²",
+            "w = eᶻ",
+            "w = 1/z",
+            "w = sin z"
+        ]
     },
     {
         "module": "Module 3",
         "topics": [
-            "Line Integrals in the Complex Plane: Definition and Basic Properties",
+            "Complex Integration",
+            "Line Integrals in the Complex Plane (Definition and Basic Properties)",
             "First Evaluation Method",
             "Second Evaluation Method",
             "Cauchy's Integral Theorem on Simply Connected Domain",
             "Independence of Path",
             "Cauchy Integral Theorem on Multiply Connected Domain",
             "Cauchy Integral Formula"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     },
     {
         "module": "Module 4",
         "topics": [
             "Taylor Series and Maclaurin Series",
             "Laurent Series",
-            "Singularities and Zeros: Isolated Singularity",
+            "Singularities and Zeros - Isolated Singularity",
             "Poles",
             "Essential Singularities",
             "Removable Singularities",
-            "Zeros of Analytic Functions: Poles and Zeros",
+            "Zeros of Analytic Functions - Poles and Zeros",
             "Formulas for Residues",
             "Residue Theorem",
-            "Residue Integration: Integral of Rational Functions of cos θ and sin θ"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+            "Residue Integration - Integral of Rational Functions of cos θ and sin θ"
+        ]
     }
 ]

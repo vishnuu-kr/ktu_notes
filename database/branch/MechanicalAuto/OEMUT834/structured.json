@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to Mechatronics and Automotive Mechatronics",
       "Structure of Mechatronics system. Sensors - Characteristics - Temperature",
       "flow",
       "pressure sensors. Displacement",
@@ -9,8 +10,10 @@
       "optical",
       "ultrasonic",
       "inductive",
-      "capacitive Hall Effect and eddy current methods. Encoders: incremental and absolute",
-      "gray coded encoder. Resolvers and synchros. Piezoelectric sensors. Acoustic Emission sensors. Actuators: Mechanical actuators",
+      "capacitive Hall Effect and eddy current methods. Encoders",
+      "incremental and absolute",
+      "gray coded encoder. Resolvers and synchros. Piezoelectric sensors. Acoustic Emission sensors. Actuators",
+      "Mechanical actuators",
       "Electrical actuators",
       "Hydraulic and Pneumatic actuators Working of Sensors and actuators in Automobile - MAF",
       "Throttle position",
@@ -25,6 +28,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Fundamentals of Automotive Electronics and Microprocessor control system",
       "Microprocessor architecture",
       "open and closed loop control strategies",
       "PID control",
@@ -41,9 +45,13 @@
   {
     "module": "Module 3",
     "topics": [
+      "Programmable Logic Controllers (PLC) - Basic structure",
+      "input/ output processing. Programming",
       "Timers",
       "Internal Relays",
-      "Counters and Shift registers. Development of simple ladder programs for specific purposes. Micro Electro Mechanical Systems (MEMS): Fabrication: Deposition",
+      "Counters and Shift registers. Development of simple ladder programs for specific purposes. Micro Electro Mechanical Systems (MEMS",
+      "Fabrication",
+      "Deposition",
       "Lithography",
       "Micromachining methods for MEMS",
       "Deep Reactive Ion Etching (DRIE) and LIGA processes. Principle",
@@ -56,6 +64,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Electronic Engine Management System",
       "SI Engine Management - parameters to be controlled",
       "Electronic Fuel Injection",
       "Electronic Ignition System and its advantages",

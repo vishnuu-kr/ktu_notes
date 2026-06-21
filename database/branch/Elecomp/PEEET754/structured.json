@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Review of image processing techniques",
       "Digital filters",
       "linear filters-Homomorphic filtering",
       "Point operators- Histogram",
@@ -46,7 +47,8 @@
       "Shape from X - Shape from shading",
       "Photometric stereo",
       "Texture Occluding contour detection. Motion Analysis- Regularization theory",
-      "Optical Flow: brightness constancy equation",
+      "Optical Flow",
+      "brightness constancy equation",
       "aperture problem",
       "Horn-Shunck method",
       "Lucas-Kanade method. Structure from motion"
@@ -57,7 +59,13 @@
   {
     "module": "Module 4",
     "topics": [
-      "Scene analysis Examples of real time applications: In-vehicle vision system"
+      "Object recognition-Shape correspondence and shape matching PCA",
+      "Bayes rule andML methods. Eigen faces",
+      "Face detection",
+      "Face recognition",
+      "Application",
+      "Scene analysis Examples of real time applications",
+      "In-vehicle vision system"
     ],
     "rejected_topics": null,
     "status": "verified"

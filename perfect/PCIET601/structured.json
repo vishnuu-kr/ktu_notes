@@ -2,13 +2,15 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to system modelling",
             "Concepts of a system",
             "system environment",
             "continuous and discrete systems",
             "system models",
             "comparison of analytical methods and simulation",
             "areas of application of simulation",
-            "steps in discrete event simulation study. Random Numbers: Properties of random numbers",
+            "steps in discrete event simulation study. Random Numbers",
+            "Properties of random numbers",
             "generation of pseudo-random numbers",
             "random number generators. Tests for random numbers-frequency",
             "and Poker tests",
@@ -21,18 +23,21 @@
     {
         "module": "Module 2",
         "topics": [
+            "Generation of random variates",
             "Inverse transformation method for exponential",
             "uniform",
             "Weibull",
             "triangular",
             "and discrete distributions",
             "Direct transformation method for normal and lognormal distributions",
-            "Acceptance-rejection technique for Poisson and Gamma distributions. Input modelling: Data collection",
+            "Acceptance-rejection technique for Poisson and Gamma distributions. Input modelling",
+            "Data collection",
             "identifying the distribution with the collected data",
             "goodness of fit tests",
             "selecting input models without data. Verification and validation of simulation models",
             "Output data analysis",
-            "Variance reduction techniques. Time Advance Mechanisms for discrete event simulation: Next-Event time advance and fixed increment time advance methods"
+            "Variance reduction techniques. Time Advance Mechanisms for discrete event simulation",
+            "Next-Event time advance and fixed increment time advance methods"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -40,6 +45,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "System dynamic modelling",
             "Evolution of system dynamics as a system enquiry methodology",
             "elements of system dynamics modelling- physical flows",
             "information flows",
@@ -56,8 +62,10 @@
     {
         "module": "Module 4",
         "topics": [
+            "Behaviour of linear lower order systems",
             "Analytical approach - first order positive and negative feedback systems",
-            "pure second order positive and negative feedback systems. Modes of dynamic behaviour: Exponential growth",
+            "pure second order positive and negative feedback systems. Modes of dynamic behaviour",
+            "Exponential growth",
             "goal seeking",
             "oscillation",
             "interactions of fundamental modes. Principles of simulation modelling",

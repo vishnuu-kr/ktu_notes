@@ -2,12 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
-            "Analysis using method of joints and method of sections. Cables and Suspension bridges: Forces in loaded (concentrated and uniformly distributed) cables",
-            "length of cables",
-            "supports at same and different levels",
-            "maximum tension in the suspension cable and backstays, pressure on towers. Simple suspension bridges with three hinged stiffening girders",
-            "bending moments and shear force diagrams. Deformation Response of Statically Determinate Beams: Moment area method",
-            "Mohr’s theorems, Applications to determinate deformations of cantilever and simply supported beams (prismatic and beams of varying cross section) subjected to concentrated and uniformly distributed loads"
+            "Statically determinate trusses",
+            "Analysis using method of joints and method of sections. Cables and Suspension bridges",
+            "Forces in loaded (concentrated and uniformly distributed) cables - length of cables - supports at same and different levels - maximum tension in the suspension cable and backstays",
+            "pressure on towers. Simple suspension bridges with three hinged stiffening girders - bending moments and shear force diagrams. Deformation Response of Statically Determinate Beams",
+            "Moment area method - Mohr’s theorems",
+            "Applications to determinate deformations of cantilever and simply supported beams (prismatic and beams of varying cross section) subjected to concentrated and uniformly distributed loads"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -15,8 +15,8 @@
     {
         "module": "Module 2",
         "topics": [
-            "Conjugate beam method - Real beam and conjugate beam, boundary conditions",
-            "Applications to determinate deformations of cantilever and simply supported beams (prismatic and beams of varying cross section subjected to concentrated and uniformly distributed loads. Energy Principles and Energy Theorems: Castigliano’s theorem I, Principle of virtual work, Betti’s theorem, Maxwell’s law of reciprocal deflections. Unit load method for determination of deflection of statically determinate beams, frames and trusses"
+            "Deformation Response of Statically Determinate Beams, Conjugate beam method - Real beam and conjugate beam, boundary conditions",
+            "Applications to determinate deformations of cantilever and simply supported beams (prismatic and beams of varying cross section subjected to concentrated and uniformly distributed loads. Energy Principles and Energy Theorems, Castigliano’s theorem I, Principle of virtual work, Betti’s theorem, Maxwell’s law of reciprocal deflections. Unit load method for determination of deflection of statically determinate beams, frames and trusses"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -24,8 +24,10 @@
     {
         "module": "Module 3",
         "topics": [
+            "Indeterminate Structures",
             "Introduction to force method of analysis. Static indeterminacy Analysis of statically indeterminate structures Castigliano’s theorem II",
-            "Minimum strain energy method for analysing statically indeterminate structures (Illustration only) Method of consistent deformations: Analysis of beams",
+            "Minimum strain energy method for analysing statically indeterminate structures (Illustration only) Method of consistent deformations",
+            "Analysis of beams",
             "frames and trusses. (simple problems with one redundant",
             "illustration only for two-redundant problems). Concepts of effect of pre-strain",
             "lack of fit",
@@ -37,6 +39,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Three Hinged Arches",
             "Action of an arch - Eddy’s theorem - Three hinged",
             "parabolic and circular arches (with supports at same level) -determination of horizontal thrust",
             "bending moment",

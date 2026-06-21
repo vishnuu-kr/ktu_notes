@@ -2,10 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction",
             "Overview of the automotive industry",
             "History and evolution of automobiles",
             "Combustion Engines (ICE) vehicles - classification of automobile L",
-            "M and N category (an overview). Sub division according to body style (hatchback to station wagon) I C Engine components: Head",
+            "M and N category (an overview). Sub division according to body style (hatchback to station wagon) I C Engine components",
+            "Head",
             "block & sump",
             "cylinder",
             "piston",
@@ -23,12 +25,15 @@
     {
         "module": "Module 2",
         "topics": [
+            "Fuel",
+            "Air and ignition systems",
             "Carburettors",
             "MPFI",
             "CRDI & GDI systems with components (with neat diagrams). Working of solenoid and piezo injectors. Naturally aspirated and forced induction systems (turbo and super charger). Spark ignition systems - components",
             "ignition timing",
             "Single coil ignition system & coil over plug ignitions system. Lubrication",
-            "Cooling and exhaust system: Lubrication system - basic circuitry",
+            "Cooling and exhaust system",
+            "Lubrication system - basic circuitry",
             "oil grade and viscosity. Cooling system - basic circuit including thermostat valve. Exhaust system - 3-way catalytic converter",
             "DPF and SCR basics"
         ],
@@ -38,15 +43,18 @@
     {
         "module": "Module 3",
         "topics": [
+            "Power Trains",
             "General arrangement of clutch",
             "Principle of friction clutches",
             "Constructional details",
-            "Single plate and multi-plate. Numerical calculations for torque transmission by clutches. Gear box: Necessity for gear ratios in transmission",
+            "Single plate and multi-plate. Numerical calculations for torque transmission by clutches. Gear box",
+            "Necessity for gear ratios in transmission",
             "synchromesh gear boxes",
             "planetary gears",
             "over drives",
             "principle of automatic transmission (AMT",
-            "TC - an overview). Drive to Wheels: Propeller shaft and universal joints",
+            "TC - an overview). Drive to Wheels",
+            "Propeller shaft and universal joints",
             "differential",
             "rear axle",
             "Ackerman Steering Mechanism",
@@ -67,6 +75,8 @@
     {
         "module": "Module 4",
         "topics": [
+            "Suspension",
+            "Springs and Brakes",
             "Requirements",
             "leaf spring",
             "coil spring",
@@ -77,7 +87,8 @@
             "Disk brakes",
             "drum brakes",
             "Antilock - Braking systems",
-            "purpose and operation of antilock-braking system. Electronics: ECUs",
+            "purpose and operation of antilock-braking system. Electronics",
+            "ECUs",
             "sensors and actuators other than ECM",
             "distributed and zonal electrical architecture. Basics of communication protocols - CAN",
             "LIN and ethernet. Electric vehicle components and energy flow",

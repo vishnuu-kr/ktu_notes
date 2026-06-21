@@ -2,15 +2,15 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Artificial Intelligence",
             "What is Artificial Intelligence (AI)? The Foundations of AI",
             "History of AI",
-            "Applications of AI",
-            "Intelligent Agents",
+            "Applications of AI. Intelligent Agents",
             "Types of Agents and Their Environments",
+            "Good Behavior",
             "The Concept of Rationality",
             "Nature of Environments",
-            "Structure of Agents",
-            "Examples of Practical Agents"
+            "Structure of Agents. Examples of Practical Agents"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -18,6 +18,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Problem Solving",
             "Solving Problems by Searching - Problem Solving Agents",
             "Example Problems",
             "Searching for Solutions",
@@ -34,6 +35,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Adversarial Search",
             "Games",
             "Optimal Decisions in Games",
             "The Minimax Algorithm",
@@ -49,14 +51,15 @@
     {
         "module": "Module 4",
         "topics": [
+            "Knowledge Representation and Reasoning",
             "First Order Predicate Logic - Syntax and Semantics of First Order Logic",
-            "Knowledge Representation in First Order Logic",
-            "Inference in First Order Logic - Unification and Lifting",
+            "Knowledge Representation in First Order Logic. Inference in First Order Logic - Unification and Lifting",
             "Forward Chaining",
             "Backward Chaining",
             "Resolution",
-            "Basic Concepts of Machine Learning: Learning from Examples - Forms of Learning",
-            "Supervised Learning / Unsupervised Learning"
+            "Basic Concepts of Machine Learning",
+            "Learning from Examples - Forms of Learning",
+            "Supervised Learning/Unsupervised Learning"
         ],
         "rejected_topics": null,
         "status": "verified"

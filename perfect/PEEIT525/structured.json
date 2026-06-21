@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "The Various Industrial Revolutions -Digitalization and the Networked Economy",
+            "Introduction to Industry 4.0, The Various Industrial Revolutions -Digitalization and the Networked Economy",
             "Internet Principles",
             "Definition and Characteristics",
             "IoT enabling technologies",
@@ -22,7 +22,9 @@
     {
         "module": "Module 2",
         "topics": [
-            "Requirements and Specifications: Device and Component Integration - - Physical design using prototyping boards - Sensors and actuators",
+            "Physical and Logical Design Methodologies",
+            "Requirements and Specifications",
+            "Device and Component Integration - - Physical design using prototyping boards - Sensors and actuators",
             "choice of processor",
             "interfacing and networking - Logical Design - Open source platforms - Techniques for writing embedded code - Case studies and examples using Python programming and Arduino/Raspberry Pi prototyping boards - IoT application development using Wireless Sensor Networks - Single Node Architecture - Hardware Components",
             "Energy Consumption of Sensor Nodes"
@@ -33,7 +35,7 @@
     {
         "module": "Module 3",
         "topics": [
-            "Application layer protocols for IoT",
+            "Protocols and Clouds for IOT, Application layer protocols for IoT",
             "MQTT and",
             "Introduction to cloud storage models and communication APIs",
             "Web application framework",
@@ -48,7 +50,7 @@
     {
         "module": "Module 4",
         "topics": [
-            "Networked Control Systems",
+            "Introduction to the Industrial Internet, Networked Control Systems",
             "Network delay modeling",
             "Architecture and design methodologies for developing IoT application for Networked Control Systems",
             "Example using SCADA system",

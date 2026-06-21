@@ -2,11 +2,13 @@
   {
     "module": "Module 1",
     "topics": [
+      "Network Security Controls",
       "Firewalls - Types of Firewalls",
       "Configuration of Firewalls",
       "Intrusion Detection and Prevention Systems (IDPS",
       "Virtual Private Networks (VPNs",
-      "Network Segmentation. Endpoint Security : Antivirus and Antimalware",
+      "Network Segmentation. Endpoint Security",
+      "Antivirus and Antimalware",
       "Endpoint Detection and Response (EDR",
       "Patch Management",
       "Device Encryption"
@@ -17,10 +19,12 @@
   {
     "module": "Module 2",
     "topics": [
+      "Application Security Controls",
       "Secure Software Development Lifecycle (SDLC",
       "Code Review And Static Analysis",
       "Web Application Firewalls (WAF",
-      "Database Security. Data Protection Controls: Data Classification and Handling",
+      "Database Security. Data Protection Controls",
+      "Data Classification and Handling",
       "Data Loss Prevention (DLP",
       "Encryption (At Rest",
       "In Transit",
@@ -32,10 +36,12 @@
   {
     "module": "Module 3",
     "topics": [
+      "Identity and Access Management (IAM",
       "Identity Lifecycle Management",
       "Single Sign-On (SSO",
       "Federation and Trust Models",
-      "Privileged Access Management (PAM). Security Monitoring and Incident Response: Security Information and Event Management (SIEM",
+      "Privileged Access Management (PAM). Security Monitoring and Incident Response",
+      "Security Information and Event Management (SIEM",
       "Threat Intelligence",
       "Incident Response Planning",
       "Forensics and Post-Incident Analysis"
@@ -46,13 +52,16 @@
   {
     "module": "Module 4",
     "topics": [
+      "Compliance and Regulatory Controls",
       "General Data Protection Regulation (GDPR",
       "Health Insurance Portability and Accountability Act (HIPAA",
       "Sarbanes-Oxley Act (SOX",
-      "Payment Card Industry Data Security Standard (PCI DSS). Emerging Trends and Technologies: Zero Trust Architecture",
+      "Payment Card Industry Data Security Standard (PCI DSS). Emerging Trends and Technologies",
+      "Zero Trust Architecture",
       "Artificial Intelligence in Cyber Security",
       "Block chain for Security",
-      "Quantum Computing Implications. Case Study: Analysis of Real-World Cyber security Incidents"
+      "Quantum Computing Implications. Case Study",
+      "Analysis of Real-World Cyber security Incidents"
     ],
     "rejected_topics": null,
     "status": "verified"

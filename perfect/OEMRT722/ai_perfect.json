@@ -5,8 +5,10 @@
             "Basics of Fluid Power System",
             "Components",
             "Advantages and Applications of Fluid Power Systems",
-            "Fluid Properties: Specific Weight, Density and Specific Gravity",
-            "Pascal's Law and its Application",
+            "Fluid Properties",
+            "Specific Weight",
+            "Density and Specific Gravity",
+            "Pascal's Law and Its Application",
             "Continuity Equation",
             "Conservation of Energy",
             "Frictional Losses in Hydraulic Pipelines - Laminar and Turbulent Flow",
@@ -18,15 +20,17 @@
     {
         "module": "Module 2",
         "topics": [
+            "Hydraulic Pumps",
             "Gear",
             "Vane and Piston Pumps",
             "Pump Performance",
             "Characteristics and Selection - Sizing of Pumps",
-            "Hydraulic Motors - Limited Rotation Hydraulic Motors",
+            "Hydraulic Motors",
+            "Limited Rotation Hydraulic Motors",
             "Gear Motors",
             "Vane Motors",
             "Piston Motors",
-            "Hydraulic Motor Theoretical Torque, Power, and Flow Rate",
+            "Hydraulic Motor Theoretical Torque, Power and Flow Rate",
             "Hydraulic Motor Performance"
         ],
         "rejected_topics": null,
@@ -35,17 +39,21 @@
     {
         "module": "Module 3",
         "topics": [
+            "Hydraulic Valves",
+            "Direction Control Valves",
             "Three Way Valve",
             "Four Way Valves",
             "Check Valve and Shuttle Valve",
             "Actuation Mechanisms in DCV",
-            "Pressure Control Valves: Pressure Relief",
+            "Pressure Control Valves",
+            "Pressure Relief",
             "Pressure Reducing",
             "Counter Balance",
             "Sequencing and Unloading Valves",
-            "Flow Control Valves and its Types",
+            "Flow Control Valves and Its Types",
             "Proportional Valves",
-            "Servo Valves: Mechanical Type and Electrohydraulic Servo Valves"
+            "Servo Valves",
+            "Mechanical Type and Electrohydraulic Servo Valves"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -53,8 +61,10 @@
     {
         "module": "Module 4",
         "topics": [
+            "Pneumatics",
             "Air Compressors",
-            "Air Treatment: Air Filters",
+            "Air Treatment",
+            "Air Filters",
             "Dryer",
             "Lubricator",
             "Pressure Regulation",

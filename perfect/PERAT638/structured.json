@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Types -Variable reluctance, permanent magnet and hybrid motors - Constructional features - principle of operation - modes of excitation. Torque production in variable reluctance stepping motor: Static torque characteristics - position error due to low torque",
+            "Stepper Motors and Drives, Types -Variable reluctance, permanent magnet and hybrid motors - Constructional features - principle of operation - modes of excitation. Torque production in variable reluctance stepping motor, Static torque characteristics - position error due to low torque",
             "Performance parameters -resolution - single step response and accuracy",
             "Pull-in and pull-out characteristics - Resonance issues. Unipolar and bipolar drive schemes - Bifilar drives - Open loop position control - starting/stopping rate - Velocity profiling -Closed loop control of stepper motors (Assignment"
         ],
@@ -12,7 +12,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Permanent magnet materials and characteristics, PMSM - Principle of operation, SPM and IPM machines, Torque equation, Phasor diagram, Machine modeling, Switching schemes, Motor control - Field oriented control, Flux weakening, Sensorless control, Power controllers. Brushless DC Motor (BLDC) Drives: BLDC motors- constructional details - principle of operation",
+            "Permanent Magnet Synchronous Motor (PMSM) Drives, Permanent magnet materials and characteristics, PMSM - Principle of operation, SPM and IPM machines, Torque equation, Phasor diagram, Machine modeling, Switching schemes, Motor control - Field oriented control, Flux weakening, Sensorless control, Power controllers. Brushless DC Motor (BLDC) Drives, BLDC motors- constructional details - principle of operation",
             "Speed-Torque characteristics -Torque Pulsation, Machine modeling. Switching schemes for BLDC operation, Motor control - Power controllers - full wave and half wave converters - regeneration - Hall sensor based control, Phase advance angle control, Sensorless control"
         ],
         "rejected_topics": null,
@@ -21,6 +21,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Switched Reluctance Motors (SRM) and Drives",
             "SRM - Principle of operation",
             "Inductance profile",
             "torque equation",
@@ -36,13 +37,15 @@
     {
         "module": "Module 4",
         "topics": [
+            "Advanced Magnetless Motor Drives",
             "Synchronous reluctance motors",
             "Permanent magnet synchronous reluctance motors - - Constructional details",
             "Principle of operation",
             "Different topologies",
             "Vernier reluctance motors",
             "Applications. Field oriented control principles",
-            "Direct torque and flux control. Vernier permanent magnet motors: Constructional details",
+            "Direct torque and flux control. Vernier permanent magnet motors",
+            "Constructional details",
             "Principle of operation",
             "Modelling. Inverters for Vernier PM motors",
             "Vernier PM Motor control",

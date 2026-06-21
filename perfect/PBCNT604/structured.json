@@ -2,7 +2,9 @@
     {
         "module": "Module - 1",
         "topics": [
-            "Object Oriented Development - Modeling Concepts - Object Oriented Methodology. Object Oriented Themes - Abstraction -Encapsulation - Combining Data and Behavior - Sharing - Emphasis on Object Structure. Object modeling: Objects and Classes",
+            "Object modelling ) Introduction",
+            "Object Oriented Development - Modeling Concepts - Object Oriented Methodology. Object Oriented Themes - Abstraction -Encapsulation - Combining Data and Behavior - Sharing - Emphasis on Object Structure. Object modeling",
+            "Objects and Classes",
             "Links and Associations",
             "Advanced links and Association Concepts",
             "Generalization and Inheritance",
@@ -17,19 +19,23 @@
     {
         "module": "Module- 2",
         "topics": [
+            "Dynamic and Functional modeling) Dynamic modeling",
             "Events and States",
             "Operations",
             "Nested state 11 diagrams",
             "Concurrency",
             "Advanced Dynamic Modeling Concepts",
             "A sample Dynamic Model",
-            "Relationship of Object and Dynamic models Functional modeling: Functional models",
+            "Relationship of Object and Dynamic models Functional modeling",
+            "Functional models",
             "Data Flow Diagrams",
             "Specifying Operations",
             "Constraints",
             "A sample Functional Model",
             "Jacobson Methodology- architecture",
-            "actors and use-cases 3 Analysis: Object Modeling - Identifying Object Classes - Preparing a Data Dictionary - Identifying Associations. Dynamic Modeling -Preparing a Scenario - Interface Format - Identifying Event - Building a State Diagram. Functional Modeling - Identifying input and Output Values - Building Data Flow Diagram - Describing Functions. System Design: Breaking System into Subsystems",
+            "actors and use-cases 3 Analysis",
+            "Object Modeling - Identifying Object Classes - Preparing a Data Dictionary - Identifying Associations. Dynamic Modeling -Preparing a Scenario - Interface Format - Identifying Event - Building a State Diagram. Functional Modeling - Identifying input and Output Values - Building Data Flow Diagram - Describing Functions. System Design",
+            "Breaking System into Subsystems",
             "Identifying Concurrency",
             "Allocating Subsystems to Processors and Tasks",
             "Managing Data Stores",
@@ -42,6 +48,7 @@
     {
         "module": "Module - 4",
         "topics": [
+            "Object Design and Advanced Models) Object Design",
             "Overview of Object design",
             "Combining the three models",
             "Designing algorithms",
@@ -50,7 +57,8 @@
             "Adjustment of inheritance",
             "Design of association",
             "Object representation",
-            "Physical packaging. Documenting design decisions Advanced models: Unified Modeling Language (UML). Suggestion on Project Topics"
+            "Physical packaging. Documenting design decisions Advanced models",
+            "Unified Modeling Language (UML). Suggestion on Project Topics"
         ],
         "rejected_topics": null,
         "status": "verified"

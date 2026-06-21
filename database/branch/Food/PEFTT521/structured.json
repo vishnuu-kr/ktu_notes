@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to Statistical Analysis in Food Processing",
       "Definition of statistical analysis and its importance in the food processing industry",
       "Understanding the various types of statistical methods used in food processing analysis",
       "Overview of hypothesis testing and its use in food analysis",
@@ -13,6 +14,12 @@
   {
     "module": "Module 2",
     "topics": [
+      "Fundamentals of Linear Regression",
+      "Introduction to regression analysis",
+      "Simple linear regression and its assumptions",
+      "Estimation of regression coefficients",
+      "Hypothesis testing in linear regression",
+      "Model evaluation metrics",
       "R-squared",
       "adjusted R-squared",
       "Mean Squared Error (MSE",
@@ -24,9 +31,11 @@
   {
     "module": "Module 3",
     "topics": [
+      "Introduction to Food Process Modelling",
       "Overview of food process modelling and its applications",
       "Types of models and their use in food processing",
-      "Empirical Model Development: Factorial",
+      "Empirical Model Development",
+      "Factorial",
       "fractional factorial and rotatable central composite experimental design",
       "developing empirical equations using experimental data"
     ],
@@ -36,7 +45,8 @@
   {
     "module": "Module 4",
     "topics": [
-      "Mass transfer models: such as liquid-liquid extraction",
+      "Mass transfer models",
+      "such as liquid-liquid extraction",
       "distillation",
       "multicomponent separation",
       "evaporator. The main steps in model building of separation equipment. Major types of available heat exchange equipment. Shell-andtube heat exchangers",

@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction to control systems",
+            "System modelling, Introduction to control systems",
             "Classification of control systems. Open loop and closed loop control systems",
             "Transfer function",
             "Poles and Zeros-Mathematical modelling of electrical, mechanical and electromechanical system",
@@ -16,10 +16,14 @@
     {
         "module": "Module 2",
         "topics": [
-            "Standard test signals - Response of first and second order systems to impulse and step inputs. Time domain specifications: Delay time",
+            "Time domain analysis",
+            "Standard test signals - Response of first and second order systems to impulse and step inputs. Time domain specifications",
+            "Delay time",
             "rise time",
             "peak time",
-            "maximum percentage overshoot and settling time. Steady state response: Steady state error- Static & Dynamic error coefficients. Concept of stability: Routh-Hurwitz method for stability analysis"
+            "maximum percentage overshoot and settling time. Steady state response",
+            "Steady state error- Static & Dynamic error coefficients. Concept of stability",
+            "Routh-Hurwitz method for stability analysis"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -27,7 +31,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "Root locus: Construction of root locus - Effect of addition of poles and zeros. Frequency domain analysis: Frequency response",
+            "Stability analysis in time domain",
+            "Root locus",
+            "Construction of root locus - Effect of addition of poles and zeros. Frequency domain analysis",
+            "Frequency response",
             "Frequency domain specifications",
             "Stability in the frequency domain",
             "Nyquist stability criterion",
@@ -41,6 +48,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "State variable analysis",
             "State space representation of Continuous Time systems. Transfer function from State Variable Representation",
             "Solution of state equations",
             "state transition matrix",

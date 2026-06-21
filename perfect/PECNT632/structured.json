@@ -2,10 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Overview of machine learning & basics of neural network",
             "Machine learning paradigms-supervised",
             "semi-supervised",
             "unsupervised",
-            "reinforcement learning. Basics of parameter estimation - maximum likelihood estimation(MLE) and maximum a posteriori estimation(MAP).Neural Networks: Multilayer feed forward network",
+            "reinforcement learning. Basics of parameter estimation - maximum likelihood estimation(MLE) and maximum a posteriori estimation(MAP).Neural Networks",
+            "Multilayer feed forward network",
             "Activation functions (Sigmoid",
             "ReLU",
             "Tanh).Linear Methods for Classification- Logistic regression",
@@ -18,6 +20,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Supervised Learning",
             "Decision tree algorithm ID3",
             "Regression - Linear regression with one variable",
             "Linear regression with multiple variables",
@@ -30,6 +33,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Supervised Learning (cont",
             "Backpropagation algorithm. SVM - Introduction",
             "Maximum Margin Classification",
             "Mathematics behind Maximum Margin Classification",
@@ -45,6 +49,17 @@
     {
         "module": "Module 4",
         "topics": [
+            "Unsupervised Learning &Classification Assessment Clustering - Similarity measures",
+            "Hierarchical Agglomerative Clustering",
+            "K-means partitional clustering. Dimensionality reduction - Principal Component Analysis. Classification Performance measures - Precision",
+            "Recall",
+            "Accuracy",
+            "F-Measure",
+            "Receiver Operating Characteristic Curve(ROC",
+            "Area Under Curve(AUC). Bootstrapping",
+            "Cross Validation",
+            "Ensemble methods",
+            "Bias-Variance decomposition. Case Study",
             "Develop a classifier for face detection"
         ],
         "rejected_topics": null,

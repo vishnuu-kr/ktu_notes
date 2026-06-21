@@ -2,11 +2,14 @@
     {
         "module": "Module 1",
         "topics": [
+            "Power Semiconductor Devices",
             "Overview of Power Electronics Applications",
             "Power Diodes and Bipolar Power Transistors - Static and Dynamic Characteristics",
             "Power MOSFET",
             "IGBT",
-            "SCR and GTO, Protection Circuits, and Rectifiers: BJT and MOSFET Driver Circuits",
+            "SCR and GTO",
+            "Protection Circuits and Rectifiers",
+            "BJT and MOSFET Driver Circuits",
             "Snubber Circuits",
             "Single Phase and Three Phase Diode Bridge Rectifiers",
             "Single Phase and Three Phase Controlled Rectifiers"
@@ -17,6 +20,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "DC-DC Switch Mode Converter",
             "Buck",
             "Boost and Buck-Boost Converters under Continuous Conduction Mode",
             "Isolated Converters - Forward",
@@ -31,6 +35,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "DC-AC Switch Mode Inverter",
             "Inverter Topologies",
             "Driven Inverters - Push-Pull",
             "Half Bridge and Full Bridge Configurations",
@@ -43,6 +48,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Applications (Concepts Only)",
             "DC Motor Drives",
             "Induction Motor Drives",
             "Residential and Industrial Applications",

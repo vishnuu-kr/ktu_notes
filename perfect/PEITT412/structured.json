@@ -2,12 +2,15 @@
     {
         "module": "Module 1",
         "topics": [
+            "Data Communication Overview",
             "Data Communications Model",
             "Networks",
-            "The Internet. Data Transmission: Concepts and Terminology",
+            "The Internet. Data Transmission",
+            "Concepts and Terminology",
             "Analog and Digital Data Transmission",
             "Transmission Impairments",
-            "Channel capacity. Transmission Media: Guided Transmission Media",
+            "Channel capacity. Transmission Media",
+            "Guided Transmission Media",
             "Wireless Transmission",
             "Wireless Propagation"
         ],
@@ -17,6 +20,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Signal Encoding Techniques",
             "Digital Data to Digital Signals (NRZ-L",
             "NRZ-I",
             "Bipolar- AMI",
@@ -26,7 +30,8 @@
             "Scrambling techniques",
             "Digital Data to Analog Signals (ASK",
             "Analog Data to Digital Signals (PCM",
-            "Analog Data to Analog Signals. Digital Data Communication Techniques: Asynchronous and Synchronous Transmission",
+            "Analog Data to Analog Signals. Digital Data Communication Techniques",
+            "Asynchronous and Synchronous Transmission",
             "Types of Errors",
             "Error Detection (parity check",
             "Error Correction",
@@ -38,6 +43,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Data Link Control Protocols",
             "Flow Control",
             "Error Control",
             "Multiplexing -Frequency-Division Multiplexing",
@@ -53,14 +59,18 @@
     {
         "module": "Module 4",
         "topics": [
+            "Circuit Switching and Packet Switching",
             "Switched Communications Networks",
             "Circuit-Switching Network",
             "circuit switching concepts",
             "softswitch architecture",
-            "Packet Switching Principles. Routing in Packet-Switched Networks: Routing in Packet-Switching Networks - Characteristics",
-            "Routing Strategies. Wireless LANs: 802.11 Architecture and Protocol Stack",
+            "Packet Switching Principles. Routing in Packet-Switched Networks",
+            "Routing in Packet-Switching Networks - Characteristics",
+            "Routing Strategies. Wireless LANs",
+            "802.11 Architecture and Protocol Stack",
             "frame format",
-            "Bluetooth- Bluetooth Architecture. Cellular Wireless Networks: Principles of Cellular Networks"
+            "Bluetooth- Bluetooth Architecture. Cellular Wireless Networks",
+            "Principles of Cellular Networks"
         ],
         "rejected_topics": null,
         "status": "verified"

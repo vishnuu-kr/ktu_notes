@@ -2,13 +2,15 @@
   {
     "module": "Module 1",
     "topics": [
-      "SQA: Definitions and Concepts",
+      "Introduction",
+      "Definitions and Concepts",
       "McCall’s Classic Model",
       "ISO/IEC 25010 Model and other alternative models",
       "Software compliance with quality factors",
       "software quality challenges",
       "Organization for assuring software quality",
-      "Components of SQA System. Pre-Project Software Quality Components: Contract Review",
+      "Components of SQA System. Pre-Project Software Quality Components",
+      "Contract Review",
       "Development and Quality Plans"
     ],
     "rejected_topics": null,
@@ -17,6 +19,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "SQA Process Implementation Plan and Activities",
       "Establishing SQA Process",
       "SQA Plan and Project Plan",
       "Cost of Software Quality",
@@ -29,10 +32,12 @@
   {
     "module": "Module 3",
     "topics": [
+      "Product Assurance Activities for conformance",
       "Evaluation of Products",
       "Reviews",
       "Software Testing",
-      "Product Quality Metrics. Process Assurance Activities: Improvement Processes",
+      "Product Quality Metrics. Process Assurance Activities",
+      "Improvement Processes",
       "Process Quality Metrics",
       "Change Control Process"
     ],
@@ -42,9 +47,11 @@
   {
     "module": "Module 4",
     "topics": [
+      "Tools and Methods",
       "Templates and Checklists",
       "Configuration Management",
-      "Case Tools and IDEs. Process Standards: Quality Assurance Standards",
+      "Case Tools and IDEs. Process Standards",
+      "Quality Assurance Standards",
       "Quality Management Standards and Models",
       "Project Progress Control",
       "From SDLC to Agile"

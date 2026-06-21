@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Basics of Computer Graphics and its Applications. Raster Scan & Random Scan systems. Display Technologies",
             "Overview of CRT",
             "Plasma",
             "OLED",
@@ -36,6 +37,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Three-Dimensional Concepts",
             "Three-Dimensional Display",
             "Methods Parallel Projection",
             "Perspective Projection",
@@ -60,10 +62,12 @@
     {
         "module": "Module 4",
         "topics": [
+            "Visible Surface Detection Methods",
             "Depth Buffer",
             "A-Buffer",
             "Scan line",
-            "Depth sorting methods. Hidden Surface Removal: Back face detection - Z-buffer method - Painter's algorithm - scan-line algorithm - BSP Trees - Area sub-division method - Ray tracing - Animation - Morphing. Introduction to Digital Image Processing"
+            "Depth sorting methods. Hidden Surface Removal",
+            "Back face detection - Z-buffer method - Painter's algorithm - scan-line algorithm - BSP Trees - Area sub-division method - Ray tracing - Animation - Morphing. Introduction to Digital Image Processing"
         ],
         "rejected_topics": null,
         "status": "verified"

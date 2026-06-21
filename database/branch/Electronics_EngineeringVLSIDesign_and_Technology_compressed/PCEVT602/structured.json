@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "System On Chip Design Process",
       "A canonical SoC Design",
       "SoC Design flow - Waterfall vs spiral",
       "Top-down vs Bottom up",
@@ -16,6 +17,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Macro Design Process",
       "Contents of a design specification",
       "Top level Macro Design",
       "Top level Macro Design Process",
@@ -30,6 +32,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "RTL coding guidelines",
       "Overview of coding guidelines",
       "Guidelines for clocks and resets - Mixed clock edges",
       "Clock buffers",
@@ -44,6 +47,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Developing hard macros",
       "Design issues for hard macros - Design for test",
       "Clock and reset",
       "Aspect ratio",

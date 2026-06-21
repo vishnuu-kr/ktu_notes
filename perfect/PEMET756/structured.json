@@ -2,9 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction",
             "Wheeled Mobile Robots",
-            "Wheeled locomotion: The design space",
-            "wheeled locomotion: Case studies. Mobile manipulators",
+            "Wheeled locomotion",
+            "The design space",
+            "wheeled locomotion",
+            "Case studies. Mobile manipulators",
             "Legged Mobile Robots- Leg configurations and stability",
             "Examples of legged robot locomotion",
             "aerial robots",
@@ -16,11 +19,13 @@
     {
         "module": "Module 2",
         "topics": [
-            "Kinematic model: of a differential drive and a steered mobile robot",
+            "Kinematic model",
+            "of a differential drive and a steered mobile robot",
             "degree of freedom and maneuverability",
             "Degree of steerability",
             "different wheel configurations",
-            "holonomic and non-holonomic robots. Dynamics of mobile robot: Lagrange-Euler method",
+            "holonomic and non-holonomic robots. Dynamics of mobile robot",
+            "Lagrange-Euler method",
             "Newton-Euler methods",
             "Differential-Drive WMR",
             "Dynamics of WMR with Slip",
@@ -33,6 +38,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Sensors for mobile robot navigation",
             "Sensor classification",
             "Characterizing sensor performance",
             "Wheel /motor sensors",
@@ -42,7 +48,8 @@
             "Ground-based beacons",
             "Active ranging",
             "Motion/speed sensors",
-            "and Vision-based sensors. Robot navigation: Localization",
+            "and Vision-based sensors. Robot navigation",
+            "Localization",
             "Error propagation model",
             "Probabilistic map-based localisation-Kalman method",
             "Autonomous map building",
@@ -54,8 +61,8 @@
     {
         "module": "Module 4",
         "topics": [
-            "Path Planning: local vs global path planning, Graph search, Potential field-based path planning",
-            "Map based path planning- Dijkstra’s algorithm, A*, D* algorithms. Obstacle avoidance- Bug algorithm, Vector field histogram, Dynamic window approach. Control of mobile robots: Control of differential drive robot and steered robot based on its kinematic model, Case study- design and implementation of a differential drive robot capable of moving to a point, following a line and following a path"
+            "Path Planning, local vs global path planning, Graph search, Potential field-based path planning",
+            "Map based path planning- Dijkstra’s algorithm, A*, D* algorithms. Obstacle avoidance- Bug algorithm, Vector field histogram, Dynamic window approach. Control of mobile robots, Control of differential drive robot and steered robot based on its kinematic model, Case study- design and implementation of a differential drive robot capable of moving to a point, following a line and following a path"
         ],
         "rejected_topics": null,
         "status": "verified"

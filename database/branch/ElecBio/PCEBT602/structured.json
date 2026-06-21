@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Radiographic system",
       "X-Ray production",
       "interactions in the anode-Bremsstrahlung and characteristic radiations. Stationary and rotating anode X-ray tubes. Electrical circuit for an X-ray unit- Autotransformer",
       "Timer",
@@ -21,10 +22,12 @@
   {
     "module": "Module 2",
     "topics": [
+      "Image receptors",
       "CR image receptors - Photostimulable phosphor (PSP",
       "PSP screen-film cassette imaging plate (IP",
       "CR reader. Digital radiography (DR) image receptors- indirect conversion- phosphorescent screen- Cesium Iodide or Gadolinium Oxysulfide",
-      "active-matrix array (AMA)- amorphous silicon TFTs. Direct-capture DR-active-matrix array- amorphous selenium. Special Radiographic Techniques: Fluoroscopy- components of a digital fluoroscopy imaging system-dynamic flat-panel detector (DFPD) units and charge-coupled device (CCD) camera. Interventional Radiology-Digital subtraction angiography- image formation- temporal and energy subtraction",
+      "active-matrix array (AMA)- amorphous silicon TFTs. Direct-capture DR-active-matrix array- amorphous selenium. Special Radiographic Techniques",
+      "Fluoroscopy- components of a digital fluoroscopy imaging system-dynamic flat-panel detector (DFPD) units and charge-coupled device (CCD) camera. Interventional Radiology-Digital subtraction angiography- image formation- temporal and energy subtraction",
       "Mammography- Features of a dedicated Mammography System",
       "dental radiology- Intra-Oral Radiography",
       "Panoramic Radiography and Cone beam CT"
@@ -35,13 +38,18 @@
   {
     "module": "Module 3",
     "topics": [
+      "Types of radio therapy--external beam radiation therapy (teletherapy",
+      "brachytherapy. Teletherapy sources-Kilovoltage and Megavoltage radiations- the unit of absorbed dose",
+      "percentage depth dose curves",
+      "isodose charts. Teletherapy machines",
       "Kilovoltage and megavoltage X-Ray Units-Linear Accelerators",
       "Betatron",
       "Cyclotron",
       "collimators and beam direction devices",
       "Gamma ray Units-Cobalt Machines. Radiation sources (radionuclides) for brachytherapy. Intensity-modulated radiotherapy-multileaf collimator",
       "stereotactic techniques. Gamma knife",
-      "proton beam therapy. Therapy planning: Isodose curves and dose mapping",
+      "proton beam therapy. Therapy planning",
+      "Isodose curves and dose mapping",
       "wedges",
       "tissue compensators and intensity modulators",
       "practical features of a treatment planning system"
@@ -52,13 +60,16 @@
   {
     "module": "Module 4",
     "topics": [
+      "Instrumentation for Dosimetry",
       "Ionization chambers",
       "film dosimetry",
       "thermo luminescent and optically stimulated luminescence dosimetry",
-      "semiconductor dosimeters. Radiation protection: Permissible doses",
+      "semiconductor dosimeters. Radiation protection",
+      "Permissible doses",
       "design features of radiotherapy facilities",
       "materials used for shielding",
-      "primary and secondary barriers. Advisory and regulatory agencies. Introduction to Radiology information system (RIS): PACS",
+      "primary and secondary barriers. Advisory and regulatory agencies. Introduction to Radiology information system (RIS",
+      "PACS",
       "digital imaging and communication in medicine (DICOM"
     ],
     "rejected_topics": null,

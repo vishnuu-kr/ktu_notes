@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to soft computing and Artificial Neural Networks",
             "Introduction to Soft Computing",
             "Difference between Soft and Hard computing",
             "Artificial neural networks Vs Biological neural networks",
@@ -18,9 +19,11 @@
     {
         "module": "Module 2",
         "topics": [
+            "ANN-Supervised Learning",
             "Neuron as a simple computing element",
             "The perceptron",
-            "Backpropagation networks: architecture",
+            "Backpropagation networks",
+            "architecture",
             "multilayer perceptron",
             "backpropagation learning-input layer",
             "accelerated learning in multilayer perceptron",
@@ -34,15 +37,19 @@
     {
         "module": "Module 3",
         "topics": [
-            "Unsupervised Learning: Hebbian Learning",
+            "Unsupervised Learning",
+            "Hebbian Learning",
             "Generalized Hebbian learning algorithm",
             "Competitive learning",
-            "Self- Organizing Computational Maps: Kohonen Network. Fuzzy Logic: Crisp & fuzzy sets",
+            "Self- Organizing Computational Maps",
+            "Kohonen Network. Fuzzy Logic",
+            "Crisp & fuzzy sets",
             "fuzzy relations",
             "Min-Max Composition- features of membership functions",
             "fuzzy conditional statements",
             "fuzzy rules",
-            "fuzzy algorithm. Fuzzy logic controller. Defuzzification Methods: Lambda cut method"
+            "fuzzy algorithm. Fuzzy logic controller. Defuzzification Methods",
+            "Lambda cut method"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -50,7 +57,8 @@
     {
         "module": "Module 4",
         "topics": [
-            "Genetic algorithms: basic concepts",
+            "Genetic algorithms",
+            "basic concepts",
             "encoding",
             "reproduction-Roulette wheel",
             "tournament",

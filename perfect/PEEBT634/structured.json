@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Power spectrum analysis",
             "Estimation of power density spectrum",
             "non-parametric methods- Periodogram - Bartlett",
             "Welch",
@@ -17,9 +18,10 @@
     {
         "module": "Module 2",
         "topics": [
-            "Wavelet Analysis Introduction to wavelet transforms",
-            "CWT & DWT Orthogonal wavelet decomposition, Orthonormal wavelets",
-            "filter banks. Applications of DWT: wavelet denoising, ECG feature detection & Heart sound Analysis"
+            "Wavelet Analysis Introduction to wavelet transforms - CWT & DWT Orthogonal wavelet decomposition",
+            "Orthonormal wavelets - filter banks. Applications of DWT",
+            "wavelet denoising",
+            "ECG feature detection & Heart sound Analysis"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -27,6 +29,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Adaptive filters",
             "Optimal and adaptive filters",
             "Weiner filters",
             "Adaptive signal processing - Steepest descent algorithm LMS adaptive algorithm",
@@ -38,9 +41,10 @@
     {
         "module": "Module 4",
         "topics": [
-            "Principal Component Analysis",
-            "denoising of ECG & EEG signals using PCA, Independent Component Analysis",
-            "EEG denoising. Computation of diagnostic signal parameters of ECG: Heart rate and QRS detection using Multivariate analysis (PCA and ICA"
+            "Multivariate Analysis",
+            "Principal Component Analysis - denoising of ECG & EEG signals using PCA",
+            "Independent Component Analysis-EEG denoising. Computation of diagnostic signal parameters of ECG",
+            "Heart rate and QRS detection using Multivariate analysis (PCA and ICA"
         ],
         "rejected_topics": null,
         "status": "verified"

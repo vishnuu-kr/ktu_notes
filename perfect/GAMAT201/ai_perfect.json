@@ -5,7 +5,7 @@
             "Linear Systems of Equations",
             "Solution by Gauss Elimination",
             "Row Echelon Form and Rank of a Matrix",
-            "Fundamental Theorem for Linear Systems - Homogeneous and Non-Homogeneous",
+            "Fundamental Theorem for Linear Systems – Homogeneous and Non-Homogeneous",
             "Eigenvalues and Eigenvectors of Matrices",
             "Diagonalization of Matrices"
         ],
@@ -15,6 +15,17 @@
     {
         "module": "Module 2",
         "topics": [
+            "Vector Spaces",
+            "Examples of Vector Spaces: Rⁿ and Mₘₓₙ",
+            "Subspaces",
+            "Examples of Subspaces of Rⁿ and Mₘₓₙ",
+            "Linear Combinations of Vectors in a Vector Space",
+            "Spanning Sets",
+            "Linear Dependence and Independence",
+            "Basis for a Vector Space",
+            "Dimension of a Vector Space",
+            "Coordinate Representation in Rⁿ",
+            "Change of Basis in Rⁿ",
             "Transition Matrix"
         ],
         "rejected_topics": null,
@@ -25,19 +36,18 @@
         "topics": [
             "Vector Length and Unit Vector",
             "Dot Product and Angle Between Two Vectors",
-            "The Cauchy-Schwarz Inequality",
+            "Cauchy-Schwarz Inequality",
             "Inner Product",
-            "Examples in Rn and M2x2",
+            "Examples of Inner Product Spaces: Rⁿ and M₂ₓ₂",
             "Properties of Inner Products",
-            "Definitions of Length",
-            "Distance and Angle",
+            "Definitions of Length, Distance, and Angle",
             "Orthogonal Projections in Inner Product Spaces",
             "Orthogonal and Orthonormal Sets",
             "Orthogonal and Orthonormal Basis",
             "Gram-Schmidt Orthonormalization Process",
-            "The Least Squares Problem",
+            "Least Squares Problem",
             "Projection onto a Subspace",
-            "Solving the Least Squares Problems"
+            "Solving Least Squares Problems"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -48,8 +58,8 @@
             "Linear Transformations",
             "Properties of Linear Transformations",
             "Linear Transformation Given by a Matrix",
-            "Rotation in R2",
-            "Projection in R3",
+            "Rotation in R²",
+            "Projection in R³",
             "Kernel of a Linear Transformation and Its Basis",
             "Range of a Linear Transformation and Its Basis",
             "Rank and Nullity of a Linear Transformation",

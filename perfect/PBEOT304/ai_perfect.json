@@ -2,17 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
-            "Number Systems and Codes - Binary",
-            "Octal and Hexadecimal - Conversions - ASCII Code",
-            "Excess-3 Code",
-            "Gray Code",
-            "BCD Code",
+            "Number Systems and Codes - Binary, Octal, and Hexadecimal - Conversions - ASCII Code",
+            "Excess-3 Code, Gray Code, BCD Code",
             "Signed Numbers - 1's Complement and 2's Complement - Addition and Subtraction",
-            "Basic Logic Gates - Universal Gates",
-            "TTL and CMOS - Internal Diagram of TTL NAND Gate and CMOS NOR Gate - Comparison of CMOS and TTL Performance",
-            "Boolean Laws and Theorems - Sum of Products and Product of Sums Forms - K Map Representation and Simplification (Up to Four Variables) - Pairs",
-            "Quads",
-            "Octets - Don't Care Conditions"
+            "Basic Logic Gates - Universal Gates - TTL - CMOS - Internal Diagram of TTL NAND Gate and CMOS NOR Gate - Comparison of CMOS and TTL Performance",
+            "Boolean Laws and Theorems - Sum of Products and Product of Sums Forms",
+            "K-Map Representation and Simplification (Up to Four Variables) - Pairs, Quads, Octets - Don't Care Conditions"
         ]
     },
     {
@@ -20,20 +15,21 @@
         "topics": [
             "Combinational Circuits",
             "Half Adder and Full Adder, Half Subtractor and Full Subtractor",
-            "4-Bit Parallel Binary Adder/Subtractor, Comparators",
+            "4-Bit Parallel Binary Adder/Subtractor",
+            "Comparators",
             "Parity Generators and Checkers",
             "Encoders",
             "Decoders",
-            "BCD to Seven Segment Decoder, Multiplexers",
-            "Implementation of Boolean Expressions Using Multiplexers",
+            "BCD to Seven-Segment Decoder",
+            "Multiplexers - Implementation of Boolean Expressions Using Multiplexers",
             "Demultiplexers"
         ]
     },
     {
         "module": "Module 3",
         "topics": [
-            "Flip-Flops - SR, D and T Flip-Flops - Characteristic Table and Excitation Table",
-            "JK Master Slave Flip-Flop - Conversion of Flip-Flops - SR to JK and JK to SR",
+            "Flip-Flops - SR, D, and T Flip-Flops - Characteristic Table and Excitation Table",
+            "JK Master-Slave Flip-Flop - Conversion of Flip-Flops (SR to JK and JK to SR)",
             "Up/Down Counters - Asynchronous Counters - Mod-6 and Mod-10 Counters",
             "Synchronous Counters - Design of Synchronous Counters - Ring Counter - Johnson Counter",
             "Shift Registers - SISO, SIPO, PISO, PIPO"
@@ -43,12 +39,9 @@
         "module": "Module 4",
         "topics": [
             "State Machines - State Transition Diagram - Moore and Mealy Machines",
-            "Digital to Analog Converter - Weighted Resistor Type",
-            "R-2R Ladder Type",
-            "Analog to Digital Converter - Flash Type",
-            "Successive Approximation Type",
-            "Introduction to Verilog - Implementation of AND, Half Adder and Full Adder",
-            "Suggestion on Project Topics",
+            "Digital to Analog Converter - Weighted Resistor Type, R-2R Ladder Type",
+            "Analog to Digital Converter - Flash Type, Successive Approximation Type",
+            "Introduction to Verilog - Implementation of AND, Half Adder, and Full Adder",
             "Project-Based Learning in Digital Electronics"
         ]
     }

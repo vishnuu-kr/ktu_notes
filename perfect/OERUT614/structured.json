@@ -2,13 +2,15 @@
     {
         "module": "Module 1",
         "topics": [
+            "Artificial intelligence",
             "Introduction",
             "its importance",
             "The Turing test",
             "Foundations of artificial intelligence",
             "A brief historical overview",
             "Intelligent Agents-Agents and Environments",
-            "Good behaviour: The concept of rationality",
+            "Good behaviour",
+            "The concept of rationality",
             "nature of Environments",
             "structure of Agents",
             "Expert systems -basic overview",
@@ -21,10 +23,12 @@
     {
         "module": "Module 2",
         "topics": [
+            "Learning - Forms of learning",
             "Supervised Learning Algorithms- Decision Trees",
             "Logistic Regression",
             "Support vector Machines",
-            "Unsupervised Learning Algorithms: K-means clustering k-Nearest Neighbors",
+            "Unsupervised Learning Algorithms",
+            "K-means clustering k-Nearest Neighbors",
             "Principle Component Analysis",
             "Reinforcement based learning"
         ],
@@ -34,6 +38,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Deep Feedforward Networks",
             "Perceptrons - Single layer & Multi-layer",
             "Learning XOR",
             "Convolutional Neural Networks -basic outline and functions of each layers only",

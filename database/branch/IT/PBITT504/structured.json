@@ -2,9 +2,9 @@
   {
     "module": "Module 1",
     "topics": [
-      "How javascript makes web pages more interactive, Examples of javascript in the browser, How html, css & javascript fit together, creating a basic javascript, placing the script in the page, where to place your scripts, basic Javascript instructions: statements, comments, variables, data types, arrays, expressions, operators",
-      "functions methods and objects: function, anonymous function, variable scope, object, this keyword, arrays of objects and objects in arrays built-in objects, browser object model, document object model, Global objects: string, number, math, date DOM: Document Object Model (DOM), working with DOM tree, accessing elements, nodelists, selecting elements: using class attribute, tag name, css selectors",
-      "repeating actions for an entire nodelist, looping through a nodelist, traversing the DOM, previous & next sibling, first & last child, textcontent, adding or removing html content, update text and markup, adding/removing elements, creating attributes and changing their values, removing attributes Event handling: different event types, three ways to bind an event to an element, using DOM event handlers, using event listeners, using parameters with event listeners, the event object, event bubbling, user interface events"
+      "Javascript, How javascript makes web pages more interactive, Examples of javascript in the browser, How html, css & javascript fit together, creating a basic javascript, placing the script in the page, where to place your scripts, basic Javascript instructions, statements, comments, variables, data types, arrays, expressions, operators",
+      "functions methods and objects, function, anonymous function, variable scope, object, this keyword, arrays of objects and objects in arrays built-in objects, browser object model, document object model, Global objects, string, number, math, date DOM, Document Object Model (DOM), working with DOM tree, accessing elements, nodelists, selecting elements, using class attribute, tag name, css selectors",
+      "repeating actions for an entire nodelist, looping through a nodelist, traversing the DOM, previous & next sibling, first & last child, textcontent, adding or removing html content, update text and markup, adding/removing elements, creating attributes and changing their values, removing attributes Event handling, different event types, three ways to bind an event to an element, using DOM event handlers, using event listeners, using parameters with event listeners, the event object, event bubbling, user interface events"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -12,8 +12,8 @@
   {
     "module": "Module 2",
     "topics": [
-      "ECMA Script versions, ES5 Features, ES6 introduction, var declarations and hoisting, let declaration, constant declaration, function with default parameter values, default parameter expressions, unnamed parameters, the spread operator, arrow functions, object destructuring, array destructuring, sets and maps, Array.find, Array.findIndex, template strings, javascript classes, callbacks, promises, async/await AJAX: What is Ajax?, why use ajax?, How ajax works?, Handling ajax request and response, data formats: XML, JSON",
-      "Working with JSON data, Loading HTML with Ajax, Loading JSON with ajax, working with data from other servers JQUERY: A basic jquery example, Why use Jquery?, finding elements, jquery selection, getting element content, updating elements, changing content, inserting elements, adding new content, getting and setting attributes, getting and setting css properties, using .each(), events, event object, effects, animating css properties, using animation, traversing the dom, working with forms, jquery and ajax"
+      "ECMA Script, ECMA Script versions, ES5 Features, ES6 introduction, var declarations and hoisting, let declaration, constant declaration, function with default parameter values, default parameter expressions, unnamed parameters, the spread operator, arrow functions, object destructuring, array destructuring, sets and maps, Array.find, Array.findIndex, template strings, javascript classes, callbacks, promises, async/await AJAX, What is Ajax?, why use ajax?, How ajax works?, Handling ajax request and response, data formats, XML, JSON",
+      "Working with JSON data, Loading HTML with Ajax, Loading JSON with ajax, working with data from other servers JQUERY, A basic jquery example, Why use Jquery?, finding elements, jquery selection, getting element content, updating elements, changing content, inserting elements, adding new content, getting and setting attributes, getting and setting css properties, using .each(), events, event object, effects, animating css properties, using animation, traversing the dom, working with forms, jquery and ajax"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -21,6 +21,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Node.js",
       "What is Node.js",
       "installing Node.js",
       "creating first server",
@@ -34,7 +35,8 @@
       "automatic server restart with nodemon",
       "public folder for serving static files",
       "creating page routes",
-      "templating engines MongoDB: Architecture of MongoDB",
+      "templating engines MongoDB",
+      "Architecture of MongoDB",
       "installing MongoDB",
       "mongoose",
       "defining a model",
@@ -54,6 +56,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Refactoring to MVC",
       "Express middleware",
       "custom middleware",
       "registering validation middleware",
@@ -71,9 +74,11 @@
       "flushing error messages from session",
       "customising error message",
       "persist request data on form",
-      "adding a WYSIWYG editor Deployment: setting up MongoDB atlas",
+      "adding a WYSIWYG editor Deployment",
+      "setting up MongoDB atlas",
       "deploying web apps on Heroku",
-      "deployment 7 Suggestions on Project Topics: No. Project Topics 1 Countdown clock (javascript) 2 To do list (javascript) 3 Rock paper scissors game (javascript) Shopping cart page (javascript"
+      "deployment 7 Suggestions on Project Topics",
+      "No. Project Topics 1 Countdown clock (javascript) 2 To do list (javascript) 3 Rock paper scissors game (javascript) Shopping cart page (javascript"
     ],
     "rejected_topics": null,
     "status": "verified"

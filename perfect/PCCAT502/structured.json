@@ -2,13 +2,17 @@
     {
         "module": "Module 1",
         "topics": [
+            "Foundations of AI and Intelligent Agents Introduction to AI and its History",
             "Definitions and scope",
-            "Historical milestones in AI development Intelligent Agents: Concepts of agents and environments",
+            "Historical milestones in AI development Intelligent Agents",
+            "Concepts of agents and environments",
             "Rationality and the nature of environments",
-            "Structures of agents: Simple reflex",
+            "Structures of agents",
+            "Simple reflex",
             "model-based",
             "goal-based",
-            "utility-based Problem-Solving Agents: Problem formulation and agent-based problem solving",
+            "utility-based Problem-Solving Agents",
+            "Problem formulation and agent-based problem solving",
             "Examples of problem-solving scenarios"
         ],
         "rejected_topics": null,
@@ -17,11 +21,15 @@
     {
         "module": "Module 2",
         "topics": [
-            "Uninformed search strategies: Breadth-first search (BFS",
+            "Search Strategies and Game Playing Search Strategies for Solutions",
+            "Uninformed search strategies",
+            "Breadth-first search (BFS",
             "Depth-first search (DFS",
-            "Heuristic search: Hill climbing",
+            "Heuristic search",
+            "Hill climbing",
             "A* algorithm",
-            "Problem reduction techniques Game Playing and Adversarial Search: Concepts of adversarial search and game theory",
+            "Problem reduction techniques Game Playing and Adversarial Search",
+            "Concepts of adversarial search and game theory",
             "Mini-max algorithm for optimal decision-making",
             "Challenges in game playing and problem-solving in multiplayer games",
             "Alpha-Beta pruning for efficient game tree exploration",
@@ -33,11 +41,13 @@
     {
         "module": "Module 3",
         "topics": [
+            "Knowledge Representation and Reasoning Knowledge Representation Techniques",
             "Predicate logic and logic programming",
             "Semantic networks",
             "frames",
             "and inheritance systems",
-            "Rule-based systems and constraint propagation Reasoning Under Uncertainty: Basics of probability theory and Bayesian reasoning",
+            "Rule-based systems and constraint propagation Reasoning Under Uncertainty",
+            "Basics of probability theory and Bayesian reasoning",
             "Dempster-Shafer theory for managing uncertainty",
             "Applications of reasoning under uncertainty in AI systems"
         ],
@@ -47,13 +57,16 @@
     {
         "module": "Module 4",
         "topics": [
+            "Learning Methods and Expert Systems Learning from Observations",
             "Inductive learning and decision trees",
             "Explanation-based learning",
-            "Statistical learning methods and reinforcement learning Expert Systems: Introduction and basic concepts of expert systems",
+            "Statistical learning methods and reinforcement learning Expert Systems",
+            "Introduction and basic concepts of expert systems",
             "Structure and functioning of expert systems",
             "Knowledge engineering and acquisition methods",
             "Societal impacts and ethical considerations in AI",
-            "Reasoning techniques: Rule-based",
+            "Reasoning techniques",
+            "Rule-based",
             "frame-based",
             "model-based",
             "case-based",

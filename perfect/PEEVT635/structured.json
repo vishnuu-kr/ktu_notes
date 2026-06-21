@@ -2,9 +2,9 @@
     {
         "module": "Module 1",
         "topics": [
-            "Scope of testing and verification in VLSI design process",
+            "Introduction, Scope of testing and verification in VLSI design process",
             "Issues in testing and verification of complex chips",
-            "embedded cores and SOCs, Functional verification, Timing verification. System Level Verification: Test Plan-Block Level Verification-Interface Verification. Application Based Verification-Canonical SoC Design-Testbench for the Canonical Design. Fast Prototype vs. 100 Percent Testing -FPGA Prototyping, Emulation Based Testing, Silicon Prototyping. Gate Level Verification-Sign Off Simulation, Gate Level Simulation with Unit-Delay Timing , Gate Level Simulation with Full Timing. Formal Verification. Choosing Simulation Tools"
+            "embedded cores and SOCs, Functional verification, Timing verification. System Level Verification, Test Plan-Block Level Verification-Interface Verification. Application Based Verification-Canonical SoC Design-Testbench for the Canonical Design. Fast Prototype vs. 100 Percent Testing -FPGA Prototyping, Emulation Based Testing, Silicon Prototyping. Gate Level Verification-Sign Off Simulation, Gate Level Simulation with Unit-Delay Timing , Gate Level Simulation with Full Timing. Formal Verification. Choosing Simulation Tools"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -12,6 +12,11 @@
     {
         "module": "Module 2",
         "topics": [
+            "Specialized Hardware for System Verification - Accelerated Verification Overview",
+            "RTL Acceleration-Software Driven Verification",
+            "Traditional In Circuit Verification",
+            "Intellectual Property",
+            "Design Guidelines for Accelerated Verification. UVM",
             "Introduction",
             "Verification Planning and Coverage-Driven Verification",
             "Multi-Language and Methodologies",
@@ -34,6 +39,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "SystemVerilog",
             "Basic circuits design using SystemVerilog. Procedural Statements and Functions",
             "Implementation of OOPs Concepts in System Verilog",
             "SystemVerilog DPI (Direct Programming Interface",
@@ -50,6 +56,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Testing",
             "VLSI testing process and test equipment",
             "Automatic Test Equipment",
             "SCOAP Controllability and Observability",

@@ -2,10 +2,9 @@
     {
         "module": "Module 1",
         "topics": [
-            "LTI Systems",
-            "Transfer function representation of differential equation in Laplace domain. Electrical",
-            "translational and rotational mechanical systems",
-            "DC servo-motor modelling. . Block diagram representation - block diagram reduction. Signal flow graph -Mason's gain formula"
+            "Introduction to Control Systems, mathematical modelling and Transfer function Based Analysis Open loop and Closed loop control systems",
+            "Automatic control systems",
+            "Necessity and significance. Modelling of LTI systems, LTI Systems, Transfer function representation of differential equation in Laplace domain. Electrical, translational and rotational mechanical systems, DC servo-motor modelling. . Block diagram representation - block diagram reduction. Signal flow graph -Mason's gain formula"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -13,7 +12,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Time domain analysis of control systems: Impulse and Step responses of first and second order systems- Pole dominance for higher order systems. Time domain specifications. Steady state error analysis and static error constants Characteristic equation. Routh stability criterion"
+            "Performance Analysis of Control Systems, Time domain analysis of control systems, Impulse and Step responses of first and second order systems- Pole dominance for higher order systems. Time domain specifications. Steady state error analysis and static error constants Characteristic equation. Routh stability criterion"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -21,8 +20,8 @@
     {
         "module": "Module 3",
         "topics": [
-            "Root locus technique: Construction of Root locus - stability analysis- effect of addition of poles and zeros",
-            "Effect of positive feedback systems on Root locus. Controller design: Types of controllers and their control action-proportional (P), integral (I), derivative (D), PID control. PID tuning using Ziegler-Nichols method"
+            "Root Locus Analysis and Controllers, Root locus technique, Construction of Root locus - stability analysis- effect of addition of poles and zeros",
+            "Effect of positive feedback systems on Root locus. Controller design, Types of controllers and their control action-proportional (P), integral (I), derivative (D), PID control. PID tuning using Ziegler-Nichols method"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -30,9 +29,12 @@
     {
         "module": "Module 4",
         "topics": [
-            "Bode Plot: Construction, Concept of gain margin and phase margin",
-            "stability analysis. Frequency domain specifications",
-            "correlation between time domain and frequency domain responses (Resonant peak and resonant frequency). Polar plot: Gain margin and phase margin, Stability analysis. Nyquist stability criterion. Concept of Nichols Chart"
+            "Frequency domain analysis",
+            "Bode Plot",
+            "Construction",
+            "Concept of gain margin and phase margin-stability analysis. Frequency domain specifications - correlation between time domain and frequency domain responses (Resonant peak and resonant frequency). Polar plot",
+            "Gain margin and phase margin",
+            "Stability analysis. Nyquist stability criterion. Concept of Nichols Chart"
         ],
         "rejected_topics": null,
         "status": "verified"

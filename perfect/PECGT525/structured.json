@@ -2,16 +2,13 @@
     {
         "module": "Module 1",
         "topics": [
-            "Machine Learning",
-            "Definition and Scope",
-            "Types of Learning",
-            "Data Preprocessing",
-            "Data Cleaning",
-            "Handling Missing Data, Outlier Detection, and Treatment",
-            "Data Transformation: Normalization and Standardization",
-            "Feature Engineering: Feature Selection and Extraction Techniques",
-            "Encoding Categorical Variables: One",
-            "hot Encoding and Label Encoding"
+            "Introduction to Machine Learning and Data Preprocessing",
+            "Machine Learning- Definition and Scope-Types of Learning- Data Preprocessing-Data Cleaning-Handling Missing Data",
+            "Outlier Detection",
+            "and Treatment-Data Transformation",
+            "Normalization and Standardization-Feature Engineering",
+            "Feature Selection and Extraction Techniques-Encoding Categorical Variables",
+            "One-hot Encoding and Label Encoding"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -19,10 +16,13 @@
     {
         "module": "Module 2",
         "topics": [
-            "Supervised Learning Techniques:- Regression Analysis-Simple Linear Regression-Multiple Linear Regression-Prevent Overfitting: Regularization- Classification Methods-Decision Trees: Construction",
+            "Supervised Learning Techniques:- Regression Analysis-Simple Linear Regression-Multiple Linear Regression-Prevent Overfitting",
+            "Regularization- Classification Methods-Decision Trees",
+            "Construction",
             "Impurity Measures (Gini Index",
             "Entropy",
-            "Pruning -Support Vector Machines (SVM): Linear SVM",
+            "Pruning -Support Vector Machines (SVM",
+            "Linear SVM",
             "Kernel Trick",
             "Non-linear SVM"
         ],
@@ -32,10 +32,16 @@
     {
         "module": "Module 3",
         "topics": [
-            "Neural Networks and Deep Learning: - Introduction to Neural Networks -Perceptron: Model and Limitations -Multilayer Feedforward Networks: Architecture and Flow of Information-Activation Functions-Training Neural Networks-Backpropagation Algorithm: Derivation and Implementation-Gradient Descent Optimization: Batch",
+            "Neural Networks and Deep Learning: - Introduction to Neural Networks -Perceptron",
+            "Model and Limitations -Multilayer Feedforward Networks",
+            "Architecture and Flow of Information-Activation Functions-Training Neural Networks-Backpropagation Algorithm",
+            "Derivation and Implementation-Gradient Descent Optimization",
+            "Batch",
             "Mini-batch",
-            "and Stochastic-Techniques for Improving Convergence: Learning Rate Schedules",
-            "Momentum Convolutional Neural Networks (CNN)-Basic Architecture: Convolutional Layers",
+            "and Stochastic-Techniques for Improving Convergence",
+            "Learning Rate Schedules",
+            "Momentum Convolutional Neural Networks (CNN)-Basic Architecture",
+            "Convolutional Layers",
             "Pooling Layers",
             "and Fully Connected Layers"
         ],
@@ -45,22 +51,28 @@
     {
         "module": "Module 4",
         "topics": [
-            "Unsupervised Learning:- Clustering: K-means",
+            "Unsupervised Learning:- Clustering",
+            "K-means",
             "Hierarchical",
-            "DBSCAN Dimensionality Reduction: PCA",
+            "DBSCAN Dimensionality Reduction",
             "t-SNE. Model Evaluation",
             "Validation",
-            "and Optimization- Performance Metrics: Confusion Matrix",
+            "and Optimization- Performance Metrics",
+            "Confusion Matrix",
             "Precision",
             "Recall",
             "F1-score",
-            "R-squared.-Validation Techniques: k-fold",
+            "R-squared.-Validation Techniques",
+            "k-fold",
             "Stratified",
-            "Leave-one-out-Hyperparameter Tuning: Grid Search",
-            "Random Search-Ensemble Methods: Bagging",
+            "Leave-one-out-Hyperparameter Tuning",
+            "Grid Search",
+            "Random Search-Ensemble Methods",
+            "Bagging",
             "Boosting (AdaBoost",
             "Gradient Boosting",
-            "XGBoost) Suggestion on Project Topics: 1. Customer Segmentation for Marketing 2. Anomaly Detection in Network Traffic 3. Speech Emotion Recognition 4. Traffic Sign Recognition 5. Breast Cancer Prediction"
+            "XGBoost) Suggestion on Project Topics",
+            "1. Customer Segmentation for Marketing 2. Anomaly Detection in Network Traffic 3. Speech Emotion Recognition 4. Traffic Sign Recognition 5. Breast Cancer Prediction"
         ],
         "rejected_topics": null,
         "status": "verified"

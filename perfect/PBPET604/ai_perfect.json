@@ -2,23 +2,29 @@
     {
         "module": "Module 1",
         "topics": [
-            "Automation Definition",
+            "Pneumatic and Hydraulic Automation",
+            "Automation: Definition",
             "Types and Strategies of Fluid Power",
             "Hydraulics and Pneumatic Systems",
             "Basic Elements",
             "Power Pack",
-            "Basic Pneumatic Systems",
-            "Rotary Pumps and Compressors: Gear, Lobe and Vane Pumps",
-            "Screw, Lobe and Vane Compressors",
+            "Basic Pneumatic Systems, Rotary Pumps and Compressors",
+            "Gear",
+            "Lobe and Vane Pumps",
+            "Screw",
+            "Lobe and Vane Compressors",
             "Direction Control Valves",
             "Actuators - Types of Cylinders and Hydraulic Motors",
             "Circuit Representation Using Symbols - Single and Double Cylinder Circuits",
             "Servo Control System"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
+            "Electric and Electronic Controls",
             "Sensors and Transducers - Classification",
             "Thermocouple",
             "Thermistor",
@@ -30,11 +36,14 @@
             "Microcontrollers",
             "PLC Controller",
             "PLC Programming"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
+            "Internet of Things (IoT)",
             "Definition",
             "Architecture",
             "Applications",
@@ -42,16 +51,19 @@
             "Hardware",
             "Event Processing",
             "Organisation of IoT System",
-            "Subscriber Publish Model",
-            "Protocol",
+            "Subscriber-Publish Model",
+            "Protocols",
             "Time Base and Database",
             "Device Design Space",
             "Comparison of Cost of Ownership and Power with Conventional Systems"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
+            "Event-Driven System Analysis",
             "IoT Network Model",
             "IoT Event Analysis",
             "Industrial IoT (IIoT)",
@@ -62,17 +74,18 @@
             "RFID",
             "WSN Technologies",
             "IIoT Applications",
-            "Challenges",
-            "System Security and Application Security",
+            "Challenges, System Security and Application Security",
             "ARMET Approach",
-            "Examples",
-            "Project Topic: Selection of Hydraulic Cylinders for Specific Applications",
-            "Project Topic: Identification of Robotised Motion and Mapping into Multiple Cylinder Actuation",
-            "Project Topic: Design of Hydraulic or Pneumatic Circuits for Actuation of Multiple Cylinders",
-            "Project Topic: Design of Electro-Pneumatic Circuits for Multiple Cylinder Actuation Using Ladder Logic Diagrams",
-            "Project Topic: PLC Programming for Any Specific Process",
-            "Project Topic: Design of IoT Based Systems for Automation and Comparing with Conventional Systems in Cost Terms",
-            "Project Topic: IT Enabled Automation of Machine Operation Leading to Unmanned Operations"
-        ]
+            "Examples, Suggestion on Project Topics",
+            "Selection of Hydraulic Cylinders for Specific Applications",
+            "Identification of Robotised Motion and Mapping of the Same into Multiple Cylinder Actuation",
+            "Design of Hydraulic or Pneumatic Circuits for Actuation of Multiple Cylinders",
+            "Design of Electro-Pneumatic Circuits for Multiple Cylinder Actuation using Ladder Logic Diagrams",
+            "PLC Programming for any Specific Process",
+            "Design of IoT-based Systems for Automation and Comparing with Conventional Systems in Cost Terms",
+            "IT-Enabled Automation of Machine Operation Leading to Unmanned Operations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

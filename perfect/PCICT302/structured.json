@@ -6,18 +6,23 @@
             "Q point",
             "fixing of operating point",
             "biasing stability",
-            "stability factors simple biasing circuit design -various biasing methods of BJT: fixed",
+            "stability factors simple biasing circuit design -various biasing methods of BJT",
+            "fixed",
             "voltage divider",
-            "biasing independent of power supply. Thermal stability. MOSFET: n channel- structure and operation",
+            "biasing independent of power supply. Thermal stability. MOSFET",
+            "n channel- structure and operation",
             "regions of operation",
-            "pinch-off. Biasing methods: by fixing gate source voltage",
+            "pinch-off. Biasing methods",
+            "by fixing gate source voltage",
             "fixing gate voltage and connecting source resistance",
             "using two power supplies",
-            "drain-gate feedback resistor. MOSFET as amplifier. channel length modulation SMALL SIGNAL ANALYSIS OF MOSFET: voltage transfer characteristics",
+            "drain-gate feedback resistor. MOSFET as amplifier. channel length modulation SMALL SIGNAL ANALYSIS OF MOSFET",
+            "voltage transfer characteristics",
             "small signal operation-equivalent circuit",
             "hybrid pi model. CS",
             "CD configurations",
-            "expressions for characteristic parameters: input and output impedance",
+            "expressions for characteristic parameters",
+            "input and output impedance",
             "voltage gain and transconductance"
         ],
         "rejected_topics": null,
@@ -26,11 +31,14 @@
     {
         "module": "Module 2",
         "topics": [
-            "Multi stage amplifier - Differential amplifier- basic MOSFET differential pair operation. FEEDBACK AMPLIFIERS: Effect of negative feedback on bandwidth",
+            "MULTISTAGE AND DIFFERENTIAL AMPLIFIERS",
+            "Multi stage amplifier - Differential amplifier- basic MOSFET differential pair operation. FEEDBACK AMPLIFIERS",
+            "Effect of negative feedback on bandwidth",
             "gain and noise reduction. Voltage",
             "Current",
             "Transconductance",
-            "and Transresistance amplifiers. POWER AMPLIFIERS: classifications (basic operation using input output signal and circuit diagram) and power efficiency - class A (series fed/ transformer coupled) - class B (transformer coupled push pull amplifier",
+            "and Transresistance amplifiers. POWER AMPLIFIERS",
+            "classifications (basic operation using input output signal and circuit diagram) and power efficiency - class A (series fed/ transformer coupled) - class B (transformer coupled push pull amplifier",
             "complementary symmetry) - class C - power amplifier"
         ],
         "rejected_topics": null,
@@ -39,14 +47,18 @@
     {
         "module": "Module 3",
         "topics": [
-            "Review of fundamental laws: Ohm’s law",
+            "BASIC CIRCUITS ANALYSIS",
+            "Review of fundamental laws",
+            "Ohm’s law",
             "resistors in series and parallel circuits voltage and current division",
             "Source transformation technique",
-            "star -delta transformation Kirchoff’s laws - mesh current and node voltage - method of mesh and nodal analysis NETWORK THEOREMS FOR RESISTIVE CIRCUITS WITH DEPENDENT AND INDEPENDENT SOURCES: Thevenin’s and Norton theorems",
+            "star -delta transformation Kirchoff’s laws - mesh current and node voltage - method of mesh and nodal analysis NETWORK THEOREMS FOR RESISTIVE CIRCUITS WITH DEPENDENT AND INDEPENDENT SOURCES",
+            "Thevenin’s and Norton theorems",
             "Superposition theorem",
             "Maximum power transfer theorem",
             "Reciprocity theorem",
-            "Millman's theorem. related problems LAPLACE TRANSFORM: Review of Laplace transform and inverse Laplace transform of common functions and properties. solution of differential equations using Laplace transform"
+            "Millman's theorem. related problems LAPLACE TRANSFORM",
+            "Review of Laplace transform and inverse Laplace transform of common functions and properties. solution of differential equations using Laplace transform"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -54,6 +66,11 @@
     {
         "module": "Module 4",
         "topics": [
+            "Steady state And transient response of RL",
+            "RC and RLC circuits",
+            "application of Laplace transform in RLC circuit analysis. Analysis of electrical and mechanical systems-Mass Spring Damper system",
+            "Electric motor",
+            "Liquid level System TWO PORT NETWORKS",
             "Types Of Two Port Networks- Z",
             "ABCD. Concept of symmetry and reciprocity",
             "Conversions"

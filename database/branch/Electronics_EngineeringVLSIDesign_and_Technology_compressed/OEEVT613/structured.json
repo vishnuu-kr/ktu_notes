@@ -2,11 +2,15 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction",
       "Scope and applications of Power Electronics",
-      "Properties of ideal switch. Structure and static characteristics: Power diodes",
+      "Properties of ideal switch. Structure and static characteristics",
+      "Power diodes",
       "Power BJT",
-      "Power MOSFET & IGBT - comparison. Basic principles of wide band gap devices - SiC & GaN. Safe Operating Area: Power BJT",
-      "Power MOSFET & IGBT. Drive Circuits: Power BJT and Power MOSFET (any two example circuits - no analysis"
+      "Power MOSFET & IGBT - comparison. Basic principles of wide band gap devices - SiC & GaN. Safe Operating Area",
+      "Power BJT",
+      "Power MOSFET & IGBT. Drive Circuits",
+      "Power BJT and Power MOSFET (any two example circuits - no analysis"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -16,7 +20,8 @@
     "topics": [
       "Structure",
       "two transistor analogy",
-      "static characteristics. Rectifiers: Three phase diode bridge rectifiers",
+      "static characteristics. Rectifiers",
+      "Three phase diode bridge rectifiers",
       "Single phase half controlled rectifier with R load - Single phase fully controlled bridge rectifier (continuous conduction) - output voltage equation. Principle of three phase half wave controlled rectifier - (average output voltage equation for continuous load current) - related simple problems (1-phase & 3-phase"
     ],
     "rejected_topics": null,
@@ -25,9 +30,11 @@
   {
     "module": "Module 3",
     "topics": [
+      "DC - DC Switch Mode Converters",
       "Buck",
       "Boost and Buck-boost DC-DC converters. Waveforms and expression of DC-DC converters for output voltage",
-      "voltage and current ripple under continuous conduction mode. Isolated converters: Flyback",
+      "voltage and current ripple under continuous conduction mode. Isolated converters",
+      "Flyback",
       "Forward",
       "Push Pull",
       "Half bridge and Full bridge converters - Waveforms and governing equations"
@@ -38,8 +45,10 @@
   {
     "module": "Module 4",
     "topics": [
+      "DC-AC Switch Mode Inverters",
       "Inverter topologies",
-      "Driven Inverters: Push-Pull",
+      "Driven Inverters",
+      "Push-Pull",
       "Half bridge and Full bridge configurations",
       "Single phase PWM inverters (Single pulse width and sinusoidal pulse width modulation) - rms output voltage equation and output voltage waveforms"
     ],

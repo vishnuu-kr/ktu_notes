@@ -2,8 +2,8 @@
     {
         "module": "Module 1",
         "topics": [
-            "Differential amplifier configurations using BJT, DC Analysis - transfer characteristics",
-            "AC analysis - differential and common mode gains, CMRR, input and output resistance, voltage gain, constant current bias, constant current source. Concept of current mirror: two-transistor current mirror, Wilson and Widlar current mirrors. Operational amplifiers (Op Amps): The 741 Op Amp, Block diagram, Ideal Op Amp parameters, typical parameter values for 741, equivalent circuit, open loop configurations, voltage transfer curve, frequency response curve"
+            "Differential Amplifiers, Differential amplifier configurations using BJT, DC Analysis - transfer characteristics",
+            "AC analysis - differential and common mode gains, CMRR, input and output resistance, voltage gain, constant current bias, constant current source. Concept of current mirror, two-transistor current mirror, Wilson and Widlar current mirrors. Operational amplifiers (Op Amps), The 741 Op Amp, Block diagram, Ideal Op Amp parameters, typical parameter values for 741, equivalent circuit, open loop configurations, voltage transfer curve, frequency response curve"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -11,12 +11,14 @@
     {
         "module": "Module 2",
         "topics": [
+            "Op Amp with negative feedback",
             "General concept of Voltage Series",
             "Voltage Shunt",
             "Current Series and Current Shunt negative feedback",
             "Op Amp circuits with Voltage Series and Voltage Shunt feedback",
             "Virtual ground concept. Analysis of inverting and non-inverting amplifier for closed loop gain",
-            "Input Resistance and Output Resistance. Op Amp applications: Summer",
+            "Input Resistance and Output Resistance. Op Amp applications",
+            "Summer",
             "Voltage Follower",
             "Differential and Instrumentation Amplifiers",
             "Voltage to Current and Current to Voltage converters",
@@ -33,13 +35,16 @@
     {
         "module": "Module 3",
         "topics": [
+            "Oscillators and Multivibrators",
             "Phase Shift and Wien-bridge Oscillators",
             "Triangular and Sawtooth waveform generators",
-            "Astable and Monostable multivibrators. Active filters: Comparison with passive filters",
+            "Astable and Monostable multivibrators. Active filters",
+            "Comparison with passive filters",
             "First and Second order Low pass",
             "High pass",
             "Band pass and Band Reject active filters",
-            "State Variable filters. Voltage Regulators: Fixed and Adjustable voltage regulators",
+            "State Variable filters. Voltage Regulators",
+            "Fixed and Adjustable voltage regulators",
             "IC 723 - Low voltage and High voltage configurations",
             "Current boosting",
             "Current limiting",
@@ -51,16 +56,20 @@
     {
         "module": "Module 4",
         "topics": [
+            "Timer and VCO",
             "Timer IC 555 - Functional diagram",
             "Astable and monostable operations",
-            "Basic concepts of Voltage Controlled Oscillator and application of VCO IC LM566. Phase Locked Loop: Basic building block",
+            "Basic concepts of Voltage Controlled Oscillator and application of VCO IC LM566. Phase Locked Loop",
+            "Basic building block",
             "Operation",
             "Closed loop analysis",
             "Lock and capture range",
             "Applications of PLL",
-            "PLL IC565. Data Converters: Digital to Analog converters",
+            "PLL IC565. Data Converters",
+            "Digital to Analog converters",
             "Specifications",
-            "Weighted resistor type and R-2R Ladder type. Analog to Digital Converters: Specifications",
+            "Weighted resistor type and R-2R Ladder type. Analog to Digital Converters",
+            "Specifications",
             "Flash type and Successive approximation type"
         ],
         "rejected_topics": null,

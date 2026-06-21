@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to robotics",
       "Components",
       "Odometry",
       "Kinematics",
@@ -18,11 +19,13 @@
   {
     "module": "Module 2",
     "topics": [
+      "Discrete Consensus Achievement in Artificial Systems",
       "Consensus Achievement",
       "The Best-of-n Problem",
       "Overview of Current Design Approaches",
       "Bottom - Up Design Approaches",
-      "Top - Down Design Approaches. Consensus Algorithms in Cooperative Control: Fundamental Consensus Algorithms",
+      "Top - Down Design Approaches. Consensus Algorithms in Cooperative Control",
+      "Fundamental Consensus Algorithms",
       "Convergence Analysis of Consensus Algorithms",
       "Synthesis and Extensions of Consensus Algorithms",
       "Design of Coordination Strategies via Consensus Algorithms"
@@ -33,13 +36,17 @@
   {
     "module": "Module 3",
     "topics": [
-      "Coupling in Cooperative Control Problems: Objective Coupling",
+      "Consensus-based Design Methodologies for Distributed Multivehicle Cooperative Control",
+      "Coupling in Cooperative Control Problems",
+      "Objective Coupling",
       "Local Coupling",
       "Full Coupling",
-      "Dynamic Coupling. Approach to Distributed Cooperative Control Problems with an Optimization Objective: Cooperation Constraints and Objectives",
+      "Dynamic Coupling. Approach to Distributed Cooperative Control Problems with an Optimization Objective",
+      "Cooperation Constraints and Objectives",
       "Coordination Variables and Coordination Functions",
       "Centralized Cooperation Scheme",
-      "Consensus Building Approach to Distributed Cooperative Control Problems Without an Optimization Objective: Coordination Variable Constituted by a Group-level Reference State",
+      "Consensus Building Approach to Distributed Cooperative Control Problems Without an Optimization Objective",
+      "Coordination Variable Constituted by a Group-level Reference State",
       "Coordination Variable Constituted by Vehicle States"
     ],
     "rejected_topics": null,

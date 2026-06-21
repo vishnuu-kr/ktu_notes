@@ -2,9 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Fundamentals of Mobile Application Development",
             "Introduction to Mobile Application Development",
-            "Overview of Mobile Platforms: iOS and Android",
-            "Introduction to Flutter: History",
+            "Overview of Mobile Platforms",
+            "iOS and Android",
+            "Introduction to Flutter",
+            "History",
             "Features",
             "and Benefits",
             "Setting Up the Flutter Development Environment",
@@ -19,10 +22,13 @@
     {
         "module": "Module 2",
         "topics": [
+            "User Interface Design and User Experience",
             "Principles of Mobile UI/UX Design",
             "Designing Responsive UIs with Flutter",
-            "Using Flutter Widgets: Stateless Widget and StatefulWidget",
-            "Layouts in Flutter: Container",
+            "Using Flutter Widgets",
+            "Stateless Widget and StatefulWidget",
+            "Layouts in Flutter",
+            "Container",
             "Column",
             "Stack",
             "Navigation and Routing in Flutter",
@@ -34,13 +40,18 @@
     {
         "module": "Module 3",
         "topics": [
-            "State Management in Flutter: Provider",
+            "Advanced Flutter Development",
+            "State Management in Flutter",
+            "Provider",
             "Riverpod",
-            "and BLoC 9 Networking in Flutter: HTTP Requests",
+            "and BLoC 9 Networking in Flutter",
+            "HTTP Requests",
             "JSON Parsing",
-            "RESTful APIs Data Persistence: SQLite",
+            "RESTful APIs Data Persistence",
+            "SQLite",
             "Shared Preferences",
-            "Hive Asynchronous Programming with Dart: Futures",
+            "Hive Asynchronous Programming with Dart",
+            "Futures",
             "async/await",
             "and Streams"
         ],
@@ -50,6 +61,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Industry Practices and App Deployment",
             "Advanced UI Components and Animations",
             "App Security Best Practices",
             "Testing and Debugging Flutter Applications",

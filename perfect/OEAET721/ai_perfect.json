@@ -27,11 +27,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "IoT Communication",
-            "IoT Device Gateways",
+            "IoT Communication - IoT Device Gateways",
             "Overview of IP Addressing - IPv4 and IPv6",
             "Network Address Translation (Overview Only)",
-            "IoT Infrastructure Protocols (Only Overview and Key Features Required) - RFID, Zigbee, Bluetooth, DASH7, LoRa, 6LoWPAN, SigFox, NB-IoT, WiFi",
+            "IoT Infrastructure Protocols (Overview and Key Features) - RFID, Zigbee, Bluetooth, DASH7, LoRa, 6LoWPAN, SigFox, NB-IoT, WiFi",
             "Overview of Cellular Communication for IoT (LTE 4G Only)"
         ],
         "rejected_topics": null,
@@ -40,13 +39,13 @@
     {
         "module": "Module 4",
         "topics": [
-            "Application Protocols and Cloud Computing (Fundamental Concepts Only Required)",
+            "Application Protocols and Cloud Computing (Fundamental Concepts Only)",
             "Message Queue Telemetry Transport (MQTT) - Architecture and Quality of Service Levels",
             "HTTP REST API",
             "Constrained Application Protocol (CoAP) - Architecture and Request-Response Model",
             "Typical Use Cases of MQTT, CoAP and REST API in IoT Networks",
             "Cloud Computing - Overview of Architecture",
-            "Cloud Models - Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS)",
+            "Cloud Models - Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS), and Infrastructure-as-a-Service (IaaS)",
             "Basic Overview of Fog Computing"
         ],
         "rejected_topics": null,

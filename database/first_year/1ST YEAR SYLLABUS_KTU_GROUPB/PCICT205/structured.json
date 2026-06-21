@@ -2,12 +2,14 @@
   {
     "module": "Module 1",
     "topics": [
-      "Introduction to instrument systems",
-      "Typical applications of instrument systems. Basic description of the functional elements of the measurement 12 B.Tech 2024",
-      "S1/S2 APJ Abdul Kalam Technological University system with examples. TRANSDUCERS AND INSTRUMENT TYPES: Definition of transducers. Role of transducers in instrumentation. Classification of instruments: Active and passive instruments",
-      "Null-type and deflection-type instruments -Analogue and digital instruments",
-      "Indicating instruments and instruments with a signal output -Manually operated and automatic type, Self-generating and power operated types, Contacting and non-contacting types",
-      "Smart and non-smart instruments"
+      "INTRODUCTION TO INSTRUMENTATION & CONTROL ENGINEERING- Definition-scope and importance- application of instrumentation in different fields like petrochemical",
+      "Biomedical",
+      "pharmaceutical and food processing. FUNCTIONAL ELEMENTS OF MEASUREMENT SYSTEM",
+      "Introduction to instrument systems - Typical applications of instrument systems. Basic description of the functional elements of the measurement 12 B.Tech 2024 - S1/S2 APJ Abdul Kalam Technological University system with examples. TRANSDUCERS AND INSTRUMENT TYPES",
+      "Definition of transducers. Role of transducers in instrumentation. Classification of instruments",
+      "Active and passive instruments - Null-type and deflection-type instruments -Analogue and digital instruments - Indicating instruments and instruments with a signal output -Manually operated and automatic type",
+      "Self-generating and power operated types",
+      "Contacting and non-contacting types - Smart and non-smart instruments"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -15,7 +17,9 @@
   {
     "module": "Module 2",
     "topics": [
-      "Need of Control systems - Role of error detectors - Block diagram for a control system with examples. MEASUREMENT SYSTEM PERFORMANCE: Static characteristics of instruments. Accuracy and precision",
+      "FUNCTIONAL ELEMENTS OF CONTROL SYSTEM",
+      "Need of Control systems - Role of error detectors - Block diagram for a control system with examples. MEASUREMENT SYSTEM PERFORMANCE",
+      "Static characteristics of instruments. Accuracy and precision",
       "static sensitivity",
       "linearity",
       "hysteresis",
@@ -33,8 +37,10 @@
   {
     "module": "Module 3",
     "topics": [
+      "CALIBRATION OF MEASURING SENSORS AND INSTRUMENTS",
       "Standards and calibration - Necessity of calibration- Careful instrument design",
-      "Principles of calibration-Control of calibration environment- Calibration chain and traceability-Calibration records -Intelligent instruments. TYPES OF INPUTS: Input output configuration of measuring instruments and measurement systems. Desired inputs",
+      "Principles of calibration-Control of calibration environment- Calibration chain and traceability-Calibration records -Intelligent instruments. TYPES OF INPUTS",
+      "Input output configuration of measuring instruments and measurement systems. Desired inputs",
       "interfering inputs",
       "modifying inputs. Methods of correction for interfering and modifying inputs. Loading effects. Input and output impedances. Input impedances",
       "input admittance",
@@ -47,11 +53,13 @@
   {
     "module": "Module 4",
     "topics": [
+      "MEASUREMENT NOISE",
       "Noise",
       "signal to noise ratio",
       "sources of noise",
       "Johnson noise",
-      "power spectrum density. Sources of measurement noise-Inductive Coupling-Capacitive (electrostatic) coupling - Noise due to multiple earths-Noise in the form of voltage. ERRORS DURING THE MEASUREMENT PROCESS: Errors in measurements",
+      "power spectrum density. Sources of measurement noise-Inductive Coupling-Capacitive (electrostatic) coupling - Noise due to multiple earths-Noise in the form of voltage. ERRORS DURING THE MEASUREMENT PROCESS",
+      "Errors in measurements",
       "true value",
       "Limiting errors (Guarantee errors). Relative (fractional) limiting error. Combination of quantities with limiting errors. Known errors",
       "types of errors",

@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Reliability concepts",
       "Definition of reliability",
       "reliability vs. quality",
       "reliability function",
@@ -10,7 +11,8 @@
       "bathtub curve",
       "derivation of the reliability function",
       "failure and failure modes",
-      "causes of failures and unreliability. Reliability models: Constant failure rate model",
+      "causes of failures and unreliability. Reliability models",
+      "Constant failure rate model",
       "time dependent failure models. Weibull distribution",
       "normal distribution",
       "lognormal distribution. Serial configuration",
@@ -24,6 +26,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Redundancy techniques in system design",
       "Component vs unit redundancy",
       "weakest-link technique",
       "mixed redundancy",
@@ -43,6 +46,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Reliability in design",
       "Reliability in design process",
       "system effectiveness",
       "economic analysis and life cycle cost. Reliability allocation- optimal allocations",
@@ -54,12 +58,14 @@
   {
     "module": "Module 4",
     "topics": [
+      "Maintainability and availability",
       "Definitions and basic concepts",
       "relationship between reliability",
       "availability and maintainability",
       "inherent availability",
       "achieved availability",
-      "operational availability. Economics of reliability: Economic issues",
+      "operational availability. Economics of reliability",
+      "Economic issues",
       "manufacturers cost",
       "customers cost",
       "reliability achievement cost models",

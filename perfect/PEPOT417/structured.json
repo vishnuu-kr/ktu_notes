@@ -2,11 +2,13 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction to Operations Research: - Concept of Optimization",
+            "Introduction to Operations Research",
+            "Concept of Optimization",
             "Decision making through Operations Research",
             "Models and Modelling in OR",
             "General methods for solving OR models",
-            "Application and Scope of OR - Basic OR models. Linear programming: - Formulation of LPP",
+            "Application and Scope of OR - Basic OR models. Linear programming",
+            "Formulation of LPP",
             "Graphical method",
             "Simplex method",
             "Maximization problems - Minimization problems",
@@ -20,12 +22,14 @@
     {
         "module": "Module 2",
         "topics": [
+            "Transportation problems",
             "Formulation",
             "Methods of finding initial solution (North West Corner Rule",
             "Least Cost Method and Vogel’s Approximation Method",
             "Test for optimality (MODI Method",
             "Unbalanced Transportation Problems",
-            "Maximization Transportation Problems. Assignment Problems: Formulation",
+            "Maximization Transportation Problems. Assignment Problems",
+            "Formulation",
             "Methods of solution",
             "Hungarian method",
             "Unbalanced problems",
@@ -37,9 +41,11 @@
     {
         "module": "Module 3",
         "topics": [
-            "Introduction to queuing theory: - Terminologies - Classification of queuing model 1",
+            "Introduction to queuing theory",
+            "Terminologies - Classification of queuing model 1",
             "Single server problems 1",
-            "Multi server problems 1. Inventory control: - variables - deterministic inventory models - purchasing model without shortages 1",
+            "Multi server problems 1. Inventory control",
+            "variables - deterministic inventory models - purchasing model without shortages 1",
             "manufacturing model without shortages 1",
             "purchasing model with shortages 1",
             "manufacturing model with shortages 1"
@@ -50,8 +56,11 @@
     {
         "module": "Module 4",
         "topics": [
-            "CPM and PERT-Time Estimation",
-            "Critical Path, Basic Concepts of Crashing. Replacement Problems: Replacement of assets that deteriorate with time, Replacement of assets that fail completely"
+            "Network Analysis",
+            "CPM and PERT-Time Estimation-Critical Path",
+            "Basic Concepts of Crashing. Replacement Problems",
+            "Replacement of assets that deteriorate with time",
+            "Replacement of assets that fail completely"
         ],
         "rejected_topics": null,
         "status": "verified"

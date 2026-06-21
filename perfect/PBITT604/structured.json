@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "The Internet of Things Today",
             "Time for Convergence",
             "Towards the IoT Universe(s",
             "Internet of Things Vision",
@@ -13,7 +14,8 @@
             "Data management",
             "Security",
             "Privacy & Trust",
-            "Device Level Energy Issues. Current trends in Internet: Internet of Everything",
+            "Device Level Energy Issues. Current trends in Internet",
+            "Internet of Everything",
             "Internet of Thing-Storage",
             "Databases"
         ],
@@ -23,18 +25,22 @@
     {
         "module": "Module 2",
         "topics": [
+            "IoT Standardisation",
             "Status",
             "Requirements",
             "Initiatives and Organisations",
             "M2M Service Layer Standardisation",
             "OGC Sensor Web for IoT",
             "IEEE and IETF",
-            "ITU-T. A Common Architectural Approach- The IoT-A Reference Model. IoT Software Platforms: Node-RED",
+            "ITU-T. A Common Architectural Approach- The IoT-A Reference Model. IoT Software Platforms",
+            "Node-RED",
             "ThingSpeak",
             "Blynk",
-            "IoTivity IoT Operating Systems: Contiki",
+            "IoTivity IoT Operating Systems",
+            "Contiki",
             "RIOT",
-            "TinyOS Cloud Platforms for IoT: AWS IoT",
+            "TinyOS Cloud Platforms for IoT",
+            "AWS IoT",
             "Google Cloud IoT",
             "Microsoft Azure"
         ],
@@ -44,13 +50,17 @@
     {
         "module": "Module 3",
         "topics": [
-            "Physical Data Link Layer: IEEE 802.15.4",
+            "IoT Protocols",
+            "Physical Data Link Layer",
+            "IEEE 802.15.4",
             "LoRa",
             "Zigbee",
             "Bluetooth/Bluetooth Low Energy (BLE",
-            "6LoWPAN Network Layer: IPv4/IPv6",
-            "CoAP Transport Layer: TCP",
-            "DTLS Session & Application Layer: CoAP",
+            "6LoWPAN Network Layer",
+            "IPv4/IPv6",
+            "CoAP Transport Layer",
+            "DTLS Session & Application Layer",
+            "CoAP",
             "MQTT",
             "HTTP/HTTPS",
             "XMPP",
@@ -63,6 +73,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "IoT Hardware",
             "Arduino - Introduction-Making the Sketch. ESP32 System on a Chip (SoC) microcontroller. Simple Digital and Analog Input-Using a Switch",
             "Reading a Keypad",
             "Reading Analog Values Getting Input from Sensors-Detecting Movement",
@@ -75,7 +86,8 @@
             "Python/Micro python and Raspberry Pi",
             "Arduino and Raspberry Pi",
             "Basic Input and Output",
-            "Programming Inputs and Outputs with Python. IoT deployment for Raspberry Pi /Arduino/Equivalent development platforms 11 Suggestions on Project Topics: No. Project Topics 1 Smart Home Automation System 2 Smart Garden with Environmental Monitoring 3 RFID-based Attendance System GPS-based Vehicle Tracking System"
+            "Programming Inputs and Outputs with Python. IoT deployment for Raspberry Pi /Arduino/Equivalent development platforms 11 Suggestions on Project Topics",
+            "No. Project Topics 1 Smart Home Automation System 2 Smart Garden with Environmental Monitoring 3 RFID-based Attendance System GPS-based Vehicle Tracking System"
         ],
         "rejected_topics": null,
         "status": "verified"

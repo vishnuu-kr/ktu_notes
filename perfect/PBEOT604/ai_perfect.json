@@ -2,13 +2,13 @@
     {
         "module": "Module 1",
         "topics": [
-            "Mathematics for Machine Learning: Association of Two Variables and Discrete Variables",
-            "Ordinal and Continuous Variables",
-            "Probability Calculus and Summary Statistics",
+            "Mathematics for Machine Learning - Association of Two Variables - Discrete Variables",
+            "Ordinal and Continuous Variable",
+            "Probability Calculus - Summary Statistics",
             "Probability Distributions",
-            "Inductive Statistics and Point Estimation",
+            "Inductive Statistics - Point Estimation",
             "Interval Estimation",
-            "Hypothesis Testing: Basic Definitions",
+            "Hypothesis Testing - Basic Definitions",
             "T-Test",
             "F-Test",
             "ANOVA"
@@ -19,15 +19,16 @@
     {
         "module": "Module 2",
         "topics": [
-            "Introduction to Machine Learning Algorithms: Supervised vs. Unsupervised Learning",
+            "Introduction to Machine Learning Algorithms - Supervised vs. Unsupervised Learning",
             "Regression and Classification",
             "Linear Discriminant Analysis",
             "Decision Trees",
-            "Random Forests and Bagging",
-            "Principal Component Analysis",
+            "Random Forests",
+            "Bagging. Unsupervised - Principal Component Analysis",
             "Clustering Algorithms",
             "SVMs",
-            "Re-sampling Methods: Cross-Validation and Bootstrapping"
+            "Re-Sampling Methods",
+            "Cross-Validation and Bootstrapping"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -35,11 +36,11 @@
     {
         "module": "Module 3",
         "topics": [
-            "Introduction to Python for ML: Essential Python Libraries and ML Functions (NumPy)",
+            "Introduction to Python for ML - Essential Python Libraries and ML Functions (NumPy)",
             "Pandas",
             "Matplotlib",
-            "Scikit-learn",
-            "Working with Datasets"
+            "SciKit-Learn",
+            "Working with Data Sets"
         ],
         "rejected_topics": null,
         "status": "verified"

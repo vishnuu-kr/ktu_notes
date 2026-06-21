@@ -2,12 +2,15 @@
     {
         "module": "Module 1",
         "topics": [
+            "Security Concepts",
             "Introduction",
             "The need for security",
             "Security approaches",
             "Principles of security",
-            "Types of Security attacks. Introduction to Cyber security: Cybercrimes",
-            "Types of Cybercrimes -Recent Data Breaches - Recent Cyber security Trends - Case Study: Sim Swapping Fraud",
+            "Types of Security attacks. Introduction to Cyber security",
+            "Cybercrimes",
+            "Types of Cybercrimes -Recent Data Breaches - Recent Cyber security Trends - Case Study",
+            "Sim Swapping Fraud",
             "ATM Card Cloning",
             "Hacking email for money",
             "Google Nest Guard",
@@ -20,6 +23,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Cryptography Concepts and Techniques",
             "Introduction",
             "plain text and cipher text",
             "substitution techniques",
@@ -27,7 +31,8 @@
             "Encryption and decryption",
             "Symmetric and asymmetric key cryptography",
             "steganography",
-            "Key range and key size. Case Studies of Cryptography: Denial of service attacks",
+            "Key range and key size. Case Studies of Cryptography",
+            "Denial of service attacks",
             "IP spoofing attacks",
             "Secure inter branch payment transactions",
             "Conventional Encryption and Message Confidentiality",
@@ -40,6 +45,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Introduction to Ethical Hacking",
             "Footprinting and Reconnaissance",
             "Scanning Networks",
             "Enumeration",
@@ -57,6 +63,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Introduction to Vulnerability Scanning",
             "Overview of vulnerability scanning",
             "Open Port / Service Identification",
             "Banner / Version Check",

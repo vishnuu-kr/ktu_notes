@@ -2,9 +2,20 @@
   {
     "module": "Module 1",
     "topics": [
-      "Introduction to Mechatronics: Structure of Mechatronics system. Sensors",
-      "Characteristics",
-      "Temperature, flow, pressure sensors. Displacement, position and proximity sensing by magnetic, optical, ultrasonic, inductive, capacitive and eddy current methods. Encoders: incremental and absolute, gray coded encoder. Piezoelectric sensors. Acoustic Emission sensors. Principle and types of vibration sensors. Signalconditioning, need and methods. Op amp configurations. Current/Resistance/reactance to voltage circuits, bridge circuits applications. ADC and DAC circuits. Basics of sampling theorem"
+      "Sensors and signal conditioning",
+      "Introduction to Mechatronics",
+      "Structure of Mechatronics system. Sensors - Characteristics -Temperature",
+      "flow",
+      "pressure sensors. Displacement",
+      "position and proximity sensing by magnetic",
+      "optical",
+      "ultrasonic",
+      "inductive",
+      "capacitive and eddy current methods. Encoders",
+      "incremental and absolute",
+      "gray coded encoder. Piezoelectric sensors. Acoustic Emission sensors. Principle and types of vibration sensors. Signalconditioning",
+      "need and methods. Op amp configurations. Current/Resistance/reactance to voltage circuits",
+      "bridge circuits applications. ADC and DAC circuits. Basics of sampling theorem"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -12,10 +23,13 @@
   {
     "module": "Module 2",
     "topics": [
+      "Actuators",
       "Mechanical actuators",
       "Electrical actuators",
-      "Hydraulic and Pneumatic actuators. Basic mechanical elements: guide ways",
-      "drives. Bearings: anti-friction bearings",
+      "Hydraulic and Pneumatic actuators. Basic mechanical elements",
+      "guide ways",
+      "drives. Bearings",
+      "anti-friction bearings",
       "hydrostatic bearing and hydrodynamic bearing. Re-circulating ball screws",
       "pre-loading methods. Re-circulating roller screws. Pneumatics and hydraulics. Directional control valves",
       "pressure control valves",
@@ -29,10 +43,12 @@
   {
     "module": "Module 3",
     "topics": [
+      "Control of mechanical systems",
       "System modeling - Mathematical models and basic building blocks of general mechanical",
       "electrical",
       "fluid and thermal systems. typical elements of open and closed loop control systems. Adaptive controllers for machine tools. Microcontrollers and architecture. Use of microcontrollers for mechatronic applications Programmable Logic Controllers (PLC) - Basic structure",
-      "input/ output processing. Programming: Timers",
+      "input/ output processing. Programming",
+      "Timers",
       "Internal Relays",
       "Counters and Shift registers. Development of ladder programs for specific purposes"
     ],
@@ -42,7 +58,10 @@
   {
     "module": "Module 4",
     "topics": [
-      "Micro Electro Mechanical Systems (MEMS): Fabrication: Deposition",
+      "Modern mechatronic systems",
+      "Micro Electro Mechanical Systems (MEMS",
+      "Fabrication",
+      "Deposition",
       "Lithography",
       "Micromachining methods for MEMS",
       "Deep Reactive Ion Etching (DRIE) and LIGA processes. Principle",

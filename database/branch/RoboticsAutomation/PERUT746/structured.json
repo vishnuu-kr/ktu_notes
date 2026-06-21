@@ -3,7 +3,7 @@
     "module": "Module 1",
     "topics": [
       "Basics of operations research-OR models",
-      "applications, Linear programming: problem formulation",
+      "applications, Linear programming, problem formulation",
       "Graphical method",
       "simplex method",
       "Big M method-Two phase method",
@@ -15,15 +15,11 @@
   {
     "module": "Module 2",
     "topics": [
-      "Formulation",
-      "balanced & unbalanced transportation problems, method for finding initial solution",
-      "North west corner method",
-      "Least cost entry method",
-      "Vogel’s approximation method (VAM), test for finding optimality",
-      "MODI method. Assignment Problem: Formulation",
-      "optimal solution",
-      "Hungarian Algorithm",
-      "Variants of assignment problems"
+      "Transportation Problem",
+      "Formulation-balanced & unbalanced transportation problems",
+      "method for finding initial solution- North west corner method- Least cost entry method-Vogel’s approximation method (VAM",
+      "test for finding optimality- MODI method. Assignment Problem",
+      "Formulation-optimal solution- Hungarian Algorithm-Variants of assignment problems"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -31,9 +27,9 @@
   {
     "module": "Module 3",
     "topics": [
-      "Introduction to queuing theory: terminologies",
+      "Introduction to queuing theory, terminologies",
       "classification of queuing models",
-      "Kendall’s notation-Single server models Multi server models. Network analysis: basic terms",
+      "Kendall’s notation-Single server models Multi server models. Network analysis, basic terms",
       "network construction-time analysis",
       "Critical Path Method (CPM",
       "Programme Evaluation Review Technique (PERT"
@@ -44,8 +40,8 @@
   {
     "module": "Module 4",
     "topics": [
-      "Decision theory: steps in decision theory approach-decision making conditions",
-      "decisions under risk-decision under uncertainty conditions-decision tree analysis. Game theory: games with saddle points",
+      "Decision theory, steps in decision theory approach-decision making conditions",
+      "decisions under risk-decision under uncertainty conditions-decision tree analysis. Game theory, games with saddle points",
       "Dominance property",
       "games without saddle points for 2x2 games",
       "graphical method for m x 2 & 2 x n games"

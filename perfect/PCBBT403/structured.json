@@ -11,7 +11,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Concept of drag and its types, Overview of boundary layer formation in pipe flow and for flow over flat plates",
+            "Introduction to fluid flow- Flow of in-compressible fluids, flow visualization using the concept of streamline. Classification of flow - Steady and unsteady state flow, uniform and non-uniform flow, rotational and irrotational flow, velocity potential and stream function. Reynold’s Experiment, laminar flow, turbulent flow- characteristics and universal velocity distribution (Graphical representation and explanation needed but detailed analysis not required) Equations of change for isothermal systems Equations of change for isothermal systems - Equation of Continuity (Derivation is desired), its physical significance and vectorial representation, Qualitative treatment of Equation of Motion - Navier Stoke’s Equation and Euler equation (derivations not required but significance is desired). Rheology of fluids, Newtonian and non- Newtonian fluids. Momentum flux and Newton’s Law of Viscosity. Flow in boundary layers, Concept of drag and its types, Overview of boundary layer formation in pipe flow and for flow over flat plates",
             "Concept of boundary layer separation and wake formation. Flow through pipe-Bernoulli equation (derivation required), Correction factors in Bernoulli equation (Derivation of equations not desired), Pump work - Numerical problems. Outline of pressure losses in straight pipes and in fittings (Numerical problems desired). Schedule number of pipes, concept of equivalent diameter"
         ],
         "rejected_topics": null,
@@ -20,10 +20,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "Laminar flow of Newtonian fluid-Hagen-Poiseullie equation (Derivation required",
-            "Shear stress and Velocity distribution in circular channel, relation between average and maximum velocity. Friction factor-Fanning and Darcy, Moody diagram. Transportation and metering of fluids: Classification of pumps, Characteristics of centrifugal pumps - Priming, cavitation, NPSH, water hammer, loss of head and power in centrifugal pumps (Numerical problems not required). Flow measurement - General equation for internal flow meters: Orifice meter and Venturimeter: Derivation of expression for flow rate using Bernoulli equation",
-            "Weirs: Classification and derivation of equations for flow rate in rectangular and triangular notches, concept of area meters: Rotameter",
-            "Local velocity measurement: Pitot tube: Principle and equations. Resistance of immersed bodies - Concept of drag and drag coefficient",
+            "Flow of incompressible fluids & flow past immersed bodies Flow of incompressible fluid in circular pipe, Laminar flow of Newtonian fluid-Hagen-Poiseullie equation (Derivation required",
+            "Shear stress and Velocity distribution in circular channel, relation between average and maximum velocity. Friction factor-Fanning and Darcy, Moody diagram. Transportation and metering of fluids, Classification of pumps, Characteristics of centrifugal pumps - Priming, cavitation, NPSH, water hammer, loss of head and power in centrifugal pumps (Numerical problems not required). Flow measurement - General equation for internal flow meters, Orifice meter and Venturimeter, Derivation of expression for flow rate using Bernoulli equation",
+            "Weirs, Classification and derivation of equations for flow rate in rectangular and triangular notches, concept of area meters, Rotameter",
+            "Local velocity measurement, Pitot tube, Principle and equations. Resistance of immersed bodies - Concept of drag and drag coefficient",
             "variation of drag coefficient with particle Reynolds number. Free settling-motion of particle under gravitational and centrifugal fields, terminal settling velocity and Stoke’s law (Derivation of the equation using force balance is required), Hindered Settling"
         ],
         "rejected_topics": null,
@@ -32,8 +32,21 @@
     {
         "module": "Module 4",
         "topics": [
-            "Mechanism, Inter",
-            "particle forces and granulation"
+            "Particle Technology Describing the size of a single particle- Sphericity and shape factor",
+            "Particulate solids-various mean diameters. Particle size analysis- Sieving",
+            "Laser diffraction",
+            "Dynamic light scattering",
+            "Nano particle tracking analysis",
+            "Sub-sieve auto sizer",
+            "Elutriation. Solid liquid separation-Filtration",
+            "centrifugation",
+            "sedimentation and decantation",
+            "flocculation (Detailed analysis using equations not desired). Particle size reduction - Introduction of comminution theory and associated laws",
+            "comminution mechanism",
+            "classification of size reduction equipment",
+            "factors affecting choice of equipment. Particle size enlargement",
+            "Mechanism",
+            "Inter-particle forces and granulation"
         ],
         "rejected_topics": null,
         "status": "verified"

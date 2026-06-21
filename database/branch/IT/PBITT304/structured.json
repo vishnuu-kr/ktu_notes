@@ -2,12 +2,18 @@
   {
     "module": "Module 1",
     "topics": [
-      "Introduction:  Overview of a database project and its scope and objectives.  Importance of database management system in real-world applications. Database Design:  Conceptual Design: Create an Entity-Relationship Diagram (ERD) to model the entities",
+      "Introduction",
+      "Overview of a database project and its scope and objectives.  Importance of database management system in real-world applications. Database Design",
+      "Conceptual Design",
+      "Create an Entity-Relationship Diagram (ERD) to model the entities",
       "relationships",
-      "and attributes involved in your project.  Logical Design: Translate the ERD into a relational schema. Database Creation:  Implement a sample schema in a DBMS of your choice (e.g",
+      "and attributes involved in your project.  Logical Design",
+      "Translate the ERD into a relational schema. Database Creation",
+      "Implement a sample schema in a DBMS of your choice (e.g",
       "MySQL",
       "PostgreSQL",
-      "SQLite). Tables and Relationships:  Define tables with appropriate attributes (columns).  Establish relationships (foreign keys) between tables"
+      "SQLite). Tables and Relationships",
+      "Define tables with appropriate attributes (columns).  Establish relationships (foreign keys) between tables"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -15,13 +21,16 @@
   {
     "module": "Module 2",
     "topics": [
-      "Normalization:  Ensure your schema is normalized to minimize redundancy and dependency issues. SQL Queries:  Develop a set of SQL queries to demonstrate CRUD operations (Create",
+      "Normalization",
+      "Ensure your schema is normalized to minimize redundancy and dependency issues. SQL Queries",
+      "Develop a set of SQL queries to demonstrate CRUD operations (Create",
       "Read",
       "Update",
       "Delete",
       "complex joins",
       "aggregations",
-      "and any specialized queries required by your project. Timeline:  Create a timeline or project plan with milestones to ensure timely completion"
+      "and any specialized queries required by your project. Timeline",
+      "Create a timeline or project plan with milestones to ensure timely completion"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -29,9 +38,13 @@
   {
     "module": "Module 3",
     "topics": [
-      "Constraints:  Entity Integrity  Referential Integrity  Domain Constraints Transaction Management:  Definition of transactions and transaction properties (ACID properties).  Implementation of transaction processing logic",
-      "Concurrency Control:  Techniques to manage concurrent access (e.g. , locking, time stamping",
-      "Backup and Recovery:  Strategies for database backup and recovery in case of failures"
+      "Constraints",
+      "Entity Integrity  Referential Integrity  Domain Constraints Transaction Management",
+      "Definition of transactions and transaction properties (ACID properties).  Implementation of transaction processing logic. Concurrency Control",
+      "Techniques to manage concurrent access (e.g",
+      "locking",
+      "time stamping). Backup and Recovery",
+      "Strategies for database backup and recovery in case of failures"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -39,8 +52,8 @@
   {
     "module": "Module 4",
     "topics": [
-      "Testing and Validation:  Execute queries to validate the correctness of the schema and constraints. Integration with Applications:  Develop simple applications (eg",
-      "using Python) to interact with the database. Documentation:  Prepare comprehensive documentation covering project objectives, database schema, constraints, transactions, and implementation details. 9 Suggestions on Project Topics: No. Project Topics 1 E-commerce Database Platform 2 Registered Vehicle Database Management 3 Library Database Management System Student Database Management"
+      "Testing and Validation,  Execute queries to validate the correctness of the schema and constraints. Integration with Applications,  Develop simple applications (eg",
+      "using Python) to interact with the database. Documentation,  Prepare comprehensive documentation covering project objectives, database schema, constraints, transactions, and implementation details. 9 Suggestions on Project Topics, No. Project Topics 1 E-commerce Database Platform 2 Registered Vehicle Database Management 3 Library Database Management System Student Database Management"
     ],
     "rejected_topics": null,
     "status": "verified"

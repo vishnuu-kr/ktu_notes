@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Fundamental concepts",
             "Properties of fluid - density",
             "specific weight",
             "viscosity",
@@ -15,7 +16,8 @@
             "Newton’s law of viscosity",
             "Newtonian and non-Newtonian fluids",
             "real and ideal fluids",
-            "incompressible and compressible fluids. Fluid statics: Atmospheric pressure",
+            "incompressible and compressible fluids. Fluid statics",
+            "Atmospheric pressure",
             "gauge pressure and absolute pressure. Pascal’s Law",
             "measurement of pressure - piezo meter",
             "manometers",
@@ -36,11 +38,13 @@
     {
         "module": "Module 2",
         "topics": [
+            "Fluid Kinematics",
             "Types of fluid flow",
             "continuity equation in 2D and 3D (Cartesian Co-ordinates only",
             "velocity and acceleration",
             "velocity potential function and stream function",
-            "problems. Fluid Dynamics: Introduction",
+            "problems. Fluid Dynamics",
+            "Introduction",
             "Euler’s equation of motion",
             "Bernoulli’s equation from first principles and also from Euler’s equation",
             "limitations of Bernoulli’s equation",
@@ -52,7 +56,7 @@
     {
         "module": "Module 3",
         "topics": [
-            "Equations of fluid dynamics: (Euler’s equation), Navier-Stokes equations Bernoulli’s equation and its applications: Venturimeters and Orifice meters, Hydraulic coefficients, Flow through pipes: Laminar and Turbulent flow, Reynold’s experiment, loss of head due to friction, Darcy - Weishbach Equation, Chezy’s formula, Minor losses in pipes. Turbomachines: Definition of a Turbomachine, parts of a Turbomachine Hydraulic Turbines: Classification",
+            "Equations of fluid dynamics, (Euler’s equation), Navier-Stokes equations Bernoulli’s equation and its applications, Venturimeters and Orifice meters, Hydraulic coefficients, Flow through pipes, Laminar and Turbulent flow, Reynold’s experiment, loss of head due to friction, Darcy - Weishbach Equation, Chezy’s formula, Minor losses in pipes. Turbomachines, Definition of a Turbomachine, parts of a Turbomachine Hydraulic Turbines, Classification",
             "Constructional features"
         ],
         "rejected_topics": null,
@@ -61,6 +65,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Pumps",
             "Classifications-types of casing and impellers",
             "Velocity triangle for pumps",
             "Head of pump",

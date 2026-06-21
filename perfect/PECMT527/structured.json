@@ -29,9 +29,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "Attributes and attribute grammars. Dependency graphs and Evaluation order, Synthesized and Inherited attributes. Intermediate code generation",
-            "Three address code, P",
-            "code. Intermediate code as a synthesized attribute"
+            "Semantic Analysis",
+            "Attributes and attribute grammars. Dependency graphs and Evaluation order",
+            "Synthesized and Inherited attributes. Intermediate code generation - Three address code",
+            "P - code. Intermediate code as a synthesized attribute"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -39,7 +40,12 @@
     {
         "module": "Module 4",
         "topics": [
-            "Principal sources of code optimization, Classification of optimizations, Data Structures and Implementation Techniques for Optimizations"
+            "Generation of Target code from intermediate code - Code generation of Data structure references- address calculation",
+            "array references",
+            "if and while statements. Code Optimization Techniques",
+            "Principal sources of code optimization",
+            "Classification of optimizations",
+            "Data Structures and Implementation Techniques for Optimizations"
         ],
         "rejected_topics": null,
         "status": "verified"

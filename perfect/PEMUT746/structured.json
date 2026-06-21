@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Microprocessor",
             "Microprocessor architecture and its operations",
             "Memory",
             "Input & output devices",
@@ -20,16 +21,19 @@
     {
         "module": "Module 2",
         "topics": [
+            "Basic Programming concepts",
             "Flow chart symbols",
             "Data Transfer operations",
             "Arithmetic operations",
             "Logic Operations",
             "Branch operation",
             "Writing assembly language programs",
-            "Programming techniques: looping",
+            "Programming techniques",
+            "looping",
             "counting",
             "and indexing. Additional data transfer and 16-bit arithmetic instruction",
-            "Logic operation: rotate",
+            "Logic operation",
+            "rotate",
             "compare",
             "counter and time delays",
             "8085 Interrupts"
@@ -40,6 +44,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "8051 Microcontroller Basics",
             "Microcontrollers and Embedded Processors",
             "Block Diagram of 8051",
             "PSW and Flag Bits",
@@ -56,6 +61,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Assembly programming and instruction of 8051",
             "Introduction to 8051 assembly programming",
             "Assembling",
             "and running an 8051 program",

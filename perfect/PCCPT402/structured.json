@@ -2,9 +2,11 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Signal Processing",
             "Characterization & classification of signals",
             "typical Signal Processing operations",
-            "example of typical signals. Time Domain Representation of Signals & Systems: Discrete Time Signals",
+            "example of typical signals. Time Domain Representation of Signals & Systems",
+            "Discrete Time Signals",
             "Operations on Sequences",
             "the sampling process",
             "Quantization",
@@ -18,6 +20,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Transform-Domain Representation of Signals",
             "Discrete Fourier Transform (DFT",
             "DFT properties",
             "computation of the DFT of real sequences",
@@ -42,9 +45,11 @@
     {
         "module": "Module 4",
         "topics": [
+            "Wavelet Transform",
             "Introduction to wavelets",
             "Continuous wavelet transform (CWT",
-            "Discrete wavelet transform (DWT). Sensor Data Processing: Processing data from cameras",
+            "Discrete wavelet transform (DWT). Sensor Data Processing",
+            "Processing data from cameras",
             "LIDAR",
             "and IMUs",
             "Sensor fusion techniques",

@@ -2,38 +2,51 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction",
             "Definition and Scope of Assistive Technologies",
-            "Regulatory and Ethical Considerations",
-            "Overview of FDA, CE Mark, and Other Regulatory Frameworks",
+            "Regulatory and Ethical Considerations: Overview of FDA, CE Mark, and Other Regulatory Frameworks",
             "Ethical Considerations in the Development and Use of Assistive Devices",
             "Standards and Guidelines for Accessibility and Usability"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
-            "Materials and Manufacturing",
-            "Properties of Materials Used in Assistive Devices",
+            "Design and Development of Assistive Devices",
+            "Materials and Manufacturing: Properties of Materials Used in Assistive Devices",
             "Manufacturing Processes: Traditional vs. Advanced Methods (e.g., 3D Printing)",
             "Selection Criteria for Materials and Manufacturing Techniques",
             "Integration of Sensors into Assistive Devices for Data Acquisition and Feedback",
             "Data Processing and Signal Interpretation"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
+            "Types of Assistive Devices",
             "Mobility Aids: Wheelchairs, Scooters, Walkers, Prosthetics, and Orthotics",
             "Sensory Aids: Hearing Aids, Cochlear Implants, Visual Aids, and Braille Devices",
             "Cognitive Aids: Augmentative and Alternative Communication (AAC) Devices, Memory Aids, and Software Tools",
-            "Neural Prosthetics: Basics of Neural Prosthetics and Their Applications"
-        ]
+            "Neural Prosthetics: Basics and Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
-            "Smart Assistive Technologies: Types of Assistive Robots (Exoskeletons, Rehabilitation Robots, Service Robots), Challenges and Advancements in Assistive Robotics",
-            "Role of the Internet of Things (IoT) in Assistive Devices: Overview of Wearable Technology and Smart Home Integration, Developing Smart, Connected Assistive Devices"
-        ]
+            "Smart Assistive Technologies",
+            "Types of Assistive Robots: Exoskeletons, Rehabilitation Robots, and Service Robots",
+            "Challenges and Advancements in Assistive Robotics",
+            "Role of the Internet of Things (IoT) in Assistive Devices",
+            "Overview of Wearable Technology and Smart Home Integration",
+            "Developing Smart, Connected Assistive Devices"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

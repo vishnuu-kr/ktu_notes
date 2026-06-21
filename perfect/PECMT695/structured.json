@@ -2,6 +2,9 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Visualization - Need and purpose",
+            "External representation - Difficulty in Validation",
+            "Data Abstraction",
             "Dataset types - Attribute types - Semantics",
             "Task Abstraction - Analyse",
             "Produce",
@@ -15,10 +18,14 @@
     {
         "module": "Module 2",
         "topics": [
+            "Arrange tables",
             "Categorical regions - Spatial axis orientation - Spatial layout density",
-            "Arrange spatial data: Geometry - Scalar fields - Vector fields - Tensor fields. Arrange networks and trees-: Connections",
+            "Arrange spatial data",
+            "Geometry - Scalar fields - Vector fields - Tensor fields. Arrange networks and trees",
+            "Connections",
             "Matrix views - Containment",
-            "Map color: Color theory",
+            "Map color",
+            "Color theory",
             "Color maps and other channels"
         ],
         "rejected_topics": null,

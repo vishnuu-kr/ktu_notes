@@ -1,0 +1,80 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Spectral Graph Theory - Introduction to Spectral Graph Theory",
+            "Graph Laplacians",
+            "Definition and Properties",
+            "Eigenvalues and Eigenvectors of Laplacian matrices",
+            "Cheeger’s Inequality",
+            "Graph Partitioning. Assignments",
+            "1. Implement Cheeger’s inequality for a set of sample graphs. Compare the theoretical results with empirical data to analyze the effectiveness of different partitioning algorithms. Use a set of sample graphs such as Erdős-Rényi Random Graphs",
+            "Barabási-Albert Model",
+            "Known for scale-free properties",
+            "and Regular Graphs. Compare theoretical results with empirical data using different partitioning algorithms such as Spectral Clustering - Uses the eigenvectors of the Laplacian matrix",
+            "K-means Clustering - Applied to spectral embeddings of the graph",
+            "Normalized Cut - Minimizes the normalized cut criterion. Measure how close the empirical conductance is to the theoretical lower bound provided by Cheeger's inequality. Analyze which algorithms produce cuts with conductance values closer to the theoretical bounds. Real-world Application",
+            "Apply Cheeger's inequality to social network analysis to detect community structures. 2. Analyze the properties of the Laplacian matrix of a given graph (Erdős-Rényi Random Graphs). Compute its eigenvalues and eigenvectors and discuss the implications for graph partitioning. Examine the use of graph Laplacians in network community detection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Spectral Clustering - Introduction to Clustering and Spectral Clustering",
+            "Normalized Cut",
+            "Eigenvalue Techniques for Clustering",
+            "Spectral Clustering Algorithm",
+            "Applications of Spectral Clustering. Assignment",
+            "1. Implement a spectral clustering algorithm and apply it to a real-world dataset (Iris dataset). After running the spectral clustering algorithm",
+            "evaluate the results using metrics such as Silhouette Score and Adjusted Rand Index (ARI). Plot the data points colored by their cluster assignments to visually inspect the clustering. Compare spectral clustering with other clustering techniques (e.g",
+            "k-means",
+            "hierarchical clustering) on the three types of datasets -Synthetic Data",
+            "Real-World Data (Iris Dataset",
+            "and High-Dimensional Data ). Discuss the advantages and limitations of spectral clustering in different scenarios. Real-world Application",
+            "Use clustering results for anomaly detection in network security"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Expanders - Introduction to Expander Graphs",
+            "Properties and Construction of Expanders",
+            "edge-expanders",
+            "vertex-expanders",
+            "spectral-expanders",
+            "Expander Mixing Lemma",
+            "Random walks on expanders graphs",
+            "Applications of Expander Graphs",
+            "Error-Correcting Codes. Assignments",
+            "1. Study the construction and properties of expander graphs such as Erdős-Rényi graphs",
+            "Ramanujan graphs and Cayley graphs. Implement algorithms for generating expander graphs and analyze their properties based on spectral gap and expansion property. 2. Apply expander graphs to error-correcting codes. Design and test codes based on expanders",
+            "and evaluate their performance in terms of error correction capabilities. Simulate a communication channel with added noise and measure the performance of the expander code in correcting errors. Evaluate the BER",
+            "code rate",
+            "and error correction capability by comparing the number of errors corrected versus the total number of errors introduced"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "LP- and SDP-based Approximation Algorithms for NP-Hard Problems -Linear Programming (LP) Relaxations and their Use in Approximation",
+            "Vertex Cover and Set Cover",
+            "Semidefinite Programming (SDP) and its Applications",
+            "Max-Cut Problem. Assignments",
+            "1. Implement and evaluate LP relaxations for vertex cover and set cover problems (use Erdős-Rényi Graphs). Compare the results with exact solutions and analyze the quality of the approximations. 2. Develop and test approximation algorithms for Max-cut problem using SDP relaxations. Assess the performance and efficiency of your algorithms on various datasets. To assess the performance and efficiency of the SDP-based Max-Cut approximation",
+            "test the algorithm on various types of graphs",
+            "including",
+            "Erdős-Rényi Graphs",
+            "Barabási-Albert Graphs",
+            "and Real-world Graphs. Compare the cut values obtained from the SDP relaxation and rounding with known or exact solutions if available. For large graphs",
+            "use heuristics or bounds for comparison. Measure the time taken to solve the SDP relaxation and perform the rounding. This includes the time for solving the SDP problem and the time for eigen-decomposition"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

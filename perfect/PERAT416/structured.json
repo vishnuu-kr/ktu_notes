@@ -15,6 +15,9 @@
     {
         "module": "Module 2",
         "topics": [
+            "Geometric representation of signals",
+            "Signal space",
+            "Gram-Schmitt procedure for orthogonisation. Digital modulation schemes",
             "BASK",
             "BFSK",
             "BPSK",
@@ -29,9 +32,13 @@
     {
         "module": "Module 3",
         "topics": [
+            "Introduction to computer communication",
             "OSI Layering",
-            "TCP/IP layering. Switching: Circuit switching and packet switching Data link layer: Flow control (stop & wait and sliding window",
-            "Media access control: Aloha",
+            "TCP/IP layering. Switching",
+            "Circuit switching and packet switching Data link layer",
+            "Flow control (stop & wait and sliding window",
+            "Media access control",
+            "Aloha",
             "Slotted Aloha",
             "CSMA",
             "CSMA/CD"
@@ -42,11 +49,13 @@
     {
         "module": "Module 4",
         "topics": [
+            "Network layer",
             "Logical addressing",
             "IPv4 & IPV6",
             "Classes of IP addresses",
-            "Subnetting. Routing schemes: Distance vector routing",
-            "Link state routing. Transport layer: TCP",
+            "Subnetting. Routing schemes",
+            "Distance vector routing",
+            "Link state routing. Transport layer",
             "Congestion control"
         ],
         "rejected_topics": null,

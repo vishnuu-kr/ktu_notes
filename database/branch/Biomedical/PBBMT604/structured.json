@@ -15,6 +15,13 @@
   {
     "module": "Module 2",
     "topics": [
+      "Image transforms -Two-dimensional orthogonal and Unitary Transforms",
+      "Properties of Unitary Transforms",
+      "2D-DFT",
+      "cosine",
+      "sine",
+      "properties",
+      "Haar and Hadamard Transform. Image Enhancement in the Spatial Domain",
       "Point Operations",
       "Contrast Stretching",
       "Clipping and Thresholding",
@@ -28,8 +35,13 @@
   {
     "module": "Module 3",
     "topics": [
-      "Edge Detection",
-      "Gradient Operators, Laplace Operators and Zero Crossings"
+      "Histogram modeling",
+      "histogram equalization- modification. Spatial operations - smoothing techniques. Magnification and interpolation. Frequency Domain methods - low pass filtering",
+      "high pass filtering",
+      "homomorphic filtering-Image restoration- inverse filtering",
+      "Wiener filtering. Image Analysis",
+      "Edge Detection-Gradient Operators",
+      "Laplace Operators and Zero Crossings"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -37,12 +49,24 @@
   {
     "module": "Module 4",
     "topics": [
-      "Image Segmentation: Techniques such as thresholding",
+      "Boundary Representation - Chain Codes. Boundary Extraction-Connectivity",
+      "Contour Following-Image Segmentation-Amplitude Thresholding or Window Slicing",
+      "Component Labelling",
+      "Boundary based Approaches",
+      "Region-based Approaches and Clustering. Suggestion on Project Topics ● Students should do a literature review and present various applications of image processing techniques on biomedical images ● Identify and summarize key applications",
+      "advancements",
+      "and challenges associated with each technique. ● Based on the literature review",
+      "choose one image processing technique that can be applied to medical images. ● Justify the selection by explaining its relevance and potential impact on biomedical imaging. Techniques to Choose From",
+      "Image Segmentation",
+      "Techniques such as thresholding",
       "region-based segmentation",
-      "and edge detection. Image Enhancement: Methods like histogram equalization",
+      "and edge detection. Image Enhancement",
+      "Methods like histogram equalization",
       "contrast adjustment",
-      "and noise reduction. Image Reconstruction: Methods for reconstructing images from raw data",
-      "including CT and MRI reconstruction algorithms. Feature Extraction: Techniques for identifying and extracting significant features from images",
+      "and noise reduction. Image Reconstruction",
+      "Methods for reconstructing images from raw data",
+      "including CT and MRI reconstruction algorithms. Feature Extraction",
+      "Techniques for identifying and extracting significant features from images",
       "such as texture analysis and morphological operations. ● Implement the selected image processing technique on a set of medical images using Matlab",
       "Python",
       "or C++. ● Develop a codebase that accurately applies the chosen technique to biomedical images. ● Collaborate in teams to document the entire process",

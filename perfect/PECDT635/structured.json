@@ -20,11 +20,15 @@
     {
         "module": "Module 2",
         "topics": [
+            "Introduction -Social Networks Analysis- Co-Citation and Bibliographic Coupling- Page Rank",
             "PageRank Algorithm",
             "Link-Based Similarity Search",
-            "Enhanced Techniques for Page Ranking - HITS: HITS Algorithm",
-            "Finding Other Eigenvectors-Community Discovery: Problem Definition",
-            "Bipartite Core Communities. Web Crawling -A Basic Crawler Algorithm: Breadth-First Crawlers",
+            "Enhanced Techniques for Page Ranking - HITS",
+            "HITS Algorithm",
+            "Finding Other Eigenvectors-Community Discovery",
+            "Problem Definition",
+            "Bipartite Core Communities. Web Crawling -A Basic Crawler Algorithm",
+            "Breadth-First Crawlers",
             "Preferential Crawlers",
             "Universal Crawlers- Focused Crawlers and Topical Crawlers"
         ],
@@ -34,9 +38,9 @@
     {
         "module": "Module 3",
         "topics": [
-            "Wrapper Generation",
+            "Structured Data Extraction, Wrapper Generation",
             "Preliminaries- Wrapper Induction- Instance Based Wrapper Learning",
-            "Automatic Wrapper Generation: Problems",
+            "Automatic Wrapper Generation, Problems",
             "String Matching and Tree Matching -Multiple Alignment",
             "Building DOM Trees",
             "Extraction Based on a Single List Page and Multiple pages- Introduction to Schema Matching",
@@ -49,7 +53,8 @@
     {
         "module": "Module 4",
         "topics": [
-            "Sources and Types of Data, Key Elements of Web Usage Data",
+            "Web Usage Mining",
+            "Data Collection and Pre-Processing, Sources and Types of Data, Key Elements of Web Usage Data",
             "Data Modelling for Web Usage Mining",
             "Discovery and Analysis of Web Usage Patterns",
             "Applications- Recommender Systems and Collaborative Filtering",

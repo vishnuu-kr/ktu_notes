@@ -3,6 +3,7 @@
     "module": "Module 1",
     "topics": [
       "Cloud Fundamentals",
+      "Cloud Fundamentals",
       "Models-IaaS/ PaaS / SaaS",
       "NIST definition of Cloud",
       "Cloud advantages deployment process. Public cloud Platform features-AWS",
@@ -15,9 +16,11 @@
   {
     "module": "Module 2",
     "topics": [
+      "API Fundamentals and its Integration",
       "Application Architectures-Monolithic & Distributed",
       "Microservice fundamental and design approach",
-      "Cloud Native applications-12 Factors App. Application integration process: API Fundamental",
+      "Cloud Native applications-12 Factors App. Application integration process",
+      "API Fundamental",
       "Microservice /API management",
       "Spring boot Fundamental and design of microservice",
       "API tools",
@@ -30,7 +33,7 @@
   {
     "module": "Module 3",
     "topics": [
-      "Devops Tools and their usage in cloud application development, Docker and Containerization Process"
+      "Devops fundamentals, Devops Tools and their usage in cloud application development, Docker and Containerization Process"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -38,6 +41,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Cloud Application Development and Cloud Security",
       "Python- Refresher",
       "Use cases for cloud application development. Design and developing solution steps using containers",
       "containerization of application and deployment using Kubernetes",

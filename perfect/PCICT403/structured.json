@@ -2,16 +2,20 @@
     {
         "module": "Module 1",
         "topics": [
+            "Basics of Signals and Systems",
             "Definitions and Classification of Signals (Continuous-time and Discrete-time",
             "Periodic and Aperiodic",
             "Even and Odd",
             "Energy and Power signals) Basic Operations on Signals (Scaling",
             "Shifting",
-            "Folding) Systems: Definitions and Classification of Systems (Linear and Nonlinear",
+            "Folding) Systems",
+            "Definitions and Classification of Systems (Linear and Nonlinear",
             "Time-Invariant and Time-Variant",
             "Causal and Non-Causal",
-            "Stable and Unstable) Examples of Systems System Properties: Linear Time-Invariant (LTI) Systems",
-            "Stability and Causality in LTI Systems Representation of systems: Differential equation representation of continuous time systems. Difference equation representation of discrete systems. Discrete time LTI systems and linear convolution. Stability and causality of LTI systems"
+            "Stable and Unstable) Examples of Systems System Properties",
+            "Linear Time-Invariant (LTI) Systems",
+            "Stability and Causality in LTI Systems Representation of systems",
+            "Differential equation representation of continuous time systems. Difference equation representation of discrete systems. Discrete time LTI systems and linear convolution. Stability and causality of LTI systems"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -19,6 +23,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Overview of Fourier Series",
             "Representation of Periodic Signals",
             "Convergence of Fourier series. Continuous-Time Fourier Transform (CTFT)-Properties Review of Laplace Transform",
             "ROC of Transfer function",
@@ -60,8 +65,10 @@
             "Interpolation methods (zero-order hold",
             "first-order hold",
             "sinc interpolation",
-            "Oversampling: benefits and applications",
-            "Under sampling: conditions and applications Sampling in the frequency domain",
+            "Oversampling",
+            "benefits and applications",
+            "Under sampling",
+            "conditions and applications Sampling in the frequency domain",
             "Sampling of band pass signals Introduction to multi rate systems",
             "Decimation and interpolation. Applications in digital signal processing"
         ],

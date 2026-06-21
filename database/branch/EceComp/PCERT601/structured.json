@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction",
       "Operating system overview - Operations",
       "Functions",
       "Service - System calls",
@@ -21,6 +22,10 @@
   {
     "module": "Module 2",
     "topics": [
+      "Process Scheduling - Basic concepts- Scheduling criteria -scheduling algorithms- First come First Served",
+      "Shortest Job First",
+      "Priority scheduling",
+      "Round robin scheduling. Deadlocks",
       "Necessary conditions",
       "Resource allocation graphs",
       "Deadlock prevention",
@@ -47,6 +52,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Memory Management",
       "Concept of address spaces",
       "Swapping",
       "Contiguous memory allocation",
@@ -54,12 +60,14 @@
       "Segmentation",
       "Paging. Virtual memory",
       "Demand paging",
-      "Page replacement algorithms. File System: File concept - Attributes",
+      "Page replacement algorithms. File System",
+      "File concept - Attributes",
       "Operations",
       "types",
       "structure - Access methods",
       "Protection. File-system implementation",
-      "Directory implementation. Allocation methods. Storage Management: Magnetic disks",
+      "Directory implementation. Allocation methods. Storage Management",
+      "Magnetic disks",
       "Solid-state disks",
       "Disk Structure",
       "Disk scheduling",

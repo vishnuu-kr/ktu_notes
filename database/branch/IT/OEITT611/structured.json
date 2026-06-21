@@ -2,9 +2,11 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to Java and OOP",
       "Overview of programming languages",
       "Setting up the development environment (IDE",
-      "Writing and running a simple Java program Basics of Java: Variables",
+      "Writing and running a simple Java program Basics of Java",
+      "Variables",
       "data types",
       "and operators",
       "control structures (conditional control statements",
@@ -18,9 +20,11 @@
   {
     "module": "Module 2",
     "topics": [
+      "Classes and Objects",
       "Defining classes and objects",
       "Constructors and instance variables",
-      "Methods and method overloading Encapsulation and Access Modifiers: Encapsulation principles",
+      "Methods and method overloading Encapsulation and Access Modifiers",
+      "Encapsulation principles",
       "Access modifiers (public",
       "private",
       "protected",
@@ -32,8 +36,10 @@
   {
     "module": "Module 3",
     "topics": [
+      "Inheritance",
       "Inheritance hierarchy",
-      "Method overriding Superclass and subclass relationships Polymorphism: Method overloading vs. method overriding",
+      "Method overriding Superclass and subclass relationships Polymorphism",
+      "Method overloading vs. method overriding",
       "Dynamic method dispatch",
       "Abstract classes and interfaces"
     ],
@@ -43,10 +49,13 @@
   {
     "module": "Module 4",
     "topics": [
+      "Exception Handling",
       "Handling exceptions (try-catch blocks",
       "Custom exceptions",
-      "Checked vs. unchecked exceptions. Errors: Understanding common Error types in Java",
-      "using Java Error information for root cause analysis and JVM tuning. Collections and Data Structures: Lists",
+      "Checked vs. unchecked exceptions. Errors",
+      "Understanding common Error types in Java",
+      "using Java Error information for root cause analysis and JVM tuning. Collections and Data Structures",
+      "Lists",
       "sets",
       "and maps",
       "ArrayList",

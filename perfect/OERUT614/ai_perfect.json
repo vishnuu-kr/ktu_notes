@@ -2,13 +2,15 @@
     {
         "module": "Module 1",
         "topics": [
+            "Artificial Intelligence",
             "Introduction",
             "Its Importance",
             "The Turing Test",
             "Foundations of Artificial Intelligence",
             "A Brief Historical Overview",
-            "Intelligent Agents and Environments",
-            "Good Behaviour: The Concept of Rationality",
+            "Intelligent Agents - Agents and Environments",
+            "Good Behaviour",
+            "The Concept of Rationality",
             "Nature of Environments",
             "Structure of Agents",
             "Expert Systems - Basic Overview",
@@ -21,12 +23,14 @@
     {
         "module": "Module 2",
         "topics": [
+            "Learning - Forms of Learning",
             "Supervised Learning Algorithms - Decision Trees",
             "Logistic Regression",
             "Support Vector Machines",
-            "Unsupervised Learning Algorithms: K-Means Clustering, K-Nearest Neighbors",
+            "Unsupervised Learning Algorithms",
+            "K-Means Clustering, K-Nearest Neighbors",
             "Principal Component Analysis",
-            "Reinforcement Based Learning"
+            "Reinforcement Learning"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -34,9 +38,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "Perceptrons - Single Layer and Multi-Layer",
+            "Deep Feedforward Networks",
+            "Perceptrons - Single Layer and Multi-layer",
             "Learning XOR",
-            "Convolutional Neural Networks - Basic Outline and Functions of Each Layer Only",
+            "Convolutional Neural Networks - Basic Outline and Functions of Each Layer",
             "Sequence Modeling - Need for Sequence Models",
             "Basic RNN Architecture and Types"
         ],
@@ -49,7 +54,7 @@
             "Robotics - Robotic Perception",
             "Localization and Mapping",
             "Machine Learning in Robot Perception",
-            "Application Domains: Mobile Robot Navigation - Path Planning",
+            "Application Domains - Mobile Robot Navigation - Path Planning",
             "Path Planning and Obstacle Avoidance - A* Algorithm"
         ],
         "rejected_topics": null,

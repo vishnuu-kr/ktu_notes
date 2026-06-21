@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction to Computer Networks: Network Components, Network Models, ISO/OSI, TCP/IP, Physical Topology, Overview of the Internet, Protocol Layering",
+            "Introduction to Computer Networks: Introduction, Network Components, Network Models, ISO/OSI, TCP/IP, Physical Topology, Overview of the Internet, Protocol Layering",
             "Physical Layer: Transmission Media (Copper, Fiber, Wireless), Datagram Networks, Virtual Circuit Networks, Performance"
         ],
         "rejected_topics": null,
@@ -12,7 +12,7 @@
         "module": "Module 2",
         "topics": [
             "Data Link Layer: Error Detection and Correction - Introduction, Hamming Code, CRC, Checksum",
-            "Framing Methods, Flow Control - Noiseless Channels, Noisy Channels",
+            "Framing - Methods, Flow Control - Noiseless Channels, Noisy Channels",
             "Medium Access Control - Random Access, Controlled Access",
             "Wired LANs - IEEE Standards, Ethernet, IEEE 802.11"
         ],

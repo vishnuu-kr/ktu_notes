@@ -2,11 +2,14 @@
   {
     "module": "Module 1",
     "topics": [
-      "Introduction to Operational Amplifiers (Op-Amps) Op-amp Characteristics and ideal op-amp Op-amp configurations: inverting",
+      "Introduction to Operational Amplifiers (Op-Amps) Op-amp Characteristics and ideal op-amp Op-amp configurations",
+      "inverting",
       "non-inverting",
-      "differential amplifiers Op-amp parameters: gain",
+      "differential amplifiers Op-amp parameters",
+      "gain",
       "bandwidth",
-      "input/output impedance. Effect of feedback on op-amp performance Op-amp applications: amplifiers",
+      "input/output impedance. Effect of feedback on op-amp performance Op-amp applications",
+      "amplifiers",
       "comparators",
       "integrators",
       "differentiators",
@@ -61,7 +64,7 @@
   {
     "module": "Module 4",
     "topics": [
-      "SR, D, JK, and T flip-flops Design of sequential circuits-Counters-Ring counter and Johnsons counter",
+      "Sequential Logic Circuits Flip-flops and latches, SR, D, JK, and T flip-flops Design of sequential circuits-Counters-Ring counter and Johnsons counter",
       "shift registers -SIPO, SISO, PISO, PIPO. Asynchronous Sequential Circuits- Analysis of state machines using D flip-flops and JK flip flops",
       "Design of state machines - state table, state assignment transition/excitation table"
     ],

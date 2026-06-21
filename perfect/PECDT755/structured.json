@@ -2,11 +2,14 @@
     {
         "module": "Module 1",
         "topics": [
-            "Basic Concepts: Agents",
+            "Introduction to Reinforcement Learning",
+            "Basic Concepts",
+            "Agents",
             "Environments",
             "Rewards",
             "and Policies",
-            "Single stage decision making problems: N-Arm Bandit Problem",
+            "Single stage decision making problems",
+            "N-Arm Bandit Problem",
             "Simulation of N-arm bandit problem",
             "Action-Value Methods",
             "Incremental Implementation",
@@ -20,6 +23,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Markov Decision Processes (MDPs) and Dynamic Programming (DP",
             "Definition and Properties",
             "Value Functions",
             "Bellman Equations",
@@ -36,6 +40,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Monte Carlo Methods and Temporal Difference (TD) Learning",
             "Monte Carlo Prediction",
             "Monte Carlo Control",
             "Off-policy Prediction and Control",
@@ -50,6 +55,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Function Approximation and Advanced Topics",
             "Linear Function Approximation",
             "Neural Networks for Function Approximation",
             "Deep Q-Networks (DQN",

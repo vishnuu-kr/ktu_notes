@@ -2,9 +2,11 @@
   {
     "module": "Module 1",
     "topics": [
+      "Intel 8051",
       "Architecture - ALU",
       "internal RAM and ROM",
-      "Organization of ports. Registers of 8051: data pointer",
+      "Organization of ports. Registers of 8051",
+      "data pointer",
       "program counter",
       "CPU registers",
       "register banks",
@@ -21,7 +23,10 @@
   {
     "module": "Module 2",
     "topics": [
-      "Illustrative examples using of all types of instructions. Programming the ports of 8051. Programming in C: Illustrative examples of C programming for 8051-time delay and I/O operations, logic operations"
+      "Programming using Assembly language",
+      "Illustrative examples using of all types of instructions. Programming the ports of 8051. Programming in C",
+      "Illustrative examples of C programming for 8051-time delay and I/O operations",
+      "logic operations"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -29,10 +34,13 @@
   {
     "module": "Module 3",
     "topics": [
+      "Timers of 8051",
       "All modes of operations",
       "programming the timers in assembly language and C language",
-      "timer as an event counter. Serial Communication with 8051: Introduction to serial communication",
-      "RS232 protocol. Serial communication programming in assembly language. Interrupt system of 8051: introduction to interrupts-interrupts in 8051-priority of interrupts- Interrupt handling and execution for timer",
+      "timer as an event counter. Serial Communication with 8051",
+      "Introduction to serial communication",
+      "RS232 protocol. Serial communication programming in assembly language. Interrupt system of 8051",
+      "introduction to interrupts-interrupts in 8051-priority of interrupts- Interrupt handling and execution for timer",
       "external and serial interrupts. Programming to handle all types of interrupts in assembly language"
     ],
     "rejected_topics": null,
@@ -41,13 +49,17 @@
   {
     "module": "Module 4",
     "topics": [
+      "Interfacing of 8051",
       "stepper motor",
-      "8255. Introduction to AVR microcontroller: Overview of AVR family",
+      "8255. Introduction to AVR microcontroller",
+      "Overview of AVR family",
       "ATmega32 - Architectural overview",
       "CPU core",
-      "memory organization. Introduction to PIC microcontrollers: Architectural features",
+      "memory organization. Introduction to PIC microcontrollers",
+      "Architectural features",
       "Memory organization",
-      "Core and peripheral features Project based learning: • In the first class",
+      "Core and peripheral features Project based learning",
+      "In the first class",
       "students shall be given an awareness and/ or guidelines on how to implement learn this course through a project and form groups of maximum 5 members in the first week. • Each group identify a project where microcontrollers can be used for simple biomedical applications and perform a literature survey. • Choose a suitable microcontroller/ microcontroller- based development boards for your application and the input-output devices to be interfaced • Develop the block diagram and present before the jury within first month after the commencement of classes • Implement necessary hardware and software to develop the prototype • Prepare a report and present before the jury for final evaluation"
     ],
     "rejected_topics": null,

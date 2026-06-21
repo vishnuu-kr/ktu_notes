@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to neural networks",
       "Single layer perceptrons",
       "Multi Layer Perceptrons (MLPs",
       "Representation Power of MLPs",
@@ -24,6 +25,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Introduction to deep learning",
       "Deep feed forward network",
       "Training deep models",
       "Optimization techniques - Gradient Descent (GD",
@@ -47,6 +49,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Convolutional Neural Networks",
       "Convolution operation",
       "motivation",
       "pooling",
@@ -62,14 +65,17 @@
   {
     "module": "Module 4",
     "topics": [
+      "Recurrent neural networks",
       "Computational graphs",
       "RNN design",
       "encoder - decoder sequence to sequence architectures",
       "deep recurrent networks",
       "recursive neural networks",
-      "modern RNNs LSTM and GRU. Applications: computer vision",
+      "modern RNNs LSTM and GRU. Applications",
+      "computer vision",
       "speech recognition",
-      "Natural Language processing Research Areas: autoencoders",
+      "Natural Language processing Research Areas",
+      "autoencoders",
       "representation learning",
       "boltzmann machines",
       "deep belief networks",

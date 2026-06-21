@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Overview of Internet of Things",
             "Internet of Things",
             "IoT Conceptual framework",
             "IoT Architectural view",
@@ -33,14 +34,17 @@
     {
         "module": "Module 3",
         "topics": [
-            "IoT sensors: Analog & Digital sensors",
+            "IoT Hardware",
+            "IoT sensors",
+            "Analog & Digital sensors",
             "Sensors for measuring Temperature",
             "Humidity",
             "Distance",
             "Light",
             "Sound",
             "PIR motion sensor",
-            "Pressure sensor and Moisture sensor (Working and pin details of all sensors should be learnt) IoT actuators: Servo motors",
+            "Pressure sensor and Moisture sensor (Working and pin details of all sensors should be learnt) IoT actuators",
+            "Servo motors",
             "DC motor",
             "Relay"
         ],
@@ -50,6 +54,9 @@
     {
         "module": "Module 4",
         "topics": [
+            "Data Acquiring",
+            "Organizing",
+            "Processing and Analytics",
             "IoT application layer terminologies",
             "Data acquiring and storage- Data generation",
             "Data acquisition",
@@ -58,7 +65,8 @@
             "Assembly Software for the Events",
             "Data store",
             "Data Centre Management",
-            "Server management. Smart IoT Systems Case study: Smart farming",
+            "Server management. Smart IoT Systems Case study",
+            "Smart farming",
             "Home automation",
             "IoT in health",
             "Automation in industries",

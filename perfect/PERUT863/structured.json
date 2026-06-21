@@ -2,8 +2,13 @@
     {
         "module": "Module 1",
         "topics": [
-            "Theories of intelligence, Kuramoto model, Child",
-            "Robot interaction. Levels of Abstraction in Modelling Cognitive Systems"
+            "Introduction to embodied cognitive science and cognitive robotics",
+            "How cognition works",
+            "Considerations for Modelling Cognitive Systems Cognition and intelligence",
+            "Intelligent architecture",
+            "Theories of intelligence",
+            "Kuramoto model",
+            "Child-Robot interaction. Levels of Abstraction in Modelling Cognitive Systems"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -26,7 +31,8 @@
     {
         "module": "Module 3",
         "topics": [
-            "Necessity for 3D Reconstruction - Building Perception - ImagingGeometry - Global Representation - Transformation to Global Co-ordinate System. Map building: 2D world map",
+            "Necessity for 3D Reconstruction - Building Perception - ImagingGeometry - Global Representation - Transformation to Global Co-ordinate System. Map building",
+            "2D world map",
             "data structure for map building",
             "Explanation of map building",
             "procedure traverse boundary",
@@ -38,6 +44,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Robot Programming Methods",
             "Program for Sensor Reading Display",
             "Program for Avoid-Obstacles Behavior",
             "Program for Wandering Within the Workspace",

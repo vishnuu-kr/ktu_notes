@@ -8,10 +8,10 @@
             "Fourier Cosine and Sine Transform",
             "Linearity",
             "Transforms of Derivatives",
-            "Fourier Transform and Its Inverse"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+            "Fourier Transform and its Inverse",
+            "Linearity",
+            "Transforms of Derivative"
+        ]
     },
     {
         "module": "Module 2",
@@ -27,26 +27,23 @@
             "Finding Harmonic Conjugate",
             "Conformal Mapping",
             "Mappings of w = z²",
-            "w = e^z",
+            "w = eᶻ",
             "w = 1/z",
             "w = sin z"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     },
     {
         "module": "Module 3",
         "topics": [
-            "Line Integrals in the Complex Plane",
+            "Complex Integration",
+            "Line Integrals in the Complex Plane (Definition & Basic Properties)",
             "First Evaluation Method",
             "Second Evaluation Method",
             "Cauchy's Integral Theorem on Simply Connected Domain",
             "Independence of Path",
-            "Cauchy's Integral Theorem on Multiply Connected Domain",
+            "Cauchy Integral Theorem on Multiply Connected Domain",
             "Cauchy Integral Formula"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     },
     {
         "module": "Module 4",
@@ -61,8 +58,6 @@
             "Formulas for Residues",
             "Residue Theorem",
             "Residue Integration - Integral of Rational Functions of cos θ and sin θ"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     }
 ]

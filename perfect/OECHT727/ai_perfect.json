@@ -2,9 +2,11 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to DoE",
             "Strategy of Experimentation",
             "Typical Applications of Experimental Design",
-            "Basic Principles of Experimental Design: Replication",
+            "Basic Principles of Experimental Design",
+            "Replication",
             "Randomization and Blocking",
             "Guidelines for Designing the Experiments",
             "Basic Statistical Concepts: Concept of Random Variable",
@@ -14,7 +16,8 @@
             "Measure of Central Tendency",
             "Measures of Variability",
             "Sampling and Sampling Distribution",
-            "Statistical Distributions: Normal",
+            "Statistical Distributions",
+            "Normal",
             "Log Normal and Weibull Distributions",
             "Hypothesis Testing"
         ],
@@ -24,13 +27,15 @@
     {
         "module": "Module 2",
         "topics": [
-            "Experiments with Single Factor: The Analysis of Variance",
+            "Experiments with Single Factor",
+            "The Analysis of Variance",
             "Analysis of Fixed Effect Model",
             "Model Adequacy Checking",
             "Contrasts",
             "Orthogonal Contrasts",
             "Regression Models and ANOVA",
-            "Violation of Normality Assumption: Kruskal-Wallis Test",
+            "Violation of Normality Assumption",
+            "Kruskal-Wallis Test",
             "Randomized Block Designs",
             "Latin Square Designs",
             "Balanced Incomplete Block Designs"
@@ -41,10 +46,9 @@
     {
         "module": "Module 3",
         "topics": [
-            "Definition, Estimating Model Parameters, Fitting Response Curves and Surfaces",
-            "The 2k Factorial Design",
-            "Blocking and Confounding in the 2k Factorial Design",
-            "Focus of 2² and 2³ Designs"
+            "Factorial Designs: Definition, Estimating Model Parameters, Fitting Response Curves and Surfaces",
+            "The 2k Factorial Design, Blocking and Confounding in the 2k Factorial Design",
+            "Focus of 2² and 2³ Designs, Blocking and Confounding in the 2k Factorial Design"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -58,10 +62,11 @@
             "Confidence Intervals in Multiple Regression",
             "Regression Model Diagnostics",
             "Testing for Lack of Fit",
-            "Response Surface Methodology: Introduction",
+            "Response Surface Methodology",
+            "Introduction",
             "Method of Steepest Ascent",
             "Response Surface Designs for First-Order Models",
-            "Analysis of a Second Order Response Surface",
+            "Analysis of a Second-Order Response Surface",
             "Central Composite Design"
         ],
         "rejected_topics": null,

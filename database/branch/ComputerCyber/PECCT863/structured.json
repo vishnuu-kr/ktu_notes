@@ -2,9 +2,19 @@
   {
     "module": "Module 1",
     "topics": [
+      "Overview of Mobile App and Mobile Interface Mobile Systems Overview",
+      "Mobile Interface and Application Optimizations",
+      "Mobile Embedded System Basics",
+      "Mobile Cloud Computing Concepts",
+      "Big Data Applications in Mobile Systems",
+      "Data Security and Privacy Protection in Mobile Systems",
+      "Introduction to Mobile Apps (Android Focus",
+      "Android Framework Setup",
+      "Key Concepts of Android",
       "App Components",
       "Resources",
-      "Manifest Case Study: Snapchat Data Breach (2014) - Analysing the vulnerabilities in mobile systems that led to privacy violations",
+      "Manifest Case Study",
+      "Snapchat Data Breach (2014) - Analysing the vulnerabilities in mobile systems that led to privacy violations",
       "focusing on how improper data security and privacy protection practices contributed to the breach"
     ],
     "rejected_topics": null,
@@ -13,12 +23,17 @@
   {
     "module": "Module 2",
     "topics": [
+      "2D Graphics and Multimedia in Android Introduction to 2D Graphics Techniques in Android",
+      "Advanced UI Design",
+      "Multimedia in Android",
       "Audio and Video Implementation Mobile Embedded System Architecture Embedded Systems Architecture",
-      "Scheduling Algorithms: FCFS",
+      "Scheduling Algorithms",
+      "FCFS",
       "Multiprocessor",
       "Priority Scheduling",
       "Memory Technology in Mobile Systems",
-      "Messaging and Communication Mechanisms Case Study: Stagefright Vulnerability in Android (2015) - Examination of how multimedia components",
+      "Messaging and Communication Mechanisms Case Study",
+      "Stagefright Vulnerability in Android (2015) - Examination of how multimedia components",
       "particularly Android’s handling of video",
       "opened vulnerabilities for remote code execution attacks"
     ],
@@ -28,11 +43,15 @@
   {
     "module": "Module 3",
     "topics": [
+      "Data storage and SQLite Operations Internal and External Storage in Android",
+      "Secure File Management",
       "Saving",
       "Deleting",
-      "and Querying Space SQLite Database: Table Structure and CRUD Operations",
+      "and Querying Space SQLite Database",
+      "Table Structure and CRUD Operations",
       "Secure SQLite Operations",
-      "Content Provider and Secure Data Access Case Study: Evernote Security Breach (2013) - Focus on how weak data storage security led to breaches in a popular note-taking app",
+      "Content Provider and Secure Data Access Case Study",
+      "Evernote Security Breach (2013) - Focus on how weak data storage security led to breaches in a popular note-taking app",
       "and how secure SQLite operations could have mitigated the attack"
     ],
     "rejected_topics": null,
@@ -41,13 +60,17 @@
   {
     "module": "Module 4",
     "topics": [
+      "Mobile Cloud Computing in Mobile Applications Deployment Mobile Cloud Computing Concepts",
+      "Differences Between Cloud and Mobile Cloud Computing Mobile Computing Architecture",
       "Wireless LAN",
-      "Cellular Networks Techniques for Mobile Cloud: Virtualization",
+      "Cellular Networks Techniques for Mobile Cloud",
+      "Virtualization",
       "Parallel Programming",
       "Distributed Storage",
       "Mobile Cloud Computing Architecture",
       "Security Challenges in Mobile Cloud",
-      "Best Practices for Secure Mobile App Deployment Case Study: iCloud Hack (2014) - Analysis of how mobile cloud security vulnerabilities exposed user data and what strategies could be used to prevent such breaches in mobile cloud environments"
+      "Best Practices for Secure Mobile App Deployment Case Study",
+      "iCloud Hack (2014) - Analysis of how mobile cloud security vulnerabilities exposed user data and what strategies could be used to prevent such breaches in mobile cloud environments"
     ],
     "rejected_topics": null,
     "status": "verified"

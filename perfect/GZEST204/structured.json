@@ -2,9 +2,9 @@
     {
         "module": "Module 1",
         "topics": [
-            "Generation of alternating voltages: - Faradays laws of Electromagnetic induction, Generation of Alternating Voltage, Elementary Generator, Representation of ac voltage and currents, sinusoidal waveforms: frequency, period average, RMS values and form factor of waveform",
-            "Simple numerical problems) DC Circuits: Resistance in Series and Parallel, Ohms Law and Kirchhoff’s laws, Voltage and current divider rule (Simple numerical problems) 11 APJ Abdul Kalam Technological University B.Tech 2024 - S1/S2 AC circuits: Purely resistive, inductive and capacitive circuits",
-            "Inductive and capacitive reactance, concept of impedance. (Simple numerical problems) Three phase AC systems: Representation of three phase voltages",
+            "Generation of alternating voltages, - Faradays laws of Electromagnetic induction, Generation of Alternating Voltage, Elementary Generator, Representation of ac voltage and currents, sinusoidal waveforms, frequency, period average, RMS values and form factor of waveform",
+            "Simple numerical problems) DC Circuits, Resistance in Series and Parallel, Ohms Law and Kirchhoff’s laws, Voltage and current divider rule (Simple numerical problems) 11 APJ Abdul Kalam Technological University B.Tech 2024 - S1/S2 AC circuits, Purely resistive, inductive and capacitive circuits",
+            "Inductive and capacitive reactance, concept of impedance. (Simple numerical problems) Three phase AC systems, Representation of three phase voltages",
             "star and delta connections (balanced only), relation between line and phase voltages, line and phase currents Power in AC circuits - Power factor",
             "active, reactive and apparent power in single phase and three phase system. (Simple numerical problems"
         ],
@@ -14,8 +14,8 @@
     {
         "module": "Module 2",
         "topics": [
-            "Conventional Sources: Hydro, thermal, nuclear plants (Block diagram description) Introduction to non-conventional energy sources: solar, wind, small hydro plants, PV system for domestic application. Transformers. Principle of operation, step-up and step-down transformers AC power supply scheme: Single phase and three phase system, Three phase 3 wire and 4 wire systems, Transmission System, Distribution system: Feeder, distributor, service mains Types of Motors - Principle of Operation: Block diagram showing power stages, losses and efficiency (electrical and mechanical and overall efficiency",
-            "Simple numerical efficiency Introduction to different types of DC and AC motors. Classification and different type of dc and ac motors, common applications: Principle of traction and applications Earthing: need for earthing, Types of earthing",
+            "Generation of electrical energy, Conventional Sources, Hydro, thermal, nuclear plants (Block diagram description) Introduction to non-conventional energy sources, solar, wind, small hydro plants, PV system for domestic application. Transformers. Principle of operation, step-up and step-down transformers AC power supply scheme, Single phase and three phase system, Three phase 3 wire and 4 wire systems, Transmission System, Distribution system, Feeder, distributor, service mains Types of Motors - Principle of Operation, Block diagram showing power stages, losses and efficiency (electrical and mechanical and overall efficiency",
+            "Simple numerical efficiency Introduction to different types of DC and AC motors. Classification and different type of dc and ac motors, common applications, Principle of traction and applications Earthing, need for earthing, Types of earthing",
             "pipe earthing, plate earthing",
             "Principle of operation of MCB, ELCB/RCCB"
         ],
@@ -25,17 +25,25 @@
     {
         "module": "Module 3",
         "topics": [
+            "Introduction to Semiconductor devices",
             "Electronic components- Passive and active components - Resistors",
-            "Capacitors and Inductors (constructional features not required): types",
+            "Capacitors and Inductors (constructional features not required",
+            "types",
             "specifications. Standard values",
-            "colour coding. PN Junction diode: - Principle of operation",
-            "V-I characteristics. Bipolar Junction Transistors: PNP and NPN structures",
-            "Principle of operation 11 APJ Abdul Kalam Technological University B.Tech 2024 - S1/S2 Digital Electronics: -Binary number system",
+            "colour coding. PN Junction diode",
+            "Principle of operation",
+            "V-I characteristics. Bipolar Junction Transistors",
+            "PNP and NPN structures",
+            "Principle of operation 11 APJ Abdul Kalam Technological University B.Tech 2024 - S1/S2 Digital Electronics",
+            "Binary number system",
             "Boolean algebra and Logic Gates",
-            "Universal gates. Basic electronic circuits: - Rectifiers and power supplies: Block diagram description of a dc power supply",
+            "Universal gates. Basic electronic circuits",
+            "Rectifiers and power supplies",
+            "Block diagram description of a dc power supply",
             "working of a full wave bridge rectifier",
             "capacitor filter (no analysis",
-            "working of simple zener voltage regulator. Amplifiers: - Transistor as an amplifier",
+            "working of simple zener voltage regulator. Amplifiers",
+            "Transistor as an amplifier",
             "Block diagram of Public Address system"
         ],
         "rejected_topics": null,
@@ -44,6 +52,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Electronic Instrumentation",
             "Quality of measurements -accuracy",
             "precision",
             "sensitivity and resolution",
@@ -52,7 +61,8 @@
             "temperature - RTD",
             "thermocouple",
             "proximity - capacitive sensor",
-            "ultrasonic sensor and accelerometer. Internet of things (IoT): Introduction",
+            "ultrasonic sensor and accelerometer. Internet of things (IoT",
+            "Introduction",
             "architecture of IoT",
             "Implementation of smart city - street lighting",
             "smart parking"

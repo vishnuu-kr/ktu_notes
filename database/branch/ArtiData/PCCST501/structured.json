@@ -2,11 +2,14 @@
   {
     "module": "Module 1",
     "topics": [
+      "Overview of the Internet",
+      "Protocol layering (Book 1 Ch 1) Application Layer",
       "Application-Layer Paradigms",
       "Client-server applications -World Wide Web and HTTP",
       "FTP. Electronic Mail",
       "DNS. Peer-to-peer paradigm - P2P Networks",
-      "Case study: BitTorrent (Book 1 Ch 2"
+      "Case study",
+      "BitTorrent (Book 1 Ch 2"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -14,20 +17,25 @@
   {
     "module": "Module 2",
     "topics": [
+      "Transport Layer",
       "Services",
       "Protocols",
-      "TCP (Book 1 Ch 3). Hands-on: Sockets Introduction",
+      "TCP (Book 1 Ch 3). Hands-on",
+      "Sockets Introduction",
       "Elementary TCP Sockets",
       "TCP Client/Server Example",
-      "I/O Multiplexing: The select and poll Functions (Book 2 Ch 3 to 6",
+      "I/O Multiplexing",
+      "The select and poll Functions (Book 2 Ch 3 to 6",
       "Elementary UDP Sockets (Book 2 Ch 8",
-      "Advanced I/O Functions (Book 2 Ch 14) Network Layer: Introduction",
+      "Advanced I/O Functions (Book 2 Ch 14) Network Layer",
+      "Introduction",
       "Network-layer protocols",
       "Unicast routing",
       "Multicast routing - Multicasting Basics",
       "Intra domain and inter-domain routing",
       "Next generation IP (Book 1 Ch 4",
-      "Quality of Service (Book 1 Ch 8) Hands-on: Linux Kernel Implementation of Routing Table and Caches",
+      "Quality of Service (Book 1 Ch 8) Hands-on",
+      "Linux Kernel Implementation of Routing Table and Caches",
       "Routing Cache Implementation Overview",
       "Adding new entry in the Routing Table using ip command (Book 3 Ch 14"
     ],
@@ -37,12 +45,14 @@
   {
     "module": "Module 3",
     "topics": [
+      "Data-Link Layer",
       "Data link control (DLC",
       "Multiple access protocols (MAC",
       "Link-layer addressing",
       "Ethernet protocol",
       "Connecting devices (Book 1 Ch 5) Wireless LANs",
-      "Mobile IP (Book 1 Ch 6) Hands-on: Datalink Provider Interface",
+      "Mobile IP (Book 1 Ch 6) Hands-on",
+      "Datalink Provider Interface",
       "SOCK_PACKET and PF_PACKET (Book 2 Ch 29"
     ],
     "rejected_topics": null,
@@ -51,6 +61,8 @@
   {
     "module": "Module 4",
     "topics": [
+      "SNMP",
+      "ASN.1 (Book 1 Ch 9) Physical Layer",
       "Data and signals",
       "Digital transmission",
       "Analog transmission",

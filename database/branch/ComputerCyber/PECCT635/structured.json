@@ -2,7 +2,8 @@
   {
     "module": "Module 1",
     "topics": [
-      "Biometric fundamentals - Biometric technologies - Biometrics Vs traditional techniques - Characteristics of a good biometric system - Benefits of biometrics - Key biometric processes: verification",
+      "Biometric fundamentals - Biometric technologies - Biometrics Vs traditional techniques - Characteristics of a good biometric system - Benefits of biometrics - Key biometric processes",
+      "verification",
       "identification and biometric matching - Performance measures in biometric systems",
       "FTE rate",
       "EER and ATV rate",
@@ -16,13 +17,15 @@
   {
     "module": "Module 2",
     "topics": [
+      "Fingerprint recognition",
       "Friction ridge patterns",
       "Acquisition",
       "Feature extraction",
       "matching",
       "indexing",
       "synthesis",
-      "palm print. Face recognition: Introduction",
+      "palm print. Face recognition",
+      "Introduction",
       "image acquisition",
       "face detection. Feature extraction of face recognition",
       "matching",
@@ -50,7 +53,8 @@
   {
     "module": "Module 4",
     "topics": [
-      "Security of bio-metric systems: adversary attacks",
+      "Security of bio-metric systems",
+      "adversary attacks",
       "attacks on user interface",
       "attacks on bio-metric processing",
       "database attacks. Biometric standards",

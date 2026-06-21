@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Digital Image Fundamentals",
       "Image representation",
       "Types of images",
       "Elements of DIP system",
@@ -20,11 +21,13 @@
   {
     "module": "Module 2",
     "topics": [
+      "2D Image transforms",
       "Properties",
       "Walsh transform",
       "Hadamard transform",
       "Haar transform",
-      "KL transform and Singular Value Decomposition. Image Compression: Image compression model",
+      "KL transform and Singular Value Decomposition. Image Compression",
+      "Image compression model",
       "Lossy",
       "lossless compression",
       "Concept of transform coding",
@@ -36,12 +39,15 @@
   {
     "module": "Module 3",
     "topics": [
-      "Spatial domain methods: Basic Gray Level Transformations",
+      "Image Enhancement",
+      "Spatial domain methods",
+      "Basic Gray Level Transformations",
       "Histogram Processing",
       "Enhancement Using Arithmetic/Logic Operations",
       "Basics of Spatial Filtering",
       "Smoothing spatial Filters",
-      "Sharpening spatial Filters. Frequency domain methods: low pass filtering",
+      "Sharpening spatial Filters. Frequency domain methods",
+      "low pass filtering",
       "high pass filtering",
       "homomorphic filtering"
     ],
@@ -51,9 +57,11 @@
   {
     "module": "Module 4",
     "topics": [
+      "Image Restoration",
       "Degradation model",
       "Inverse filtering- removal of blur caused by uniform linear motion",
-      "Minimum Mean Square Error (Wiener) Filtering. Image segmentation: Region based approach",
+      "Minimum Mean Square Error (Wiener) Filtering. Image segmentation",
+      "Region based approach",
       "clustering",
       "Segmentation based on thresholding",
       "edge based segmentation",

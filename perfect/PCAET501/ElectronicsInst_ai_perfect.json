@@ -2,44 +2,59 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction to Control Systems",
+            "System Modelling and Introduction to Control Systems",
             "Classification of Control Systems: Open Loop and Closed Loop Control Systems",
             "Transfer Function",
             "Poles and Zeros - Mathematical Modelling of Electrical, Mechanical and Electromechanical Systems",
             "Block Diagram Reduction Techniques",
             "Signal Flow Graph",
             "Mason's Gain Formula"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
-            "Standard Test Signals and Response of First and Second Order Systems to Impulse and Step Inputs",
-            "Time Domain Specifications: Delay Time, Rise Time, Peak Time, Maximum Percentage Overshoot, and Settling Time",
-            "Steady State Response: Steady State Error - Static and Dynamic Error Coefficients",
-            "Concept of Stability: Routh-Hurwitz Method for Stability Analysis"
-        ]
+            "Time Domain Analysis",
+            "Standard Test Signals - Response of First and Second Order Systems to Impulse and Step Inputs. Time Domain Specifications",
+            "Delay Time",
+            "Rise Time",
+            "Peak Time",
+            "Maximum Percentage Overshoot, Settling Time, and Steady State Response",
+            "Steady State Error - Static and Dynamic Error Coefficients. Concept of Stability",
+            "Routh-Hurwitz Method for Stability Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
-            "Root Locus: Construction of Root Locus and Effect of Addition of Poles and Zeros",
-            "Frequency Domain Analysis: Frequency Response",
+            "Stability Analysis in Time Domain",
+            "Root Locus",
+            "Construction of Root Locus - Effect of Addition of Poles and Zeros. Frequency Domain Analysis",
+            "Frequency Response",
             "Frequency Domain Specifications",
             "Stability in the Frequency Domain",
             "Nyquist Stability Criterion",
             "Stability Analysis Using Polar and Bode Plots",
             "Relative Stability",
             "Gain Margin and Phase Margin"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
-            "State Space Representation of Continuous Time Systems and Transfer Function from State Variable Representation",
+            "State Variable Analysis",
+            "State Space Representation of Continuous Time Systems. Transfer Function from State Variable Representation",
             "Solution of State Equations",
             "State Transition Matrix",
             "Controllability and Observability - Kalman's Test"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

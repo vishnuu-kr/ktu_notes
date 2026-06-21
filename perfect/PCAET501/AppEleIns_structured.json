@@ -18,8 +18,12 @@
     {
         "module": "Module 2",
         "topics": [
-            "Routh",
-            "Hurwitz method for stability analysis"
+            "Time domain analysis - Standard test signals",
+            "Response of first and second order systems to impulse and step inputs. Time domain specifications - Delay time",
+            "rise time",
+            "peak time",
+            "maximum percentage overshoot and settling time. Steady state response - Steady state error- Static & Dynamic error coefficients. Concept of stability",
+            "Routh-Hurwitz method for stability analysis"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -42,6 +46,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "State variable analysis",
             "State space representation of Continuous Time systems. Transfer function from State Variable Representation",
             "Solution of state equations",
             "state transition matrix",

@@ -2,13 +2,13 @@
   {
     "module": "Module 1",
     "topics": [
-      "Basics of Digital Electronics",
+      "Number system and codes, Basics of Digital Electronics",
       "Binary, octal, hexadecimal number system -Representations, base conversions and arithmetic",
       "Signed representation of binary numbers-fixed and floating point",
       "1’s and 2’s complement of binary numbers and their arithmetic. BCD number system- conversion of BCD to binary and Binary to BCD",
       "Gray codes",
       "Excess 3 codes",
-      "Basics of Verilog-basic language elements: identifiers, data objects, scalar data types, operators"
+      "Basics of Verilog-basic language elements, identifiers, data objects, scalar data types, operators"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -30,7 +30,7 @@
   {
     "module": "Module 3",
     "topics": [
-      "Difference between combinational and sequential circuits",
+      "Combinational circuits, Difference between combinational and sequential circuits",
       "Half adder/subtractor, Full adder/subtractor",
       "Multiplexer (using logic gates)-4:1,8:116:1",
       "De-Multiplexer (using logic gates)--1:4,1:8,1:16",
@@ -45,7 +45,7 @@
   {
     "module": "Module 4",
     "topics": [
-      "Introduction to latch, Flip Flops, FSM",
+      "Sequential circuits designs, Introduction to latch, Flip Flops, FSM",
       "concept of Edge triggering and level triggering in FF",
       "SR FF, JK FF, MS-JK FF, D FF, T FF-Truth table, Excitation table and characteristics equation",
       "Counter designs-Asynchronous counter",

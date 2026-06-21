@@ -4,7 +4,8 @@
     "topics": [
       "Basic Structure of computers - functional units - basic operational concepts - bus structures. Memory locations and addresses - memory operations",
       "Instructions and instruction sequencing",
-      "addressing modes. Basic processing unit - fundamental concepts - instruction cycle - execution of a complete instruction - single bus and multiple bus organization Register transfer logic: inter register transfer - arithmetic",
+      "addressing modes. Basic processing unit - fundamental concepts - instruction cycle - execution of a complete instruction - single bus and multiple bus organization Register transfer logic",
+      "inter register transfer - arithmetic",
       "logic and shift micro operations"
     ],
     "rejected_topics": null,
@@ -14,15 +15,9 @@
     "module": "Module 2",
     "topics": [
       "Processor Logic Design",
-      "processor organization",
-      "Arithmetic logic unit",
-      "design of arithmetic circuit",
-      "design of logic circuit",
-      "Design of arithmetic logic unit",
-      "status register",
-      "design of shifter",
-      "processor unit",
-      "design of accumulator. Arithmetic Algorithms: Algorithms for multiplication and division (restoring method) of binary numbers. Array multiplier, Booth’s multiplication algorithm"
+      "processor organization - Arithmetic logic unit - design of arithmetic circuit - design of logic circuit - Design of arithmetic logic unit - status register - design of shifter - processor unit - design of accumulator. Arithmetic Algorithms",
+      "Algorithms for multiplication and division (restoring method) of binary numbers. Array multiplier",
+      "Booth’s multiplication algorithm"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -30,11 +25,14 @@
   {
     "module": "Module 3",
     "topics": [
+      "Pipelining",
       "Basic principles",
       "classification of pipeline processors",
       "instruction and arithmetic pipelines (Design examples not required",
-      "hazard detection and resolution I/O Organization: accessing of I/O devices - interrupts",
-      "interrupt hardware -Direct memory access. Control Logic Design: Control organization - Hardwired control-micro program control - control of processor unit - Micro program sequencer",
+      "hazard detection and resolution I/O Organization",
+      "accessing of I/O devices - interrupts",
+      "interrupt hardware -Direct memory access. Control Logic Design",
+      "Control organization - Hardwired control-micro program control - control of processor unit - Micro program sequencer",
       "micro programmed CPU organization - horizontal and vertical micro instructions"
     ],
     "rejected_topics": null,
@@ -43,10 +41,10 @@
   {
     "module": "Module 4",
     "topics": [
-      "Memory System: basic concepts",
+      "Memory System, basic concepts",
       "semiconductor RAMs. memory system considerations",
       "ROMs, Content addressable memory, cache memories",
-      "mapping functions. Hardware Software Design and Embedded Product Development: Hardware software co design, modeling of systems, embedded product development life cycle management, life cycle models, Product design, design process , testing. Suggestions on Project Topics 1. Ripple Carry Adder 2. Carry Look Ahead Adder 3. Wallace Tree Adder 4. Synthesis of Flipflops 5. Register and Counters 6. Combinational Multipliiers 7. Booths Multiplier 8. ALU 9. Memory Design 10. Associative Cache Design 11. Direct Memory MappedDesign"
+      "mapping functions. Hardware Software Design and Embedded Product Development, Hardware software co design, modeling of systems, embedded product development life cycle management, life cycle models, Product design, design process , testing. Suggestions on Project Topics 1. Ripple Carry Adder 2. Carry Look Ahead Adder 3. Wallace Tree Adder 4. Synthesis of Flipflops 5. Register and Counters 6. Combinational Multipliiers 7. Booths Multiplier 8. ALU 9. Memory Design 10. Associative Cache Design 11. Direct Memory MappedDesign"
     ],
     "rejected_topics": null,
     "status": "verified"

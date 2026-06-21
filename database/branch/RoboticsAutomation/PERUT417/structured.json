@@ -2,10 +2,12 @@
   {
     "module": "Module 1",
     "topics": [
+      "Circuit theorems",
       "DC and AC circuit analysis with dependent and independent sources applying Superposition principle",
       "Source transformation",
       "Thevenin’s",
-      "Norton’s and Maximum Power Transfer theorems - Reciprocity theorem. Two port networks: Driving point and transfer functions - Z",
+      "Norton’s and Maximum Power Transfer theorems - Reciprocity theorem. Two port networks",
+      "Driving point and transfer functions - Z",
       "h and T parameters - Conditions for symmetry & reciprocity"
     ],
     "rejected_topics": null,
@@ -14,13 +16,11 @@
   {
     "module": "Module 2",
     "topics": [
-      "Introduction",
-      "series resonance",
-      "parallel resonance",
-      "Definition: Q Factor- Half power frequency resonant frequency",
-      "Bandwidth. Transformed circuits in s-domain: Transform impedance/admittance of R, L and C",
-      "Mesh analysis and node analysis of transformed circuits in s-domain. Transfer Function representation",
-      "Poles and zeros"
+      "Resonance",
+      "Introduction - series resonance - parallel resonance - Definition",
+      "Q Factor- Half power frequency resonant frequency - Bandwidth. Transformed circuits in s-domain",
+      "Transform impedance/admittance of R",
+      "L and C - Mesh analysis and node analysis of transformed circuits in s-domain. Transfer Function representation - Poles and zeros"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -28,13 +28,15 @@
   {
     "module": "Module 3",
     "topics": [
+      "Transformers",
       "Operating principle",
       "classification",
       "construction",
       "emf equation",
       "phasor diagrams",
       "equivalent circuit model",
-      "losses & efficiency. D.C. Machines: Operating principle",
+      "losses & efficiency. D.C. Machines",
+      "Operating principle",
       "generator & motor action",
       "construction",
       "types of excitations",
@@ -48,6 +50,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Induction Machines",
       "Three-phase induction motors. Principle of operation",
       "construction",
       "types",
@@ -58,7 +61,8 @@
       "Single phase induction motors",
       "Types of Single-Phase Induction motor",
       "starting",
-      "application Synchronous Machines: Construction",
+      "application Synchronous Machines",
+      "Construction",
       "types & operating principle of synchronous generator",
       "voltage regulation-EMF method",
       "Power Angle characteristics",

@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Modeling approaches in physiological systems",
       "Physiological complexity and need for models",
       "Feedback and control in physiological systems. Modeling process-steps",
       "Different approaches in system modeling-parametric and nonparametric modeling",
@@ -14,8 +15,12 @@
   {
     "module": "Module 2",
     "topics": [
-      "Basic Cardiac Anatomy and Electro cardiology Conduction System: The Electrocardiogram (ECG) Cardiac Action Potential Models, Biophysical models Noble",
-      "Noble models, reduced cell models. Mathematical models of Cardiac Cells Arrangements: The Bidomain and monodomain models"
+      "Mathematical analysis of cardiac physiology",
+      "Basic Cardiac Anatomy and Electro cardiology Conduction System",
+      "The Electrocardiogram (ECG) Cardiac Action Potential Models",
+      "Biophysical models Noble-Noble models",
+      "reduced cell models. Mathematical models of Cardiac Cells Arrangements",
+      "The Bidomain and monodomain models"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -23,6 +28,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Mathematical models of computational neuroscience",
       "Electrophysiology of neurons",
       "Ionic currents and conductance",
       "Equivalent circuit representation of a patch of cell membrane",
@@ -38,6 +44,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Dynamical systems in physiology",
       "Dynamical system analysis- Types of fixed points",
       "Phase plane analysis - nullclines - Hopf bifurcation and limit cycles. van der Pol oscillator",
       "Fitzhugh Nagumo model Phase-plane analysis",

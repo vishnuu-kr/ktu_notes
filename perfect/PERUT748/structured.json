@@ -2,9 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
-            "Overview of Database Management Systems - Characteristics of database approach vs file system approach - Advantages & Applications - Three Schema Architecture - Three tier Architecture. Entity Relationship model: Entity Types and Sets - Attributes and types",
+            "Basics",
+            "Overview of Database Management Systems - Characteristics of database approach vs file system approach - Advantages & Applications - Three Schema Architecture - Three tier Architecture. Entity Relationship model",
+            "Entity Types and Sets - Attributes and types",
             "Keys - Relationships and types - Cardinality",
-            "Participation - Structural Constraints - Conventional and min-max Notations - Drawing and interpreting ER diagrams. Relational Model Concepts: Structure of Relational Databases - Domains",
+            "Participation - Structural Constraints - Conventional and min-max Notations - Drawing and interpreting ER diagrams. Relational Model Concepts",
+            "Structure of Relational Databases - Domains",
             "Attributes",
             "Tuples",
             "Relations - Types of Keys -Integrity Constraints -Synthesizing ER diagram to Relational Schema - Examples"
@@ -15,17 +18,21 @@
     {
         "module": "Module 2",
         "topics": [
+            "Introduction to Relational Algebra",
             "Select",
             "Project",
             "Rename",
             "Union",
             "Intersection",
             "Difference",
-            "Division - Cartesian product - Join and its types - Relational algebra query examples. Structured Query Language (SQL): Data Types - Data Definition Language (DDL): Create",
+            "Division - Cartesian product - Join and its types - Relational algebra query examples. Structured Query Language (SQL",
+            "Data Types - Data Definition Language (DDL",
+            "Create",
             "Alter",
             "Drop",
             "Truncate",
-            "rename - Data Manipulation Language (DML): Select",
+            "rename - Data Manipulation Language (DML",
+            "Select",
             "Insert",
             "Update",
             "Delete - Nested queries (correlated and non-correlated) - Aggregation and Grouping - Views - Example SQL queries on single and multiple tables - Query Practise"
@@ -36,24 +43,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "DB Design Anomalies",
-            "Functional Dependencies -Armstrong’s Axioms",
-            "Closures",
-            "Equivalence of FDs, Minimal Cover -First Normal Form (1NF",
-            "Second Normal Form (2NF",
-            "Third Normal Form (3NF",
-            "Boyce Codd Normal Form (BCNF",
-            "Lossless Join Decomposition",
-            "Dependency Preserving Decomposition. Physical Data Organization: Physical and Logical records",
-            "Blocking Factor",
-            "Pinned and unpinned organization",
-            "Heap files",
-            "Sorted files",
-            "Indexing",
-            "Single-Level Ordered Indexes",
-            "Multilevel Indexes",
-            "Dynamic indexing",
-            "B Trees & B+ Trees"
+            "Normalization",
+            "DB Design Anomalies - Functional Dependencies -Armstrong’s Axioms - Closures - Equivalence of FDs",
+            "Minimal Cover -First Normal Form (1NF) - Second Normal Form (2NF) - Third Normal Form (3NF) - Boyce Codd Normal Form (BCNF) - Lossless Join Decomposition - Dependency Preserving Decomposition. Physical Data Organization",
+            "Physical and Logical records - Blocking Factor - Pinned and unpinned organization - Heap files - Sorted files - Indexing - Single-Level Ordered Indexes - Multilevel Indexes - Dynamic indexing - B Trees & B+ Trees"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -61,7 +54,7 @@
     {
         "module": "Module 4",
         "topics": [
-            "Transaction States and Operations",
+            "Transaction Processing Concepts, Transaction States and Operations",
             "ACID Properties",
             "Serial Schedules",
             "Concurrent and Serializable Schedules",

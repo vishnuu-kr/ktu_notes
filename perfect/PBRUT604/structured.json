@@ -2,8 +2,8 @@
     {
         "module": "Module 1",
         "topics": [
-            "Definition and significance of soft computing",
-            "Differences between hard and soft computing, Introduction to Fuzzy Logic: Fuzzy Sets and Membership Functions, Fuzzy Rules and Inference Systems. Introduction to genetic algorithms-Working Principle, Operators: Selection, crossover, and mutation. Introduction to neural networks, Learning rules and various activation functions, Single layer Perceptrons multilayer perceptrons, Backpropagation algorithm, Architecture"
+            "Fundamentals of Soft Computing , Definition and significance of soft computing",
+            "Differences between hard and soft computing, Introduction to Fuzzy Logic, Fuzzy Sets and Membership Functions, Fuzzy Rules and Inference Systems. Introduction to genetic algorithms-Working Principle, Operators, Selection, crossover, and mutation. Introduction to neural networks, Learning rules and various activation functions, Single layer Perceptrons multilayer perceptrons, Backpropagation algorithm, Architecture"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -11,7 +11,11 @@
     {
         "module": "Module 2",
         "topics": [
-            "Open-source libraries (TensorFlow, Keras) (simple programs only"
+            "Hybrid systems for Computer vision- Neuro-fuzzy systems",
+            "Genetic fuzzy system (Concept only). Introduction to Machine Learning in Robotics-Supervised and unsupervised-learning",
+            "Reinforcement learning (Concept only). Basics of Soft Computing Tools and Platforms",
+            "Open-source libraries (TensorFlow",
+            "Keras) (simple programs only"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -19,9 +23,12 @@
     {
         "module": "Module 3",
         "topics": [
-            "Industrial Machine Vision Basic concepts of image formation: Radiometry and geometric transformations. Geometric Camera Models",
-            "Pinhole camera model,Perspective projection and camera parameters. Techniques for 3D reconstruction. Spatial domain and Frequency domain methods for image enhancement. Image Segmentation: Thresholding., Region",
-            "based segmentation"
+            "Introduction to Computer Vision",
+            "Industrial Machine Vision Basic concepts of image formation",
+            "Radiometry and geometric transformations. Geometric Camera Models-Pinhole camera model",
+            "Perspective projection and camera parameters. Techniques for 3D reconstruction. Spatial domain and Frequency domain methods for image enhancement. Image Segmentation",
+            "Thresholding",
+            "Region-based segmentation"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -29,9 +36,9 @@
     {
         "module": "Module 4",
         "topics": [
-            "K-Means, Mixture of Gaussians, Classification: Discriminant Function, Supervised, Un-supervised, Semi-supervised",
-            "Classifiers: Bayes, KNN, ANN models",
-            "Dimensionality Reduction: PCA, LDA, ICA Vision algorithms: Vision algorithms for identifying end wires- binary vision algorithm, grey-scale vision algorithm, active ranging using structured light technique in industrial vision"
+            "Pattern Analysis Clustering, K-Means, Mixture of Gaussians, Classification, Discriminant Function, Supervised, Un-supervised, Semi-supervised",
+            "Classifiers, Bayes, KNN, ANN models",
+            "Dimensionality Reduction, PCA, LDA, ICA Vision algorithms, Vision algorithms for identifying end wires- binary vision algorithm, grey-scale vision algorithm, active ranging using structured light technique in industrial vision"
         ],
         "rejected_topics": null,
         "status": "verified"

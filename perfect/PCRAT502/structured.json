@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Convolutional Neural Network (CNN",
             "Convolutional operation",
             "filters",
             "padding",
@@ -28,6 +29,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Sequential Neural Network",
             "Recurrent Neural Networks",
             "Long Short-Term Memory (LSTM) Networks",
             "Gated Recurrent Units (GRUs",
@@ -41,6 +43,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Robot Control with AI",
             "Proportional-Integral-Derivative (PID) control",
             "Tuning PID gains for optimal performance",
             "model predictive control",
@@ -52,13 +55,15 @@
     {
         "module": "Module 4",
         "topics": [
+            "Simultaneous Localization and Mapping (SLAM",
             "Introduction to SLAM",
             "Sensor Modalities for SLAM",
             "Probabilistic Framework for SLAM",
             "SLAM Algorithms - Kalman Filter",
             "Extended Kalman Filter (EKF",
             "Particle Filter",
-            "Mapping algorithms: Occupancy grids",
+            "Mapping algorithms",
+            "Occupancy grids",
             "landmark-based maps",
             "SLAM for dynamic environments",
             "Loop closure detection"

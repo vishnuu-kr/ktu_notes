@@ -2,6 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Basics of Measurement - Generalized Block Diagram of Instrumentation System",
+            "Standards",
+            "Calibration of Meters",
+            "Static and Dynamic Characteristics of Transducers",
+            "Errors in Measurements and its Analysis. Measurement of Resistance",
+            "Capacitance and Inductance",
             "DC and AC Bridges",
             "Sources and Detectors - Balance Equation",
             "Wheatstone Bridge",
@@ -13,14 +19,17 @@
     {
         "module": "Module 2",
         "topics": [
+            "Transducers - Classification of Transducers",
+            "Factors Influencing Choice of Transducer. Passive Transducers",
             "Principle of Operation",
             "Construction Details",
             "Characteristics",
-            "Types and Applications of Resistance Transducers: Potentiometer",
+            "Types and Applications of Resistance Transducers",
+            "Potentiometer",
             "Strain Gauge",
-            "Thermistor",
-            "Inductive Transducer: LVDT",
-            "Capacitive Transducers: Variable Air Gap, Variable Area, Variable Permittivity"
+            "Thermistor. Inductive Transducer",
+            "LVDT. Capacitive Transducers",
+            "Variable Air Gap - Variable Area - Variable Permittivity"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -28,10 +37,18 @@
     {
         "module": "Module 3",
         "topics": [
+            "Active Transducers - Principle of Operation",
+            "Construction Details",
+            "Characteristics",
+            "Types and Applications of Thermocouple",
+            "Piezoelectric Transducer",
+            "Hall Effect Transducer",
+            "Photovoltaic Cell. Opto-Electric Transducers - Photodiode",
+            "Phototransistor",
+            "LDR Accelerometers",
             "Piezoelectric",
             "Potentiometric",
-            "LVDT Accelerometer",
-            "Non-Contact Type Transducers: Infrared, Ultrasonic Proximity Sensors",
+            "LVDT Accelerometer. Non-Contact Type Transducers - Infrared-Ultrasonic Proximity Sensors",
             "Optical Level Sensor - Ultrasonic Level Sensor",
             "Radiation Pyrometer"
         ],
@@ -45,8 +62,7 @@
             "Display",
             "Analysing and Recording Instruments - Working and Torque Equations of PMMC",
             "PMMI",
-            "Electrodynamometer",
-            "Digital Storage Oscilloscope",
+            "Electrodynamometer. Digital Storage Oscilloscope",
             "LCD Displays",
             "Spectrum Analyzer",
             "Peak Response Voltmeter",

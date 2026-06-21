@@ -2,12 +2,15 @@
     {
         "module": "Module 1",
         "topics": [
+            "Process Control Loops",
             "Feedback control",
             "feed forward control",
             "Cascade control",
             "Ratio control",
-            "Split range control. Computerized control: Basic building blocks of Computer controlled systems",
-            "advantages. Programmable Logic Controller: Definition of PLC Architecture of PLC",
+            "Split range control. Computerized control",
+            "Basic building blocks of Computer controlled systems",
+            "advantages. Programmable Logic Controller",
+            "Definition of PLC Architecture of PLC",
             "Input and output modules",
             "Types of inputs and outputs",
             "analog and discrete I/O modules",
@@ -29,11 +32,15 @@
     {
         "module": "Module 2",
         "topics": [
-            "Direct digital control: block diagram",
+            "Direct digital control",
+            "block diagram",
             "multiplexers",
             "demultiplexers",
-            "Data Acquisitions systems. SCADA: SCADA Fundamentals: Introduction",
-            "Open system: Need and advantages",
+            "Data Acquisitions systems. SCADA",
+            "SCADA Fundamentals",
+            "Introduction",
+            "Open system",
+            "Need and advantages",
             "Building blocks of SCADA systems",
             "Remote terminal unit (RTU",
             "Human-Machine Interface (HMI) subsystem"
@@ -44,6 +51,8 @@
     {
         "module": "Module 3",
         "topics": [
+            "SCADA communication systems",
+            "Master Station",
             "Master station software components",
             "Master station hardware components",
             "Server systems in the master station",
@@ -51,7 +60,8 @@
             "medium",
             "and large master stations",
             "Global positioning systems (GPS",
-            "software architecture of SCADA Distributed Control System : DCS - Architectures",
+            "software architecture of SCADA Distributed Control System",
+            "DCS - Architectures",
             "Comparison",
             "Local control unit",
             "Process interfacing issues",

@@ -2,42 +2,61 @@
     {
         "module": "Module 1",
         "topics": [
-            "Need and role of energy storage systems in power system",
-            "General considerations",
-            "Energy and power balance in a storage unit",
-            "Mathematical model of storage system: modelling of power transformation system (PTS) - Central store (CS) and charge - discharge control system (CDCS)",
-            "Econometric model of storage system. Thermal energy: General considerations - Storage media - Containment - Thermal energy storage in a power plant",
-            "Potential energy: Pumped hydro - Compressed Air"
-        ]
+            "Need and Role of Energy Storage Systems in Power System",
+            "General Considerations",
+            "Energy and Power Balance in a Storage Unit",
+            "Mathematical Model of Storage System",
+            "Modelling of Power Transformation System (PTS) - Central Store (CS) and Charge-Discharge Control System (CDCS)",
+            "Econometric Model of Storage System",
+            "Thermal Energy: General Considerations - Storage Media - Containment - Thermal Energy Storage in a Power Plant",
+            "Potential Energy",
+            "Pumped Hydro - Compressed Air"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
+            "Kinetic Energy",
             "Mechanical - Flywheel",
-            "Power to Gas: Hydrogen - Synthetic methane. Electrochemical energy: Batteries - Battery parameters: C-rating - SoC - DoD - Specific Energy - Specific power (numerical examples)",
-            "Fuel cells",
-            "Electrostatic energy (Super Capacitors)",
-            "Electromagnetic energy (Superconducting Magnetic Energy Storage)",
-            "Comparative analysis",
-            "Environmental impacts of different technologies"
-        ]
+            "Power to Gas",
+            "Hydrogen - Synthetic Methane - Electrochemical Energy",
+            "Batteries - Battery Parameters",
+            "C-rating - SoC - DoD - Specific Energy - Specific Power (Numerical Examples)",
+            "Fuel Cells",
+            "Electrostatic Energy (Supercapacitors)",
+            "Electromagnetic Energy (Superconducting Magnetic Energy Storage)",
+            "Comparative Analysis",
+            "Environmental Impacts of Different Technologies"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
-            "Wave",
-            "Wind",
-            "Tidal",
-            "Hydroelectric - Solar thermal technologies and Photovoltaics, Storage role in isolated power systems with renewable power sources, Storage role in an integrated power system with grid-connected renewable power sources"
-        ]
+            "Types of Renewable Energy Sources",
+            "Wave - Wind - Tidal - Hydroelectric - Solar Thermal Technologies and Photovoltaics",
+            "Storage Role in Isolated Power Systems with Renewable Power Sources",
+            "Storage Role in an Integrated Power System with Grid-Connected Renewable Power Sources"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
-            "Electric vehicles - Grid to Vehicle (G2V) - Vehicle to Grid (V2G)",
-            "Management and control hierarchy of storage systems. Aggregating energy storage systems and distributed generation (Virtual Power Plant Energy Management with storage systems)",
+            "Smart Grid",
+            "Smart Micro Grid",
+            "Smart House",
+            "Mobile Storage System",
+            "Electric Vehicles - Grid to Vehicle (G2V) - Vehicle to Grid (V2G)",
+            "Management and Control Hierarchy of Storage Systems - Aggregating Energy Storage Systems and Distributed Generation (Virtual Power Plant) - Energy Management with Storage Systems",
             "Battery SCADA",
-            "Hybrid energy storage systems: configurations and applications"
-        ]
+            "Hybrid Energy Storage Systems - Configurations and Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

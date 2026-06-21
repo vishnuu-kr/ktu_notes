@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Artificial Intelligence (AI) and Python",
             "Overview of AI and Agents: Definition and History of AI",
             "Narrow AI vs. General AI",
             "AI Applications",
@@ -11,34 +12,43 @@
             "Python for AI: Python Basic Data Structures",
             "Setting Up Python Environment",
             "Key Libraries and Tools: NumPy, Pandas, Matplotlib"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
+            "AI Problems",
             "Definition and Formulation of AI Problems",
             "State Space Representation, Actions, and Goals",
-            "Problem Characteristics: Problem Decomposability, Solution Steps Consideration, Problem Solution Predictability, Absolute or Relative Problem Solution, State or Path Solution, Role of Knowledge in Problem Solving",
-            "Human Interaction in Problem Solving",
-            "Problem Definition and Python Implementation of Water Jug Problem",
-            "8-Puzzle Problem and Missionaries and Cannibals Problem"
-        ]
+            "Problem Characteristics: Problem Decomposability, Solution Steps Consideration, Problem Solution Predictability, Absolute or Relative Problem Solution, State or Path Solution, Role of Knowledge in Problem Solving, Human Interaction in Problem Solving",
+            "Problem Definition and Python Implementation of Water Jug Problem, 8-Puzzle Problem, and Missionaries and Cannibals Problem"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
-            "Uninformed Search Algorithm: Breadth First Search and Depth First Search Algorithms Description and Implementation Using Python",
-            "Informed Search Algorithms: Hill Climbing, A* Search Algorithm, and AO* Search Algorithm Description and Implementation Using Python",
+            "AI Search Algorithms",
+            "Uninformed Search Algorithm: Breadth First Search and Depth First Search Algorithms Description and Implementation using Python",
+            "Informed Search Algorithms: Hill Climbing, A* Search Algorithm, and AO* Search Algorithm Description and Implementation using Python",
             "Comparison of Informed and Uninformed Search Algorithms"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
+            "Game Playing and Constraint Satisfaction Problem (CSP)",
             "Minimax Algorithm and Alpha-Beta Pruning",
             "Game Playing Implementation: Tic-Tac-Toe with Minimax and Alpha-Beta Pruning",
             "Introduction to CSP: Definitions and Basic Concepts",
             "Techniques for CSP: Backtracking and Constraint Propagation"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

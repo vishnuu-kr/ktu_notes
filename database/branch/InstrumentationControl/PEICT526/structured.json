@@ -2,7 +2,8 @@
   {
     "module": "Module 1",
     "topics": [
-      "Overview of CMOS device fundamentals . The CMOS inverter: - Voltage Transfer Characteristics",
+      "Overview of CMOS device fundamentals . The CMOS inverter",
+      "Voltage Transfer Characteristics",
       "SPICE Description",
       "Static Behavior - Switching Threshold - Noise Margins",
       "Dynamic behavior - Device Capacitances -Propagation Delay - Power Consumption"
@@ -13,7 +14,8 @@
   {
     "module": "Module 2",
     "topics": [
-      "CMOS fabrication Processes: -N-Tub",
+      "CMOS fabrication Processes",
+      "N-Tub",
       "P-Tub and Twin Tub. MOS Circuit Layout - Stick diagrams",
       "Layout design rules",
       "Transistor layout - PMOS and NMOS",
@@ -43,9 +45,11 @@
   {
     "module": "Module 4",
     "topics": [
-      "Sequential Logic Circuits: -Timing Metrics for sequential circuits",
+      "Sequential Logic Circuits",
+      "Timing Metrics for sequential circuits",
       "Static Latches and Registers",
-      "Dynamic Latches and Registers. Datapath Subsystems: - Adder - Ripple carry Adder - Full adder - Carry chain Adder - Carry-Bypass Adder - Carry Select Adder - Carry Look Ahead Adder",
+      "Dynamic Latches and Registers. Datapath Subsystems",
+      "Adder - Ripple carry Adder - Full adder - Carry chain Adder - Carry-Bypass Adder - Carry Select Adder - Carry Look Ahead Adder",
       "Multiplier - Array Multiplier - Carry Save Multiplier",
       "Shifter - Barrel Shifter - Logarithmic Shifter"
     ],

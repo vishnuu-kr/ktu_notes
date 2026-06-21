@@ -13,7 +13,10 @@
   {
     "module": "Module 2",
     "topics": [
-      "Hazards, Solving Data/Control Hazards, Performance Analysis"
+      "Microarchitecture - Introduction",
+      "Performance analysis",
+      "Single-Cycle Processor - Single Cycle Datapath, Single Cycle Control",
+      "Pipelined Processor - Pipelined Data Path, Pipelined Control, Hazards, Solving Data/Control Hazards, Performance Analysis"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -21,7 +24,7 @@
   {
     "module": "Module 3",
     "topics": [
-      "Introduction",
+      "Memory Systems, Introduction",
       "performance analysis",
       "Caches - basic concepts, Cache mapping, Cache replacement, Multiple-Level Caches, Reducing Miss Rate, Write Policy",
       "Virtual Memory - Address Translation",

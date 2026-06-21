@@ -2,10 +2,12 @@
   {
     "module": "Module 1",
     "topics": [
-      "Introduction to Robotics and Automation: -laws of robot",
+      "Introduction to Robotics and Automation",
+      "laws of robot",
       "brief history of robotics",
       "robotic system components",
-      "safety measures in robotics Types of robots: Manipulator",
+      "safety measures in robotics Types of robots",
+      "Manipulator",
       "Legged robot",
       "wheeled robot",
       "aerial robots",
@@ -21,7 +23,8 @@
   {
     "module": "Module 2",
     "topics": [
-      "Transducers and sensors: -Static and Dynamic Characteristics",
+      "Transducers and sensors",
+      "Static and Dynamic Characteristics",
       "Classification of sensors",
       "Robotic Sensors Proximity sensor- Eddy current proximity sensor",
       "Inductive Proximity sensor",
@@ -36,13 +39,16 @@
   {
     "module": "Module 3",
     "topics": [
+      "Temperature Sensors",
       "Thermistors",
-      "Thermocouples Motion sensor: Encoder sensors",
+      "Thermocouples Motion sensor",
+      "Encoder sensors",
       "LVDT",
       "Accelerometer",
       "gyroscope-working principle only",
       "PIR sensor",
-      "Range Sensors: RF beacons",
+      "Range Sensors",
+      "RF beacons",
       "Ultrasonic Ranging",
       "Reflective beacons"
     ],
@@ -52,13 +58,15 @@
   {
     "module": "Module 4",
     "topics": [
+      "Optical sensors",
       "Photo conductive cell",
       "photo voltaic",
       "Photo resistive",
       "Photodiodes",
       "Phototransistors",
       "Laser Range Sensor (LIDAR",
-      "Special sensors: Acoustic Sensors",
+      "Special sensors",
+      "Acoustic Sensors",
       "vision and imaging sensors",
       "micro and nano sensors"
     ],

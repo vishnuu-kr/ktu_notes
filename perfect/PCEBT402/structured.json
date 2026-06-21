@@ -2,10 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Microelectronic fabrication technology",
             "Brief overview of microelectronic fabrication technology - Epitaxial Growth",
             "Diffusion",
             "Ion Implantation Processes -Description - Fabrication of BJT",
-            "MOSFETs. Operational amplifiers: Introduction to operational amplifiers",
+            "MOSFETs. Operational amplifiers",
+            "Introduction to operational amplifiers",
             "Internal block schematic of op amp- equivalent circuit -Voltage transfer curve- - input and output impedance - Slew rate",
             "Input bias current - Input offset current- Offset voltage- CMRR",
             "SVRR. Open loop op- amp configurations- open loop gain - Frequency response- finite gain bandwidth - - Ideal op amp parameters. Offset voltage compensating networks-offset minimizing resistor"
@@ -16,6 +18,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Closed loop op amp configurations",
             "Feedback topologies- Voltage series",
             "voltage shunt",
             "current series and current shunt feedbacks - Frequency response",
@@ -34,6 +37,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Active Filters",
             "Transfer functions - LPF",
             "BRF. First and second order filters. Approximation methods - Butterworth - Chebyshev. Sample and hold circuit",
             "ADC -successive approximation",
@@ -48,6 +52,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Specialized ICs and applications",
             "IC regulators - 723 -block diagram",
             "typical low voltage regulator circuit",
             "78XX and 79XX IC regulators",

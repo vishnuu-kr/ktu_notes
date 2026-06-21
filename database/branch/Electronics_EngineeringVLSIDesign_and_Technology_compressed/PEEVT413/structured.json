@@ -2,8 +2,8 @@
   {
     "module": "Module 1",
     "topics": [
-      "Classification of compound semiconductors-Binary, Ternary, Quaternary compound semiconductors (an overview) Material properties of compound semiconductors- Properties of III-V Compound semiconductors (GaAs, GaN, InP, AlGaAs, AlGaN, InGaAs, InAlGaN), IV Compounds: SiC, SiGe",
-      "Effect of mole fraction on bandgap and lattice constant Gallium Arsenide: Energy band structure, Crystal structure of GaAs, Velocity Field relationship III-Nitride semiconductors: Crystal structure of nitrides, Electrical and optical properties AlGaN alloy, InGaN alloy, InAlGaN quaternary alloy, Polarization Effects in nitrides: Spontaneous polarization, Piezoelectric polarization Metal semiconductor junctions: Schottky contacts, I-V characteristics of Schottky barrier junctions, Ohmic contacts Heterojunctions: Type I and Type II and Type III band alignments, Electrostatic characteristics of p-n hetero junctions: Band diagrams"
+      "Compound Semiconductors, Classification of compound semiconductors-Binary, Ternary, Quaternary compound semiconductors (an overview) Material properties of compound semiconductors- Properties of III-V Compound semiconductors (GaAs, GaN, InP, AlGaAs, AlGaN, InGaAs, InAlGaN), IV Compounds, SiC, SiGe",
+      "Effect of mole fraction on bandgap and lattice constant Gallium Arsenide, Energy band structure, Crystal structure of GaAs, Velocity Field relationship III-Nitride semiconductors, Crystal structure of nitrides, Electrical and optical properties AlGaN alloy, InGaN alloy, InAlGaN quaternary alloy, Polarization Effects in nitrides, Spontaneous polarization, Piezoelectric polarization Metal semiconductor junctions, Schottky contacts, I-V characteristics of Schottky barrier junctions, Ohmic contacts Heterojunctions, Type I and Type II and Type III band alignments, Electrostatic characteristics of p-n hetero junctions, Band diagrams"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -11,6 +11,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "High Speed Devices",
       "High speed performance parameters of devices - Transit time of charge carriers",
       "junction capacitances",
       "ON-resistances and their dependence on the device geometry and size",
@@ -35,11 +36,11 @@
   {
     "module": "Module 3",
     "topics": [
-      "Photodetectors-Basic principle of operation, Photodetector structures, Photodetector materials, Photodetector parameters-Responsivity and efficiency, photodetector gain",
-      "Photodiodes: p-n photodiodes- Device structure, Operation, Analysis",
-      "p-i-n photodiodes: Device Structure, Principle of operation",
-      "Avalanche photodiodes: Device Structure, Operation Principle Optical Sources: LEDs: Principle of operation of homojunction and heterojunction LEDs, LED materials",
-      "LASER: Physics of LASER, LASER materials, Fabry Perot cavity LASER"
+      "Optoelectronics Devices Optical Detectors, Photodetectors-Basic principle of operation, Photodetector structures, Photodetector materials, Photodetector parameters-Responsivity and efficiency, photodetector gain",
+      "Photodiodes, p-n photodiodes- Device structure, Operation, Analysis",
+      "p-i-n photodiodes, Device Structure, Principle of operation",
+      "Avalanche photodiodes, Device Structure, Operation Principle Optical Sources, LEDs, Principle of operation of homojunction and heterojunction LEDs, LED materials",
+      "LASER, Physics of LASER, LASER materials, Fabry Perot cavity LASER"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -47,6 +48,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Fabrication Technology",
       "Crystal growth",
       "Epitaxy - Vapour phase epitaxy",
       "Oxidation- Dry and wet oxidation",

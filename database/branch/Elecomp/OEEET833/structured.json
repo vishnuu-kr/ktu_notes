@@ -2,11 +2,13 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to Mechatronics",
       "Introduction",
       "Examples of Mechatronic sys-tems",
       "Electric circuits and components",
       "Semiconductor Electronics",
-      "Transis-tor Applications Sensors and transducers: Performance terminology of sensors",
+      "Transis-tor Applications Sensors and transducers",
+      "Performance terminology of sensors",
       "Displacement",
       "Position & Proximity Sensors-I",
       "Displacement",
@@ -25,11 +27,13 @@
   {
     "module": "Module 2",
     "topics": [
+      "Actuators and mechanisms",
       "Mechanical Actuation System",
       "Hydraulic & Pneumatic Actuation System",
       "Electrical Actuation System-I",
       "Electrical Actu-ation System-II",
-      "Data Presentation system Signal conditioning: Introduction to signal processing & Op-Amp",
+      "Data Presentation system Signal conditioning",
+      "Introduction to signal processing & Op-Amp",
       "Op-Amp as signal conditioner",
       "Analogue to Digital Converter",
       "Digital to Analogue Converter",
@@ -41,10 +45,12 @@
   {
     "module": "Module 3",
     "topics": [
+      "Microprocessors and microcontrollers",
       "Digital circuits-I",
       "Digital circuits-II",
       "Microprocessor Micro Controller",
-      "Programming of Microcontrollers Model-ing and system response: Mechanical system model",
+      "Programming of Microcontrollers Model-ing and system response",
+      "Mechanical system model",
       "Electrical system mod-el",
       "Fluid system model",
       "Dynamic response of systems",
@@ -56,6 +62,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Closed loop controllers",
       "PID Controllers",
       "Digital Controllers",
       "Program Logic Controllers",

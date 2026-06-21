@@ -2,9 +2,11 @@
   {
     "module": "Module 1",
     "topics": [
-      "Multivariate Normal Distribution Functions",
-      "Estimation of parameters., Conditional Distribution and its relation to regression model. Multivariate Regression: Assumptions of Multivariate Regression Models",
-      "Parameter estimation, Multivariate Analysis of variance and covariance"
+      "Multivariate Normal Distribution",
+      "Multivariate Normal Distribution Functions-Estimation of parameters",
+      "Conditional Distribution and its relation to regression model. Multivariate Regression",
+      "Assumptions of Multivariate Regression Models-Parameter estimation",
+      "Multivariate Analysis of variance and covariance"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -12,9 +14,11 @@
   {
     "module": "Module 2",
     "topics": [
+      "DiscriminantAnalysis",
       "Statistical background",
       "linear discriminant function analysis",
-      "Estimating linear discriminant functions and their properties. Principal Component Analysis: Principal components",
+      "Estimating linear discriminant functions and their properties. Principal Component Analysis",
+      "Principal components",
       "Algorithm for conducting principal component analysis",
       "deciding on how many principal components to retain",
       "H-plot"
@@ -25,6 +29,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Factor Analysis",
       "Factor analysis model",
       "extracting common factors",
       "determining number of factors",
@@ -37,6 +42,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Cluster Analysis",
       "Introduction",
       "Types of clustering",
       "Correlations and distances",

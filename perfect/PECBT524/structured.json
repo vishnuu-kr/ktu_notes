@@ -2,10 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Formal Languages and Automata Basics of Formal Languages",
             "Alphabets",
             "strings",
             "and languages",
-            "Operations on languages. Introduction to Automata: Concept of automata",
+            "Operations on languages. Introduction to Automata",
+            "Concept of automata",
             "Deterministic and non-deterministic finite automata (DFA and NFA"
         ],
         "rejected_topics": null,
@@ -14,6 +16,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "More on Regular Languages",
             "Regular Grammar (RG",
             "Regular Expression (RE",
             "Equivalence of REs and DFA",
@@ -26,6 +29,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Context Free Grammar (CFG",
             "CFG representation of Context Free Languages",
             "derivation trees and ambiguity",
             "Normal forms for CFGs. Nondeterministic Pushdown Automata (PDA",
@@ -40,6 +44,8 @@
     {
         "module": "Module 4",
         "topics": [
+            "Context Sensitive Languages",
+            "Turing Machines",
             "Context Sensitive Languages - Context Sensitive Grammar (CSG). Turing Machines - Standard Turing Machine",
             "Robustness of Turing Machine",
             "Universal Turing Machine",

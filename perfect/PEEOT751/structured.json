@@ -2,6 +2,13 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to compilers - Analysis of the source program",
+            "Phases of a compiler",
+            "Grouping of phases Lexical Analysis-The role of Lexical Analyzer",
+            "Input Buffering",
+            "Specification of Tokens using Regular Expressions",
+            "Finite Automata",
+            "Recognition of Tokens. Syntax Analysis",
             "Grammers",
             "Context-Free Grammars",
             "Derivation trees and Parse",
@@ -13,6 +20,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Top-Down Parsing",
             "Recursive Descent parsing",
             "Predictive parsing",
             "LL(1) Grammars. Bottom-Up Parsing:Shift Reduce parsing - Operator precedence parsing (Concepts only) LR parsing - Constructing SLR parsing tables",
@@ -25,11 +33,14 @@
     {
         "module": "Module 3",
         "topics": [
+            "Syntax directed translation",
             "Syntax directed definitions",
             "Bottom- up evaluation of S-attributed definitions",
             "L- attributed definitions",
-            "Bottom-up evaluation of inherited attributes. Type Checking : Type systems",
-            "Specification of a simple type checker. Run-Time Environments: Source Language issues",
+            "Bottom-up evaluation of inherited attributes. Type Checking",
+            "Type systems",
+            "Specification of a simple type checker. Run-Time Environments",
+            "Source Language issues",
             "Storage organization",
             "Storage- allocation strategies"
         ],
@@ -39,11 +50,14 @@
     {
         "module": "Module 4",
         "topics": [
+            "Intermediate Code Generation (ICG",
             "Intermediate languages - Graphical representations",
             "Three- Address code",
             "Quadruples",
-            "Triples Code Optimization: Principal sources of optimization",
-            "Optimization of Basic blocks Code generation: Issues in the design of a code generator. The target machine",
+            "Triples Code Optimization",
+            "Principal sources of optimization",
+            "Optimization of Basic blocks Code generation",
+            "Issues in the design of a code generator. The target machine",
             "A simple code generator"
         ],
         "rejected_topics": null,

@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Control systems",
             "Basic components of a Control System",
             "Open-Loop Control Systems and Closed-Loop Control Systems",
             "Examples of control system",
@@ -19,6 +20,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Time domain analysis",
             "Continuous systems -standard test signals - step",
             "ramp",
             "parabolic",
@@ -32,9 +34,11 @@
     {
         "module": "Module 3",
         "topics": [
-            "Concept of stability",
-            "stability & location of the poles in S-plane",
-            "Routh-Hurwitz stability criterion-Root Locus Method, Construction of root locus-Effect of poles and zeros and their location on the root locus. Frequency Response representation- Polar Plot- Relative stability: gain margin and phase margin, Stability analysis with Bode plot"
+            "Stability of control systems and Frequency Domain Analysis",
+            "Concept of stability - stability & location of the poles in S-plane - Routh-Hurwitz stability criterion-Root Locus Method",
+            "Construction of root locus-Effect of poles and zeros and their location on the root locus. Frequency Response representation- Polar Plot- Relative stability",
+            "gain margin and phase margin",
+            "Stability analysis with Bode plot"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -42,6 +46,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Compensation techniques and Case studies in Mechatronics",
             "Need for Cascade compensation",
             "Cascade Compensation- PI",
             "PD and PID controllers - tuning of PID Controller- Lead",

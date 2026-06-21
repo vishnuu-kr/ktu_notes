@@ -2,8 +2,10 @@
     {
         "module": "Module 1",
         "topics": [
+            "Force analysis",
             "Static force analysis-Freebody diagram - conditions for equilibrium - two and three force members",
-            "four force members - numerical examples involving single four bar chain and single slider crank chain. Dynamic force analysis: Inertia force and inertia torque D’Alembert’s principle",
+            "four force members - numerical examples involving single four bar chain and single slider crank chain. Dynamic force analysis",
+            "Inertia force and inertia torque D’Alembert’s principle",
             "force acting on the reciprocating parts of an engine",
             "piston effort",
             "force acting along the connecting rod",
@@ -16,12 +18,15 @@
     {
         "module": "Module 2",
         "topics": [
+            "Flywheel analysis",
             "Flywheel",
             "turning moment diagram",
             "flywheel in different applications like IC engines",
-            "punching press - numerical examples. Gyroscopics: Gyroscopic couple and precessional motion",
+            "punching press - numerical examples. Gyroscopics",
+            "Gyroscopic couple and precessional motion",
             "effect of gyroscopic couple on aeroplanes",
-            "ships - numerical examples. Balancing of rotating masses: Static and dynamic balancing",
+            "ships - numerical examples. Balancing of rotating masses",
+            "Static and dynamic balancing",
             "reference plane method for balancing of masses for different panes - analytical and graphical approach"
         ],
         "rejected_topics": null,
@@ -30,14 +35,17 @@
     {
         "module": "Module 3",
         "topics": [
+            "Longitudinal vibration",
             "Single and two degree freedom system",
             "overview of free vibration responses",
             "equation of motion",
             "underdamped",
-            "overdamped and critically damped response. Forced vibration: Frequency response curve",
+            "overdamped and critically damped response. Forced vibration",
+            "Frequency response curve",
             "vibration isolation",
             "transmissibility-numerical examples. Accelerometer",
-            "seismometer. Vibration of two-degree of freedoms system: Influence coefficient method -numerical examples. Vibration absorbers"
+            "seismometer. Vibration of two-degree of freedoms system",
+            "Influence coefficient method -numerical examples. Vibration absorbers"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -45,11 +53,13 @@
     {
         "module": "Module 4",
         "topics": [
+            "Vibration of multi-degree freedom system",
             "Transverse vibration",
             "concept of node",
             "mode",
             "mode shape. Dunkerley’s method",
-            "critical or whirling speed of shaft. Torsional vibration of shaft: Torsionally Equivalent shaft - two rotor and three rotor systems",
+            "critical or whirling speed of shaft. Torsional vibration of shaft",
+            "Torsionally Equivalent shaft - two rotor and three rotor systems",
             "free torsional vibration of geared systems - numerical examples"
         ],
         "rejected_topics": null,

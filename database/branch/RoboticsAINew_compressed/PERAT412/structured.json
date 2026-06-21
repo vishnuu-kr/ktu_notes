@@ -2,12 +2,11 @@
   {
     "module": "Module 1",
     "topics": [
-      "Architecture of PLC -Types of PLC",
-      "PLC modules, Input and Output modules",
-      "Digital and Analog Input/Output-examples of Digital and Analog Inputs/Outputs in PLC-AC- DC power supplies in PLC- isolators- PLC Configuration -Scan cycle -Capabilities of PLC-Selection criteria for PLC",
-      "PLC Communication with PC and software-PLC Wiring-Installation of PLC and its modules. PLC programming languages: Ladder Logic, Functional Block Diagram FBD -Sequential Flow Chart SFC",
-      "Structured Text",
-      "Instruction List"
+      "Programmable logic controllers",
+      "Architecture of PLC -Types of PLC - PLC modules",
+      "Input and Output modules - Digital and Analog Input/Output-examples of Digital and Analog Inputs/Outputs in PLC-AC- DC power supplies in PLC- isolators- PLC Configuration -Scan cycle -Capabilities of PLC-Selection criteria for PLC - PLC Communication with PC and software-PLC Wiring-Installation of PLC and its modules. PLC programming languages",
+      "Ladder Logic",
+      "Functional Block Diagram FBD -Sequential Flow Chart SFC - Structured Text - Instruction List"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -16,8 +15,12 @@
     "module": "Module 2",
     "topics": [
       "PROGRAMMING OF PLC",
-      "Ladder Logic Programming",
-      "Realization of simple logic circuits programming on-off inputs/ outputs. Auxiliary commands and functions: PLC Basic Functions: Register basics- timer functions- counter functions. Program control instructions- math instructions- sequencers- PLC based traffic light system, stepper motor & servo motor control using PLC, Analog sensor interfacing with PLC APPLICATIONS OF PLC: Case studies of manufacturing automation and process automation"
+      "Ladder Logic Programming - Realization of simple logic circuits programming on-off inputs/ outputs. Auxiliary commands and functions",
+      "PLC Basic Functions",
+      "Register basics- timer functions- counter functions. Program control instructions- math instructions- sequencers- PLC based traffic light system",
+      "stepper motor & servo motor control using PLC",
+      "Analog sensor interfacing with PLC APPLICATIONS OF PLC",
+      "Case studies of manufacturing automation and process automation"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -25,11 +28,13 @@
   {
     "module": "Module 3",
     "topics": [
-      "PLC programming tools as per IEC 61131-Developing programs using Sequential Function Chart and FBD Networking PLC: usingRS232",
+      "PLC programming tools as per IEC 61131-Developing programs using Sequential Function Chart and FBD Networking PLC",
+      "usingRS232",
       "RS485",
       "Protocols-ethernet-Modbus",
       "CANOpen",
-      "OPC-Open Platform Communication- OPC UA Industrial Automation: General Block diagrams of DDC- Supervisory control-Data Acquisition system"
+      "OPC-Open Platform Communication- OPC UA Industrial Automation",
+      "General Block diagrams of DDC- Supervisory control-Data Acquisition system"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -37,15 +42,12 @@
   {
     "module": "Module 4",
     "topics": [
-      "DCS introduction",
-      "Various function Blocks",
-      "DCS components/block diagram",
-      "DCS Architecture of different makes",
-      "comparison of these architectures with automation pyramid",
-      "DCS specification",
-      "latest trend and developments in DCS",
-      "DCS support to Enterprise Resources Planning (ERP",
-      "performance criteria for DCS and other automation tools"
+      "Distributed Control System- DCS - Architectures",
+      "Comparison",
+      "Local control unit",
+      "Process interfacing issues",
+      "Communication facilities- Distributed Control System Basics",
+      "DCS introduction- Various function Blocks- DCS components/block diagram- DCS Architecture of different makes-comparison of these architectures with automation pyramid- DCS specification- latest trend and developments in DCS- DCS support to Enterprise Resources Planning (ERP) - performance criteria for DCS and other automation tools"
     ],
     "rejected_topics": null,
     "status": "verified"

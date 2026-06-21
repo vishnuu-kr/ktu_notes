@@ -12,13 +12,16 @@
   {
     "module": "Module 2",
     "topics": [
-      "Types of Robotic Drive Systems and Actuators: Hydraulic, Pneumatic and Electric drives",
-      "Transmission: Gears, Timing Belts and Bearings",
-      "Parameters for selection of actuators",
-      "Specification",
-      "Areas of Application for: Stepper Motor & Servo Motor",
-      "Sensors: Types and Applications of Sensors in Robotics: Position, Displacement and VelocitySensors",
-      "Tactile Sensors for Contact and Proximity Assessment"
+      "Actuators",
+      "Types of Robotic Drive Systems and Actuators",
+      "Hydraulic",
+      "Pneumatic and Electric drives. Transmission",
+      "Gears",
+      "Timing Belts and Bearings. Parameters for selection of actuators. Specification. Areas of Application for",
+      "Stepper Motor & Servo Motor. Sensors",
+      "Types and Applications of Sensors in Robotics",
+      "Position",
+      "Displacement and VelocitySensors. Tactile Sensors for Contact and Proximity Assessment"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -26,9 +29,12 @@
   {
     "module": "Module 3",
     "topics": [
-      "Positionand Orientation of Objects. Rotation. Euler Angles. Rigid Motion Representation using Homogenous Transformation Matrix. Kinematic Modelling:Translation and Rotation Representation, Coordinate Transformation, Forward and Inverse Kinematics. Forward Kinematics",
-      "Link Coordinates, Denavit",
-      "Hartenberg Representation,Application of DH Convention to Different Serial Kinematic Arrangements"
+      "Introduction to Kinematics",
+      "Positionand Orientation of Objects. Rotation. Euler Angles. Rigid Motion Representation using Homogenous Transformation Matrix. Kinematic Modelling:Translation and Rotation Representation",
+      "Coordinate Transformation",
+      "Forward and Inverse Kinematics. Forward Kinematics-Link Coordinates",
+      "Denavit-Hartenberg Representation",
+      "Application of DH Convention to Different Serial Kinematic Arrangements"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -36,9 +42,9 @@
   {
     "module": "Module 4",
     "topics": [
-      "Open Loop- Closed Loop, Transfer Functions, Control Laws: P, PD, PID, Linearand Non-linear Controls",
+      "Basics of Control, Open Loop- Closed Loop, Transfer Functions, Control Laws, P, PD, PID, Linearand Non-linear Controls",
       "Control Hardware and Interfacing",
-      "Embedded Systems: Microcontroller Architecture and Integration with Sensors, Actuators, Components"
+      "Embedded Systems, Microcontroller Architecture and Integration with Sensors, Actuators, Components"
     ],
     "rejected_topics": null,
     "status": "verified"

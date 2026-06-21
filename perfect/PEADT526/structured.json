@@ -2,6 +2,8 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to biomolecules",
+            "and Protein",
             "The Central Dogma",
             "Messenger RNA",
             "tRNA",
@@ -18,14 +20,18 @@
     {
         "module": "Module 2",
         "topics": [
+            "Introduction to Biological Databases",
             "NCBI",
             "Genbank",
-            "Bio sequence formats: FASTA",
-            "Sequence alignment: Global Alignment and Local Alignment",
+            "Bio sequence formats",
+            "FASTA",
+            "Sequence alignment",
+            "Global Alignment and Local Alignment",
             "Dot Matrix Method",
             "Dynamic Programming Method",
             "Gap Penalties",
-            "Amino Acid Scoring Matrices: PAM and BLOSUM",
+            "Amino Acid Scoring Matrices",
+            "PAM and BLOSUM",
             "Database Similarity Searching",
             "BLAST",
             "Needleman and Wunsch and Smith - Waterman Method",
@@ -39,6 +45,12 @@
     {
         "module": "Module 3",
         "topics": [
+            "Transcriptional Regulatory Networks",
+            "Genes and DNA Regulatory Regions",
+            "Genetic Interaction Map",
+            "Protein Interaction Networks",
+            "Experimental methodologies to obtain Protein Interaction Data",
+            "Computational methods to Predict Protein",
             "Protein Interactions",
             "Visualization of Protein Interaction Networks",
             "Metabolic Networks",

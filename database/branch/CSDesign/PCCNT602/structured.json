@@ -21,7 +21,8 @@
       "Reflection and Shearing",
       "Composite transformations",
       "Matrix representations transformations",
-      "homogeneous coordinates. Basic 3D transformations. Clipping and Projections: Window to viewport transformation. Cohen Sutherland Line clipping algorithm. Sutherland Hodgeman Polygon clipping algorithm. Three dimensional viewing pipeline. Projections- Parallel and Perspective projections. Visible surface detection algorithms- Depth buffer algorithm",
+      "homogeneous coordinates. Basic 3D transformations. Clipping and Projections",
+      "Window to viewport transformation. Cohen Sutherland Line clipping algorithm. Sutherland Hodgeman Polygon clipping algorithm. Three dimensional viewing pipeline. Projections- Parallel and Perspective projections. Visible surface detection algorithms- Depth buffer algorithm",
       "Scan line algorithm"
     ],
     "rejected_topics": null,
@@ -30,7 +31,7 @@
   {
     "module": "Module 3",
     "topics": [
-      "Introduction to Image processing and applications. Image as 2D data. Image representation in Gray scale, Binary and Colour images. Fundamental steps in image processing. Components of image processing system. Coordinate conventions. Sampling and quantization. Spatial and Gray Level Resolution. Basic relationship between pixels",
+      "Fundamentals of Digital Image Processing, Introduction to Image processing and applications. Image as 2D data. Image representation in Gray scale, Binary and Colour images. Fundamental steps in image processing. Components of image processing system. Coordinate conventions. Sampling and quantization. Spatial and Gray Level Resolution. Basic relationship between pixels",
       "neighbourhood, adjacency, connectivity. Fundamentals of spatial domain",
       "convolution operation"
     ],
@@ -40,7 +41,7 @@
   {
     "module": "Module 4",
     "topics": [
-      "Basic gray level transformation functions",
+      "Image Enhancement in Spatial Domain and Image Segmentation , Basic gray level transformation functions",
       "Log transformations, Power-Law transformations, Contrast stretching. Histogram equalization. Basics of spatial filtering",
       "Smoothing spatial filter-Linear and nonlinear filters, and Sharpening spatial filters-Gradient and Laplacian. Fundamentals of Image Segmentation. Thresholding",
       "Basics of Intensity thresholding and Global Thresholding. Region based Approach",

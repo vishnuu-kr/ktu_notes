@@ -2,6 +2,8 @@
   {
     "module": "Module 1",
     "topics": [
+      "Physics of Power dissipation in MOSFET devices Need for low power circuit design",
+      "MIS Structure Deep submicron transistor design issues",
       "Short channel effects Channel Length Modulation",
       "Surface scattering",
       "Punch through",
@@ -15,7 +17,8 @@
       "Gate Induced drain leakage",
       "Tunneling Through Gate Oxide",
       "Subthreshold Leakage Current",
-      "Emerging Technologies for Low Power: Hi-K Gate Dielectric",
+      "Emerging Technologies for Low Power",
+      "Hi-K Gate Dielectric",
       "Lightly Doped Drain - Source",
       "Silicon on Insulator"
     ],
@@ -25,10 +28,15 @@
   {
     "module": "Module 2",
     "topics": [
-      "Short Circuit Power: Short Circuit Current of Inverter",
+      "Sources of power dissipation in digital ICs - Dynamic Power Dissipation",
+      "Short Circuit Power",
+      "Short Circuit Current of Inverter",
       "Short circuit current dependency on input rise and fall time",
-      "Variation of shortcircuit current with load capacitance. Switching power dissipation: Switching Power of CMOS Inverter",
-      "Switching activity and its effects. Glitching Power: Glitches and its effect on power dissipation Static Power Dissipation: Sources of Leakage Power",
+      "Variation of shortcircuit current with load capacitance. Switching power dissipation",
+      "Switching Power of CMOS Inverter",
+      "Switching activity and its effects. Glitching Power",
+      "Glitches and its effect on power dissipation Static Power Dissipation",
+      "Sources of Leakage Power",
       "Effects of Vdd and Vt on speed",
       "Constraints on Vt Reduction"
     ],
@@ -38,9 +46,12 @@
   {
     "module": "Module 3",
     "topics": [
+      "Low-Power Design Approaches-Supply Voltage Scaling for Low Power",
       "Effect of Supply voltage on Delay and Power Effect of Supply voltage on Static and Dynamic Power Multi VDD",
       "Dynamic VDD",
-      "Dynamic Voltage and Frequency Scaling (DVFS) Approaches. Architectural Level Approaches: Pipelining and Parallel Processing Leakage power reduction Techniques: Effect of threshold voltage on Leakage Power Transistor stacking",
+      "Dynamic Voltage and Frequency Scaling (DVFS) Approaches. Architectural Level Approaches",
+      "Pipelining and Parallel Processing Leakage power reduction Techniques",
+      "Effect of threshold voltage on Leakage Power Transistor stacking",
       "MTCMOS",
       "VTCMOS Power gating& Clock gating Techniques"
     ],
@@ -50,8 +61,10 @@
   {
     "module": "Module 4",
     "topics": [
+      "Circuit Design Styles for Low Power-Non clocked circuit design style",
       "Fully Complementary logic. NMOS and Pseudo - NMOS logic",
-      "Differential Cascode Voltage Switch logic(DCVS) Clocked design style: Basic concept",
+      "Differential Cascode Voltage Switch logic(DCVS) Clocked design style",
+      "Basic concept",
       "Dynamic Logic",
       "Domino logic",
       "Differential Current Switch Logic. Adiabatic switching - Adiabatic charging",

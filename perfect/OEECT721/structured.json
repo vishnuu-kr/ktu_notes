@@ -2,14 +2,17 @@
     {
         "module": "Module 1",
         "topics": [
+            "Optical fiber Communications",
             "Structure of Optical fiber",
             "materials",
             "General block diagram of optical communication system",
-            "Advantages. Optical fiber waveguides: Principle of light guidance",
+            "Advantages. Optical fiber waveguides",
+            "Principle of light guidance",
             "Numerical Aperture",
             "V number",
             "Step and Graded index fibers",
-            "Single and Multi mode fibers. Transmission Characteristics: Attenuation",
+            "Single and Multi mode fibers. Transmission Characteristics",
+            "Attenuation",
             "Absorption losses",
             "Linear and Non linear scattering losses",
             "bend losses. Dispersion- Intermodal dispersion",
@@ -28,7 +31,8 @@
         "topics": [
             "Optical fibers and Cables - Fabrication Techniques- Double crucible method",
             "Outside Vapour phase oxidation",
-            "Modified Chemical Vapour Deposition. Optical Fiber Cables- Single and Multi fiber cables. Optical Fiber Connections: splices",
+            "Modified Chemical Vapour Deposition. Optical Fiber Cables- Single and Multi fiber cables. Optical Fiber Connections",
+            "splices",
             "connectors & couplers. Optical Fiber Measurements:- Attenuation and dispersion measurements",
             "MZ interferometer",
             "Optical Time Domain Reflectometer - Applications"
@@ -39,13 +43,17 @@
     {
         "module": "Module 3",
         "topics": [
+            "Optical sources",
             "LEDs and LDs",
             "general structures",
             "characteristics",
             "modulators using LEDs and LDs. coupling with fibres",
-            "Optical detectors: Quantum efficiency and Responsivity",
-            "Structure and working of PIN and APD Optical Receivers: - Direct detection- noise in detectors",
-            "BER analysis Coherent detection principles. Optical Amplifiers: EDFA - Principle",
+            "Optical detectors",
+            "Quantum efficiency and Responsivity",
+            "Structure and working of PIN and APD Optical Receivers",
+            "Direct detection- noise in detectors",
+            "BER analysis Coherent detection principles. Optical Amplifiers",
+            "EDFA - Principle",
             "structure and working",
             "Raman amplifiers"
         ],
@@ -55,14 +63,18 @@
     {
         "module": "Module 4",
         "topics": [
+            "Multiplexing Strategies",
             "OTDM",
             "OFDM",
-            "WDM and Optical CDMA: concepts",
+            "WDM and Optical CDMA",
+            "concepts",
             "components - couplers",
             "splitters",
             "Add/ Drop multiplexers",
             "Fiber grating filters",
-            "tunable filters. Optical networks - General description of SONET/SDH Free space optics: Principle of LiFi technology. Visible Light Communication Other applications of optical fibers: Entertainment",
+            "tunable filters. Optical networks - General description of SONET/SDH Free space optics",
+            "Principle of LiFi technology. Visible Light Communication Other applications of optical fibers",
+            "Entertainment",
             "Sensors - Types & principles"
         ],
         "rejected_topics": null,

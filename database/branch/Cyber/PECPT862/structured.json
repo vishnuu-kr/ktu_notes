@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Overview of Networked Control Systems",
       "Introduction- Advantages and Applications of Control over Network",
       "Brief History of Research Field of NCS",
       "NCS Categories and NCS Components - NCS Components",
@@ -16,10 +17,13 @@
   {
     "module": "Module 2",
     "topics": [
+      "Overview of Agent-based Control and Management for NCS",
       "Introduction",
-      "From Electricity to Connectivity: Why Agent-based Control and Management for Networked Systems",
+      "From Electricity to Connectivity",
+      "Why Agent-based Control and Management for Networked Systems",
       "Hosting Mechanism and System Architecture for ABC",
-      "Design Principle for Networked Control Systems: Local Simple",
+      "Design Principle for Networked Control Systems",
+      "Local Simple",
       "Remote Complex (LSRC",
       "Modular Construction and Learning Algorithms of Neuro-fuzzy Networks for LSRC Implementation",
       "Issues in Software",
@@ -33,9 +37,11 @@
   {
     "module": "Module 3",
     "topics": [
+      "Switched Feedback Control for Wireless Networked Systems",
       "Mathematical Modeling of NCS as a Switched System",
       "Optimal Output Feedback Control - Gain Tuning of Output Feedback Parameter",
-      "Stability Investigation. Networked Boundary Control of Damped Wave Equations: A Brief Introduction to the Smith Predictor",
+      "Stability Investigation. Networked Boundary Control of Damped Wave Equations",
+      "A Brief Introduction to the Smith Predictor",
       "Boundary Control of Damped Wave Equations with Large Delays",
       "Stability and Robustness Analysis",
       "Fractional Order Case - Problem Formulation",
@@ -48,10 +54,12 @@
   {
     "module": "Module 4",
     "topics": [
+      "Design of Robust Strictly Positive Real Transfer Functions",
       "Definitions and Notation",
       "Some Properties of SPR (WSPR) Regions",
       "Characterization of SPR (WSPR) Regions",
-      "Robust SPR Synthesis: Intersection of WSPR Regions",
+      "Robust SPR Synthesis",
+      "Intersection of WSPR Regions",
       "Applications to Robust SPR Synthesis for Low-order Systems -The Third-order SPR Synthesis",
       "The Fourth-order SPR Synthesis"
     ],

@@ -2,7 +2,9 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction: Process and Instrumentation",
+            "Introduction to Multivariable Control",
+            "Introduction",
+            "Process and Instrumentation",
             "Process Variables",
             "The Process Behavior",
             "Control Aims",
@@ -19,15 +21,20 @@
     {
         "module": "Module 2",
         "topics": [
-            "Models and Equivalence Introduction: Objectives of Modelling",
+            "Linear System Representation",
+            "Models and Equivalence Introduction",
+            "Objectives of Modelling",
             "Types of Models",
-            "First-principle Models: Components",
-            "Internal Representation: State Variables",
+            "First-principle Models",
+            "Components",
+            "Internal Representation",
+            "State Variables",
             "Linear Models and Linearization",
             "Input/Output Representations",
             "Polynomial Representation",
             "Transfer Matrix",
-            "Systems and Subsystems: Interconnection",
+            "Systems and Subsystems",
+            "Interconnection",
             "Series",
             "Parallel and Feedback Connection",
             "Generalised Interconnection",
@@ -39,7 +46,8 @@
     {
         "module": "Module 3",
         "topics": [
-            "Simple Distillation Column"
+            "Linear Systems Analysis",
+            "Introduction, Linear System Time-response, Stability Conditions, Relative Degree of Stability, Discretisation, Gain, Static Gain, Instantaneous Gain, Directional Gain, Frequency response, System Internal Structure, Reachability (State Controllability),Observability, Output Reachability, Remarks on Reachability and Observability, Canonical Forms, Block System Structure (Kalman Form),Minimal Realisation, Balanced Realisation, Poles and Zeros, Input/Output Properties, Input/Output Controllability, Model Reduction, Time Scale Decomposition, Balanced Reduction, Key Issues in MIMO Systems Analysis, Case Study, Simple Distillation Column"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -47,6 +55,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Solutions to the Control Problem",
             "The Control Variables Structures",
             "Feedback",
             "Closed",

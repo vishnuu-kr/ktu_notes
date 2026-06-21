@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to IoT technology",
             "Definitions and Characteristics of IoT",
             "IoT Architectural View",
             "Physical Design of IOT",
@@ -16,7 +17,12 @@
     {
         "module": "Module 2",
         "topics": [
-            "The “Things” in IoT: Sensors",
+            "IoT and M2M- M2M",
+            "Difference between IoT and M2M",
+            "SDN and NFV for IoT",
+            "Smart Objects",
+            "The “Things” in IoT",
+            "Sensors",
             "Actuators",
             "and Smart Objects",
             "Sensor Networks- Wireless Sensor Networks (WSNs",
@@ -31,12 +37,14 @@
             "Unified Data Standards - Protocols - IEEE 802.15.4 -The Physical Layer",
             "The Media-Access Control Layer",
             "Uses of 802.15.4",
-            "The Future of 802.15.4: 802.15.4e and 802.15.4g - Modbus - ZigBee-Zigbee Architecture-LoRaWAN -Standardization and Alliances",
+            "The Future of 802.15.4",
+            "802.15.4e and 802.15.4g - Modbus - ZigBee-Zigbee Architecture-LoRaWAN -Standardization and Alliances",
             "Physical Layer",
             "MAC Layer",
             "Topology",
             "LTE-M",
-            "NB-IoT-Network layer - The next generation: IP-based protocols"
+            "NB-IoT-Network layer - The next generation",
+            "IP-based protocols"
         ],
         "rejected_topics": null,
         "status": "verified"

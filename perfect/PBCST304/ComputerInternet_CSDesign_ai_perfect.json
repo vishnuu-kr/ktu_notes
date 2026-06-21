@@ -2,8 +2,8 @@
     {
         "module": "Module 1",
         "topics": [
-            "Structure of a Simple Java Program",
-            "Java Programming Environment and Runtime Environment (Command Line and IDE)",
+            "Introduction to Java, Structure of a Simple Java Program",
+            "Java Programming Environment and Runtime Environment (Command Line & IDE)",
             "Java Compiler",
             "Java Virtual Machine",
             "Primitive Data Types and Wrapper Types",
@@ -20,7 +20,8 @@
             "Classes",
             "Abstract Classes",
             "Interfaces",
-            "OOP Concepts - Data Abstraction, Encapsulation, Inheritance, Polymorphism, Procedural and Object Oriented Programming Paradigm",
+            "OOP Concepts - Data Abstraction, Encapsulation, Inheritance, Polymorphism",
+            "Procedural and Object Oriented Programming Paradigm",
             "Microservices",
             "Object Oriented Programming in Java - Declaring Objects",
             "Object Reference",
@@ -46,7 +47,7 @@
             "Sub Class",
             "Types of Inheritance",
             "The super Keyword",
-            "Protected Members",
+            "protected Members",
             "Calling Order of Constructors",
             "Method Overriding",
             "Dynamic Method Dispatch",
@@ -58,6 +59,25 @@
     {
         "module": "Module 3",
         "topics": [
+            "Packages and Interfaces - Packages - Defining a Package",
+            "CLASSPATH",
+            "Access Protection",
+            "Importing Packages",
+            "Interfaces - Interfaces v/s Abstract Classes",
+            "Defining an Interface",
+            "Implementing Interfaces",
+            "Accessing Implementations through Interface References",
+            "Extending Interface(s)",
+            "Exception Handling - Checked Exceptions",
+            "Unchecked Exceptions",
+            "try Block and catch Clause",
+            "Multiple catch Clauses",
+            "Nested try Statements",
+            "throw",
+            "throws and finally",
+            "Java Built-in Exceptions",
+            "Custom Exceptions",
+            "Introduction to Design Patterns in Java",
             "Singleton and Adaptor"
         ],
         "rejected_topics": null,
@@ -68,7 +88,7 @@
         "topics": [
             "SOLID Principles in Java",
             "Swings Fundamentals - Overview of AWT",
-            "Swing vs AWT",
+            "Swing v/s AWT",
             "Swing Key Features",
             "Model View Controller (MVC)",
             "Swing Controls",
@@ -91,10 +111,9 @@
             "Steps",
             "Common JDBC Components",
             "Connection Establishment",
-            "SQL Fundamentals (For Projects Only) - Creating and Executing Basic SQL Queries",
+            "SQL Fundamentals - Creating and Executing Basic SQL Queries",
             "Working with Result Set",
-            "Performing CRUD Operations with JDBC",
-            "Project Suggestions: Library Management System and Online Payment Processing System using OOP Principles in Java"
+            "Performing CRUD Operations with JDBC"
         ],
         "rejected_topics": null,
         "status": "verified"

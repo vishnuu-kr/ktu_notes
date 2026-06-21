@@ -27,7 +27,8 @@
       "and bagging. Unsupervised -Principal Component Analysis",
       "clustering algorithms",
       "SVMs",
-      "re-sampling methods: cross-validation and bootstrapping"
+      "re-sampling methods",
+      "cross-validation and bootstrapping"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -51,11 +52,14 @@
   {
     "module": "Module 4",
     "topics": [
+      "ML algorithm implementation with python - Linear Regression Simple and multiple linear regression",
+      "Model evaluation metrics",
       "RMSE",
       "Classification Algorithms - Logistic regression",
       "k-Nearest Neighbours (k-NN",
       "Decision Trees",
-      "Model evaluation metrics: accuracy",
+      "Model evaluation metrics",
+      "accuracy",
       "precision",
       "recall",
       "F1-score",

@@ -2,15 +2,16 @@
     {
         "module": "Module 1",
         "topics": [
-            "Materials for MEMS: Silicon Structure and Orientations",
-            "Properties. Other Materials: Shape Memory Alloy (SMA)",
-            "Polymers",
-            "Silicon Compounds, etc.",
-            "Material Properties. Commercial MEMS Structures and Systems: Overview of Commonly Used Mechanical Structures in MEMS - Beams",
-            "Cantilevers",
-            "Plates",
-            "Diaphragms - Typical Applications. Passive MEMS Structures - Fluid Nozzles, Ink Jet Nozzles. Sensors - Piezoresistive Pressure Sensors, Mass Flow Sensors, Acceleration Sensors",
-            "Actuators - Micro Mechanical Valves, Micro Pumps"
+            "Introduction to Micro Electronic Mechanical Systems",
+            "Materials for MEMS: Silicon - Structure, Orientations, and Properties",
+            "Other Materials: Shape Memory Alloy (SMA), Polymers, Silicon Compounds",
+            "Material Properties",
+            "Commercial MEMS Structures and Systems",
+            "Overview of Commonly Used Mechanical Structures in MEMS: Beams, Cantilevers, Plates, Diaphragms",
+            "Typical Applications of Diaphragms",
+            "Passive MEMS Structures: Fluid Nozzles, Ink Jet Nozzles",
+            "Sensors: Piezoresistive Pressure Sensors, Mass Flow Sensors, Acceleration Sensors",
+            "Actuators: Micro Mechanical Valves, Micro Pumps"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -19,9 +20,10 @@
         "module": "Module 2",
         "topics": [
             "Process of Micromachining",
-            "Pattern Transfer Using Additive Technique. Silicon Growth",
+            "Pattern Transfer Using Additive Technique: Silicon Growth",
             "Oxidation of Silicon",
-            "Molecular Beam Epitaxy. Physical Vapour Deposition (PVD)",
+            "Molecular Beam Epitaxy",
+            "Physical Vapour Deposition (PVD)",
             "Sputtering, Laser Deposition",
             "Ion Plating",
             "Cluster Beam Technology",
@@ -36,14 +38,11 @@
     {
         "module": "Module 3",
         "topics": [
-            "Introduction",
-            "Dry Etching",
-            "Physical Etching",
-            "Ion Etching or Sputtering",
-            "Ion Beam Etching, Plasma Etching",
-            "Deep Reactive Ion Etching (DRIE)",
-            "Isotropic Wet Etching",
-            "Anisotropic Wet Etching"
+            "Photolithography: Introduction, Masks, Spinning, Resist and Soft Backing, Exposure and Post Exposure Treatment, Development, Descumming and Post Baking, Resists, Wafer Priming",
+            "Wafer Cleaning and Contamination, Clean Room, Resist Stripping",
+            "Next Generation Lithography: Extreme Ultra Violet Lithography (EUVL), X-ray Lithography, LIGA, Charged Particle Beam Lithography, Electron Beam Lithography, Ion Beam Lithography",
+            "Etching: Introduction, Dry Etching, Physical Etching, Ion Etching or Sputtering, Ion Beam Etching",
+            "Plasma Etching, Deep Reactive Ion Etching (DRIE), Isotropic Wet Etching, Anisotropic Wet Etching"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -51,24 +50,14 @@
     {
         "module": "Module 4",
         "topics": [
-            "Key Design and Packaging Consideration",
-            "Wafer Stack Thickness",
-            "Wafer Dicing Concerns, Thermal Management",
-            "Stress Isolation",
-            "Protective Coating and Media Isolation. Wafer Level Packaging and Die Level Packaging. Hermetic Packaging",
-            "Calibration and Compensation",
-            "Die Attach Process",
-            "Solder Alloy",
-            "Bonding Process Using Solder Alloy",
-            "Organic Adhesive Wiring and Interconnections",
-            "Wire Bonding",
-            "Flip Chip Bonding",
-            "Micro Fluidics Interconnections. Packaging Material Properties",
-            "Mechanical",
-            "Moisture Penetration",
-            "Interfacial Adhesion, Thermal",
-            "Chemical",
-            "Electrical"
+            "MEMS Packaging",
+            "Key Design and Packaging Considerations: Wafer Stack Thickness, Wafer Dicing Concerns",
+            "Thermal Management, Stress Isolation, Protective Coating and Media Isolation",
+            "Wafer Level Packaging and Die Level Packaging",
+            "Hermetic Packaging, Calibration and Compensation, Die Attach Process",
+            "Solder Alloy, Bonding Process Using Solder Alloy, Organic Adhesive",
+            "Wiring and Interconnections: Wire Bonding, Flip Chip Bonding, Micro Fluidics Interconnections",
+            "Packaging Material Properties: Mechanical, Moisture Penetration, Interfacial Adhesion, Thermal, Chemical, Electrical"
         ],
         "rejected_topics": null,
         "status": "verified"

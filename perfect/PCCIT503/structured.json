@@ -47,10 +47,12 @@
     {
         "module": "Module 3",
         "topics": [
+            "Introduction To Big Data Analytics Introduction to Big Data Analytics",
             "Definition-overview of big data - Types of Digital Data- Characteristics - Big data applications. Apache Hadoop",
             "Analysing Data with Hadoop",
             "Hadoop ecosystem",
-            "MapReduce - Algorithms. Frameworks: Applications on Big Data Using Pig and Hive - Data processing operators in Pig - Hive services - HiveQL - Querying Data in Hive -fundamentals of HBase and ZooKeeper. Introduction to R programming",
+            "MapReduce - Algorithms. Frameworks",
+            "Applications on Big Data Using Pig and Hive - Data processing operators in Pig - Hive services - HiveQL - Querying Data in Hive -fundamentals of HBase and ZooKeeper. Introduction to R programming",
             "initial exploration - analysis of the data using R - basic visualization using R - Basic Scripting-Data Set Analysis"
         ],
         "rejected_topics": null,
@@ -59,7 +61,11 @@
     {
         "module": "Module 4",
         "topics": [
-            "PageRank",
+            "Introduction To Stream Concepts Introduction To Streams Concepts",
+            "Stream Data Model and Architecture -Stream Computing",
+            "Sampling Data in a Stream",
+            "Filtering Streams",
+            "Counting Distinct Elements in a Stream. Link Analysis, PageRank",
             "Hubs and Authorities. Real-time Analytics Platform (RTAP) Applications",
             "Case Studies",
             "Real Time Sentiment Analysis- Stock Market. Visualizations",

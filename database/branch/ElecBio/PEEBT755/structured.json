@@ -2,9 +2,15 @@
   {
     "module": "Module 1",
     "topics": [
-      "Direct data compression Techniques: Turning Point-AZTEC. Transformation Compression Techniques: Karhunen",
-      "Loeve Transform. Other data compression Techniques: Huffman coding ECG signal processing Techniques: Filtering: baseline removal by linear time variant filtering. Powerline interference removal by linear filter. Event detection: QRS detection basic steps",
-      "P Wave detection using time domain analysis. Morphological analysis of ECG- correlation coefficient -minimum phase component. Heart rate variability analysis: time domain measures -spectrum analysis of heart rate variability"
+      "ECG Data Reduction",
+      "Direct data compression Techniques",
+      "Turning Point-AZTEC. Transformation Compression Techniques",
+      "Karhunen - Loeve Transform. Other data compression Techniques",
+      "Huffman coding ECG signal processing Techniques",
+      "Filtering",
+      "baseline removal by linear time variant filtering. Powerline interference removal by linear filter. Event detection",
+      "QRS detection basic steps - P Wave detection using time domain analysis. Morphological analysis of ECG- correlation coefficient -minimum phase component. Heart rate variability analysis",
+      "time domain measures -spectrum analysis of heart rate variability"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -12,9 +18,10 @@
   {
     "module": "Module 2",
     "topics": [
-      "Articulatory Phonetics",
-      "Production and Classification of Speech Sounds- Articulation- Voicing-Articulatory Model Speech Analysis: -short Time Speech Analysis",
-      "short time energy- short time average magnitude- short time zero crossing rateshort time ACF. Frequency domain analysis: Filter Banks- STFT-Spectrogram- Formant Estimation & analysis- Cepstral Analysis-MFCC"
+      "Speech signal Processing Speech Fundamentals",
+      "Articulatory Phonetics - Production and Classification of Speech Sounds- Articulation- Voicing-Articulatory Model Speech Analysis",
+      "short Time Speech Analysis - short time energy- short time average magnitude- short time zero crossing rateshort time ACF. Frequency domain analysis",
+      "Filter Banks- STFT-Spectrogram- Formant Estimation & analysis- Cepstral Analysis-MFCC"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -22,9 +29,13 @@
   {
     "module": "Module 3",
     "topics": [
-      "Signal Processing Techniques in EEG Modelling the EEG signals: linear and stochastic EEG models -Time varying AR modelling. Artefacts in EEG: types",
-      "artefact reduction methods -linear filtering",
-      "Artifact cancellation using linearly combined reference signals -adaptive artefact cancellation. Non parametric spectral analysis-spectral parameters: Power in bands, spectral slope, peak frequency. Parametric spectrum estimation: Burg method. EEG segmentation-basics"
+      "Signal Processing Techniques in EEG Modelling the EEG signals",
+      "linear and stochastic EEG models -Time varying AR modelling. Artefacts in EEG",
+      "types - artefact reduction methods -linear filtering - Artifact cancellation using linearly combined reference signals -adaptive artefact cancellation. Non parametric spectral analysis-spectral parameters",
+      "Power in bands",
+      "spectral slope",
+      "peak frequency. Parametric spectrum estimation",
+      "Burg method. EEG segmentation-basics"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -32,6 +43,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "EMG Signal Processing Techniques EMG applications",
       "Diagnostic EMG",
       "Kinesiology",
       "Ergonomics. Prosthesis control. Amplitude Estimation in the Surface EMG-Signal Model and ML Estimation",

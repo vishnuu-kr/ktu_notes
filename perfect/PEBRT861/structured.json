@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Descriptive statistics",
             "Measures of location",
             "Arithmetic Mean",
             "Median",
@@ -12,11 +13,13 @@
             "coefficient of variation",
             "properties of Arithmetic Mean and Variance",
             "Grouped data",
-            "Graphic Methods. Probability: Notations",
+            "Graphic Methods. Probability",
+            "Notations",
             "Laws of probability",
             "Bayes’ rule and screening tests",
             "Bayesian Inference",
-            "ROC Curves. Random variables. Discrete Probability distributions: Probability mass function",
+            "ROC Curves. Random variables. Discrete Probability distributions",
+            "Probability mass function",
             "expected value",
             "variance and cumulative distribution. Binomial distribution",
             "Poisson distribution"
@@ -27,8 +30,10 @@
     {
         "module": "Module 2",
         "topics": [
+            "Continuous Probability distribution",
             "Normal distribution",
-            "properties of standard normal distribution. Estimation: Relationship between Population and Sample",
+            "properties of standard normal distribution. Estimation",
+            "Relationship between Population and Sample",
             "Random number trials",
             "clinical trials",
             "Estimation of Mean",
@@ -41,9 +46,13 @@
     {
         "module": "Module 3",
         "topics": [
-            "One sample inference: One sample test for the mean of a normal distribution",
-            "one- and two-sided alternatives. Categorical data: Fisher’s Exact Test",
-            "Chi- Square Goodness-of-Fit Test. Nonparametric methods: The Sign Test",
+            "Hypothesis testing",
+            "One sample inference",
+            "One sample test for the mean of a normal distribution",
+            "one- and two-sided alternatives. Categorical data",
+            "Fisher’s Exact Test",
+            "Chi- Square Goodness-of-Fit Test. Nonparametric methods",
+            "The Sign Test",
             "The Wilcoxon Signed-Rank Test"
         ],
         "rejected_topics": null,
@@ -52,11 +61,13 @@
     {
         "module": "Module 4",
         "topics": [
+            "Regression and Correlation Methods",
             "Fitting regression lines- method of least squares",
             "Inference about parameters from regression lines",
             "interval estimation for linear regression",
             "correlation coefficient",
-            "multiple regression. Multi-sample inference: Introduction to ANOVA"
+            "multiple regression. Multi-sample inference",
+            "Introduction to ANOVA"
         ],
         "rejected_topics": null,
         "status": "verified"

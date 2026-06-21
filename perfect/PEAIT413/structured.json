@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Software Engineering",
             "Professional software development",
             "Software engineering ethics. Software process models -The waterfall model",
             "Incremental development. Process activities -Software specification",
@@ -18,17 +19,10 @@
     {
         "module": "Module 2",
         "topics": [
-            "Agile Project Management. Theories for Agile Management",
-            "Agile Software Development",
-            "Traditional Model vs. Agile Model",
-            "Classification of Agile Methods",
-            "Agile Manifesto and Principles",
-            "Agile Project Management",
-            "AgileTeam Interactions",
-            "Ethics in Agile Teams",
-            "Agility in Design, Testing",
-            "Agile Documentations",
-            "Agile Drivers, Capabilities and Value"
+            "Agile development techniques",
+            "Agile Project Management. Theories for Agile Management - Agile Software Development - Traditional Model vs. Agile Model - Classification of Agile Methods - Agile Manifesto and Principles - Agile Project Management - AgileTeam Interactions - Ethics in Agile Teams - Agility in Design",
+            "Testing - Agile Documentations - Agile Drivers",
+            "Capabilities and Value"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -36,7 +30,7 @@
     {
         "module": "Module 3",
         "topics": [
-            "Agile Scrum Framework, Scrum Artifacts, Meetings, Activities and Roles, Scrum Team Simulation, Scrum Planning Principles, Product and Release Planning, Sprinting: Planning, Execution, Review and Retrospective",
+            "Introduction to Scrum, Agile Scrum Framework, Scrum Artifacts, Meetings, Activities and Roles, Scrum Team Simulation, Scrum Planning Principles, Product and Release Planning, Sprinting, Planning, Execution, Review and Retrospective",
             "User story definition and Characteristics, Acceptance tests and Verifying stories, Burn down chart, Daily scrum, Scrum Case Study"
         ],
         "rejected_topics": null,
@@ -45,9 +39,9 @@
     {
         "module": "Module 4",
         "topics": [
-            "Agile design practices, Role of design Principles, Need and significance of Refactoring, Refactoring Techniques, Continuous Integration, Automated build tools, Version control",
-            "Agility and Quality Assurance: Agile Interaction Design, Agile approach to Quality Assurance, Test Driven Development, Pair programming: Issues and Challenges. Introduction to Extreme Programming (XP): XP Lifecycle, The XP Team, XP Concepts, Refactoring, Technical Debt, Timeboxing, Stories, Velocity",
-            "Adopting XP: Pre-requisites, Challenges"
+            "Agile Software Design and Development, Agile design practices, Role of design Principles, Need and significance of Refactoring, Refactoring Techniques, Continuous Integration, Automated build tools, Version control",
+            "Agility and Quality Assurance, Agile Interaction Design, Agile approach to Quality Assurance, Test Driven Development, Pair programming, Issues and Challenges. Introduction to Extreme Programming (XP), XP Lifecycle, The XP Team, XP Concepts, Refactoring, Technical Debt, Timeboxing, Stories, Velocity",
+            "Adopting XP, Pre-requisites, Challenges"
         ],
         "rejected_topics": null,
         "status": "verified"

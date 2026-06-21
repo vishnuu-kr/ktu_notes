@@ -2,13 +2,17 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to UML and Unified Process. UML diagrams",
+      "Types of relationships",
+      "Use case modelling",
       "Actors and Use cases",
       "Use case specification",
       "Actor generalization",
       "Use case generalization. Objects and classes",
       "Relationships",
       "Inheritance and Polymorphism",
-      "Packages Case study: Class diagram for University Library management software"
+      "Packages Case study",
+      "Class diagram for University Library management software"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -16,11 +20,13 @@
   {
     "module": "Module 2",
     "topics": [
+      "Use case realization",
       "Interactions",
       "Types of messaging - synchronous and asynchronous",
       "Sequence diagrams",
       "Communication diagrams",
-      "Interaction occurrences. Activity diagrams: Activity semantics",
+      "Interaction occurrences. Activity diagrams",
+      "Activity semantics",
       "activity partitions",
       "sending signals and accepting events",
       "Interaction overview diagrams"
@@ -31,12 +37,15 @@
   {
     "module": "Module 3",
     "topics": [
+      "Design",
       "Design workflow",
       "well-formed design classes",
       "Refining analysis relationships. Interfaces and components. State machine diagrams",
       "Composite states",
-      "sub machine states. Component diagram and Deployment diagram. Software design: Software architecture and its importance",
-      "Software architecture patterns: Component and Connector",
+      "sub machine states. Component diagram and Deployment diagram. Software design",
+      "Software architecture and its importance",
+      "Software architecture patterns",
+      "Component and Connector",
       "Layered",
       "Repository",
       "Client-Server",
@@ -48,6 +57,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Software pattern",
       "Model View Controller",
       "Creational Design Pattern types - Factory method",
       "Abstract Factory method",

@@ -3,7 +3,7 @@
         "module": "Module 1",
         "topics": [
             "Introduction:Overview of embedded system",
-            "Importance of sensors, actuators and interfacing circuits in embedded control system Embedded Sensors and Actuators:Various types of important sensors, actuators and their working principles: e.g, thermal, mechanical, electrical, magnetic, optical, chemical, smart material and meta material based"
+            "Importance of sensors, actuators and interfacing circuits in embedded control system Embedded Sensors and Actuators:Various types of important sensors, actuators and their working principles, e.g, thermal, mechanical, electrical, magnetic, optical, chemical, smart material and meta material based"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -11,12 +11,12 @@
     {
         "module": "Module 2",
         "topics": [
-            "Signal conditioning circuits",
-            "Various Op-Amp based interfacing circuit implementation: Amplifier, Filter, ADC, DAC etc",
-            "Various Serial Communication protocols for interfacing. Advancement in Interfacing Schemes of Resistive Sensors for Linearity Improvement and Error Reduction: Resistive sensor examples",
+            "Interfacing Aspects of Sensors and Actuators to Embedded Controller and their Communication Protocols, Signal conditioning circuits",
+            "Various Op-Amp based interfacing circuit implementation, Amplifier, Filter, ADC, DAC etc",
+            "Various Serial Communication protocols for interfacing. Advancement in Interfacing Schemes of Resistive Sensors for Linearity Improvement and Error Reduction, Resistive sensor examples",
             "Non-idealities in basic interfacing circuits",
             "Linearization techniques",
-            "Error reduction schemes due to environmental effects and remote communication. Advanced Techniques for Direct Interfacing of Resistive Sensors with Embedded controller: Embedded controller based excitation system",
+            "Error reduction schemes due to environmental effects and remote communication. Advanced Techniques for Direct Interfacing of Resistive Sensors with Embedded controller, Embedded controller based excitation system",
             "Direct interfacing schemes of various resistive sensors topologies (e.g. , single, differential and bridge type) to microcontrollers",
             "Interfacing scheme for sensor array"
         ],
@@ -26,9 +26,9 @@
     {
         "module": "Module 3",
         "topics": [
-            "Capacitive sensor examples",
+            "Advanced Techniques for Direct Interfacing of Capacitive Sensors with Embedded Controller, Capacitive sensor examples",
             "Interfacing scheme for different capacitive sensor configurations",
-            "Direct interfacing schemes. Advancement in Design of Interfacing Circuits for Lossy Capacitive Sensors: Lossy Capacitive sensor characteristics",
+            "Direct interfacing schemes. Advancement in Design of Interfacing Circuits for Lossy Capacitive Sensors, Lossy Capacitive sensor characteristics",
             "Various advanced interfacing schemes for lossy capacitive sensor"
         ],
         "rejected_topics": null,
@@ -37,8 +37,8 @@
     {
         "module": "Module 4",
         "topics": [
-            "Background of miniaturization",
-            "Miniaturized device fabrication process technology for Smart sensors and actuators. Miniaturized Sensors, Actuators and their Interfacing Electronics: Various types of important MEMS sensors and actuators: Design and operation",
+            "Miniaturization Technology for Smart Sensors and Actuators, Background of miniaturization",
+            "Miniaturized device fabrication process technology for Smart sensors and actuators. Miniaturized Sensors, Actuators and their Interfacing Electronics, Various types of important MEMS sensors and actuators, Design and operation",
             "Interfacing Electronics for MEMS Devices",
             "System-on-Chip integration",
             "Applications"

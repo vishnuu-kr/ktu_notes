@@ -26,9 +26,14 @@
   {
     "module": "Module 3",
     "topics": [
-      "Fault table method",
-      "path sensitization method",
-      "Boolean difference method"
+      "Hazards - static and dynamic hazards in combinational networks",
+      "Essential Hazards",
+      "Design of Hazard free circuits",
+      "Data synchronizers",
+      "Mixed operating mode asynchronous circuits",
+      "Practical issues- clock skew and jitter",
+      "Synchronous and asynchronous inputs. Faults",
+      "Fault table method - path sensitization method - Boolean difference method"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -36,7 +41,9 @@
   {
     "module": "Module 4",
     "topics": [
-      "Design entry: Schematic",
+      "VLSI Design flow",
+      "Design entry",
+      "Schematic",
       "Data types and objects",
       "different modelling styles in VHDL - Dataflow",
       "Behavioural and Structural Modelling. VHDL constructs and codes for combinational and sequential circuits"

@@ -2,10 +2,13 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to Automated Systems Overview of Automated Systems",
       "Structure of automatic industrial systems",
       "Linear and circular configurations",
-      "Non-industrial robots Manufacturing Process Layouts: Processing layout",
-      "Case studies: Chain links",
+      "Non-industrial robots Manufacturing Process Layouts",
+      "Processing layout",
+      "Case studies",
+      "Chain links",
       "springs",
       "soldering printed circuits",
       "galvanizing steel strips",
@@ -18,12 +21,17 @@
   {
     "module": "Module 2",
     "topics": [
-      "Mechanical drive systems: Falling weight",
+      "Drive Systems and Dynamic Analysis Mechanical and Electromagnetic Drives",
+      "Mechanical drive systems",
+      "Falling weight",
       "inclined belt",
       "spring systems",
-      "Electromagnetic drives and electric drives: Induction motors",
-      "stepper motors Hydraulic and Pneumatic Drives: Hydraulic and pneumatic drives",
-      "Brakes and variable moment of inertia Dynamic Analysis: Calculation of selection parameters",
+      "Electromagnetic drives and electric drives",
+      "Induction motors",
+      "stepper motors Hydraulic and Pneumatic Drives",
+      "Hydraulic and pneumatic drives",
+      "Brakes and variable moment of inertia Dynamic Analysis",
+      "Calculation of selection parameters",
       "Calculation of braking time for different systems"
     ],
     "rejected_topics": null,
@@ -32,11 +40,14 @@
   {
     "module": "Module 3",
     "topics": [
+      "Kinematics and Control Kinematics and Control Mechanisms",
       "Position function and input-output relations",
       "4 slot Geneva mechanism",
       "cam mechanisms",
-      "Amplifiers and flexible cam systems Dynamic Accuracy and Damping: Dynamic accuracy and vibrations",
-      "Damping: Electrical and mechanical"
+      "Amplifiers and flexible cam systems Dynamic Accuracy and Damping",
+      "Dynamic accuracy and vibrations",
+      "Damping",
+      "Electrical and mechanical"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -44,16 +55,24 @@
   {
     "module": "Module 4",
     "topics": [
+      "Transportation",
+      "Feeding",
+      "and Functional Systems Transportation Devices",
       "Linear and rotational transportation Conveyors",
       "indexing tables",
-      "Case studies on transportation devices Feeding and Orientation Devices: Feeding systems: Liquid",
+      "Case studies on transportation devices Feeding and Orientation Devices",
+      "Feeding systems",
+      "Liquid",
       "powder",
       "wire",
-      "rod Orientation: Passive",
+      "rod Orientation",
+      "Passive",
       "active",
       "logical",
-      "and electromagnetic fields Functional Systems and Manipulators: Automatic assembling and inspection systems",
-      "Manipulators: Dynamics",
+      "and electromagnetic fields Functional Systems and Manipulators",
+      "Automatic assembling and inspection systems",
+      "Manipulators",
+      "Dynamics",
       "kinematics",
       "vibrations"
     ],

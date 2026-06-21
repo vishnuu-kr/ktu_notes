@@ -2,10 +2,14 @@
   {
     "module": "Module 1",
     "topics": [
-      "Types and uses - Neural Network Architectures: Single layer feedforward networks - Multilayer feedforward networks - Recurrent networks. Learning Process in Neural Networks Supervised vs. Unsupervised learning - Learning rules: Perceptron",
+      "Overview of Soft Computing Definition and importance of Soft Computing - Comparison with Hard Computing - Applications in various domains. Introduction to Neural Networks Biological inspiration and McCulloch-Pitts model - Activation functions",
+      "Types and uses - Neural Network Architectures",
+      "Single layer feedforward networks - Multilayer feedforward networks - Recurrent networks. Learning Process in Neural Networks Supervised vs. Unsupervised learning - Learning rules",
+      "Perceptron",
       "Widrow-Hoff",
       "Delta rule",
-      "Hebbian and Competitive learning - Applications: Pattern association",
+      "Hebbian and Competitive learning - Applications",
+      "Pattern association",
       "recognition",
       "and function approximation"
     ],
@@ -15,10 +19,10 @@
   {
     "module": "Module 2",
     "topics": [
-      "Detailed working, issues, and solutions",
-      "XOR problem and decision rules",
-      "Introduction to MADALINE. Radial Basis Neural Networks Concept and applications",
-      "Network training and regularisation theory -Comparison with Multilayer Perceptron"
+      "Single Layer Networks Perceptron and ADALINE - Adaptive filtering and optimisation techniques -Perceptron convergence theorem. Multilayer Networks Architecture and learning algorithms - Backpropagation",
+      "Detailed working",
+      "issues",
+      "and solutions - XOR problem and decision rules - Introduction to MADALINE. Radial Basis Neural Networks Concept and applications - Network training and regularisation theory -Comparison with Multilayer Perceptron"
     ],
     "rejected_topics": null,
     "status": "verified"

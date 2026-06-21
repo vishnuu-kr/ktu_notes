@@ -23,7 +23,8 @@
   {
     "module": "Module 3",
     "topics": [
-      "Development of the Plane Stress and Plane Strain Stiffness Equations: -Development of the CST",
+      "Development of the Plane Stress and Plane Strain Stiffness Equations",
+      "Development of the CST",
       "Linear-Strain Triangle (Shape functions and equations only",
       "Galerkin weighted residual Techniques",
       "Types of Boundary conditions (Neumann",
@@ -35,6 +36,10 @@
   {
     "module": "Module 4",
     "topics": [
+      "Introduction to plate bending - finite element analysis of thin plate - finite element analysis of thick plate - Structural Dynamics",
+      "Mass matrix computation",
+      "Evaluation of eigen values and eigen vectors",
+      "Transient analysis",
       "Euler’s method",
       "Central difference technique",
       "Critical time step",

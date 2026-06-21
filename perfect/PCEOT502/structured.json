@@ -2,11 +2,22 @@
     {
         "module": "Module 1",
         "topics": [
-            "Power Diodes - Types- Characteristics (Static and Dynamic) - Effects of Reverse Recovery Transient- Ratings- Schottky Diodes-Features & Applications [] Semi-controlled switch: SCR (Thyristor) - Symbol",
+            "Role of Power Electronics",
+            "Motivation",
+            "Objectives and Challenges",
+            "Power Electronics Vs Linear Electronics",
+            "Ideal and real switches- Static and dynamic Performance - Power losses- Temperature rise- Thermal Analogy-Use of Heat sinks- Need for high efficiency",
+            "small size",
+            "high reliability and low cost- Overview of Applications [] Uncontrolled Switch",
+            "Power Diodes - Types- Characteristics (Static and Dynamic) - Effects of Reverse Recovery Transient- Ratings- Schottky Diodes-Features & Applications [] Semi-controlled switch",
+            "SCR (Thyristor) - Symbol",
             "Structure",
-            "Characteristics (Static and dynamic) - Turn-on and Turn-off phenomena - Ratings- Gate control of SCR - Gate pulse magnitude and duration requirements- Typical gate drive circuits - Gate synchronisation - Isolated gate drives [] Fully-controlled switches: MOSFETS and IGBTs: Symbol",
+            "Characteristics (Static and dynamic) - Turn-on and Turn-off phenomena - Ratings- Gate control of SCR - Gate pulse magnitude and duration requirements- Typical gate drive circuits - Gate synchronisation - Isolated gate drives [] Fully-controlled switches",
+            "MOSFETS and IGBTs",
+            "Symbol",
             "Structure",
-            "Characteristics (Static and dynamic) - Device ratings- Gate drive requirements - Typical gate drive circuits [] Modern power devices: Introduction to Wide Bandgap Devices - SiC MOSFET and GaN HEMT - Features and advantages [] 4. Power Electronics- Essentials and Applications by L. Umanand",
+            "Characteristics (Static and dynamic) - Device ratings- Gate drive requirements - Typical gate drive circuits [] Modern power devices",
+            "Introduction to Wide Bandgap Devices - SiC MOSFET and GaN HEMT - Features and advantages [] 4. Power Electronics- Essentials and Applications by L. Umanand",
             "John Wiley",
             "2009"
         ],
@@ -46,20 +57,12 @@
     {
         "module": "Module 4",
         "topics": [
-            "Introduction to Electric Drives",
-            "Advantages of adjustable speed electric drives",
-            "Block diagram, Types of loads",
-            "Classification of load torque-Motor torque-load combination: characteristics and dynamic equation-Steady state stability [] DC Drives- Chopper control of Separately Excited DC drives (SEDC",
-            "One quadrant, Two quadrant and four quadrant Chopper fed drives (Continuous conduction only)- Motoring and Regenerative braking",
-            "Speed-Torque characteristics",
-            "Speed control- Controlled rectifier fed separately excited DC motor drive- Single phase and three phase (Continuous conduction only)- Speed-Torque characteristics- Speed control",
-            "Dual converter drives (single phase",
-            "Circulating current Type and Non-circulating current",
-            "Static four-quadrant operation with SEDC [] Three-phase VSI fed induction motor drives: Stator Voltage control",
-            "V/F speed control",
-            "Speed-Torque characteristics- Speed control",
-            "operation below and above base speed",
-            "Braking: dynamic and regenerative"
+            "Introduction to Electric Drives - Advantages of adjustable speed electric drives - Block diagram",
+            "Types of loads - Classification of load torque-Motor torque-load combination",
+            "characteristics and dynamic equation-Steady state stability [] DC Drives- Chopper control of Separately Excited DC drives (SEDC) - One quadrant",
+            "Two quadrant and four quadrant Chopper fed drives (Continuous conduction only)- Motoring and Regenerative braking - Speed-Torque characteristics - Speed control- Controlled rectifier fed separately excited DC motor drive- Single phase and three phase (Continuous conduction only)- Speed-Torque characteristics- Speed control - Dual converter drives (single phase) - Circulating current Type and Non-circulating current - Static four-quadrant operation with SEDC [] Three-phase VSI fed induction motor drives",
+            "Stator Voltage control - V/F speed control - Speed-Torque characteristics- Speed control - operation below and above base speed - Braking",
+            "dynamic and regenerative"
         ],
         "rejected_topics": null,
         "status": "verified"

@@ -2,7 +2,8 @@
     {
         "module": "Module 1",
         "topics": [
-            "Ultrasound Interaction with Tissue - Ultrasound Waves and Propagation",
+            "Diagnostic Ultrasound Imaging",
+            "Ultrasound Interaction with Tissue (Basics Only) - Ultrasound Waves and Propagation",
             "Attenuation",
             "Reflection",
             "Scattering",
@@ -13,11 +14,14 @@
             "Modes of Ultrasound and Applications - A-Mode",
             "B-Mode and M-Mode",
             "Transducers Construction"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
+            "Magnetic Resonance Imaging",
             "Basic Principles of Magnetic Resonance - Magnetic Moment",
             "Excitation and Emission - Principles of Image Formation",
             "MRI Instrumentation",
@@ -25,22 +29,28 @@
             "MR Angiography",
             "Diffusion MRI",
             "MRI Fourier Reconstruction"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
+            "Computed Tomography",
             "Basics of X-Ray - Properties and Production - X-Ray Tube - Fixed Anode Type and Rotating Anode Type",
             "Principles of Sectional Imaging",
             "Generations of CT",
             "Spiral and Multi-Slice CT",
             "Detectors Used in CT",
             "2D Image Reconstruction Techniques - Iteration and Fourier Methods"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
+            "Nuclear Imaging",
             "Concept of Nuclear Imaging",
             "Radiation Detectors",
             "Gamma Camera",
@@ -49,6 +59,8 @@
             "MR-PET System Architecture",
             "Infrared Imaging - Basic Principle of Thermal Imaging",
             "Physics of Thermography - IR Detectors"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Basic Concepts and Evolutionary Algorithms",
             "Genetic Algorithm (GA)",
             "Basic Concepts",
             "Types of Encoding",
@@ -19,12 +20,13 @@
     {
         "module": "Module 2",
         "topics": [
+            "Ant Colony Algorithms",
             "Overview",
             "Basic Algorithm",
             "Variants",
             "Formalization and Properties of Ant Colony Optimization",
-            "Applications in Scheduling and Vehicle Routing Problem",
-            "Particle Swarm Optimization (PSO): Basic Concepts",
+            "Applications in Scheduling and Vehicle Routing Problem. Particle Swarm Optimization (PSO)",
+            "Basic Concepts",
             "Swarm Intelligence Principles",
             "Computational Characteristics",
             "Parameter Selection",
@@ -37,6 +39,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Search Based Algorithms",
             "Scatter Search - Components",
             "Algorithm",
             "Applications",
@@ -46,8 +49,8 @@
             "Candidate List",
             "Short-Term and Long-Term Memory",
             "Threshold Accepting",
-            "Application of TS in Decision Making",
-            "Simulated Annealing: Main Components of Simulated Annealing",
+            "Application of TS in Decision Making. Simulated Annealing",
+            "Main Components of Simulated Annealing",
             "Homogeneous vs. In-homogenous Simulated Annealing",
             "Annealing Schedules",
             "Applications in Sequencing and Scheduling",
@@ -60,13 +63,14 @@
     {
         "module": "Module 4",
         "topics": [
+            "Artificial Neural Networks (ANN)",
             "Basic Concepts",
             "Biological and Artificial Neurons",
             "Learning Rules and Activation Functions",
             "ANN Architecture",
             "Single Layer and Multi Layer Feed Forward Networks",
-            "Back Propagation Networks and Applications",
-            "Fuzzy Systems: Crisp Logic",
+            "Back Propagation Networks and Applications. Fuzzy Systems",
+            "Crisp Logic",
             "Predicate Logic",
             "Fuzzy Logic",
             "Fuzzy Rule Based System",

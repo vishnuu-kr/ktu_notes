@@ -2,15 +2,18 @@
     {
         "module": "Module 1",
         "topics": [
+            "Microwaves",
             "Electromagnetic spectrum",
             "Frequency Bands",
             "Features of microwaves",
             "advantages & disadvantages",
             "Applications",
-            "Atmospheric propagation effects. Cavity Resonator: TE and TM modes in waveguides (Review only)-Rectangular Cavity Resonator- Resonance frequency",
+            "Atmospheric propagation effects. Cavity Resonator",
+            "TE and TM modes in waveguides (Review only)-Rectangular Cavity Resonator- Resonance frequency",
             "Q factor",
             "Excitation and Tuning",
-            "Re-entrant cavity. Microwave Hybrid Circuits: E plane Tee",
+            "Re-entrant cavity. Microwave Hybrid Circuits",
+            "E plane Tee",
             "H plane Tee",
             "Hybrid Tee",
             "Hybrid Ring",
@@ -18,11 +21,13 @@
             "Isolator",
             "Circulator",
             "Phase shifter",
-            "Attenuator Scattering parameters: Properties of S matrix",
+            "Attenuator Scattering parameters",
+            "Properties of S matrix",
             "S matrix formulation of E plane Tee",
             "H plane Tee",
             "Magic Tee",
-            "Directional coupler. Microwave Semiconductor Devices: Principle of operation of Tunnel diode",
+            "Directional coupler. Microwave Semiconductor Devices",
+            "Principle of operation of Tunnel diode",
             "Gunn diode- Different modes"
         ],
         "rejected_topics": null,
@@ -31,7 +36,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Types, Structure and Principles of operation of Two Cavity Klystron- Velocity Modulation, Bunching Reflex Klystron- Velocity Modulation, Power output and efficiency Traveling Wave Tube Amplifier- Slow wave structures, Helix TWT amplification process. Magnetron Oscillator-Cylindrical magnetron, Cyclotron angular frequency, Microwave measurements: Measurement of Power, VSWR, frequency, wavelength, insertion loss, impedance and attenuation",
+            "Microwave tubes, Types, Structure and Principles of operation of Two Cavity Klystron- Velocity Modulation, Bunching Reflex Klystron- Velocity Modulation, Power output and efficiency Traveling Wave Tube Amplifier- Slow wave structures, Helix TWT amplification process. Magnetron Oscillator-Cylindrical magnetron, Cyclotron angular frequency, Microwave measurements, Measurement of Power, VSWR, frequency, wavelength, insertion loss, impedance and attenuation",
             "Basic concept of Network Analyzer and Anechoic chamber"
         ],
         "rejected_topics": null,
@@ -40,11 +45,13 @@
     {
         "module": "Module 3",
         "topics": [
+            "Antennas",
             "Definition",
             "Radiation mechanism",
             "Polarisation",
             "Types",
-            "Applications Basic antenna parameters: Radiation Pattern",
+            "Applications Basic antenna parameters",
+            "Radiation Pattern",
             "Radiation Power Density",
             "Radiation Intensity",
             "Radiation resistance",
@@ -69,6 +76,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Antenna arrays",
             "Field of two isotropic point sources",
             "Principle of pattern multiplication",
             "Array factor",
@@ -76,7 +84,9 @@
             "Grating lobes",
             "Design of Broadside and End fire arrays",
             "Phased array principle",
-            "Adaptive antenna array principle. Broad band antennas: Log periodic antenna array - Principle and design equations Helical antenna: Design equations",
+            "Adaptive antenna array principle. Broad band antennas",
+            "Log periodic antenna array - Principle and design equations Helical antenna",
+            "Design equations",
             "modes Micro strip Rectangular Patch Antennas -Design equations",
             "important feeding methods. Horn antenna- Types",
             "principles",

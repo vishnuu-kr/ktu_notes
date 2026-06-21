@@ -3,7 +3,8 @@
         "module": "Module 1",
         "topics": [
             "Engineering applications of optimization",
-            "Formulation of design problems as mathematical programming problems. Classification of optimization problems/techniques. Classical optimization: unconstrained single and multivariate optimization",
+            "Formulation of design problems as mathematical programming problems. Classification of optimization problems/techniques. Classical optimization",
+            "unconstrained single and multivariate optimization",
             "Constrained optimization. Linear",
             "Mathematical formulation of LP Problems",
             "Solving using Simplex method and Graphical method"
@@ -14,7 +15,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Introduction, 2- person zero - sum game -Saddle point",
+            "Game Theory, Introduction, 2- person zero - sum game -Saddle point",
             "Mini-Max and Maxi-Min Theorems (statement only)- Graphical solution (2x n, m x 2 game), dominance property. Introduction to network tree - Minimal Spanning Tree - Prim’s Algorithm. Shortest path problems- Solution methods - Dijkstra’s Method"
         ],
         "rejected_topics": null,
@@ -34,6 +35,9 @@
     {
         "module": "Module 4",
         "topics": [
+            "Introduction to Genetic algorithm",
+            "Basic GA framework",
+            "GA operators",
             "Encoding",
             "Crossover",
             "Selection",

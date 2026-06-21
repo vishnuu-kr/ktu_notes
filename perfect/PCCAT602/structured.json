@@ -26,7 +26,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Sensors, Actuators and Control) Sensor classification: touch, force, proximity, vision sensors. Internal sensors-Position sensors, velocity sensors, acceleration sensors, Force sensors",
+            "Sensors, Actuators and Control) Sensor classification, touch, force, proximity, vision sensors. Internal sensors-Position sensors, velocity sensors, acceleration sensors, Force sensors",
             "External sensors-contact type, non-contact type",
             "Digital Camera - CCD camera - CMOS camera -Omnidirectional cameras Sensor characteristics. Actuators - DC Motors - H-Bridge - Pulse Width Modulation - Stepper Motors - Servos, Hydraulic & pneumatic actuators"
         ],
@@ -36,6 +36,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Robotic Vision",
             "Sensing",
             "Pre-processing",
             "Segmentation",
@@ -52,7 +53,7 @@
     {
         "module": "Module 4",
         "topics": [
-            "Representing robot position. Basics of reactive navigation",
+            "Position and Orientation, Representing robot position. Basics of reactive navigation",
             "Robot Localization, Challenges in localization - Continuous representations - Decomposition strategies - Current challenges in map representation. Probabilistic map-based localization (only Kalman method), Autonomous map building, Simultaneous localization and mapping (SLAM) - Mathematical definition and various types of SLAM -, Path Planning-Graph search, deterministic graph search -, breadth first search - depth first search- Dijkstra' s algorithm, A*, D* algorithms, Potential field based path planning. Obstacle avoidance - Bug algorithm - Vector Field Histogram -Dynamic window approaches. Navigation Architectures - Modularity for code reuse and sharing - Control localization"
         ],
         "rejected_topics": null,

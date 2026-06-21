@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Fundamentals",
       "Basic operational concepts",
       "memory locations and addresses",
       "instructions and instruction sequencing",
@@ -20,6 +21,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Pipelining",
       "Introduction to single cycle and multi cycle processors. Pipelining- Basic and intermediate concepts",
       "Introduction to pipelining",
       "pipeline hazards",
@@ -35,6 +37,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Memory Organization",
       "Introduction to cache memory",
       "cache mapping",
       "block replacement techniques",
@@ -55,13 +58,15 @@
   {
     "module": "Module 4",
     "topics": [
+      "Introduction to Parallel Processors",
       "SISD",
       "MIMD",
       "SIMD",
       "SPMD",
       "and vector hardware multithreading",
       "multicore and other shared memory multiprocessors",
-      "Case Study: Intel Core i7"
+      "Case Study",
+      "Intel Core i7"
     ],
     "rejected_topics": null,
     "status": "verified"

@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "History of medical robots, Classification of medical robots, Present status and future trends. Basic components of robotic system. Basic terminology - Accuracy, Repeatability, Resolution, Degree of freedom. Mechanisms and transmission, End effectors, Grippers different methods of gripping, Mechanical grippers-Slider crank mechanism, Rotary actuators, Cam type gripper, Magnetic grippers, Vacuum grippers, Air operated grippers",
+            "Components of robotic system, History of medical robots, Classification of medical robots, Present status and future trends. Basic components of robotic system. Basic terminology - Accuracy, Repeatability, Resolution, Degree of freedom. Mechanisms and transmission, End effectors, Grippers different methods of gripping, Mechanical grippers-Slider crank mechanism, Rotary actuators, Cam type gripper, Magnetic grippers, Vacuum grippers, Air operated grippers",
             "Specifications of robot",
             "Drive systems- Pneumatic Drives-Hydraulic Drives-Mechanical Drives-Electrical Drives, DC Servo Motors, Stepper Motors, AC Servo Motors-Salient Features and Applications"
         ],
@@ -12,7 +12,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Forward Kinematics, Inverse Kinematics and Difference",
+            "Sensors in robots- Touch sensors, Tactile sensor, Proximity and range sensors, Robotic vision sensor, Force sensor, Light sensors, Pressure sensors. Robot kinematics, Forward Kinematics, Inverse Kinematics and Difference",
             "Forward Kinematics and Reverse Kinematics of manipulators with Two, Three Degrees of Freedom (in 2 Dimension), Four Degrees of freedom (in 3 Dimension) Jacobians, Velocity and Forces-Manipulator Dynamics, Trajectory Generator"
         ],
         "rejected_topics": null,
@@ -21,10 +21,14 @@
     {
         "module": "Module 3",
         "topics": [
+            "Robot programming Languages-VAL Programming-Motion Commands",
+            "Sensor Commands",
+            "End Effect or commands and simple Programs Robots in health care",
             "Tele operated Robot-Assisted Minimally Invasive Surgery",
-            "Robot design concepts Robot assisted Image-Guided Interventions: CT",
+            "Robot design concepts Robot assisted Image-Guided Interventions",
             "Ultrasound",
-            "Other applications: Robotic catheters for heart electrophysiology",
+            "Other applications",
+            "Robotic catheters for heart electrophysiology",
             "Humanoids",
             "Micro/nano robots for biomedicine-Delivery",
             "surgery",
@@ -37,7 +41,7 @@
     {
         "module": "Module 4",
         "topics": [
-            "Cardiac, abdominal, and urologic procedures with tele-operated robots (3 procedures each), Neurosurgery and Orthopedic surgery with robots. Other types of healthcare robots: Physically assistive robots, socially assistive robots, Rehabilitation robotics, Design methodologies-Technological choices - Security. Professional and medical ethics",
+            "Case Studies, Cardiac, abdominal, and urologic procedures with tele-operated robots (3 procedures each), Neurosurgery and Orthopedic surgery with robots. Other types of healthcare robots, Physically assistive robots, socially assistive robots, Rehabilitation robotics, Design methodologies-Technological choices - Security. Professional and medical ethics",
             "Robo ethics- social and ethical implications"
         ],
         "rejected_topics": null,

@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Neural Networks Introduction to Human and Artificial Intelligence",
       "History of AI",
       "Forms of learning - Supervised and unsupervised learning",
       "Perceptron Learning rule",
@@ -26,7 +27,8 @@
   {
     "module": "Module 2",
     "topics": [
-      "Overview of deep learning: deep feedforward networks",
+      "Overview of deep learning",
+      "deep feedforward networks",
       "and training deep models",
       "including optimization techniques such as Gradient Descent (GD",
       "GD with momentum",
@@ -48,17 +50,20 @@
   {
     "module": "Module 3",
     "topics": [
-      "Convolutional Neural Networks: convolution layer",
+      "Convolutional Neural Networks",
+      "convolution layer",
       "pooling layer",
       "fully connected layer",
       "Conv Net",
-      "Case study of ImageNet challenge: LeNet",
+      "Case study of ImageNet challenge",
+      "LeNet",
       "AlexNet",
       "Google Net",
       "ResNet",
       "Inception Net",
       "Efficient Net etc. Regularization Techniques",
-      "Data Augmentation: zooming",
+      "Data Augmentation",
+      "zooming",
       "rotation",
       "cropping",
       "blurring",
@@ -75,6 +80,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Deep Unsupervised Learning and Recent Trends",
       "Auto encoders (standard",
       "sparse",
       "denoising",

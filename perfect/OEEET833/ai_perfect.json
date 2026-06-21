@@ -2,59 +2,74 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Mechatronics",
             "Introduction",
-            "Examples of Mechatronic systems",
-            "Electric circuits and components",
-            "Semiconductor electronics",
-            "Transistor applications sensors and transducers: performance terminology of sensors",
+            "Examples of Mechatronic Systems",
+            "Electric Circuits and Components",
+            "Semiconductor Electronics",
+            "Transistor Applications, Sensors and Transducers",
+            "Performance Terminology of Sensors",
             "Displacement",
-            "Position and proximity sensors-I",
+            "Position and Proximity Sensors I",
             "Displacement",
-            "Position and proximity sensors-II",
+            "Position and Proximity Sensors II",
             "Force",
-            "Fluid pressure",
-            "Liquid flow sensors",
+            "Fluid Pressure",
+            "Liquid Flow Sensors",
             "Temperature",
-            "Light sensor",
-            "Acceleration and vibration measurement",
-            "Semiconductor sensor and MEMS"
-        ]
+            "Light Sensor",
+            "Acceleration and Vibration Measurement",
+            "Semiconductor Sensors and MEMS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
-            "Mechanical actuation system",
-            "Hydraulic and pneumatic actuation system",
-            "Electrical actuation system-I",
-            "Electrical actuation system-II",
-            "Data presentation system signal conditioning: introduction to signal processing and Op-Amp",
-            "Op-Amp as signal conditioner",
-            "Analogue to digital converter",
-            "Digital to analogue converter",
-            "Artificial intelligence"
-        ]
+            "Actuators and Mechanisms",
+            "Mechanical Actuation System",
+            "Hydraulic and Pneumatic Actuation System",
+            "Electrical Actuation System I",
+            "Electrical Actuation System II",
+            "Data Presentation System, Signal Conditioning",
+            "Introduction to Signal Processing and Op-Amp",
+            "Op-Amp as Signal Conditioner",
+            "Analogue to Digital Converter",
+            "Digital to Analogue Converter",
+            "Artificial Intelligence"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
-            "Digital circuits-I",
-            "Digital circuits-II",
-            "Microprocessor micro controller",
-            "Programming of microcontrollers modeling and system response: mechanical system model",
-            "Electrical system model",
-            "Fluid system model",
-            "Dynamic response of systems",
-            "Transfer function and frequency response"
-        ]
+            "Microprocessors and Microcontrollers",
+            "Digital Circuits I",
+            "Digital Circuits II",
+            "Microprocessor, Microcontroller",
+            "Programming of Microcontrollers, Modeling and System Response",
+            "Mechanical System Model",
+            "Electrical System Model",
+            "Fluid System Model",
+            "Dynamic Response of Systems",
+            "Transfer Function and Frequency Response"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
-            "PID controllers",
-            "Digital controllers",
-            "Program logic controllers",
-            "Input/output and communication systems",
-            "Fault findings mechatronics designs and case studies"
-        ]
+            "Closed Loop Controllers",
+            "PID Controllers",
+            "Digital Controllers",
+            "Program Logic Controllers",
+            "Input/Output and Communication Systems",
+            "Fault Findings, Mechatronics Designs and Case Studies"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

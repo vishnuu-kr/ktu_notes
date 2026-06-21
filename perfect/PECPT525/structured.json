@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Fundamental Cloud Computing",
             "Traditional computing- Limitations. Overview of Computing Paradigms-Grid Computing",
             "Cluster Computing",
             "Distributed Computing",
@@ -22,8 +23,19 @@
     {
         "module": "Module 2",
         "topics": [
-            "Para",
-            "virtualization, VMware: full virtualization"
+            "Introduction to virtualization-Virtualizing physical computing resources",
+            "Virtual Machines (Machine virtualization",
+            "non-virtualized v/s virtualized machine environments. Types of VMs-process VM v/s system VM",
+            "Emulation",
+            "interpretation and binary translation. Hardware-levelvirtualization-Hypervisors/VMM.Typesof Hypervisors. Full Virtualization",
+            "Para-Virtualization",
+            "Hardware-assisted virtualization",
+            "OS level virtualization. Basics of Network Virtualization",
+            "Storage Virtualization and Desktop Virtualization",
+            "Pros and cons of virtualization.CaseStudy- Xen",
+            "Para-virtualization",
+            "VMware",
+            "full virtualization"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -31,6 +43,8 @@
     {
         "module": "Module 3",
         "topics": [
+            "Cloud-Enabling Technologies",
+            "Private cloud platforms and Security",
             "Broadband networks and internet architecture- Internet Service Providers (ISPs",
             "Data centre technology",
             "Web technology",
@@ -39,7 +53,8 @@
             "CloudStack",
             "Basics of Eucalyptus",
             "Open Nebula",
-            "Nimbus. Basic terms and concepts in security: Threat agents",
+            "Nimbus. Basic terms and concepts in security",
+            "Threat agents",
             "Cloud security threats/risks",
             "Trust. Operating system security-Virtual machine security-Security of virtualization- Security Risks Posed by Shared Images",
             "Security Risks Posed by Management OS"
@@ -56,16 +71,20 @@
             "Advanced compute services. Storage services-Simple Storage System (Amazon S3",
             "Elastic Block Store (Amazon EBS",
             "Database Services",
-            "Amazon CDN Services and Communication services. Google Cloud Platform:- IaaS Offerings: Compute Engine (GCE",
+            "Amazon CDN Services and Communication services. Google Cloud Platform:- IaaS Offerings",
+            "Compute Engine (GCE",
             "Cloud Storage",
-            "PaaS Offerings: Google App Engine (GAE",
+            "PaaS Offerings",
+            "Google App Engine (GAE",
             "Storage services",
             "Application services",
             "Compute services",
             "Database Services",
-            "SaaS Offerings: Gmail",
+            "SaaS Offerings",
+            "Gmail",
             "Docs",
-            "Google Drive. Microsoft Azure: Azure Platform Architecture",
+            "Google Drive. Microsoft Azure",
+            "Azure Platform Architecture",
             "Hyper-V",
             "Azure Virtual Machine",
             "Compute services",

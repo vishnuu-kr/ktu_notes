@@ -2,7 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
-      "Comparison of AC and DC Transmission -Types of HVDC system",
+      "Introduction to HVDC System, Comparison of AC and DC Transmission -Types of HVDC system",
       "Current Source Converters",
       "Analysis without and with overlap period. Voltage Source Converters (VSC",
       "VSC with AC cur-rent control and VSC with AC voltage control HVDC Controls",
@@ -20,7 +20,7 @@
   {
     "module": "Module 2",
     "topics": [
-      "Power flow in Power Systems",
+      "Introduction to FACTS, Power flow in Power Systems",
       "Voltage regula-tion and reactive power flow control in Power Systems",
       "Power flow control -Constraints of maximum transmission line loading",
       "Needs and emergence of FACTS",
@@ -32,6 +32,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Shunt and Series Facts Devices",
       "Static shunt Compensator - Objectives of shunt compensations - Variable impedance type VAR Generators -TCR",
       "FC-TCR (Principle of operation and schematic) and - STAT-COM (Principle of operation and schematic). Static Series compensator -Objectives of series compensations-Variable impedance type series compen-sators - GCSC. TCSC",
       "TSSC (Principle of operation and schematic) Switching converter type Series Compensators-(SSSC) (Principle of opera-tion and schematic"
@@ -42,11 +43,10 @@
   {
     "module": "Module 4",
     "topics": [
-      "Unified Power Flow Controller: Circuit Arrangement, Operation of UPFC",
-      "Basic principle of P and Q control",
-      "independent real and reactive power flow control",
-      "Applications Introduction to interline power flow controller (IPFC) (Principle of operation and schematic) Thyristor con",
-      "trolled Voltage and Phase angle Regulators (Principle of operation and schematic"
+      "UPFC AND IPFC",
+      "Unified Power Flow Controller",
+      "Circuit Arrangement",
+      "Operation of UPFC- Basic principle of P and Q control- independent real and reactive power flow control- Applications Introduction to interline power flow controller (IPFC) (Principle of operation and schematic) Thyristor con-trolled Voltage and Phase angle Regulators (Principle of operation and schematic"
     ],
     "rejected_topics": null,
     "status": "verified"

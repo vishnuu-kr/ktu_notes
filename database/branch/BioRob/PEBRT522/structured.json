@@ -2,11 +2,13 @@
   {
     "module": "Module 1",
     "topics": [
+      "Mobile Robots",
       "Fundamental problems - Path Planning",
       "Localization",
       "Sensing",
       "Mapping",
-      "Simultaneous Localization and Mapping Locomotion: Introduction to stepper Motor and Servo Motor Control",
+      "Simultaneous Localization and Mapping Locomotion",
+      "Introduction to stepper Motor and Servo Motor Control",
       "Wheeled Mobile Robots -Differential Drive",
       "Synchronous Drive",
       "Steered wheels",
@@ -16,7 +18,8 @@
       "Limb design and Control",
       "forward and inverse kinematics",
       "Gait and Body Control",
-      "Dynamic Gaits Off-Board Communication: Tethered",
+      "Dynamic Gaits Off-Board Communication",
+      "Tethered",
       "Untethered",
       "Radio Modems"
     ],
@@ -26,13 +29,16 @@
   {
     "module": "Module 2",
     "topics": [
-      "Basic concepts - Sensors: Bumbers",
+      "Non Visual Sensors",
+      "Basic concepts - Sensors",
+      "Bumbers",
       "Accelerometers",
       "Gyroscopes",
       "infrared sensors",
       "Sonar - Transducer Model",
       "Data interpretation",
-      "Laser Range finders - Data Fusion: Kalman Filter Visual Sensors :Perspective Camera",
+      "Laser Range finders - Data Fusion",
+      "Kalman Filter Visual Sensors :Perspective Camera",
       "Planar Homography",
       "Camera Calibration",
       "Object Appearance and Shading - Signals and Sampling - Image features and Their Combination - Measuring Depth - Active Vision"
@@ -43,14 +49,20 @@
   {
     "module": "Module 3",
     "topics": [
-      "Representing Space: Spatial Decomposition",
+      "Representation and Reasoning about Space",
+      "Representing Space",
+      "Spatial Decomposition",
       "Geometric Representations",
-      "Topological Representations - Representing the Robot: Configuration Space",
-      "Simplification of C-space - Path Planning for Mobile Robots: Constructing a discrete search space",
-      "Retraction Methods - Searching a Discrete State Space: Graph search",
+      "Topological Representations - Representing the Robot",
+      "Configuration Space",
+      "Simplification of C-space - Path Planning for Mobile Robots",
+      "Constructing a discrete search space",
+      "Retraction Methods - Searching a Discrete State Space",
+      "Graph search",
       "Depth-first Search",
       "Breadth-first Search",
-      "Dijkstra’s Algorithm - Searching a Continuous State Space: Vector Field Algorithm",
+      "Dijkstra’s Algorithm - Searching a Continuous State Space",
+      "Vector Field Algorithm",
       "Bug algorithm - Spatial Uncertainty - Dynamic Environments",
       "Probabilistic path planning"
     ],
@@ -60,19 +72,11 @@
   {
     "module": "Module 4",
     "topics": [
-      "Horizontal Decomposition",
-      "Vertical Decomposition",
-      "Hybrid Control Architectures",
-      "Middleware",
-      "High Level Control",
-      "Alternative Control Formalisms",
-      "The human Robot interface. Pose Maintenance and Localization: Simple landmark measurement -Servo Control",
-      "Recursive Filtering",
-      "Non-Geometric methods: Perceptual Structure",
-      "Correlation based localization",
-      "Global Localization Mapping: Sensorial Maps",
-      "Geometric Maps",
-      "Topological Maps"
+      "System Control",
+      "Horizontal Decomposition - Vertical Decomposition - Hybrid Control Architectures - Middleware - High Level Control - Alternative Control Formalisms - The human Robot interface. Pose Maintenance and Localization",
+      "Simple landmark measurement -Servo Control - Recursive Filtering - Non-Geometric methods",
+      "Perceptual Structure - Correlation based localization - Global Localization Mapping",
+      "Sensorial Maps - Geometric Maps - Topological Maps"
     ],
     "rejected_topics": null,
     "status": "verified"

@@ -2,37 +2,45 @@
     {
         "module": "Module 1",
         "topics": [
-            "Basic Concepts of Data Structures: Definitions",
+            "Basic Concepts of Data Structures",
             "Data Abstraction",
-            "Performance Analysis - Time and Space Complexity, Asymptotic Notations",
-            "Polynomial Representation Using Arrays, Sparse Matrix (Tuple Representation)",
-            "Stacks and Queues - Stacks, Multi-Stacks, Queues, Circular Queues"
-        ]
+            "Performance Analysis: Time and Space Complexity, Asymptotic Notations",
+            "Polynomial Representation using Arrays, Sparse Matrix (Tuple Representation)",
+            "Stacks and Queues: Stacks, Multi-Stacks, Queues, Circular Queues"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
-            "Linked List and Memory Management: Singly Linked List - Operations on Linked List, Stacks and Queues Using Linked List, Polynomial Representation Using Linked List",
+            "Linked List and Memory Management: Singly Linked List - Operations on Linked List, Stacks and Queues using Linked List, Polynomial Representation using Linked List",
             "Doubly Linked List"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
             "Trees and Graphs: Representation of Trees",
-            "Binary Trees - Types and Properties, Binary Tree Representation, Tree Operations, Tree Traversals",
-            "Binary Search Trees - Binary Search Tree Operations",
+            "Binary Trees: Types and Properties, Binary Tree Representation, Tree Operations, Tree Traversals",
+            "Binary Search Trees: Binary Search Tree Operations",
             "Graphs: Definitions",
             "Representation of Graphs",
             "Depth First Search and Breadth First Search"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
-            "Sorting and Searching Techniques: Selection Sort, Insertion Sort, Quick Sort, Merge Sort",
-            "Searching Techniques - Linear Search, Binary Search, Hashing - Hashing Functions: Division",
+            "Sorting and Searching: Sorting Techniques - Selection Sort, Insertion Sort, Quick Sort, Merge Sort",
+            "Searching Techniques: Linear Search, Binary Search, Hashing - Hashing Functions, Division",
             "Collision Resolution: Linear Probing, Open Hashing"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

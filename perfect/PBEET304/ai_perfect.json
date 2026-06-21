@@ -2,17 +2,15 @@
     {
         "module": "Module 1",
         "topics": [
-            "Review of Bipolar Junction Transistor and Introduction to DC Biasing",
+            "Review of Bipolar Junction Transistor - Introduction to DC Biasing",
             "Base Bias",
             "Voltage Divider Bias and Common Emitter Amplifier",
             "AC Concepts",
-            "Role of Coupling Capacitors and Emitter Bypass Capacitor, Common Emitter AC Equivalent Circuit, Amplifier Gain",
-            "Calculation of Amplifier Gains and Impedances Using h-Parameter Equivalent Circuit",
-            "Emitter Follower Amplifier",
-            "Power Amplifiers and AC Load Line",
+            "Role of Coupling Capacitors and Emitter Bypass Capacitor - Common Emitter AC Equivalent Circuit - Amplifier Gain",
+            "Calculation of Amplifier Gains and Impedances Using h-Parameter Equivalent Circuit, Emitter Follower Amplifier, Power Amplifiers - AC Load Line",
             "RC Coupled Amplifiers",
             "Transformer Coupled Class A Amplifiers",
-            "Class B Amplifiers and Derivation of Efficiency",
+            "Class B Amplifiers (Derivation of Efficiency)",
             "Class AB Amplifiers",
             "Class C and Class D Amplifiers"
         ],
@@ -24,21 +22,14 @@
         "topics": [
             "Introduction to JFET",
             "JFET Biasing Circuits",
-            "Common Source Amplifier",
-            "Introduction to MOSFET",
-            "MOSFET Construction",
-            "D-MOSFET and E-MOSFET",
-            "Complementary MOSFET Amplifier",
-            "Frequency Response",
+            "Common Source Amplifier, Introduction to MOSFET - MOSFET Construction - D-MOSFET, E-MOSFET, Complementary MOSFET Amplifier, Frequency Response",
             "Basic Concepts",
             "BJT Amplifier Frequency Response",
-            "FET Amplifier Frequency Response",
-            "Feedback and Oscillator Circuits",
+            "FET Amplifier Frequency Response, Feedback and Oscillator Circuits",
             "Feedback Concepts",
             "Feedback Connection Types",
-            "Practical Feedback Circuits",
-            "Oscillators",
-            "Phase Shift Oscillator and Expression of Frequency Oscillation",
+            "Practical Feedback Circuits, Oscillators",
+            "Phase Shift Oscillator (Expression of Frequency Oscillation)",
             "Wien Bridge Oscillator",
             "Tuned Oscillator Circuits",
             "Crystal Oscillator"
@@ -49,6 +40,8 @@
     {
         "module": "Module 3",
         "topics": [
+            "Introduction to Operational Amplifiers (Op-Amps) - Operation Overview - Differential Amplifiers and Op-Amp Specifications - Gain",
+            "CMRR and Slew Rate, Op-Amp Circuits - Inverting Amplifiers - Non-Inverting Amplifiers - Summing and Difference Amplifiers - Instrumentation Amplifiers, Differentiator and Integrator Circuits, Practical Circuits, Comparators",
             "Zero Crossing and Voltage Level Detectors",
             "Schmitt Trigger"
         ],
@@ -58,10 +51,11 @@
     {
         "module": "Module 4",
         "topics": [
-            "Square, Triangular and Ramp Generator Circuits Using Op-Amp",
-            "Effect of Slew Rate on Waveform Generation",
-            "Timer 555 IC: Internal Diagram, Astable and Monostable Multivibrators",
-            "Project Based Learning Approach and Project Topic Suggestions for Analog Electronics"
+            "Active Filters",
+            "Butterworth, Chebyshev and Bessel Filters - Low Pass Filter",
+            "High Pass Filter - Band Pass and Notch Filters - Butterworth, Waveform Generation Using Op-Amps - Square, Triangular and Ramp Generator Circuits Using Op-Amp - Effect of Slew Rate on Waveform Generation, Timer 555 IC, Internal Diagram of 555 IC",
+            "Astable and Monostable Multi-vibrators Using 555 IC",
+            "Project Topic Suggestions: Regulated Power Supply, Electronic Thermometer with Diode/Transistor/Instrumentation Amplifier, Audio Amplifier, Multistage Amplifiers, Biomedical Signal Processing Devices, RF Transmitter"
         ],
         "rejected_topics": null,
         "status": "verified"

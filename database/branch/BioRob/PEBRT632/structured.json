@@ -2,8 +2,8 @@
   {
     "module": "Module 1",
     "topics": [
-      "Application areas of robot motion planning - Personal Transport Vehicles, Planetary Exploration, Demining, Fixed-base Robot Arms in Industry, Search and Rescue Robots, Surgical Robots",
-      "Concepts in Motion Planning - Task, Properties of the Robot, Properties of the Algorithm Basic Topological Concepts: Basic definitions of Topological Spaces, Homeomorphism, Diffeomorphism, Differentiable Manifolds, Paths and Connectivity - Paths, connected vs. path connected Configuration space: Specifying a Robot’s Configuration, Obstacles and the Configuration Space - Circular Mobile Robot, Two-Joint Planar Arm, C obstacles, Topology of the Configuration Space"
+      "Overview of robot motion planning, Application areas of robot motion planning - Personal Transport Vehicles, Planetary Exploration, Demining, Fixed-base Robot Arms in Industry, Search and Rescue Robots, Surgical Robots",
+      "Concepts in Motion Planning - Task, Properties of the Robot, Properties of the Algorithm Basic Topological Concepts, Basic definitions of Topological Spaces, Homeomorphism, Diffeomorphism, Differentiable Manifolds, Paths and Connectivity - Paths, connected vs. path connected Configuration space, Specifying a Robot’s Configuration, Obstacles and the Configuration Space - Circular Mobile Robot, Two-Joint Planar Arm, C obstacles, Topology of the Configuration Space"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -11,20 +11,24 @@
   {
     "module": "Module 2",
     "topics": [
+      "Roadmaps",
       "Definition",
       "Accessibility",
       "Departability",
       "Connectivity",
-      "Types of roadmaps: visibility maps - visibility graphs",
+      "Types of roadmaps",
+      "visibility maps - visibility graphs",
       "deformation retracts - Generalized Voronoi Diagram GVD",
       "Sensor-Based Construction of the GVD",
       "Polygonal Spaces",
       "Grid Configuration Spaces - The Brushfire Method",
-      "Silhouette Methods - Canny’s Roadmap Algorithm Cell decomposition: Exact cell decomposition",
+      "Silhouette Methods - Canny’s Roadmap Algorithm Cell decomposition",
+      "Exact cell decomposition",
       "Approximate cell decomposition",
       "Trapezoidal Decomposition",
       "Morse Cell Decomposition",
-      "Boustrophedon Decomposition Potential Field Planning: Potential Field Method",
+      "Boustrophedon Decomposition Potential Field Planning",
+      "Potential Field Method",
       "Attractive",
       "Repulsive potential"
     ],
@@ -34,8 +38,10 @@
   {
     "module": "Module 3",
     "topics": [
+      "Sampling-Based Algorithms",
       "Characteristics of Sampling-Based Planners",
-      "Probabilistic Roadmaps: Basic PRM - Roadmap Construction",
+      "Probabilistic Roadmaps",
+      "Basic PRM - Roadmap Construction",
       "Query Phase",
       "PRM Sampling Strategies - Sampling near the obstacles",
       "Sampling inside narrow passages",
@@ -50,15 +56,18 @@
   {
     "module": "Module 4",
     "topics": [
+      "Sensor-Based Motion Planning Algorithms",
       "Bug1",
       "Bug2",
       "Tangent Bug algorithms",
       "Dynamic window approaches",
-      "D* Algorithms Multiple Robot Motion Planning: Problem Formulation",
+      "D* Algorithms Multiple Robot Motion Planning",
+      "Problem Formulation",
       "Composite Configuration Space",
       "Centralized Planning",
       "Decoupled planning - Prioritized planning - Fixed-path coordination",
-      "Fixed-roadmap coordination Dynamic Motion Planning: Moving Obstacles",
+      "Fixed-roadmap coordination Dynamic Motion Planning",
+      "Moving Obstacles",
       "Configuration Time space",
       "Planning without velocity bound - Exact Cell Decomposition",
       "Approximate Cell Decomposition",

@@ -2,7 +2,9 @@
   {
     "module": "Module 1",
     "topics": [
-      "First (Sanger) and Second (Massively Parallel) Generations of Sequencing. Examples. Comparative overview of the available platforms: Illumina",
+      "Introduction to the three generations of sequencing",
+      "First (Sanger) and Second (Massively Parallel) Generations of Sequencing. Examples. Comparative overview of the available platforms",
+      "Illumina",
       "Roche",
       "Applied Biosystems",
       "Principles",
@@ -15,6 +17,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Third (Single Molecule Real Time) Generation of Sequencing. Examples. Comparative overview of the available platforms",
       "Helicos Biosciences",
       "Oxford (Nanopore",
       "Pacific BioSciences - Principles",
@@ -26,7 +29,9 @@
   {
     "module": "Module 3",
     "topics": [
-      "Enrichment libraries II: ChIP and ATAC sequencing",
+      "Applications of NGS",
+      "Enrichment libraries II",
+      "ChIP and ATAC sequencing",
       "Hi-C Sequencing - Molecular Principles and Approaches for Enrichment (capture",
       "immunoprecipitation",
       "DNA crosslinking). Single Cell Sequencing Microbiome - sequencing",
@@ -39,10 +44,12 @@
   {
     "module": "Module 4",
     "topics": [
+      "Basics of Script-writing and programming for NGS data analysis Intro to data analysis - Bulk and Single-cell RNA sequencing analysis",
       "Part1 Alignment",
       "Assembly",
       "Abundance estimation",
-      "Splice Isoforms Assessment. Bulk and Single-cell RNA sequencing analysis: Variation calls",
+      "Splice Isoforms Assessment. Bulk and Single-cell RNA sequencing analysis",
+      "Variation calls",
       "Variation Annotation"
     ],
     "rejected_topics": null,

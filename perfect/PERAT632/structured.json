@@ -16,6 +16,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Deterministic Self tuning regulators (STR",
             "Pole placement design",
             "Indirect self tuning regulators",
             "Continuous time self tuners",
@@ -28,8 +29,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "Design of minimum variance and moving average controllers Stochastic self tuning regulators, Unification of direct self tuning regulators",
-            "Linear quadratic STR, adaptive predictive control"
+            "Stochastic and Predictive Self tuning regulators",
+            "Design of minimum variance and moving average controllers Stochastic self tuning regulators",
+            "Unification of direct self tuning regulators. Linear quadratic STR",
+            "adaptive predictive control"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -37,6 +40,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Model reference adaptive control (MRAS",
             "The MIT Rule",
             "Determination of adaptation gain",
             "Lyapunov theory",

@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Excitable cells",
+            "Cell Potentials, Excitable cells",
             "cell membrane",
             "structure. Nernst potential-Resting membrane potential",
             "Goldman Hodgkin Katz equation. Specialized excitatory and conductive system of heart",
@@ -18,7 +18,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Generation",
+            "ECG, Generation",
             "waves",
             "duration",
             "intervals",
@@ -26,7 +26,7 @@
             "Lead systems-unipolar & bipolar. EEG",
             "Brain rhythms &waves",
             "characteristics of signal",
-            "Electrode system. EMG: Membrane potentials & Action potentials in smooth muscles",
+            "Electrode system. EMG, Membrane potentials & Action potentials in smooth muscles",
             "Characteristics of EMG signal. Heart sounds",
             "Phonocardiography. PPG",
             "characteristics",
@@ -39,10 +39,8 @@
     {
         "module": "Module 3",
         "topics": [
-            "Random Noise-structured noise-physiologic interference, Time domain filters: synchronised averaging",
-            "moving averaging",
-            "derivative based operators. Noise removal in ECG: random noise removal",
-            "baseline drift removal. Frequency domain filters: Butterworth low pass &low filter. Adaptive filters",
+            "Event detection in ECG",
+            "QRS detection -Derivative based method-Pan Tompkins algorithm. Detection of P Wave. Dicrotic notch detection. EEG rhythm detection -Correlation based method. Detection of S1 &S2 heart sound. EMG envelop extraction Noise, Random Noise -structured noise-physiologic interference, Time domain filters, synchronised averaging- moving averaging-derivative based operators. Noise removal in ECG, random noise removal -baseline drift removal. Frequency domain filters, Butterworth low pass &low filter. Adaptive filters",
             "cancellation of 50 Hz signal in ECG"
         ],
         "rejected_topics": null,
@@ -51,7 +49,7 @@
     {
         "module": "Module 4",
         "topics": [
-            "Estimation of power density spectrum, non",
+            "Power spectrum analysis, Estimation of power density spectrum, non",
             "parametric method",
             "Periodogram &modified periodogram. Parametric methods",
             "ARMA model",

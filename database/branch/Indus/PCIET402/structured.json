@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to Metal Cutting",
       "Overview of metal cutting processes",
       "Tool Nomenclature",
       "Attributes of each tool nomenclature",
@@ -30,6 +31,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Conventional Machine Tools",
       "Lathes Machine - Types of lathes and size",
       "specification and parts",
       "Work holding devices. Types of operations in a lathe",
@@ -55,14 +57,17 @@
   {
     "module": "Module 3",
     "topics": [
+      "Computer Numeric Controlled Machines",
       "NC and CNC machines",
       "classification and principle",
       "Point to point",
-      "straight cut and contouring positioning - incremental and absolute systems - open loop and closed loop systems -Parts: Positional Encodes",
+      "straight cut and contouring positioning - incremental and absolute systems - open loop and closed loop systems -Parts",
+      "Positional Encodes",
       "axis and spindle drives",
       "LM Guideways",
       "ball screws",
-      "automatic tool changer(ATC). NC part programming: part programming fundamentals - manual programming - NC coordinate systems and axes - sequence number",
+      "automatic tool changer(ATC). NC part programming",
+      "part programming fundamentals - manual programming - NC coordinate systems and axes - sequence number",
       "preparatory functions",
       "dimension words",
       "speed word",
@@ -70,7 +75,8 @@
       "tool world",
       "miscellaneous functions",
       "Tool nose radius compensation and constant surface speed control",
-      "Canned cycles and Multiple repetitive cycles. Programmable Logic Controllers (PLC): Need - relays - logic ladder program - timers",
+      "Canned cycles and Multiple repetitive cycles. Programmable Logic Controllers (PLC",
+      "Need - relays - logic ladder program - timers",
       "simple problems only"
     ],
     "rejected_topics": null,
@@ -79,6 +85,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Digital Manufacturing",
       "Definition and Illustration of Digital Manufacturing",
       "Operation reference mode of digital manufacturing system",
       "Architecture of digital manufacturing system",

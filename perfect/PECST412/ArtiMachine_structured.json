@@ -2,9 +2,11 @@
     {
         "module": "Module 1",
         "topics": [
-            "Foundations of Pattern Recognition: -Introduction to Pattern Recognition - Definitions and applications of pattern recognition",
+            "Foundations of Pattern Recognition",
+            "Introduction to Pattern Recognition - Definitions and applications of pattern recognition",
             "Overview of pattern recognition systems Statistical Pattern Recognition - Bayes decision theory",
-            "Parametric methods: Maximum likelihood estimation",
+            "Parametric methods",
+            "Maximum likelihood estimation",
             "Bayesian estimation Non-Parametric Methods - k-Nearest neighbors",
             "Parzen windows"
         ],
@@ -15,9 +17,10 @@
         "module": "Module 2",
         "topics": [
             "Feature Extraction and Selection :-Feature Extraction - Importance of feature extraction",
-            "Techniques for feature extraction: PCA",
+            "Techniques for feature extraction",
             "Feature extraction in image and signal processing Feature Selection - Importance of feature selection",
-            "Techniques for feature selection: filter methods",
+            "Techniques for feature selection",
+            "filter methods",
             "wrapper methods",
             "Feature selection criteria"
         ],
@@ -28,10 +31,12 @@
         "module": "Module 3",
         "topics": [
             "Supervised and Unsupervised Learning Supervised Learning - Basics of supervised learning",
-            "Linear classifiers: perceptron",
+            "Linear classifiers",
+            "perceptron",
             "logistic regression",
             "Support vector machines (SVM) Unsupervised Learning - Basics of unsupervised learning",
-            "Clustering techniques: k-means",
+            "Clustering techniques",
+            "k-means",
             "hierarchical clustering",
             "Gaussian Mixture Models (GMM"
         ],

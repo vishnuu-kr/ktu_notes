@@ -2,7 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
-      "VERILOG HDL :Verilog HDL Coding Style: Lexical Conventions",
+      "VERILOG HDL :Verilog HDL Coding Style, Lexical Conventions",
       "Ports and Modules",
       "Operators",
       "Gate Level Modeling",
@@ -17,6 +17,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "FPGA ARCHITECTURE",
       "FPGA Architectural options",
       "coarse vs fine grained",
       "vendor specific issues (emphasis on Xilinx FPGA",
@@ -31,7 +32,7 @@
   {
     "module": "Module 3",
     "topics": [
-      "VERILOG MODELLING :Verilog Modelling of Combinational and Sequential Circuits: Behavioral, Data Flow and Structural Realization",
+      "VERILOG MODELLING :Verilog Modelling of Combinational and Sequential Circuits, Behavioral, Data Flow and Structural Realization",
       "Adders",
       "Multipliers- Comparators",
       "Flip Flops",
@@ -47,8 +48,10 @@
     "module": "Module 4",
     "topics": [
       "XILLINX :System Design Examples using Xillinx FPGAs - Traffic light Controller",
-      "Real Time Clock - Interfacing using FPGA: Keyboard",
-      "LCD Commercial FPGAs: Xilinx",
+      "Real Time Clock - Interfacing using FPGA",
+      "Keyboard",
+      "LCD Commercial FPGAs",
+      "Xilinx",
       "Altera",
       "Actel (Different series description only"
     ],

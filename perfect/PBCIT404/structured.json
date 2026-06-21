@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction to 8086",
+            "The 8086 Microprocessor , Introduction to 8086",
             "Microprocessor architecture",
             "Addressing modes",
             "Instruction set and assembler directives",
@@ -21,7 +21,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "8086 System Bus Structure : 8086 signals",
+            "8086 System Bus Structure , 8086 signals",
             "Basic configurations",
             "System bus timing",
             "System design using 8086",
@@ -38,11 +38,11 @@
     {
         "module": "Module 3",
         "topics": [
-            "Architecture of 8051",
+            "Introduction To Microcontroller 8051, Architecture of 8051",
             "Special Function Registers(SFRs",
             "I/O Pins Ports and Circuits",
             "Instruction set -Addressing modes",
-            "Programming 8051 Timers. I/O Interfacing With Microcontroller 8051 : Interfacing Microcontroller",
+            "Programming 8051 Timers. I/O Interfacing With Microcontroller 8051 , Interfacing Microcontroller",
             "Serial Port Programming",
             "Interrupts Programming",
             "LCD & Keyboard",
@@ -54,6 +54,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Arm Architecture",
             "ARM Processor fundamentals",
             "ARM Architecture - Register",
             "CPSR",
@@ -66,7 +67,13 @@
             "Program status register instructions",
             "loading constants",
             "Conditional execution",
-            "Introduction to Thumb instructions. Suggestion on Project Topics  Digit Up Down Counter: The main principle of this circuit is to increment the values on seven segment displays by pressing the button. This circuit can be mainly used in scoreboards.  5 Channel IR Remote Control System using Microcontroller: This article is aimed to design and demonstrate a simple 5 channel remote control system to drive five loads. This circuit works on the principle of IR communication.  8 Channel Quiz Buzzer Circuit using Microcontroller: We built the circuit using a microcontroller which scans the input from push buttons and displays the corresponding number on a display device.  Auto Intensity Control of Street Lights: This is a simple circuit that automatically controls the intensity of street lights which is designed using microcontroller and LEDs.  Automatic Railway Gate Controller with High Speed Alerting System: The main aim of this project is to operate and control the unmanned railway gate in the proper manner in order to avoid the accidents in the unmanned railway crossing.  Bidirectional Visitor Counter using 8051: This Bidrectional Visitor Counter Circuit is helpful to count the number of persons entering or leaving a room and to display it on a screen"
+            "Introduction to Thumb instructions. Suggestion on Project Topics  Digit Up Down Counter",
+            "The main principle of this circuit is to increment the values on seven segment displays by pressing the button. This circuit can be mainly used in scoreboards.  5 Channel IR Remote Control System using Microcontroller",
+            "This article is aimed to design and demonstrate a simple 5 channel remote control system to drive five loads. This circuit works on the principle of IR communication.  8 Channel Quiz Buzzer Circuit using Microcontroller",
+            "We built the circuit using a microcontroller which scans the input from push buttons and displays the corresponding number on a display device.  Auto Intensity Control of Street Lights",
+            "This is a simple circuit that automatically controls the intensity of street lights which is designed using microcontroller and LEDs.  Automatic Railway Gate Controller with High Speed Alerting System",
+            "The main aim of this project is to operate and control the unmanned railway gate in the proper manner in order to avoid the accidents in the unmanned railway crossing.  Bidirectional Visitor Counter using 8051",
+            "This Bidrectional Visitor Counter Circuit is helpful to count the number of persons entering or leaving a room and to display it on a screen"
         ],
         "rejected_topics": null,
         "status": "verified"

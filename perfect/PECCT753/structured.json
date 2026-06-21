@@ -2,10 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Security Problem in Computing",
             "The meaning of computer Security",
             "Computer Criminals",
             "Methods of Defense",
-            "Elementary Cryptography: Substitution Ciphers",
+            "Elementary Cryptography",
+            "Substitution Ciphers",
             "Transpositions",
             "Making “Good” Encryption algorithms",
             "The Data Encryption Standard",
@@ -19,6 +21,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Program Security",
             "Secure Programs",
             "Non malicious Program Errors",
             "viruses and other malicious code",
@@ -26,7 +29,8 @@
             "controls Against Program Threats",
             "Protection in General- Purpose operating system protected objects and methods of protection memory and add mens protection",
             "File protection Mechanisms",
-            "User Authentication Designing Trusted O.S: Security polices",
+            "User Authentication Designing Trusted O.S",
+            "Security polices",
             "models of security",
             "trusted O.S design",
             "Assurance in trusted O.S. Implementation examples"
@@ -37,12 +41,14 @@
     {
         "module": "Module 3",
         "topics": [
+            "Data base Security",
             "Security requirements",
             "Reliability and integrity",
             "Sensitive data",
             "Inference",
             "multilevel database",
-            "proposals for multilevel security. Security in Network: Threats in Network",
+            "proposals for multilevel security. Security in Network",
+            "Threats in Network",
             "Network Security Controls",
             "Firewalls",
             "Intrusion Detection Systems",
@@ -54,10 +60,12 @@
     {
         "module": "Module 4",
         "topics": [
+            "Administering Security",
             "Security Planning",
             "Risk Analysis",
             "Organizational Security policies",
-            "Physical Security. Legal Privacy and Ethical Issues in Computer Security: Protecting Programs and data",
+            "Physical Security. Legal Privacy and Ethical Issues in Computer Security",
+            "Protecting Programs and data",
             "Information and the law",
             "Rights of Employees and Employers",
             "Software failures",

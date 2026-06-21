@@ -2,13 +2,16 @@
     {
         "module": "Module 1",
         "topics": [
+            "Linux Kernel",
             "System Memory Management",
             "Software Program Management",
             "Hardware Management",
-            "Filesystem Management. Linux Desktop Environment: The X Window System",
+            "Filesystem Management. Linux Desktop Environment",
+            "The X Window System",
             "KDE Desktop",
             "GNOME Desktop",
-            "Unity Desktop. Linux Distributions: Core Linux Distributions",
+            "Unity Desktop. Linux Distributions",
+            "Core Linux Distributions",
             "Specialized Linux Distributions"
         ],
         "rejected_topics": null,
@@ -33,6 +36,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Basic Shell Commands",
             "Starting the Shell",
             "Using the Shell Prompt",
             "Interacting with the bash Manual",
@@ -43,7 +47,8 @@
             "Copying files",
             "Deleting files",
             "Creating directories",
-            "Deleting directories. Linux Security: Removing a user",
+            "Deleting directories. Linux Security",
+            "Removing a user",
             "Modifying a user",
             "Using file permission symbols",
             "Default file permissions",
@@ -57,14 +62,19 @@
     {
         "module": "Module 4",
         "topics": [
+            "Vim Editor",
             "Introduction to vim Features",
-            "Command Mode: Moving the Cursor",
+            "Command Mode",
+            "Moving the Cursor",
             "Input Mode",
-            "Command Mode: Deleting and Changing Text",
-            "Reading and Writing Files. Python scripting: Data structures",
+            "Command Mode",
+            "Deleting and Changing Text",
+            "Reading and Writing Files. Python scripting",
+            "Data structures",
             "modules",
             "inputs and outputs",
-            "Floating Point Arithmetic: Issues and Limitations"
+            "Floating Point Arithmetic",
+            "Issues and Limitations"
         ],
         "rejected_topics": null,
         "status": "verified"

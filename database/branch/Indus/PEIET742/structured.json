@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Linear time series models",
       "Financial data and their properties",
       "financial time series and their characteristics",
       "means",
@@ -27,6 +28,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Conditional heteroscedastic models",
       "Characteristics of volatility",
       "ARCH model",
       "GARCH model",
@@ -47,6 +49,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Nonlinear time series and nonparametric models",
       "Nonlinear time series",
       "univariate parametric nonlinear models - general formulation",
       "threshold autoregressive models",
@@ -66,6 +69,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "High frequency financial data",
       "Nonsynchronous trading",
       "bid-ask spread of trading prices",
       "empirical characteristics of trading data",
@@ -73,8 +77,10 @@
       "duration models",
       "value at risk (VaR",
       "risk metrics",
-      "extreme value theory. Multivariate linear time series: Stationary vector autoregressive time series",
-      "vector autoregressive moving average time series. Multivariate volatility models: Multivariate GARCH models",
+      "extreme value theory. Multivariate linear time series",
+      "Stationary vector autoregressive time series",
+      "vector autoregressive moving average time series. Multivariate volatility models",
+      "Multivariate GARCH models",
       "GARCH models for bivariate returns",
       "higher dimensional volatility models",
       "factor-volatility models",

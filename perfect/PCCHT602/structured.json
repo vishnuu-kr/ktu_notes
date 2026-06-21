@@ -2,16 +2,20 @@
     {
         "module": "Module 1",
         "topics": [
-            "Prediction of transport coefficients: viscosity",
+            "Prediction of transport coefficients",
+            "viscosity",
             "thermal conductivity and diffusivity. Momentum Transport - Viscosity and the mechanisms of momentum transfer",
             "Generalization of Newton’s law of viscosity",
             "pressure and temperature dependence of viscosity of gases and liquids",
-            "prediction of viscosity of gases: Rigid sphere model and rigorous models",
-            "Numerical problems. Energy Transport: Thermal conductivity and the mechanism of energy transport- prediction of thermal conductivity of gases",
+            "prediction of viscosity of gases",
+            "Rigid sphere model and rigorous models",
+            "Numerical problems. Energy Transport",
+            "Thermal conductivity and the mechanism of energy transport- prediction of thermal conductivity of gases",
             "effect of temperature and pressure on thermal conductivity of gases",
             "relationship between thermal conductivity and viscosity of gases. Thermal conductivity of solids",
             "the relationship between thermal and electrical conductivity of solids",
-            "Numerical problems. Diffusivity and the Mechanism of Mass Transport: Definition of concentrations",
+            "Numerical problems. Diffusivity and the Mechanism of Mass Transport",
+            "Definition of concentrations",
             "velocities and mass/molar fluxes",
             "interrelationship between fluxes. Fick’s law of diffusion",
             "kinetic theory of diffusion in gases at low density",
@@ -26,16 +30,10 @@
     {
         "module": "Module 2",
         "topics": [
-            "Shell momentum balance: boundary conditions",
-            "application of shell balance to simple flow systems",
-            "falling film -flow of a Newtonian fluid in between two slits formed by two flat plates, flow through tube",
-            "flow through annulus",
-            "flow of two adjacent immiscible fluids. General transport equations for momentum: derivation of continuity equation and equation of motion in rectangular coordinates",
-            "Navier Stoke’s equation and Euler equation",
-            "transport equations in curvilinear coordinates (no derivation",
-            "application of transport equations to steady flow problems -flow through tube",
-            "tangential annular flow",
-            "rotating liquid"
+            "Shell momentum balance",
+            "boundary conditions - application of shell balance to simple flow systems - falling film -flow of a Newtonian fluid in between two slits formed by two flat plates",
+            "flow through tube - flow through annulus - flow of two adjacent immiscible fluids. General transport equations for momentum",
+            "derivation of continuity equation and equation of motion in rectangular coordinates - Navier Stoke’s equation and Euler equation - transport equations in curvilinear coordinates (no derivation) - application of transport equations to steady flow problems -flow through tube - tangential annular flow - rotating liquid"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -43,7 +41,8 @@
     {
         "module": "Module 3",
         "topics": [
-            "Shell energy balance: boundary conditions - application of shell balance to heat conduction problems - conduction with electric",
+            "Shell energy balance",
+            "boundary conditions - application of shell balance to heat conduction problems - conduction with electric",
             "nuclear and viscous heat sources",
             "use of shell heat balances in variable thermal conductivity systems to derive temperature and heat flux profiles",
             "cooling fins with insulated tip condition. Equations of energy in rectangular and curvilinear coordinates (no derivation) - application to steady state heat transfer problems - tangential flow in annulus with viscous heat generation - flow of nonisothermal film - transpiration cooling"
@@ -54,11 +53,10 @@
     {
         "module": "Module 4",
         "topics": [
-            "Shell mass balance",
-            "boundary conditions",
-            "diffusion through stagnant gas",
-            "diffusion with heterogeneous and homogeneous chemical reaction-diffusion and chemical reaction in porous catalyst",
-            "other similar diffusion problems, equation of continuity for binary mixtures in rectangular coordinates"
+            "Analogies between heat",
+            "mass and momentum transfer",
+            "Shell mass balance - boundary conditions - diffusion through stagnant gas - diffusion with heterogeneous and homogeneous chemical reaction-diffusion and chemical reaction in porous catalyst - other similar diffusion problems",
+            "equation of continuity for binary mixtures in rectangular coordinates"
         ],
         "rejected_topics": null,
         "status": "verified"

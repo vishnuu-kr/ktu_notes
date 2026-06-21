@@ -2,11 +2,15 @@
     {
         "module": "Module 1",
         "topics": [
+            "Soil engineering and index properties",
             "Soil and soil engineering",
             "history of soil mechanics",
             "Soil as a 3 phase system",
-            "Index properties: void ratio - specific gravity - dry density -porosity - water content - saturated unit weight - submerged unit weight - degree of saturation. Determination of index properties of soils: Determination of water content by oven drying - Specific gravity using pycnometer and specific gravity bottle - Grain size analysis by sieve analysis",
-            "hydrometer analysis and pipette analysis - Atterberg limits and indices - Visual identification by simple field tests - Field density by core cutter and sand replacement methods. Classification of soils: Necessity - Principles of classification -I.S. classification - Plasticity charts - Group index"
+            "Index properties",
+            "void ratio - specific gravity - dry density -porosity - water content - saturated unit weight - submerged unit weight - degree of saturation. Determination of index properties of soils",
+            "Determination of water content by oven drying - Specific gravity using pycnometer and specific gravity bottle - Grain size analysis by sieve analysis",
+            "hydrometer analysis and pipette analysis - Atterberg limits and indices - Visual identification by simple field tests - Field density by core cutter and sand replacement methods. Classification of soils",
+            "Necessity - Principles of classification -I.S. classification - Plasticity charts - Group index"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -14,24 +18,12 @@
     {
         "module": "Module 2",
         "topics": [
-            "Modes of occurrence",
-            "adsorbed and capillary water types",
-            "Total stress -Effective stress",
-            "Pore pressure",
-            "Pressure diagrams. Permeability: Definition",
-            "Darcy’s law",
-            "Factors affecting permeability",
-            "Laboratory determination",
-            "Stratified soils: average permeability. Compaction: Definition and objectives of compaction",
-            "Standard and Modified Proctor tests- Concept of OMC and maximum dry density",
-            "Zero air voids line",
-            "Factors influencing compaction -Effect of compaction on soil properties",
-            "Field compaction methods",
-            "Proctor needle for field control. Consolidation: Definition",
-            "Spring analogy for primary consolidation -Terzaghi’s theory of one dimensional consolidation",
-            "Concepts of coefficient of compressibility -Coefficient of volume change and compression index",
-            "Laboratory consolidation test",
-            "e-log p curves"
+            "Soil water",
+            "Modes of occurrence - adsorbed and capillary water types - Total stress -Effective stress - Pore pressure - Pressure diagrams. Permeability",
+            "Definition - Darcy’s law - Factors affecting permeability - Laboratory determination - Stratified soils",
+            "average permeability. Compaction",
+            "Definition and objectives of compaction - Standard and Modified Proctor tests- Concept of OMC and maximum dry density - Zero air voids line - Factors influencing compaction -Effect of compaction on soil properties - Field compaction methods - Proctor needle for field control. Consolidation",
+            "Definition - Spring analogy for primary consolidation -Terzaghi’s theory of one dimensional consolidation - Concepts of coefficient of compressibility -Coefficient of volume change and compression index - Laboratory consolidation test - e-log p curves"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -39,10 +31,14 @@
     {
         "module": "Module 3",
         "topics": [
+            "Stress distribution in soil",
             "Stress due to self weight",
             "concentrated load - Boussinesq equations",
             "pressure distribution diagrams",
-            "vertical pressure under a uniformly loaded circular area. Shear strength: Definition - Mohr’s strength and stress circles -origin of planes - Mohr’s envelope - Mohr- Coulomb strength theory - Direct shear test - introduction to triaxial shear test-Measurement of pore pressure -Total and effective stress strength parameters - UCC test - Vane shear tests - Choice of test conditions for field problems. Lateral earth pressure: Earth pressure at rest - Active and passive earth pressure for cohesionless and cohesive soils -Rankine’s and Coulomb’s theories - Point of application of earth pressure for cases of with and without surcharge in cohesionless and cohesive soils - Culmann’s and Rebhan’s graphical construction for active earth pressure-Stability of slopes: Slope failure",
+            "vertical pressure under a uniformly loaded circular area. Shear strength",
+            "Definition - Mohr’s strength and stress circles -origin of planes - Mohr’s envelope - Mohr- Coulomb strength theory - Direct shear test - introduction to triaxial shear test-Measurement of pore pressure -Total and effective stress strength parameters - UCC test - Vane shear tests - Choice of test conditions for field problems. Lateral earth pressure",
+            "Earth pressure at rest - Active and passive earth pressure for cohesionless and cohesive soils -Rankine’s and Coulomb’s theories - Point of application of earth pressure for cases of with and without surcharge in cohesionless and cohesive soils - Culmann’s and Rebhan’s graphical construction for active earth pressure-Stability of slopes",
+            "Slope failure",
             "base failure and toe failure -Swedish circle method - Φ = 0analysis and c = 0 analysis -Friction circle method - Taylor’s stability number -Stability charts"
         ],
         "rejected_topics": null,
@@ -51,20 +47,24 @@
     {
         "module": "Module 4",
         "topics": [
+            "Bearing capacity of soils",
             "Definitions related to foundations and bearing capacity",
             "Minimum depth of foundation - Rankine's analysis",
             "type of bearing capacity failures",
             "effect of water table on bearing capacity",
-            "IS code method for computing bearing capacity. Shallow foundations: type of foundations",
+            "IS code method for computing bearing capacity. Shallow foundations",
+            "type of foundations",
             "Spread footing",
             "Safe bearing pressure",
-            "Settlement of footings. Pile foundations: type of piles",
+            "Settlement of footings. Pile foundations",
+            "type of piles",
             "Pile driving",
             "load carrying capacity of piles",
             "dynamic formulae",
             "Static formulae",
             "Pile load tests",
-            "Penetration tests. Well foundations: Caissons",
+            "Penetration tests. Well foundations",
+            "Caissons",
             "Shape of wells and component parts",
             "Depth of well foundation and bearing capacity",
             "forces acting on a well foundation"

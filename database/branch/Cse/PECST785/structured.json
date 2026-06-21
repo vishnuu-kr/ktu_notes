@@ -2,10 +2,10 @@
   {
     "module": "Module 1",
     "topics": [
-      "Data Cleaning and Preprocessing - Develop a pipeline for cleaning and preprocessing a large",
-      "messy dataset like UCI Machine Learning Repository - Adult Data Set Tasks: Handle missing values",
-      "outliers",
-      "and noisy data. Apply dimensionality reduction techniques to simplify the dataset. Implement data transformation and normalization processes"
+      "Foundations of Data Science Algorithms Introduction to Data Science and Algorithms - Overview of data science and its significance, Role of algorithms in data science",
+      "Data Preprocessing Techniques - Data cleaning, transformation, and normalization, Handling missing data, outliers, and data imputation techniques",
+      "Dimensionality reduction techniques - Principal Component Analysis (PCA), t-Distributed Stochastic Neighbor Embedding (t-SNE",
+      "Algorithmic Approaches to Data Sampling - Random sampling, stratified sampling, and bootstrapping, Importance of representative sampling in data analysis. Project 1, Data Cleaning and Preprocessing - Develop a pipeline for cleaning and preprocessing a large, messy dataset like UCI Machine Learning Repository - Adult Data Set Tasks, Handle missing values, outliers, and noisy data. Apply dimensionality reduction techniques to simplify the dataset. Implement data transformation and normalization processes"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -13,13 +13,13 @@
   {
     "module": "Module 2",
     "topics": [
-      "Algorithms for Data Summarization and Visualization :-Data Summarization Techniques - Central tendency measures: mean, median, mode",
+      "Algorithms for Data Summarization and Visualization :-Data Summarization Techniques - Central tendency measures, mean, median, mode",
       "Dispersion measures - variance, standard deviation, Interquartile range (IQR), Quantiles, percentiles, and outlier detection",
       "Visualization Algorithms - Basics of data visualization, histograms, bar charts, scatter plots",
       "Advanced visualization techniques - heatmaps, correlation matrices, and pair plots",
       "Visualization tools and libraries -Matplotlib, Seaborn, Plotly",
-      "Algorithmic Approaches to Data Grouping -Clustering: k-means, hierarchical clustering, DBSCAN",
-      "Association rule learning - Apriori, FP-Growth. Project 2: Exploratory Data Analysis and Visualization Perform exploratory data analysis (EDA) and create visualizations to uncover patterns and insights in the dataset like Kaggle - Titanic Dataset Tasks: Summarize the dataset using statistical measures. Create various visualizations to explore relationships and patterns in the data. Implement clustering algorithms to identify natural groupings within the data"
+      "Algorithmic Approaches to Data Grouping -Clustering, k-means, hierarchical clustering, DBSCAN",
+      "Association rule learning - Apriori, FP-Growth. Project 2, Exploratory Data Analysis and Visualization Perform exploratory data analysis (EDA) and create visualizations to uncover patterns and insights in the dataset like Kaggle - Titanic Dataset Tasks, Summarize the dataset using statistical measures. Create various visualizations to explore relationships and patterns in the data. Implement clustering algorithms to identify natural groupings within the data"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -32,8 +32,8 @@
       "Evaluation metrics -RMSE, MAE, R²",
       "Classification Algorithms - Logistic regression, decision trees, and k-Nearest Neighbors (k-NN",
       "Performance metrics - accuracy, precision, recall, F1-score, ROC-AUC",
-      "Algorithmic Optimization Techniques - Gradient descent and its variants: stochastic, mini-batch",
-      "Hyperparameter tuning - grid search, random search, Bayesian optimization. Project 3: Predictive Modeling and Evaluation - Build and evaluate predictive models using regression and classification algorithms using datasets like Kaggle - House Prices: Advanced Regression Techniques Tasks: Implement linear and polynomial regression models to predict house prices. Apply classification algorithms to classify houses into different categories. Evaluate the models using appropriate performance metrics and fine-tune them for better accuracy"
+      "Algorithmic Optimization Techniques - Gradient descent and its variants, stochastic, mini-batch",
+      "Hyperparameter tuning - grid search, random search, Bayesian optimization. Project 3, Predictive Modeling and Evaluation - Build and evaluate predictive models using regression and classification algorithms using datasets like Kaggle - House Prices, Advanced Regression Techniques Tasks, Implement linear and polynomial regression models to predict house prices. Apply classification algorithms to classify houses into different categories. Evaluate the models using appropriate performance metrics and fine-tune them for better accuracy"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -44,9 +44,9 @@
       "Algorithms for Big Data and Scalability :-Introduction to Big Data Algorithms - Overview of big data challenges and processing techniques",
       "Distributed computing frameworks - Hadoop, Spark",
       "MapReduce paradigm - concepts and applications",
-      "Scalable Data Processing Algorithms - Algorithms for large-scale data processing : sorting, searching, filtering",
+      "Scalable Data Processing Algorithms - Algorithms for large-scale data processing , sorting, searching, filtering",
       "Data partitioning and shuffling techniques in distributed systems",
-      "Handling data with memory constraints - external memory algorithms. Project 4: Scalable Data Processing with Spark - Implement scalable algorithms using Apache Spark to process large datasets efficiently using datasets like Kaggle - Google Analytics Customer Revenue Prediction Tasks: Set up a Spark environment for large-scale data processing. Implement scalable algorithms for sorting, searching, and filtering the dataset. Analyze the performance of your algorithms on different dataset sizes and optimize for scalability"
+      "Handling data with memory constraints - external memory algorithms. Project 4, Scalable Data Processing with Spark - Implement scalable algorithms using Apache Spark to process large datasets efficiently using datasets like Kaggle - Google Analytics Customer Revenue Prediction Tasks, Set up a Spark environment for large-scale data processing. Implement scalable algorithms for sorting, searching, and filtering the dataset. Analyze the performance of your algorithms on different dataset sizes and optimize for scalability"
     ],
     "rejected_topics": null,
     "status": "verified"

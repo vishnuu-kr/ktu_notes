@@ -2,11 +2,13 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Real-Time systems",
             "Basic concepts",
             "applications of Real-Time systems",
             "basic model of Real-Time systems",
             "characteristics of Real-Time systems",
-            "types of Real-Time systems: hard",
+            "types of Real-Time systems",
+            "hard",
             "firm",
             "soft",
             "timing constraints",
@@ -18,6 +20,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Real-Time task scheduling",
             "Basic concepts",
             "clock driven scheduling",
             "table driven scheduling",
@@ -41,6 +44,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Commercial Real-Time Operating Systems",
             "Time services",
             "Features of real-time operating systems",
             "UNIX and Windows as RTOS",
@@ -51,7 +55,8 @@
             "Lynx",
             "other RTOS",
             "benchmarking RT OS",
-            "Real-Time OS: OS services",
+            "Real-Time OS",
+            "OS services",
             "I/O subsystem",
             "Network OS"
         ],
@@ -61,7 +66,7 @@
     {
         "module": "Module 4",
         "topics": [
-            "QoS framework, models, Real-Time Communication in a LAN, IEEE 802.4, RETHER, Communication over Packet Switched Networks, Routing algorithms, RSVP, rate control",
+            "RT communications, QoS framework, models, Real-Time Communication in a LAN, IEEE 802.4, RETHER, Communication over Packet Switched Networks, Routing algorithms, RSVP, rate control",
             "RT databases - Applications, characteristics of temporal data, Concurrency control, Commercial RT databases, Special topics in Real-Time systems"
         ],
         "rejected_topics": null,

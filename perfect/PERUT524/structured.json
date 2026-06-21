@@ -2,8 +2,10 @@
     {
         "module": "Module 1",
         "topics": [
-            "Differential equation representation of continuous time systems",
-            "Difference equation representation of discrete systems"
+            "Elementary Signals",
+            "Classification and representation of continuous time and discrete time signals",
+            "Signal operations. Continuous time and discrete time systems - Classification. Representation of systems",
+            "Differential equation representation of continuous time systems. Difference equation representation of discrete systems"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -38,8 +40,11 @@
     {
         "module": "Module 4",
         "topics": [
-            "Radix-2 Decimation in Time and Decimation in Frequency FFT -Algorithms - IDFT computation using Radix-2 FFT Algorithms. FIR and IIR Filters. - FIR Filter Structures: Direct Form",
-            "Cascade Form IIR Filter Structures: Direct Form",
+            "Computation of DFT",
+            "Radix-2 Decimation in Time and Decimation in Frequency FFT -Algorithms - IDFT computation using Radix-2 FFT Algorithms. FIR and IIR Filters. - FIR Filter Structures",
+            "Direct Form",
+            "Cascade Form IIR Filter Structures",
+            "Direct Form",
             "Transposed Form",
             "Cascade Form and Parallel Form (Design is not required"
         ],

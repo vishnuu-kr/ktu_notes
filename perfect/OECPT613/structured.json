@@ -2,11 +2,18 @@
     {
         "module": "Module 1",
         "topics": [
+            "Network hardware",
+            "Network software",
+            "TCP/IP Reference models",
+            "Example Networks",
             "ARPANET",
-            "Internet. Physical Layer: Guided Transmission media: twisted pairs",
+            "Internet. Physical Layer",
+            "Guided Transmission media",
+            "twisted pairs",
             "coaxial cable",
             "fiber optics",
-            "Wireless transmission. Data link layer: Design issues",
+            "Wireless transmission. Data link layer",
+            "Design issues",
             "framing",
             "Error detection and correction"
         ],
@@ -16,13 +23,17 @@
     {
         "module": "Module 2",
         "topics": [
+            "Elementary data link protocols",
             "Simplex protocol",
             "A simplex stop and wait protocol for an error-free channel",
-            "A simplex stop and wait protocol for noisy channel. Sliding Window protocols: A one-bit sliding window protocol",
+            "A simplex stop and wait protocol for noisy channel. Sliding Window protocols",
+            "A one-bit sliding window protocol",
             "A protocol using Go-Back-N",
             "A protocol using Selective Repeat",
-            "Example data link protocols. Medium Access sub layer: The channel allocation problem",
-            "Multiple access protocols: ALOHA",
+            "Example data link protocols. Medium Access sub layer",
+            "The channel allocation problem",
+            "Multiple access protocols",
+            "ALOHA",
             "Carrier sense multiple access protocols",
             "collision free protocols. Wireless LANs",
             "Data link layer switching"
@@ -33,8 +44,10 @@
     {
         "module": "Module 3",
         "topics": [
+            "Network Layer",
             "Design issues",
-            "Routing algorithms: shortest path routing",
+            "Routing algorithms",
+            "shortest path routing",
             "Flooding",
             "Hierarchical routing",
             "Broadcast",
@@ -50,7 +63,7 @@
     {
         "module": "Module 4",
         "topics": [
-            "Transport Services, Elements of Transport protocols, Connection management, TCP and UDP protocols. Application Layer - Domain name system, SNMP, Electronic Mail",
+            "Transport Layer, Transport Services, Elements of Transport protocols, Connection management, TCP and UDP protocols. Application Layer - Domain name system, SNMP, Electronic Mail",
             "the World WEB, HTTP, Streaming audio and video"
         ],
         "rejected_topics": null,

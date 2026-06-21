@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction",
       "Operating system overview - Functions",
       "Boot Process Processes - Process states",
       "Process control block",
@@ -32,12 +33,14 @@
   {
     "module": "Module 3",
     "topics": [
+      "Deadlocks",
       "Necessary conditions",
       "Resource allocation graphs",
       "Deadlock prevention",
       "Deadlock avoidance - Banker’s algorithms",
       "Deadlock detection",
-      "Recovery from deadlock. Memory Management: Concept of address spaces",
+      "Recovery from deadlock. Memory Management",
+      "Concept of address spaces",
       "Swapping",
       "Contiguous memory allocation",
       "fixed and variable partitions",
@@ -52,12 +55,14 @@
   {
     "module": "Module 4",
     "topics": [
+      "File System",
       "File concept - Attributes",
       "Operations",
       "types",
       "structure - Access methods",
       "Protection. File-system implementation",
-      "Directory implementation. Allocation methods. Storage Management: Magnetic disks",
+      "Directory implementation. Allocation methods. Storage Management",
+      "Magnetic disks",
       "Solid-state disks",
       "Disk Structure",
       "Disk scheduling",

@@ -2,12 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
-            "Systems-Microprocessor based controllers -mechatronic approach",
+            "Mechatronics, Systems-Microprocessor based controllers -mechatronic approach",
             "sensors",
             "transducers",
             "force",
             "velocity displacement",
-            "temperature Data presentation systems: Displays",
+            "temperature Data presentation systems, Displays",
             "measurement systems -calibration",
             "pneumatic and hydraulic systems",
             "control valves -actuators",
@@ -20,13 +20,15 @@
     {
         "module": "Module 2",
         "topics": [
-            "Signal conditioning - operational amplifiers -filtering - multiplexers Input/output Systems: Ports",
+            "Signal Conditioning",
+            "Signal conditioning - operational amplifiers -filtering - multiplexers Input/output Systems",
+            "Ports",
             "interface requirements",
             "adaptors -programmable logic controllers - data handling digital communications - system",
             "networks",
             "protocols",
             "interfaces",
-            "fault finding - design and mechatronic design solutions. Electromechanical systems: CD",
+            "fault finding - design and mechatronic design solutions. Electromechanical systems",
             "DVD Rom",
             "Printers"
         ],
@@ -36,6 +38,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Introduction to Control Systems Engineering",
             "Concept of automatic control - open loop and closed loop systems - transfer functions -Representation of control components and systems -Translational and rotational mechanical components - series and parallel combinations -Block diagrams - comparators",
             "integrating devices",
             "Servomechanisms",
@@ -49,10 +52,13 @@
     {
         "module": "Module 4",
         "topics": [
+            "System Response",
             "First and second order system - Response to step",
             "pulse",
             "ramp and sinusoidal input-systems with distance",
-            "velocity lag. Control System Analysis: Transient Response of simple control systems - Stability of control systems - Routh Stability criteria - Error Analysis. Frequency Response Analysis: Polar plots - Experimental determination of frequency response - Bode plot and Nyquist stability criteria - Gain and phase margin. Root locus of simple transfer function"
+            "velocity lag. Control System Analysis",
+            "Transient Response of simple control systems - Stability of control systems - Routh Stability criteria - Error Analysis. Frequency Response Analysis",
+            "Polar plots - Experimental determination of frequency response - Bode plot and Nyquist stability criteria - Gain and phase margin. Root locus of simple transfer function"
         ],
         "rejected_topics": null,
         "status": "verified"

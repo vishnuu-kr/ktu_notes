@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to NLP",
             "The study of language",
             "evaluating language understanding systems",
             "different levels of language analysis",
@@ -10,7 +11,8 @@
             "linguistic background - An outline of english syntax",
             "challenges in NLP. Machine learning",
             "deep learning",
-            "and NLP: An overview",
+            "and NLP",
+            "An overview",
             "approaches to NLP",
             "heuristics-based NLP",
             "machine learning & deep learning for NLP",
@@ -27,6 +29,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Regular expression and text processing",
             "Importance",
             "properties",
             "working and python package",
@@ -38,7 +41,8 @@
             "asterisk",
             "plus",
             "and question mark",
-            "curly brackets Understanding pattern objects: Match method Vs search method",
+            "curly brackets Understanding pattern objects",
+            "Match method Vs search method",
             "finditer method",
             "logical Or",
             "beginning and end patterns",
@@ -53,6 +57,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Vector models and text preprocessing",
             "Vectors",
             "bag of words",
             "countvectorizer",
@@ -66,7 +71,8 @@
             "building TF-IDF",
             "neural word embeddings. Vector models",
             "text preprocessing summary",
-            "steps of NLP analysis. Language modeling: Importance",
+            "steps of NLP analysis. Language modeling",
+            "Importance",
             "types of language modeling",
             "the curse of dimensionality",
             "language model Markov assumption and N-Grams",
@@ -86,6 +92,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "NLP using machine learning",
             "Spam detection - problem",
             "Naive Bayes theorem",
             "intuition",
@@ -96,7 +103,8 @@
             "sentiment analysis",
             "text summarization",
             "topic modeling",
-            "latent semantic modeling (Indexing). Deep learning: Word embeddings",
+            "latent semantic modeling (Indexing). Deep learning",
+            "Word embeddings",
             "nonlinear neural networks",
             "Neuron - introduction",
             "fitting a line",

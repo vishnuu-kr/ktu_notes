@@ -2,8 +2,9 @@
   {
     "module": "Module 1",
     "topics": [
-      "Operating point of BJT- BJT as amplifier (CE configuration)-input chara-output chara-current amplification factor of BJT",
-      "Power amplifier (using Transistor): Class A- Class B- Class AB- Class C- (working, chara, power and efficiency calculation for Class A & Class B, comparison of power amplifiers) FET: Construction and characteristics of JFET & MOSFET - Enhancement & Depletion type-Comparison of BJT & FET UJT: Construction-working and characteristics of UJT- Overview of online & offline UPS- SMPS operation"
+      "Introduction to Analog Electronics",
+      "BJT, Operating point of BJT- BJT as amplifier (CE configuration)-input chara-output chara-current amplification factor of BJT",
+      "Power amplifier (using Transistor), Class A- Class B- Class AB- Class C- (working, chara, power and efficiency calculation for Class A & Class B, comparison of power amplifiers) FET, Construction and characteristics of JFET & MOSFET - Enhancement & Depletion type-Comparison of BJT & FET UJT, Construction-working and characteristics of UJT- Overview of online & offline UPS- SMPS operation"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -11,16 +12,12 @@
   {
     "module": "Module 2",
     "topics": [
-      "Barkhausen criteria",
-      "difference between LC & RC oscillator",
-      "classification",
-      "working of Hartley and Colpitts Oscillator(using BJT",
-      "analysis of Rc phase shift oscillator (Using BJT) 555 Timer IC: Functional diagram",
-      "Astable and Monostable Multivibrator using 555(working & derivation of time period) PLL: Block diagram",
-      "PLL IC 565(Pin diagram",
-      "VCO(Analysis",
-      "Capture range, lock in range",
-      "Applications of PLL"
+      "Feedback- concept",
+      "positive and negative feedback Oscillator",
+      "Barkhausen criteria-difference between LC & RC oscillator-classification-working of Hartley and Colpitts Oscillator(using BJT)-analysis of Rc phase shift oscillator (Using BJT) 555 Timer IC",
+      "Functional diagram -Astable and Monostable Multivibrator using 555(working & derivation of time period) PLL",
+      "Block diagram- PLL IC 565(Pin diagram)-VCO(Analysis)-Capture range",
+      "lock in range -Applications of PLL"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -28,16 +25,11 @@
   {
     "module": "Module 3",
     "topics": [
-      "Block diagram of op-amp",
-      "Ideal & Practical OP- Amp parameters-frequency response- voltage transfer curve",
-      "inverting op-amp",
-      "non inverting op-amp-voltage follower",
-      "Integrator",
-      "Differentiator",
-      "comparator",
-      "Schmitt trigger-S/H-V to I & I to V converter, Instrumentation Amplifier Active Filters using op-Amp: Difference between active & passive Filters",
-      "Active filters: Analysis of First order HPF & LPF",
-      "working of Band pass and Band Stop Filters"
+      "OP-Amp",
+      "Block diagram of op-amp- Ideal & Practical OP- Amp parameters-frequency response- voltage transfer curve-inverting op-amp-non inverting op-amp-voltage follower-Integrator- Differentiator- comparator-Schmitt trigger-S/H-V to I & I to V converter",
+      "Instrumentation Amplifier Active Filters using op-Amp",
+      "Difference between active & passive Filters- Active filters",
+      "Analysis of First order HPF & LPF-working of Band pass and Band Stop Filters"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -45,11 +37,11 @@
   {
     "module": "Module 4",
     "topics": [
-      "Phase shift and wein bridge oscillator",
-      "Triangular and sawtooth waveform generators",
-      "Astable and Monostable multivibrators Data convertors: DAC: Specifications",
-      "Weighted Resistor type, R-2R ladder type ADC: Specification",
-      "Flash type & Successive approximation type"
+      "Op- Amp Oscillators and Multivibrators",
+      "Phase shift and wein bridge oscillator-Triangular and sawtooth waveform generators- Astable and Monostable multivibrators Data convertors",
+      "Specifications-Weighted Resistor type",
+      "R-2R ladder type ADC",
+      "Specification-Flash type & Successive approximation type"
     ],
     "rejected_topics": null,
     "status": "verified"

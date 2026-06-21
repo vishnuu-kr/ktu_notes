@@ -2,14 +2,11 @@
     {
         "module": "Module 1",
         "topics": [
-            "Operating Point of BJT",
-            "BJT as Amplifier (CE Configuration) - Input Characteristics, Output Characteristics, Current Amplification Factor",
-            "Power Amplifier (Using Transistor): Class A, Class B, Class AB, Class C (Working, Characteristics, Power and Efficiency Calculation for Class A & B, Comparison of Power Amplifiers)",
-            "FET: Construction and Characteristics of JFET & MOSFET - Enhancement & Depletion Type",
-            "Comparison of BJT & FET",
-            "UJT: Construction, Working and Characteristics",
-            "Overview of Online & Offline UPS",
-            "SMPS Operation"
+            "Introduction to Analog Electronics",
+            "BJT, Operating Point of BJT, BJT as Amplifier (CE Configuration) – Input Characteristics, Output Characteristics, Current Amplification Factor of BJT",
+            "Power Amplifiers using Transistor: Class A, Class B, Class AB, Class C (Working, Characteristics, Power and Efficiency Calculation for Class A & Class B, Comparison of Power Amplifiers)",
+            "FET: Construction and Characteristics of JFET & MOSFET – Enhancement & Depletion Type, Comparison of BJT & FET",
+            "UJT: Construction, Working and Characteristics of UJT, Overview of Online & Offline UPS, SMPS Operation"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -17,18 +14,12 @@
     {
         "module": "Module 2",
         "topics": [
-            "Barkhausen Criteria",
-            "Difference Between LC & RC Oscillator",
-            "Classification",
-            "Working of Hartley and Colpitts Oscillator (Using BJT)",
-            "Analysis of RC Phase Shift Oscillator (Using BJT)",
-            "555 Timer IC: Functional Diagram",
-            "Astable and Monostable Multivibrator Using 555 (Working & Derivation of Time Period)",
-            "PLL: Block Diagram",
-            "PLL IC 565 (Pin Diagram)",
-            "VCO (Analysis)",
-            "Capture Range, Lock-In Range",
-            "Applications of PLL"
+            "Feedback – Concept",
+            "Positive and Negative Feedback, Oscillator",
+            "Barkhausen Criteria, Difference between LC & RC Oscillator, Classification, Working of Hartley and Colpitts Oscillator (Using BJT), Analysis of RC Phase Shift Oscillator (Using BJT), 555 Timer IC",
+            "Functional Diagram, Astable and Monostable Multivibrator using 555 (Working & Derivation of Time Period), PLL",
+            "Block Diagram, PLL IC 565 (Pin Diagram), VCO (Analysis), Capture Range",
+            "Lock in Range, Applications of PLL"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -36,17 +27,11 @@
     {
         "module": "Module 3",
         "topics": [
-            "Block Diagram of Op-Amp",
-            "Ideal & Practical Op-Amp Parameters - Frequency Response - Voltage Transfer Curve",
-            "Inverting Op-Amp",
-            "Non-Inverting Op-Amp - Voltage Follower",
-            "Integrator",
-            "Differentiator",
-            "Comparator",
-            "Schmitt Trigger - S/H - V to I & I to V Converter - Instrumentation Amplifier",
-            "Active Filters Using Op-Amp: Difference Between Active & Passive Filters",
-            "Active Filters: Analysis of First Order HPF & LPF",
-            "Working of Band Pass and Band Stop Filters"
+            "OP-Amp",
+            "Block Diagram of OP-Amp, Ideal & Practical OP-Amp Parameters, Frequency Response, Voltage Transfer Curve, Inverting OP-Amp, Non-Inverting OP-Amp, Voltage Follower, Integrator, Differentiator, Comparator, Schmitt Trigger, S/H, V to I & I to V Converter",
+            "Instrumentation Amplifier, Active Filters using OP-Amp",
+            "Difference between Active & Passive Filters, Active Filters",
+            "Analysis of First Order HPF & LPF, Working of Band Pass and Band Stop Filters"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -54,13 +39,11 @@
     {
         "module": "Module 4",
         "topics": [
-            "Phase Shift and Wien Bridge Oscillator",
-            "Triangular and Sawtooth Waveform Generators",
-            "Astable and Monostable Multivibrators",
-            "Data Convertors: DAC - Specifications",
-            "DAC: Weighted Resistor Type, R-2R Ladder Type",
-            "ADC: Specifications",
-            "ADC: Flash Type & Successive Approximation Type"
+            "OP-Amp Oscillators and Multivibrators",
+            "Phase Shift and Wein Bridge Oscillator, Triangular and Sawtooth Waveform Generators, Astable and Monostable Multivibrators, Data Convertors",
+            "Specifications, Weighted Resistor Type",
+            "R-2R Ladder Type ADC",
+            "Specifications, Flash Type & Successive Approximation Type"
         ],
         "rejected_topics": null,
         "status": "verified"

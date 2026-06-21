@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to Operating System",
       "Computer Hardware Organization",
       "BIOS and Boot Process",
       "Multithreading concepts",
@@ -24,10 +25,13 @@
   {
     "module": "Module 2",
     "topics": [
-      "Terminology: RTOS concepts and definitions",
+      "Basics of Real Time Concepts",
+      "Terminology",
+      "RTOS concepts and definitions",
       "real-time design issues",
       "examples",
-      "Hardware Considerations: logic states",
+      "Hardware Considerations",
+      "logic states",
       "memory",
       "Architectures",
       "RTOS building blocks",
@@ -39,14 +43,17 @@
   {
     "module": "Module 3",
     "topics": [
+      "Process Management",
       "Concepts",
       "scheduling",
       "CPU Scheduling",
       "scheduling criteria",
-      "scheduling algorithms Threads: Multi-threading models",
+      "scheduling algorithms Threads",
+      "Multi-threading models",
       "threading issues",
       "thread libraries",
-      "synchronization Mutex: creating",
+      "synchronization Mutex",
+      "creating",
       "deleting",
       "prioritizing mutex",
       "mutex internals"
@@ -57,13 +64,15 @@
   {
     "module": "Module 4",
     "topics": [
+      "Inter-process Communication",
       "Messages",
       "Buffers",
       "mailboxes",
       "queues",
       "semaphores",
       "deadlock",
-      "priority inversion Pipes memory management: - Process stack management",
+      "priority inversion Pipes memory management",
+      "Process stack management",
       "run-time buffer size",
       "swapping",
       "overlays",

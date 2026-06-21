@@ -20,9 +20,11 @@
   {
     "module": "Module 2",
     "topics": [
+      "Time domain analysis of control systems",
       "Transient and steady state responses - time domain specifications - first and second order systems - step responses of first and second order systems",
       "steady state error analysis -static error coefficient of type 0",
-      "2 systems - Dynamic error coefficients. Concept of stability: Time response for various pole locations - stability of feedback system -Routh's stability criterion. Root locus - General rules for constructing Root loci - stability from root loci - effect of addition of poles and zeros"
+      "2 systems - Dynamic error coefficients. Concept of stability",
+      "Time response for various pole locations - stability of feedback system -Routh's stability criterion. Root locus - General rules for constructing Root loci - stability from root loci - effect of addition of poles and zeros"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -30,10 +32,12 @@
   {
     "module": "Module 3",
     "topics": [
+      "Frequency domain analysis",
       "Frequency domain specifications- Analysis based on Bode plot -Log magnitude vs. phase plot. Design of P",
       "PI and PID controller using Ziegler-Nichols tuning method",
       "Overview-Necessity of using Lag",
-      "lead and lag-lead compensators in Control Systems. State space analysis of systems: Introduction to state concept - state equation of linear continuous time systems",
+      "lead and lag-lead compensators in Control Systems. State space analysis of systems",
+      "Introduction to state concept - state equation of linear continuous time systems",
       "matrix representation of state equations. Phase variable and canonical forms of state representation-controllable",
       "observable",
       "diagonal and Jordan canonical forms- solution of time invariant autonomous systems"
@@ -44,7 +48,7 @@
   {
     "module": "Module 4",
     "topics": [
-      "Introduction",
+      "Nonlinear systems, Introduction",
       "characteristics of nonlinear systems. Types of nonlinearities. Determination of describing function of nonlinearities (relay, dead zone and saturation only",
       "application of describing function for stability analysis of autonomous system with single nonlinearity. Singular points",
       "Classification of singular points. Definition of stability- asymptotic stability and instability, overview of Lyapunov methods to stability of linear and nonlinear, continuous time systems. Case study-kinematic modelling of a differential drive robot and controlling the same to move to a point"

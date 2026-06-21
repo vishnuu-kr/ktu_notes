@@ -144,7 +144,7 @@ def process_all():
     # Use 10 concurrent threads multiplied by the number of keys you provide
     max_workers = len(API_KEYS) * 5 
     # Cap to prevent overwhelming network
-    max_workers = min(max_workers, 50) 
+    max_workers = min(max_workers, 120) 
     
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = [executor.submit(process_subject, path, file) for path, file in tasks]

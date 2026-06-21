@@ -2,7 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
-      "Fabry-Perot and Michelson interferometers",
+      "Interferometers, Fabry-Perot and Michelson interferometers",
       "Interference filters",
       "Interferometric method of measurement of optical components",
       "Optical spectrum analyser. Raman Spectroscopy, Raman effect"
@@ -13,15 +13,10 @@
   {
     "module": "Module 2",
     "topics": [
-      "Birefringence",
-      "Optical activity",
-      "Electro-optic effect",
-      "Magneto-optic devices",
-      "Acousto-optic effect. Display devices: Electroluminescence",
-      "Injection Luminescence",
-      "Light emitting diode",
-      "Plasma displays",
-      "Liquid crystal displays. Opto-couplers ,Optrodes"
+      "Modulation of light",
+      "Birefringence - Optical activity - Electro-optic effect - Magneto-optic devices - Acousto-optic effect. Display devices",
+      "Electroluminescence - Injection Luminescence - Light emitting diode - Plasma displays - Liquid crystal displays. Opto-couplers",
+      "Optrodes"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -29,16 +24,19 @@
   {
     "module": "Module 3",
     "topics": [
-      "Principles of operation - Einstein relations - population inversion - Classes of lasers - Solid state: Nd-YAG laser",
+      "Lasers",
+      "Principles of operation - Einstein relations - population inversion - Classes of lasers - Solid state",
+      "Nd-YAG laser",
       "Ruby laser",
-      "gas: He-Ne laser",
+      "He-Ne laser",
       "Argon ion laser",
       "CO2 laser and liquid dye lasers - Q-switching and mode locking",
       "cavity dumping Application of LASER - Distance",
       "length",
       "velocity",
       "acceleration",
-      "current and voltage measurements. Material processing: Laser heating",
+      "current and voltage measurements. Material processing",
+      "Laser heating",
       "melting",
       "scribing",
       "splicing",
@@ -53,9 +51,11 @@
   {
     "module": "Module 4",
     "topics": [
+      "Optical fibers",
       "Introduction to optical fiber - Fiber characteristics",
       "Light guidance through fibers - Different types of fibers - Losses in the optical fiber - Dispersion - optical time domain reflectometer-Advantages and disadvantages of optical fibers",
-      "Connectors and splices Applications of optical fibres: optical fibre communication- Selection of optical fibers - fibre optic sensors - measurement of temperature",
+      "Connectors and splices Applications of optical fibres",
+      "optical fibre communication- Selection of optical fibers - fibre optic sensors - measurement of temperature",
       "pressure",
       "displacement",
       "strain",

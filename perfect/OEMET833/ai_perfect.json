@@ -4,8 +4,8 @@
         "topics": [
             "Motivation and Applications of Numerical Methods, Significant Digits, Accuracy and Precision",
             "Truncation and Round-off Errors",
-            "Roots of Nonlinear Equations - Bisection Method, Newton Raphson Method",
-            "Solution of System of Linear Equations - Gauss Elimination, Gauss Jordan, Gauss Seidel, LU Decomposition",
+            "Roots of Nonlinear Equations: Bisection Method, Newton Raphson Method",
+            "Solution of System of Linear Equations: Gauss Elimination, Gauss Jordan, Gauss Seidel, LU Decomposition",
             "Curve Fitting: Least Square Regression - Linear Regression, Linearization of Nonlinear Relationships, Polynomial and Multiple Linear Regression"
         ],
         "rejected_topics": null,
@@ -14,9 +14,10 @@
     {
         "module": "Module 2",
         "topics": [
-            "Interpolation - Newton's Forward, Backward, Divided Difference, Lagrange's Interpolation, Cubic Spline",
-            "Numerical Differentiation - Difference Formula, Newton's Forward, Backward and Divided Difference Method, Sterling's Formula",
-            "Numerical Integration - Trapezoidal, Simpson's One-Third Rule, Simpson's Three-Eight Rule, Gauss Quadrature"
+            "Curve Fitting",
+            "Interpolation: Newton's Forward and Backward Interpolation, Divided Difference, Lagrange's Interpolation, Cubic Spline",
+            "Numerical Differentiation: Difference Formula, Newton's Forward, Backward and Divided Difference Method, Stirling's Formula",
+            "Numerical Integration: Trapezoidal Rule, Simpson's One-Third Rule, Simpson's Three-Eighth Rule, Gauss Quadrature"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -24,8 +25,8 @@
     {
         "module": "Module 3",
         "topics": [
-            "Numerical Solution of Ordinary Differential Equations - Initial Value and Boundary Value Problems, Taylor's Method",
-            "Euler Method, Modified Euler Method",
+            "Numerical Solution of Ordinary Differential Equations: Initial Value and Boundary Value Problems",
+            "Taylor's Method, Euler Method, Modified Euler Method",
             "Runge Kutta Fourth Order Method for First Order, Second Order and Simultaneous First Order Differential Equations",
             "Predictor Corrector Method, Shooting Method, Finite Difference Method"
         ],
@@ -35,9 +36,9 @@
     {
         "module": "Module 4",
         "topics": [
-            "Numerical Solution of Partial Differential Equation - Types, Difference Equations",
-            "Elliptic Equation - Laplace Equation, Poisson's Equation, Liebmann's Iterative Method",
-            "Parabolic Equation - Explicit and Implicit Method, Convergence and Stability, Crank Nicolson Method",
+            "Numerical Solution of Partial Differential Equations: Types, Difference Equations",
+            "Elliptic Equation: Laplace Equation, Poisson's Equation, Liebmann's Iterative Method",
+            "Parabolic Equation: Explicit and Implicit Method, Convergence and Stability, Crank Nicolson Method",
             "Hyperbolic Equation"
         ],
         "rejected_topics": null,

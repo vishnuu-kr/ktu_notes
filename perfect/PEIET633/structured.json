@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to scheduling",
             "Definition of scheduling",
             "role of scheduling",
             "terminologies involved in scheduling",
@@ -19,6 +20,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Single machine models with due dates",
             "Problems with due dates",
             "minimizing total lateness",
             "minimizing maximum lateness and maximum tardiness",
@@ -35,6 +37,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Parallel machine problems and flow shop problems",
             "Parallel identical processors and independent jobs with preemptions and without preemptions",
             "parallel identical processors and dependent jobs",
             "permutation schedule-Johnson’s algorithm",
@@ -49,6 +52,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Job shop scheduling and stochastic single machine models",
             "Types of schedules",
             "schedule generation",
             "heuristic procedure - shifting bottleneck procedure",

@@ -2,11 +2,16 @@
     {
         "module": "Module 1",
         "topics": [
-            "Basics of Computer Graphics and Its Applications",
-            "Video Display Devices - LED, OLED, PDP, FED and Reflective Displays",
+            "Basics of Computer Graphics and its Applications",
+            "Video Display Devices - LED",
+            "OLED",
+            "PDP and FED and Reflective Displays",
             "Random and Raster Scan Displays and Systems",
-            "Line Drawing Algorithms - Bresenham's Algorithm and Liang-Barsky Algorithm",
-            "Circle Drawing Algorithms - Midpoint Circle Generation Algorithm and Bresenham's Circle Drawing Algorithm"
+            "Line and Circle Drawing Algorithms",
+            "Bresenham's Line Drawing Algorithm",
+            "Liang-Barsky Algorithm",
+            "Midpoint Circle Generation Algorithm",
+            "Bresenham's Circle Drawing Algorithm"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -14,9 +19,13 @@
     {
         "module": "Module 2",
         "topics": [
-            "2D and 3D Geometric Transformations - Translation, Rotation, Scaling, Reflection and Shearing",
+            "2D and 3D Basic Transformations - Translation",
+            "Rotation",
+            "Scaling",
+            "Reflection and Shearing",
             "Matrix Representations and Homogeneous Coordinates",
-            "Filled Area Primitives - Scan Line Polygon Filling, Boundary Filling and Flood Filling"
+            "Filled Area Primitives - Scan Line Polygon Filling",
+            "Boundary Filling and Flood Filling"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -35,7 +44,7 @@
     {
         "module": "Module 4",
         "topics": [
-            "Three Dimensional Graphics and Viewing Pipeline",
+            "Three Dimensional Viewing Pipeline",
             "Projections - Parallel and Perspective Projections",
             "Visible Surface Detection Algorithms - Back Face Detection",
             "Depth Buffer Algorithm",

@@ -2,8 +2,11 @@
     {
         "module": "Module 1",
         "topics": [
-            "Different boundary conditions",
-            "Examples for Displacement Formulation/ Force Formulation"
+            "Introduction to theory of elasticity",
+            "3D stress components in rectangular and cylindrical coordinate systems",
+            "strain-displacement relations (no derivation required",
+            "constitutive equations (no derivation required)-stress transformation",
+            "octahedral shear stress-equations of equilibrium. Boundary value problems, Different boundary conditions-Examples for Displacement Formulation/ Force Formulation"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -23,7 +26,7 @@
     {
         "module": "Module 3",
         "topics": [
-            "Axisymmetric problems: thin cylinders pressurized from inside, and thick cylinders",
+            "Axisymmetric problems, thin cylinders pressurized from inside, and thick cylinders",
             "pressurized from inside and outside",
             "Rotating disks. Unsymmetrical bending of straight beams possessing two axes of symmetry",
             "shear centre",
@@ -35,9 +38,10 @@
     {
         "module": "Module 4",
         "topics": [
-            "St. Venant’s and Prandtl’s methods",
-            "solutions for elliptical cross-section. Membrane analogy. Torsion of thin",
-            "walled tubes, thin rectangular sections, rolled sections and multiply connected sections"
+            "Torsion of non-circular bars",
+            "St. Venant’s and Prandtl’s methods-solutions for elliptical cross-section. Membrane analogy. Torsion of thin-walled tubes",
+            "thin rectangular sections",
+            "rolled sections and multiply connected sections"
         ],
         "rejected_topics": null,
         "status": "verified"

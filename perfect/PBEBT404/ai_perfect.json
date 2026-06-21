@@ -2,16 +2,21 @@
     {
         "module": "Module 1",
         "topics": [
+            "Intel 8051",
             "Architecture - ALU",
             "Internal RAM and ROM",
-            "Organization of Ports, Registers of 8051: Data Pointer",
+            "Organization of Ports",
+            "Registers of 8051",
+            "Data Pointer",
             "Program Counter",
             "CPU Registers",
             "Register Banks",
             "Stack and Stack Pointer",
-            "Special Function Registers, Addressing Modes of 8051, Instruction Set of 8051 - Assembler Directives",
+            "Special Function Registers",
+            "Addressing Modes of 8051",
+            "Instruction Set of 8051 - Assembler Directives",
             "Data Transfer Instructions",
-            "Arithmetic, Logical, Compare and Rotate Instructions, Bit Processing Instructions, Program Flow Control Instructions"
+            "Arithmetic, Logical, Compare and Rotate Instructions - Bit Processing Instructions - Program Flow Control Instructions"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -19,7 +24,12 @@
     {
         "module": "Module 2",
         "topics": [
-            "Illustrative Examples of All Types of Instructions, Programming the Ports of 8051, Programming in C: Illustrative Examples for Time Delay, I/O Operations, and Logic Operations"
+            "Programming Using Assembly Language",
+            "Illustrative Examples Using All Types of Instructions",
+            "Programming the Ports of 8051",
+            "Programming in C",
+            "Illustrative Examples of C Programming for 8051 - Time Delay and I/O Operations",
+            "Logic Operations"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -27,11 +37,18 @@
     {
         "module": "Module 3",
         "topics": [
+            "Timers of 8051",
             "All Modes of Operations",
-            "Programming the Timers in Assembly Language and C",
-            "Timer as an Event Counter, Serial Communication with 8051: Introduction to Serial Communication",
-            "RS232 Protocol, Serial Communication Programming in Assembly Language, Interrupt System of 8051: Introduction to Interrupts, Interrupts in 8051, Priority of Interrupts, Interrupt Handling and Execution for Timer",
-            "External and Serial Interrupts, Programming to Handle All Types of Interrupts in Assembly Language"
+            "Programming the Timers in Assembly Language and C Language",
+            "Timer as an Event Counter",
+            "Serial Communication with 8051",
+            "Introduction to Serial Communication",
+            "RS232 Protocol",
+            "Serial Communication Programming in Assembly Language",
+            "Interrupt System of 8051",
+            "Introduction to Interrupts - Interrupts in 8051 - Priority of Interrupts - Interrupt Handling and Execution for Timer",
+            "External and Serial Interrupts",
+            "Programming to Handle All Types of Interrupts in Assembly Language"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -39,12 +56,25 @@
     {
         "module": "Module 4",
         "topics": [
+            "Interfacing of 8051",
             "Stepper Motor",
-            "8255, Introduction to AVR Microcontroller: Overview of AVR Family",
+            "8255",
+            "Introduction to AVR Microcontroller",
+            "Overview of AVR Family",
             "ATmega32 - Architectural Overview",
-            "CPU Core, Memory Organization",
-            "Introduction to PIC Microcontrollers: Architectural Features, Core and Peripheral Features",
-            "Project Based Learning: In the first class, students shall be given an awareness and/or guidelines on how to implement and learn this course through a project and form groups of maximum 5 members in the first week. Each group identify a project where microcontrollers can be used for simple biomedical applications and perform a literature survey. Choose a suitable microcontroller/microcontroller-based development boards for your application and the input-output devices to be interfaced. Develop the block diagram and present before the jury within first month after the commencement of classes. Implement necessary hardware and software to develop the prototype. Prepare a report and present before the jury for final evaluation."
+            "CPU Core",
+            "Memory Organization (AVR)",
+            "Introduction to PIC Microcontrollers",
+            "Architectural Features",
+            "Memory Organization (PIC)",
+            "Core and Peripheral Features",
+            "Project Based Learning",
+            "Project Awareness, Guidelines, and Group Formation",
+            "Project Identification for Biomedical Applications and Literature Survey",
+            "Microcontroller Selection and Input-Output Device Interfacing",
+            "Block Diagram Development and Presentation",
+            "Hardware and Software Prototype Implementation",
+            "Report Preparation and Final Evaluation"
         ],
         "rejected_topics": null,
         "status": "verified"

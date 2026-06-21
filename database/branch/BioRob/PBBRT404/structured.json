@@ -2,8 +2,8 @@
   {
     "module": "Module 1",
     "topics": [
-      "Difference between microprocessor and microcontroller Architecture,8051 pin diagram",
-      "Architecture, I/O Port structure, Register organization - special function registers, Memory organization 8051 microcontrollers: Instruction set, Addressing modes Simple Assembly language programs: Arithmetic (Addition, Subtraction, Multiplication& Division), Transfer a block of data from one internal memory location to another"
+      "Review-Basics of Computer Architecture 8051 microcontrollers, Difference between microprocessor and microcontroller Architecture,8051 pin diagram",
+      "Architecture, I/O Port structure, Register organization - special function registers, Memory organization 8051 microcontrollers, Instruction set, Addressing modes Simple Assembly language programs, Arithmetic (Addition, Subtraction, Multiplication& Division), Transfer a block of data from one internal memory location to another"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -22,8 +22,8 @@
   {
     "module": "Module 3",
     "topics": [
-      "Definition, Features, Simple Example of Embedded Systems, Applications of embedded systems-Consumer electronics, Robotics, Automobiles Embedded System Architecture: HW - Processor, Controller, SoC, Memory, Peripherals",
-      "SW - Application, Middleware, OS, Device Drivers, Tool chain- Assembler, Interpreter, Compiler, Linker, Loader, Debugger Embedded system design process: Requirement Analysis, Specification Development, HW & SW Co-Design and Development, Module Integration, Testing"
+      "Introduction to Embedded Systems, Definition, Features, Simple Example of Embedded Systems, Applications of embedded systems-Consumer electronics, Robotics, Automobiles Embedded System Architecture, HW - Processor, Controller, SoC, Memory, Peripherals",
+      "SW - Application, Middleware, OS, Device Drivers, Tool chain- Assembler, Interpreter, Compiler, Linker, Loader, Debugger Embedded system design process, Requirement Analysis, Specification Development, HW & SW Co-Design and Development, Module Integration, Testing"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -31,10 +31,12 @@
   {
     "module": "Module 4",
     "topics": [
+      "Arduino Uno Board",
       "Board Study (Board level Block schematic) - Chip (Features only - Architecture not needed",
       "GPIO",
       "Memory",
-      "Programming Interface Programming: Arduino IDE",
+      "Programming Interface Programming",
+      "Arduino IDE",
       "Sample Code (LED",
       "Switch",
       "DC motor",

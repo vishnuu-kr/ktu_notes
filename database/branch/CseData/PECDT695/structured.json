@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to Deep Learning -The Basic Architecture of Neural Networks - Single Computational Layer",
       "The Perceptron",
       "Multilayer Neural Networks. Activation functions - Sign",
       "Sigmoid",
@@ -46,6 +47,15 @@
   {
     "module": "Module 3",
     "topics": [
+      "Convolutional Neural Networks - Architecture",
+      "Convolution operation",
+      "Motivation",
+      "pooling.Variants of convolution functions",
+      "Structured outputs",
+      "Data types",
+      "Efficient convolution algorithms",
+      "Applications of Convolutional Networks",
+      "Pre-trained convolutional Architectures",
       "AlexNet",
       "VGGnet-19",
       "ResNet 50",
@@ -59,11 +69,9 @@
   {
     "module": "Module 4",
     "topics": [
-      "Transformer Architecture Self-Attention and Positional Encoding Autoencoders Variational Auto-Encoder-under complete Auto-encoder",
-      "stochastic encoder",
-      "denoising encoder",
-      "Applications of Autoencoders. Generative models : Generative Adversarial Networks. Case study: BERT",
-      "Social Media Sentiment Analysis"
+      "Recurrent neural networks And Generative models",
+      "Computational graphs. RNN design. Encoder",
+      "decoder sequence to sequence architectures. Language modeling example of Deep recurrent networks. Recursive neural networks. Challenges of training Recurrent Networks. Gated RNNs LSTM and GRU. Attention Mechanisms and Transformers, Transformer Architecture Self-Attention and Positional Encoding Autoencoders Variational Auto-Encoder-under complete Auto-encoder, stochastic encoder, denoising encoder, Applications of Autoencoders. Generative models , Generative Adversarial Networks. Case study, BERT, Social Media Sentiment Analysis"
     ],
     "rejected_topics": null,
     "status": "verified"

@@ -2,7 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
-      "Review of Z Transforms",
+      "Analysis of Sampled Data Systems, Review of Z Transforms",
       "Sampling Theorem, Impulse Sampling, Sampling Rate Selection, Data Hold - ZOH, FOH, Pulse Transfer Function, Control configurations. Mapping between the s-plane and the z-plane. Stability analysis of closed-loop system in the z-plane, Jury’s test, Schur-Cohn test, Bilinear Transformation, Routh-Hurwitz method in w-plane"
     ],
     "rejected_topics": null,
@@ -11,9 +11,12 @@
   {
     "module": "Module 2",
     "topics": [
-      "Direct design based on root locus: Design of Lag Compensator",
+      "Design of Compensators",
+      "Direct design based on root locus",
+      "Design of Lag Compensator",
       "Design of Lead Compensator",
-      "Design of Lead-Lag Compensator. Digital Controller Design in Frequency Domain: Direct design based on frequency response",
+      "Design of Lead-Lag Compensator. Digital Controller Design in Frequency Domain",
+      "Direct design based on frequency response",
       "Design of Lag Compensator",
       "Design of Lead Compensator",
       "Design of Lag-Lead Compensator",
@@ -25,6 +28,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Discrete-time State Space System",
       "State variable model of discrete data systems with S/H devices - State transition equations",
       "state diagrams. Relationship between state space representation and pulse transfer function",
       "Transformation to canonical forms and phase variable form. Solution of state equation",
@@ -36,7 +40,11 @@
   {
     "module": "Module 4",
     "topics": [
-      "Discretization of continuous time state-space equations, Controllability, Observability. State feedback controller design via Pole Placement. State Observer Design: Full order observers and Reduced order observers"
+      "Design using State Space approach",
+      "Discretization of continuous time state-space equations",
+      "Controllability",
+      "Observability. State feedback controller design via Pole Placement. State Observer Design",
+      "Full order observers and Reduced order observers"
     ],
     "rejected_topics": null,
     "status": "verified"

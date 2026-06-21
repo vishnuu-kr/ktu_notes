@@ -2,6 +2,11 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to measurements systems - Methods of Measurement-Functional Elements of measurement system (Measurement System Architecture)- Examples of measurement systems-Standards Used in Measurements- Electrical Standards- Time and Frequency - Physical Standards -Basic SI Units-Calibration- process of calibration-methods-Expression of uncertainty- Accuracy and Precision -indications of precision",
+            "significant figures-Errors in Measurements - Static error",
+            "static correction",
+            "Propagation of errors",
+            "Systematic and Random errors in measurement -Statistical Evaluation of measured data",
             "Histogram",
             "Mean",
             "Measure of dispersion from the mean",
@@ -17,7 +22,9 @@
     {
         "module": "Module 2",
         "topics": [
-            "Optical Encoders -Synchro/Resolver Sensors -Time of Flight Ultrasonic Sensors- Laser Interferometers Speed measurement",
+            "Force measurement -Introduction to force measurement-Spring Balance -Load cells",
+            "Elastic load cells and Strain gauge load cell -Piezoelectric force transducers. Torque measurement",
+            "Introduction to torque measurement-Strain gauge torque meter- Inductive torque meter-optical torque measurement. Displacement Measurement (Linear and Angular), Optical Encoders -Synchro/Resolver Sensors -Time of Flight Ultrasonic Sensors- Laser Interferometers Speed measurement",
             "Introduction to Speed measurement -Mechanical tachometer (Revolution counter",
             "electrical tachometer (Eddy current tachometer)-optical tachometer (Stroboscopic tachometer) Acceleration-Strain gauge-based accelerometers Quartz accelerometers MEMS accelerometers Thickness Measurement- Micrometers- Laser scanners Position, Location and Altitude Measurement-MEMS devices -Global Positioning System (GPS) Range measurement",
             "Laser range sensor Slant angle measurement",
@@ -42,11 +49,14 @@
     {
         "module": "Module 4",
         "topics": [
+            "Smart transmitters",
             "Transmitters-types of signals- pneumatic instrument communication signals (3-15 psig",
             "electronic instrument communication signals (4-20 ma",
             "signal transducers_ I to P converter",
-            "P to I converter-features of smart and intelligent transmitters- smart transmitter with HART communicator. Digital interfaces in measurement systems: IEEE -488_ instrumentation bus (GPIB)- objectives of industrial communications - serial data communications links- RS-232C and D interfaces- RS-422",
-            "RS-423 and RS-485 interfaces - Communication protocols- field bus-profibus-modbus-foundation fieldbus. Instrumentation diagrams: instruments' labeling- ISA standards-Data Sheets- P&ID diagrams"
+            "P to I converter-features of smart and intelligent transmitters- smart transmitter with HART communicator. Digital interfaces in measurement systems",
+            "IEEE -488_ instrumentation bus (GPIB)- objectives of industrial communications - serial data communications links- RS-232C and D interfaces- RS-422",
+            "RS-423 and RS-485 interfaces - Communication protocols- field bus-profibus-modbus-foundation fieldbus. Instrumentation diagrams",
+            "instruments' labeling- ISA standards-Data Sheets- P&ID diagrams"
         ],
         "rejected_topics": null,
         "status": "verified"

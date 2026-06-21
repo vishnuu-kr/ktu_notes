@@ -2,10 +2,12 @@
   {
     "module": "Module 1",
     "topics": [
+      "Building blocks of navigation",
       "Definitions - perception",
       "localization",
       "cognition",
-      "motion control Perception: Sensors for Perception - Schematic representation of the sensing unit",
+      "motion control Perception",
+      "Sensors for Perception - Schematic representation of the sensing unit",
       "Obstacle Sensor (Bumper",
       "the odometry sensor",
       "Heading sensors -Gyroscopes",
@@ -27,6 +29,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Localization",
       "General schematic for mobile robot localization",
       "Challenge of Localization - Sensor noise and Sensor aliasing",
       "Effector noise",
@@ -37,7 +40,8 @@
       "current challenges in map representation",
       "Probabilistic Map-Based Localization - Markov localization",
       "Kalman filter localization",
-      "Application to mobile robots: Kalman filter localization -schematic",
+      "Application to mobile robots",
+      "Kalman filter localization -schematic",
       "Robot position prediction",
       "Observation",
       "Measurement prediction",

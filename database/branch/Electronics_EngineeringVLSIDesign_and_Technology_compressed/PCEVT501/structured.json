@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "MOS TRANSISTOR PRINCIPLES Introduction to CMOS technology",
       "CMOS logic",
       "CMOS fabrication and layout",
       "Design partitioning",
@@ -9,7 +10,8 @@
       "Physical Design",
       "Design verification",
       "Fabrication",
-      "Packaging and testing. MOS transistor: MOS Transistor Basics",
+      "Packaging and testing. MOS transistor",
+      "MOS Transistor Basics",
       "Secondary Effects",
       "Process Variations",
       "Technology Scaling"
@@ -20,11 +22,15 @@
   {
     "module": "Module 2",
     "topics": [
-      "CMOS Inverter: Static CMOS Inverter: DC Characteristics",
+      "Static and Dynamic circuits",
+      "CMOS Inverter",
+      "Static CMOS Inverter",
+      "DC Characteristics",
       "Beta Ratio Effects",
       "Noise margin. Other static CMOS logic gates",
       "static properties (2 input NAND",
-      "Combinational logic circuits. Fundamentals of dynamic logic: Dynamic pass transistor circuits",
+      "Combinational logic circuits. Fundamentals of dynamic logic",
+      "Dynamic pass transistor circuits",
       "High performance dynamic circuits-Domino CMOS",
       "Multi Output Domino Logic",
       "Dual-rail Domino Logic",
@@ -36,11 +42,14 @@
   {
     "module": "Module 3",
     "topics": [
-      "Adders: Design considerations",
+      "Designing arithmetic building blocks",
+      "Adders",
+      "Design considerations",
       "Fast adders",
       "Multipliers",
       "Barrel Shifters",
-      "Speed and Area Trade-offs. Semiconductor Memories: Memory Design",
+      "Speed and Area Trade-offs. Semiconductor Memories",
+      "Memory Design",
       "SRAM",
       "DRAM structure and implementations"
     ],
@@ -50,11 +59,14 @@
   {
     "module": "Module 4",
     "topics": [
+      "Interconnect effects",
       "Introduction",
       "Wire Geometry",
-      "Interconnect Modelling: Resistance",
+      "Interconnect Modelling",
+      "Resistance",
       "Capacitance",
-      "and Inductance. Interconnect Impact: Delay",
+      "and Inductance. Interconnect Impact",
+      "Delay",
       "Energy",
       "Crosstalk",
       "Inductive Effects",

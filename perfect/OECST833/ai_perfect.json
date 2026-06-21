@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction to Software Testing & Automation: Concepts, Importance of Testing, Software Quality, and Real-World Failures (e.g., Ariane 5, Therac 25)",
+            "Introduction to Software Testing: Concepts, Importance of Testing, Software Quality, and Real-World Failures (e.g., Ariane 5, Therac 25)",
             "Software Testing Processes: Levels of Thinking in Testing",
             "Testing Terminologies: Verification, Validation, Fault, Error, Bug, Test Cases, and Coverage Criteria",
             "Types of Testing: Unit, Integration, System, Acceptance, Performance (Stress, Usability, Regression), and Security Testing",
@@ -17,7 +17,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Unit Testing, Mutation Testing & AI-Driven Automation: Static and Dynamic Unit Testing, Control Flow Testing, Data Flow Testing, Domain Testing",
+            "Unit Testing: Static and Dynamic Unit Testing, Control Flow Testing, Data Flow Testing, Domain Testing",
             "Mutation Testing: Mutation Operators, Mutants, Mutation Score, and Modern Mutation Testing Tools (e.g., Muclipse)",
             "JUnit Framework: Automation of Unit Testing, Frameworks for Testing in Real-World Projects",
             "AI in Testing: GenAI for Test Case Generation and Optimization, Impact on Automation",
@@ -30,13 +30,13 @@
     {
         "module": "Module 3",
         "topics": [
-            "Advanced White Box Testing & Security Testing: Graph Coverage Criteria – Node, Edge, and Path Coverage",
+            "Graph Coverage Criteria: Node, Edge, and Path Coverage",
             "Prime Path and Round Trip Coverage",
-            "Data Flow Criteria: DU Paths, DU Pairs, Subsumption Relationships",
+            "Data Flow Criteria: du Paths, du Pairs, Subsumption Relationships",
             "Graph Coverage for Code: Control Flow Graphs (CFGs) for Complex Structures (e.g., Loops, Exceptions)",
             "Graph Coverage for Design Elements: Call Graphs, Class Inheritance Testing, and Coupling Data-Flow Pairs",
             "Security Testing: Fundamentals, Tools (OWASP, Burp Suite), and Their Role in Protecting Modern Applications",
-            "Case Study: Application of Graph-Based Testing and Security Testing Using Industry Standard Tools"
+            "Case Study: Application of Graph Based Testing and Security Testing using Industry Standard Tools"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -44,12 +44,12 @@
     {
         "module": "Module 4",
         "topics": [
-            "Black Box Testing, Grey Box Testing, and Responsive Testing: Input Space Partitioning, Domain Testing, Functional Testing (Equivalence Class Partitioning, Boundary Value Analysis, Decision Tables, Random Testing)",
+            "Black Box Testing: Input Space Partitioning, Domain Testing, Functional Testing (Equivalence Class Partitioning, Boundary Value Analysis, Decision Tables, Random Testing)",
             "Grey Box Testing: Introduction, Advantages, and Methodologies (Matrix Testing, Regression Testing, Orthogonal Array Testing)",
-            "Performance Testing: Network Latency Testing, Browser Compatibility, Responsive Testing Across Multiple Devices (e.g., BrowserStack, LambdaTest)",
+            "Performance Testing: Network Latency Testing, Browser Compatibility, Responsive Testing across Multiple Devices (e.g., BrowserStack, LambdaTest)",
             "Introduction to PEX: Symbolic Execution, Parameterized Unit Testing, Symbolic Execution Trees, and Their Application",
-            "GenAI in Testing: Advanced Use Cases for Predictive and Responsive Testing Across Devices and Environments",
-            "Case Study: Implementation of Black-Box, Grey-Box, and Responsive Testing Using PEX and AI-Driven Tools"
+            "GenAI in Testing: Advanced Use Cases for Predictive and Responsive Testing across Devices and Environments",
+            "Case Study: Implementation of Black-Box, Grey-Box, and Responsive Testing using PEX and AI-Driven Tools"
         ],
         "rejected_topics": null,
         "status": "verified"

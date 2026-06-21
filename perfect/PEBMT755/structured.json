@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Image Fusion",
             "Pre-processing measures-geometrical transformations and image interpolation",
             "Distortion identification- disparity analysis Image Registration-Global Similarity",
             "Transform Identification",
@@ -22,6 +23,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Texture in Biomedical Images",
             "Image intensity versus image texture",
             "Characterizing the Texture",
             "From Markov Random Fields to Fractals",
@@ -42,6 +44,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Active Shape and Active Appearance Models",
             "Creating an ASM",
             "Using ASMs for Segmentation",
             "The Active Appearance Model",
@@ -65,12 +68,15 @@
     {
         "module": "Module 4",
         "topics": [
+            "Visualization of medical volume data",
             "Surface rendering",
             "Reconstruction of surfaces from contours",
             "marching cubes",
             "Indirect volume visualisation - surface rendering of unsegmented and segmented volume data",
             "advanced mesh smoothing",
-            "mesh simplification and web-based surface rendering. Image Storage and Transfer: Image Management: Archiving- Image Storage and Transfer",
+            "mesh simplification and web-based surface rendering. Image Storage and Transfer",
+            "Image Management",
+            "Archiving- Image Storage and Transfer",
             "Information Systems in a Hospital",
             "The DICOM Standard",
             "Establishing DICOM Connectivity",

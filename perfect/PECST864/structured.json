@@ -18,6 +18,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Space Complexity - Space complexity classes",
             "PSPACE",
             "Savitch's theorem and NL-completeness",
             "PSPACE-completeness. Polynomial Hierarchy and Alternation - Definition of the polynomial hierarchy (PH",
@@ -42,7 +43,11 @@
     {
         "module": "Module 4",
         "topics": [
-            "BQP, QMA, Quantum algorithms and their complexity"
+            "Circuit Complexity - Boolean circuits and circuit complexity",
+            "Circuit lower bounds",
+            "Complexity of specific functions. Quantum Complexity - Basics of quantum computation",
+            "Quantum complexity classes",
+            "Quantum algorithms and their complexity"
         ],
         "rejected_topics": null,
         "status": "verified"

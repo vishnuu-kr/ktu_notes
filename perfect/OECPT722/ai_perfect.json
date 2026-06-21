@@ -2,38 +2,64 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction to Robotics: Overview of Robotics and Its Applications, Historical Development and Current Trends, Basic Components and Classifications of Robots",
-            "Robot Anatomy and Components: Sensors (Types, Functions, and Integration), Actuators (Motors, Servos, and Their Control), Control Systems and Feedback Mechanisms",
-            "Robot Kinematics: Coordinate Systems and Transformations, Forward and Inverse Kinematics",
-            "Robot Dynamics: Introduction to Dynamic Modeling (Newton-Euler and Lagrangian Methods)"
-        ]
+            "Fundamentals of robotics",
+            "Introduction to robotics: Overview of robotics and its applications",
+            "Historical development and current trends",
+            "Basic components and classifications of robots",
+            "Robot anatomy and components: sensors, types, functions, and integration",
+            "Actuators: motors, servos, and their control",
+            "Control systems and feedback mechanisms",
+            "Robot kinematics: coordinate systems and transformations",
+            "Forward and inverse kinematics",
+            "Robot dynamics: introduction to dynamic modeling",
+            "Newton-Euler and Lagrangian methods"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
-            "Control Systems Fundamentals: Control Theory Basics (PID Control, State-Space Models), Implementing Control Algorithms in Robotics",
-            "Programming Robots: Introduction to Robot Programming Languages and Environments, Basic Programming Constructs and Techniques",
-            "Perception and Sensor Integration: Types of Sensors (Vision, Rangefinders, IMUs), Sensor Fusion and Data Interpretation"
-        ]
+            "Control systems and programming",
+            "Control systems fundamentals: control theory basics",
+            "PID control",
+            "State-space models",
+            "Implementing control algorithms in robotics",
+            "Programming robots: introduction to robot programming languages and environments",
+            "Basic programming constructs and techniques",
+            "Perception and sensor integration: types of sensors, vision, rangefinders, IMUs",
+            "Sensor fusion and data interpretation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
-            "Motion Planning: Path Planning Algorithms (A*, PRM), Motion Planning in Dynamic Environments",
-            "Robotic Systems Integration: Integration of Hardware and Software Components, Communication Protocols and Data Exchange",
-            "Robotics in Industry: Applications in Manufacturing, Healthcare, and Other Fields, Case Studies, Current Trends and Future Directions in Robotics"
-        ]
+            "Motion planning and system integration",
+            "Motion planning: path planning algorithms, PRM",
+            "Motion planning in dynamic environments",
+            "Robotic systems integration: integration of hardware and software components",
+            "Communication protocols and data exchange",
+            "Robotics in industry: applications in manufacturing, healthcare, and other fields",
+            "Case studies and industry guest speakers",
+            "Current trends and future directions in robotics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
-            "Human-Robot Interaction: Techniques and Applications",
-            "Autonomous Robots: Navigation and Decision-Making",
-            "Robotics and AI: Integration and Future Trends",
-            "Emerging Technologies",
-            "Soft Robotics and Bio-Inspired Robots",
-            "Collaborative Robots (Cobots) and Their Applications",
-            "Swarm Robotics and Collective Behavior"
-        ]
+            "Advanced concepts in robotics",
+            "Human-robot interaction: techniques and applications",
+            "Autonomous robots: navigation and decision-making",
+            "Robotics and AI: integration and future trends",
+            "Emerging technologies: soft robotics and bio-inspired robots",
+            "Collaborative robots (cobots) and their applications",
+            "Swarm robotics and collective behavior"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

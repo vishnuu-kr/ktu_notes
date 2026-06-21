@@ -3,9 +3,14 @@
         "module": "Module 1",
         "topics": [
             "Computer Hardware - CPU",
-            "Memory - Memory Hierarchy: Registers, Cache, Virtual Memory",
+            "Memory - Memory Hierarchy",
+            "Registers",
+            "Cache",
+            "Virtual Memory",
             "Motherboard - Computer Peripherals - I/O Devices",
-            "Storage Devices - HDDs, SSDs, Optical Drives",
+            "Storage Devices - HDDs",
+            "SSDs",
+            "Optical Drives",
             "I/O Communication and Device Management",
             "Interface Cards - Buses - Firmware - Boot Process"
         ],
@@ -15,9 +20,17 @@
     {
         "module": "Module 2",
         "topics": [
-            "Basic CPU Architecture - ALU, Registers, Control Unit",
-            "Instruction Format and Assembly Language (Basics Only)",
-            "Fetch-Execute Cycle and Instruction Execution"
+            "Binary Representation of Data and Numbers",
+            "Integer Representation",
+            "Data Storage Units - Bits",
+            "Bytes",
+            "Kilobytes",
+            "ASCII and Unicode",
+            "CPU Architecture and Instruction Set",
+            "Basic CPU Architecture - ALU",
+            "Registers",
+            "Control Unit",
+            "Instruction Format and Assembly Language (Basics Only), Fetch-Execute Cycle and Instruction Execution"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -26,14 +39,13 @@
         "module": "Module 3",
         "topics": [
             "Computer System Software - Operating Systems",
-            "Basic Commands in Linux / Windows",
-            "Shell Scripting (Bash)",
-            "Computer Communications - LAN",
+            "Basic Commands in Linux/Windows",
+            "Shell Scripting (Bash), Computer Communications - LAN",
             "Client/Server Networks",
             "Peer-to-Peer Networks",
-            "Topologies and Basics of IP Addresses",
+            "Topologies, Basics of IP Addresses",
             "DHCP",
-            "Network Security (Desktop and Perimeter)",
+            "Network Security (Desktop & Perimeter)",
             "Routers",
             "Client-Server",
             "Internet",
@@ -45,7 +57,7 @@
     {
         "module": "Module 4",
         "topics": [
-            "Web Design (Basics of HTML and JavaScript) - Understanding the Web Content Delivery",
+            "Web Design (Basics of HTML and JavaScript) - Understanding Web Content Delivery",
             "Understanding HTML and XHTML Connections",
             "Understanding Cascading Style Sheets",
             "Understanding JavaScript"

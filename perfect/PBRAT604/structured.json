@@ -2,10 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Locomotion",
             "Introduction",
             "Key issues for locomotion",
             "Legged Mobile Robots - Leg configurations and stability",
-            "Wheeled Mobile Robots -Wheeled locomotion: the design space",
+            "Wheeled Mobile Robots -Wheeled locomotion",
+            "the design space",
             "Wheel design",
             "Wheel geometry",
             "Stability",
@@ -18,12 +20,14 @@
             "Quadcopter or quadrotor",
             "Hexacopter",
             "Y3/Y6",
-            "Octocopter Mobile Robot Kinematics: Introduction",
+            "Octocopter Mobile Robot Kinematics",
+            "Introduction",
             "Kinematic Models and Constraints - Representing robot position",
             "Forward kinematic models",
             "Wheel kinematic constraints for Fixed standard wheel",
             "Steered standard wheel and Castor wheel only",
-            "Robot kinematic constraints Example of Robot kinematic models and constraints: Differential-drive robot only Mobile Robot Maneuverability - Degree of mobility",
+            "Robot kinematic constraints Example of Robot kinematic models and constraints",
+            "Differential-drive robot only Mobile Robot Maneuverability - Degree of mobility",
             "Degree of steerability",
             "Robot maneuverability",
             "Mobile Robot Workspace - Degrees of freedom",
@@ -35,16 +39,19 @@
     {
         "module": "Module 2",
         "topics": [
+            "Mobile Robots Fundamental problems",
             "Path Planning",
             "Localization",
             "Sensing",
             "Mapping",
-            "Simultaneous Localization and Mapping Mobile Robot Localization: Introduction",
+            "Simultaneous Localization and Mapping Mobile Robot Localization",
+            "Introduction",
             "The Challenge of Localization -Noise and Aliasing",
             "Localization-Based Navigation versus Programmed Solutions",
             "Belief Representation - Single-hypothesis belief",
             "Multiple-hypothesis belief",
-            "Differences between Markov and Kalman Localization (detailed explanation not required) Representation and Reasoning about Space: Representing Space -Spatial Decomposition",
+            "Differences between Markov and Kalman Localization (detailed explanation not required) Representation and Reasoning about Space",
+            "Representing Space -Spatial Decomposition",
             "Geometric Representations",
             "Topological Representations"
         ],
@@ -54,6 +61,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Path Planning for Mobile Robots",
             "Free-space path versus Semi-free-space path",
             "Non-homotopic paths versus Homotopic paths Constructing a discrete search space - Visibility graph",
             "Tangent graph",
@@ -71,12 +79,14 @@
     {
         "module": "Module 4",
         "topics": [
+            "System Control",
             "Horizontal Decomposition",
             "Vertical Decomposition",
             "Hybrid Control Architectures",
             "Middleware",
             "Alternative Control Formalisms",
-            "The Human Robot Interface Off-Board Communication: Tethered",
+            "The Human Robot Interface Off-Board Communication",
+            "Tethered",
             "Untethered - types of untethered communication Suggestion on Project Topics Students may be given projects on modelling to kinematics",
             "localization and path planning of mobile robots"
         ],

@@ -11,7 +11,8 @@
       "CISC",
       "and other architectures",
       "Overview of ARM Cortex-M Series features and applications",
-      "Introduction to Cortex-M23 and Cortex-M33 Processors: Armv8-M Architecture",
+      "Introduction to Cortex-M23 and Cortex-M33 Processors",
+      "Armv8-M Architecture",
       "Core Features (Registers",
       "Memory",
       "Bus Architecture",
@@ -24,7 +25,7 @@
     "module": "Module 2",
     "topics": [
       "STM32 Microcontroller Overview and Development Environment Setup:-Overview of the STM32 Family and Features of the STM32U575, Development Environment and HAL- Introduction, Writing, and Debugging Your First Program (LED Interfacing",
-      "Interfacing - Seven-Segment Display, LCD Display, Matrix Keypad, Relay, Analog to Digital Conversion-Potentiometer, Temperature Sensor, LDR, Microphone, Digital to Analog Conversion - Simple DAC Output, Sine Wave Generation, Audio Signal Generation, Interrupt Handling Basics and Applications, Timers and PWM: Configuration, Real-Time Clock (RTC), LED Brightness Control, Motor Speed Control"
+      "Interfacing - Seven-Segment Display, LCD Display, Matrix Keypad, Relay, Analog to Digital Conversion-Potentiometer, Temperature Sensor, LDR, Microphone, Digital to Analog Conversion - Simple DAC Output, Sine Wave Generation, Audio Signal Generation, Interrupt Handling Basics and Applications, Timers and PWM, Configuration, Real-Time Clock (RTC), LED Brightness Control, Motor Speed Control"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -51,7 +52,8 @@
       "Making Calls",
       "Internet Connectivity Using AT Commands",
       "Bluetooth(Data Transfer between STM32U575 and Mobile Devices",
-      "RTOS Concepts: FreeRTOS Overview",
+      "RTOS Concepts",
+      "FreeRTOS Overview",
       "Task Creation",
       "Scheduling",
       "Timers",

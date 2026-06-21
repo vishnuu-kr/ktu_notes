@@ -2,7 +2,9 @@
     {
         "module": "Module 1",
         "topics": [
-            "Basic physics of ultrasound (Review Only): Wave nature",
+            "Diagnostic Ultrasound Imaging",
+            "Basic physics of ultrasound (Review Only",
+            "Wave nature",
             "frequency",
             "speed",
             "wavelength",
@@ -17,7 +19,8 @@
             "absorption",
             "interference",
             "diffraction",
-            "Attenuation-dependence on frequency. Diagnostic Ultrasound Imaging: A-mode",
+            "Attenuation-dependence on frequency. Diagnostic Ultrasound Imaging",
+            "A-mode",
             "B-mode and M-mode",
             "Principle of B-Mode Image formation",
             "B-mode formats",
@@ -42,6 +45,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Magnetic resonance imaging",
             "Physics of the Dynamics of the Spin (Review Only). MRI Principle-Magnetisation-Excitation-Relaxation-T1 and T2 phase relaxation and relaxation curves - Acquisition-Bloch Equations. MRI Instrumentation and Block Diagram - Main Magnet",
             "Gradient System",
             "Shim System",
@@ -72,6 +76,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Ray Computed Tomography",
             "Basic concepts of X-ray Generation",
             "Components involved",
             "Properties of X-rays",
@@ -107,6 +112,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Radiology and Hybrid imaging",
             "Radio-isotopes in medical diagnosis",
             "Interaction of nuclear particles with matter. Radio nuclide generators",
             "nuclear radiation detectors",
@@ -117,7 +123,9 @@
             "Biological effects. Hybrid Imaging instrumentation MR-PET Instrumentation-Mutual interference between MR and PET",
             "MR Compatible PET detector technology",
             "MR-PET system architecture. PET-CT",
-            "SPECT-CT. Radiation protection. Infrared imaging and new imaging types: Infrared Imaging - Physics of thermography - IR Detectors - photon & thermal detectors - thermal uncooled IR detectors: resistive micro bolometers",
+            "SPECT-CT. Radiation protection. Infrared imaging and new imaging types",
+            "Infrared Imaging - Physics of thermography - IR Detectors - photon & thermal detectors - thermal uncooled IR detectors",
+            "resistive micro bolometers",
             "pyroelectric and ferroelectric detectors",
             "thermoelectric detectors. Pyroelectric vidicon camera - camera characterization - thermographic image processing -clinical applications of thermography in rheumatology",
             "neurology",

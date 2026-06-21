@@ -2,10 +2,10 @@
     {
         "module": "Module 1",
         "topics": [
-            "Industrial Control System Architecture",
-            "Distributed Control Systems (DCS",
-            "Programmable Logic Controller (PLC",
-            "SCADA overview. Building Automation and Control System Overview, Safety Instrumented Systems, Industrial Internet of Things"
+            "Introduction to ICS(Industrial Control System) System Overview",
+            "Industrial Control System Architecture-Distributed Control Systems (DCS)-Programmable Logic Controller (PLC) - SCADA overview. Building Automation and Control System Overview",
+            "Safety Instrumented Systems",
+            "Industrial Internet of Things"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -13,10 +13,14 @@
     {
         "module": "Module 2",
         "topics": [
+            "Purdue Model for Industrial Control Systems",
+            "Difference Between OT and IT Networks in Industrial Systems",
+            "OT Versus IT ICS Fundamentals",
             "Operation",
             "Design",
             "and Vulnerabilities",
-            "Networking and Industrial Protocols. Case Study: Stuxnet"
+            "Networking and Industrial Protocols. Case Study",
+            "Stuxnet"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -24,6 +28,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Cyber security Controls in Industry Introduction to Cyber security Controls",
             "Definition and Importance",
             "Types of Cyber security Controls (Preventive",
             "Detective",
@@ -42,6 +47,13 @@
     {
         "module": "Module 4",
         "topics": [
+            "Cyber Attacks and Problems",
+            "Anatomy of a Cyber Attack",
+            "Defense in Depth Principle",
+            "Contemporary Control System Architectures",
+            "Asset management in Cyber Security",
+            "Network segmentation",
+            "Network Discovery Auditing and Assessing ICS",
             "Methodology and Characterization",
             "System Assessment and Classification",
             "Vulnerability Identification",

@@ -2,8 +2,10 @@
     {
         "module": "Module 1",
         "topics": [
+            "Multi-modal images and Hybrid Imaging",
             "Hybrid PET/CT Systems",
-            "PET/MRI Systems. Super resolution imaging. Image Fusion: Preprocessing measures-geometrical transformations and image interpolation",
+            "PET/MRI Systems. Super resolution imaging. Image Fusion",
+            "Preprocessing measures-geometrical transformations and image interpolation",
             "Distortion identification- disparity analysis. Image Registration- Global Similarity",
             "Transform Identification",
             "Registration Evaluation and Approval. Three-Dimensional Data from Two-Dimensional Slices",
@@ -16,6 +18,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Texture in Biomedical Images",
             "Image intensity versus image texture",
             "Characterizing the Texture",
             "From Markov Random Fields to Fractals",
@@ -36,6 +39,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Active Shape and Active Appearance Models",
             "Creating an ASM",
             "Using ASMs for Segmentation",
             "The Active Appearance Model",
@@ -59,7 +63,9 @@
     {
         "module": "Module 4",
         "topics": [
-            "Image Management: Archiving- Image Storage and Transfer",
+            "Image Storage and Transfer",
+            "Image Management",
+            "Archiving- Image Storage and Transfer",
             "Information Systems in a Hospital",
             "The DICOM Standard",
             "Establishing DICOM Connectivity",

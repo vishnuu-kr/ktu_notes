@@ -2,11 +2,14 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction",
       "Motivation and Applications",
       "Accuracy and precision",
       "Errors",
       "Sources of errors",
-      "Significant digits and Numerical instability -Numerical solution of polynomial and transcendental equations -Bracketing methods: Bisection method - Regula-Falsi method -Open methods: Newton-Raphson method - Fixed-point iteration - Solution of polynomial and transcendental equations using Excel/ MATLAB (Assignments/ Micro project only"
+      "Significant digits and Numerical instability -Numerical solution of polynomial and transcendental equations -Bracketing methods",
+      "Bisection method - Regula-Falsi method -Open methods",
+      "Newton-Raphson method - Fixed-point iteration - Solution of polynomial and transcendental equations using Excel/ MATLAB (Assignments/ Micro project only"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -14,7 +17,7 @@
   {
     "module": "Module 2",
     "topics": [
-      "Direct methods",
+      "Solutions of system of linear algebraic equations, Direct methods",
       "Gauss Elimination and Gauss",
       "Jordan methods",
       "Crout’s reduction method",
@@ -33,14 +36,10 @@
   {
     "module": "Module 3",
     "topics": [
-      "Polynomial interpolation: finite difference operators: Gregory",
-      "Newton forward and backward interpolations -Stirling’s interpolation formula- Lagrange’s interpolation polynomial",
-      "divided differences Newton’s divided difference interpolation polynomial",
-      "error of interpolation",
-      "Interpolation using Excel/ MATLAB(Assignments/ Micro project only) Numerical differentiation: differential formulas in the case of equally spaced points",
-      "numerical integration",
-      "trapezoidal and Simpson’s rules -Gaussian integration",
-      "errors of integration formulas- Differentiation and Integration using Excel/ MATLAB(Assignments/ Micro project only"
+      "Polynomial interpolation",
+      "finite difference operators",
+      "Gregory - Newton forward and backward interpolations -Stirling’s interpolation formula- Lagrange’s interpolation polynomial - divided differences Newton’s divided difference interpolation polynomial - error of interpolation - Interpolation using Excel/ MATLAB(Assignments/ Micro project only) Numerical differentiation",
+      "differential formulas in the case of equally spaced points - numerical integration - trapezoidal and Simpson’s rules -Gaussian integration - errors of integration formulas- Differentiation and Integration using Excel/ MATLAB(Assignments/ Micro project only"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -48,13 +47,13 @@
   {
     "module": "Module 4",
     "topics": [
-      "The Taylor series method",
+      "Numerical solution of ordinary differential equations, The Taylor series method",
       "Euler and modified Euler methods",
       "Runge",
       "Kutta methods (4th order only",
       "Multistep methods",
       "Milne’s predictor -corrector formulas",
-      "Adam-Bashforth & Adam-MoultonFormulas-Solution of boundary value problems in ordinary differential equations-solution of ordinary differential equations using Excel/ MATLAB(Assignments/ Micro project only) Solution of partial difference equations: Classification of PDE’s-finite difference methods for solving two-dimensional Laplace’s equation for a rectangular region",
+      "Adam-Bashforth & Adam-MoultonFormulas-Solution of boundary value problems in ordinary differential equations-solution of ordinary differential equations using Excel/ MATLAB(Assignments/ Micro project only) Solution of partial difference equations, Classification of PDE’s-finite difference methods for solving two-dimensional Laplace’s equation for a rectangular region",
       "finite difference method of solving heat equation and wave equation with given initial and boundary conditions-solution of partial differential equations using Excel/ MATLAB(Assignments/ Micro project only"
     ],
     "rejected_topics": null,

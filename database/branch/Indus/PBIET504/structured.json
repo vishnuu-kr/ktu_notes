@@ -2,11 +2,13 @@
   {
     "module": "Module 1",
     "topics": [
+      "Linear Programming",
       "Advanced solution techniques - Revised simplex method",
       "dual simplex method",
       "two phase method",
       "interior point method",
-      "sensitivity analysis. Integer programming: Formulation and solution techniques - Introduction to dynamic programming and software tools for linear programming"
+      "sensitivity analysis. Integer programming",
+      "Formulation and solution techniques - Introduction to dynamic programming and software tools for linear programming"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -14,8 +16,10 @@
   {
     "module": "Module 2",
     "topics": [
+      "Queuing theory",
       "Markovian queue models",
-      "single server & multiple server models. Game theory: Practical application of game theory",
+      "single server & multiple server models. Game theory",
+      "Practical application of game theory",
       "two - person",
       "zero -sum games",
       "solution with and without saddle point",
@@ -28,6 +32,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Nonlinear programming",
       "Definition",
       "formulation of non-linear programming problems (NLPs",
       "Convex and non-convex functions",
@@ -35,7 +40,8 @@
       "unconstrained maximization and minimization with several variables",
       "the method of steepest descent",
       "Newton’s method and quasi - Newton method",
-      "conjugate gradient and conjugate direction methods. Constrained optimization methods: Lagrange multipliers",
+      "conjugate gradient and conjugate direction methods. Constrained optimization methods",
+      "Lagrange multipliers",
       "Kuhn-Tucker condition",
       "method of feasible directions",
       "pareto optimality and trade-off curves"
@@ -46,6 +52,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Network problems",
       "Introduction to graph theory and basic definitions. Minimum spanning tree problem - Prim’s algorithm",
       "Kruskal’s algorithm",
       "Shortest path problems - Dijkstra’s algorithm",
@@ -56,11 +63,14 @@
       "maximum flow and minimum cut",
       "shortest augmenting path algorithm",
       "minimum cost flow problem",
-      "network simplex method. Travelling salesman problem (TSP): Branch and bound and heuristic algorithms for the TSP",
-      "Chinese postman problem. Vehicle Routing Problems: Optimal solutions",
+      "network simplex method. Travelling salesman problem (TSP",
+      "Branch and bound and heuristic algorithms for the TSP",
+      "Chinese postman problem. Vehicle Routing Problems",
+      "Optimal solutions",
       "Little’s algorithm and heuristic solutions",
       "savings based algorithm",
-      "Holmes and Parker refinement. Suggestion on Project Topics: Each student team can choose some simple close to real life projects from the areas discussed in the syllabus",
+      "Holmes and Parker refinement. Suggestion on Project Topics",
+      "Each student team can choose some simple close to real life projects from the areas discussed in the syllabus",
       "such as ● Production Planning problem ● Cutting Stock Problem ● Fixed Charge Problem ● Resource allocation ● Scheduling ● Parameter optimization ● Analysis of practical problems using network models ● Portfolio optimization"
     ],
     "rejected_topics": null,

@@ -2,12 +2,15 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Continuous and Discrete Time Signals",
             "Definition of Signal",
             "Basic Continuous-Time Signals",
             "Frequency and Angular Frequency",
             "Basic Operations on Signals",
-            "Basic Discrete-Time Signals - Frequency and Angular Frequency of Discrete-Time Signals",
-            "Classification of Continuous-Time and Discrete-Time Signals: Periodic and Non-Periodic Signals",
+            "Basic Discrete-Time Signals",
+            "Frequency and Angular Frequency of Discrete-Time Signals",
+            "Classification of Continuous-Time and Discrete-Time Signals",
+            "Periodic and Non-Periodic Signals",
             "Even and Odd Signals",
             "Energy and Power Signals"
         ],
@@ -17,6 +20,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Systems",
             "System Definition",
             "Continuous-Time and Discrete-Time Systems",
             "Properties - Linearity",
@@ -24,7 +28,9 @@
             "Causality",
             "Invertibility",
             "Stability",
-            "Representation of Systems Using Impulse Response: LTI System Definition",
+            "Representation of Systems Using Impulse Response",
+            "Linear Time Invariant Systems",
+            "LTI System Definition",
             "Response of a Discrete-Time LTI System and the Convolutional Sum",
             "Circular Convolution",
             "Linear Convolution Through Circular Convolution",
@@ -36,13 +42,14 @@
     {
         "module": "Module 3",
         "topics": [
+            "Frequency Analysis of Signals",
             "Fourier Transform of Continuous-Time and Discrete-Time Signals",
             "Parseval's Theorem",
             "Interpretation of Spectra",
             "Sampling Theorem",
             "Frequency Aliasing Due to Sampling",
             "Need for Anti-Aliasing Filters",
-            "Discrete-Time Fourier Transforms - Properties",
+            "Discrete Time Fourier Transforms - Properties",
             "Discrete Fourier Transform - Properties - DFT as a Linear Transformation",
             "IDFT",
             "FFT - Radix-2 DIT and DIF Algorithms",
@@ -54,6 +61,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Digital Filters",
             "Digital FIR Filter",
             "Transfer Function - Difference Equation",
             "Linear Phase FIR Filter",

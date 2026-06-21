@@ -2,17 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
-            "Components",
-            "Differential GPS Receiver",
-            "GNSS Receiver",
-            "mass flow sensors. Impact plates",
-            "measuring volume with a photoelectric sensor",
-            "volumetric flow sensing and alternatives. Grain moisture sensor",
-            "fan speed sensor",
-            "elevator speed sensor",
-            "header position",
-            "yield monitor data",
-            "cotton yield monitors"
+            "Introduction to sensors, sensors in precision farming",
+            "Spectral based sensors",
+            "Development of sensors and controls",
+            "Image analysis technology",
+            "Crop yield monitors",
+            "Yield Monitors, Components, Differential GPS Receiver, GNSS Receiver, mass flow sensors. Impact plates, measuring volume with a photoelectric sensor, volumetric flow sensing and alternatives. Grain moisture sensor, fan speed sensor, elevator speed sensor, header position, yield monitor data, cotton yield monitors"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -20,7 +15,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Radio telemetry systems to remotely monitor and record physiological parameters"
+            "Introduction Remote sensing for precision agriculture and applications for crop monitoring, Developments in livestock and building control, Radio telemetry systems to remotely monitor and record physiological parameters"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -28,6 +23,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Global navigation satellite system (GNNS). Satellite ranging",
             "Accuracy",
             "standards",
             "components of GIS",
@@ -35,7 +31,8 @@
             "map component",
             "attribute table component",
             "Function of a GIS",
-            "resolution. Data formats: Vector or raster. GIS for precision farming",
+            "resolution. Data formats",
+            "Vector or raster. GIS for precision farming",
             "data analysis",
             "field calculator",
             "convert to grid",

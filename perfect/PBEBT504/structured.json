@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Basics of biomedical signal processing",
             "Introduction & relevance of biomedical signal processing. Biomedical signals - ECG",
             "carotid pulse",
             "speech signal",
@@ -15,7 +16,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Fourier Analysis for Continuous Time Processes-Synthesis of an ECG signal using pure sinusoid. Frequency Domain Analysis of discrete time signals: Discrete Fourier series",
+            "Fourier Analysis, Fourier Analysis for Continuous Time Processes-Synthesis of an ECG signal using pure sinusoid. Frequency Domain Analysis of discrete time signals, Discrete Fourier series",
             "Discrete Time Fourier Transform- Discrete Fourier Transform-properties",
             "Fast Fourier Transform-FFT algorithms (Radix 2)- decimation in",
             "time",
@@ -27,9 +28,11 @@
     {
         "module": "Module 3",
         "topics": [
+            "Spectrum analysis & Z Transform",
             "Spectrum analysis of bio signals - Introduction to parametric & non parametric methods. Z transform - ROC",
             "properties of ROC",
-            "Properties of Z transform: Linearity",
+            "Properties of Z transform",
+            "Linearity",
             "Time shifting",
             "Scaling",
             "Time reversal",
@@ -46,11 +49,17 @@
     {
         "module": "Module 4",
         "topics": [
+            "Digital filters",
             "Concept of digital filtering",
             "types of digital filters. Comparison with analog filters. FIR filter design using Fourier series - use of window functions",
-            "IIR Digital Filters - Analog filter approximations -Butterworth approximation - Frequency transformation techniques - impulse invariant transformation - Matched Z transform technique- bilinear transformation Suggestion on Project Topics Students are asked to form groups of maximum five members. Each group should identify a project on the areas specified below and choose suitable data base. Develop a methodology to implement the project. Develop the algorithm and code for the project Areas of Projects Topics:  Filtering for removal of artefacts: Implementation of time domain Filters & Frequency domain filters for removal of high frequency and low frequency and periodic artefacts  Event detection in biomedical signals - ECG: QRS wave detection",
+            "IIR Digital Filters - Analog filter approximations -Butterworth approximation - Frequency transformation techniques - impulse invariant transformation - Matched Z transform technique- bilinear transformation Suggestion on Project Topics Students are asked to form groups of maximum five members. Each group should identify a project on the areas specified below and choose suitable data base. Develop a methodology to implement the project. Develop the algorithm and code for the project Areas of Projects Topics",
+            "Filtering for removal of artefacts",
+            "Implementation of time domain Filters & Frequency domain filters for removal of high frequency and low frequency and periodic artefacts  Event detection in biomedical signals - ECG",
+            "QRS wave detection",
             "P wave and T wave detection",
-            "PPG: dicrotic notch detection - Heart sound detection- EEG rhythm detection  Frequency Domain characterisation of Biomedical signal: Power spectrum density estimation of biomedical signals  Wave shape and Waveform Complexity analysis: Normal and Ectopic beat",
+            "dicrotic notch detection - Heart sound detection- EEG rhythm detection  Frequency Domain characterisation of Biomedical signal",
+            "Power spectrum density estimation of biomedical signals  Wave shape and Waveform Complexity analysis",
+            "Normal and Ectopic beat",
             "Arrhythmia analysis",
             "Analysis of exercise ECG",
             "Analysis of respiration"

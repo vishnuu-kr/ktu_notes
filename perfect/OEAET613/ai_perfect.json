@@ -5,10 +5,12 @@
             "Microcontroller Architecture - General Internal Architecture",
             "Address Bus",
             "Data Bus",
-            "Control Bus, The 8051 Microcontroller - Features of 8051 Microcontroller",
+            "Control Bus",
+            "The 8051 Microcontroller - Features of 8051 Microcontroller",
             "Block Diagram of 8051 - Program Status Word (PSW)",
             "Accumulator",
-            "Program Counter, Memory Organization - RAM & ROM",
+            "Program Counter",
+            "Memory Organization - RAM & ROM",
             "Register Banks and Stack",
             "Special Function Registers (SFRs)",
             "I/O Port Organization",
@@ -23,7 +25,9 @@
             "Instruction Set of 8051 and Addressing Modes - Classification of Instruction Set - Data Transfer Group",
             "Arithmetic Group",
             "Logical Group",
-            "Branching Group, Addressing Modes - Types, Accessing the Data from Internal and External Memory"
+            "Branching Group",
+            "Addressing Modes - Types",
+            "Accessing the Data from Internal and External Memory"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -32,7 +36,11 @@
         "module": "Module 3",
         "topics": [
             "Programming 8051 Using Assembly Language",
-            "Introduction to 8051 Assembly Language Programming, Data Types and Directives, Concept of Subroutine, Software Delay Programming, Programming 8051 Using Embedded C Language",
+            "Introduction to 8051 Assembly Language Programming",
+            "Data Types and Directives",
+            "Concept of Subroutine",
+            "Software Delay Programming",
+            "Programming 8051 Using Embedded C Language",
             "Introduction to Embedded C",
             "Advantages"
         ],
@@ -42,13 +50,20 @@
     {
         "module": "Module 4",
         "topics": [
-            "Timer/Counter in 8051",
+            "Timer / Counter in 8051",
             "Timer Registers",
-            "Timer0 and Timer1, Configuration of Timer Registers, Timer Mode Programming, Counter Mode, Serial Communication in 8051",
-            "Serial Communication",
-            "Modes and Protocols, RS-232 Pin Configuration and Connection, Serial Port Programming",
-            "Transmitting and Receiving, Programming the Interrupts",
-            "Use External, Timer and Serial Port Interrupts, Interrupt Priority Settings"
+            "Timer0, Timer1",
+            "Configuration of Timer Registers",
+            "Timer Mode Programming",
+            "Counter Mode",
+            "Serial Communication in 8051",
+            "Serial Communication Modes and Protocols",
+            "RS-232 Pin Configuration and Connection",
+            "Serial Port Programming",
+            "Transmitting and Receiving",
+            "Programming the Interrupts",
+            "Use External, Timer and Serial Port Interrupts",
+            "Interrupt Priority Settings"
         ],
         "rejected_topics": null,
         "status": "verified"

@@ -10,18 +10,18 @@
             "Concentration of Liquid Solutions - Molarity",
             "Molality",
             "Normality",
-            "PPM; Ideal Gases and Gas Mixtures - Ideal Gas Law",
+            "ppm",
+            "Ideal Gases and Gas Mixtures - Ideal Gas Law",
             "Amagat's Law",
             "Dalton's Law",
             "Henry's Law",
             "Average Molecular Weight",
             "Density of Gases",
-            "Partial Pressure and Partial Volume Calculations; Material Balance Involving Chemical Reactions and Not Involving Chemical Reactions",
+            "Partial Pressure and Partial Volume Calculations",
+            "Material Balance Involving Chemical Reactions and Not Involving Chemical Reactions",
             "Simple Calculations Involving Recycle",
             "Bypass and Purge Streams"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     },
     {
         "module": "Module 2",
@@ -33,16 +33,14 @@
             "Latent Heats",
             "Enthalpy Changes Accompanying Chemical Reactions - Standard Heat of Formation and Standard Heat of Combustion",
             "Standard Heat of Reaction"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     },
     {
         "module": "Module 3",
         "topics": [
             "Chemical Thermodynamics",
             "Fundamental Concepts and Definitions - Types of Thermodynamic Systems and Properties - Closed",
-            "Open and Isolated System - Intensive and Extensive Properties - Path and State Functions",
+            "Open and Isolated Systems - Intensive and Extensive Properties - Path and State Functions",
             "First Law of Thermodynamics",
             "Second Law of Thermodynamics",
             "Entropy",
@@ -51,34 +49,40 @@
             "Heat Capacity in Terms of Entropy",
             "Equation of State of Gases",
             "The Principle of Corresponding States",
-            "Compression and Expansion of Fluids - Joule Thomson Expansion; Gibbs Free Energy Change",
+            "Compression and Expansion of Fluids - Joule Thomson Expansion",
+            "Gibbs Free Energy Change",
             "Equilibrium Constant",
             "Effect of Temperature on Equilibrium Constant"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     },
     {
         "module": "Module 4",
         "topics": [
+            "Solids",
             "Properties of Solids",
             "Screening",
             "Screening Equipment",
             "Effectiveness of Screens",
             "Sieve Analysis",
-            "Average Diameter and Specific Surface; Size Reduction",
-            "Types of Equipment Used in the Various Stages of Reductions; Laws of Crushing & Grinding Power Requirements; Belt Conveyer",
+            "Average Diameter and Specific Surface",
+            "Size Reduction",
+            "Types of Equipment Used in the Various Stages of Reductions",
+            "Laws of Crushing and Grinding Power Requirements",
+            "Belt Conveyer",
             "Bucket Conveyer",
-            "Pneumatic Conveyers; Capacity and Power Requirements of Conveyers; Flow of Solids Through Fluids",
-            "Terminal Settling Velocity & Hindered Settling; Laboratory Batch Sedimentation",
+            "Pneumatic Conveyers",
+            "Capacity and Power Requirements of Conveyers",
+            "Flow of Solids through Fluids",
+            "Terminal Settling Velocity and Hindered Settling",
+            "Laboratory Batch Sedimentation",
             "Kynch Theory",
-            "Calculation of Area and Depth for Continuous Thickeners; Filtration: Filtration Theory",
+            "Calculation of Area and Depth for Continuous Thickeners",
+            "Filtration",
+            "Filtration Theory",
             "Equipment for Filtration",
             "Constant Pressure and Constant Rate Filtration",
             "Filter Calculations",
-            "Optimum Cycle Time & Filter Aids"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+            "Optimum Cycle Time and Filter Aids"
+        ]
     }
 ]

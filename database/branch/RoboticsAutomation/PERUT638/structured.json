@@ -30,12 +30,16 @@
   {
     "module": "Module 3",
     "topics": [
+      "Operating system overview - Functions",
+      "Service - System calls",
+      "Types-System boot process. Processes",
       "Process states",
       "Process control block",
       "threads",
       "scheduling",
       "Inter-process communication - shared memory systems",
-      "Message passing systems. Process Scheduling: Basic concepts- Scheduling criteria -Scheduling algorithms- First come First Served",
+      "Message passing systems. Process Scheduling",
+      "Basic concepts- Scheduling criteria -Scheduling algorithms- First come First Served",
       "Round robin scheduling"
     ],
     "rejected_topics": null,
@@ -44,10 +48,14 @@
   {
     "module": "Module 4",
     "topics": [
-      "Race conditions - Critical section problem - Peterson’s solution - Semaphores - Synchronization problems - Producer Consumer. Deadlocks: Necessary conditions",
-      "Resource allocation graphs - Deadlock avoidance - Banker’s algorithms. Memory Management: Concept of address spaces",
+      "Process synchronization",
+      "Race conditions - Critical section problem - Peterson’s solution - Semaphores - Synchronization problems - Producer Consumer. Deadlocks",
+      "Necessary conditions",
+      "Resource allocation graphs - Deadlock avoidance - Banker’s algorithms. Memory Management",
+      "Concept of address spaces",
       "Contiguous memory allocation",
-      "fixed and variable partitions. File System: File concept - Attributes",
+      "fixed and variable partitions. File System",
+      "File concept - Attributes",
       "Operations",
       "types"
     ],

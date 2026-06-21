@@ -2,13 +2,14 @@
     {
         "module": "Module 1",
         "topics": [
-            "Overview of Machine Learning - Definition",
-            "Types of Machine Learning - Supervised Learning",
+            "Introduction to Machine Learning",
+            "Overview of Machine Learning: Definition",
+            "Types of Machine Learning: Supervised Learning",
             "Unsupervised Learning and Reinforcement Learning",
-            "Data Preprocessing - Cleaning",
-            "Normalization and Splitting Data - Training Set",
+            "Data Preprocessing: Cleaning",
+            "Normalization and Splitting Data: Training Set",
             "Test Set and Validation Set",
-            "Feature Engineering - Feature Selection and Extraction"
+            "Feature Engineering: Feature Selection and Extraction"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -16,11 +17,12 @@
     {
         "module": "Module 2",
         "topics": [
-            "Linear Models - Linear Regression and Logistic Regression",
-            "Decision Trees - Basics",
+            "Supervised Learning Algorithms",
+            "Linear Models: Linear Regression and Logistic Regression",
+            "Decision Trees: Basics",
             "Splitting Criteria and Overfitting",
-            "Ensemble Methods - Random Forests and Gradient Boosting Machines",
-            "Support Vector Machines (SVMs) - SVM Concepts and Kernels"
+            "Ensemble Methods: Random Forests and Gradient Boosting Machines",
+            "Support Vector Machines (SVMs): SVM Concepts and Kernels"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -28,15 +30,16 @@
     {
         "module": "Module 3",
         "topics": [
-            "Model Evaluation Metrics - Accuracy",
+            "Model Selection and Neural Networks",
+            "Model Evaluation Metrics: Accuracy",
             "Precision",
             "Recall",
             "F1 Score",
             "Receiver Operating Characteristic Curve (ROC Curve)",
             "Area Under ROC Curve (AUC Curve)",
-            "Model Selection - Cross-Validation and Bias-Variance Trade-off",
-            "Regularization Techniques - L1 and L2 Regularization",
-            "Introduction to Neural Networks - Perceptron",
+            "Model Selection: Cross-Validation and Bias-Variance Trade-off",
+            "Regularization Techniques: L1 and L2 Regularization",
+            "Introduction to Neural Networks: Perceptron",
             "Multi-Layer Perceptron and Perceptron Training Algorithm"
         ],
         "rejected_topics": null,
@@ -45,10 +48,11 @@
     {
         "module": "Module 4",
         "topics": [
-            "Clustering - K-Means",
-            "Hierarchical Clustering and Density-Based Spatial Clustering of Applications with Noise (DBSCAN)",
-            "Dimensionality Reduction - Principal Component Analysis (PCA)",
-            "Reinforcement Learning (RL) - RL Concepts and Q-Learning"
+            "Unsupervised Learning Algorithms",
+            "Clustering: K-Means",
+            "Hierarchical Clustering and Density-based Spatial Clustering of Applications with Noise (DBSCAN)",
+            "Dimensionality Reduction: Principal Component Analysis (PCA)",
+            "Reinforcement Learning (RL): RL Concepts and Q-Learning"
         ],
         "rejected_topics": null,
         "status": "verified"

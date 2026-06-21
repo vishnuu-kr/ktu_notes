@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to IoT and IIoT",
       "IOT Definition",
       "Importance of IoT",
       "IoT architecture",
@@ -18,21 +19,27 @@
   {
     "module": "Module 2",
     "topics": [
+      "Implementation Systems for IIoT",
       "Sensors and actuators for industrial processes",
-      "sensor networks: network topologies",
-      "types of networks. Study of different sensors and their characteristics: Light sensor",
+      "sensor networks",
+      "network topologies",
+      "types of networks. Study of different sensors and their characteristics",
+      "Light sensor",
       "temperature sensor with thermistor",
       "voltage sensor",
       "ADC and DAC",
       "Temperature and Humidity Sensor DHT11",
       "Motion Detection Sensors",
       "Wireless Bluetooth Sensors",
-      "Level Sensors. Actuators: Thermal",
+      "Level Sensors. Actuators",
+      "Thermal",
       "hydraulic",
       "pneumatic",
-      "electromechanical. Communication Protocols: UART Communication Protocol",
+      "electromechanical. Communication Protocols",
+      "UART Communication Protocol",
       "I2C Protocol device interfacing and decoding of signal",
-      "SPI Protocol device interfacing and decoding of signal. Application layer protocols: HTTP",
+      "SPI Protocol device interfacing and decoding of signal. Application layer protocols",
+      "HTTP",
       "CoAP",
       "MQTT"
     ],
@@ -42,8 +49,8 @@
   {
     "module": "Module 3",
     "topics": [
-      "Role of microcontrollers in IIoT: Introduction to Raspberry Pi-Installation, programming, Interfaces (serial, SPI, I2C) Cloud Services: Configuration of the cloud platform, Sending data from the IoT nodes to the gateways using different communication options",
-      "Transferring data from gateway to the cloud. Google, AWS, Microsoft Azure cloud architect. Case study: Program different Sensors for IoT applications Security and privacy issues in IoT"
+      "Data Handling in IIoT, Role of microcontrollers in IIoT, Introduction to Raspberry Pi-Installation, programming, Interfaces (serial, SPI, I2C) Cloud Services, Configuration of the cloud platform, Sending data from the IoT nodes to the gateways using different communication options",
+      "Transferring data from gateway to the cloud. Google, AWS, Microsoft Azure cloud architect. Case study, Program different Sensors for IoT applications Security and privacy issues in IoT"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -51,6 +58,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Industrial IoT Applications",
       "Healthcare",
       "Power Plants",
       "Inventory Management & Quality Control",

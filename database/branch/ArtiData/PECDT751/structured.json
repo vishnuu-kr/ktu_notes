@@ -2,11 +2,13 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to the Graph Data Model",
       "Graphs as the future of data",
       "The relevance of data relationships",
       "High-level view of Graph Space",
       "The Power of Graph Databases",
-      "Options for Storing Connected Data: Relational Databases Limitations",
+      "Options for Storing Connected Data",
+      "Relational Databases Limitations",
       "NoSQL Databases",
       "Graph Databases",
       "Defining Graph Analytics and Graph Data Science"
@@ -17,13 +19,16 @@
   {
     "module": "Module 2",
     "topics": [
+      "Data Modelling with Graph",
       "Models and Goals",
       "The Property Graph Model",
-      "Querying Graphs: An Introduction to Cypher",
+      "Querying Graphs",
+      "An Introduction to Cypher",
       "Other Cypher Clauses",
       "Comparison of Relational and Graph Modelling",
       "Cross Domain Models",
-      "Common Modelling Pitfalls. Building a Graph Database Application: Data Modelling",
+      "Common Modelling Pitfalls. Building a Graph Database Application",
+      "Data Modelling",
       "Application Architecture",
       "Redundancy"
     ],
@@ -33,6 +38,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Graph Algorithms",
       "Graph Algorithms in Neo4j",
       "Graph Algorithm Concepts",
       "The Neo4j Graph Algorithms Library",
@@ -47,8 +53,10 @@
   {
     "module": "Module 4",
     "topics": [
+      "Predictive Analysis with Graph Theory in Real World",
       "Real-World Examples",
-      "Looking at Graphs in the Health Industry. Graph Database Internals: Native Graph Processing",
+      "Looking at Graphs in the Health Industry. Graph Database Internals",
+      "Native Graph Processing",
       "Native Graph Storage",
       "Programmatic APIs",
       "Non-functional Characteristics Depth and Breadth-First Search",

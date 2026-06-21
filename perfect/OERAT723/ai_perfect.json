@@ -2,9 +2,13 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction to Mobile Robots and Mobile Manipulators, Principle of Locomotion and Types of Locomotion, Types of Mobile Robots: Ground Robots (Wheeled and Legged Robots), Aerial Robots, Underwater Robots and Water Surface Robots",
-            "Degree of Freedom and Manoeuvrability",
-            "Generalized Wheel Model, Different Wheel Configurations, Holonomic and Non-Holonomic Robot",
+            "Introduction to Mobile Robots and Mobile Manipulators, Principle of Locomotion and Types of Locomotion, Types of Mobile Robots",
+            "Ground Robots: Wheeled and Legged Robots",
+            "Aerial Robots",
+            "Underwater Robots and Water Surface Robots, Degree of Freedom and Manoeuvrability",
+            "Generalized Wheel Model",
+            "Different Wheel Configurations",
+            "Holonomic and Non-holonomic Robots",
             "Sensors for Mobile Robots",
             "Popular Algorithms for Mobilising Robots"
         ],
@@ -14,8 +18,16 @@
     {
         "module": "Module 2",
         "topics": [
-            "History of Service Robotics, Present Status and Future Trends, Need for Service Robots, Applications, Examples and Specifications of Service and Field Robots, Non-conventional Industrial Robots, Aerial Robots, Collision Avoidance",
-            "Robots for Agriculture, Mining, Exploration, Underwater, Civilian and Military Applications, Nuclear Applications, Space Applications"
+            "Field and Service Robots",
+            "History of Service Robotics, Present Status and Future Trends, Need for Service Robots, Applications, Examples and Specifications of Service and Field Robots",
+            "Non-conventional Industrial Robots",
+            "Aerial Robots, Collision Avoidance, Robots for Agriculture",
+            "Mining",
+            "Exploration",
+            "Underwater",
+            "Civilian and Military Applications",
+            "Nuclear Applications",
+            "Space Applications"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -24,8 +36,12 @@
         "module": "Module 3",
         "topics": [
             "Medical Robots, Types of Medical Robots",
-            "Navigation, Motion Replication, Imaging, Rehabilitation and Prosthetics",
-            "State of Art of Robotics in the Field of Healthcare, Minimally Invasive Surgery and Robotic Integration, Surgical Robotic Sub-systems",
+            "Navigation",
+            "Motion Replication",
+            "Imaging, Rehabilitation and Prosthetics",
+            "State of Art of Robotics in the Field of Healthcare",
+            "Minimally Invasive Surgery and Robotic Integration",
+            "Surgical Robotic Subsystems",
             "Types of Assistive Robots"
         ],
         "rejected_topics": null,
@@ -34,8 +50,12 @@
     {
         "module": "Module 4",
         "topics": [
-            "Introduction to Soft Robotics: Definitions and Applications",
-            "Morphological Computation and Bioinspired Design, Elastomers, Thermoplastics and Textiles, Cable Driven Soft Robots, Fluidic Actuation, Dielectric Elastomers, Shape Memory Alloys, Soft Resistive, Capacitive, and Inductive Sensing"
+            "Soft Robotics",
+            "Introduction to Soft Robotics",
+            "Definitions and Applications",
+            "Morphological Computation and Bioinspired Design, Elastomers, Thermoplastics and Textiles, Cable-Driven Soft Robots, Fluidic Actuation, Dielectric Elastomers, Shape Memory Alloys, Soft Resistive",
+            "Capacitive",
+            "Inductive Sensing"
         ],
         "rejected_topics": null,
         "status": "verified"

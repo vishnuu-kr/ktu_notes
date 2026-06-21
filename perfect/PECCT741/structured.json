@@ -18,6 +18,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Dynamic analysis",
             "Live malware analysis",
             "dead malware analysis",
             "analyzing traces of malware",
@@ -34,9 +35,12 @@
             "Breakpoints",
             "Tracing",
             "Exception Handling",
-            "Patching. Malware Detection Techniques: Signature-based techniques: malware signatures",
+            "Patching. Malware Detection Techniques",
+            "Signature-based techniques",
+            "malware signatures",
             "packed malware signature",
-            "metamorphic and polymorphic signature. Non-signature based techniques: similarity-based techniques",
+            "metamorphic and polymorphic signature. Non-signature based techniques",
+            "similarity-based techniques",
             "machine-learning methods"
         ],
         "rejected_topics": null,
@@ -45,6 +49,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Malware Incident response",
             "Volatile Data Collection and Examination on a Live Windows Systems - Volatile Data collection methodology from Windows systems- Preservation of Volatile data",
             "Collecting Subject System details",
             "Identifying users Logged into the System",

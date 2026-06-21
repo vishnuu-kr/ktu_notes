@@ -15,7 +15,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Newton's finite and backward difference interpolation methods. Polynomial Interpolation: Lagrange interpolation and Newton’s divided difference interpolation. Spline Interpolation: Cubic splines and B-splines. Error analysis in interpolation. Implementing interpolation methods in Python"
+            "Interpolation (Derivation or proof not required) Finite difference interpolation, Newton's finite and backward difference interpolation methods. Polynomial Interpolation, Lagrange interpolation and Newton’s divided difference interpolation. Spline Interpolation, Cubic splines and B-splines. Error analysis in interpolation. Implementing interpolation methods in Python"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -23,8 +23,8 @@
     {
         "module": "Module 3",
         "topics": [
-            "Finite difference methods",
-            "Error analysis in numerical differentiation. Numerical Integration: Trapezoidal rule, Simpson’s rule, Gaussian quadrature, Adaptive quadrature methods. Writing Python programs to perform numerical differentiation and integration"
+            "Numerical Integration and Differentiation Numerical Differentiation, Finite difference methods",
+            "Error analysis in numerical differentiation. Numerical Integration, Trapezoidal rule, Simpson’s rule, Gaussian quadrature, Adaptive quadrature methods. Writing Python programs to perform numerical differentiation and integration"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -32,9 +32,9 @@
     {
         "module": "Module 4",
         "topics": [
-            "Euler’s method",
+            "Solution of Ordinary Differential Equations Initial Value Problems, Euler’s method",
             "Runge-Kutta methods",
-            "Multistep methods (Adams-Bashforth and Adams-Moulton methods). Boundary Value Problems: Shooting method",
+            "Multistep methods (Adams-Bashforth and Adams-Moulton methods). Boundary Value Problems, Shooting method",
             "Finite difference method. Solving ODEs using Python"
         ],
         "rejected_topics": null,

@@ -2,9 +2,10 @@
     {
         "module": "Module 1",
         "topics": [
-            "Generating Motions of Machine Tools -Machines Using Single-Point Tools -Machines Using Multipoint Tools-ASA and ORS Tool Nomenclatures- Machining Using Abrasive Wheels-Machine Tool Characteristics and Machining Equations. Mechanics of Metal Cutting: Chip Formation",
-            "Merchant’s theory-The Forces Acting on the Cutting Tool and Their Measurement -Specific Cutting Energy -Plowing Force and the ‘Size Effect’ -The Apparent Mean Shear Strength of the Work Material -Chip Thickness",
-            "Friction in Metal Cutting. Temperatures in Metal Cutting: Heat generation-Temperature Distribution in Metal Cutting -The Measurement of Cutting Temperatures"
+            "Introduction",
+            "Generating Motions of Machine Tools -Machines Using Single-Point Tools -Machines Using Multipoint Tools-ASA and ORS Tool Nomenclatures- Machining Using Abrasive Wheels-Machine Tool Characteristics and Machining Equations. Mechanics of Metal Cutting",
+            "Chip Formation - Merchant’s theory-The Forces Acting on the Cutting Tool and Their Measurement -Specific Cutting Energy -Plowing Force and the ‘Size Effect’ -The Apparent Mean Shear Strength of the Work Material -Chip Thickness - Friction in Metal Cutting. Temperatures in Metal Cutting",
+            "Heat generation-Temperature Distribution in Metal Cutting -The Measurement of Cutting Temperatures"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -12,11 +13,14 @@
     {
         "module": "Module 2",
         "topics": [
-            "Progressive Tool Wear-Forms of Wear in Metal Cutting-Taylor’s tool life Criteria-The Tool Material-The Work Material - Machinability Index. Cutting Fluids and Surface Roughness: Cutting Fluids-The Action of Coolants and Lubricants -Application of Cutting Fluids -Surface Roughness",
+            "Tool Life and Tool Wear",
+            "Progressive Tool Wear-Forms of Wear in Metal Cutting-Taylor’s tool life Criteria-The Tool Material-The Work Material - Machinability Index. Cutting Fluids and Surface Roughness",
+            "Cutting Fluids-The Action of Coolants and Lubricants -Application of Cutting Fluids -Surface Roughness",
             "chip control",
             "chip breakers",
             "chatter",
-            "hot machining. Economics of Metal-Cutting Operations: Choice of Feed-Choice of Cutting Speed -Tool Life for Minimum Cost and Minimum Production Time"
+            "hot machining. Economics of Metal-Cutting Operations",
+            "Choice of Feed-Choice of Cutting Speed -Tool Life for Minimum Cost and Minimum Production Time"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -24,10 +28,12 @@
     {
         "module": "Module 3",
         "topics": [
+            "Centre Lathe",
             "Construction- Various Operations",
             "Taper Turning Methods",
             "Thread Cutting operation",
-            "Lathe Attachments & Accessories. Types of Automation-Transfer Machines -Automatic Machines-Numerically Controlled (NC) Machine Tools-Comparison of the Economics of Various Automation Systems -Flexible Manufacturing System. Reciprocating Machine Tools-Shaper: Principal parts",
+            "Lathe Attachments & Accessories. Types of Automation-Transfer Machines -Automatic Machines-Numerically Controlled (NC) Machine Tools-Comparison of the Economics of Various Automation Systems -Flexible Manufacturing System. Reciprocating Machine Tools-Shaper",
+            "Principal parts",
             "Classification",
             "Specification of shaper",
             "Shaper Mechanisms",
@@ -42,17 +48,20 @@
     {
         "module": "Module 4",
         "topics": [
+            "Drilling operations",
             "Twist drill geometry - Radial drilling machine-calculation of machining time- Boring Machine-features-Operations-Counter boring-Spot facing",
             "Countersinking",
             "Trepanning",
             "Reaming",
-            "Tapping. Milling: Classification",
+            "Tapping. Milling",
+            "Classification",
             "Column and knee type milling machine - Milling cutters and Classification-Fundamentals of milling Processes-Milling operations. Cutting speed",
             "feed",
             "depth of cut and machining time. Indexing Methods-Simple and compound indexing. Milling of Keyways. Gear Cutting -shaping",
             "forming and generation(Gear hobbing",
             "Gear broaching",
-            "Gear Shaving. Abrasive Processes: Grinding wheel-Designation and Selection-Types of Grinding Operations-Honing",
+            "Gear Shaving. Abrasive Processes",
+            "Grinding wheel-Designation and Selection-Types of Grinding Operations-Honing",
             "Lapping",
             "other finishing processes"
         ],

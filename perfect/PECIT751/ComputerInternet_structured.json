@@ -2,9 +2,9 @@
     {
         "module": "Module 1",
         "topics": [
-            "The Front End",
+            "Introduction - Compiler Structure, Overview of Translation, The Front End",
             "The Optimizer",
-            "The Back End. Scanners - Recognizing Words, Regular Expressions, From Regular Expression to Scanner: FSA (Brush-up only), Implementing Scanners"
+            "The Back End. Scanners - Recognizing Words, Regular Expressions, From Regular Expression to Scanner, FSA (Brush-up only), Implementing Scanners"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -12,7 +12,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Eliminating Left Recursion",
+            "Parsing - Introduction, Expressing Syntax Top-Down Parsing - Transforming A Grammar, Eliminating Left Recursion",
             "Backtrack-free Parsing",
             "Left-Factoring To Eliminate Backtracking, Recursive Descent Parsers, Table-Driven LL(1) Parsers"
         ],
@@ -22,8 +22,8 @@
     {
         "module": "Module 3",
         "topics": [
-            "An IR Taxonomy, Graphical IRs - Syntax-Related Trees, Graphs",
-            "Linear IRs - Stack-Machine Code - Three-Address Code -Representing Linear Codes Syntax-Driven Translation: Introduction, Translating Expressions, Translating Control-Flow Statements"
+            "Bottom-Up Parsing - Shift Reduce Parser, The LR(1) Parsing Algorithm, Building LR(1) Tables, Errors in the Table Construction, Reducing the Size of LR (1) Tables. Intermediate Representations, An IR Taxonomy, Graphical IRs - Syntax-Related Trees, Graphs",
+            "Linear IRs - Stack-Machine Code - Three-Address Code -Representing Linear Codes Syntax-Driven Translation, Introduction, Translating Expressions, Translating Control-Flow Statements"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -31,6 +31,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Code generation",
             "Code Shape - Arithmetic Operators",
             "Boolean and Relational Operators",
             "Control-Flow Constructs (Conditional Execution",
@@ -38,9 +39,12 @@
             "Case Statements only",
             "Procedure Calls Code Optimization - Introduction",
             "Opportunities for Optimization",
-            "Scope Of Optimization Local Optimization: Local Value Numbering",
-            "Tree-Height Balancing Regional Optimization: Superlocal Value Numbering",
-            "Loop Unrolling Global Optimization: Finding Uninitialized Variables with Live Sets",
+            "Scope Of Optimization Local Optimization",
+            "Local Value Numbering",
+            "Tree-Height Balancing Regional Optimization",
+            "Superlocal Value Numbering",
+            "Loop Unrolling Global Optimization",
+            "Finding Uninitialized Variables with Live Sets",
             "Global Code Placement"
         ],
         "rejected_topics": null,

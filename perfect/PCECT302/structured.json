@@ -2,11 +2,14 @@
     {
         "module": "Module 1",
         "topics": [
+            "Review of Semiconductor physics",
             "Equilibrium and steady state conditions",
             "Concept of effective mass and Fermi level",
             "Density of states & Effective density of states",
-            "Equilibrium concentration of electrons and holes. Excess carriers in semiconductors: Generation and recombination mechanisms of excess carriers",
-            "quasi-Fermi levels. Carrier transport in semiconductors: Drift",
+            "Equilibrium concentration of electrons and holes. Excess carriers in semiconductors",
+            "Generation and recombination mechanisms of excess carriers",
+            "quasi-Fermi levels. Carrier transport in semiconductors",
+            "Drift",
             "conductivity and mobility",
             "variation of mobility with temperature and doping",
             "Hall Effect. Diffusion",
@@ -23,11 +26,13 @@
     {
         "module": "Module 2",
         "topics": [
+            "PN junctions",
             "Contact potential",
             "Electrical Field",
             "Potential and Charge distribution at the junction",
             "Biasing and Energy band diagrams",
-            "Ideal diode equation. Bipolar junction transistor: Transistor action",
+            "Ideal diode equation. Bipolar junction transistor",
+            "Transistor action",
             "Base width modulation",
             "Current components in a BJT",
             "Derivation of current components"
@@ -38,9 +43,11 @@
     {
         "module": "Module 3",
         "topics": [
+            "Metal Semiconductor contacts",
             "Electron affinity and work function",
             "Ohmic and Rectifying Contacts",
-            "current voltage characteristics. Ideal MOS capacitor: band diagrams at equilibrium",
+            "current voltage characteristics. Ideal MOS capacitor",
+            "band diagrams at equilibrium",
             "accumulation",
             "depletion and inversion",
             "surface potential",
@@ -57,11 +64,14 @@
     {
         "module": "Module 4",
         "topics": [
+            "MOSFET scaling",
             "Need for scaling",
-            "constant voltage scaling and constant field scaling. Sub- threshold conduction in MOS. Short channel effects in MOSFETs: Channel length modulation",
+            "constant voltage scaling and constant field scaling. Sub- threshold conduction in MOS. Short channel effects in MOSFETs",
+            "Channel length modulation",
             "Drain Induced Barrier Lowering",
             "Velocity Saturation",
-            "Threshold Voltage Variations and Hot Carrier Effects. MESFET and FinFET: Structure",
+            "Threshold Voltage Variations and Hot Carrier Effects. MESFET and FinFET",
+            "Structure",
             "operation and advantages"
         ],
         "rejected_topics": null,

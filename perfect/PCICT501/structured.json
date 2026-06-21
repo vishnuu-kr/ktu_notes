@@ -34,7 +34,7 @@
     {
         "module": "Module 3",
         "topics": [
-            "Definitions, characteristic polynomial and characteristic equation, general stability criterion with reference to s-plane",
+            "Stability of Linear Systems Stability of linear systems, Definitions, characteristic polynomial and characteristic equation, general stability criterion with reference to s-plane",
             "Absolute and relative stability",
             "necessary conditions for stability. Routh’s criterion of stability. The Root Locus Technique The root-locus concept",
             "Evan’s criteria",
@@ -49,7 +49,9 @@
     {
         "module": "Module 4",
         "topics": [
-            "Construction. Stability in Frequency Domain Stability in frequency domain",
+            "Frequency Response Analysis Frequency response representation",
+            "sinusoidal transfer function",
+            "Frequency domain specifications. Polar plot and bode plot, Construction. Stability in Frequency Domain Stability in frequency domain",
             "gain margin and phase margin",
             "stability from bode plots. Nyquist stability criterion",
             "assessment of relative stability using Nyquist criterion"

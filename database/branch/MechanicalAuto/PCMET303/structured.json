@@ -2,15 +2,19 @@
   {
     "module": "Module 1",
     "topics": [
-      "Properties of fluid: Specific gravity",
+      "Prerequisite",
+      "Properties of fluid",
+      "Specific gravity",
       "Specific Weight",
       "Specific Volume",
       "Dynamic and Kinematic Viscosity. Introduction to fluid mechanics - Types of fluids",
-      "Newton’s law of viscosity. Pressure Measurement: Fluid pressure",
+      "Newton’s law of viscosity. Pressure Measurement",
+      "Fluid pressure",
       "Pressure head",
       "types of pressures. Piezometer",
       "Simple",
-      "differential Manometers. Fluid statics: Pressure",
+      "differential Manometers. Fluid statics",
+      "Pressure",
       "density",
       "height relationship. Hydrostatic force and pressure on plane and inclined surfaces",
       "Centre of pressure. Buoyancy and Metacentre. Stability of immersed and floating bodies"
@@ -21,11 +25,13 @@
   {
     "module": "Module 2",
     "topics": [
+      "Fluid kinematics",
       "Description of fluid motion - Types of flows",
       "Material derivative velocity and acceleration - Streamlines",
       "path lines and streak lines",
       "Stream function and velocity potential function",
-      "flow net . Fluid dynamics: Continuity equation",
+      "flow net . Fluid dynamics",
+      "Continuity equation",
       "Euler’s",
       "and Bernoulli’s equations. - Measuring instruments - Pitot tube",
       "Orificemeter",
@@ -38,8 +44,16 @@
   {
     "module": "Module 3",
     "topics": [
-      "Qualitative comparison between laminar and turbulent boundary layer",
-      "Boundary layer separation"
+      "Pipe flow - laminar and turbulent flows",
+      "significance of Reynolds number",
+      "shear stress and velocity distribution in a pipe flow. - Hagen-Poiseullie equation",
+      "Darcy-Weisbach equation and Chezy’s equation",
+      "Moody’s chart for estimating frictional losses",
+      "Major and minor energy losses",
+      "hydraulic gradient",
+      "and total energy line. Navier-Stokes equation and explanation (without proof) . Dimensional analysis using Buckingham’s π",
+      "theorem. Boundary layer theory",
+      "Qualitative comparison between laminar and turbulent boundary layer. Boundary layer separation"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -47,16 +61,20 @@
   {
     "module": "Module 4",
     "topics": [
+      "Impact of jets",
       "Impact of jet on fixed vertical",
       "moving vertical flat plates. Impact of jet on curved vanes - fixed and moving. Velocity triangles. Classification of Turbines and pumps Comparison and examples. Pelton",
-      "Francis and Kaplan Turbines: Principle and working",
+      "Francis and Kaplan Turbines",
+      "Principle and working",
       "head",
       "work done",
-      "efficiencies (Problems using velocity triangles not required). Centrifugal Pumps: Principle and working",
+      "efficiencies (Problems using velocity triangles not required). Centrifugal Pumps",
+      "Principle and working",
       "head",
       "work required",
       "efficiencies",
-      "Priming and cavitation.(Problems using velocity triangles not required) . Reciprocating Pump: Principle and working - slip",
+      "Priming and cavitation.(Problems using velocity triangles not required) . Reciprocating Pump",
+      "Principle and working - slip",
       "negative slip",
       "work required and efficiency"
     ],

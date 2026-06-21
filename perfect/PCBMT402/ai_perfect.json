@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Intel 8051",
             "Architecture",
             "Special Function Registers",
             "Pin Description",
@@ -19,6 +20,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Instruction Sets of 8051",
             "Data Transfer Instructions",
             "Arithmetic, Logical, Compare and Rotate Instructions",
             "Bit Processing Instructions",
@@ -34,11 +36,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "PIC Microcontrollers: Overview of PIC 16 Series",
+            "Overview of PIC 16 Series",
             "Architecture of PIC16F877A",
             "Pin Description",
-            "Memory Organization",
-            "Core and"
+            "Memory Organization"
         ],
         "rejected_topics": null,
         "status": "verified"

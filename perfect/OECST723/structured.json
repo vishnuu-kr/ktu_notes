@@ -2,6 +2,20 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Software Engineering and Process Models - Software engineering",
+            "Software characteristics and types",
+            "Layers of Software Engineering-Process",
+            "Methods",
+            "Tools and Quality focus. Software Process models - Waterfall",
+            "Prototype",
+            "Spiral",
+            "Incremental",
+            "Agile model - Values and Principles. Requirement engineering - Functional",
+            "Non-functional",
+            "System and User requirements. Requirement elicitation techniques",
+            "Requirement validation",
+            "Feasibility analysis and its types",
+            "SRS document characteristics and its structure. Case study",
             "SRS for College Library Management Software"
         ],
         "rejected_topics": null,
@@ -10,16 +24,20 @@
     {
         "module": "Module 2",
         "topics": [
+            "Software design - Software architecture and its importance",
+            "Software architecture patterns",
             "Component and Connector",
             "Layered",
             "Repository",
             "Client-Server",
             "Publish-Subscribe",
-            "Functional independence - Coupling and Cohesion Case study: Ariane launch failure 10 Object Oriented Software Design - UML diagrams and relationships - Static and dynamic models",
+            "Functional independence - Coupling and Cohesion Case study",
+            "Ariane launch failure 10 Object Oriented Software Design - UML diagrams and relationships - Static and dynamic models",
             "Class diagram",
             "State diagram",
             "Use case diagram",
-            "Sequence diagram Case Studies: Voice mail system",
+            "Sequence diagram Case Studies",
+            "Voice mail system",
             "ATM Example Software pattern - Model View Controller",
             "Creational Design Pattern types - Factory method",
             "Abstract Factory method",
@@ -39,6 +57,8 @@
     {
         "module": "Module 3",
         "topics": [
+            "Coding",
+            "Testing and Maintenance",
             "Coding guidelines - Code review",
             "Code walkthrough and Code inspection",
             "Code debugging and its methods. Testing - Unit testing",
@@ -60,6 +80,8 @@
     {
         "module": "Module 4",
         "topics": [
+            "Software Project Management - Project size metrics - LOC",
+            "Function points and Object points. Cost estimation using Basic COCOMO. Risk management",
             "Risk and its types",
             "Risk monitoring and management model Software Project Management - Planning",
             "Staffing",

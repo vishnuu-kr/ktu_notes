@@ -2,11 +2,10 @@
     {
         "module": "Module 1",
         "topics": [
-            "Register organization",
-            "Architecture- Physical memory organization & segmentation-Signal descriptions of 8086 chip",
-            "General bus operation",
-            "Addressing capability- Assembler directives -Addressing Modes",
-            "Introduction to Stack, Interrupts & Interrupt service routines, Minimum and Maximum mode 8086 system operation"
+            "8086 Microprocessor",
+            "Register organization - Architecture- Physical memory organization & segmentation-Signal descriptions of 8086 chip - General bus operation - Addressing capability- Assembler directives -Addressing Modes - Introduction to Stack",
+            "Interrupts & Interrupt service routines",
+            "Minimum and Maximum mode 8086 system operation"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -14,11 +13,13 @@
     {
         "module": "Module 2",
         "topics": [
+            "80386 Microprocessor",
             "Salient features of 80386 DX -Architecture and Signal Description- Register Organization-Memory addressing in Real Address mode",
             "Protected mode",
             "Segmentation",
             "Paging & Virtual modes. Pentium - General features",
-            "pipelining and super scalar architecture. Introduction to multicore processors: Concept of multi core processing -Homogeneous and heterogeneous multicore processors -- Major issues in multicore processing - Internal architecture of Intel Core2 Duo (Simple block diagram representation only) - Technological features of IA processors"
+            "pipelining and super scalar architecture. Introduction to multicore processors",
+            "Concept of multi core processing -Homogeneous and heterogeneous multicore processors -- Major issues in multicore processing - Internal architecture of Intel Core2 Duo (Simple block diagram representation only) - Technological features of IA processors"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -26,11 +27,11 @@
     {
         "module": "Module 3",
         "topics": [
-            "ARM Processor Fundamentals- ARM architecture",
-            "ARM7TDMI programmer’s model (basic level only)- Memory format",
-            "Embedded Applications. ARM based SoC-General features- Basic system-on-chip (SoC) architecture- System level interconnection",
-            "Memory organisation- SoC design approach. (Class Assignment/Seminar topics: SoC Interconnect Customization and Configuration, Trade-off analysis on reconfigurable Parallelism, Case studies on design approach) Introduction to high performance computing-GPU hardware architecture- Comparison with CPU",
-            "GPU programming mode- GPU in Radiation imaging"
+            "High performance RISC ARM architecture",
+            "ARM Processor Fundamentals- ARM architecture - ARM7TDMI programmer’s model (basic level only)- Memory format - Embedded Applications. ARM based SoC-General features- Basic system-on-chip (SoC) architecture- System level interconnection - Memory organisation- SoC design approach. (Class Assignment/Seminar topics",
+            "SoC Interconnect Customization and Configuration",
+            "Trade-off analysis on reconfigurable Parallelism",
+            "Case studies on design approach) Introduction to high performance computing-GPU hardware architecture- Comparison with CPU - GPU programming mode- GPU in Radiation imaging"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -38,11 +39,11 @@
     {
         "module": "Module 4",
         "topics": [
-            "Features of ESP32 development board",
+            "Introduction to ESP32 Microcontroller, Features of ESP32 development board",
             "Architecture",
             "Pin configuration",
             "ESP32 v/s Arduino",
-            "Programming of ESP32 with Arduino IDE (only basic level). Introduction to STM32: Fundamentals of 32 -bit STM controllers",
+            "Programming of ESP32 with Arduino IDE (only basic level). Introduction to STM32, Fundamentals of 32 -bit STM controllers",
             "Architecture",
             "STM boot modes",
             "Interfacing of STM32 with stepper motor and 7 segment display"

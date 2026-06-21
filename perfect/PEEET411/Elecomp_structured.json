@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Functional elements of electronic instrumentation system - Calibration methods",
             "Static",
             "Dynamic",
             "Field",
@@ -9,8 +10,10 @@
             "Master. Transducers- Classification-Criteria for selection- Static and dynamic characteristics- Zeroth and first order instruments and time responses. Resistive transducers for liquid level and humidity Inductive transducers- types and basic principles- LVDT- synchro Capacitive transducers- types and basic principles- Thickness measurement Piezoelectric transducers- Hall effect transducers-Basic principle and applications Electronic IC for sensor applications",
             "Micro Electromechanical system (MEMS) Advantages and Applications",
             "MEMS micro sensors and actuators",
-            "MEMS accelerometers Signal conditioning for instrumentation systems: Voltage to Current Converter",
-            "Transducer bridges: null type and deflection bridges",
+            "MEMS accelerometers Signal conditioning for instrumentation systems",
+            "Voltage to Current Converter",
+            "Transducer bridges",
+            "null type and deflection bridges",
             "AC bridges using push pull transducers"
         ],
         "rejected_topics": null,
@@ -19,13 +22,17 @@
     {
         "module": "Module 2",
         "topics": [
-            "Instrumentation amplifiers- charge amplifiers- isolation amplifier Role of filters: Low pass",
+            "Amplifiers",
+            "Instrumentation amplifiers- charge amplifiers- isolation amplifier Role of filters",
+            "Low pass",
             "high pass",
             "band pass and band rejection filters",
-            "Introduction to digital filters Data Transmission- Types of Telemetry System- Modulation methods: Pulse modulation",
+            "Introduction to digital filters Data Transmission- Types of Telemetry System- Modulation methods",
+            "Pulse modulation",
             "Pulse amplitude modulation",
             "Pulse code modulation General telemetry systems- Cable transmission of analog and digital data- Fibre optic data transmission Principles of time division and frequency division multiplexing-Radio-wireless communication",
-            "WLAN architecture. Protocols: Field Bus",
+            "WLAN architecture. Protocols",
+            "Field Bus",
             "Profibus",
             "HART"
         ],
@@ -35,10 +42,13 @@
     {
         "module": "Module 3",
         "topics": [
-            "Different types of display - display system building blocks. Data Presentation Element: Recorders-Strip Chart Recorder",
+            "Display methods and devices",
+            "Different types of display - display system building blocks. Data Presentation Element",
+            "Recorders-Strip Chart Recorder",
             "Potentiometric Recorder",
             "X-Y Recorder. Magnetic recorder",
-            "Digital recorders- Data logger Experiments and statistical analysis: Performance of experiment- characteristics of experimental data- description of dispensed data- type of probability distribution-probability error"
+            "Digital recorders- Data logger Experiments and statistical analysis",
+            "Performance of experiment- characteristics of experimental data- description of dispensed data- type of probability distribution-probability error"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -46,18 +56,22 @@
     {
         "module": "Module 4",
         "topics": [
+            "Introduction to Process Control - Block diagram of the process control loop. Analog and Digital DAS",
             "Programmable logic controllers (PLC",
             "Organization- Hardware details- I/O-Power supply- CPU- Standards Programming aspects- Ladder programming-realization of AND",
             "NAND",
             "NOR and XOR logic",
             "the concept of latching",
             "Introduction to Timer/Counters",
-            "Numerical Exercises based on Timers and Counters. SCADA and DCS systems: SCADA: Introduction",
+            "Numerical Exercises based on Timers and Counters. SCADA and DCS systems",
+            "SCADA",
+            "Introduction",
             "SCADA Architecture",
             "Common System Components",
             "Supervision and Control",
             "RTU and Supervisory Stations",
-            "Protocols-IEC 60870-5-101 and DNP3. Distributed Control System: Introduction",
+            "Protocols-IEC 60870-5-101 and DNP3. Distributed Control System",
+            "Introduction",
             "DCS Architecture",
             "Control modes"
         ],

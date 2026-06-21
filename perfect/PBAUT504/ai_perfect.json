@@ -2,25 +2,44 @@
     {
         "module": "Module 1",
         "topics": [
+            "Evolution of CAD/CAM and CIM",
+            "Industrial Look at CAD",
+            "Comparison of CAD with Traditional Designing",
+            "Application of Computers in Design",
+            "Topologies of CAD Systems - Design Database",
+            "Graphic Standards",
+            "Data Exchange Formats",
+            "Virtual Reality",
+            "2D Graphics",
             "Line Drawing Algorithms",
             "DDA Line Algorithm",
             "Circle Drawing",
             "Bresenham's Circle Drawing Algorithm",
-            "2D Transformation: Translation",
+            "2D Transformation",
+            "Translation",
             "Rotation",
             "Scaling",
             "Reflection",
             "Clipping",
             "3D Graphics Basics",
-            "Solid Modelling in CAD"
+            "Shigley Modelling in CAD",
+            "Design and Development of a Virtual Reality (VR) Simulation for Mechanical Assembly"
         ]
     },
     {
         "module": "Module 2",
         "topics": [
-            "NC Part Programming: Part Programming Fundamentals - Manual Programming - NC Coordinate Systems and Axes - Sequence Number",
+            "NC Part Programming",
+            "Part Programming Fundamentals",
+            "Manual Programming",
+            "NC Coordinate Systems and Axes",
+            "Sequence Number",
             "Preparatory Functions",
-            "Computer Aided Part Programming: Concept and Need of CAP - CNC Languages - APT Language Structure: Geometry Commands",
+            "Computer Aided Part Programming",
+            "Concept and Need of CAP",
+            "CNC Languages",
+            "APT Language Structure",
+            "Geometry Commands",
             "Motion Commands",
             "Post Processor Commands",
             "Compilation Control Commands",
@@ -30,19 +49,44 @@
     {
         "module": "Module 3",
         "topics": [
+            "Introduction to Part Families",
+            "Parts Classification and Coding",
+            "Group Technology Machine Cells",
+            "Benefits of Group Technology",
+            "Process Planning",
+            "CAPP",
+            "Types of CAPP",
+            "Automated Process Planning",
+            "AI in Process Planning",
+            "Process Planning Software's",
+            "Flexible Manufacturing Systems",
             "Introduction",
             "Types",
             "Concepts",
             "Need and Advantages of FMS",
-            "Cellular Manufacturing and FMS"
+            "Cellular and FMS Applied to FMS"
         ]
     },
     {
         "module": "Module 4",
         "topics": [
-            "Basic Components - Sensors and Actuators - Robot Application in Automotive Industry",
-            "JIT and GT",
-            "Virtual Reality"
+            "CIM Wheel",
+            "CIM Database",
+            "CIM-OSI Model",
+            "Networking Standards in CIM Environment",
+            "Network Structure",
+            "Network Architecture",
+            "TCP/IP",
+            "MAP",
+            "Virtual Reality",
+            "Augmented Reality",
+            "Artificial Intelligence and Expert System in CIM",
+            "Introduction to Rapid Prototyping",
+            "Robot Technology",
+            "Basic Components",
+            "Sensors and Actuators",
+            "Robot Application in Automotive Industry",
+            "JIT and GT"
         ]
     }
 ]

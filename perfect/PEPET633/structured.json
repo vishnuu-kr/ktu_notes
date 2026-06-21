@@ -2,8 +2,10 @@
     {
         "module": "Module 1",
         "topics": [
+            "Overview of deep learning and its applications",
             "Differences between machine learning and deep learning",
-            "comparisons in applications. Introduction to neural networks: Neurons",
+            "comparisons in applications. Introduction to neural networks",
+            "Neurons",
             "layers",
             "activation functions",
             "concepts of forward and backward propagation"
@@ -14,9 +16,11 @@
     {
         "module": "Module 2",
         "topics": [
+            "Overview of popular deep learning frameworks",
             "TensorFlow",
             "Keras",
-            "PyTorch. Setting up the environment and basic operations. Building and training a simple neural network using TensorFlow/Keras/PyTorch. Introduction to deep feedforward networks: Convolutional neural networks (CNNs) - architecture",
+            "PyTorch. Setting up the environment and basic operations. Building and training a simple neural network using TensorFlow/Keras/PyTorch. Introduction to deep feedforward networks",
+            "Convolutional neural networks (CNNs) - architecture",
             "operations",
             "and applications",
             "recurrent neural networks (RNNs) - architecture",
@@ -29,6 +33,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Data preprocessing and augmentation",
             "Loss functions and optimization algorithms",
             "techniques to avoid overfitting - Regularization",
             "dropout",
@@ -41,8 +46,10 @@
     {
         "module": "Module 4",
         "topics": [
-            "Generative adversarial networks (GANs), concepts and applications, autoencoders and their applications in anomaly detection and compression",
-            "Case studies of deep learning applications in various industries"
+            "Transfer learning and pre-trained models",
+            "Generative adversarial networks (GANs",
+            "concepts and applications",
+            "autoencoders and their applications in anomaly detection and compression. Case studies of deep learning applications in various industries"
         ],
         "rejected_topics": null,
         "status": "verified"

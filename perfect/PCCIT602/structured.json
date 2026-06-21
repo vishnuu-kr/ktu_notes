@@ -2,13 +2,16 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction To The Concepts Of Security",
             "Need for security",
             "Security approaches",
             "Principles of security",
             "Types of attacks",
             "OSI Security Architecture",
             "Public key cryptosystems vs. Symmetric key cryptosystems",
-            "Encrypting communication channels. Symmetric Key Cryptosystems: Overview Of Symmetric Key Cryptography: Block cipher principles",
+            "Encrypting communication channels. Symmetric Key Cryptosystems",
+            "Overview Of Symmetric Key Cryptography",
+            "Block cipher principles",
             "Data Encryption Standard (DES",
             "Triple DES",
             "International Data Encryption Algorithm (IDEA",
@@ -22,6 +25,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Public Key Cryptosystems",
             "Principles of public key cryptosystems",
             "RSA . algorithm",
             "RSA illustration",
@@ -37,6 +41,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Key Management",
             "Symmetric key distribution using asymmetric encryption",
             "Distribution of public keys",
             "Generating keys",
@@ -45,7 +50,8 @@
             "Updating keys",
             "Storing keys",
             "Backup keys",
-            "Compromised keys-Authentication: Message authentication codes (MAC",
+            "Compromised keys-Authentication",
+            "Message authentication codes (MAC",
             "Hash functions",
             "Security of Hash functions and MAC",
             "Message Digest 5 (MD5",

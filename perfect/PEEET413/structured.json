@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "LINEAR ALGEBRA",
             "Systems of Linear Equations - Matrices",
             "Solving Systems of Linear Equations. Vector Spaces - Vector Spaces",
             "Linear Independence",
@@ -15,6 +16,8 @@
     {
         "module": "Module 2",
         "topics": [
+            "ANALYTIC GEOMETRY",
+            "MATRIX DECOMPOSITIONS",
             "Norms",
             "Inner Products",
             "Lengths and Distances",
@@ -36,6 +39,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "VECTOR CALCULUS",
             "Differentiation of Univariate Functions - Partial Differentiation and Gradients",
             "Gradients of Vector Valued Functions",
             "Gradients of Matrices",
@@ -48,14 +52,10 @@
     {
         "module": "Module 4",
         "topics": [
-            "Construction of a Probability Space",
-            "Discrete and Continuous Probabilities, Bayes’ Theorem. Summary Statistics and Independence",
-            "Gaussian Distribution",
-            "Conjugacy and the Exponential Family -Change of Variables/Inverse Transform. Optimization : Optimization Using Gradient Descent",
-            "Gradient Descent With Momentum. Constrained Optimization and Lagrange Multipliers",
-            "Convex Optimization",
-            "Linear Programming",
-            "Quadratic Programming"
+            "Probability and Distributions",
+            "Construction of a Probability Space - Discrete and Continuous Probabilities",
+            "Bayes’ Theorem. Summary Statistics and Independence - Gaussian Distribution - Conjugacy and the Exponential Family -Change of Variables/Inverse Transform. Optimization",
+            "Optimization Using Gradient Descent - Gradient Descent With Momentum. Constrained Optimization and Lagrange Multipliers - Convex Optimization - Linear Programming - Quadratic Programming"
         ],
         "rejected_topics": null,
         "status": "verified"

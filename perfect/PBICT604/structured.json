@@ -3,7 +3,7 @@
         "module": "Module 1",
         "topics": [
             "Design of Cascade Compensators Dominant pole",
-            "realisation of basic compensators: lead, lag, lag, and lag-lead compensator. Cascade compensation using root-locus: lead, lag, and lead-lag compensation. Cascade compensation using bode plot: lag, lead, and lag-lead compensation"
+            "realisation of basic compensators, lead, lag, lag, and lag-lead compensator. Cascade compensation using root-locus, lead, lag, and lead-lag compensation. Cascade compensation using bode plot, lag, lead, and lag-lead compensation"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -11,7 +11,10 @@
     {
         "module": "Module 2",
         "topics": [
-            "Controllable canonical form, observable canonical form, Jordan Canonical Form"
+            "State Space Modelling of Continuous Linear Time-Invariant Systems Concept of state, state variable, state vector and state space",
+            "State models for linear continuous-time systems",
+            "State variable representation of continuous-time systems using physical variables. Transfer function from state variable model",
+            "transformation of state variables and invariance property. State space representation using phase variable (state space representation from transfer function), Controllable canonical form, observable canonical form, Jordan Canonical Form"
         ],
         "rejected_topics": null,
         "status": "verified"

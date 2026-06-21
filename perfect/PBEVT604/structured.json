@@ -2,12 +2,14 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Continuous andDiscrete Time Signals",
             "Definition of signal",
             "Basic continuous-time signals",
             "Frequency and angular frequency",
             "Basic operation on signals",
             "Basic discrete-time signals - Frequency and angular frequency of discrete-time signals",
-            "Classification of continuous-time & discrete- time signals: Periodic and Non-periodic signals",
+            "Classification of continuous-time & discrete- time signals",
+            "Periodic and Non-periodic signals",
             "Even and Odd signals",
             "Energy and power signals"
         ],
@@ -17,6 +19,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Systems",
             "System definition",
             "Continuous-time and discrete-time systems",
             "Properties - Linearity",
@@ -24,7 +27,8 @@
             "Causality",
             "Invertibility",
             "Stability",
-            "Representation of systems using impulse response. Linear time invariant systems: LTI system definition",
+            "Representation of systems using impulse response. Linear time invariant systems",
+            "LTI system definition",
             "Response of a discrete-time LTI system and the convolutional sum",
             "Circular convolution",
             "Linear convolution through circular convolution",
@@ -36,6 +40,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Frequency analysis of signals",
             "Fourier transform of continuous-time and discrete-time signals",
             "Parseval’s theorem",
             "Interpretation of Spectra",
@@ -54,6 +59,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Digital Filters",
             "Digital FIR Filter",
             "Transfer function - Difference equation",
             "Linear phase FIR filter",

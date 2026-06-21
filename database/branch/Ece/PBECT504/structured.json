@@ -2,6 +2,8 @@
   {
     "module": "Module 1",
     "topics": [
+      "Review of sampling",
+      "Z-Transform and DTFT The Discrete Fourier Transform",
       "DFT as a linear transformation (Matrix Relation",
       "IDFT",
       "Properties of DFT and examples (proof not necessary). Circular convolution",
@@ -29,10 +31,13 @@
   {
     "module": "Module 3",
     "topics": [
+      "Structures for the realization of Discrete-Time Systems - Block diagram and signal flow graph representations of filters. FIR Filter Structures",
       "Linear structures",
-      "Direct Form. IIR Filter Structures: Direct Form",
+      "Direct Form. IIR Filter Structures",
+      "Direct Form",
       "Transposed Form",
-      "Cascade Form and Parallel Form. Multi-rate Digital Signal Processing: Decimation and Interpolation (Time domain and Frequency Domain Interpretation",
+      "Cascade Form and Parallel Form. Multi-rate Digital Signal Processing",
+      "Decimation and Interpolation (Time domain and Frequency Domain Interpretation",
       "Anti- aliasing and anti-imaging filter"
     ],
     "rejected_topics": null,
@@ -41,11 +46,14 @@
   {
     "module": "Module 4",
     "topics": [
+      "Efficient Computation of DFT",
       "Fast Fourier Transform and computational advantage over DFT",
-      "Radix-2 Decimation in Time FFT Algorithm. Computer architecture for signal processing: Harvard Architecture",
+      "Radix-2 Decimation in Time FFT Algorithm. Computer architecture for signal processing",
+      "Harvard Architecture",
       "pipelining",
       "Introduction to TMS320C67xx digital signal processor",
-      "Functional Block Diagram. Finite word length effects in DSP systems: Introduction",
+      "Functional Block Diagram. Finite word length effects in DSP systems",
+      "Introduction",
       "fixed-point and floating-point DSP arithmetic",
       "ADC quantization noise. Suggestion on Project Topics Projects can include but not limited to",
       "analysing various signals/finding their transforms and designing filters for extracting different frequency components. Projects can be simulated or implemented in hardware"

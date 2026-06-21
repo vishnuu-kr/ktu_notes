@@ -2,15 +2,17 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Soft Computing Techniques",
             "Neural Networks",
             "Fuzzy Logic",
             "Genetic Algorithms",
-            "Artificial Neural Networks: Biological Neural Networks",
+            "Artificial Neural Networks",
+            "Biological Neural Networks",
             "Model of an Artificial Neuron",
             "Architecture",
             "Activation Functions",
             "Learning Methods",
-            "McCulloch and Pitts Model",
+            "McCulloch & Pitts Model",
             "Linear Separability",
             "Hebb Net"
         ],
@@ -20,14 +22,18 @@
     {
         "module": "Module 2",
         "topics": [
+            "Types of Networks",
             "Perceptron Networks",
             "ADALINE",
             "MADALINE",
-            "Feedback Networks: Discrete Hopfield Nets",
-            "Feed Forward Networks: Back Propagation Networks - Architecture",
+            "Feedback Networks",
+            "Discrete Hopfield Nets",
+            "Feed Forward Networks",
+            "Back Propagation Networks - Architecture",
             "Training Algorithm",
             "Problems",
-            "Competitive Net: Maxent"
+            "Competitive Net",
+            "Maxent"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -35,6 +41,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Review of Image Processing Techniques",
             "Digital Filters",
             "Linear Filters - Homomorphic Filtering",
             "Point Operators - Histogram",

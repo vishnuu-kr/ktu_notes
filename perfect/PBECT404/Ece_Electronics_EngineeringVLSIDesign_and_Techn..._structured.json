@@ -2,6 +2,10 @@
     {
         "module": "Module 1",
         "topics": [
+            "Microcontroller Architecture - General internal architecture",
+            "Address bus",
+            "Data bus",
+            "control bus. The Microcontroller 8051",
             "Features of 8051 microcontroller",
             "Block diagram of 8051- program status word (PSW",
             "accumulator",
@@ -17,6 +21,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Instruction Set of 8051 & Addressing modes",
             "Classification of instruction set - Data transfer group",
             "arithmetic group",
             "logical group",
@@ -28,7 +33,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "Introduction to 8051 assembly language programming. Data types & directives, Concept of subroutine. Software delay programming. Programming 8051 Using Embedded C Language: Introduction to embedded C- advantages"
+            "Programming 8051 Using Assembly Language",
+            "Introduction to 8051 assembly language programming. Data types & directives",
+            "Concept of subroutine. Software delay programming. Programming 8051 Using Embedded C Language",
+            "Introduction to embedded C - advantages"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -36,10 +44,10 @@
     {
         "module": "Module 4",
         "topics": [
-            "Timer registers",
-            "Timer0, Timer1. Configuration of timer registers. Timer mode programming. Counter mode. Serial Communication in 8051: Serial communication",
+            "Timer / Counter in 8051, Timer registers",
+            "Timer0, Timer1. Configuration of timer registers. Timer mode programming. Counter mode. Serial Communication in 8051, Serial communication",
             "modes and protocols, RS-232 pin configuration and connection. Serial port programming",
-            "transmitting and receiving. Programming the interrupts: Use external, timer and serial port interrupts. Interrupt priority settings. Suggestion on Project Topics 1. Interface any known ADC chip to 8051 uC. Read the variation in voltage from a potentiometer and display it on an LCD module. 2. Interface any known DAC chip to 8051 uC. Generate a Sine waveform of 1KHz at any port pin. 3. DC motor interface for speed and direction control. 4. Stepper motor interface",
+            "transmitting and receiving. Programming the interrupts, Use external, timer and serial port interrupts. Interrupt priority settings. Suggestion on Project Topics 1. Interface any known ADC chip to 8051 uC. Read the variation in voltage from a potentiometer and display it on an LCD module. 2. Interface any known DAC chip to 8051 uC. Generate a Sine waveform of 1KHz at any port pin. 3. DC motor interface for speed and direction control. 4. Stepper motor interface",
             "Unit step control, Rotation angle control, Speed control, Direction control 5. Read the Temperature sensor and display it on LCD"
         ],
         "rejected_topics": null,

@@ -2,9 +2,11 @@
   {
     "module": "Module 1",
     "topics": [
+      "Decision theory",
       "Types of decision making environment",
       "decision making under uncertainty and under risk",
-      "decision tree analysis. Basic concepts & evolutionary algorithms: Genetic Algorithm (GA) -types of encoding",
+      "decision tree analysis. Basic concepts & evolutionary algorithms",
+      "Genetic Algorithm (GA) -types of encoding",
       "selection",
       "crossover and mutation",
       "binary",
@@ -17,7 +19,7 @@
   {
     "module": "Module 2",
     "topics": [
-      "Overview, basic algorithm, variants, Formalization and properties of ant colony optimization, applications in scheduling and vehicle routing problems. Particle swarm optimization (PSO): Basic concepts, swarm intelligence principles, computational characteristics, PSO in real number space, velocity updating, topology of the particle swarm, parameter selection",
+      "Ant colony algorithms, Overview, basic algorithm, variants, Formalization and properties of ant colony optimization, applications in scheduling and vehicle routing problems. Particle swarm optimization (PSO), Basic concepts, swarm intelligence principles, computational characteristics, PSO in real number space, velocity updating, topology of the particle swarm, parameter selection",
       "discrete PSO, PSO variants and PSO applications"
     ],
     "rejected_topics": null,
@@ -26,6 +28,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Search based algorithms",
       "Scatter search - components",
       "algorithm",
       "applications",
@@ -35,7 +38,8 @@
       "candidate list",
       "short term and long term memory",
       "threshold accepting",
-      "application of TS in decision making. Simulated Annealing: Main components of simulated annealing",
+      "application of TS in decision making. Simulated Annealing",
+      "Main components of simulated annealing",
       "homogenous vs. in-homogenous simulated annealing",
       "annealing schedules",
       "applications in sequencing and scheduling",
@@ -47,12 +51,14 @@
   {
     "module": "Module 4",
     "topics": [
+      "Artificial Neural Networks",
       "Biological and artificial neural networks",
       "basic concepts",
       "generic algorithm",
       "application areas",
       "application of ANN to solve transportation problems",
-      "Knapsack Problems. Constraint Programming: Problem Formulation in constraint programming",
+      "Knapsack Problems. Constraint Programming",
+      "Problem Formulation in constraint programming",
       "basic search and constraint propagation",
       "constraint programming vs mathematical programming",
       "applications"

@@ -2,10 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to digital circuits",
             "Review of number systems representation-conversions",
             "Arithmetic of Binary number systems",
             "Signed and unsigned numbers",
-            "BCD. Boolean algebra: Theorems",
+            "BCD. Boolean algebra",
+            "Theorems",
             "sum of product and product of sum -simplification",
             "canonical forms- min term and max term",
             "Simplification of Boolean expressions - Karnaugh map (upto 4 variables",
@@ -37,6 +39,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Sequential Circuits",
             "SR Latch",
             "Flip flops - SR",
             "Master-Slave JK",
@@ -57,15 +60,20 @@
             "State graphs",
             "State assignment",
             "State table",
-            "State reduction. Logic Families: -Electrical characteristics of logic gates (Noise margin",
+            "State reduction. Logic Families",
+            "Electrical characteristics of logic gates (Noise margin",
             "Fan-in",
             "Fan-out",
             "Propagation delay",
             "Transition time",
             "Power -delay product) -TTL",
             "CMOS. Circuit description and working of TTL and CMOS inverter",
-            "CMOS NAND and CMOS NOR gates. Suggestion on Project Topics Note: It is mandatory that a course project should be done by the students.in a group of maximum 4 members. A typical application level digital system using combinational and/or sequential logic circuit can be simulated and realized in hardware as the course project. Project should be done using Verilog HDL. The project should have interim evaluations and final evaluation which also includes a presentation and demonstration. Steps involved in PBL:  Selection of relevant topic  Design and optimization of digital circuit  Simulation  Hardware implementation (FPGA and discrete components) Sample project ideas:  A random sequence generator  Traffic light controller  Multiplexer based person priority check in system at airport  Waveform generator  Object/Visitor counter  Fast adders  Hamming code-based parity checker  Arithmetic Logic Unit using FPGA At the successful completion of the project",
-            "the student is expected to attain skills to design medium complexity digital circuits using Verilog HDL and its implementation on programmable logic devices like FPGA. Evaluation parameters:  Relevance of the topic  HDL coding and FPGA Implementation  Presentation skills"
+            "CMOS NAND and CMOS NOR gates. Suggestion on Project Topics Note",
+            "It is mandatory that a course project should be done by the students.in a group of maximum 4 members. A typical application level digital system using combinational and/or sequential logic circuit can be simulated and realized in hardware as the course project. Project should be done using Verilog HDL. The project should have interim evaluations and final evaluation which also includes a presentation and demonstration. Steps involved in PBL",
+            "Selection of relevant topic  Design and optimization of digital circuit  Simulation  Hardware implementation (FPGA and discrete components) Sample project ideas",
+            "A random sequence generator  Traffic light controller  Multiplexer based person priority check in system at airport  Waveform generator  Object/Visitor counter  Fast adders  Hamming code-based parity checker  Arithmetic Logic Unit using FPGA At the successful completion of the project",
+            "the student is expected to attain skills to design medium complexity digital circuits using Verilog HDL and its implementation on programmable logic devices like FPGA. Evaluation parameters",
+            "Relevance of the topic  HDL coding and FPGA Implementation  Presentation skills"
         ],
         "rejected_topics": null,
         "status": "verified"

@@ -2,6 +2,11 @@
     {
         "module": "Module 1",
         "topics": [
+            "Process characteristics - Incentives for process control",
+            "Process Variables types and selection criteria",
+            "Process degree of freedom",
+            "The period of Oscillation and Damping",
+            "Characteristics of physical System",
             "Resistance",
             "Capacitive and Combination of both. Elements of Process Dynamics",
             "Types of processes- Dead time",
@@ -18,6 +23,9 @@
     {
         "module": "Module 2",
         "topics": [
+            "Elements of Process Control Loop - Pneumatic and electric actuators",
+            "control valves - characteristics of control valves",
+            "valve positioner - I/P and P/I converters- Electronic Controllers. Analysis of Control Loop",
             "Steady state gain",
             "Process gain",
             "Valve gain",
@@ -34,8 +42,12 @@
     {
         "module": "Module 3",
         "topics": [
+            "Feedback Control - Block Diagram",
+            "Control Performance Measures for standard Input Changes. Different Controllers (P",
+            "PD and PID) and tuning parameters. Tuning of feedback controllers",
             "Open loop and closed loop tuning techniques. Quarter Decay ratio response",
-            "minimal error integral criteria. Advanced Control Techniques: Cascade control",
+            "minimal error integral criteria. Advanced Control Techniques",
+            "Cascade control",
             "Feed forward control",
             "feedback-feed forward control",
             "Ratio control",

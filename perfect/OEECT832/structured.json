@@ -38,6 +38,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Basics of Radar",
             "Introduction",
             "Range",
             "Radar Waveforms",
@@ -55,14 +56,18 @@
     {
         "module": "Module 4",
         "topics": [
+            "CW and Frequency Modulated Radar",
             "Doppler Effect",
             "CW Radar - Block Diagram",
-            "Applications of CW radar. FM-CW Radar: FM-CW Radar",
+            "Applications of CW radar. FM-CW Radar",
+            "FM-CW Radar",
             "Range and Doppler Measurement",
             "Block Diagram and Characteristics (Approaching/ Receding Targets",
             "FM-CW altimeter",
-            "Multiple Frequency CW Radar. MTI and Pulse Doppler Radar: Introduction",
-            "Principle. MTI versus Pulse Doppler Radar. Tracking Radar: various techniques of Tracking with Radar"
+            "Multiple Frequency CW Radar. MTI and Pulse Doppler Radar",
+            "Introduction",
+            "Principle. MTI versus Pulse Doppler Radar. Tracking Radar",
+            "various techniques of Tracking with Radar"
         ],
         "rejected_topics": null,
         "status": "verified"

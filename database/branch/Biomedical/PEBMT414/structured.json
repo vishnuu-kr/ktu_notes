@@ -2,13 +2,17 @@
   {
     "module": "Module 1",
     "topics": [
-      "DESCRIPTIVE STATISTICS:  Measures of Location: Arithmetic Mean",
+      "DESCRIPTIVE STATISTICS",
+      "Measures of Location",
+      "Arithmetic Mean",
       "Median",
       "Mode",
       "Geometric Mean",
-      "Harmonic Mean  Measures of Spread: Variance",
+      "Harmonic Mean  Measures of Spread",
+      "Variance",
       "Standard Deviation",
-      "Coefficient of Variation  Properties of Arithmetic Mean and Variance  Grouped Data Graphic Methods: Bar graph",
+      "Coefficient of Variation  Properties of Arithmetic Mean and Variance  Grouped Data Graphic Methods",
+      "Bar graph",
       "Box plots",
       "Scatter plots"
     ],
@@ -18,16 +22,19 @@
   {
     "module": "Module 2",
     "topics": [
+      "PROBABILITY AND PROBABILITY DISTRIBUTIONS  Probability",
       "Notations and laws of probability",
       "Bayes’ rule and screening tests",
       "Bayesian inference",
       "ROC curves",
-      "Random variables.  Discrete Probability Distributions: Probability mass function",
+      "Random variables.  Discrete Probability Distributions",
+      "Probability mass function",
       "Expected value",
       "Variance",
       "Cumulative distribution",
       "Binomial distribution",
-      "Poisson distribution Continuous Probability Distributions: Normal distribution",
+      "Poisson distribution Continuous Probability Distributions",
+      "Normal distribution",
       "Properties of standard normal distribution"
     ],
     "rejected_topics": null,
@@ -36,14 +43,19 @@
   {
     "module": "Module 3",
     "topics": [
+      "ESTIMATION AND HYPOTHESIS TESTING  Estimation",
       "Relationship between Population and Sample",
       "Random number trials",
       "clinical trials",
       "Estimation of Mean",
       "Variance",
-      "One-sided confidence intervals  Hypothesis Testing: One sample inference: One sample test for the mean of a normal distribution",
-      "one- and two-sided alternatives. Categorical data: Fisher’s Exact Test",
-      "Chi-Square Goodness-of-Fit Test  Nonparametric Methods: The Sign Test",
+      "One-sided confidence intervals  Hypothesis Testing",
+      "One sample inference",
+      "One sample test for the mean of a normal distribution",
+      "one- and two-sided alternatives. Categorical data",
+      "Fisher’s Exact Test",
+      "Chi-Square Goodness-of-Fit Test  Nonparametric Methods",
+      "The Sign Test",
       "The Wilcoxon Signed-Rank Test"
     ],
     "rejected_topics": null,
@@ -52,11 +64,16 @@
   {
     "module": "Module 4",
     "topics": [
-      "Fitting regression lines: Method of least squares",
+      "REGRESSION",
+      "CORRELATION",
+      "AND MULTISAMPLE INFERENCE  Regression and Correlation Methods",
+      "Fitting regression lines",
+      "Method of least squares",
       "Inference about parameters from regression lines",
       "Interval estimation for linear regression",
       "Correlation coefficient",
-      "Multiple regression Multisample Inference: Introduction to ANOVA (Analysis of Variance"
+      "Multiple regression Multisample Inference",
+      "Introduction to ANOVA (Analysis of Variance"
     ],
     "rejected_topics": null,
     "status": "verified"

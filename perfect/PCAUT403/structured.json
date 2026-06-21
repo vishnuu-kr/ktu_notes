@@ -2,11 +2,11 @@
     {
         "module": "Module 1",
         "topics": [
-            "Basic concepts of thermodynamics",
-            "Thermodynamics systems- Properties of a system -State and equilibrium",
-            "Processes and cycles",
-            "Work and heat transfer",
-            "Temperature and Zeroth law of thermodynamics. First law of Thermodynamics: First law for a closed system undergoing a cycle-Enthalpy- specific heats PMM1, first law of thermodynamics for steady flow process, SFEE"
+            "Basic Concepts in Thermodynamics",
+            "Basic concepts of thermodynamics - Thermodynamics systems- Properties of a system -State and equilibrium - Processes and cycles - Work and heat transfer - Temperature and Zeroth law of thermodynamics. First law of Thermodynamics",
+            "First law for a closed system undergoing a cycle-Enthalpy- specific heats PMM1",
+            "first law of thermodynamics for steady flow process",
+            "SFEE"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -14,8 +14,10 @@
     {
         "module": "Module 2",
         "topics": [
+            "Second Law of Thermodynamics",
             "Kelvin-Planck and Clausius statements and its equivalence - Refrigerators",
-            "heat pump - COP - PMM II - Reversible and irreversible process Carnot’s theorem - Entropy -The Clausius inequality - Availability and irreversibility. Pure Substances: Pure substances",
+            "heat pump - COP - PMM II - Reversible and irreversible process Carnot’s theorem - Entropy -The Clausius inequality - Availability and irreversibility. Pure Substances",
+            "Pure substances",
             "phase transformations",
             "triple point",
             "properties during change of phase",
@@ -32,6 +34,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Mixtures of ideal Gases",
             "Mole Fraction",
             "mass fraction",
             "Dalton’s law of partial pressure",
@@ -42,7 +45,8 @@
             "internal energy",
             "enthalpy",
             "specific heats and entropy",
-            "introduction to real gas mixtures-Kay’s rule. General Thermodynamic Relations: Combined first and second law equations - Helmholtz and Gibb’s functions - Maxwell’s relations",
+            "introduction to real gas mixtures-Kay’s rule. General Thermodynamic Relations",
+            "Combined first and second law equations - Helmholtz and Gibb’s functions - Maxwell’s relations",
             "Tds equations (Derivations not required). The clapeyron equation throttling process",
             "Joule thomson coefficient",
             "inversion curve"
@@ -53,12 +57,15 @@
     {
         "module": "Module 4",
         "topics": [
+            "Fundamentals of Heat Transfer",
             "Overview of conduction",
             "convection and radiation-Fourier’s law of heat conduction (1 dimensional only). Thermal conductivity of materials",
             "basics of convective heat transfer",
-            "Newton’s law of cooling (1 dimensional only). Radiation: Basic concepts of thermal radiation",
+            "Newton’s law of cooling (1 dimensional only). Radiation",
+            "Basic concepts of thermal radiation",
             "blackbody radiation and emissive power",
-            "Stefan-boltzmann law and Planck’s Law. Heat Exchangers: Introduction and types of heat exchangers-parallel flow and counter-flow heat exchangers. Concept of overall heat transfer coefficient using LMTD and NTU methods"
+            "Stefan-boltzmann law and Planck’s Law. Heat Exchangers",
+            "Introduction and types of heat exchangers-parallel flow and counter-flow heat exchangers. Concept of overall heat transfer coefficient using LMTD and NTU methods"
         ],
         "rejected_topics": null,
         "status": "verified"

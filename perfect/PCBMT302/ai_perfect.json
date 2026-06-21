@@ -2,42 +2,54 @@
     {
         "module": "Module 1",
         "topics": [
-            "Sinusoidal and Non-Sinusoidal Wave Shapes",
+            "Wave Shaping Circuits",
+            "Sinusoidal and Non-sinusoidal Wave Shapes",
             "Principle and Working of RC Differentiating and Integrating Circuits",
-            "Clipping Circuits - Positive, Negative and Biased Clippers",
-            "Transistor Biasing: Introduction",
-            "Operating Point",
-            "Concept of Load Line",
+            "Clipping Circuits - Positive, Negative and Biased Clipper",
+            "Transistor Biasing: Introduction, Operating Point and Concept of Load Line",
             "Fixed Bias, Self-Bias and Voltage Divider Bias",
-            "h-Parameter Model of BJT"
-        ]
+            "H-Parameter Model of BJT"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
-            "Classification of Amplifiers, RC Coupled Amplifier - Frequency Response, Analysis for Mid Frequency Gain, Typical Examples",
-            "Power Amplifiers: Definitions and Classification, Typical Circuits of Class A, Class B, Class AB and Class C Amplifiers, Analysis for Conversion Efficiency of Class B and AB, Simple Examples"
-        ]
+            "Amplifiers - Classification of Amplifiers",
+            "RC Coupled Amplifier - Frequency Response and Analysis for Mid-Frequency Gain",
+            "Power Amplifiers - Definitions and Classification",
+            "Typical Circuits of Class A, Class B, Class AB and Class C Amplifiers",
+            "Analysis for Conversion Efficiency of Class B and Class AB"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
-            "Op-Amp Basics: Block Diagram and Ideal Characteristics",
-            "Op-Amp Parameters: Gain, Bandwidth, Slew Rate, CMRR, Offset Voltage and Offset Current",
-            "IC741 Op-Amp Characteristics",
-            "Simple Op-Amp Circuits: Inverting Amplifier, Non-Inverting Amplifier, Summing Amplifier, Integrator, Difference Amplifier",
-            "Op-Amp Applications: Instrumentation Amplifier, Schmitt Trigger, Precision Rectifiers, Comparators, Zero Crossing Detector, Level Detector",
-            "Active Filters: Design of LPF, BPF and Notch Filters"
-        ]
+            "Operational Amplifiers - Block Diagram and Ideal Characteristics",
+            "Op-Amp Parameters - Gain, Bandwidth, Slew Rate, CMRR, Offset Voltage and Offset Current",
+            "IC 741 Op-Amp Characteristics",
+            "Simple Op-Amp Circuits - Inverting Amplifier, Non-Inverting Amplifier, Summing Amplifier, Integrator and Difference Amplifier",
+            "Op-Amp Applications - Instrumentation Amplifier, Schmitt Trigger and Precision Rectifiers",
+            "Comparators - Zero Crossing Detector and Level Detector",
+            "Active Filters - Design of LPF, BPF and Notch Filters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
-            "Feedback Concepts",
-            "Basic Configurations",
-            "Effect of Negative Feedback on Amplifiers",
-            "Oscillators: Classification, Criterion for Oscillation, RC Phase Shift and Wien Bridge Oscillator (both using BJT), Design Equations and Working of the Circuits (analysis not required)",
-            "Regulated Power Supplies: Simple Zener Voltage Regulator, Series Voltage Regulator, IC 723 Regulators (Block Diagram, Typical Low/High Voltage Circuits), 3-Pin Regulators: 78XX and 79XX"
-        ]
+            "Feedback Concepts - Basic Configurations and Effect of Negative Feedback on Amplifiers",
+            "Oscillators - Classification and Criterion for Oscillation",
+            "RC Phase Shift and Wien Bridge Oscillator (Using BJT) - Design Equations and Working",
+            "Regulated Power Supplies - Simple Zener Voltage Regulator and Series Voltage Regulator",
+            "IC 723 Regulators - Block Diagram and Typical Low/High Voltage Circuits",
+            "3 Pin Regulators - 78XX and 79XX"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

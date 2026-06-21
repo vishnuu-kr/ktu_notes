@@ -3,7 +3,7 @@
         "module": "Module 1",
         "topics": [
             "Creating Web Page using HTML5 - Introduction, First HTML5 example, Headings, Linking, Images, Special Characters and Horizontal Rules, Lists, Tables, Forms, Internal Linking, meta Elements, HTML5 Form input Types, Input and datalist Elements and autocomplete Attribute, Page-Structure Elements",
-            "Styling Web Page using CSS - Introduction, Inline Styles, Embedded Style Sheets, Linking External Style Sheets, Positioning Elements:, Absolute Positioning, z-index, Positioning Elements: Relative Positioning, span, Backgrounds, Element Dimensions, Box Model and Text Flow, Media Types and Media Queries, Drop-Down Menus",
+            "Styling Web Page using CSS - Introduction, Inline Styles, Embedded Style Sheets, Linking External Style Sheets, Positioning Elements:, Absolute Positioning, z-index, Positioning Elements, Relative Positioning, span, Backgrounds, Element Dimensions, Box Model and Text Flow, Media Types and Media Queries, Drop-Down Menus",
             "Extensible Markup Language -Introduction, XML Basics, Structuring Data, XML Namespaces, Document Type Definitions (DTDs), XML Vocabularies"
         ],
         "rejected_topics": null,
@@ -12,6 +12,19 @@
     {
         "module": "Module 2",
         "topics": [
+            "Scripting language - Client-Side Scripting",
+            "Data Types",
+            "Conditionals",
+            "Loops",
+            "Arrays",
+            "Objects",
+            "Function Declarations vs. Function Expressions",
+            "Nested Functions",
+            "The Document Object Model (DOM) - Nodes and NodeLists",
+            "Document Object",
+            "Selection Methods",
+            "Element Node Object",
+            "Event Types Asynchronous JavaScript and XML - AJAX",
             "Making Asynchronous Requests",
             "Complete Control over AJAX",
             "Cross-Origin Resource Sharing JavaScript library - jQuery - jQuery Foundations - Including jQuery",
@@ -25,9 +38,9 @@
     {
         "module": "Module 3",
         "topics": [
-            "Node.js - The Architecture of Node.js, Working with Node.js, Adding Express to Node.js",
-            "Server-side programming language : PHP - What Is Server-Side Development? Quick tour of PHP, Program Control , Functions , Arrays , Classes and Objects in PHP , Object-Oriented Design",
-            "Rendering HTML : React - ReactJS Foundations : The Philosophy of React, What is a component? Built- in components, User- defined components - Types of components, Function Components, Differences between Function and Class Components"
+            "JavaScript runtime environment , Node.js - The Architecture of Node.js, Working with Node.js, Adding Express to Node.js",
+            "Server-side programming language , PHP - What Is Server-Side Development? Quick tour of PHP, Program Control , Functions , Arrays , Classes and Objects in PHP , Object-Oriented Design",
+            "Rendering HTML , React - ReactJS Foundations , The Philosophy of React, What is a component? Built- in components, User- defined components - Types of components, Function Components, Differences between Function and Class Components"
         ],
         "rejected_topics": null,
         "status": "verified"

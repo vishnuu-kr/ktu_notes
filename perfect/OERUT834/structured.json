@@ -2,6 +2,9 @@
     {
         "module": "Module 1",
         "topics": [
+            "Computer Vision - Definition",
+            "Difference between computer vison and machine vision",
+            "real world applications Image Formation",
             "Geometric primitives and transformations",
             "2D transformations",
             "3D transformations - Translation",
@@ -20,7 +23,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Point operators - Pixel transforms, Color transforms, Histogram equalization",
+            "Image Processing, Point operators - Pixel transforms, Color transforms, Histogram equalization",
             "Linear filtering (Basic explanation only), Non Linear Filtering - Median Filtering",
             "Binary Image Processing - Morphology, Distance Transforms, Connected Components"
         ],
@@ -30,7 +33,7 @@
     {
         "module": "Module 3",
         "topics": [
-            "Traditional, machine learning, and deep learning pipelines",
+            "Machine Learning, Traditional, machine learning, and deep learning pipelines",
             "Supervised learning - Nearest neighbors, Bayesian classification",
             "Unsupervised learning - Clustering, K-means and Gaussians mixture models",
             "Deep neural networks - perceptron unit, Weights and layers, Activation functions, Loss functions, Backpropagation",
@@ -42,12 +45,14 @@
     {
         "module": "Module 4",
         "topics": [
+            "Recognition",
             "Instance recognition",
             "Image classification - Feature-based methods",
             "Deep networks",
             "Object detection - Face detection",
             "General object detection - Precision vs. recall",
-            "Semantic segmentation - Basic understanding only Feature Detection and Matching: Points and patches",
+            "Semantic segmentation - Basic understanding only Feature Detection and Matching",
+            "Points and patches",
             "Edge Detection",
             "Contour Detection",
             "Lines and vanishing points",

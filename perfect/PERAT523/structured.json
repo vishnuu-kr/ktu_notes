@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Generalized co-ordinates",
+            "ROBOT FORCE MODELS, Generalized co-ordinates",
             "Generalized Forces",
             "Equation of Motions",
             "Static Forces in Manipulators",
@@ -38,6 +38,9 @@
     {
         "module": "Module 3",
         "topics": [
+            "ROBOT CONTROL SYSTEM The manipulator control problem",
+            "Linear second-order model of manipulator. Functions of controller and power amplifier. Joint actuators-stepper motor",
+            "servo motor. Control Schemes",
             "PID control scheme - Position and force control schemes. Robotic sensors and its classification",
             "Internal sensors - Position",
             "velocity",
@@ -55,7 +58,8 @@
     {
         "module": "Module 4",
         "topics": [
-            "The Frobenius Theorem",
+            "CONTROL OF MANIPULATORS Linear Time Varying and Linearization",
+            "Input and Output Stability -Background, The Frobenius Theorem",
             "Single-Input Systems. Introduction to nonlinear system",
             "time varying systems",
             "multi-input, multi-output control systems",

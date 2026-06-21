@@ -2,50 +2,87 @@
     {
         "module": "Module 1",
         "topics": [
+            "Network Hardware",
+            "Network Software",
+            "TCP/IP Reference Models",
+            "Example Networks",
             "ARPANET",
-            "Internet, Physical Layer: Guided Transmission Media - Twisted Pairs",
+            "Internet",
+            "Physical Layer",
+            "Guided Transmission Media",
+            "Twisted Pairs",
             "Coaxial Cable",
             "Fiber Optics",
-            "Wireless Transmission, Data Link Layer: Design Issues",
+            "Wireless Transmission",
+            "Data Link Layer",
+            "Design Issues",
             "Framing",
             "Error Detection and Correction"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
+            "Elementary Data Link Protocols",
             "Simplex Protocol",
-            "Simplex Stop-and-Wait Protocol for an Error-Free Channel",
-            "Simplex Stop-and-Wait Protocol for Noisy Channel, Sliding Window Protocols: One-Bit Sliding Window Protocol",
-            "Protocol Using Go-Back-N",
-            "Protocol Using Selective Repeat",
-            "Example Data Link Protocols, Medium Access Sub-Layer: The Channel Allocation Problem",
-            "Multiple Access Protocols: ALOHA",
+            "A Simplex Stop and Wait Protocol for an Error-Free Channel",
+            "A Simplex Stop and Wait Protocol for Noisy Channel",
+            "Sliding Window Protocols",
+            "A One-Bit Sliding Window Protocol",
+            "A Protocol Using Go-Back-N",
+            "A Protocol Using Selective Repeat",
+            "Example Data Link Protocols",
+            "Medium Access Sublayer",
+            "The Channel Allocation Problem",
+            "Multiple Access Protocols",
+            "ALOHA",
             "Carrier Sense Multiple Access Protocols",
-            "Collision-Free Protocols, Wireless LANs",
+            "Collision Free Protocols",
+            "Wireless LANs",
             "Data Link Layer Switching"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
+            "Network Layer",
             "Design Issues",
-            "Routing Algorithms: Shortest Path Routing",
+            "Routing Algorithms",
+            "Shortest Path Routing",
             "Flooding",
             "Hierarchical Routing",
             "Broadcast",
             "Multicast",
             "Distance Vector Routing",
             "Congestion Control Algorithms",
-            "Quality of Service, Internetworking",
+            "Quality of Service",
+            "Internetworking",
             "The Network Layer in the Internet"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
-            "Transport Services, Elements of Transport Protocols, Connection Management, TCP and UDP Protocols, Application Layer - Domain Name System, SNMP, Electronic Mail",
-            "The World Wide Web, HTTP, Streaming Audio and Video"
-        ]
+            "Transport Layer",
+            "Transport Services",
+            "Elements of Transport Protocols",
+            "Connection Management",
+            "TCP and UDP Protocols",
+            "Application Layer",
+            "Domain Name System",
+            "SNMP",
+            "Electronic Mail",
+            "The World Web",
+            "HTTP",
+            "Streaming Audio and Video"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

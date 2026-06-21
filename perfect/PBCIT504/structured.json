@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Getting Started with Raspberry Pi",
             "Basic functionality of Raspberry Pi B+ board",
             "setting up and configuration",
             "Operating System",
@@ -9,7 +10,8 @@
             "Interfacing Hardware",
             "Remote Access",
             "Bash Command line",
-            "operating without needing a GUI interface. Basics of Python programming language: Programming on the Raspberry Pi. Python on Raspberry Pi",
+            "operating without needing a GUI interface. Basics of Python programming language",
+            "Programming on the Raspberry Pi. Python on Raspberry Pi",
             "Python Programming Environment",
             "Python Expressions",
             "Strings",
@@ -24,6 +26,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Introducing Micro Python",
             "MicroPython Features",
             "Limitations",
             "Experimenting with Python on PC",
@@ -44,9 +47,11 @@
     {
         "module": "Module 3",
         "topics": [
+            "IoT Physical Servers and Cloud Offerings",
             "Introduction to Cloud Storage models and communication APIs. Web Server - Web server for IoT",
             "Cloud for IoT",
-            "Python web application framework. Designing aRESTful web API. Connecting to APIs. Baking Pi: Powering Raspberry Pi",
+            "Python web application framework. Designing aRESTful web API. Connecting to APIs. Baking Pi",
+            "Powering Raspberry Pi",
             "Formatting SD cards",
             "Installing and connecting working of Raspberry pi"
         ],
@@ -56,13 +61,15 @@
     {
         "module": "Module 4",
         "topics": [
+            "Installing Raspbian with NOOBS",
             "Networking Raspberry Pi",
             "Connecting with Ethernet",
             "Connecting Via Local Computer Network and Wireless Network",
             "Updating and Upgrading",
             "Setting up a Host Name",
             "Connecting Raspberry pi with SSH",
-            "Creating Simple Rasspberry pi application. Project on Java: Bill of Materials",
+            "Creating Simple Rasspberry pi application. Project on Java",
+            "Bill of Materials",
             "Getting Started with NetBeans",
             "Downloading and Configuring",
             "Revisiting HelloRaspberryPi",

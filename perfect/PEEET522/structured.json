@@ -2,19 +2,24 @@
     {
         "module": "Module 1",
         "topics": [
+            "Conventional Vehicles",
             "Basics of vehicle performance",
             "Vehicle power source characterization",
-            "Transmission characteristics . Introduction to Electric Vehicles: History of electric vehicles",
+            "Transmission characteristics . Introduction to Electric Vehicles",
+            "History of electric vehicles",
             "Classification of electric vehicles. Overview of EV challenges. Overview of EV technologies- motor drive technology",
             "energy source technology",
             "battery charging technology",
-            "vehicle-to-grid technology Vehicle Dynamics & Load Forces: Mathematical models to describe vehicle performance",
-            "vehicle load forces: aerodynamic drag",
+            "vehicle-to-grid technology Vehicle Dynamics & Load Forces",
+            "Mathematical models to describe vehicle performance",
+            "vehicle load forces",
+            "aerodynamic drag",
             "rolling resistance",
             "grading resistance",
             "vehicle acceleration",
             "Calculation of motor power from traction torque",
-            "Numerical problems. Electric Drive-trains: Basic concept of electric traction",
+            "Numerical problems. Electric Drive-trains",
+            "Basic concept of electric traction",
             "Introduction to various electric drive-train topologies",
             "Power flow control in electric drive-train topologies",
             "Fuel efficiency analysis"
@@ -25,7 +30,10 @@
     {
         "module": "Module 2",
         "topics": [
-            "Motoring using a PM DC Machine - DC motor electric drive using DC-DC converter - Generating/Braking using a PM DC Machine. PMSM Drives: Review of PMSM motor basics - Independent control of orthogonal flux and torque (concept only) - Field Oriented Control (FOC) - Sensored and sensorless control (block diagram only). Sizing the drive system: Matching the electric machine and the Internal Combustion Engine (ICE",
+            "DC Drives",
+            "Motoring using a PM DC Machine - DC motor electric drive using DC-DC converter - Generating/Braking using a PM DC Machine. PMSM Drives",
+            "Review of PMSM motor basics - Independent control of orthogonal flux and torque (concept only) - Field Oriented Control (FOC) - Sensored and sensorless control (block diagram only). Sizing the drive system",
+            "Matching the electric machine and the Internal Combustion Engine (ICE",
             "Sizing the propulsion motor",
             "Sizing the power electronics-Switch technology selection",
             "Ripple capacitor design",
@@ -37,8 +45,10 @@
     {
         "module": "Module 3",
         "topics": [
+            "Battery based energy storage systems",
             "Types of battery- battery parameters-units of battery energy storage - capacity rate",
-            "cell voltage -specific energy - cycle life - self-discharge- static battery equivalent circuit model - series-parallel battery pack equivalent circuits. Other storage topologies: Fuel Cell based energy storage systems-Supercapacitors- Flywheel- Hybridization of different energy storage devices. Sizing considerations of battery -Time and charge/discharge cycles -Lifetime - Beginning of life (BOL) - End of life (EOL) - DOD - Efficiency of Battery Pack - Determination of pack Voltage",
+            "cell voltage -specific energy - cycle life - self-discharge- static battery equivalent circuit model - series-parallel battery pack equivalent circuits. Other storage topologies",
+            "Fuel Cell based energy storage systems-Supercapacitors- Flywheel- Hybridization of different energy storage devices. Sizing considerations of battery -Time and charge/discharge cycles -Lifetime - Beginning of life (BOL) - End of life (EOL) - DOD - Efficiency of Battery Pack - Determination of pack Voltage",
             "range for EV -Determination of Cell/Pack Voltage for a Given Output\\Input Power. Battery management system",
             "Numerical problems"
         ],
@@ -48,11 +58,18 @@
     {
         "module": "Module 4",
         "topics": [
+            "Overview of Electric Vehicle Battery Chargers - Types of chargers-On-board chargers",
+            "Off- board chargers",
+            "Wireless charger. Electric Vehicle Supply Equipment (EVSE) - Grid to EVSE to On-board chargers to battery pack power flow block schematic diagrams - V2G concept Types of charging stations - AC Level 1 & 2",
+            "DC - Level 3 -Types of Connectors - CHAdeMO",
+            "CCS Type1 and 2",
+            "GB/T - PIN diagrams and differences Autonomous Vehicles",
             "Levels of automation",
             "significance",
             "functional architecture-sensors",
             "actuators",
-            "path planning & effects of automation in vehicles Vehicle Communication protocols : Need & requirements - Functions of Control Pilot (CP) and Proximity Pilot (PP) pins",
+            "path planning & effects of automation in vehicles Vehicle Communication protocols",
+            "Need & requirements - Functions of Control Pilot (CP) and Proximity Pilot (PP) pins",
             "Communication Protocols -CAN",
             "FLEXRAY (Basics only)- Power line communication (PLC) in EV"
         ],

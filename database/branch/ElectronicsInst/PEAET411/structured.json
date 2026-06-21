@@ -2,9 +2,11 @@
   {
     "module": "Module 1",
     "topics": [
+      "Analog Communication",
       "Introduction to communication systems",
       "Classification of channels",
-      "Need for modulation. Amplitude modulation: Equation and frequency spectrum of AM signal",
+      "Need for modulation. Amplitude modulation",
+      "Equation and frequency spectrum of AM signal",
       "Double-side band suppressed carrier (DSB-SC) modulation",
       "Single sideband modulation (SSB",
       "comparison of spectrum",
@@ -18,6 +20,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Angle Modulation",
       "Frequency and phase modulation",
       "Narrow and wide band FM and their spectra",
       "Modulation and demodulation techniques for FM",
@@ -25,7 +28,8 @@
       "FM transmitter and receiver",
       "Noise in receivers",
       "Noise figures",
-      "Performance of analog modulation schemes in AWGN: SNR and figure of merit for different schemes"
+      "Performance of analog modulation schemes in AWGN",
+      "SNR and figure of merit for different schemes"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -33,9 +37,11 @@
   {
     "module": "Module 3",
     "topics": [
+      "Digital baseband communication",
       "Elements of digital communication system. Sources",
       "channels and receivers",
-      "Sampling and Reconstruction of Analog Signals: Nyquist Sampling Theorem",
+      "Sampling and Reconstruction of Analog Signals",
+      "Nyquist Sampling Theorem",
       "Ideal Reconstruction Filter",
       "Pulse Amplitude Modulation (PAM",
       "Time division multiplexing with PAM",
@@ -48,8 +54,10 @@
   {
     "module": "Module 4",
     "topics": [
+      "Digital bandpass communication",
       "Digital bandpass communication system",
-      "Bandpass modulation techniques: Amplitude shift keying",
+      "Bandpass modulation techniques",
+      "Amplitude shift keying",
       "Phase shift keying",
       "Frequency shift keying",
       "Methods of generation and detection",

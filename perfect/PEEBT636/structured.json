@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Computational Methods",
             "Overview of computational methods in biomedical engineering",
             "Basic programming skills (Python/MATLAB) Variables and operations",
             "conditional statements (if",
@@ -20,7 +21,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Root finding methods (bisection, Newton",
+            "Numerical Methods for Solving Equations, Root finding methods (bisection, Newton",
             "Raphson) Solving linear and nonlinear equations Applications in biomedical engineering"
         ],
         "rejected_topics": null,
@@ -29,7 +30,11 @@
     {
         "module": "Module 3",
         "topics": [
-            "Ordinary differential equations (ODEs) and their applications, Modeling of biological processes (neuronal dynamics, cell electrophysiology) Partial Differential Equations (PDEs): Describing spatial and temporal variations in phenomena such as heat transfer in tissues and fluid flow in blood vessels"
+            "Introduction to modeling and simulation",
+            "Ordinary differential equations (ODEs) and their applications",
+            "Modeling of biological processes (neuronal dynamics",
+            "cell electrophysiology) Partial Differential Equations (PDEs",
+            "Describing spatial and temporal variations in phenomena such as heat transfer in tissues and fluid flow in blood vessels"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -37,9 +42,12 @@
     {
         "module": "Module 4",
         "topics": [
-            "Sequence Analysis: Algorithms for DNA, RNA, and protein sequence alignment",
-            "Structural Bioinformatics: Molecular modeling and simulation techniques for studying protein structures and interactions",
-            "Genomics and Proteomics: Computational tools for analyzing genomic and proteomic data to understand gene expression and protein functions"
+            "Bioinformatics",
+            "Sequence Analysis",
+            "Algorithms for DNA",
+            "and protein sequence alignment. Structural Bioinformatics",
+            "Molecular modeling and simulation techniques for studying protein structures and interactions. Genomics and Proteomics",
+            "Computational tools for analyzing genomic and proteomic data to understand gene expression and protein functions"
         ],
         "rejected_topics": null,
         "status": "verified"

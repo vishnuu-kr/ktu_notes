@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Typical Embedded System",
       "Core of the Embedded System",
       "Memory",
       "Sensors and Actuators",
@@ -15,6 +16,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Hardware Software Co-Design and Program Modelling",
       "Fundamental Issues in Hardware Software Co-Design",
       "Computational Models in Embedded Design",
       "Introduction to Unified Modelling Language",
@@ -26,6 +28,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Real-Time Operating System (RTOS) based Embedded System Design",
       "Operating System Basics",
       "Types of OS",
       "Tasks",
@@ -33,7 +36,8 @@
       "Multiprocessing and Multitasking",
       "Task Scheduling",
       "Threads",
-      "Processes and Scheduling: Putting them altogether",
+      "Processes and Scheduling",
+      "Putting them altogether",
       "Task Communication",
       "Task Synchronization",
       "Device Drivers",
@@ -45,11 +49,13 @@
   {
     "module": "Module 4",
     "topics": [
+      "The Embedded System Development Environment",
       "The Integrated Development Environment (IDE",
       "Types of Files Generated on Cross-compilation",
       "Disassembler / Decompiler",
       "Simulators",
-      "Trends in the Embedded Industry: Processor Trends in Embedded System",
+      "Trends in the Embedded Industry",
+      "Processor Trends in Embedded System",
       "Embedded OS Trends",
       "Development Language Trends",
       "Open Standards",

@@ -2,18 +2,20 @@
     {
         "module": "Experiment 2",
         "topics": [
-            "Diode Characteristics (Silicon, Zener)",
-            "BJT Characteristics CE Configuration",
-            "JFET/MOSFET Characteristics CS Configuration",
+            "Diode Characteristics (Silicon and Zener)",
+            "BJT Characteristics (CE Configuration)",
+            "JFET/MOSFET Characteristics (CS Configuration)",
             "RC Coupled Amplifier",
             "RC Phase Shift Oscillator",
             "RC Differentiator and Integrator",
-            "Basic OPAMP Circuits (Inverting, Non-Inverting, Voltage Follower, Summing Amplifier)",
+            "Basic OPAMP Circuits (Inverting, Non-Inverting, Voltage Follower, and Summing Amplifier)",
             "Voltage Comparator",
             "Schmitt Trigger",
             "Active Filters and Frequency Response",
             "Precision Rectifiers",
-            "Astable and Monostable Multivibrators (Using IC 555/Op-Amp)"
-        ]
+            "Astable and Monostable Multivibrators (Using IC 555/Op Amp)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

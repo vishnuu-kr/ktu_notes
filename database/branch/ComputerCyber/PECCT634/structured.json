@@ -2,13 +2,16 @@
   {
     "module": "Module 1",
     "topics": [
+      "Understanding OT and IT Systems Overview of OT and IT Systems",
       "Defining Operational Technology (OT) and Information Technology (IT",
       "Key differences between OT and IT in terms of architecture",
       "functionality",
       "and security",
-      "Independent OT networks: Architecture",
+      "Independent OT networks",
+      "Architecture",
       "use cases",
-      "and benefits. Integration of OT with IT Networks: Drivers for OT-IT convergence",
+      "and benefits. Integration of OT with IT Networks",
+      "Drivers for OT-IT convergence",
       "Challenges in integrating OT with IT networks",
       "Common architectures for OT-IT integration Threats and Vulnerabilities in Integrated Networks:Threat landscape for integrated OT-IT environments",
       "Vulnerabilities specific to OT",
@@ -21,11 +24,15 @@
   {
     "module": "Module 2",
     "topics": [
-      "Identifying OT Assets: Techniques for asset discovery in OT environments",
+      "Asset Identification and Criticality Classification",
+      "Identifying OT Assets",
+      "Techniques for asset discovery in OT environments",
       "Importance of maintaining an up-to-date asset inventory",
-      "Tools and technologies for OT asset identification Criticality Classification: Criteria for classifying OT assets based on criticality",
+      "Tools and technologies for OT asset identification Criticality Classification",
+      "Criteria for classifying OT assets based on criticality",
       "Impact analysis of OT asset failure on overall operations",
-      "Prioritizing security efforts based on asset criticality Risk Management and Compliance: Applying risk management frameworks in integrated networks",
+      "Prioritizing security efforts based on asset criticality Risk Management and Compliance",
+      "Applying risk management frameworks in integrated networks",
       "Compliance considerations in OT-IT integration",
       "Standards and best practices (e.g",
       "NIST",
@@ -37,12 +44,16 @@
   {
     "module": "Module 3",
     "topics": [
-      "Securing Wired and Wireless Access: Best practices for securing wired access in OT-IT networks",
+      "Securing Access and Dynamic Network Segmentation",
+      "Securing Wired and Wireless Access",
+      "Best practices for securing wired access in OT-IT networks",
       "Wireless security protocols and their application in OT environments",
-      "Managing and securing remote access in integrated networks Dynamic Network Segmentation: Concepts of network segmentation and micro-segmentation",
+      "Managing and securing remote access in integrated networks Dynamic Network Segmentation",
+      "Concepts of network segmentation and micro-segmentation",
       "Implementing dynamic network segmentation in OT-IT environments. Monitoring",
       "Analysis",
-      "and Threat Response Monitoring and Threat Detection: Importance of continuous monitoring in integrated OT-IT networks",
+      "and Threat Response Monitoring and Threat Detection",
+      "Importance of continuous monitoring in integrated OT-IT networks",
       "Tools and techniques for monitoring OT and IT systems"
     ],
     "rejected_topics": null,
@@ -51,9 +62,11 @@
   {
     "module": "Module 4",
     "topics": [
+      "Analyzing Threats and Vulnerabilities",
       "Techniques for analyzing security data from integrated networks",
       "Vulnerability management and patching in OT-IT systems",
-      "Incident detection and analysis for OT-IT integrated environments. Incident Response and Recovery: Developing incident response plans specific to OT-IT integration",
+      "Incident detection and analysis for OT-IT integrated environments. Incident Response and Recovery",
+      "Developing incident response plans specific to OT-IT integration",
       "Threat hunting and proactive security measures",
       "Recovery strategies and business continuity planning for integrated networks"
     ],

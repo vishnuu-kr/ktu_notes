@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Fundamental Concepts of Artificial Neural Networks",
             "Structure of biological neurons relevant to ANNs - Comparison Basic building blocks of ANN. Activation functions",
             "McCulloch-Pitts Neuron Model Learning Rules-Hebbian Learning Rules",
             "Perceptron",
@@ -14,6 +15,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Single layer and Multilayer networks",
             "Perceptron networks",
             "Gradient descent method",
             "Back Propagation algorithm Architecture",
@@ -31,8 +33,10 @@
     {
         "module": "Module 3",
         "topics": [
+            "Associative memory networks",
             "Algorithms for pattern association Hetero associative networks",
-            "Auto associative memory networks Bidirectional associative memory networks Energy Function. Hopfield networks. Support vector machines: hard-margin and soft-margin SVMs",
+            "Auto associative memory networks Bidirectional associative memory networks Energy Function. Hopfield networks. Support vector machines",
+            "hard-margin and soft-margin SVMs",
             "concepts of kernels and feature spaces",
             "Applications in Biomedical Engineering"
         ],
@@ -43,7 +47,13 @@
         "module": "Module 4",
         "topics": [
             "Convolutional Neural Networks",
-            "Optimization Algorithms, Regularization Methods: L1 and L2 Regularization. Recurrent Neural Networks: RNN, LSTM, GRU. Transformers: BERT. Generative Models: GAN. Applications in Biomedical Engineering"
+            "Optimization Algorithms",
+            "Regularization Methods",
+            "L1 and L2 Regularization. Recurrent Neural Networks",
+            "LSTM",
+            "GRU. Transformers",
+            "BERT. Generative Models",
+            "GAN. Applications in Biomedical Engineering"
         ],
         "rejected_topics": null,
         "status": "verified"

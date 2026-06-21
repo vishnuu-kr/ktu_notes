@@ -2,9 +2,15 @@
   {
     "module": "Module 1",
     "topics": [
+      "Historical Development",
+      "Features",
+      "Classification and Components of Evolutionary Computing",
+      "Advantages",
+      "Applications. Comparison with other optimization techniques (Gradient Descent). Simulated Annealing",
       "Annealing Schedule",
       "Parameter Selection",
-      "Applications. Hill Climbing: Mathematical Description",
+      "Applications. Hill Climbing",
+      "Mathematical Description",
       "Types of hill climbing algorithms"
     ],
     "rejected_topics": null,
@@ -33,12 +39,14 @@
   {
     "module": "Module 3",
     "topics": [
+      "Ant Colony Optimization",
       "Ant Foraging Behavior",
       "Theoretical Considerations",
       "Convergence Proofs",
       "ACO Algorithm",
       "ACO And Model Based Search",
-      "Variations Of ACO: Elitist Ant System (EAS",
+      "Variations Of ACO",
+      "Elitist Ant System (EAS",
       "Minmax Ant System (MMAS",
       "Rank Based Ant Colony System (RANKAS"
     ],
@@ -48,7 +56,17 @@
   {
     "module": "Module 4",
     "topics": [
-      "Behaviour Of Real Bees, ABC Algorithm, Variations of ABC: Abcgbest and Abcgbestdist"
+      "Principles of Bird Flocking and Fish Schooling",
+      "Evolution of PSO",
+      "Operating Principles",
+      "PSO Algorithm",
+      "Neighborhood Topologies",
+      "Convergence Criteria",
+      "Variations of PSO Artificial Bee Colony (ABC) Optimization",
+      "Behaviour Of Real Bees",
+      "ABC Algorithm",
+      "Variations of ABC",
+      "Abcgbest and Abcgbestdist"
     ],
     "rejected_topics": null,
     "status": "verified"

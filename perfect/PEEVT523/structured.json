@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Graphs",
             "Introduction- Basic definition - Application of graphs - finite",
             "infinite and bipartite graphs - Incidence and Degree - Isolated vertex",
             "pendant vertex and Null graph. Paths and circuits - Isomorphism",
@@ -17,6 +18,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Eulerian and Hamiltonian graphs",
             "Euler graphs",
             "Operations on graphs",
             "Hamiltonian paths and circuits",
@@ -31,6 +33,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Trees and Graph Algorithms",
             "Trees - properties",
             "pendant vertex",
             "Distance and centres in a tree - Rooted and binary trees",
@@ -46,6 +49,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Connectivity and Planar Graphs",
             "Vertex Connectivity",
             "Edge Connectivity",
             "Cut set and Cut Vertices",
@@ -54,7 +58,8 @@
             "Kuratowski’s theorem (proof not required",
             "Different representations of planar graphs",
             "Euler's theorem",
-            "Geometric dual. Graph Representations and Vertex Colouring : Matrix representation of graphs-Adjacency matrix",
+            "Geometric dual. Graph Representations and Vertex Colouring",
+            "Matrix representation of graphs-Adjacency matrix",
             "Incidence Matrix",
             "Circuit Matrix",
             "Path Matrix. Coloring- Chromatic number",

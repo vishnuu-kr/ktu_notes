@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Properties of Ultrasound",
+            "Ultrasound Imaging and Properties of Ultrasound",
             "Doppler Effect and Principle of Image Formation",
             "Constructional Details of US Probes",
             "Transducer Design",
@@ -12,29 +12,42 @@
             "Duplex Scanning",
             "Instrumentation - Axial and Lateral Resolutions",
             "Applications of Each"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
-            "Principle of CT Imaging and Generations of Scanners",
-            "System Instrumentation - X-ray Tubes for CT Applications",
-            "Pencil Beam and Cone Beam Projections",
-            "Image Reconstruction Algorithms for Pencil Beam and Image Characteristics - CT Numbers"
-        ]
+            "Computed Tomography",
+            "Principle of CT Imaging",
+            "Generations of Scanners, System Instrumentation, X-Ray Tubes for CT Applications, Pencil Beam and Cone Beam Projections, Image Reconstruction Algorithms for Pencil Beam",
+            "Image Characteristics and CT Numbers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
-            "Principle of Nuclear Magnetic Resonance, Relaxation, MR Instrumentation, Contrast Mechanisms in MRI, Pulse Sequences (FLASH, GRASS), Principle of Image Reconstruction, Spatial Encoding Systems, k-Space",
-            "Functional MRI - BOLD",
+            "Magnetic Resonance Imaging - Principle of Nuclear Magnetic Resonance, Relaxation, MR Instrumentation",
+            "Contrast Mechanisms in MRI, Pulse Sequences (FLASH, GRASS), Principle of Image Reconstruction, Spatial Encoding Systems, k-Space",
+            "Functional MRI and BOLD",
             "Spatial and Temporal Resolution of fMRI"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
-            "MR-PET Instrumentation, MR Compatible PET Detector Technology, MR-PET System Architecture, PET-CT, SPECT-CT"
-        ]
+            "Nuclear Imaging - PET, SPECT, System Level Descriptions, Rectilinear Scanner",
+            "Gamma Camera and Hybrid Imaging",
+            "MR-PET Instrumentation and MR Compatible PET Detector Technology",
+            "MR-PET System Architecture and PET-CT",
+            "SPECT-CT"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

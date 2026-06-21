@@ -3,13 +3,18 @@
         "module": "Module 1",
         "topics": [
             "Introduction",
+            "application",
+            "and challenges of wireless sensor networks (WSN). Wireless LANS and PANS",
+            "Introduction",
             "Fundamentals of WLANs",
             "IEEE 802.11 standard",
             "HIPERLAN standard",
             "Bluetooth",
-            "Wireless WANs and MANs : Cellular architecture",
+            "Wireless WANs and MANs",
+            "Cellular architecture",
             "2G/3G/4G/5G Cellular Networks",
-            "IEEE 802.15 Standard: Physical layer",
+            "IEEE 802.15 Standard",
+            "Physical layer",
             "Data link layer",
             "MAC protocols Wireless Internet"
         ],
@@ -19,10 +24,13 @@
     {
         "module": "Module 2",
         "topics": [
+            "Network architecture",
             "Sensor network scenarios",
             "Optimization goals and figures of merit",
             "Design principles of WSNs",
-            "Service interfaces of WSNs. Communication Protocols: Physical layer: Wireless channel and communication fundamentals",
+            "Service interfaces of WSNs. Communication Protocols",
+            "Physical layer",
+            "Wireless channel and communication fundamentals",
             "Physical layer and transceiver design considerations in WSNs"
         ],
         "rejected_topics": null,
@@ -45,13 +53,16 @@
     {
         "module": "Module 4",
         "topics": [
-            "Single node architecture: Hardware components",
+            "WSN architecture",
+            "Single node architecture",
+            "Hardware components",
             "Energy consumption of sensor nodes",
             "Low power wireless sensor networks",
             "Routing protocols-LEACH",
             "PEGASIS and RPL",
             "Operating systems and execution environments",
-            "Case Study: TinyOS and nesC 50 Other examples"
+            "Case Study",
+            "TinyOS and nesC 50 Other examples"
         ],
         "rejected_topics": null,
         "status": "verified"

@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Deep Learning Fundamentals",
       "Principal Component Analysis",
       "Conditional Probability- Chain Rule",
       "Bayes’ Rule",
@@ -9,7 +10,8 @@
       "Adaptive GD",
       "RMSprop",
       "Constrained Optimization",
-      "Regularization - L1 and L2 regularization. Deep Feedforward Networks: Gradient-Based Learning",
+      "Regularization - L1 and L2 regularization. Deep Feedforward Networks",
+      "Gradient-Based Learning",
       "Hidden Units",
       "Architecture Design",
       "Backpropagation"
@@ -20,6 +22,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Recurrent Neural Networks",
       "Architecture",
       "Challenges",
       "Bi-directional RNN",
@@ -34,6 +37,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Convolutional Networks",
       "Basic Structure of Convolutional Network",
       "Training a Convolutional Network",
       "Transfer learning models - AlexNet",
@@ -48,9 +52,11 @@
   {
     "module": "Module 4",
     "topics": [
+      "Advanced Deep Learning",
       "Transformers and Pre-trained networks",
       "Generative Adversarial Network",
-      "Autoencoder: Basic Principles",
+      "Autoencoder",
+      "Basic Principles",
       "Deep Autoencoder",
       "Applications",
       "Competitive Learning- Self Organising Map",

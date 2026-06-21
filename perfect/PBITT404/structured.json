@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introducing data science and Python",
             "Definition of data Science",
             "Installing latest version of python:-Step by step installation of python",
             "Installing necessary packages of python",
@@ -28,8 +29,10 @@
     {
         "module": "Module 3",
         "topics": [
+            "Machine Learning Supervised Learning",
             "Rule-Based Classification- Using IF-THEN Rules for Classification",
-            "K-Nearest-Neighbour Classifier. Unsupervised Learning: K-means Clustering",
+            "K-Nearest-Neighbour Classifier. Unsupervised Learning",
+            "K-means Clustering",
             "Hierarchical Clustering",
             "Agglomerative versus Divisive Hierarchical Clustering",
             "Distance Measures in Algorithmic Methods",
@@ -42,8 +45,16 @@
     {
         "module": "Module 4",
         "topics": [
-            "Building Your First Model in data science, Making Predictions, Evaluating the Model. 9 Suggestions on Project Topics: No. Project Topics 1 Churn Prediction using Machine Learning 2 Credit Analysis 3 Employee Access",
-            "Challenge as a Classification Problem Fake News Detection"
+            "Evaluation Evaluating model performance",
+            "Confusion matrices",
+            "Precision and recall",
+            "Sensitivity and specificity",
+            "F-measure",
+            "ROC curves. Case Study",
+            "Building Your First Model in data science",
+            "Making Predictions",
+            "Evaluating the Model. 9 Suggestions on Project Topics",
+            "No. Project Topics 1 Churn Prediction using Machine Learning 2 Credit Analysis 3 Employee Access-Challenge as a Classification Problem Fake News Detection"
         ],
         "rejected_topics": null,
         "status": "verified"

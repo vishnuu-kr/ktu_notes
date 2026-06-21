@@ -2,7 +2,25 @@
     {
         "module": "Module 1",
         "topics": [
-            "Peer to Peer, Client/ Server"
+            "Basics of Computer Networks- Definition of Network",
+            "Need of Networks",
+            "Protocol",
+            "Types of Networks- LAN",
+            "WAN. Network Components-Twisted Pair Cable",
+            "Coaxial cable",
+            "Fiber Optic Cables",
+            "Network Interface Card",
+            "Switch",
+            "Router. OSI model and TCP/IP protocol suite",
+            "Introduction Network Protocols- IP",
+            "DHCP",
+            "DNS. Types of Topologies-RING",
+            "STAR",
+            "MESH (features",
+            "advantages",
+            "disadvantages). Classification by Component",
+            "Peer to Peer",
+            "Client/ Server"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -10,18 +28,21 @@
     {
         "module": "Module 2",
         "topics": [
+            "Overview of Network Forensics",
             "Definition",
             "Process of Network Forensics",
             "Importance",
             "Advantages and Disadvantages",
-            "Application of Network Forensics. Network threats and vulnerabilities: Types of network attacks- eavesdropping",
+            "Application of Network Forensics. Network threats and vulnerabilities",
+            "Types of network attacks- eavesdropping",
             "spoofing",
             "modification",
             "Cross-site scripting",
             "DNS Spoofing",
             "Routing Table Page Poisoning",
             "ARP Poisoning",
-            "Web Jacking. Social Engineering Attacks and its types. Types of network forensics investigations: Incident Response and Proactive Investigations"
+            "Web Jacking. Social Engineering Attacks and its types. Types of network forensics investigations",
+            "Incident Response and Proactive Investigations"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -29,7 +50,27 @@
     {
         "module": "Module 3",
         "topics": [
-            "Packet sniffing and analysis using Wireshark, Packet sniffing and analysis using NetworkMiner"
+            "Identifying sources of evidence- Digital devices",
+            "Network traffic",
+            "Cloud environments",
+            "Steps for handling evidence. Data acquisition methods-Network traffic capture",
+            "Log file analysis",
+            "Memory acquisition",
+            "List Packet capture tools. Introduction to Data Preservation Technique- Write-blocking",
+            "Data encryption",
+            "Data hashing",
+            "Metadata preservation. Network Traffic Analysis Methods- Flow analysis",
+            "Packet analysis",
+            "Deep packet inspection (DPI",
+            "and Network behavior analysis. Identifying sources of evidence",
+            "learning to handle the evidence",
+            "collecting network traffic using tcpdump",
+            "Collecting network traffic using Wireshark",
+            "Collecting network logs",
+            "Acquiring memory using FTK Imager",
+            "Tapping into network traffic",
+            "Packet sniffing and analysis using Wireshark",
+            "Packet sniffing and analysis using NetworkMiner"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -37,19 +78,23 @@
     {
         "module": "Module 4",
         "topics": [
-            "Basics of wireless (IEEE 802.11) communication and security challenges. Types of Authentications: WEP",
-            "WPA and WPA-2 Encryption. Attacks on Wireless networks: Man-in-the middle (MITM",
+            "Introduction to Wireless Networks",
+            "Basics of wireless (IEEE 802.11) communication and security challenges. Types of Authentications",
+            "WPA and WPA-2 Encryption. Attacks on Wireless networks",
+            "Man-in-the middle (MITM",
             "Brute-Force",
             "Evil Twin",
             "Rogue access points",
             "Phishing",
             "Wireless Jamming (Denial-of-Service Attacks",
-            "Wireless Eavesdropping. Legal challenges in network forensics: Authorization",
+            "Wireless Eavesdropping. Legal challenges in network forensics",
+            "Authorization",
             "Privacy",
             "Data Preservation",
             "Disclosure",
             "Cross-Border Investigations. Digital Personal Data Protection Act",
-            "2023: Introduction",
+            "2023",
+            "Introduction",
             "Data",
             "Data Fiduciary",
             "Data Principal",

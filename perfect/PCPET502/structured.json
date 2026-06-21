@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Sensors and Actuators",
             "Performance terminology of sensors",
             "Displacement",
             "Position & Proximity Sensors",
@@ -22,6 +23,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Signal Conditioning",
             "Basic Digital circuits",
             "Introduction to signal processing & Op-Amp",
             "Op-Amp as signal conditioner",
@@ -29,7 +31,8 @@
             "Digital to Analogue Converter",
             "filtering",
             "multiplexer",
-            "data acquisition. Mechatronics Systems: Elements of mechatronic systems",
+            "data acquisition. Mechatronics Systems",
+            "Elements of mechatronic systems",
             "concept of controls",
             "Mechanical system model",
             "Electrical system model",
@@ -43,8 +46,8 @@
     {
         "module": "Module 3",
         "topics": [
-            "Dynamic response of systems: first and second order systems, Transfer function",
-            "first and second order systems, systems in series and in feedback loop. Frequency response: Sinusoidal input, Phasors, Bode plot performance specifications and stability. Closed loop controllers: P, I, PID Controllers, Digital Controllers"
+            "Dynamic response of systems, first and second order systems, Transfer function",
+            "first and second order systems, systems in series and in feedback loop. Frequency response, Sinusoidal input, Phasors, Bode plot performance specifications and stability. Closed loop controllers, P, I, PID Controllers, Digital Controllers"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -52,7 +55,7 @@
     {
         "module": "Module 4",
         "topics": [
-            "Basic structure, programming, Mnemonics, timers, internal relays, and counters, shift register, master, and jump control. Communication systems: networks and protocols. Input/output systems",
+            "Programmable Logic Controllers, Basic structure, programming, Mnemonics, timers, internal relays, and counters, shift register, master, and jump control. Communication systems, networks and protocols. Input/output systems",
             "interfacing, input/output addressing, and interfacing requirements. Simple case studies based on mechatronic systems"
         ],
         "rejected_topics": null,

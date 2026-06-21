@@ -33,6 +33,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Manipulator Dynamics",
       "Lagrange’s formulation - Kinetic Energy expression",
       "velocity Jacobian and Potential Energy expression",
       "Generalised force",
@@ -46,10 +47,8 @@
   {
     "module": "Module 4",
     "topics": [
-      "The control problem",
-      "Single axis PID control-its disadvantages",
-      "PD gravity control",
-      "computed torque control"
+      "Trajectory Planning. Joint space trajectory planning- cubic polynomial, linear trajectory with parabolic blends, trajectory planning with via points",
+      "Cartesian space planning, point-to-point vs. continuous path planning. Obstacle avoidance methods- Artificial Potential field, A* algorithms. Robot Control, The control problem, Single axis PID control-its disadvantages, PD gravity control, computed torque control"
     ],
     "rejected_topics": null,
     "status": "verified"

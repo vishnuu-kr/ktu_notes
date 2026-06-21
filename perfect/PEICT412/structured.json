@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Phase sequence- Star and delta connection",
+            "Three phase circuits, Phase sequence- Star and delta connection",
             "Relation between line and phase voltages and currents in balanced systems Analysis of balanced and unbalanced 3 phase circuits",
             "Measurement of active and reactive power"
         ],
@@ -12,9 +12,11 @@
     {
         "module": "Module 2",
         "topics": [
-            "Transfer Function, driving point and transfer functions for one port and two port network. Impulse Function & Response. Concept And Significance Of Poles And Zeros. Time Domain Response From Pole Zero Plot. Concept Of Stability, Routh",
-            "Hurwitz Criterion",
-            "analysis of marginally stable, unstable and stable systems"
+            "S Domain",
+            "Transfer Function",
+            "driving point and transfer functions for one port and two port network. Impulse Function & Response. Concept And Significance Of Poles And Zeros. Time Domain Response From Pole Zero Plot. Concept Of Stability",
+            "Routh-Hurwitz Criterion- analysis of marginally stable",
+            "unstable and stable systems"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -22,6 +24,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "AC Transient Analysis",
             "Behaviour Of Energy Storage Elements In The Presence Of Sources. Analysis Of Source Free Networks",
             "Transient Response of R-L",
             "R-L-C Circuits (Series And Parallel Combination) For Sinusoidal Excitations-Initial Conditions-Solution Method Using Laplace Transforms"
@@ -32,7 +35,9 @@
     {
         "module": "Module 4",
         "topics": [
-            "Application Of Phasor Analysis In RLC Networks Filters: Low Pass",
+            "Phasor Analysis",
+            "Application Of Phasor Analysis In RLC Networks Filters",
+            "Low Pass",
             "High Pass",
             "Band Pass",
             "Band Elimination",

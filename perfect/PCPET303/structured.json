@@ -2,9 +2,15 @@
     {
         "module": "Module 1",
         "topics": [
+            "Physical properties of fluids",
+            "density",
+            "specific weight",
+            "vapour pressure",
+            "Newton’s law of viscosity. Newtonian and non-Newtonian fluids. Fluid Statics",
             "Fluid pressure",
             "Forces on solid surfaces",
-            "Buoyant forces. Kinematics of Fluid Flow: Equations for acceleration",
+            "Buoyant forces. Kinematics of Fluid Flow",
+            "Equations for acceleration",
             "Continuity equation",
             "Irrotational and rotational flow",
             "Potential and stream functions"
@@ -15,11 +21,14 @@
     {
         "module": "Module 2",
         "topics": [
+            "Dynamics of Fluid Flow",
             "Euler and Bernoulli’s theorems",
             "Impulse momentum theory",
-            "Applications of energy and momentum equations. Pipe Flow Systems: Darcy-Weisbach equation",
+            "Applications of energy and momentum equations. Pipe Flow Systems",
+            "Darcy-Weisbach equation",
             "Energy losses in pipelines",
-            "Minor losses. Thermodynamics: Thermodynamic System and Control Volume",
+            "Minor losses. Thermodynamics",
+            "Thermodynamic System and Control Volume",
             "Surrounding",
             "Boundaries",
             "Thermodynamic properties",
@@ -57,11 +66,14 @@
     {
         "module": "Module 4",
         "topics": [
+            "Overview of heat transfer mechanisms",
             "Introductory concepts of conduction",
             "convection",
-            "radiation. Fourier’s law of heat conduction. Newton’s law of cooling. Conduction: Steady state heat conduction in plane walls",
+            "radiation. Fourier’s law of heat conduction. Newton’s law of cooling. Conduction",
+            "Steady state heat conduction in plane walls",
             "Multi layer walls. Heat conduction in cylinders. Thermal resistance concept. Critical radius of insulation. Heat transfer from find surfaces. Fin efficiency",
-            "Fin effectiveness. Convection: Free and forced convection. Physical mechanism of forced convection",
+            "Fin effectiveness. Convection",
+            "Free and forced convection. Physical mechanism of forced convection",
             "convection heat transfer coefficient",
             "Dimensionless numbers-Nusselt number",
             "Velocity boundary layer",
@@ -69,7 +81,8 @@
             "Reynolds number",
             "Thermal boundary layer",
             "Prandl number. Natural convection",
-            "Grashof number. Thermal radiation: black body radiation - radiation properties - laws of thermal radiation",
+            "Grashof number. Thermal radiation",
+            "black body radiation - radiation properties - laws of thermal radiation",
             "Stefan - Boltzman law",
             "Wein’s displacement law",
             "black and grey surfaces. View factor"

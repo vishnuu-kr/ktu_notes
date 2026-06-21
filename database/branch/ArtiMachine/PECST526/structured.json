@@ -16,11 +16,8 @@
   {
     "module": "Module 2",
     "topics": [
-      "Simple FIR digital filters (Low pass and high pass",
-      "Simple IIR digital filters (Low pass and high pass",
-      "All pass and minimum phase transfer function Design of FIR filter : window based design (Rectangular",
-      "Hamming",
-      "Hanning windows). Applications of DSP-Spectral analysis of sinusoidal signals"
+      "Types of transfer functions- Ideal filters, Zero phase and linear phase transfer functions, Types of linear phase FIR transfer functions",
+      "Simple digital filters, Simple FIR digital filters (Low pass and high pass), Simple IIR digital filters (Low pass and high pass), All pass and minimum phase transfer function Design of FIR filter , window based design (Rectangular, Hamming, Hanning windows). Applications of DSP-Spectral analysis of sinusoidal signals"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -49,7 +46,8 @@
       "parallel processing",
       "low power architectures - Retiming",
       "folding and unfolding techniques",
-      "applications. Hands-on : -● FPGA based hardware realization of the FFT algorithm",
+      "applications. Hands-on",
+      "FPGA based hardware realization of the FFT algorithm",
       "circular convolution",
       "IIR and FIR filter structures using iVerilog. ● To realize different DSP algorithms including basic multiply accumulation and shifting operations on a fixed point processor. ● Analyze the effect of the finite wordlength by implementing the FFT algorithm and FIR filters by using fixed point coefficient representation in different formats like Q7",
       "Q15 etc. ● Design an FIR low pass filter using MATLAB/SCILAB and check how it filters a speech signal by recording it and playing the result"

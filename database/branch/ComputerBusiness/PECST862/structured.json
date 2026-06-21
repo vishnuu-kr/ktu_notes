@@ -2,13 +2,10 @@
   {
     "module": "Module 1",
     "topics": [
-      "Introduction to Natural Language Processing",
-      "Various stages of traditional NLP",
-      "Challenges",
-      "Basic Text Processing techniques",
-      "Common NLP Tasks. N-gram Language Models",
-      "Naive Bayes for Text Classification, and Sentiment Analysis",
-      "Evaluation-Precision, Recall and F-measure-Test sets and cross validation"
+      "Introduction to NLP",
+      "Introduction to Natural Language Processing - Various stages of traditional NLP - Challenges - Basic Text Processing techniques - Common NLP Tasks. N-gram Language Models - Naive Bayes for Text Classification",
+      "and Sentiment Analysis - Evaluation-Precision",
+      "Recall and F-measure-Test sets and cross validation"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -16,6 +13,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Traditional NLP Techniques",
       "Annotating Linguistic Structures - Context-Free Grammars",
       "Constituency Parsing",
       "Ambiguity",
@@ -30,6 +28,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Neural Networks for NLP",
       "Word representations - Lexical Semantics",
       "Vector Semantics",
       "TF-IDF",
@@ -44,6 +43,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Advanced NLP and Applications",
       "Sequence Modelling - Recurrent Neural Networks",
       "RNNs as Language Models",
       "RNNs for NLP tasks",

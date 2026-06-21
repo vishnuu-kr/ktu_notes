@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Mechatronics",
             "Sensors - Characteristics - Temperature",
             "flow",
             "pressure sensors. Displacement",
@@ -9,7 +10,8 @@
             "optical",
             "ultrasonic",
             "inductive",
-            "capacitive and eddy current methods. Encoders: incremental and absolute",
+            "capacitive and eddy current methods. Encoders",
+            "incremental and absolute",
             "grey coded encoder. Resolvers and synchro’s. Piezoelectric sensors. Acoustic Emission sensors. Principle and types of vibration sensors. Inductive",
             "Hall effect",
             "hot wire",
@@ -24,9 +26,11 @@
     {
         "module": "Module 2",
         "topics": [
+            "Actuators",
             "Hydraulic and Pneumatic actuators - Directional control valves",
             "pressure control valves",
-            "process control valves. Rotary actuators. Development of simple hydraulic and pneumatic circuits using standard Symbols. Application of sensors in Automobiles: Throttle position",
+            "process control valves. Rotary actuators. Development of simple hydraulic and pneumatic circuits using standard Symbols. Application of sensors in Automobiles",
+            "Throttle position",
             "air mass flow",
             "crank shaft position",
             "cam position",
@@ -48,13 +52,16 @@
     {
         "module": "Module 3",
         "topics": [
-            "Fabrication: Deposition",
+            "Micro Electro Mechanical Systems (MEMS",
+            "Fabrication",
+            "Deposition",
             "Lithography",
             "Micromachining methods for MEMS",
             "Deep Reactive Ion Etching (DRIE) and LIGA processes. Principle",
             "fabrication and working of MEMS based pressure sensor",
             "accelerometer and gyroscope. Programmable Logic Controllers (PLC) - Basic structure",
-            "input/ output processing. Programming: Timers",
+            "input/ output processing. Programming",
+            "Timers",
             "Internal Relays",
             "Counters and Shift registers. Development of simple ladder programs for specific purposes"
         ],
@@ -64,11 +71,13 @@
     {
         "module": "Module 4",
         "topics": [
+            "Fundamentals of Automotive Electronics and Microprocessor control system",
             "Microprocessor architecture",
             "open and closed loop control strategies",
             "PID control",
             "Look up tables",
-            "introduction to modern control strategies like Fuzzy logic and Adaptive control. Parameters to be controlled in SI and CI engines and in the other parts of the automobile. Engine Management System (EMS): Introduction",
+            "introduction to modern control strategies like Fuzzy logic and Adaptive control. Parameters to be controlled in SI and CI engines and in the other parts of the automobile. Engine Management System (EMS",
+            "Introduction",
             "remapping of ECU",
             "Cold start and warm up phases",
             "idle speed control",

@@ -21,14 +21,17 @@
     {
         "module": "Module 2",
         "topics": [
+            "Regular Expressions",
             "Formal definition of a regular expression",
             "Building Regular Expressions",
             "Equivalence with finite automata (Proof not expected) - Converting FA to Regular Expressions",
             "Converting Regular Expressions to FA",
-            "Regular languages. Properties of Regular Languages: Closure and Decision Properties of Regular Languages",
+            "Regular languages. Properties of Regular Languages",
+            "Closure and Decision Properties of Regular Languages",
             "Pumping Lemma for Regular Languages",
             "Myhill-Nerode Theorem(MNT) without proof",
-            "Applications of MNT. Context-Free Grammars and Applications: Formal definition of a context-free grammar",
+            "Applications of MNT. Context-Free Grammars and Applications",
+            "Formal definition of a context-free grammar",
             "Designing context-free grammars",
             "Parse Trees",
             "Ambiguous Grammars",
@@ -40,9 +43,12 @@
     {
         "module": "Module 3",
         "topics": [
+            "Pushdown Automata",
             "Formal definition of a pushdown automaton (PDA",
-            "Design of Deterministic PDA and Nondeterministic PDA. Simplification of Context-Free Languages: Chomsky normal form",
-            "Greibach normal form. Properties of Context-Free Languages: The Pumping Lemma for Context-Free Languages",
+            "Design of Deterministic PDA and Nondeterministic PDA. Simplification of Context-Free Languages",
+            "Chomsky normal form",
+            "Greibach normal form. Properties of Context-Free Languages",
+            "The Pumping Lemma for Context-Free Languages",
             "Closure and Decision Properties of Context-Free Languages. Linear Bounded Automata"
         ],
         "rejected_topics": null,
@@ -51,11 +57,13 @@
     {
         "module": "Module 4",
         "topics": [
+            "Turing Machines",
             "Definition of a Turing machine (TM",
             "Design of Turing machines - TM as language acceptors",
             "TM as computers of functions",
             "Variants of Turing Machines",
-            "Recursive and recursively enumerable languages Chomsky hierarchy. Computability: Universal Machine",
+            "Recursive and recursively enumerable languages Chomsky hierarchy. Computability",
+            "Universal Machine",
             "Church Turing thesis",
             "Decidable and Undecidable Problems",
             "Halting problem of TM"

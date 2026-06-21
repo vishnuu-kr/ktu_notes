@@ -15,16 +15,10 @@
     {
         "module": "Module 2",
         "topics": [
-            "Inter register transfer",
-            "arithmetic, logic and shift micro-operations. Processor logic design",
-            "processor organization",
-            "Arithmetic logic unit -design of arithmetic circuit",
-            "design of logic circuit",
-            "Design of arithmetic logic unit",
-            "status register",
-            "design of shifter",
-            "processor unit",
-            "design of accumulator(Basic Concept Only"
+            "Register transfer logic",
+            "Inter register transfer - arithmetic",
+            "logic and shift micro-operations. Processor logic design",
+            "processor organization - Arithmetic logic unit -design of arithmetic circuit - design of logic circuit - Design of arithmetic logic unit - status register - design of shifter - processor unit - design of accumulator(Basic Concept Only"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -32,10 +26,13 @@
     {
         "module": "Module 3",
         "topics": [
+            "Control Logic Design",
             "Hardwired control-microprogrammed control-Microinstructions",
-            "Microprogram Sequencing. Arithmetic algorithms: Signed-Operand multiplication",
+            "Microprogram Sequencing. Arithmetic algorithms",
+            "Signed-Operand multiplication",
             "Booth Algorithm",
-            "fast multiplication-bit pair recoding of multipliers. Pipelining: Basic principles",
+            "fast multiplication-bit pair recoding of multipliers. Pipelining",
+            "Basic principles",
             "classification of pipeline processors",
             "instruction and arithmetic pipelines (Design examples not required",
             "hazard detection and resolution"
@@ -46,10 +43,12 @@
     {
         "module": "Module 4",
         "topics": [
+            "Memory system",
             "Types of memory(Concepts only",
             "Virtual memory",
             "Content addressable memory",
-            "cache memories - mapping functions. I/O organization: Characteristics of I/O devices",
+            "cache memories - mapping functions. I/O organization",
+            "Characteristics of I/O devices",
             "Data transfer schemes -Programmed controlled I/O transfer",
             "Interrupt controlled I/O transfer. Organization of interrupts - vectored interrupts - Servicing of multiple input/output devices - Polling and daisy chaining schemes. Direct memory accessing (DMA"
         ],

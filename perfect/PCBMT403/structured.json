@@ -5,7 +5,7 @@
             "Electric and Magnetic units, SI units",
             "Types of Errors- Gross erros, Systematic and random errors in measurement",
             "propagation of errors",
-            "expression of uncertainty - accuracy, precision, sensitivity, resolution, loading effect. Classification of instruments, secondary instruments - indicating, integrating and recording Operating forces- deflecting, damping, controlling torques. Electromechanical indicating instruments: suspension galvanometer, PMMC mechanism, DC ammeters and voltmeters, Ohmmeter, Multimeters",
+            "expression of uncertainty - accuracy, precision, sensitivity, resolution, loading effect. Classification of instruments, secondary instruments - indicating, integrating and recording Operating forces- deflecting, damping, controlling torques. Electromechanical indicating instruments, suspension galvanometer, PMMC mechanism, DC ammeters and voltmeters, Ohmmeter, Multimeters",
             "AC indicating instruments- Dynamometer, Watthour meter, power factor meter"
         ],
         "rejected_topics": null,
@@ -14,9 +14,9 @@
     {
         "module": "Module 2",
         "topics": [
-            "Wheatstone, Kelvin bridges",
+            "Bridges for measurement, Wheatstone, Kelvin bridges",
             "AC bridges-Maxwell, Hay and Wein bridges",
-            "Measurement of R,L, C. Motors (Basic Concepts only required): Motor Components",
+            "Measurement of R,L, C. Motors (Basic Concepts only required), Motor Components",
             "DC Motors-DC Shunt Motor, Separately Excited & Self Excited, DC Series Motor, DC Compound Motor",
             "Permanent Magnet DC motor",
             "AC Motors- Synchronous Motor, Three-phase Induction Motor",
@@ -28,6 +28,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Medical Instrumentation circuits",
             "Analog Active Filters-Sallen and Key",
             "Generalized Impedance Converter AFs for very low frequencies",
             "two-Op Amp ECG amplifier. Instrumentation amplifier",
@@ -35,7 +36,8 @@
             "safety standards in medical electronic amplifiers",
             "Phase sensitive rectifiers",
             "phase detectors",
-            "Phase Locked Loops. Digital Interfaces: Aliasing and the Sampling Theorem -Digital-to-Analog Converters",
+            "Phase Locked Loops. Digital Interfaces",
+            "Aliasing and the Sampling Theorem -Digital-to-Analog Converters",
             "DAC Designs-Weighted Resistors",
             "R - 2R ladder. Analog-to-Digital Converters (Tracking Converters",
             "The Successive Approximation ADC",
@@ -49,6 +51,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Devices for Measurement and Recording",
             "Cathode ray oscilloscope",
             "Digital storage oscilloscopes-DSO applications. Method of measuring voltage",
             "current",

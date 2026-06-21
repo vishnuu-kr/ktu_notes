@@ -2,7 +2,11 @@
   {
     "module": "Module 1",
     "topics": [
-      "Strong and Weak Inversion, Small Signal Capacitance"
+      "2-Terminal MOS Structure - Flat Band Voltage",
+      "Potential Balance and Charge",
+      "Effect of Gate-Body Voltage on Surface Condition General Analysis. Inversion",
+      "Strong and Weak Inversion",
+      "Small Signal Capacitance"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -22,10 +26,12 @@
   {
     "module": "Module 3",
     "topics": [
-      "Linearizing Depletion Region Charge, Source",
-      "Referenced Simplified All",
-      "Region Models. Strong Inversion: Complete Strong Inversion Model",
-      "Non Saturation"
+      "4-Terminal MOS Structure - Introduction",
+      "Complete All-Region Model - Current Equations",
+      "Simplified All-Region Models",
+      "Linearizing Depletion Region Charge",
+      "Source-Referenced Simplified All- Region Models. Strong Inversion",
+      "Complete Strong Inversion Model- Non Saturation"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -33,11 +39,14 @@
   {
     "module": "Module 4",
     "topics": [
-      "Gate-Drain Connected Loads: CS",
+      "Single-Stage Amplifiers - Introduction to basic amplifier Configurations",
+      "Gate-Drain Connected Loads",
       "Frequency Response",
       "Noise Analysis",
-      "Current-Source Load: CS (only CS) Cascode",
-      "Push-pull amplifier Noise:Types of Noise: Thermal",
+      "Current-Source Load",
+      "CS (only CS) Cascode",
+      "Push-pull amplifier Noise:Types of Noise",
+      "Thermal",
       "Flicker",
       "Shot Noise"
     ],

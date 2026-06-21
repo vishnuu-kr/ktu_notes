@@ -2,8 +2,12 @@
   {
     "module": "Module 1",
     "topics": [
-      "CMOS Amplifiers: Common source amplifier with resistive and active loads, Common source amplifier with source degeneration, Common gate and Common drain amplifier (only voltage gain and input and output impedances of the circuits",
-      "Cascode Amplifier: Cascoded amplifier with cascade loads Folded cascode Amplifier"
+      "CMOS Amplifiers MOS small signal model",
+      "CMOS Amplifiers",
+      "Common source amplifier with resistive and active loads",
+      "Common source amplifier with source degeneration",
+      "Common gate and Common drain amplifier (only voltage gain and input and output impedances of the circuits). Cascode Amplifier",
+      "Cascoded amplifier with cascade loads Folded cascode Amplifier"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -11,8 +15,10 @@
   {
     "module": "Module 2",
     "topics": [
+      "CMOS Differential Amplifiers MOS Current Mirror",
       "Basic circuit",
-      "PMOS and NMOS current mirrors Simple and Cascode current mirror circuits. CMOS Differential Amplifier: Differential Amplifier with resistive",
+      "PMOS and NMOS current mirrors Simple and Cascode current mirror circuits. CMOS Differential Amplifier",
+      "Differential Amplifier with resistive",
       "current source and current mirror loads",
       "MOS telescopic cascode amplifier (only voltage gain and input and output impedance of the circuits"
     ],
@@ -31,6 +37,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Data Converters",
       "DAC specifications",
       "ADC specifications DAC Architecture - Resistor String",
       "R-2R Ladder Networks",

@@ -2,59 +2,35 @@
     {
         "module": "Module 1",
         "topics": [
-            "Automation Introduction, Control Systems and Automation Strategy",
+            "Automation Introduction: Control Systems and Automation Strategy",
             "Evolution of Instrumentation and Control",
             "Role of Automation in Industries",
             "Benefits of Automation",
-            "Introduction to Descriptive Automation Tools PLC",
+            "Introduction to Descriptive Automation Tools: PLC",
             "SCADA",
             "Hybrid DCS/PLC",
             "Automation Strategy Evolution",
             "Control System Audit and Performance Criteria"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     },
     {
         "module": "Module 2",
         "topics": [
-            "Introduction",
-            "Frame Structure",
-            "Programming",
-            "Implementation Examples",
-            "Benefits",
-            "Advantages and Limitations",
-            "Foundation Fieldbus H1: Introduction",
-            "Frame Structure",
-            "Programming",
-            "Implementation Examples",
-            "Benefits",
-            "Advantages and Limitations",
-            "Comparison of HART, Foundation Fieldbus, Devicenet, Profibus, Controlnet, Industrial Ethernet"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+            "Instrumentation Standard Protocols: Definition of Protocol",
+            "Introduction to Open System Interconnection (OSI) Model",
+            "Communication Standards: RS232, RS485, Modbus (ASCII/RTU)",
+            "Introduction to Third Party Interface",
+            "Concept of OPC (Object Linking and Embedding for Process Control)",
+            "HART Protocol: Introduction, Frame Structure, Programming, Implementation Examples, Benefits, Advantages and Limitations",
+            "Foundation Fieldbus H1: Introduction, Frame Structure, Programming, Implementation Examples, Benefits, Advantages and Limitations",
+            "Comparison of HART, Foundation Fieldbus, DeviceNet, Profibus, ControlNet, Industrial Ethernet"
+        ]
     },
     {
         "module": "Module 3",
         "topics": [
-            "Programmable Logic Controllers (PLC) Introduction",
-            "Architecture",
-            "Definition of Discrete State Process Control",
-            "PLC Vs PC",
-            "PLC Vs DCS",
-            "Relay Diagram",
-            "Ladder Diagram",
-            "Ladder Diagram Examples",
-            "Relay Sequencers",
-            "Timers/Counters",
-            "High Speed Counter",
-            "PWM and PID Blocks in PLC",
-            "PLC Design",
-            "Study of at Least One Industrial PLC"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+            "Programmable Logic Controllers (PLC): Introduction, Architecture, Definition of Discrete State Process Control, PLC vs PC, PLC vs DCS, Relay Diagram, Ladder Diagram, Ladder Diagram Examples, Relay Sequencers, Timers/Counters, High Speed Counter, PWM and PID Blocks in PLC, PLC Design, Study of at Least One Industrial PLC"
+        ]
     },
     {
         "module": "Module 4",
@@ -62,17 +38,13 @@
             "Networking Fundamentals",
             "Advanced Applications of PLC and SCADA",
             "PLC Programming Methods as per IEC 61131",
-            "PLC Applications for Batch Process Using SFC",
-            "Analog Control Using PLC",
-            "PLC Interface to SCADA/DCS using Communication Links (RS232, RS485) and Protocols (Modbus ASCII/RTU)",
-            "Distributed Control Systems (DCS) Introduction",
-            "Functions",
-            "Advantages and Limitations",
+            "PLC Applications for Batch Process using SFC",
+            "Analog Control using PLC",
+            "PLC Interface to SCADA/DCS using Communication Links (RS232/RS485) and Protocols (Modbus ASCII/RTU)",
+            "Distributed Control Systems (DCS): Introduction, Functions, Advantages and Limitations",
             "DCS as an Automation Tool to Support Enterprise Resources Planning",
             "DCS Architecture of Different Makes",
             "Latest Trends and Developments"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     }
 ]

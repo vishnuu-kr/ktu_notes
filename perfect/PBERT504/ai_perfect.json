@@ -56,7 +56,7 @@
             "First Normal Form (1NF)",
             "Second Normal Form (2NF)",
             "Third Normal Form (3NF)",
-            "Boyce Codd Normal Form (BCNF)"
+            "Boyce-Codd Normal Form (BCNF)"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -66,14 +66,14 @@
         "topics": [
             "Transaction Processing Concepts - Overview of Concurrency Control",
             "Transaction Model",
-            "Significance of Concurrency Control and Recovery",
+            "Significance of Concurrency Control & Recovery",
             "Transaction States",
             "System Log",
             "Desirable Properties of Transactions",
             "Serial Schedules",
             "Concurrent and Serializable Schedules",
             "Conflict Equivalence and Conflict Serializability",
-            "Recoverable and Cascade-Less Schedules",
+            "Recoverable and Cascade-less Schedules",
             "Locking",
             "Two-Phase Locking and Its Variations",
             "Log-Based Recovery",

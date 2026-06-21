@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to R",
             "Setting up R and RStudio",
             "overview of the R ecosystem",
             "installing and loading R packages",
@@ -21,6 +22,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "R programming",
             "Functions",
             "control statements and loops",
             "math functions",
@@ -32,7 +34,8 @@
             "reading and writing files",
             "debugging",
             "performance enhancement",
-            "parallel R. Rcpp: setup",
+            "parallel R. Rcpp",
+            "setup",
             "basic syntax",
             "writing functions",
             "and interfacing. Optimize R performance with C++ for statistical computations and data processing. Develop",
@@ -46,7 +49,7 @@
     {
         "module": "Module 3",
         "topics": [
-            "Group manipulation - apply family, aggregate, plyr, data table, faster group manipulation with dplyr-pipes, tbl, select, filter, slice, mutate, summarize, group by, arrange, do",
+            "Data manipulation, Group manipulation - apply family, aggregate, plyr, data table, faster group manipulation with dplyr-pipes, tbl, select, filter, slice, mutate, summarize, group by, arrange, do",
             "iterating with purr, data reshaping, tidyverse, string manipulation, manipulating time series data with xts and zoo packages"
         ],
         "rejected_topics": null,
@@ -55,6 +58,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Statistical analysis",
             "Probability distributions",
             "exploratory data analysis",
             "creating and customizing graphs",

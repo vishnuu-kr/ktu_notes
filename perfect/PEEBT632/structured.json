@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to IoT and Enabling Technologies",
             "Introduction to Internet of Things - Definition and Characteristics of IoT",
             "Physical Design of IoT - IoT Protocols",
             "Logical Design of IoT - IoT communication models",
@@ -18,22 +19,12 @@
     {
         "module": "Module 2",
         "topics": [
-            "IoT Protocols & Architecture: Protocols",
-            "Protocol Standardization for IoT",
-            "Efforts",
-            "M2M and WSN Protocols",
-            "SCADA and RFID Protocols",
-            "Issues with IoT Standardization",
-            "Unified Data Standards",
-            "IEEE802.15.4",
-            "BACNet Protocol",
-            "Modbus",
-            "Zigbee. Network and Security Architecture. IoT Open Source Architecture (OIC",
-            "OIC Architecture & Design Principles. IoT Devices and Deployment Models",
-            "IoTivity: An Open-source IoT Stack",
-            "Overview",
-            "IoTivity Stack Architecture",
-            "Resource Model and Abstraction"
+            "IoT Protocols",
+            "Architecture",
+            "and Standards",
+            "IoT Protocols & Architecture",
+            "Protocols - Protocol Standardization for IoT - Efforts - M2M and WSN Protocols - SCADA and RFID Protocols - Issues with IoT Standardization - Unified Data Standards - IEEE802.15.4 - BACNet Protocol - Modbus - KNX - Zigbee. Network and Security Architecture. IoT Open Source Architecture (OIC) - OIC Architecture & Design Principles. IoT Devices and Deployment Models - IoTivity",
+            "An Open-source IoT Stack - Overview - IoTivity Stack Architecture - Resource Model and Abstraction"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -41,12 +32,16 @@
     {
         "module": "Module 3",
         "topics": [
-            "Wearable Health Monitoring System (WHMS): Basics of WHMS",
+            "Wearable Health Monitoring Systems and IoT Implementation",
+            "Wearable Health Monitoring System (WHMS",
+            "Basics of WHMS",
             "Need for Wearable Systems",
             "Applications of WHMS - Home Healthcare",
-            "Sports/Fitness. Design of Wearables: Introduction",
+            "Sports/Fitness. Design of Wearables",
+            "Introduction",
             "Architecture",
-            "and Attributes. Design of Smart Textiles and Wearable Electronics. Issues of WHMS & Factors Inhibiting Growth. Building IoT with Arduino & Raspberry Pi: Programming - Python Program with Raspberry Pi",
+            "and Attributes. Design of Smart Textiles and Wearable Electronics. Issues of WHMS & Factors Inhibiting Growth. Building IoT with Arduino & Raspberry Pi",
+            "Programming - Python Program with Raspberry Pi",
             "Controlling Hardware - Controlling AC Power Devices with Relays",
             "Controlling Servo Motor",
             "DC Motor. Sensors - Light Sensor",
@@ -59,7 +54,11 @@
     {
         "module": "Module 4",
         "topics": [
-            "Data Handling & Analytics: Introduction",
+            "Data Handling",
+            "Analytics",
+            "and Cloud for IoT",
+            "Data Handling & Analytics",
+            "Introduction",
             "Big Data",
             "Types of Data",
             "Characteristics of Big Data",

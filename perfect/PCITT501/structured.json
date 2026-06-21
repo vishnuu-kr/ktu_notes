@@ -2,11 +2,21 @@
     {
         "module": "Module 1",
         "topics": [
+            "Overview of Machine Learning - Introduction to Machine Learning",
+            "Examples of Machine Learning Applications - Learning Associations",
+            "Classification",
+            "Regression",
+            "Unsupervised Learning",
+            "Reinforcement Learning. Parametric Methods - Maximum Likelihood Estimation- Bernoulli Density",
+            "Multinomial Density",
+            "Gaussian (Normal) Density",
+            "Evaluating an Estimator",
             "Bias and Variance",
             "The Bayes’ Estimator",
             "Parametric Classification",
             "Regression",
-            "Tuning Model Complexity: Bias/Variance Trade-off. Dimensionality Reduction - Principal Component Analysis",
+            "Tuning Model Complexity",
+            "Bias/Variance Trade-off. Dimensionality Reduction - Principal Component Analysis",
             "Linear Discriminant Analysis"
         ],
         "rejected_topics": null,
@@ -15,6 +25,9 @@
     {
         "module": "Module 2",
         "topics": [
+            "Supervised Learning - Linear Regression - Least squares",
+            "Gradient Descent",
+            "Assessing Performance",
             "Error Metrics",
             "Overfitting",
             "Linear Classifiers - Logistic regression",

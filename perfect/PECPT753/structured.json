@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Network Security",
             "Overview of Network Security",
             "Types of Threats and Attacks",
             "Security Policies and Mechanisms",
@@ -23,7 +24,8 @@
             "Differences between IDS and IPS",
             "IPS Techniques and Mechanisms",
             "Deployment Strategies for IPS",
-            "Challenges in IPS Implementation. Detection Techniques: Signature Detection Techniques Anomaly Detection Techniques",
+            "Challenges in IPS Implementation. Detection Techniques",
+            "Signature Detection Techniques Anomaly Detection Techniques",
             "Statistical Methods for Anomaly Detection"
         ],
         "rejected_topics": null,
@@ -36,7 +38,8 @@
             "Role of SIEM in Intrusion Detection and Prevention",
             "Log Management and Analysis",
             "Correlation of Events",
-            "Understanding the role of SIEM in network security. Incident Response and Management: Incident Response Lifecycle",
+            "Understanding the role of SIEM in network security. Incident Response and Management",
+            "Incident Response Lifecycle",
             "Identification",
             "Containment",
             "Eradication",
@@ -48,12 +51,14 @@
     {
         "module": "Module 4",
         "topics": [
+            "Emerging Trends and Technologies",
             "Cloud Security and IDS/IPS",
             "IoT Security Challenges",
             "Machine Learning and AI in Intrusion Detection",
             "Blockchain for Security",
             "Future Trends in Network Security",
-            "Network Security Protocols: SSL/TLS",
+            "Network Security Protocols",
+            "SSL/TLS",
             "IPSec"
         ],
         "rejected_topics": null,

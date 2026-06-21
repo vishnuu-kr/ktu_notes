@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction to Graphs & Its Applications",
+            "Introduction to Graphs and Its Applications",
             "Basics of Paths",
             "Cycles and Trails",
             "Connection",
@@ -24,6 +24,17 @@
     {
         "module": "Module 2",
         "topics": [
+            "Matchings and Covers",
+            "Hall's Condition",
+            "Min-Max Theorem",
+            "Independent Sets",
+            "Covers and Maximum Bipartite Matching",
+            "Augmenting Path Algorithm",
+            "Weighted Bipartite Matching",
+            "Hungarian Algorithm",
+            "Stable Matchings and Faster Bipartite Matching",
+            "Factors and Perfect Matching in General Graphs",
+            "Matching in General Graphs",
             "Edmonds' Blossom Algorithm"
         ],
         "rejected_topics": null,
@@ -32,9 +43,10 @@
     {
         "module": "Module 3",
         "topics": [
+            "Connectivity and Paths",
             "Cuts and Connectivity",
             "k-Connected Graphs",
-            "Network Flow Ford-Fulkerson Labeling Algorithm",
+            "Network Flow: Ford-Fulkerson Labeling Algorithm",
             "Max-Flow Min-Cut Theorem",
             "Menger's Proof Using Max-Flow Min-Cut Theorem",
             "Vertex Coloring and Upper Bounds",
@@ -54,7 +66,10 @@
             "Line Graphs and Edge-Coloring",
             "Hamiltonian Graph",
             "Traveling Salesman Problem and NP-Completeness",
-            "Dominating Sets"
+            "Dominating Sets",
+            "Suggestion on Project Topics: Applications of Advanced Graph Theory in Routing",
+            "Social Network Analysis",
+            "Disease Spreading Models"
         ],
         "rejected_topics": null,
         "status": "verified"

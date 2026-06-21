@@ -2,10 +2,9 @@
   {
     "module": "Module 1",
     "topics": [
-      "LTI Systems",
-      "Transfer function representation of differential equation in Laplace domain. Electrical",
-      "translational and rotational mechanical systems",
-      "DC servo-motor modelling. . Block diagram representation - block diagram reduction. Signal flow graph - Mason's gain formula"
+      "Introduction to Control Systems, mathematical modelling and Transfer function Based Analysis Open loop and Closed loop control systems",
+      "Automatic control systems",
+      "Necessity and significance. Modelling of LTI systems, LTI Systems, Transfer function representation of differential equation in Laplace domain. Electrical, translational and rotational mechanical systems, DC servo-motor modelling. . Block diagram representation - block diagram reduction. Signal flow graph - Mason's gain formula"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -13,7 +12,7 @@
   {
     "module": "Module 2",
     "topics": [
-      "Time domain analysis of control systems: Impulse and Step responses of first and second order systems - Pole dominance for higher order systems. Time domain specifications. Steady state error analysis and static error constants Characteristic equation. Routh stability criterion. Root locus technique: Construction of Root locus - stability analysis-effect of addition of poles and zeros",
+      "Performance Analysis of Control Systems, Time domain analysis of control systems, Impulse and Step responses of first and second order systems - Pole dominance for higher order systems. Time domain specifications. Steady state error analysis and static error constants Characteristic equation. Routh stability criterion. Root locus technique, Construction of Root locus - stability analysis-effect of addition of poles and zeros",
       "Effect of positive feedback systems on Root locus"
     ],
     "rejected_topics": null,
@@ -22,9 +21,12 @@
   {
     "module": "Module 3",
     "topics": [
-      "Bode Plot: Construction, Concept of gain margin and phase margin",
-      "stability analysis. Frequency domain specifications",
-      "correlation between time domain and frequency domain responses (Resonant peak and resonant frequency). Polar plot: Gain margin and phase margin, Stability analysis. Nyquist stability criterion. Concept of Nichols Chart"
+      "Frequency domain analysis",
+      "Bode Plot",
+      "Construction",
+      "Concept of gain margin and phase margin-stability analysis. Frequency domain specifications - correlation between time domain and frequency domain responses (Resonant peak and resonant frequency). Polar plot",
+      "Gain margin and phase margin",
+      "Stability analysis. Nyquist stability criterion. Concept of Nichols Chart"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -32,8 +34,15 @@
   {
     "module": "Module 4",
     "topics": [
-      "Introduction to state-space modelling: State variables, state equations. State variable representation of electrical systems. Relationship between State space and transfer function models: Derivation of transfer functions from state equations. Controllable, Observable and Diagonal/Jordan canonical forms. Introduction to similarity transformations (concept only). Solution of time invariant systems: Solution of time response of autonomous systems and forced systems. State transition matrix",
-      "computation using Method of Laplace Transform and Cayley Hamilton theorem. Controllability & Observability: Definition, Kalman’s test"
+      "State space representation of systems",
+      "Introduction to state-space modelling",
+      "State variables",
+      "state equations. State variable representation of electrical systems. Relationship between State space and transfer function models",
+      "Derivation of transfer functions from state equations. Controllable",
+      "Observable and Diagonal/Jordan canonical forms. Introduction to similarity transformations (concept only). Solution of time invariant systems",
+      "Solution of time response of autonomous systems and forced systems. State transition matrix -computation using Method of Laplace Transform and Cayley Hamilton theorem. Controllability & Observability",
+      "Definition",
+      "Kalman’s test"
     ],
     "rejected_topics": null,
     "status": "verified"

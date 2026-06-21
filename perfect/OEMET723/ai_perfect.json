@@ -18,7 +18,7 @@
         "topics": [
             "Types of Coordinate System in FEM",
             "Coordinate Transformation",
-            "Plane Truss Stiffness Formulation and its Assembly",
+            "Plane Truss Stiffness Formulation and Its Assembly",
             "Shape Functions",
             "Derivation of Shape Functions Using Polynomial of One-Dimensional Bar",
             "2-Dimensional CST. Convergence Requirement of Shape Functions",
@@ -30,11 +30,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "Derivation of Strain-Displacement Relation, B Matrix - Bar",
+            "Derivation of Strain-Displacement Relation - B Matrix - Bar",
             "CST and Beam Element. Potential Energy and Equilibrium",
             "Principle of Minimum Potential Energy",
-            "Variational Formulation in FEM. Element Stiffness - Bar",
-            "CST Element",
+            "Variational Formulation in FEM. Element Stiffness - Bar and CST Element",
             "Consistent Loads"
         ],
         "rejected_topics": null,
@@ -44,10 +43,10 @@
         "module": "Module 4",
         "topics": [
             "Strong and Weak Form, Galerkin's Weighted Residual FEM Formulation",
-            "One Dimensional Axially Loaded Bar",
+            "One-Dimensional Axially Loaded Bar",
             "Heat Flow in a Bar",
             "Natural Coordinate System",
-            "Isoparametric Elements",
+            "Iso-Parametric Elements",
             "Quadrilateral Elements - Serendipity Elements",
             "Isoparametric Formulations",
             "Jacobian Matrix",

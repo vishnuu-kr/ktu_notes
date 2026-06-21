@@ -2,15 +2,20 @@
     {
         "module": "Module 1",
         "topics": [
-            "Basics of Operations Research: Applications, Linear Programming, and Problem Formulation",
+            "Introduction to Quantitative Techniques",
+            "Basics of Operations Research and Applications",
+            "Linear Programming - Problem Formulation",
             "Graphical Method",
             "Simplex Method",
-            "Big-M Method and Decision Making: Decision Under Certainty",
-            "Risk and Uncertainty: Decision Trees",
+            "Big-M Method",
+            "Decision Making",
+            "Decision Under Certainty",
+            "Risk and Uncertainty",
+            "Decision Trees",
             "EMV Method",
             "EOL Method",
-            "MaxiMin Criterion",
-            "MiniMax Criterion"
+            "Maximin Criterion",
+            "Minimax Criterion"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -18,6 +23,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Transportation Problem",
             "Mathematical Formulation",
             "Balanced and Unbalanced Problems",
             "Initial Basic Feasible Solution",
@@ -26,8 +32,10 @@
             "Vogel's Approximation Method",
             "Optimality Test by MODI Method",
             "Assignment Problem",
-            "Hungarian Method and Sequencing Problem: Basic Terminologies",
-            "Processing of n Jobs through 2, 3 and m Machines"
+            "Hungarian Method",
+            "Sequencing Problem",
+            "Basic Terminologies",
+            "Processing of n Jobs through 2, 3, and m Machines"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -35,7 +43,14 @@
     {
         "module": "Module 3",
         "topics": [
-            "Games with Saddle Points, Games Without Saddle Points, 2 x 2 Games, Graphical Method for m x 2 and 2 x n Games"
+            "Network Analysis - Basic Terms and Network Construction",
+            "Time Analysis",
+            "Critical Path Method (CPM)",
+            "Programme Evaluation and Review Technique (PERT)",
+            "Game Theory",
+            "Games with Saddle Points",
+            "Games without Saddle Points - 2 x 2 Games",
+            "Graphical Method for m x 2 and 2 x n Games"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -43,11 +58,17 @@
     {
         "module": "Module 4",
         "topics": [
+            "Queuing Theory",
             "Scope",
             "Terminology",
             "Classification, Importance and Applications",
             "Performance Measures in Queuing Systems",
-            "Single-Server Exponential Arrival and Service Times, Multi-Server Problems, Simulation: Monte Carlo Simulation, Queuing Simulation Model, Generation of Random Numbers"
+            "Single-Server Exponential Arrival and Service Times",
+            "Multi-Server Problems",
+            "Simulation",
+            "Monte Carlo Simulation",
+            "Queuing Simulation Model",
+            "Generation of Random Numbers"
         ],
         "rejected_topics": null,
         "status": "verified"

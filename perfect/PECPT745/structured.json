@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to data visualization",
             "Introduction of visual perception",
             "visual representation of data",
             "Gestalt principles",
@@ -18,6 +19,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Visualization systems",
             "Classification of visualization systems",
             "Interaction and visualization techniques misleading",
             "Visualization of one",
@@ -30,10 +32,12 @@
     {
         "module": "Module 3",
         "topics": [
+            "Interactive visualization",
             "Why interactivity is needed",
             "Handling multiple views",
             "Brushing and Linking",
-            "D3 instructions and assignments Data Interpretability: Causes of misinterpretation",
+            "D3 instructions and assignments Data Interpretability",
+            "Causes of misinterpretation",
             "Role of communicative visualization in sciences"
         ],
         "rejected_topics": null,
@@ -42,10 +46,12 @@
     {
         "module": "Module 4",
         "topics": [
-            "Visualization in data science: methods and examples- Explaining machine learning models",
+            "Visualization in data science",
+            "methods and examples- Explaining machine learning models",
             "Interpretability challenges and solutions",
             "Transparency and human-machine trust",
-            "Impactful case studies: biology",
+            "Impactful case studies",
+            "biology",
             "healthcare",
             "cyber security",
             "climate science",

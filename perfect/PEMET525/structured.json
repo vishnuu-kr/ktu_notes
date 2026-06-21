@@ -32,8 +32,12 @@
     {
         "module": "Module 3",
         "topics": [
-            "Transfer functions of DC and AC servo motors",
-            "Control applications of Tacho generator and Stepper motor. Characteristic equation of Closed loop systems. Controllers- P, PI, and PID controllers"
+            "System Modeling- Open loop and closed loop control systems",
+            "Transfer function of LTI systems- Electrical",
+            "translational and rotational systems - Force voltage and force current analogy Block diagram representation -block diagram reduction",
+            "Signal flow graph - Mason's gain formula. Control system components",
+            "Transfer functions of DC and AC servo motors - Control applications of Tacho generator and Stepper motor. Characteristic equation of Closed loop systems. Controllers- P",
+            "and PID controllers"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -41,10 +45,14 @@
     {
         "module": "Module 4",
         "topics": [
+            "Time domain analysis of control systems",
             "Time domain specifications",
-            "Impulse and Step responses of first order and second order systems. Error analysis: Steady state error analysis - static error coefficients of type 0",
-            "2 systems. Stability Analysis: Concept of stability - Routh's stability criterion",
-            "Root locus method. Frequency Domain Analysis: Frequency Domain Specifications",
+            "Impulse and Step responses of first order and second order systems. Error analysis",
+            "Steady state error analysis - static error coefficients of type 0",
+            "2 systems. Stability Analysis",
+            "Concept of stability - Routh's stability criterion",
+            "Root locus method. Frequency Domain Analysis",
+            "Frequency Domain Specifications",
             "Stability in Frequency Domain",
             "Gain Margin",
             "Phase Margin",

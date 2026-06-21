@@ -2,9 +2,11 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to DoE",
             "Strategy of experimentation",
             "Typical applications of Experimental design",
-            "basic principles of experimental design : replication",
+            "basic principles of experimental design",
+            "replication",
             "randomization and blocking",
             "Guidelines for designing the experiments Basic statistical concepts:- Concept of random variable",
             "probability",
@@ -13,7 +15,8 @@
             "measure of central tendency",
             "measures of variability",
             "sampling and sampling distribution",
-            "Statistical distributions: Normal",
+            "Statistical distributions",
+            "Normal",
             "Log normal & Weibull distributions",
             "Hypothesis testing. Use of R/ Ms-Excel/MINITAB/Design Expert for statistical analysis of data and evaluate them (self study"
         ],
@@ -28,7 +31,8 @@
             "contrasts",
             "Orthogonal contrasts",
             "Regression models and ANOVA",
-            "Violation of Normality Assumption: Kruskal-Wallis test. Randomized block designs",
+            "Violation of Normality Assumption",
+            "Kruskal-Wallis test. Randomized block designs",
             "Latin square designs",
             "Balanced Incomplete Block Designs Use of MS- Excel /R/ MINITAB/Design Expert etc for the analysis of ANOVA and evaluate them (self study"
         ],
@@ -38,7 +42,7 @@
     {
         "module": "Module 3",
         "topics": [
-            "Definition, Estimating model parameters, Fitting response curves and surfaces. The 2k Factorial Design, Blocking and Confounding in the 2k Factorial Design",
+            "Factorial designs, Definition, Estimating model parameters, Fitting response curves and surfaces. The 2k Factorial Design, Blocking and Confounding in the 2k Factorial Design",
             "Focus of 22 and 23 designs, Blocking and Confounding in the 2k Factorial Design Use of R/MINITAB/Design Expert/ Quantum Boost/ Modde for designing experiments using Factorial design and do analysis and evaluation (self study"
         ],
         "rejected_topics": null,
@@ -47,12 +51,14 @@
     {
         "module": "Module 4",
         "topics": [
+            "Regression analysis",
             "Linear and multiple linear regression",
             "Estimation of parameters in linear regression models",
             "Hypothesis testing in multiple regression",
             "Confidence intervals in multiple regression",
             "Regression model diagnostics",
-            "Testing for lack of fit Response surface methodology: Introduction",
+            "Testing for lack of fit Response surface methodology",
+            "Introduction",
             "Method of steepest ascent",
             "Response surface designs for first-order models",
             "analysis of a second order response surface",

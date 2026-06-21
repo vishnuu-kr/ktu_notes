@@ -2,7 +2,8 @@
     {
         "module": "Module 1",
         "topics": [
-            "Input Signals and Output signals of a Mechatronic System. System modelling",
+            "Mechatronics Design System and Interfacing. Introduction to Mechatronics. Historical development and definitions of mechatronic systems. Key elements of Mechatronic Systems. Functions of mechatronic systems. Design approach",
+            "Properties of Conventional and Mechatronic Design Systems. Ways of integration. Concurrent Design Procedure for Mechatronic Systems. Examples of mechatronic systems. Mechatronic System Interfacing, Input Signals and Output signals of a Mechatronic System. System modelling",
             "Basic building blocks of general mechanical, electrical, fluid and thermal systems"
         ],
         "rejected_topics": null,
@@ -11,9 +12,12 @@
     {
         "module": "Module 2",
         "topics": [
-            "Pneumatic & Hydraulic Systems: Process Control Valves",
+            "Actuation Systems",
+            "Pneumatic & Hydraulic Systems",
+            "Process Control Valves",
             "Directional and Pressure Control valves",
-            "Linear and Rotary actuators. Mechanical Actuation Systems: Translational and Rotational motions",
+            "Linear and Rotary actuators. Mechanical Actuation Systems",
+            "Translational and Rotational motions",
             "Kinematic Chains",
             "Cams",
             "Gear Trains",
@@ -21,7 +25,8 @@
             "Belt and Chain drives",
             "Bearings. Electrical Actuation Systems",
             "Performance characteristics",
-            "and System modelling. Electrical Actuation Systems: Mechanical and Solid State Relays",
+            "and System modelling. Electrical Actuation Systems",
+            "Mechanical and Solid State Relays",
             "Solenoids",
             "DC & AC motors",
             "Servo & Stepper motors"
@@ -32,6 +37,10 @@
     {
         "module": "Module 3",
         "topics": [
+            "Sensors and Transducers-Static and dynamic performance characteristics",
+            "Internal sensors",
+            "External sensors and microsensors. Mechatronic System Controllers",
+            "Mechatronic System Controllers (basics only",
             "ON/OFF",
             "PI and PID Controllers",
             "Digital controllers",

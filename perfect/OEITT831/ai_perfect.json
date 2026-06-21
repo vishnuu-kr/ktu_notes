@@ -2,6 +2,8 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction and Goals of Computer Vision",
+            "Review of Image Processing Techniques",
             "Image Filtering",
             "Image Enhancement",
             "Image Segmentation",
@@ -17,12 +19,13 @@
     {
         "module": "Module 2",
         "topics": [
+            "Measuring Light and Radiometry",
             "Reflectance and BRDF (Basics Only)",
             "Monocular and Binocular Imaging System",
             "Geometric Transformation",
             "Orthographic and Perspective Projection",
             "Camera Model - Basic Pinhole Camera Model",
-            "Stereo Vision: Introduction",
+            "Stereo Vision",
             "Concept of Disparity and Its Relationship with Depth"
         ],
         "rejected_topics": null,
@@ -31,16 +34,19 @@
     {
         "module": "Module 3",
         "topics": [
+            "Feature Detection and Description",
             "Harris Corner Detection",
             "Canny Edge Detection",
             "Blob Detection",
             "Line and Curve Detection",
             "Hough Transform",
-            "Feature Descriptors: Histogram of Oriented Gradients",
+            "Feature Descriptors",
+            "Histogram of Oriented Gradients",
             "Scale Invariant Feature Transform (SIFT)",
             "Mosaics and Snakes",
-            "Feature Matching Algorithms: Brute Force Matcher",
-            "Need for Feature Detection and Description and Limitations"
+            "Feature Matching Algorithms",
+            "Brute Force Matcher",
+            "Need for Feature Detection and Description and Its Limitations"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -52,11 +58,14 @@
             "Photometric Stereo",
             "Occluding Contour Detection",
             "Motion Analysis - Regularization Theory",
-            "Optical Flow: Brightness Constancy Equation",
+            "Optical Flow",
+            "Brightness Constancy Equation",
             "Lucas-Kanade Method",
             "Principles of Structure from Motion (Introduction)",
-            "Object Recognition: Hough Transforms and Other Simple Object Recognition Methods",
-            "Application: Face Detection",
+            "Object Recognition",
+            "Hough Transforms and Other Simple Object Recognition Methods",
+            "Application",
+            "Face Detection",
             "Face Recognition and Eigenfaces"
         ],
         "rejected_topics": null,

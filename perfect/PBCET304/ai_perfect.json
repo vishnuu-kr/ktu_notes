@@ -2,16 +2,17 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Surveying",
             "Principles",
-            "Linear",
-            "Angular and Graphical Methods",
+            "Linear, Angular and Graphical Methods",
             "Survey Stations",
             "Survey Lines - Ranging",
             "Bearing of Survey Lines",
             "Local Attraction",
             "Declination",
             "Methods of Orientation (by Compass and by Back Sighting)",
-            "Levelling: Principles of Levelling - Dumpy Level",
+            "Levelling",
+            "Principles of Levelling - Dumpy Level",
             "Booking and Reducing Levels",
             "Methods - Simple",
             "Differential",
@@ -19,31 +20,38 @@
             "Profile Levelling and Cross Sectioning",
             "Digital and Auto Level",
             "Errors in Levelling"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
-            "Characteristics, Methods, Uses",
-            "Areas and Volumes: Computation of Area by Offsets to Base Line",
-            "Computation of Area by Dividing Area into Number of Triangles",
+            "Contouring - Characteristics, Methods and Uses",
+            "Areas and Volumes",
+            "Computation of Area by Offsets to Base Line, by Dividing Area into Number of Triangles",
             "Volume of Level Section by Prismoidal and Trapezoidal Formulae",
-            "Mass Diagram: Construction, Characteristics and Uses",
-            "Triangulation: Triangulation Figures",
+            "Mass Diagram - Construction, Characteristics and Uses",
+            "Triangulation",
+            "Triangulation Figures",
             "Triangulation Stations",
             "Intervisibility of Stations",
             "Satellite Stations and Reduction to Centre"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
+            "Theory of Errors",
             "Types",
             "Theory of Least Squares",
             "Weighting of Observations",
             "Most Probable Value",
             "Computation of Indirectly Observed Quantities - Method of Normal Equations",
-            "Total Station: Concept of EDM",
+            "Total Station",
+            "Concept of EDM",
             "Principles and Working",
             "Advantages and Applications",
             "Global Positioning Systems - Components and Principles",
@@ -53,24 +61,31 @@
             "GPS Surveying Methods - Static",
             "Rapid Static",
             "Kinematic Methods - DGPS",
-            "Recent Trends in Surveying: GNSS",
+            "Recent Trends in Surveying",
+            "GNSS",
             "Smart Station and LIDAR"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
+            "Remote Sensing",
             "Definition - Electromagnetic Spectrum - Energy Interactions with Atmosphere and Earth Surface Features - Spectral Reflectance of Vegetation",
             "Soil and Water - Classification of Sensors - Active and Passive",
             "Resolution - Spatial",
             "Spectral, Radiometric and Temporal Resolution",
-            "Multi Spectral Scanning - Along Track and Across Track Scanning",
-            "Geographical Information System: Components of GIS",
+            "Multispectral Scanning - Along Track and Across Track Scanning",
+            "Geographical Information System",
+            "Components of GIS",
             "GIS Operations",
             "Map Projections - Methods",
             "Coordinate Systems - Geographic and Projected Coordinate Systems",
             "Data Types - Spatial and Attribute Data",
             "Raster and Vector Data Representation"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

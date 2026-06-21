@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Cyber Forensics and Investigations",
       "Introduction- Computer Forensic Investigations - Forensics Investigation Process -Preparing for computer investigations",
       "understanding Public and private investigations. Data Acquisition - storage formats for digital evidence",
       "determining the best acquisition method -Forensic Protocol for Evidence Acquisition - Digital Forensics Standards and Guidelines - Incident Response stages -Digital Evidence - identification",
@@ -15,6 +16,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Cyber Forensics Tools and Types of Forensics",
       "Cyber Forensics Tools-Computer Forensics software and hardware tools -Open Source and Proprietary -Challenges in Cyber Forensics",
       "Skills Required to Become a Cyber Forensic Expert- Physical Requirements of a Cyber forensics Lab",
       "Types of Cyber forensics. File System Forensics-Working with windows and CLI systems- file systems",
@@ -34,17 +36,21 @@
   {
     "module": "Module 3",
     "topics": [
+      "OS and Network Forensics Windows Forensics-Live Response",
       "Data Collection- Introduction",
       "Locard’s Exchange Principle",
-      "Order of Volatility - Volatile and Non Volatile Data Live-Response Methodologies: Data Analysis",
+      "Order of Volatility - Volatile and Non Volatile Data Live-Response Methodologies",
+      "Data Analysis",
       "Windows Memory Analysis",
-      "Rootkits and Rootkit detection. Linux Forensics: Live Response- Data Collection- Data Analysis- Log Analysis",
+      "Rootkits and Rootkit detection. Linux Forensics",
+      "Live Response- Data Collection- Data Analysis- Log Analysis",
       "Keyword Searches",
       "User Activity",
       "Network Connections",
       "Running Processes",
       "Open File Handlers",
-      "The Hacking Top Ten and Reconnaissance Tools. Network Forensics: The OSI Model",
+      "The Hacking Top Ten and Reconnaissance Tools. Network Forensics",
+      "The OSI Model",
       "Forensic Footprints",
       "Seizure of Networking Devices",
       "Network Forensic Artifacts",
@@ -52,7 +58,9 @@
       "Drive-By Downloads",
       "Network Forensic Analysis Tools",
       "Network Log analysis",
-      "Case Study: Wireshark. Web Attack Forensics: OWASP Top 10",
+      "Case Study",
+      "Wireshark. Web Attack Forensics",
+      "OWASP Top 10",
       "Web Attack Tests",
       "Penetration Testing. Mobile Device Forensics and Internet of Anything- Cloud Forensics"
     ],
@@ -62,14 +70,19 @@
   {
     "module": "Module 4",
     "topics": [
+      "Cyber Security and Anti Forensics Cyber Security",
       "Cybercrimes",
       "Types of Cybercrimes - Cyber Security Steps taken to protect ICT and prevent Misuse of Internet- IT Act 2000 and amendments- Email and Social Media Investigations-. Cyber Technology-Technological/Governance/Judicial/Legal Aspects and perspectives of Cyber Forensics/Security. Cyber-attack Frameworks-Mitre Framework-Crypto currency. Anti-Forensics Anti-forensic Practices - Data Wiping and Shredding- Data Remanence",
       "Degaussing",
-      "Case Study: USB Oblivion",
-      "Eraser - Trail Obfuscation: Spoofing",
+      "Case Study",
+      "USB Oblivion",
+      "Eraser - Trail Obfuscation",
+      "Spoofing",
       "Data Modification",
-      "Case Study: Timestamp - Encryption",
-      "Case Study: VeraCrypt",
+      "Case Study",
+      "Timestamp - Encryption",
+      "Case Study",
+      "VeraCrypt",
       "Anti-forensics Detection Techniques"
     ],
     "rejected_topics": null,

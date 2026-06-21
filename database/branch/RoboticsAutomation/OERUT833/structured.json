@@ -2,13 +2,15 @@
   {
     "module": "Module 1",
     "topics": [
+      "Virtual instrumentation",
       "Virtual instrument and traditional instrument",
       "hardware and software in VI",
       "VI for test",
       "control and design",
       "VI in engineering process",
       "virtual instruments beyond personal computer",
-      "graphical system design using LabVIEW. Introduction to LabVIEW: Advantages",
+      "graphical system design using LabVIEW. Introduction to LabVIEW",
+      "Advantages",
       "software environment",
       "creating and saving VI",
       "front panel and block diagram toll bar",
@@ -24,11 +26,13 @@
   {
     "module": "Module 2",
     "topics": [
+      "Modular programming",
       "Build a VI front panel and block diagram",
       "building a connector pane",
       "displaying sub VIs and express VIs",
       "creating sub VIs",
-      "Repetition and loops: For loops",
+      "Repetition and loops",
+      "For loops",
       "while loops",
       "structure tunnels",
       "terminal inside or outside loops",
@@ -44,6 +48,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Arrays",
       "Creating one dimensional",
       "two dimensional",
       "multi-dimensional arrays",
@@ -52,7 +57,8 @@
       "inserting",
       "replacing elements within an array",
       "array function",
-      "auto indexing. Structures: Case",
+      "auto indexing. Structures",
+      "Case",
       "sequence",
       "customizing",
       "timed structures",
@@ -65,13 +71,15 @@
   {
     "module": "Module 4",
     "topics": [
+      "Data acquisition",
       "Signals",
       "signal conditioning",
       "DAQ hardware configuration",
       "DAQ hardware",
       "analog inputs",
       "outputs",
-      "counters. Motion control: Components",
+      "counters. Motion control",
+      "Components",
       "software for configuration",
       "prototyping and development",
       "motion controller",

@@ -2,18 +2,18 @@
     {
         "module": "Experiment 2",
         "topics": [
-            "Implement and demonstrate Single, Multi variable and Polynomial Regression for a given set of training data stored in a .CSV file and evaluate the accuracy",
-            "Implement a Python program to perform logistic regression on a dataset",
-            "Write a Python program to implement Naive Bayes classifier and calculate the accuracy, precision, and recall for your data set",
-            "Write a Python program to demonstrate the working of the decision tree based ID3 algorithm. Use an appropriate data set for building the decision tree and apply this knowledge to classify a new sample",
-            "Assuming a set of data that need to be classified, use a Support Vector Machine classifier to perform this task and evaluate the accuracy",
-            "Implement any Clustering algorithm on a given dataset to categorize the data",
-            "Build an Artificial Neural Network using Backpropagation algorithm on a given dataset and test the same with appropriate dataset",
-            "Implement Feed forward neural network with three hidden layers for classification on CIFAR-10 dataset. Analyse the impact of optimization and weight initialization techniques such as Xavier initialization, Kaiming Initialization, dropout and regularization techniques",
-            "Digit classification using CNN architecture for MNIST dataset. Identify the performance change through pre-trained networks such as VGGNet or GoogleNet",
-            "Implement a simple RNN for review classification using IMDB dataset. Analyze and visualize the performance change while using LSTM and GRU instead of simple RNN",
-            "Implement time series forecasting prediction for NIFTY-50 dataset",
-            "Implement a shallow auto encoder and decoder network for machine translation (by using any dataset in Kaggle such as English to Hindi neural translation dataset)"
+            "Single, Multi-variable and Polynomial Regression Implementation and Evaluation",
+            "Logistic Regression Implementation",
+            "Naive Bayes Classifier with Accuracy, Precision, and Recall Evaluation",
+            "Decision Tree Classification using ID3 Algorithm",
+            "Support Vector Machine Classification and Accuracy Evaluation",
+            "Clustering Algorithm Implementation",
+            "Artificial Neural Network with Backpropagation",
+            "Feed Forward Neural Network with Three Hidden Layers on CIFAR-10 with Optimization and Weight Initialization Techniques",
+            "Digit Classification using CNN on MNIST with Pre-trained Networks (VGGNet or GoogleNet)",
+            "Simple RNN for Review Classification on IMDB with LSTM and GRU Comparison",
+            "Time Series Forecasting on NIFTY-50 Dataset",
+            "Shallow Auto Encoder and Decoder for Machine Translation"
         ]
     }
 ]

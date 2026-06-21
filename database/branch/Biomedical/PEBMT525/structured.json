@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to Artificial neural networks",
       "Biological neural networks",
       "model of an artificial neuron",
       "architecture",
@@ -15,13 +16,15 @@
   {
     "module": "Module 2",
     "topics": [
+      "Types of networks",
       "Hebb network - algorithm and problems",
       "Perceptron network",
       "ADALINE",
       "MADALINE",
       "Back Propagation Network -architecture",
       "training algorithm",
-      "Problems. Competitive network: Maxent"
+      "Problems. Competitive network",
+      "Maxent"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -29,6 +32,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Associative memory networks",
       "Hetero associative networks",
       "Auto associative memory networks",
       "Discrete Hopfield nets",

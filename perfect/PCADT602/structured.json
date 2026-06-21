@@ -21,6 +21,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Engineering IoT Networks - Smart Objects",
             "The “Things” in IoT",
             "Sensors",
             "Actuators",
@@ -28,7 +29,8 @@
             "Sensor Networks",
             "Connecting Smart Objects",
             "Communications Criteria",
-            "IoT Access Technologies. IoT Network Layer: IP as the IoT Network Layer",
+            "IoT Access Technologies. IoT Network Layer",
+            "IP as the IoT Network Layer",
             "The Business Case for IP",
             "The need for Optimization",
             "Optimizing IP for IoT"
@@ -39,6 +41,13 @@
     {
         "module": "Module 3",
         "topics": [
+            "IoT protocols - Application Protocols for IoT(XMPP",
+            "MQTT",
+            "CoAP",
+            "SOAP",
+            "HTTP only",
+            "Transport Layer",
+            "IoT Application Transport Methods. Data Analytics for IoT",
             "Data and Analytics for IoT",
             "An Introduction to Data Analytics for IoT",
             "Machine Learning",
@@ -50,11 +59,16 @@
     {
         "module": "Module 4",
         "topics": [
+            "Developing IoT Systems - IoT Logical Design using Python",
+            "IoT Physical Devices and Endpoints - Raspberry Pi interfaces",
+            "Programming Raspberry Pi using Python",
+            "WAMP. Developing Tools",
             "Arduino",
             "Apache NetBeans",
             "Kinoma",
             "IBM Watson IoT",
-            "Node-RED Case study: IoT in Agriculture",
+            "Node-RED Case study",
+            "IoT in Agriculture",
             "IoT in Smart city"
         ],
         "rejected_topics": null,

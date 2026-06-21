@@ -2,12 +2,14 @@
   {
     "module": "Module 1",
     "topics": [
+      "Fundamentals",
       "Need of compiler",
       "Analysis of the source program",
       "Phases of a compiler",
       "grouping of phases",
       "compiler writing tools",
-      "Cross compiler. Lexical Analyser: The role of Lexical Analyzer",
+      "Cross compiler. Lexical Analyser",
+      "The role of Lexical Analyzer",
       "Review of Finite Automata",
       "Design of Lexical Analyser using DFAs",
       "Specification of Tokens using Regular Expressions"
@@ -18,10 +20,13 @@
   {
     "module": "Module 2",
     "topics": [
+      "Syntax Analyser",
       "Review context-free grammars",
       "Parse Trees",
-      "Ambiguous Grammars. Top - Down Parsing: Recursive Descent Parser",
-      "Predictive Parser-LL(1). Bottom-Up Parsing: LR(0) parser",
+      "Ambiguous Grammars. Top - Down Parsing",
+      "Recursive Descent Parser",
+      "Predictive Parser-LL(1). Bottom-Up Parsing",
+      "LR(0) parser",
       "SLR(1) parser",
       "CLR(1) parser",
       "LALR parser"
@@ -32,10 +37,13 @@
   {
     "module": "Module 3",
     "topics": [
-      "Syntax directed definitions: S-attributed definitions",
+      "Semantic Analyser",
+      "Syntax directed definitions",
+      "S-attributed definitions",
       "L-attributed definitions. Bottom- up evaluation of S- attributed definitions",
       "Top-down translation",
-      "Bottom-up evaluation of inherited attributes. Intermediate Code Generation (ICG): Need of ICG",
+      "Bottom-up evaluation of inherited attributes. Intermediate Code Generation (ICG",
+      "Need of ICG",
       "Different representation of intermediate code",
       "intermediate code for assignment statement"
     ],
@@ -45,8 +53,11 @@
   {
     "module": "Module 4",
     "topics": [
-      "Principal sources of optimization, Optimization of basic blocks",
-      "Code Generation: Issues in the design of a code generator, A simple code generator"
+      "Code Optimization",
+      "Principal sources of optimization",
+      "Optimization of basic blocks. Code Generation",
+      "Issues in the design of a code generator",
+      "A simple code generator"
     ],
     "rejected_topics": null,
     "status": "verified"

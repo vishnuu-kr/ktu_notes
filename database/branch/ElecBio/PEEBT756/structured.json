@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Statistical programming language R",
       "Downloading R and R Studio",
       "Basics of Coding in R",
       "Using Comments in R",
@@ -47,6 +48,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Coding in python",
       "Data analysis with pandas - the data structure of pandas",
       "Data Frame- Basics",
       "Basics of deep learning with python",
@@ -65,9 +67,11 @@
   {
     "module": "Module 4",
     "topics": [
-      "Navigation stack",
-      "creating transforms",
-      "odometer imu laser scan base controller robot configuration TurtleBot the low-cost mobile robot"
+      "Robotics Programming ROS framework operating system",
+      "UNIX commands - Architecture of Operating System",
+      "catkin workspace",
+      "ROS navigation and listing commands Navigation through file system -Understanding and Debugging Nodes visualization using Gazebo Rviz URDF modelling Xacro launch files. Sensor Drivers and Motor Drivers for ROS Actuator Interfacing Case Studies",
+      "Navigation stack-creating transforms -odometer imu laser scan base controller robot configuration TurtleBot the low-cost mobile robot"
     ],
     "rejected_topics": null,
     "status": "verified"

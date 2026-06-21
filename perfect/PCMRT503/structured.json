@@ -4,7 +4,8 @@
         "topics": [
             "Basics of fluid power system",
             "Components",
-            "Advantages and applications of Fluid power systems Fluid properties: specific weight",
+            "Advantages and applications of Fluid power systems Fluid properties",
+            "specific weight",
             "density and specific gravity",
             "Pascal’s Law and its application Continuity equation",
             "Conservation Of Energy",
@@ -17,6 +18,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Hydraulic pumps",
             "Gear",
             "Vane and Piston pumps",
             "Pump performance",
@@ -35,12 +37,15 @@
     {
         "module": "Module 3",
         "topics": [
+            "Hydraulic Valves- Direction control valves",
             "Three way valve",
             "Four way valves",
-            "Check valve and shuttle valve Actuation mechanisms in DCV Pressure control valves: Pressure relief",
+            "Check valve and shuttle valve Actuation mechanisms in DCV Pressure control valves",
+            "Pressure relief",
             "Pressure Reducing",
             "Counter balance",
-            "Sequencing and Unloading Valves Flow control valves and its types Proportional Valves Servo valves: Mechanical type and Electrohydraulic servo valves"
+            "Sequencing and Unloading Valves Flow control valves and its types Proportional Valves Servo valves",
+            "Mechanical type and Electrohydraulic servo valves"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -48,8 +53,10 @@
     {
         "module": "Module 4",
         "topics": [
+            "Pneumatics",
             "Air compressors",
-            "air treatment: Air filters",
+            "air treatment",
+            "Air filters",
             "Dryer",
             "Lubricator",
             "pressure regulation",

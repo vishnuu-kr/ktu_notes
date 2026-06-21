@@ -2,11 +2,14 @@
     {
         "module": "Module 1",
         "topics": [
+            "Process Control Loops",
             "Feedback control",
             "feed forward control",
             "Cascade control",
             "Ratio control",
-            "Split range control. Computerized control: Basic building blocks of Computer controlled systems Programmable Logic Controller: Architecture of PLC",
+            "Split range control. Computerized control",
+            "Basic building blocks of Computer controlled systems Programmable Logic Controller",
+            "Architecture of PLC",
             "Types of PLC",
             "PLC modules",
             "Input and output modules - Analog and discrete I/O modules",
@@ -52,13 +55,17 @@
     {
         "module": "Module 3",
         "topics": [
-            "SCADA Fundamentals: Introduction",
+            "SCADA",
+            "SCADA Fundamentals",
+            "Introduction",
             "Types",
-            "Open system: Need and advantages",
+            "Open system",
+            "Need and advantages",
             "Building blocks of SCADA systems",
             "Remote terminal unit (RTU",
             "Human-Machine Interface (HMI) subsystem. SCADA communication systems",
-            "Master Station: Master station software components",
+            "Master Station",
+            "Master station software components",
             "Master station hardware components",
             "Server systems in the master station",
             "small",
@@ -66,7 +73,8 @@
             "and large master stations",
             "software architecture of SCADA",
             "Interfacing of SCADA with PLC",
-            "drive and other field devices. Distributed Control System: DCS - Architectures",
+            "drive and other field devices. Distributed Control System",
+            "DCS - Architectures",
             "Comparison",
             "Local control unit",
             "Process interfacing issues",
@@ -78,7 +86,14 @@
     {
         "module": "Module 4",
         "topics": [
-            "Design of inspection automation system using sensors, PLC and SCADA: Design of simple water management system using PLC, SCADA and Electrical Drive"
+            "LCU communication Facilities - Communication system requirements - Architectural Issues",
+            "Operator displays",
+            "Operator Interfaces - Engineering Interfaces. Introduction to HART and Field bus protocol. Interfacing Smart field devices (wired and wireless) with DCS controller. Introduction to Object Linking and Embedding (OLE) for Process Control. Case studies - Design of conveyor automation system using PLC",
+            "SCADA and Electrical drive",
+            "Design of inspection automation system using sensors",
+            "PLC and SCADA",
+            "Design of simple water management system using PLC",
+            "SCADA and Electrical Drive"
         ],
         "rejected_topics": null,
         "status": "verified"

@@ -24,6 +24,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Fluid kinematics",
       "Langrangian method",
       "Eulerian method",
       "velocity and acceleration components of a fluid particle",
@@ -34,7 +35,8 @@
       "circulation and vorticity",
       "velocity potential",
       "stream function",
-      "relations between the functions. Fluid Dynamics: Euler’s equation of motion",
+      "relations between the functions. Fluid Dynamics",
+      "Euler’s equation of motion",
       "Bernoulli’s equation for ideal and real fluid",
       "application of BE to Venturimeter",
       "momentum equation",
@@ -66,7 +68,18 @@
   {
     "module": "Module 4",
     "topics": [
-      "Basics, introduction to solution of a simple problem"
+      "External flow",
+      "drag and lift on foils",
+      "friction and pressure drag",
+      "flow separation",
+      "flow over flat plate",
+      "drag and friction coefficient",
+      "flow over cylinders",
+      "effect of surface roughness",
+      "application to drag on ship’s hull",
+      "magnus effect. Six-dof motions of a floating body. CFD",
+      "Basics",
+      "introduction to solution of a simple problem"
     ],
     "rejected_topics": null,
     "status": "verified"

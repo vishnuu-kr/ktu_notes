@@ -5,7 +5,8 @@
             "Introduction to Robotics and Automation:- laws of robot",
             "brief history of robotics",
             "robotic system components",
-            "safety measures in robotics Types of robots: Manipulator",
+            "safety measures in robotics Types of robots",
+            "Manipulator",
             "Legged robot",
             "wheeled robot",
             "aerial robots",
@@ -28,7 +29,8 @@
             "Capacitive Proximity sensor",
             "Force Sensor",
             "Piezoelectric Sensor",
-            "Tactile sensor- Touch Sensor/Contact Sensor. Temperature Sensors: Thermistors",
+            "Tactile sensor- Touch Sensor/Contact Sensor. Temperature Sensors",
+            "Thermistors",
             "Thermocouples"
         ],
         "rejected_topics": null,
@@ -37,19 +39,23 @@
     {
         "module": "Module 3",
         "topics": [
+            "Motion sensor",
             "Encoder sensors",
             "LVDT",
             "Accelerometer",
             "gyroscope-working principle only",
             "PIR sensor",
-            "Range Sensors: RF beacons",
+            "Range Sensors",
+            "RF beacons",
             "Ultrasonic Ranging",
-            "Reflective beacons Optical sensors: Photoconductive cell",
+            "Reflective beacons Optical sensors",
+            "Photoconductive cell",
             "photovoltaic",
             "Photo resistive",
             "Photodiodes",
             "Phototransistors",
-            "Laser Range Sensor (LIDAR) Special sensors: Acoustic Sensors",
+            "Laser Range Sensor (LIDAR) Special sensors",
+            "Acoustic Sensors",
             "vision and imaging sensors",
             "micro and nano sensors"
         ],
@@ -59,10 +65,8 @@
     {
         "module": "Module 4",
         "topics": [
-            "Hydraulic actuator - Control valves",
-            "applications Electrical actuating systems: Electric motors as actuators Overview of electric motors. Solid-state switches",
-            "Solenoids",
-            "Piezoelectric Actuator"
+            "Definition, Types, characteristics and selection of Actuator",
+            "linear, rotary, cylindrical, Logical and Continuous Actuators, Pneumatic actuator and Electro-Pneumatic actuator Mechanical actuation systems, Hydraulic actuator - Control valves, applications Electrical actuating systems, Electric motors as actuators Overview of electric motors. Solid-state switches, Solenoids, Piezoelectric Actuator"
         ],
         "rejected_topics": null,
         "status": "verified"

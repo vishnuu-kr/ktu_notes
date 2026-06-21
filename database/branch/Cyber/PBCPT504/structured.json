@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to real time Signal Processing",
       "Basic elements of Real-Time Signal Processing Systems",
       "Analog Interface- Sampling",
       "Quantization and encoding",
@@ -21,6 +22,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Introduction to Digital Signal Processor",
       "Introduction to a popular DSP from Texas Instruments",
       "CPU Architecture",
       "CPU Data Paths and Control",
@@ -39,9 +41,10 @@
   {
     "module": "Module 3",
     "topics": [
+      "Filter Design",
       "FIR & IIR Digital Filter Design",
       "filter Design programs using MATLAB",
-      "Fourier Transform: DFT",
+      "Fourier Transform",
       "FFT programs using MATLAB"
     ],
     "rejected_topics": null,
@@ -50,6 +53,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Digital signal generation and detection",
       "Sine wave generators- Lookup table method",
       "linear Chirp signal",
       "Noise generators- Linear Congruential Sequence generator",

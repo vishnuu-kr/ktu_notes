@@ -2,8 +2,10 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction",
       "Digital system design options and tradeoffs",
-      "Design methodology and technology overview. High Level System Architecture and Specification: Behavioral modelling and simulation",
+      "Design methodology and technology overview. High Level System Architecture and Specification",
+      "Behavioral modelling and simulation",
       "Hardware description languages (emphasis on Verilog",
       "combinational and sequential design",
       "state machine design",
@@ -15,6 +17,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Programmable logic Devices",
       "CPLD",
       "FPGA Features",
       "Limitations",
@@ -26,13 +29,16 @@
   {
     "module": "Module 3",
     "topics": [
+      "FPGA architecture",
       "FPGA Architectural options",
       "granularity of function and wiring resources",
       "coarse V/s fine grained",
       "vendor specific issues (emphasis on Xilinx and Altera",
-      "Logic block architecture: FPGA logic cells",
+      "Logic block architecture",
+      "FPGA logic cells",
       "timing models",
-      "power dissipation I/O block architecture: Input and Output cell characteristics",
+      "power dissipation I/O block architecture",
+      "Input and Output cell characteristics",
       "clock input",
       "Timing",
       "Power dissipation"
@@ -43,8 +49,8 @@
   {
     "module": "Module 4",
     "topics": [
-      "Programmable interconnect - Partitioning and Placement, Routing resources, delays",
-      "Applications -Embedded system design using FPGAs, DSP using FPGAs. Commercial FPGAs: Xilinx, Altera, Actel (Different series description only"
+      "Placement and Routing, Programmable interconnect - Partitioning and Placement, Routing resources, delays",
+      "Applications -Embedded system design using FPGAs, DSP using FPGAs. Commercial FPGAs, Xilinx, Altera, Actel (Different series description only"
     ],
     "rejected_topics": null,
     "status": "verified"

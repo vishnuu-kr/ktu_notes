@@ -2,9 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Fundamentals of Mobile Application Development",
             "Introduction to Mobile Application Development",
-            "Overview of Mobile Platforms: iOS and Android",
-            "Introduction to Flutter: History, Features, and Benefits",
+            "Overview of Mobile Platforms",
+            "iOS and Android",
+            "Introduction to Flutter",
+            "History, Features, and Benefits",
             "Setting Up the Flutter Development Environment",
             "Mobile App Architectures (MVC, MVVM, and BLoC)",
             "Basics of Dart Programming Language"
@@ -15,10 +18,15 @@
     {
         "module": "Module 2",
         "topics": [
+            "User Interface Design and User Experience",
             "Principles of Mobile UI/UX Design",
             "Designing Responsive UIs with Flutter",
-            "Using Flutter Widgets: StatelessWidget and StatefulWidget",
-            "Layouts in Flutter: Container, Column, and Stack",
+            "Using Flutter Widgets",
+            "StatelessWidget and StatefulWidget",
+            "Layouts in Flutter",
+            "Container",
+            "Column",
+            "Stack",
             "Navigation and Routing in Flutter",
             "Customizing UI with Themes and Styles"
         ],
@@ -28,10 +36,16 @@
     {
         "module": "Module 3",
         "topics": [
-            "State Management in Flutter: Provider, Riverpod, and BLoC",
-            "Networking in Flutter: HTTP Requests, JSON Parsing, and RESTful APIs",
-            "Data Persistence: SQLite, SharedPreferences, and Hive",
-            "Asynchronous Programming with Dart: Futures, async/await, and Streams"
+            "State Management in Flutter",
+            "Provider, Riverpod, and BLoC",
+            "Networking in Flutter",
+            "HTTP Requests",
+            "JSON Parsing",
+            "RESTful APIs",
+            "Data Persistence",
+            "SQLite, SharedPreferences, and Hive",
+            "Asynchronous Programming with Dart",
+            "Futures, async/await, and Streams"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -39,6 +53,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Industry Practices and App Deployment",
             "Advanced UI Components and Animations",
             "App Security Best Practices",
             "Testing and Debugging Flutter Applications",

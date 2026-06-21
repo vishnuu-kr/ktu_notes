@@ -10,7 +10,7 @@
             "Gates - Inverter, AND gate, OR gate, NOR gate, NAND gate, XOR gate, XNOR gate",
             "Digital circuit operation - logic levels, output dc specifications, input dc specifications, noise margins, power supplies",
             "Driving loads - driving other gates, resistive loads and LEDs. Verilog (Part 1) :-HDL Abstraction",
-            "Modern digital design flow - Verilog constructs: data types, the module, Verilog operators"
+            "Modern digital design flow - Verilog constructs, data types, the module, Verilog operators"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -18,7 +18,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Combinational Logic Design: - Boolean Algebra - Operations, Axioms, Theorems",
+            "Combinational Logic Design, - Boolean Algebra - Operations, Axioms, Theorems",
             "Combinational logic analysis - Canonical SOP and POS, Minterm and Maxterm equivalence",
             "Logic minimization - Algebraic minimization, K-map minimization, Dont cares, Code convertors. Modeling concurrent functionality in Verilog:-Continuous assignment - Continuous Assignment with logical operators, Continuous assignment with conditional operators, Continuous assignment with delay"
         ],
@@ -41,7 +41,7 @@
             "Sequential Logic Design :- Latches and Flip-Flops- SR latch, SR latch with enable, JK flipflop, D flipflop, Register Enabled Flip-Flop, Resettable Flip-Flop. Sequential logic timing considerations",
             "Common circuits based on sequential storage devices - toggle flop clock divider, asynchronous ripple counter, shift register. Finite State Machines :-Finite State Machines - logic synthesis for an FSM, FSM design process and design examples",
             "Synchronous Sequential Circuits - Counters",
-            "Verilog (Part 2) : -Procedural assignment",
+            "Verilog (Part 2) , -Procedural assignment",
             "Conditional Programming constructs",
             "Test benches",
             "Modeling a D flipflop in Verilog",

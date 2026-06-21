@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Mesh and Node Analysis and Network Theorems",
             "Mesh and node analysis of network containing independent and dependent sources. Supermesh and Supernode analysis. Steady-state AC analysis using Mesh and Node analysis. Thevenin’s theorem",
             "Norton’s theorem",
             "Superposition theorem",
@@ -14,6 +15,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Network Analysis",
             "Transients - DC and sinusoidal response of RL",
             "RC and RLC circuits",
             "Initial and final conditions",
@@ -28,12 +30,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "Transform impedance/admittance of R, L and C",
-            "Transfer Function representation",
-            "Poles and zeros. Analysis of Coupled Circuits",
-            "Dot polarity convention",
-            "Sinusoidal steady state analysis of coupled circuits",
-            "Linear Transformer as a coupled circuit -Analysis of coupled circuits in s-domain"
+            "Transformed circuits in s-domain",
+            "Transform impedance/admittance of R",
+            "L and C - Transfer Function representation - Poles and zeros. Analysis of Coupled Circuits",
+            "Dot polarity convention - Sinusoidal steady state analysis of coupled circuits - Linear Transformer as a coupled circuit -Analysis of coupled circuits in s-domain"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -41,6 +41,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Two port networks and Passive filters",
             "Characterization of two port networks using Z",
             "Hybrid and Transmission parameters",
             "Tand π representations. Interrelationship among parameter sets. Series and parallel connections of two port networks. Passive filters - Filter fundamentals",

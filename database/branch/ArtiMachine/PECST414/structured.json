@@ -2,6 +2,10 @@
   {
     "module": "Module 1",
     "topics": [
+      "Binary block codes",
+      "Minimum distance",
+      "Error-detecting capability and error-correcting capability. Introduction to linear block codes",
+      "generator matrix and parity check matrix. Properties of linear block codes",
       "Syndrome",
       "error detection. Distance properties of linear block codes. Single parity check codes",
       "Hamming codes",
@@ -13,6 +17,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Cyclic Codes",
       "Generator and Parity-Check Matrices of Cyclic Codes.Encoding of Cyclic Codes",
       "Syndrome Computation and Error Detection",
       "Decoding of Cyclic Codes",
@@ -25,6 +30,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Convolutional codes",
       "Encoding",
       "state diagram",
       "trellis diagram",
@@ -39,9 +45,10 @@
   {
     "module": "Module 4",
     "topics": [
-      "Turbo decoding,Distance properties of turbo codes, Convergence of turbo codes",
-      "Automatic repeat request schemes",
-      "Applications of linear codes"
+      "Turbo codes",
+      "Turbo decoding",
+      "Distance properties of turbo codes",
+      "Convergence of turbo codes. Automatic repeat request schemes. Applications of linear codes"
     ],
     "rejected_topics": null,
     "status": "verified"

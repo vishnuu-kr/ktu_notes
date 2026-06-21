@@ -1,0 +1,52 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Algorithms - Characteristics, Criteria for Analysing Algorithms",
+            "Time and Space Complexity - Best, Worst, and Average Case Complexities",
+            "Asymptotic Notations and their properties",
+            "Time and Space Complexity Calculation of simple algorithms",
+            "Analysis of Recursive Algorithms -Recurrence Equations, Solution of Recurrence Equations , Iteration Method, Recursion Tree Method, Substitution method and Master’s Theorem (proof not expected",
+            "Balanced Search Trees - AVL Trees (Insertion and deletion operations with all rotations in detail, algorithms not expected"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Disjoint Sets - Disjoint set operations, Union and find algorithms, Analysis of union by rank with path compression, Connected components of a Graph",
+            "Graphs - Representations, Traversals, BFS, DFS and their analysis, Strongly Connected Components",
+            "Topological Sorting. Divide and Conquer Strategy - Control Abstraction, Merge Sort, Strassen’s Matrix Multiplication, Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Greedy Strategy - Control Abstraction, Fractional Knapsack",
+            "Minimum Cost Spanning Tree - Kruskal’s and Prim’s, Analysis",
+            "Shortest Path Problem - Dijkstra’s Algorithm, Analysis",
+            "Dynamic Programming - Control Abstraction, Optimality Principle, Matrix Chain Multiplication, Analysis",
+            "All Pairs Shortest Path Algorithm - Floyd-Warshall Algorithm, Analysis",
+            "Backtracking - Control Abstraction, N - Queens Problem, Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Branch and Bound - Control Abstraction, Travelling Salesman Problem, Algorithm",
+            "Complexity - Tractable and Intractable Problems",
+            "Complexity Classes , P, NP, NP- Hard and NP-Complete Classes",
+            "NP Completeness proof - Clique Problem and Vertex Cover Problem",
+            "Approximation algorithms - Bin Packing",
+            "Randomized Algorithms - Definitions of Monte Carlo and Las Vegas algorithms",
+            "Randomized version of Quick Sort algorithm with analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

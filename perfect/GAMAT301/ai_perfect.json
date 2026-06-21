@@ -14,7 +14,9 @@
             "Marginal PMF",
             "Independent Random Variables",
             "Expected Value of a Function of Two Discrete Variables"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
@@ -29,21 +31,27 @@
             "Marginal PDF",
             "Independent Random Variables",
             "Expected Value of a Function of Two Continuous Variables"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
+            "Limit Theorems",
             "Markov's Inequality",
             "Chebyshev's Inequality",
-            "Strong Law of Large Numbers",
-            "Central Limit Theorem",
-            "Stochastic Processes: Discrete-Time Process",
+            "Strong Law of Large Numbers (Without Proof)",
+            "Central Limit Theorem (Without Proof)",
+            "Stochastic Processes",
+            "Discrete-Time Process",
             "Continuous-Time Process",
             "Counting Processes",
             "The Poisson Process",
-            "Interarrival Times"
-        ]
+            "Interarrival Times (Theorems Without Proof)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
@@ -55,7 +63,9 @@
             "Irreducible Markov Chain",
             "Recurrent State",
             "Transient State",
-            "Long-Run Proportions"
-        ]
+            "Long-Run Proportions (Theorems Without Proof)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

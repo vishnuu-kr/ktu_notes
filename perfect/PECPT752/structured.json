@@ -9,7 +9,8 @@
             "and Byzantine failures",
             "Impact on system performance and reliability Redundancy and Replication Techniques - Hardware vs. software redundancy",
             "Data redundancy (RAID levels and their implications",
-            "Replication strategies: primary-backup",
+            "Replication strategies",
+            "primary-backup",
             "quorum-based"
         ],
         "rejected_topics": null,
@@ -18,7 +19,8 @@
     {
         "module": "Module 2",
         "topics": [
-            "Fault Detection Mechanisms - Basic fault detection techniques: heartbeat",
+            "Fault Detection Mechanisms - Basic fault detection techniques",
+            "heartbeat",
             "monitoring",
             "logging",
             "Tools and frameworks for fault detection (basic overview) Fault Diagnosis and Isolation - Techniques for identifying and isolating faults",
@@ -31,9 +33,11 @@
     {
         "module": "Module 3",
         "topics": [
+            "Distributed Consensus and Coordination - Introduction to consensus algorithms",
             "Paxos",
             "Raft",
-            "Basic concepts of coordination services: Zookeeper",
+            "Basic concepts of coordination services",
+            "Zookeeper",
             "Consul Load Balancing and Failover - Principles of load balancing in fault-tolerant systems",
             "Simple failover strategies and practical case studies Network Fault Tolerance - Basic network redundancy and routing protocols",
             "Handling network partitioning and latency issues"

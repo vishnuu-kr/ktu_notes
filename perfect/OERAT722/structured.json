@@ -2,6 +2,8 @@
     {
         "module": "Module 1",
         "topics": [
+            "ROS Fundamentals",
+            "Topics",
             "The ROS Graph",
             "roscore",
             "catkin",
@@ -12,7 +14,7 @@
             "Namespaces",
             "and Remapping",
             "roslaunch",
-            "tf: Coordinate Transforms - Poses",
+            "Coordinate Transforms - Poses",
             "Positions",
             "and Orientations",
             "Publishing to a Topic",
@@ -27,6 +29,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Services and Actions",
             "Defining a Service",
             "Implementing a Service",
             "Using a Service",
@@ -42,8 +45,11 @@
     {
         "module": "Module 3",
         "topics": [
-            "Subsystems - Actuation: Mobile Platform",
-            "Actuation: Manipulator Arm",
+            "Robots and Simulators",
+            "Subsystems - Actuation",
+            "Mobile Platform",
+            "Actuation",
+            "Manipulator Arm",
             "Sensors",
             "Computation Complete Robots - PR2",
             "Fetch",
@@ -58,6 +64,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Building Maps of the World and Navigating About the World",
             "Maps in ROS",
             "Recording Data with rosbag",
             "Building Maps",

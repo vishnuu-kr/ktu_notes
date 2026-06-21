@@ -2,9 +2,11 @@
   {
     "module": "Module 1",
     "topics": [
+      "Wave Shaping Circuits",
       "RC differentiating and integrating circuits",
       "Analysis of First order RC low pass and high pass filter for step input -rise time",
-      "band width. Diode Clipping and clamping circuits. BJT/MOSFET Biasing: Need for biasing",
+      "band width. Diode Clipping and clamping circuits. BJT/MOSFET Biasing",
+      "Need for biasing",
       "DC load line",
       "operating point",
       "BJT biasing (CE configuration) - fixed bias & voltage divider bias (Design & analysis). MOSFET biasing"
@@ -15,15 +17,18 @@
   {
     "module": "Module 2",
     "topics": [
+      "BJT Amplifiers",
       "Design of RC coupled CE amplifier - Small signal analysis of CE amplifier using hybrid- π model (low and mid frequency`). The high-frequency hybrid-π model of BJT",
       "Miller effect",
       "High frequency response of single stage CE amplifier",
       "short circuit current gain",
-      "cut-off frequency fβ & unity gain bandwidth fT . MOSFET Amplifiers: Design of CS amplifier",
+      "cut-off frequency fβ & unity gain bandwidth fT . MOSFET Amplifiers",
+      "Design of CS amplifier",
       "Small signal analysis using hybrid- π model (mid frequency only",
       "Small signal voltage gain",
       "input & output impedance",
-      "CS stage with current source load and diode connected load. Multistage BJT Amplifiers: Types of multistage amplifiers",
+      "CS stage with current source load and diode connected load. Multistage BJT Amplifiers",
+      "Types of multistage amplifiers",
       "Effect of cascading on gain and bandwidth. Small signal voltage gain",
       "input & output impedance of BJT cascode amplifier using hybrid-π model"
     ],
@@ -33,7 +38,7 @@
   {
     "module": "Module 3",
     "topics": [
-      "The general feedback structure, Effect of negative feedback on gain, bandwidth, noise reduction and distortion. The four basic feedback topologies, Analysis of discrete BJT circuits in voltage-series and voltage-shunt feedback topologies - voltage gain, input and output impedance. Oscillators: Classification, criterion for oscillation, Wien bridge oscillator, Hartley and Crystal oscillator. (working principle and design equations of the circuits",
+      "Feedback amplifiers, The general feedback structure, Effect of negative feedback on gain, bandwidth, noise reduction and distortion. The four basic feedback topologies, Analysis of discrete BJT circuits in voltage-series and voltage-shunt feedback topologies - voltage gain, input and output impedance. Oscillators, Classification, criterion for oscillation, Wien bridge oscillator, Hartley and Crystal oscillator. (working principle and design equations of the circuits",
       "analysis of Wien bridge oscillator only required"
     ],
     "rejected_topics": null,
@@ -42,11 +47,13 @@
   {
     "module": "Module 4",
     "topics": [
+      "Power amplifiers",
       "Classification",
       "Transformer coupled class A power amplifier",
       "push pull class B and class AB power amplifiers",
       "complementary- symmetry class B and Class AB power amplifiers",
-      "class C and D power amplifier - efficiency and distortion (no analysis required) Linear Voltage Regulators: Types of voltage regulators- series and shunt -working and design",
+      "class C and D power amplifier - efficiency and distortion (no analysis required) Linear Voltage Regulators",
+      "Types of voltage regulators- series and shunt -working and design",
       "load & line regulation",
       "short circuit protection and fold back protection"
     ],

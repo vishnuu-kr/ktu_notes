@@ -2,15 +2,18 @@
   {
     "module": "Module 1",
     "topics": [
+      "Artificial Intelligence",
       "Types of problems AI addresses like Computer Vision",
       "Natural Language Processing",
       "Robotics",
       "Expert Systems",
-      "Object detection and Image segmentation. Artificial Intelligence in Chemical Engineering Background: Early Attempts",
+      "Object detection and Image segmentation. Artificial Intelligence in Chemical Engineering Background",
+      "Early Attempts",
       "Expert System Era",
       "Neural Network Era",
       "Effects and Lacunae of Expert System Era and Neural Network Era on Chemical Engineering",
-      "Deep Learning and Data Science Era. Applications of AI in chemical engineering: areas like fault diagnosis",
+      "Deep Learning and Data Science Era. Applications of AI in chemical engineering",
+      "areas like fault diagnosis",
       "Process control",
       "Process design",
       "development and selection like Separation Design",
@@ -26,14 +29,17 @@
   {
     "module": "Module 2",
     "topics": [
-      "Exploring sub-discipline of AI: Machine Learning",
+      "Introduction to Machine Learning",
+      "Exploring sub-discipline of AI",
+      "Machine Learning",
       "Supervised learning",
       "Unsupervised learning",
       "Reinforcement learning",
       "Classification problems",
       "Regression problems",
       "Clustering problems",
-      "Introduction to neural networks and deep learning. Deep Artificial neural networks (DNN): The working of the Rosenblatt perceptron",
+      "Introduction to neural networks and deep learning. Deep Artificial neural networks (DNN",
+      "The working of the Rosenblatt perceptron",
       "multilayer perceptrons. Activation functions and their importance in incorporating nonlinearities into the predictive models. The feedforward process in ANN layers with dense fully connected layers. The error (loss) functions as a measure of the ANN performance. Backpropagation algorithm for neuron learning"
     ],
     "rejected_topics": null,
@@ -42,13 +48,13 @@
   {
     "module": "Module 3",
     "topics": [
-      "The drawbacks of Deep ANN",
-      "How CNN take into account the spatial patterns",
-      "The working of the CNN in pattern recognition",
-      "The role of kernels, pooling, padding and stride in CNN learning",
-      "How the kernels help in reducing the learning parameters (weight sharing",
-      "Some outstanding deep networks proposed like AlexNet, VGGNet, Inception, Google Net and ResNets",
-      "The problems they faced and how they resolved the problems"
+      "Convolution neural networks (CNN",
+      "The drawbacks of Deep ANN. How CNN take into account the spatial patterns. The working of the CNN in pattern recognition. The role of kernels",
+      "pooling",
+      "padding and stride in CNN learning. How the kernels help in reducing the learning parameters (weight sharing). Some outstanding deep networks proposed like AlexNet",
+      "VGGNet",
+      "Inception",
+      "Google Net and ResNets. The problems they faced and how they resolved the problems"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -56,12 +62,14 @@
   {
     "module": "Module 4",
     "topics": [
+      "Case Studies",
       "Oxidative coupling of methane (OCM) over the Mn/Na2WO4/SiO2 catalyst in a fluidized bed reactor",
       "Control of Reactive Distillation Column",
       "Use of Qualitative Models in Discrete Event Simulation to Analyze Malfunctions in Processing Systems",
       "Fault Detection and Diagnosis Using Artificial Neural Networks",
       "A Modular Approach to Multiple Faults Diagnosis",
-      "AI in Chemical Engineering Recent Trends and Future Outlook: Emergence in large scale systems of self-organizing intelligent agents"
+      "AI in Chemical Engineering Recent Trends and Future Outlook",
+      "Emergence in large scale systems of self-organizing intelligent agents"
     ],
     "rejected_topics": null,
     "status": "verified"

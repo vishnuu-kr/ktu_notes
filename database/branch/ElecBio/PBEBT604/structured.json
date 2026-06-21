@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Image perception -MTF of the visual system - monochrome vision models -color vision model. Image sampling and quantization",
       "Two-dimensional sampling theory",
       "Image quantization - uniform quantizer. Image transforms -Two dimensional orthogonal and unitary transforms - properties of unitary transforms",
       "2D DFT",
@@ -15,11 +16,14 @@
   {
     "module": "Module 2",
     "topics": [
-      "Image enhancement: contrast enhancement",
+      "Image enhancement",
+      "contrast enhancement",
       "clipping and thresholding -digital negative",
       "intensity level slicing - bit extraction. Histogram processing",
-      "Magnification and interpolation. Image Enhancement in Spatial domain: Smoothing and sharpening operations in time domain",
-      "Filtering in frequency domain: Smoothing and sharpening frequency domain filters",
+      "Magnification and interpolation. Image Enhancement in Spatial domain",
+      "Smoothing and sharpening operations in time domain",
+      "Filtering in frequency domain",
+      "Smoothing and sharpening frequency domain filters",
       "Homomorphic filtering"
     ],
     "rejected_topics": null,
@@ -28,6 +32,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Image restoration",
       "Image degradation",
       "Noise",
       "Blurring",
@@ -45,6 +50,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Feature recognition and classification",
       "Features - describing the contents and the shape of objects. Classification- Supervised and unsupervised learning. Discriminant analysis",
       "k-nearest-Neighbor (kNN) classifier. Unsupervised- k-means clustering. Deep Learning for Medical Image Analysis",
       "Convolutional Neural Networks. Image fusion for hybrid imaging",

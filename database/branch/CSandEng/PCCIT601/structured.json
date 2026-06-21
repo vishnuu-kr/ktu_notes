@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "IoT-An Architectural Overview",
       "Building an architecture",
       "Main design principles and needed capabilities",
       "An IoT architecture outline",
@@ -19,6 +20,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "IoT Architecture",
       "State of the Art - Introduction",
       "State of the art",
       "Reference Model and architecture",
@@ -36,6 +38,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Data Link Layer & Network Layer Protocols",
       "PHY/MAC Layer (3GPP MTC",
       "IEEE 802.11",
       "IEEE 802.15",
@@ -58,6 +61,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Transport & Session Layer Protocols",
       "Transport Layer (TCP",
       "MPTCP",
       "DCCP",
@@ -66,7 +70,8 @@
       "CoAP",
       "XMPP",
       "AMQP",
-      "MQTT Service Layer Protocols & Security: Service Layer -oneM2M",
+      "MQTT Service Layer Protocols & Security",
+      "Service Layer -oneM2M",
       "ETSI M2M",
       "BBF - Security in IoT Protocols - MAC 802.15.4",
       "6LoWPAN",

@@ -44,7 +44,7 @@
   {
     "module": "Module 3",
     "topics": [
-      "Principle, advantages/disadvantages Underground cables",
+      "Introduction to EHVAC and HVDC, Principle, advantages/disadvantages Underground cables",
       "ratings",
       "classification",
       "Capacitance of cables",
@@ -61,10 +61,13 @@
   {
     "module": "Module 4",
     "topics": [
-      "Visit to a nearby substation, identify the components and prepare a report. Additional topics: 1) Calculation of Sag and tension in transmission lines 2) Introduction to Machine Learning in Power System Protection",
-      "Insulation co-ordination 3) Overview of Communication: PLCC",
-      "Fibre Optic",
-      "Introduction to IEC61850"
+      "Need for protection- Types of protection schemes - primary and back-up Protective relays - Basics of typical electromechanical relay - induction type only Static (block diagrams of o/c and instantaneous o/c relays) Microprocessor (block diagram and flow chart of o/c relay) Fundamentals of Numerical relay Principles of overcurrent",
+      "directional",
+      "distance and differential Circuit breakers - operating principle - arc phenomenon - arc extinction - principle & methods - Important terms in arc extinction Problems of circuit interruption - capacitive current chopping - ratings of CBs Circuit breaker classification based on medium of arc extinction - SF6 & VCB Introduction to GIS Note",
+      "Visit to a nearby substation",
+      "identify the components and prepare a report. Additional topics",
+      "1) Calculation of Sag and tension in transmission lines 2) Introduction to Machine Learning in Power System Protection - Insulation co-ordination 3) Overview of Communication",
+      "PLCC - Fibre Optic - Introduction to IEC61850"
     ],
     "rejected_topics": null,
     "status": "verified"

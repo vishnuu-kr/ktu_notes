@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Vehicle network systems - Introduction",
+            "Vehicle Networks and software, Vehicle network systems - Introduction",
             "Network Architecture - Types",
             "Network communication",
             "Vehicle Networks - CAN, LIN, MOST, Flex Ray Protocol",
@@ -16,10 +16,10 @@
     {
         "module": "Module 2",
         "topics": [
-            "Ethernet in Automobiles. Connected car - Cyber - Physical systems",
+            "Automotive Communication Systems, Ethernet in Automobiles. Connected car - Cyber - Physical systems",
             "Wireless sensor networks",
             "Telematics",
-            "Vehicle to network (V2N), Vehicle to infrastructure (V2I), Vehicle to vehicle (V2V), Vehicle to cloud (V2C), Vehicle to pedestrian (V2P), Vehicle to device (V2D), Vehicle to grid (V2G).In Vehicle networks: Types of IVNs-Body, Powertrain, Chassis, and Infotainment networks"
+            "Vehicle to network (V2N), Vehicle to infrastructure (V2I), Vehicle to vehicle (V2V), Vehicle to cloud (V2C), Vehicle to pedestrian (V2P), Vehicle to device (V2D), Vehicle to grid (V2G).In Vehicle networks, Types of IVNs-Body, Powertrain, Chassis, and Infotainment networks"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -27,7 +27,7 @@
     {
         "module": "Module 3",
         "topics": [
-            "Electronic fuel control, engine control sequence, open loop and closed control, cold starting, acceleration and full load",
+            "Digital engine control systems, Electronic fuel control, engine control sequence, open loop and closed control, cold starting, acceleration and full load",
             "enrichment, deceleration leaning, overrun fuel cut off, Idle speed control and EGR control",
             "Fuel injection system parameters affecting combustion, noise and emissions in CI engines. Pilot, main, advanced post injection and retarded post injection. Electronic ignition control, Ignition timing map, Ignition timing calculation (Initial timing, Basic advance angle, Corrective advance angle), spark advance correction scheme"
         ],
@@ -37,6 +37,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Advanced Driver Assistance Systems",
             "Adaptive Cruise control system",
             "Anti-lock braking system",
             "Traction control system",
@@ -46,7 +47,8 @@
             "Collision avoidance radar warning system",
             "Tyre pressure monitoring",
             "Lane departure warning system",
-            "Night vision system. Electronic control transmission: control of shift timing",
+            "Night vision system. Electronic control transmission",
+            "control of shift timing",
             "control of lock up",
             "neutral to drive squat control",
             "engine torque control. Dual clutch automatic",

@@ -2,7 +2,19 @@
     {
         "module": "Module 1",
         "topics": [
-            "Development, applications, and limitations"
+            "Introduction to Knowledge Engineering Definition of knowledge engineering",
+            "Role of knowledge in AI",
+            "Knowledge representation languages (e.g",
+            "semantic networks",
+            "ontologies",
+            "production rules",
+            "Knowledge acquisition techniques (e.g",
+            "expert interviews",
+            "knowledge elicitation",
+            "Applications of Knowledge Engineering Expert systems",
+            "Development",
+            "applications",
+            "and limitations"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -10,10 +22,13 @@
     {
         "module": "Module 2",
         "topics": [
-            "Knowledge-based approaches Semantic Networks and Ontologies Semantic networks: Structure",
+            "Natural language processing",
+            "Knowledge-based approaches Semantic Networks and Ontologies Semantic networks",
+            "Structure",
             "properties",
             "and applications",
-            "Ontologies: Definition",
+            "Ontologies",
+            "Definition",
             "components",
             "and benefits",
             "Ontology development methodologies (e.g",
@@ -26,13 +41,16 @@
     {
         "module": "Module 3",
         "topics": [
+            "Production Rules and Rule-Based Systems Production rules",
             "Syntax",
             "semantics",
-            "and inference mechanisms Rule-based systems: Architecture",
+            "and inference mechanisms Rule-based systems",
+            "Architecture",
             "forward chaining",
             "backward chaining Applications of rule-based systems (e.g",
             "expert systems",
-            "decision support systems) Application in Robotics: Knowledge representation and planning"
+            "decision support systems) Application in Robotics",
+            "Knowledge representation and planning"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -40,10 +58,12 @@
     {
         "module": "Module 4",
         "topics": [
+            "Uncertainty and Reasoning under Uncertainty Uncertainty in knowledge representation",
             "Probability theory",
             "fuzzy logic",
             "possibility theory",
-            "Reasoning under uncertainty: Bayesian networks",
+            "Reasoning under uncertainty",
+            "Bayesian networks",
             "probabilistic reasoning",
             "fuzzy inference",
             "Applications of uncertainty reasoning (e.g",

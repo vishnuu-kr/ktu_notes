@@ -2,10 +2,11 @@
     {
         "module": "Module 1",
         "topics": [
-            "Position definitions- Coordinate frames",
-            "Different orientation descriptions",
-            "Free vectors- Translations, rotations and relative motion -Position and Orientation of a Rigid Body- Rotation Matrix- Elementary Rotations- Representation and rotation of a Vector",
-            "Composition of Rotation Matrices-Euler Angles- YZY angles- Roll-Pitch-Yaw Angles-Angle and axis"
+            "Robot Subsystems -Classification of Robots -Industrial Applications Robotic configurations- robot motion- joint notation schemes-End effectors-types- mechanical",
+            "vacuum",
+            "magnetic grippers- power transmission systems-modelling and control of single joint robot. Industrial robot- manipulator structures Kinematics",
+            "Position definitions- Coordinate frames - Different orientation descriptions - Free vectors- Translations",
+            "rotations and relative motion -Position and Orientation of a Rigid Body- Rotation Matrix- Elementary Rotations- Representation and rotation of a Vector - Composition of Rotation Matrices-Euler Angles- YZY angles- Roll-Pitch-Yaw Angles-Angle and axis"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -13,7 +14,9 @@
     {
         "module": "Module 2",
         "topics": [
-            "Kinematic Chains",
+            "Introduction to manipulator kinematics- position representation -forward and reverse transformations of the 2-DOF arm",
+            "adding dimensions",
+            "Homogeneous transformation and robot kinematics. Direct Kinematics, Kinematic Chains",
             "Denavit Hartenberg Representation-Kinematics of manipulator structures- Three link planar arm- parallelogram arm- spherical arm",
             "anthropomorphic arm- spherical arm",
             "Stanford manipulator. Manipulator Kinematics-2 Inverse Kinematics- The General Inverse Kinematics Problem- kinematic decoupling",
@@ -38,10 +41,12 @@
     {
         "module": "Module 4",
         "topics": [
-            "Joint Space Control",
-            "Independent Joint Control",
-            "Feedback Control",
-            "Decentralized Feedforward Compensation"
+            "Manipulator Dynamics-1 Lagrange Formulation -Properties of Dynamic Model -Dynamic Model of Simple Manipulator Structures",
+            "Two-link Cartesian Arm- Two-link Planar Arm.- Parallelogram Arm",
+            "Dynamic Parameter Identification-Newton-Euler Formulation- Link Acceleration Manipulator Dynamics-2 Trajectory Planning",
+            "Path and Trajectory -Joint Space Trajectories-Point-to-point Motion Path Motion- Operational Space Trajectories-Path Primitives -position -Orientation",
+            "Dynamic Scaling of Trajectories",
+            "Motion Control, Joint Space Control- Independent Joint Control- Feedback Control-Decentralized Feedforward Compensation"
         ],
         "rejected_topics": null,
         "status": "verified"

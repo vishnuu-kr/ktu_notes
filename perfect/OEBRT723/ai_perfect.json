@@ -2,10 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Building Blocks of Navigation",
             "Definitions - Perception",
             "Localization",
             "Cognition",
-            "Motion Control Perception: Sensors for Perception - Schematic Representation of the Sensing Unit",
+            "Motion Control Perception",
+            "Sensors for Perception - Schematic Representation of the Sensing Unit",
             "Obstacle Sensor (Bumper)",
             "The Odometry Sensor",
             "Heading Sensors - Gyroscopes",
@@ -27,6 +29,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Localization",
             "General Schematic for Mobile Robot Localization",
             "Challenge of Localization - Sensor Noise and Sensor Aliasing",
             "Effector Noise",
@@ -38,7 +41,8 @@
             "Current Challenges in Map Representation",
             "Probabilistic Map-Based Localization - Markov Localization",
             "Kalman Filter Localization",
-            "Application to Mobile Robots: Kalman Filter Localization - Schematic",
+            "Application to Mobile Robots",
+            "Kalman Filter Localization - Schematic",
             "Robot Position Prediction",
             "Observation",
             "Measurement Prediction",
@@ -56,10 +60,10 @@
             "Configuration Space",
             "Free Configuration Space",
             "Gradient Descent Method of Optimization",
-            "Gradient Descent Without and With Constraints",
+            "Gradient Descent without and with Constraints",
             "Minkowski Sum",
             "Potential Field",
-            "Navigation Function - in Static Deterministic Environment",
+            "Navigation Function in Static Deterministic Environment",
             "In Static Uncertain Environment",
             "Navigation Function and Potential Fields in Dynamic Environment - Estimation",
             "Prediction",
@@ -71,7 +75,7 @@
     {
         "module": "Module 4",
         "topics": [
-            "Introduction to Satellite Navigation",
+            "Satellite Navigation - Introduction to Satellite Navigation",
             "Trilateration",
             "Position Calculation - Multipath Signals",
             "GNSS Accuracy Analysis",

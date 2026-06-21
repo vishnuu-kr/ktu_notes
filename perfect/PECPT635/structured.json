@@ -2,8 +2,10 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Machine Learning Basics of Machine Learning",
             "Definition and significance",
-            "Types of Machine Learning: Supervised",
+            "Types of Machine Learning",
+            "Supervised",
             "Unsupervised",
             "Reinforcement Learning",
             "Common algorithms and their applications",
@@ -15,13 +17,15 @@
     {
         "module": "Module 2",
         "topics": [
+            "Supervised and Unsupervised Learning for CPS Supervised Learning",
             "Classification algorithms - Decision Trees",
             "Support Vector Machines",
             "Regression algorithms- Linear Regression",
             "Polynomial Regression",
             "Evaluation metrics- accuracy",
             "precision",
-            "recall Unsupervised Learning: Clustering algorithms (K-means",
+            "recall Unsupervised Learning",
+            "Clustering algorithms (K-means",
             "Hierarchical Clustering",
             "Dimensionality reduction techniques (PCA",
             "t-SNE"
@@ -32,12 +36,15 @@
     {
         "module": "Module 3",
         "topics": [
+            "Reinforcement Learning and Real-Time Applications in CPS Reinforcement Learning (RL",
             "Fundamentals of RL",
-            "Key concepts: states",
+            "Key concepts",
+            "states",
             "actions",
             "rewards",
             "policy",
-            "Q-learning and Deep Q-networks Real-Time Applications: ML in real-time decision making",
+            "Q-learning and Deep Q-networks Real-Time Applications",
+            "ML in real-time decision making",
             "Optimization of control systems"
         ],
         "rejected_topics": null,
@@ -46,9 +53,11 @@
     {
         "module": "Module 4",
         "topics": [
+            "Advanced Topics and Future Trends in ML for CPS Advanced ML Techniques",
             "Deep Learning and Neural Networks",
             "Transfer Learning",
-            "Explainable AI Future Trends and Challenges: Edge Computing and IoT integration",
+            "Explainable AI Future Trends and Challenges",
+            "Edge Computing and IoT integration",
             "Security and privacy concerns in CPS",
             "Ethical considerations in ML applications"
         ],

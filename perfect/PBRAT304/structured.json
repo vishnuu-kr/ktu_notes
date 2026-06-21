@@ -2,8 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "BJT and FET Amplifiers",
             "BJT Amplifiers",
-            "RC Coupled amplifier: Need of different components and design. Multistage amplifiers: Effect of cascading on gain and bandwidth. NMOSFET amplifiers: MOSFET circuits at DC",
+            "RC Coupled amplifier",
+            "Need of different components and design. Multistage amplifiers",
+            "Effect of cascading on gain and bandwidth. NMOSFET amplifiers",
+            "MOSFET circuits at DC",
             "MOSFET as an amplifier",
             "Biasing of discrete MOSFET amplifier",
             "Small signal analysis of CS configuration using small signal hybrid-pi model",
@@ -16,6 +20,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Operational Amplifiers",
             "Op-Amp Basics",
             "Block diagram of an Op Amp",
             "Op Amp parameters -Slew Rate",
@@ -24,8 +29,10 @@
             "Gain",
             "Offset Voltage and Offset Current",
             "differential and common mode operation of Op Amps",
-            "Inverting & Non Inverting Amplifier. Oscillators: Condition for oscillations",
-            "RC phase shift and wein bridge oscillators. 555 timer: Functional block diagram",
+            "Inverting & Non Inverting Amplifier. Oscillators",
+            "Condition for oscillations",
+            "RC phase shift and wein bridge oscillators. 555 timer",
+            "Functional block diagram",
             "Astable and Monostable operation"
         ],
         "rejected_topics": null,
@@ -34,12 +41,14 @@
     {
         "module": "Module 3",
         "topics": [
+            "Boolean Algebra",
             "Binary logic functions",
             "Boolean laws",
             "truth tables",
             "associative and distributive properties",
             "De Morgans theorems",
-            "realization of switching functions using logic gates. Combinational Logic: Canonical logic forms",
+            "realization of switching functions using logic gates. Combinational Logic",
+            "Canonical logic forms",
             "sum of product & product of sums",
             "Karnaugh maps",
             "two and three and four variable Karnaugh maps",
@@ -51,14 +60,17 @@
     {
         "module": "Module 4",
         "topics": [
-            "Analysis & design of Combinational Logic: Introduction to combinational circuits",
+            "Combinational and Sequential Logic",
+            "Analysis & design of Combinational Logic",
+            "Introduction to combinational circuits",
             "code conversions",
             "decoder",
             "encoder",
             "priority encoder",
             "binary adder",
-            "subtractor. Sequential Logic: Sequential circuits",
-            "flip-flops : JK",
+            "subtractor. Sequential Logic",
+            "Sequential circuits",
+            "flip-flops",
             "D & T",
             "clocked and edge triggered flipflop",
             "block diagram",

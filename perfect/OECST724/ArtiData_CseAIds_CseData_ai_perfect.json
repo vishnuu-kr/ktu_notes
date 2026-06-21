@@ -12,8 +12,8 @@
         "module": "Module 2",
         "topics": [
             "Data Link Layer: Error Detection and Correction - Introduction, Hamming Code, CRC, Checksum",
-            "Framing Methods, Flow Control - Noiseless Channels, Noisy Channels",
-            "Medium Access Control - Random Access, Controlled Access",
+            "Framing: Methods, Flow Control - Noiseless Channels, Noisy Channels",
+            "Medium Access Control: Random Access, Controlled Access",
             "Wired LANs - IEEE Standards, Ethernet, IEEE 802.11"
         ],
         "rejected_topics": null,
@@ -24,7 +24,7 @@
         "topics": [
             "Network Layer: Logical Addressing - IPv4 and IPv6 Addresses",
             "Internet Protocol - IPv4 and IPv6",
-            "Unicast Routing Protocols - Distance Vector Routing, Link State Routing, Multicast Routing Protocols"
+            "Unicast Routing Protocols: Distance Vector Routing, Link State Routing, Multicast Routing Protocols"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -33,9 +33,9 @@
         "module": "Module 4",
         "topics": [
             "Transport Layer: Transport Layer Protocols - UDP, TCP",
-            "Congestion Control - Open Loop vs Closed Loop Congestion Control, Congestion Control in TCP",
-            "Application Layer - Application Layer Paradigms, Client-Server Applications, World Wide Web and HTTP, FTP, Electronic Mail, DNS",
-            "Peer-to-Peer Paradigm - P2P Networks"
+            "Congestion Control: Open Loop vs Closed Loop Congestion Control, Congestion Control in TCP",
+            "Application Layer: Application Layer Paradigms, Client-Server Applications, World Wide Web and HTTP, FTP, Electronic Mail, DNS",
+            "Peer-to-Peer Paradigm: P2P Networks"
         ],
         "rejected_topics": null,
         "status": "verified"

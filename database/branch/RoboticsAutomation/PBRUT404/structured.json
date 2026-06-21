@@ -2,14 +2,17 @@
   {
     "module": "Module 1",
     "topics": [
+      "8051 microcontrollers. Review-Basics of Computer Architecture",
       "Basic block diagram of a computer",
       "System bus and components",
       "RISC and CISC .architectures",
       "Von Neumann and Harvard architecture",
-      "8051 microcontrollers: Difference between microprocessor and microcontroller architecture",
+      "8051 microcontrollers",
+      "Difference between microprocessor and microcontroller architecture",
       "8051 architecture",
       "Register organization - special function registers",
-      "Memory organization 8051 microcontrollers: Instruction set- Arithmetic",
+      "Memory organization 8051 microcontrollers",
+      "Instruction set- Arithmetic",
       "Data transfer",
       "Control transfer",
       "Bit- oriented and Data exchange instructions (familiarization only",
@@ -38,8 +41,8 @@
   {
     "module": "Module 3",
     "topics": [
-      "Definition, Features, applications of embedded systems in Robotics (examples only) Embedded System Architecture: HW - Processor, Controller, SoC, Memory, Peripherals",
-      "SW -Application, Middleware, OS, Device Drivers, Tool chain- Assembler, Interpreter, Compiler, Linker, Loader, Debugger Embedded system design process: Requirement Analysis, Specification Development, HW & SW Co-Design and Development, Module Integration, Testing. Introduction to OS: Embedded Operating system basic concepts: Functional layers in a computer system, Kernel Functions (Overview only), Tasks/ Processes: definition, five states of a process/task, RTOS - definition, comparison of General Purpose OS and Real Time OS"
+      "Embedded Systems Overview and introduction to OS Introduction to Embedded Systems, Definition, Features, applications of embedded systems in Robotics (examples only) Embedded System Architecture, HW - Processor, Controller, SoC, Memory, Peripherals",
+      "SW -Application, Middleware, OS, Device Drivers, Tool chain- Assembler, Interpreter, Compiler, Linker, Loader, Debugger Embedded system design process, Requirement Analysis, Specification Development, HW & SW Co-Design and Development, Module Integration, Testing. Introduction to OS, Embedded Operating system basic concepts, Functional layers in a computer system, Kernel Functions (Overview only), Tasks/ Processes, definition, five states of a process/task, RTOS - definition, comparison of General Purpose OS and Real Time OS"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -47,21 +50,29 @@
   {
     "module": "Module 4",
     "topics": [
-      "Arduino Uno Board: Board Study (Board level Block schematic) - Chip (Features only - architecture not needed",
+      "Embedded System Board Study",
+      "communication protocols and IoT. Embedded System Board Study (Arduino Uno",
+      "Arduino Uno Board",
+      "Board Study (Board level Block schematic) - Chip (Features only - architecture not needed",
       "GPIO",
       "Memory",
-      "familiarization of Arduino IDE Programming: Sample code for LED and Switch",
+      "familiarization of Arduino IDE Programming",
+      "Sample code for LED and Switch",
       "DC motor",
-      "Stepper motor control Internet of Things (IoT): An Introduction toInternet of Things (overview only): Basic components of IoT- Building blocks of IoT",
+      "Stepper motor control Internet of Things (IoT",
+      "An Introduction toInternet of Things (overview only",
+      "Basic components of IoT- Building blocks of IoT",
       "IoT Application framework",
       "The Internet Gateway",
       "Edge IT",
       "IoT Service Providers",
       "IoT Infrastructure",
       "IoT Development service",
-      "Comparison of M2M and IoT technology. Role of cloud technology in IoT computing: Definition of cloud computing",
+      "Comparison of M2M and IoT technology. Role of cloud technology in IoT computing",
+      "Definition of cloud computing",
       "types of cloud services (examples for various types only",
-      "Need of cloud computing in IoT applications Communication Protocols: UART",
+      "Need of cloud computing in IoT applications Communication Protocols",
+      "UART",
       "SPI and USB"
     ],
     "rejected_topics": null,

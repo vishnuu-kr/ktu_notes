@@ -2,6 +2,10 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to process control with the help of examples of a tank heater system- different control strategies- feedback",
+            "feed forward",
+            "inferential. General modeling principles- Classification of variables in process control. Importance of state variables",
+            "state equations and degrees of freedom Tools for solving models- Laplace Transforms",
             "Definition of the Laplace transform. Laplace transforms of some basic forcing functions - step",
             "exponential",
             "ramp",
@@ -50,6 +54,11 @@
     {
         "module": "Module 4",
         "topics": [
+            "Frequency response characteristics using substitution rule and their graphical representations - General linear system",
+            "dead time process",
+            "pure capacitive process",
+            "feedback controllers-P",
+            "PD and PID controllers. (General representation of frequency response of typical transfer functions using BODE plot is only expected and no problems are expected) Stability analysis of feedback systems",
             "Notion of stability",
             "Stable and unstable systems",
             "BIBO stability",
@@ -58,7 +67,8 @@
             "Gain and Phase margin. Bode stability criterion",
             "Nyquist stability criterion. Numerical examples on Routh analysis",
             "Cross over frequency",
-            "PM. Design of feedback controllers: Semi empirical tuning techniques -CC and ZN Tuning. Numerical problems based on semi empirical tuning rules. Introduction to other methods of Controller tuning- Internal Model Control (IMC) Tuning",
+            "PM. Design of feedback controllers",
+            "Semi empirical tuning techniques -CC and ZN Tuning. Numerical problems based on semi empirical tuning rules. Introduction to other methods of Controller tuning- Internal Model Control (IMC) Tuning",
             "Model Predictive Control (MPC",
             "Fuzzy Logic PID Tuning",
             "Adaptive PID Control (No detailed study is required on these topics. A basic overview would be sufficient"

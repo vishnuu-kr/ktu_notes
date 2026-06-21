@@ -2,95 +2,88 @@
     {
         "module": "Module 1",
         "topics": [
+            "Locomotion",
             "Introduction",
             "Key Issues for Locomotion",
             "Legged Mobile Robots - Leg Configurations and Stability",
-            "Wheeled Mobile Robots - Wheeled Locomotion: The Design Space",
+            "Wheeled Mobile Robots - Wheeled Locomotion",
+            "The Design Space",
             "Wheel Design",
             "Wheel Geometry",
             "Stability",
             "Maneuverability",
             "Controllability",
-            "Aerial Robots - Advantages of UAVs Over Conventional Manned Aircraft",
+            "Aerial Robots - Advantages of UAVs over Conventional Manned Aircraft",
             "Types of UAVs - Fixed-Wing UAV or Airplane - Characteristics",
             "Rotary-Wing UAV - Multi-Rotor",
             "Tricopter",
             "Quadcopter or Quadrotor",
             "Hexacopter",
             "Y3/Y6",
-            "Octocopter",
-            "Mobile Robot Kinematics: Introduction",
+            "Octocopter Mobile Robot Kinematics",
+            "Introduction",
             "Kinematic Models and Constraints - Representing Robot Position",
             "Forward Kinematic Models",
             "Wheel Kinematic Constraints for Fixed Standard Wheel",
-            "Steered Standard Wheel and Castor Wheel",
-            "Robot Kinematic Constraints",
-            "Example of Robot Kinematic Models and Constraints: Differential-Drive Robot",
-            "Mobile Robot Maneuverability - Degree of Mobility",
+            "Steered Standard Wheel and Castor Wheel Only",
+            "Robot Kinematic Constraints - Example of Robot Kinematic Models and Constraints",
+            "Differential-Drive Robot - Mobile Robot Maneuverability - Degree of Mobility",
             "Degree of Steerability",
             "Robot Maneuverability",
             "Mobile Robot Workspace - Degrees of Freedom",
             "Holonomic Robots"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     },
     {
         "module": "Module 2",
         "topics": [
+            "Mobile Robots - Fundamental Problems",
             "Path Planning",
             "Localization",
             "Sensing",
             "Mapping",
-            "Simultaneous Localization and Mapping",
-            "Mobile Robot Localization: Introduction",
+            "Simultaneous Localization and Mapping - Mobile Robot Localization",
+            "Introduction",
             "The Challenge of Localization - Noise and Aliasing",
             "Localization-Based Navigation versus Programmed Solutions",
             "Belief Representation - Single-Hypothesis Belief",
             "Multiple-Hypothesis Belief",
-            "Differences Between Markov and Kalman Localization (Detailed Explanation Not Required)",
-            "Representation and Reasoning About Space: Representing Space - Spatial Decomposition",
+            "Differences between Markov and Kalman Localization - Representation and Reasoning about Space",
+            "Representing Space - Spatial Decomposition",
             "Geometric Representations",
-            "Topological Representations",
-            "Representing the Robot: Configuration Space",
-            "Simplification of C-Space"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+            "Topological Representations - Representing the Robot",
+            "Configuration Space",
+            "Simplification of C-space"
+        ]
     },
     {
         "module": "Module 3",
         "topics": [
+            "Path Planning for Mobile Robots",
             "Free-Space Path versus Semi-Free-Space Path",
-            "Non-Homotopic Paths versus Homotopic Paths",
-            "Constructing a Discrete Search Space - Visibility Graph",
+            "Non-Homotopic Paths versus Homotopic Paths - Constructing a Discrete Search Space - Visibility Graph",
             "Tangent Graph",
-            "Retraction Methods",
-            "Searching a Discrete State Space - Graph Search - Depth-First Search",
+            "Retraction Methods - Searching a Discrete State Space - Graph Search - Depth-First Search",
             "Breadth-First Search",
             "Dijkstra's Algorithm",
-            "Best First Search - A and A* Algorithm",
-            "Searching a Continuous State Space - Potential Fields",
+            "Best-First Search - A and A* Algorithm - Searching a Continuous State Space - Potential Fields",
             "Vector Field Histogram",
-            "Bug 1, Bug 2, and Tangent Bug Algorithms",
-            "Probabilistic Path Planning - RPP"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+            "Bug 1",
+            "Bug 2 and Tangent Bug Algorithms - Probabilistic Path Planning - RPP"
+        ]
     },
     {
         "module": "Module 4",
         "topics": [
+            "System Control",
             "Horizontal Decomposition",
             "Vertical Decomposition",
             "Hybrid Control Architectures",
             "Middleware",
             "Alternative Control Formalisms",
-            "The Human Robot Interface",
-            "Off-Board Communication: Tethered",
+            "The Human Robot Interface - Off-Board Communication",
+            "Tethered",
             "Untethered - Types of Untethered Communication"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     }
 ]

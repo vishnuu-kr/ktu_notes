@@ -2,10 +2,12 @@
     {
         "module": "Module 1",
         "topics": [
+            "Wave shaping circuits",
             "Sinusoidal and non-sinusoidal wave shapes",
             "Principle and working of RC differentiating and integrating circuits",
             "Clipping circuits -Positive",
-            "negative and biased clipper Transistor biasing: Introduction",
+            "negative and biased clipper Transistor biasing",
+            "Introduction",
             "operating point",
             "concept of load line",
             "fixed bias",
@@ -17,7 +19,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Classification of amplifiers, RC coupled amplifier- frequency response. Analysis for mid frequency gain. Typical examples. . Power Amplifiers: Definitions and classification. Typical circuits of Class A, Class B, Class AB and Class C Amplifiers. Analysis for conversion efficiency of B and AB. Simple examples"
+            "Amplifiers, Classification of amplifiers, RC coupled amplifier- frequency response. Analysis for mid frequency gain. Typical examples. . Power Amplifiers, Definitions and classification. Typical circuits of Class A, Class B, Class AB and Class C Amplifiers. Analysis for conversion efficiency of B and AB. Simple examples"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -25,22 +27,26 @@
     {
         "module": "Module 3",
         "topics": [
+            "Operational amplifiers",
             "Block Diagram",
             "ideal characteristics. Op-Amp Basics",
             "Parameters like gain",
             "bandwidth",
             "slew rate",
             "CMRR",
-            "offset voltage and offset current. IC741 op- amp characteristics. Simple op- amp circuits: Inverting amplifier",
+            "offset voltage and offset current. IC741 op- amp characteristics. Simple op- amp circuits",
+            "Inverting amplifier",
             "non-inverting amplifier",
             "summing amplifier",
             "integrator",
-            "difference amplifier. Op-Amp Applications: Instrumentation amplifier",
+            "difference amplifier. Op-Amp Applications",
+            "Instrumentation amplifier",
             "Schmitt trigger",
             "precision rectifiers",
             "Comparators",
             "zero crossing detector",
-            "level detector. Active Filters: Design of LPF",
+            "level detector. Active Filters",
+            "Design of LPF",
             "BPF and Notch filters"
         ],
         "rejected_topics": null,
@@ -49,14 +55,19 @@
     {
         "module": "Module 4",
         "topics": [
+            "Oscillators",
             "Feedback Concepts",
             "Basic configurations",
-            "Effect of negative feedback on amplifiers. Oscillators: classification",
+            "Effect of negative feedback on amplifiers. Oscillators",
+            "classification",
             "criterion for oscillation",
-            "RC phase shift and Wien bridge oscillator (both using BJT). Design equations and working of the circuits (analysis not required). Regulated power supplies: Simple zener voltage regulator",
+            "RC phase shift and Wien bridge oscillator (both using BJT). Design equations and working of the circuits (analysis not required). Regulated power supplies",
+            "Simple zener voltage regulator",
             "series voltage regulator",
-            "IC 723 regulators: block diagram",
-            "typical low/high voltage circuits. 3 pin regulators: 78XX and 79XX"
+            "IC 723 regulators",
+            "block diagram",
+            "typical low/high voltage circuits. 3 pin regulators",
+            "78XX and 79XX"
         ],
         "rejected_topics": null,
         "status": "verified"

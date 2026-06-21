@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction",
             "Functions of OS",
             "Types of OS - Batch",
             "Multi programmed",
@@ -13,9 +14,12 @@
             "Monolithic",
             "Modules",
             "Hybrid Systems",
-            "System Boot. Process Management: Process concept",
+            "System Boot. Process Management",
+            "Process concept",
             "Process State",
-            "PCB-Multithreading - Benefits. Case study: Linux system - process management. Process Scheduling: Basic concepts",
+            "PCB-Multithreading - Benefits. Case study",
+            "Linux system - process management. Process Scheduling",
+            "Basic concepts",
             "Non Pre-emptive Scheduling",
             "Pre-emptive Scheduling",
             "Dispatcher",
@@ -30,7 +34,9 @@
     {
         "module": "Module 2",
         "topics": [
-            "Race Conditions - Critical Sections - Peterson’s Solution-Mutual Exclusion - Busy Waiting- Sleep and Wakeup - Bakery Algorithm-Semaphores. Deadlocks: Deadlock characteristics - conditions for deadlock - Prevention - Avoidance -Safe state",
+            "Process Synchronization",
+            "Race Conditions - Critical Sections - Peterson’s Solution-Mutual Exclusion - Busy Waiting- Sleep and Wakeup - Bakery Algorithm-Semaphores. Deadlocks",
+            "Deadlock characteristics - conditions for deadlock - Prevention - Avoidance -Safe state",
             "Resource Allocation Graph",
             "Banker’s algorithm",
             "Deadlock Detection",
@@ -42,6 +48,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Memory Management",
             "Basics",
             "Swapping",
             "Memory Allocation - fixed partitions",
@@ -62,6 +69,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "File System",
             "File concept - Attributes",
             "Operations",
             "File Types - File structure - File access methods (Sequential Access",
@@ -74,13 +82,16 @@
             "Tree-Structured",
             "Acyclic Graph",
             "General Graph",
-            "Case Study: Linux file systems Disk Management: Introduction",
+            "Case Study",
+            "Linux file systems Disk Management",
+            "Introduction",
             "Disk Scheduling algorithms (FCFS",
             "SSTF",
             "SCAN",
             "C-SCAN",
             "LOOK",
-            "C-LOOK) Virtual Machines: Benefits & Features- Building Blocks- Types of VMs-Virtualization & Operating System Components"
+            "C-LOOK) Virtual Machines",
+            "Benefits & Features- Building Blocks- Types of VMs-Virtualization & Operating System Components"
         ],
         "rejected_topics": null,
         "status": "verified"

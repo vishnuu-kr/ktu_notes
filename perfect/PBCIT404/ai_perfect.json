@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction to 8086",
+            "Introduction to the 8086 Microprocessor",
             "Microprocessor Architecture",
             "Addressing Modes",
             "Instruction Set and Assembler Directives",
@@ -21,13 +21,12 @@
     {
         "module": "Module 2",
         "topics": [
-            "8086 System Bus Structure and 8086 Signals",
+            "8086 System Bus Structure and Signals",
             "Basic Configurations",
             "System Bus Timing",
             "System Design Using 8086",
             "I/O Programming",
             "Introduction to Multiprogramming",
-            "System Bus Structure",
             "Multiprocessor Configurations",
             "Coprocessor, Closely Coupled and Loosely Coupled Configurations",
             "Introduction to Advanced Processors"
@@ -38,16 +37,15 @@
     {
         "module": "Module 3",
         "topics": [
-            "Architecture of 8051",
+            "Introduction to Microcontroller 8051 and Architecture",
             "Special Function Registers (SFRs)",
-            "I/O Pins Ports and Circuits",
+            "I/O Pins, Ports and Circuits",
             "Instruction Set and Addressing Modes",
-            "Programming 8051 Timers",
-            "I/O Interfacing with Microcontroller 8051",
+            "Programming 8051 Timers and I/O Interfacing with Microcontroller 8051",
             "Serial Port Programming",
             "Interrupts Programming",
-            "LCD and Keyboard",
-            "External Memory Interface and Stepper Motor"
+            "LCD & Keyboard",
+            "External Memory Interface - Stepper Motor"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -55,11 +53,12 @@
     {
         "module": "Module 4",
         "topics": [
+            "ARM Architecture",
             "ARM Processor Fundamentals",
-            "ARM Architecture - Register",
+            "ARM Architecture - Registers",
             "CPSR",
             "Pipeline",
-            "Exceptions and Interrupts Interrupt Vector Table",
+            "Exceptions and Interrupts, Interrupt Vector Table",
             "ARM Instruction Set - Data Processing",
             "Branch Instructions",
             "Load Store Instructions",
@@ -69,7 +68,14 @@
             "Conditional Execution",
             "Introduction to Thumb Instructions"
         ],
-        "rejected_topics": null,
+        "rejected_topics": [
+            "Suggestion on Project Topics: Digit Up Down Counter",
+            "5 Channel IR Remote Control System using Microcontroller",
+            "8 Channel Quiz Buzzer Circuit using Microcontroller",
+            "Auto Intensity Control of Street Lights",
+            "Automatic Railway Gate Controller with High Speed Alerting System",
+            "Bidirectional Visitor Counter using 8051"
+        ],
         "status": "verified"
     }
 ]

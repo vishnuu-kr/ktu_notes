@@ -2,7 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
-      "Nickel metal hydride battery, Lithium-ion battery, Fuel cells, Ultra capacitors. Charging system: Working and constructional details of Alternators (single and three phase), Rectification, voltage regulation, current regulation, Charging circuit for 3 phase alternators. Starting system: Requirement of starter motor",
+      "Principle of lead acid battery & constructional details, Effect of temperature on electrolyte, Capacity Rating, Battery charging methods, Battery tests. Developments in storage, Nickel metal hydride battery, Lithium-ion battery, Fuel cells, Ultra capacitors. Charging system, Working and constructional details of Alternators (single and three phase), Rectification, voltage regulation, current regulation, Charging circuit for 3 phase alternators. Starting system, Requirement of starter motor",
       "Starter Motor types, construction and characteristics, Starter drive mechanisms, Starting circuit, Starter Switches"
     ],
     "rejected_topics": null,
@@ -21,8 +21,8 @@
   {
     "module": "Module 3",
     "topics": [
-      "Types of headlights, headlight reflectors, headlight lenses, indicator lamp details, lighting circuit, projector headlights",
-      "Horn and wiper mechanisms. Instrumentation: Speedometer, Fuel Level Indicator, Oil Pressure and Coolant Temperature Indicators, Display devices LED, LCD, VFD, Automotive Wiring System - CAN - LIN -FLEXRAY- MOST- Connected cars- Introduction -Smart cars and traffic systems - On-board diagnostics (OBD), OBD II"
+      "Lighting, Types of headlights, headlight reflectors, headlight lenses, indicator lamp details, lighting circuit, projector headlights",
+      "Horn and wiper mechanisms. Instrumentation, Speedometer, Fuel Level Indicator, Oil Pressure and Coolant Temperature Indicators, Display devices LED, LCD, VFD, Automotive Wiring System - CAN - LIN -FLEXRAY- MOST- Connected cars- Introduction -Smart cars and traffic systems - On-board diagnostics (OBD), OBD II"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -30,6 +30,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Sensors and applications in Automobile",
       "Pressure sensors",
       "Temperature sensors",
       "Position sensors",
@@ -37,7 +38,8 @@
       "Air flow sensor",
       "Wheel speed sensor",
       "Knock sensor",
-      "Optical sensors. Actuators: Solenoids",
+      "Optical sensors. Actuators",
+      "Solenoids",
       "Stepper motors",
       "Relays",
       "Piezoelectric. Introduction to internet of things (IOT) and its automotive applications. Basics principles of ECU - Architecture and Components of Generic ECU - Design and types of ECU"

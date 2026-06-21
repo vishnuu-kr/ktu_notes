@@ -50,12 +50,18 @@ stats_lock = threading.Lock()
 
 def clean_content(content):
     """Remove reference markers, textbook refs, contact hours from module content."""
-    # Remove [Text 1: ...] and (Text-2) etc
+    # Remove any bracketed or parenthesized text containing Text, Ref, Syllabus, or Module (case-insensitive)
+    content = re.sub(r'\[[^\]]*(?:Text|Ref|Syllabus|Module)[^\]]*\]', '', content, flags=re.IGNORECASE)
+    content = re.sub(r'\([^)]*(?:Text|Ref|Syllabus|Module)[^)]*\)', '', content, flags=re.IGNORECASE)
+    
+    # Fallback/specific textbook patterns
     content = re.sub(r'\[Text\s*[-:]?\s*\d*:?[^\]]*\]', '', content)
     content = re.sub(r'\(Text\s*[-:]?\s*\d*:?[^\)]*\)', '', content)
-    # Remove trailing textbook/reference lines
     content = re.sub(r'Text\s*(?:Books?|book)\s*:.*$', '', content, flags=re.IGNORECASE | re.DOTALL)
     content = re.sub(r'Reference\s*(?:Books?|book)\s*:.*$', '', content, flags=re.IGNORECASE | re.DOTALL)
+    
+    # Replace colons (subheaders) with commas so they split into separate topics
+    content = re.sub(r':\s+', ', ', content)
     
     # Normalize contact hours: (3 hours), (1 hour), (3 hours), 1 hour, 3 hrs etc
     content = re.sub(r'\(\s*\d+\s*(?:hour|hr)s?\s*\)', '', content, flags=re.IGNORECASE)
@@ -160,8 +166,8 @@ def extract_topics_regex(content):
     content = protect_abbreviations(content)
 
     # Check if there is an introductory part (e.g. "Applied Probability: Basics...")
-    # If a colon exists and is followed by space and not a digit, split off the prefix
-    colon_match = re.search(r'^([^:]+):\s+([A-Z].*)$', content)
+    # If a colon exists and is preceded by a short alphanumeric prefix of <= 30 chars, split it.
+    colon_match = re.search(r'^([a-zA-Z0-9\s-]{1,30}):\s+([A-Z].*)$', content)
     if colon_match:
         content = colon_match.group(2).strip()
 

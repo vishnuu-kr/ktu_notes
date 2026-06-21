@@ -2,9 +2,11 @@
   {
     "module": "Module 1",
     "topics": [
+      "Digital Image Fundamentals",
       "Steps in Digital Image Processing - Components - Elements of Visual Perception - simple image formation model. Relationships between pixels - Colour image fundamentals - RGB",
       "HSI models",
-      "Review of matrix theory: row and column ordering- Toeplitz",
+      "Review of matrix theory",
+      "row and column ordering- Toeplitz",
       "Circulant matrices"
     ],
     "rejected_topics": null,
@@ -13,9 +15,12 @@
   {
     "module": "Module 2",
     "topics": [
-      "Spatial domain methods: point processing- intensity transformations",
+      "Image Enhancement",
+      "Spatial domain methods",
+      "point processing- intensity transformations",
       "histogram processing. Spatial filtering- smoothing filters",
-      "sharpening filters. Frequency domain methods: low pass filtering",
+      "sharpening filters. Frequency domain methods",
+      "low pass filtering",
       "high pass filtering",
       "homomorphic filter"
     ],
@@ -25,9 +30,11 @@
   {
     "module": "Module 3",
     "topics": [
+      "Image Restoration",
       "Degradation model",
       "Unconstraint restoration and constraint restoration. Inverse filtering",
-      "Weiner filtering. Image Compression: Need for compression",
+      "Weiner filtering. Image Compression",
+      "Need for compression",
       "Basics of lossless compression and lossy compression. Concept of transform coding",
       "JPEG Image compression standard"
     ],
@@ -37,6 +44,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Image segmentation",
       "Classification of Image segmentation techniques",
       "Region approach - Region Growing",
       "Region Split & Merge. Segmentation based on thresholding. Edge based segmentation-edge detection",

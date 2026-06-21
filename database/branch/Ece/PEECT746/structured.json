@@ -2,8 +2,13 @@
   {
     "module": "Module 1",
     "topics": [
-      "Basic multi-rate operations: up sampling and down sampling , time domain and frequency domain analysis, Need for anti aliasing and anti imaging filters. Noble identities. Type 1 and Type 2 polyphase decomposition, Efficient structures for decimation and interpolation filters. Uniform filter banks and its implementation using polyphase decomposition. QMF Filter Bank",
-      "conditions for perfect reconstruction, polyphase implementation. Design of perfect reconstruction M- channel Filter Banks. Applications of multirate systems"
+      "Multi-rate system and filter banks",
+      "Basic multi-rate operations",
+      "up sampling and down sampling",
+      "time domain and frequency domain analysis",
+      "Need for anti aliasing and anti imaging filters. Noble identities. Type 1 and Type 2 polyphase decomposition",
+      "Efficient structures for decimation and interpolation filters. Uniform filter banks and its implementation using polyphase decomposition. QMF Filter Bank-conditions for perfect reconstruction",
+      "polyphase implementation. Design of perfect reconstruction M- channel Filter Banks. Applications of multirate systems"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -11,7 +16,7 @@
   {
     "module": "Module 2",
     "topics": [
-      "Time Frequency Trade off in signal analysis, Heisenberg's uncertainty principle. Short Time Fourier transform",
+      "Wavelet transform, Time Frequency Trade off in signal analysis, Heisenberg's uncertainty principle. Short Time Fourier transform",
       "Filter Bank representation. Continuous Wavelet Transform",
       "Admissibility condition. Time-frequency diagrams for the STFT and the wavelet transform Discrete Wavelet Transform",
       "Haar Scaling and Wavelet Functions, Haar analysis of signals, concept of nested space. Orthonormal Wavelet Analysis",

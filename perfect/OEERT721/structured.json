@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to sensor based measurement systems",
             "General concepts and terminology",
             "sensor classification",
             "Primary Sensors",
@@ -18,10 +19,12 @@
     {
         "module": "Module 2",
         "topics": [
+            "Principles of Measurement",
             "Static Characteristics",
             "Error in Measurement",
             "Types of Static Error. Multirange Ammeters",
-            "Multirange voltmeter. Digital Voltmeter: Ramp Technique",
+            "Multirange voltmeter. Digital Voltmeter",
+            "Ramp Technique",
             "Dual slope integrating Type DVM",
             "Direct Compensation type and Successive Approximations type DVM"
         ],
@@ -31,8 +34,11 @@
     {
         "module": "Module 3",
         "topics": [
+            "Digital Multimeter",
             "Digital Frequency Meter and Digital Measurement of Time",
-            "Function Generator. Bridges: Measurement of resistance: Wheatstone's Bridge",
+            "Function Generator. Bridges",
+            "Measurement of resistance",
+            "Wheatstone's Bridge",
             "AC Bridges - Capacitance and Inductance Comparison bridge",
             "Wien's bridge"
         ],
@@ -42,6 +48,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Transducers",
             "Introduction",
             "Electrical Transducer",
             "Resistive Transducer",

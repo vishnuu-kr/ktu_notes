@@ -2,10 +2,12 @@
   {
     "module": "Module 1",
     "topics": [
-      "Introduction to Bioinformatics and Biological Databases Introduction to Bioinformatics: definitions",
+      "Introduction to Bioinformatics and Biological Databases Introduction to Bioinformatics",
+      "definitions",
       "historical overview",
       "applications and scope",
-      "Biology to understand the Bioinformatics - Important Biological Databases: Retrieving and analyzing data from biological databases",
+      "Biology to understand the Bioinformatics - Important Biological Databases",
+      "Retrieving and analyzing data from biological databases",
       "Genbank",
       "NCBI",
       "DDBJ",
@@ -22,16 +24,19 @@
   {
     "module": "Module 2",
     "topics": [
+      "Sequence Alignment and Phylogenetics Analysis Sequence alignment tools and algorithms",
       "Substitution matrices",
       "BLOSUM",
       "Gap penalties",
       "pairwise sequence alignment using Dynamic Needleman-Wunsch",
       "Smith-Waterman",
       "and Heuristic programming algorithms",
-      "FASTA and BLAST-Multiple sequence alignments: Common multiple alignment methods",
+      "FASTA and BLAST-Multiple sequence alignments",
+      "Common multiple alignment methods",
       "CLUSTALX",
       "identification of motifs and patterns",
-      "Hidden Markov model-Phylogenetic Analysis: Elements of phylogenetic models",
+      "Hidden Markov model-Phylogenetic Analysis",
+      "Elements of phylogenetic models",
       "Determining the substitution model tree",
       "Evaluating phylogenetic trees"
     ],
@@ -56,13 +61,15 @@
   {
     "module": "Module 4",
     "topics": [
+      "Data Analysis and Interpretation High throughput sequencing and data analysis",
       "Human Genome Project",
       "Next generation sequencing",
       "Detection of SNPs and their relevance",
       "Detection of functional sites in the DNA sequences",
       "Gene predictions",
       "Microarray data analysis",
-      "Gene expression analysis Project-Based Learning: Bioinformatics 1. In the first class before starting the first module",
+      "Gene expression analysis Project-Based Learning",
+      "Bioinformatics 1. In the first class before starting the first module",
       "direct and help the students to select a suitable topic under bioinformatics are for enhanced drug discovery process. Drug discovery",
       "bioinformatics enables the efficient analysis and interpretation of large-scale biological data",
       "facilitating target identification",

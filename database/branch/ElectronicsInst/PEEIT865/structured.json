@@ -2,6 +2,12 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to robotics Robot definition",
+      "applications",
+      "Industrial robot anatomy",
+      "robot classifications",
+      "Understanding its technical specifications",
+      "serial robots and parallel robots. Electrical Actuators and Drives",
       "DC Motors",
       "Stepper motors",
       "BLDC Motor",
@@ -16,9 +22,9 @@
   {
     "module": "Module 2",
     "topics": [
-      "Contact and non-contact sensors",
+      "Robot sensors and its interfaces Robot sensors and its interfaces, Contact and non-contact sensors",
       "position, velocity, acceleration, proximity, and force sensors. Characteristics of Sensors Grubler-Kutzbach Criterion",
-      "DOF of a Robot Manipulator. Kinematic Transformations: Homogeneous Transformation, Denavit-Hartenberg (DH) Parameters",
+      "DOF of a Robot Manipulator. Kinematic Transformations, Homogeneous Transformation, Denavit-Hartenberg (DH) Parameters",
       "Forward Kinematics.. Inverse Kinematic Model - Manipulator Workspace-Solvability-Solution techniques-Closed form solution"
     ],
     "rejected_topics": null,
@@ -29,11 +35,15 @@
     "topics": [
       "Industrial Robot Installation and Commissioning",
       "Mastering a Robot",
-      "Tool Center Point Calibration: 4-Point method",
+      "Tool Center Point Calibration",
+      "4-Point method",
       "External reference method",
-      "Orientation calibration: World frame method",
-      "Two-point method. Calibration of Industrial Robot system: External fixed tool",
-      "Workpiece calibration: Direct and Indirect"
+      "Orientation calibration",
+      "World frame method",
+      "Two-point method. Calibration of Industrial Robot system",
+      "External fixed tool",
+      "Workpiece calibration",
+      "Direct and Indirect"
     ],
     "rejected_topics": null,
     "status": "verified"

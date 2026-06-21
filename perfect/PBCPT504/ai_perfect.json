@@ -2,15 +2,16 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Real Time Signal Processing",
             "Basic Elements of Real-Time Signal Processing Systems",
             "Analog Interface - Sampling",
             "Quantization and Encoding",
             "Smoothing Filters",
             "Data Converters",
-            "DSP Hardware and DSP Hardware Options",
+            "DSP Hardware - DSP Hardware Options",
             "Digital Signal Processors",
             "Fixed Point and Floating Point Processors",
-            "Real-Time Constraints",
+            "Real Time Constraints",
             "DSP System Design - Algorithm Development",
             "Selection of DSP Hardware",
             "Software Development and Tools"
@@ -21,6 +22,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Introduction to Digital Signal Processor",
             "Introduction to a Popular DSP from Texas Instruments",
             "CPU Architecture",
             "CPU Data Paths and Control",
@@ -31,7 +33,7 @@
             "Pipelining",
             "Number System (Fixed and Floating Point Format)",
             "Fixed Point Instruction Set and Addressing Modes",
-            "TMS 320C67XX CPU Simple Programming Examples Using C and Assembly"
+            "TMS 320C67XX CPU Simple Programming Examples using C and Assembly"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -39,10 +41,11 @@
     {
         "module": "Module 3",
         "topics": [
-            "FIR and IIR Digital Filter Design",
-            "Filter Design Programs Using MATLAB",
-            "Fourier Transform: DFT",
-            "FFT Programs Using MATLAB"
+            "Filter Design",
+            "FIR & IIR Digital Filter Design",
+            "Filter Design Programs using MATLAB",
+            "Fourier Transform",
+            "FFT Programs using MATLAB"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -50,13 +53,14 @@
     {
         "module": "Module 4",
         "topics": [
+            "Digital Signal Generation and Detection",
             "Sine Wave Generators - Lookup Table Method",
             "Linear Chirp Signal",
             "Noise Generators - Linear Congruential Sequence Generator",
             "Pseudo Random Binary Sequence Generator",
             "White Colour and Gaussian Noise",
             "DTMF Generation and Detection - DTMF Generator and Detector",
-            "Project Based Learning: The objective of project based learning is to strengthen the understanding of students' fundamentals through effective application of theoretical concepts. Projects can help to boost students' skills and widen the horizon of their thinking. The ultimate aim of an engineering student is to resolve a problem by applying theoretical knowledge. In the beginning, students shall be given an awareness and/or guideline on how to implement and learn this course through a project and form groups in the first few weeks. Each group should identify a project that can be done to understand a part of the contents of this course and perform a literature survey. Choose a suitable platform for your application and the input output devices to be interfaced. Develop the block diagram and present before the jury within first month after the commencement of classes. Implement necessary hardware and software to develop the prototype. Prepare a report and present before the jury for final evaluation"
+            "Project Based Learning"
         ],
         "rejected_topics": null,
         "status": "verified"

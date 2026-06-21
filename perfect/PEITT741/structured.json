@@ -2,18 +2,22 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Natural Language Understanding",
             "Applications",
             "Levels of NLP",
             "Basic Text Processing",
             "Empirical Laws",
-            "Minimum Edit Distance. N-gram Language Models: N-grams",
+            "Minimum Edit Distance. N-gram Language Models",
+            "N-grams",
             "Evaluating Language Models",
             "Smoothing:Knesser-Ney Smoothing",
             "Perplexity’s Relation to Entropy. Naive Bayes",
             "Text Classification",
-            "and Sentiment: Naive Bayes Classifiers",
+            "and Sentiment",
+            "Naive Bayes Classifiers",
             "Training the Naive Bayes Classifier",
-            "Evaluation: Precision",
+            "Evaluation",
+            "Precision",
             "Recall",
             "F-measure",
             "Test sets and Cross-validation"
@@ -59,6 +63,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "NLP Applications",
             "Machine Translation",
             "Question Answering and Information Retrieval",
             "Chatbots & Dialogue Systems",

@@ -4,10 +4,7 @@
         "topics": [
             "History of Computer Networks and the Internet",
             "Types of Networks",
-            "Client-Server and Peer-to-Peer Architecture",
-            "Design Issues for the Layers: Interface, Service, and Service Primitives",
-            "Reference Models: OSI and TCP/IP",
-            "Quality of Service Metrics in Packet-Switched Networks (Throughput, Delay, Packet Loss, and Jitter)"
+            "Client-Server and Peer-to-Peer Architecture; Design Issues for the Layers - Interface & Service - Service Primitives; Reference Models - OSI and TCP/IP; Quality of Service Metrics - Throughput, Delay, Packet Loss, and Jitter in Packet-Switched Networks"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -16,10 +13,9 @@
         "module": "Module 2",
         "topics": [
             "Physical Layer Design Issues",
-            "Media, Signal Strength and Interference; Data Encoding; Multiplexing (TDM, FDM)",
-            "Data Link Layer Design Issues",
+            "Media, Signal Strength and Interference; Data Encoding; Multiplexing (TDM, FDM); Data Link Layer Design Issues",
             "Flow Control and ARQ Techniques; Data Link Protocols",
-            "HDLC; IEEE 802 for LANs (IEEE 802.3, 802.5, 802.11); Wireless LANs"
+            "HDLC; IEEE 802 for LANs - IEEE 802.3, 802.5; Wireless LANs - 802.11"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -27,17 +23,15 @@
     {
         "module": "Module 3",
         "topics": [
-            "Networking Devices - Bridges",
-            "Routers",
-            "Gateways",
+            "Networking Devices - Bridges, Routers, Gateways",
             "Network Layer Protocols - Virtual Circuits and Datagrams",
             "Principles of Routing",
-            "Internet Protocol IPv4 CIDR",
+            "Internet Protocol - IPv4 CIDR",
             "IPv6",
             "Network Address Translation",
             "Firewalls and VPNs",
             "Routing Algorithms - Link-State and Distance Vector Routing",
-            "Routing on the Internet: RIP, OSPF, and BGP"
+            "Routing on the Internet - RIP, OSPF, and BGP"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -45,9 +39,14 @@
     {
         "module": "Module 4",
         "topics": [
-            "Installation and Configuration of the LAMP Stack",
-            "Design and Development of a Web Application Using the LAMP Stack",
-            "Deployment of the Web Application in a LAN with a Server and Clients with Distinct IP Addresses"
+            "Introduction to Transport Layer",
+            "Multiplexing and De-Multiplexing",
+            "Principles of Reliable Data Transfer - End-to-End Flow Control Mechanisms",
+            "Connection-Oriented Transport - TCP",
+            "Connectionless Transport - UDP; Application Layer Protocols - HTTP and HTTPS",
+            "SMTP and S/MIME; Peer-to-Peer File Sharing Networks",
+            "Project Topic Suggestions",
+            "Installation and Configuration of the LAMP Stack; Design and Development of a Relevant Web Application Using the LAMP Stack; Deploying the Web Application in a LAN with a Server and Clients with Distinct IP Addresses"
         ],
         "rejected_topics": null,
         "status": "verified"

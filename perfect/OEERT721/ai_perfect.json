@@ -2,12 +2,13 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Sensor Based Measurement Systems",
             "General Concepts and Terminology",
             "Sensor Classification",
             "Primary Sensors",
             "Materials for Sensors",
             "Micro Sensor Technology",
-            "Self-generating Sensors: Thermoelectric Sensors",
+            "Self-Generating Sensors - Thermoelectric Sensors",
             "Piezoelectric Sensors",
             "Pyroelectric Sensors",
             "Photovoltaic Sensors",
@@ -19,12 +20,14 @@
     {
         "module": "Module 2",
         "topics": [
+            "Principles of Measurement",
             "Static Characteristics",
             "Error in Measurement",
             "Types of Static Error",
             "Multirange Ammeters",
             "Multirange Voltmeter",
-            "Digital Voltmeter: Ramp Technique",
+            "Digital Voltmeter",
+            "Ramp Technique",
             "Dual Slope Integrating Type DVM",
             "Direct Compensation Type and Successive Approximations Type DVM"
         ],
@@ -34,9 +37,12 @@
     {
         "module": "Module 3",
         "topics": [
+            "Digital Multimeter",
             "Digital Frequency Meter and Digital Measurement of Time",
             "Function Generator",
-            "Bridges: Measurement of Resistance: Wheatstone's Bridge",
+            "Bridges",
+            "Measurement of Resistance",
+            "Wheatstone's Bridge",
             "AC Bridges - Capacitance and Inductance Comparison Bridge",
             "Wien's Bridge"
         ],
@@ -46,6 +52,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Transducers",
             "Introduction",
             "Electrical Transducer",
             "Resistive Transducer",
@@ -54,8 +61,8 @@
             "Resistance Thermometer",
             "Thermistor",
             "LVDT",
-            "Instrumentation Amplifier Using Transducer Bridge",
-            "Temperature Indicators Using Thermometer"
+            "Instrumentation Amplifier using Transducer Bridge",
+            "Temperature Indicators using Thermometer"
         ],
         "rejected_topics": null,
         "status": "verified"

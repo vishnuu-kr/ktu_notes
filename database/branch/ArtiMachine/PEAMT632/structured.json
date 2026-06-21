@@ -2,11 +2,14 @@
   {
     "module": "Module 1",
     "topics": [
+      "Overview of the Internet",
+      "Protocol layering (Book 1 Ch 1) Application Layer",
       "Application-Layer Paradigms",
       "Client-server applications -World Wide Web and HTTP",
       "FTP. Electronic Mail",
       "DNS. Peer-to-peer paradigm - P2P Networks",
-      "Case study: BitTorrent (Book 1 Ch 2"
+      "Case study",
+      "BitTorrent (Book 1 Ch 2"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -14,9 +17,11 @@
   {
     "module": "Module 2",
     "topics": [
+      "Transport Layer",
       "Services",
       "Protocols",
-      "TCP (Book 1 Ch 3). Network Layer: Introduction",
+      "TCP (Book 1 Ch 3). Network Layer",
+      "Introduction",
       "Network-layer protocols",
       "Unicast routing",
       "Multicast routing - Multicasting Basics",
@@ -30,6 +35,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Data-Link Layer",
       "Data link control (DLC",
       "Multiple access protocols (MAC",
       "Link-layer addressing",
@@ -43,6 +49,8 @@
   {
     "module": "Module 4",
     "topics": [
+      "SNMP",
+      "ASN.1 (Book 1 Ch 9) Physical Layer",
       "Data and signals",
       "Digital transmission",
       "Analog transmission",

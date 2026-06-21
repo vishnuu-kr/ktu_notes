@@ -2,7 +2,9 @@
     {
         "module": "Module 1",
         "topics": [
-            "Energy Scenario: India and world",
+            "Introduction",
+            "Energy Scenario",
+            "India and world",
             "Basic concepts related to solar radiation",
             "the sun",
             "spectral distribution",
@@ -27,6 +29,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Solar collectors",
             "Flat plate collector",
             "thermal analysis",
             "heat removal factor. Overview of other thermal collectors. Concentrating collectors",
@@ -45,9 +48,9 @@
     {
         "module": "Module 3",
         "topics": [
-            "Principles and performance analysis, Photovoltaic materials, Modules, Array, Maximum Power Point Tracking (MPPT) etc",
-            "standalone PV system: Components and design of standalone system, fundamentals of battery system",
-            "grid connected PV system: components and design of grid connected PV systems"
+            "Non-thermal routes for solar energy conversion, Basics of photovoltaic effect, Fundamentals of PV, Principles and performance analysis, Photovoltaic materials, Modules, Array, Maximum Power Point Tracking (MPPT) etc",
+            "standalone PV system, Components and design of standalone system, fundamentals of battery system",
+            "grid connected PV system, components and design of grid connected PV systems"
         ],
         "rejected_topics": null,
         "status": "verified"

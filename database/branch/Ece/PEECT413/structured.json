@@ -2,7 +2,8 @@
   {
     "module": "Module 1",
     "topics": [
-      "Review: supervised",
+      "Review",
+      "supervised",
       "unsupervised machine learning techniques",
       "dimensionality reduction techniques-PCA",
       "SVD Instance-Based vs Model-Based Learning",
@@ -10,12 +11,14 @@
       "Hyper parameters",
       "regularization",
       "Training - Batch and Online Learning",
-      "Challenges of Machine Learning: Data Issues-Quality",
+      "Challenges of Machine Learning",
+      "Data Issues-Quality",
       "Relevancy",
       "Over fitting",
       "under fitting. Bias",
       "variance",
-      "Performance metrics: Accuracy Recall",
+      "Performance metrics",
+      "Accuracy Recall",
       "Precision",
       "ROC curve"
     ],
@@ -25,12 +28,15 @@
   {
     "module": "Module 2",
     "topics": [
-      "Regression: linear regression",
+      "Regression",
+      "linear regression",
       "logistic regression error functions in regression",
-      "Cross entropy multivariate regression. Classification: Naive Bayes classifier",
+      "Cross entropy multivariate regression. Classification",
+      "Naive Bayes classifier",
       "Support Vector machines",
       "Decision trees -random forests",
-      "Ensemble methods: boosting",
+      "Ensemble methods",
+      "boosting",
       "bagging"
     ],
     "rejected_topics": null,
@@ -39,6 +45,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Unsupervised learning",
       "Clustering-K-means",
       "High",
       "Hierarchical clustering",
@@ -47,7 +54,8 @@
       "Euclidean",
       "Manhattan",
       "Minkowski Distances",
-      "Cosine Similarity. Reinforcement Learning: Agent based learning",
+      "Cosine Similarity. Reinforcement Learning",
+      "Agent based learning",
       "Q-learning",
       "Introduction to HMM models"
     ],
@@ -57,6 +65,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Introduction to Artificial Neural Networks",
       "Biological Neuron",
       "Perceptron",
       "Training",

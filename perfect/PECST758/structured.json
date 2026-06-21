@@ -2,8 +2,9 @@
     {
         "module": "Module 1",
         "topics": [
-            "An Object-Oriented Extension of C, Python: A General-Purpose Scripting Language",
-            "Syntax and Analysis Parsing: Lexical Structure of Programming Languages, Context-Free Grammars and BNFs, Parse Trees and Abstract Syntax Trees, Ambiguity, Associativity, and Precedence, EBNFs and Syntax Diagrams, Parsing Techniques and Tools, Lexics vs. Syntax vs. Semantics, Case Study: Building a Syntax Analyzer for TinyAda"
+            "Introduction - The Origins of Programming Languages, Abstractions in Programming Languages, Computational Paradigms, Language Definition, Language Translation, The Future of Programming Languages",
+            "Language Design Criteria - Historical Overview, Efficiency, Regularity, Security, Extensibility, C++, An Object-Oriented Extension of C, Python, A General-Purpose Scripting Language",
+            "Syntax and Analysis Parsing, Lexical Structure of Programming Languages, Context-Free Grammars and BNFs, Parse Trees and Abstract Syntax Trees, Ambiguity, Associativity, and Precedence, EBNFs and Syntax Diagrams, Parsing Techniques and Tools, Lexics vs. Syntax vs. Semantics, Case Study, Building a Syntax Analyzer for TinyAda"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -11,6 +12,22 @@
     {
         "module": "Module 2",
         "topics": [
+            "Basic Semantics- Attributes",
+            "Binding",
+            "and Semantic Functions",
+            "Declarations",
+            "Blocks",
+            "and Scope",
+            "The Symbol Table",
+            "Name Resolution and Overloading",
+            "Allocation",
+            "Lifetimes",
+            "and the Environment",
+            "Variables and Constants",
+            "Aliases",
+            "Dangling References",
+            "and Garbage",
+            "Case Study",
             "Initial Static Semantic Analysis of TinyAda. Data Types - Data Types and Type Information",
             "Simple Types",
             "Type Constructors",
@@ -20,7 +37,8 @@
             "Type Conversion",
             "Polymorphic Type Checking",
             "Explicit Polymorphism",
-            "Case Study: Type Checking in TinyAda"
+            "Case Study",
+            "Type Checking in TinyAda"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -28,6 +46,12 @@
     {
         "module": "Module 3",
         "topics": [
+            "Expressions and Statements - Expressions",
+            "Conditional Statements and Guards",
+            "Loops and Variations on WHILE",
+            "The GOTO Controversy and Loop Exits",
+            "Exception Handling",
+            "Case Study",
             "Computing the Values of Static Expressions in TinyAda. Procedures and Environments- Procedure Definition and Activation",
             "Procedure Semantics",
             "Parameter-Passing Mechanisms",
@@ -36,7 +60,8 @@
             "and Allocation",
             "Dynamic Memory Management",
             "Exception Handling and Environments",
-            "Case Study: Processing Parameter Modes in TinyAda"
+            "Case Study",
+            "Processing Parameter Modes in TinyAda"
         ],
         "rejected_topics": null,
         "status": "verified"

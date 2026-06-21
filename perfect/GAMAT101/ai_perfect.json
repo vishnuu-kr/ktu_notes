@@ -2,6 +2,10 @@
     {
         "module": "Module 1",
         "topics": [
+            "Limits of Function Values",
+            "Continuity at a Point",
+            "Continuous Functions",
+            "Rates of Change",
             "Derivative at a Point",
             "Derivative as a Function",
             "Second- and Higher-Order Derivatives",
@@ -10,12 +14,16 @@
             "Implicit Differentiation",
             "Tangents and Normal Lines",
             "Linearization",
-            "Concavity: The Second Derivative Test for Concavity"
-        ]
+            "Concavity",
+            "The Second Derivative Test for Concavity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
+            "Functions of Several Variables",
             "Domains and Ranges",
             "Level Curves of Two Variables",
             "Limits for Functions of Two Variables",
@@ -24,27 +32,43 @@
             "Partial Derivatives and Continuity",
             "Second-Order Partial Derivatives",
             "The Mixed Derivative Theorem",
-            "The Chain Rule: Functions of Two Variables"
-        ]
+            "The Chain Rule",
+            "Functions of Two Variables"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
+            "The Chain Rule",
             "Functions of Three Variables",
             "Directional Derivatives in the Plane",
             "Interpretation of the Directional Derivative",
             "Gradient",
             "Properties of the Directional Derivative",
-            "Local Extreme Values for Functions of Two Variables: Relative Extrema",
+            "Local Extreme Values for Functions of Two Variables",
+            "Relative Extrema",
             "First Derivative Theorem for Local Extreme Values",
             "Critical Point",
             "Saddle Point",
             "Second Derivative Test for Local Extreme Values",
             "Absolute Maxima and Minima on Closed Bounded Regions"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
-        "topics": []
+        "topics": [
+            "Constrained Maxima and Minima",
+            "The Method of Lagrange Multipliers with One Constraint",
+            "The Method of Lagrange Multipliers with Two Constraints",
+            "Method of Steepest Descent",
+            "LPP Formation",
+            "Solution of LPP Using Graphic Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

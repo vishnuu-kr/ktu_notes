@@ -13,11 +13,13 @@
     {
         "module": "Module 2",
         "topics": [
+            "Architecture",
             "Assembly language",
             "Instructions",
             "Operands",
             "Registers",
-            "Memory and Constants. Machine Language: R-Type",
+            "Memory and Constants. Machine Language",
+            "R-Type",
             "I-Type",
             "J-Type Instructions",
             "Interpreting machine language code. MIPS Addressing Modes-Register only",
@@ -35,7 +37,7 @@
     {
         "module": "Module 3",
         "topics": [
-            "A basic MIPS implementation",
+            "Pipelining, A basic MIPS implementation",
             "Building a Datapath",
             "Control implementation Scheme",
             "Pipelining",
@@ -49,14 +51,9 @@
     {
         "module": "Module 4",
         "topics": [
-            "Basic Concepts",
-            "Semiconductor RAM",
-            "Memory Characteristics & Hierarchy",
-            "Cache memories",
-            "improving Cache Performance",
-            "Virtual memory",
-            "input output organization",
-            "programmed I/O, Interrupt driven I/O, DMA"
+            "Memory System",
+            "Basic Concepts-Semiconductor RAM -ROM-Memory Characteristics & Hierarchy-Cache memories-improving Cache Performance-Virtual memory-input output organization - programmed I/O",
+            "Interrupt driven I/O"
         ],
         "rejected_topics": null,
         "status": "verified"

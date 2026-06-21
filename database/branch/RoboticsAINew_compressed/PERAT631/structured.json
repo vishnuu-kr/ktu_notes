@@ -2,9 +2,11 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction",
       "Basic Elements of discrete data control systems",
       "advantages of discrete data control systems",
-      "examples. Signal conversion & processing: Digital signals & coding",
+      "examples. Signal conversion & processing",
+      "Digital signals & coding",
       "data conversion & quantization",
       "sample and hold devices. Mathematical modelling of the sampling process. Zero order hold & first order Hold"
     ],
@@ -14,7 +16,7 @@
   {
     "module": "Module 2",
     "topics": [
-      "Pulse transfer function, Z transform analysis of closed loop and open loop systems- Modified z- transfer function- Steady state error analysis of digital systems- Examples on static error coefficients. Bilinear transformation",
+      "Discrete time control systems, Pulse transfer function, Z transform analysis of closed loop and open loop systems- Modified z- transfer function- Steady state error analysis of digital systems- Examples on static error coefficients. Bilinear transformation",
       "mapping from s-plane to z-plane"
     ],
     "rejected_topics": null,
@@ -23,7 +25,7 @@
   {
     "module": "Module 3",
     "topics": [
-      "Stability analysis of linear digital control systems",
+      "Analysis of digital control systems, Stability analysis of linear digital control systems",
       "Routh Hurwitz criteria, Jury’s test. Root loci of digital control systems",
       "rules for construction of root locus. Frequency domain analysis",
       "Bode plots- Gain margin and Phase margin"
@@ -34,7 +36,7 @@
   {
     "module": "Module 4",
     "topics": [
-      "State space representation of discrete time systems- Transfer function from state space model",
+      "State Space Techniques, State space representation of discrete time systems- Transfer function from state space model",
       "various canonical forms, discrete time state transition matrix",
       "conversion of transfer function model to state space model",
       "characteristics equation",

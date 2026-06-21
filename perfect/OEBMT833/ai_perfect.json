@@ -2,7 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction to Digital Image Fundamentals",
+            "Digital Image Fundamentals Introduction",
             "Origin",
             "Steps in Digital Image Processing",
             "Components",
@@ -18,9 +18,13 @@
     {
         "module": "Module 2",
         "topics": [
-            "Image Transforms: 1D-DFT and 2D-DFT",
+            "Image Transforms - 1D-DFT",
+            "2D-DFT",
             "Two-Dimensional Orthogonal and Unitary Transforms",
-            "Cosine, Sine, Hadamard, Haar and Their Properties"
+            "Cosine",
+            "Sine",
+            "Hadamard",
+            "Haar and Their Properties"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -28,13 +32,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "Gray Level Transformations",
-            "Histogram Processing",
-            "Basics of Spatial Filtering",
-            "Smoothing and Sharpening Spatial Filtering",
-            "Frequency Domain: Introduction to Fourier Transform",
-            "Smoothing and Sharpening Frequency Domain Filters",
-            "Ideal, Butterworth and Gaussian Filters",
+            "Image Enhancement - Spatial Domain",
+            "Gray Level Transformations - Histogram Processing - Basics of Spatial Filtering - Smoothing and Sharpening Spatial Filtering - Frequency Domain",
+            "Introduction to Fourier Transform - Smoothing and Sharpening Frequency Domain Filters - Ideal",
+            "Butterworth and Gaussian Filters",
             "Application of Filtering in Medical Images"
         ],
         "rejected_topics": null,
@@ -43,11 +44,10 @@
     {
         "module": "Module 4",
         "topics": [
-            "Segmentation and Representation: Detection of Discontinuities",
+            "Segmentation and Representation - Detection of Discontinuities",
             "Edge Linking and Boundary Detection",
             "Region-Based Segmentation",
-            "Morphological Processing: Erosion and Dilation",
-            "Application of Edge Detection",
+            "Morphological Processing - Erosion and Dilation, Application of Edge Detection",
             "Boundary Representation",
             "Chain Code"
         ],

@@ -27,7 +27,9 @@
         "module": "Module 3",
         "topics": [
             "Quantum Algorithms",
-            "Simple Quantum Algorithms, Quantum Integral Transforms, Grover’s Search Algorithm and Shor’s Factorization Algorithm"
+            "Simple Quantum Algorithms",
+            "Quantum Integral Transforms",
+            "Grover’s Search Algorithm and Shor’s Factorization Algorithm"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -35,7 +37,8 @@
     {
         "module": "Module 4",
         "topics": [
-            "Quantum Communication: -Von Neumann entropy",
+            "Quantum Communication",
+            "Von Neumann entropy",
             "Holevo Bound",
             "Data compression",
             "Classical information over noisy quantum channels",

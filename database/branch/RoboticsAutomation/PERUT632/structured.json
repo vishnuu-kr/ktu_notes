@@ -2,9 +2,11 @@
   {
     "module": "Module 1",
     "topics": [
+      "Introduction to Advanced Industrial Automation- Automation Hierarchy",
       "Field",
       "Control",
-      "and Supervisory Levels. Sensors and Actuators: Types of Sensors",
+      "and Supervisory Levels. Sensors and Actuators",
+      "Types of Sensors",
       "Signal Conditioning",
       "Types of Actuators. Communication Protocols in Automation Safety in Automation Systems",
       "Data Acquisition and Monitoring. Human-Machine Interface (HMI). Communication Protocols in Automation",
@@ -18,8 +20,12 @@
   {
     "module": "Module 2",
     "topics": [
-      "Feedforward Control, Cascade Control, Model Predictive Control (MPC",
-      "Case Studies and Applications"
+      "Advanced Control Systems- Control System Fundamentals Open-loop vs Closed-Loop Control",
+      "PID Control PID Tuning Methods. Distributed Control Systems (DCS",
+      "Supervisory Control and Data Acquisition (SCADA) Advanced Control Strategies",
+      "Feedforward Control",
+      "Cascade Control",
+      "Model Predictive Control (MPC). Case Studies and Applications"
     ],
     "rejected_topics": null,
     "status": "verified"
@@ -27,6 +33,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Advanced PLC Programming and Applications",
       "Advanced PLC Programming Techniques",
       "Timers",
       "Counters",

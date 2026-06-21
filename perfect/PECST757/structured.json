@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Modern processors",
             "Stored-program computer architecture- General-purpose cache-based microprocessor architecture - Performance metrics and benchmarks -Moore’s Law - Pipelining - Super scalarity - SIMD -Memory hierarchies - Cache",
             "Cache mapping",
             "Prefetch",
@@ -30,7 +31,8 @@
             "Loop scheduling",
             "Tasking",
             "Miscellaneous",
-            "Case study: OpenMP-parallel Jacobi algorithm"
+            "Case study",
+            "OpenMP-parallel Jacobi algorithm"
         ],
         "rejected_topics": null,
         "status": "verified"

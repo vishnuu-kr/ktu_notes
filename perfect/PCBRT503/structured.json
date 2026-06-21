@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Power electronic devices",
             "Power diodes",
             "Power transistors",
             "MOSFETS and IGBTs. Structure",
@@ -9,7 +10,8 @@
             "Regions of operations",
             "switching characteristics turn ON and turn OFF switching waveforms",
             "Safe operating area",
-            "Paralleling of transistors. Thyristor family: SCRs",
+            "Paralleling of transistors. Thyristor family",
+            "SCRs",
             "DIAC",
             "TRIAC and GTOs. V I characteristics of SCR. Application of power devices in renewable energy systems and Electric vehicles"
         ],
@@ -19,10 +21,12 @@
     {
         "module": "Module 2",
         "topics": [
+            "AC-DC converters",
             "Single phase-controlled rectifiers - half wave",
             "full-wave",
             "half-controlled and fully controlled - typical waveforms with R",
-            "RL with diode and RL with voltage source - voltage and current equation for half-wave-controlled rectifier. DC-DC converters: Basic chopper operation using semiconductor switches",
+            "RL with diode and RL with voltage source - voltage and current equation for half-wave-controlled rectifier. DC-DC converters",
+            "Basic chopper operation using semiconductor switches",
             "Buck",
             "Boost and Buck-Boost converters Three POWER ELECTRONICS & APPLICATIONS phase half-wave and full-wave controlled rectifier with R load",
             "waveforms"
@@ -50,11 +54,13 @@
     {
         "module": "Module 4",
         "topics": [
+            "Power electronic systems",
             "Solar power plants",
             "ON grid and OFF grid types",
             "Traction control in EVs",
             "Forward motoring and generating modes",
-            "PWM control techniques: voltage mode",
+            "PWM control techniques",
+            "voltage mode",
             "current mode and gated oscillator controls",
             "Closed loop responses and stabilization. Gated river circuits",
             "Isolated and non-isolated"

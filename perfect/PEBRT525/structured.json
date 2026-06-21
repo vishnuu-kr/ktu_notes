@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction and Problem solving",
             "History",
             "state of the art",
             "Need for AI in Robotics. Thinking and acting humanly",
@@ -14,7 +15,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Knowledge representation, first order logic. Planning with forward and backward State space search",
+            "Knowledge representation and Planning, Knowledge representation, first order logic. Planning with forward and backward State space search",
             "Partial order planning",
             "Planning graphs",
             "Planning with propositional logic",
@@ -26,7 +27,7 @@
     {
         "module": "Module 3",
         "topics": [
-            "Uncertainty - Probabilistic reasoning, Dynamic Bayesian Networks",
+            "Reasoning and Decision making, Uncertainty - Probabilistic reasoning, Dynamic Bayesian Networks",
             "Basis of utility theory, decision theory, sequential decision problems"
         ],
         "rejected_topics": null,
@@ -35,6 +36,11 @@
     {
         "module": "Module 4",
         "topics": [
+            "Forms of learning - Knowledge in learning - Statistical learning methods - reinforcement learning",
+            "communication",
+            "perceiving and acting",
+            "Probabilistic language processing",
+            "and perception. AI In Robotics and Applications",
             "Robotic perception",
             "localization",
             "mapping- configuring space",

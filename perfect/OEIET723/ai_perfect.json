@@ -2,66 +2,81 @@
     {
         "module": "Module 1",
         "topics": [
-            "Objectives and Scope of POM",
-            "Historical Evolution and Perspectives",
-            "Operations Strategy and Productivity",
-            "Relationship with Other Functional Areas",
-            "Manufacturing vs Service Sectors",
-            "Operations Decision Making",
-            "Phases in Product Design and Development",
-            "Product Life Cycle Management",
-            "Process Selection",
-            "Sustainability in Operations"
-        ]
+            "Introduction to production and operations management (POM)",
+            "Objectives and scope of POM",
+            "Historical evolution and perspectives",
+            "Operations strategy and productivity",
+            "Relationship with other functional areas",
+            "Manufacturing vs service sectors",
+            "Operations decision making",
+            "Phases in product design and development",
+            "Product life cycle management",
+            "Process selection",
+            "Sustainability in operations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
         "topics": [
-            "Need for Forecasting and Determinants of Demand",
-            "Forecasting Methods - Qualitative Methods - Delphi Technique",
-            "Market Research",
-            "Nominal Group Technique",
-            "Quantitative Methods - Moving Average",
-            "Exponential Smoothing",
-            "Regression Analysis",
-            "Winter's Model",
-            "Analysis of Forecast Errors",
-            "Aggregate Planning: Managerial Inputs",
-            "Pure and Mixed Strategies",
-            "Mathematical Models - Transportation Method",
-            "Linear Programming",
-            "Linear Decision Rules"
-        ]
+            "Forecasting for operations management",
+            "Need for forecasting and determinants of demand",
+            "Forecasting methods - qualitative methods - Delphi technique",
+            "Market research",
+            "Nominal group technique",
+            "Quantitative methods - Moving average",
+            "Exponential smoothing",
+            "Regression analysis",
+            "Winter's model",
+            "Analysis of forecast errors",
+            "Aggregate planning",
+            "Managerial inputs",
+            "Pure and mixed strategies",
+            "Mathematical models - Transportation method",
+            "Linear programming",
+            "Linear decision rules"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
-            "Master Production Schedule (MPS) - Development and Implementation",
-            "Material Requirement Planning (MRP) and MRP-II",
-            "Enterprise Resource Planning (ERP)",
-            "Capacity Management: Capacity Measures and Influencing Factors",
-            "Long-Term vs Short-Term Capacity Planning",
-            "Systematic Capacity Planning Approach",
-            "Tools and Techniques for Capacity Management",
-            "Capacity Requirement Planning (CRP)",
-            "Business Process Outsourcing (BPO)"
-        ]
+            "Material requirement planning",
+            "Master production schedule (MPS) - development and implementation",
+            "Material requirement planning (MRP) and MRP-II",
+            "Enterprise resource planning (ERP)",
+            "Capacity management",
+            "Capacity measures and influencing factors",
+            "Long-term vs short-term capacity planning",
+            "Systematic capacity planning approach",
+            "Tools and techniques for capacity management",
+            "Capacity requirement planning (CRP)",
+            "Business process outsourcing (BPO)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
         "topics": [
+            "Production activity control (PAC)",
             "Objectives of PAC",
-            "Scheduling Techniques",
-            "Job Shop Production",
-            "Activity Planning",
-            "Shop Loading",
-            "Sequencing and Dispatching Rules",
-            "Modern Production Systems: Just-in-Time (JIT) and Kanban Systems",
-            "Lean Manufacturing",
-            "Kaizen and Continuous Improvement",
-            "Toyota Production System (TPS)",
-            "Business Process Re-engineering",
-            "World Class Manufacturing Concepts"
-        ]
+            "Scheduling techniques",
+            "Job shop production",
+            "Activity planning",
+            "Shop loading",
+            "Sequencing and dispatching rules",
+            "Modern production systems",
+            "Just-in-time (JIT) and kanban systems",
+            "Lean manufacturing",
+            "Kaizen and continuous improvement",
+            "Toyota production system (TPS)",
+            "Business process re-engineering",
+            "World class manufacturing concepts"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

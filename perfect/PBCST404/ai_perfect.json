@@ -2,10 +2,14 @@
     {
         "module": "Module 1",
         "topics": [
-            "Basic Structure of Computers: Functional Units, Basic Operational Concepts",
-            "Memory Map",
-            "Endianness, CISC vs RISC Architectures: RISC Introduction, Assembly Language, Assembler Directives, Assembling, Programming Concepts - Program Flow, Branching, Conditional Statements, Loops, Arrays, Function Calls",
-            "Instruction Execution Cycle, Machine Language - Instructions, Addressing Modes, Stored Program Concept, Evolution of the RISC Architecture"
+            "Basic Structure of Computers: Functional Units and Basic Operational Concepts",
+            "Memory Map and Endianness",
+            "CISC vs RISC Architectures and RISC Introduction",
+            "Assembly Language: Assembler Directives and Assembling",
+            "Programming Concepts: Program Flow, Branching, Conditional Statements, Loops, Arrays, and Function Calls",
+            "Instruction Execution Cycle",
+            "Machine Language: Instructions, Addressing Modes, and Stored Program Concept",
+            "Evolution of the RISC Architecture"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -13,7 +17,10 @@
     {
         "module": "Module 2",
         "topics": [
-            "Hazards, Solving Data/Control Hazards, Performance Analysis"
+            "Microarchitecture: Introduction",
+            "Performance Analysis",
+            "Single-Cycle Processor: Datapath and Control",
+            "Pipelined Processor: Datapath, Control, Hazards, and Performance Analysis"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -21,9 +28,9 @@
     {
         "module": "Module 3",
         "topics": [
-            "Introduction",
+            "Memory Systems: Introduction",
             "Performance Analysis",
-            "Caches: Basic Concepts, Cache Mapping, Cache Replacement, Multiple-Level Caches, Reducing Miss Rate, Write Policy",
+            "Caches: Basic Concepts, Mapping, Replacement, Multiple-Level Caches, Miss Rate Reduction, and Write Policy",
             "Virtual Memory: Address Translation",
             "Page Table",
             "Translation Lookaside Buffer",
@@ -37,10 +44,10 @@
         "topics": [
             "Input/Output: External Devices",
             "I/O Modules",
-            "Programmed I/O, Interrupt Driven I/O",
+            "Programmed I/O and Interrupt-Driven I/O",
             "Direct Memory Access",
-            "Embedded I/O Systems: Embedded I/O, General Purpose I/O, Serial I/O, Other Peripherals",
-            "Suggestion on Project Topics: Use Simulators Such as Ripes (https://github.com/mortbopet/Ripes) / GEM5 (https://www.gem5.org/) to Implement Components of Computer Systems Such as Various Cache Organization and Study the Effect, Solutions to Hazards, TLBs"
+            "Embedded I/O Systems: Embedded I/O, General Purpose I/O, Serial I/O, and Other Peripherals",
+            "Project Topics: Use Simulators Such as Ripes (https://github.com/mortbopet/Ripes) and GEM5 (https://www.gem5.org/) to Implement Components of Computer Systems Such as Various Cache Organizations, Solutions to Hazards, TLBs"
         ],
         "rejected_topics": null,
         "status": "verified"

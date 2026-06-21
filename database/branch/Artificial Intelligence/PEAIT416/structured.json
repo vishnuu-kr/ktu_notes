@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Basics of Computer graphics and Algorithms",
       "Basics of Computer Graphics and its applications. Video Display devices- Refresh Cathode Ray Tubes",
       "Random Scan Displays and systems",
       "Raster scan displays and systems. Line drawing algorithms- DDA",
@@ -14,6 +15,7 @@
   {
     "module": "Module 2",
     "topics": [
+      "Filled Area Primitives and transformations",
       "Filled Area Primitives-Scan line polygon filling",
       "Boundary filling and flood filling. Two dimensional transformations-Translation",
       "Rotation",
@@ -28,7 +30,7 @@
   {
     "module": "Module 3",
     "topics": [
-      "Window to viewport transformation. Cohen Sutherland Line clipping algorithm. Sutherland Hodgeman Polygon clipping algorithm. Three dimensional viewing pipeline. Projections",
+      "Clipping and Projections , Window to viewport transformation. Cohen Sutherland Line clipping algorithm. Sutherland Hodgeman Polygon clipping algorithm. Three dimensional viewing pipeline. Projections",
       "Parallel and Perspective projections. Visible surface detection algorithms",
       "Depth buffer algorithm, Scan line algorithm"
     ],

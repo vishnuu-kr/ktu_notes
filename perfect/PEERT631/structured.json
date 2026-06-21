@@ -2,7 +2,8 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction to Electrical Circuits Circuit concept - Types of elements - source transformation-voltage - current relationship for passive elements. Network reduction techniques: series",
+            "Introduction to Electrical Circuits Circuit concept - Types of elements - source transformation-voltage - current relationship for passive elements. Network reduction techniques",
+            "series",
             "parallel",
             "series parallel",
             "examples",
@@ -49,6 +50,11 @@
     {
         "module": "Module 4",
         "topics": [
+            "Stability of linear control systems Concept of stability",
+            "methods of determining stability",
+            "Routh’s Hurwitz criterion",
+            "Root locus - construction of root locus",
+            "effect of addition of poles and zeros on root locus. Frequency response analysis",
             "Frequency domain specifications",
             "stability from Bode plots",
             "relative stability",

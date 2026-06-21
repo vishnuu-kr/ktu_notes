@@ -2,7 +2,11 @@
   {
     "module": "Module 1",
     "topics": [
-      "Microcontroller Architecture: IO Port structure",
+      "Introduction to Microprocessors and Microcontrollers-comparison of microprocessors and microcontrollers-Introduction to Embedded Systems-Application domain of embedded systems",
+      "features and characteristics",
+      "hard and soft real time systems 8051-Microcontrollers Hardware",
+      "Microcontroller Architecture",
+      "IO Port structure",
       "Register organization",
       "general purpose RAM",
       "Bit Addressable RAM",
@@ -14,11 +18,14 @@
   {
     "module": "Module 2",
     "topics": [
+      "Assembly programming of 8051",
       "Introduction to8051 assembly programming",
       "Data types and Assembler directives",
       "8051 Addressing Modes",
-      "simple Assembly language programs(data transfer and arithmetic operations only) 8051 programming in C: Data types and time delay in 8051",
-      "I/O programming in 8051 8051 Timer/Counter programming in embedded C: Programming 8051 timers",
+      "simple Assembly language programs(data transfer and arithmetic operations only) 8051 programming in C",
+      "Data types and time delay in 8051",
+      "I/O programming in 8051 8051 Timer/Counter programming in embedded C",
+      "Programming 8051 timers",
       "Counter programming"
     ],
     "rejected_topics": null,
@@ -27,13 +34,16 @@
   {
     "module": "Module 3",
     "topics": [
+      "8051 serial port programming in embedded C",
       "Basics of serial communication",
       "8051 connections to RS232",
-      "serial port programming in 8051. 8051 Interrupt programming in embedded C: 8051 interrupts",
+      "serial port programming in 8051. 8051 Interrupt programming in embedded C",
+      "8051 interrupts",
       "external hardware and serial communication interrupt",
       "Interrupt priority in 8051",
-      "Interrupt programming in C. Interfacing: LCD",
-      "ADC & DAC. Motor control: Relays and",
+      "Interrupt programming in C. Interfacing",
+      "ADC & DAC. Motor control",
+      "Relays and",
       "stepper motor interfacing",
       "DC motor interfacing and PWM using 8051"
     ],

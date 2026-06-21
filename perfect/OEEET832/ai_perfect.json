@@ -2,8 +2,16 @@
     {
         "module": "Module 1",
         "topics": [
-            "Introduction, Evolution, Relay vs PLC vs Computer"
-        ]
+            "Introduction to Computer Based Control System - Role of Computers in Measurement and Process Control, Basic Components of Computer Based Measurement and Control Systems, Architecture - Computer Based Process Control System - Centralised",
+            "Distributed and Hierarchical, Human Machine Interface (HMI), Hardware for Computer Based Process Control System",
+            "Interfacing Computer System with Process, Architecture of DDC",
+            "SCADA and DCS, Programmable Logic Controller (PLC)",
+            "Introduction",
+            "Evolution",
+            "Relay vs PLC vs Computer"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 2",
@@ -12,21 +20,25 @@
             "On/Off Instructions",
             "Internal Relay",
             "Jump Instructions",
-            "Data Handling Instruction",
+            "Data Handling Instructions",
             "Data Manipulation Instructions",
             "Arithmetic and Comparison",
             "PID and Other Important Instructions"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 3",
         "topics": [
-            "Timers and Counters in PLC: Problems, Design, Development, and Simulation of PLC Programs for Temperature Control and Valve Sequencing",
+            "Timers and Counters in PLC, Problems, Design Development and Simulation of PLC Programme, Program on Temperature Control, Valve Sequencing",
             "Conveyor Belt Control and Control of a Process, PLC Installation",
-            "Trouble Shooting and Maintenance",
+            "Troubleshooting and Maintenance",
             "Design of Alarms and Interlocks",
-            "Networks of PLC: Distributed Control System (DCS) - Evolution, Various Architectures, Comparison, Local Control Unit"
-        ]
+            "Networks of PLC, Distributed Control System (DCS), Evolution, Various Architectures, Comparison, Local Control Unit"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     },
     {
         "module": "Module 4",
@@ -36,6 +48,8 @@
             "Factors to be Considered in Selecting DCS",
             "Other Key Issues in DCS",
             "Packaging and Power System Issues"
-        ]
+        ],
+        "rejected_topics": null,
+        "status": "verified"
     }
 ]

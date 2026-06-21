@@ -2,15 +2,10 @@
     {
         "module": "Module 1",
         "topics": [
-            "Static and dynamic stability",
-            "Degrees of freedom",
-            "Coordinate systems and Frames of Reference",
-            "Matrix notation",
-            "Mapping from one frame to another",
-            "Concatenation of Transformations Kinematics: Forward Kinematics",
-            "The Denavit-Hartenberg notation -Inverse Kinematics",
-            "Differential Kinematics",
-            "Inverse Differential Kinematics"
+            "Locomotion",
+            "manipulation and their representation",
+            "Static and dynamic stability - Degrees of freedom - Coordinate systems and Frames of Reference - Matrix notation - Mapping from one frame to another - Concatenation of Transformations Kinematics",
+            "Forward Kinematics - The Denavit-Hartenberg notation -Inverse Kinematics - - Differential Kinematics - Inverse Differential Kinematics"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -18,12 +13,16 @@
     {
         "module": "Module 2",
         "topics": [
+            "Forces",
             "Statics - Kineto- Static Duality - Manipulability Ellipsoid in Velocity Space",
             "Force Space",
-            "Manipulability considerations Grasping: The theory of grasping - Simple Grasping Mechanisms - 1-DoF scissor like gripper",
+            "Manipulability considerations Grasping",
+            "The theory of grasping - Simple Grasping Mechanisms - 1-DoF scissor like gripper",
             "Parallel Jaw",
             "4-bar linkage parallel gripper",
-            "Multi-fingered hands Actuators: Electric Motors - Hydraulic and pneumatic actuators - Safety Considerations Sensors: Terminology - Sensors that measure the robot’s joint configuration - sensors that measure ego-motion",
+            "Multi-fingered hands Actuators",
+            "Electric Motors - Hydraulic and pneumatic actuators - Safety Considerations Sensors",
+            "Terminology - Sensors that measure the robot’s joint configuration - sensors that measure ego-motion",
             "measuring force - Sensors to measure distance - Sensors to measure global pose"
         ],
         "rejected_topics": null,
@@ -32,11 +31,11 @@
     {
         "module": "Module 3",
         "topics": [
-            "Images as two dimensional signals",
+            "Vision, Images as two dimensional signals",
             "Translation of Signal to information",
             "Basic image operations",
             "Extracting structure from Vision",
-            "Computer vision and Machine learning Feature Extraction: Feature detection as an information-reduction problem",
+            "Computer vision and Machine learning Feature Extraction, Feature detection as an information-reduction problem",
             "Features",
             "Line recognition",
             "Scale-invariant feature transforms",
@@ -48,16 +47,12 @@
     {
         "module": "Module 4",
         "topics": [
-            "The simple perception",
-            "Activation function -Simple perceptron to multilayer neural network",
-            "Single outputs to higher dimensional data",
-            "Objective Functions and optimization Task Execution: Reactive Control",
-            "Finite State Machines",
-            "Hierarchical Finite State Machine- Behaviour Trees",
-            "Mission Planning Mapping: Map representations",
-            "Iterative Closest point for sparse mapping",
-            "Octomap: dense mapping of voxels",
-            "RGB-D mapping: dense mapping of surfaces"
+            "Artificial Neural Network",
+            "The simple perception - Activation function -Simple perceptron to multilayer neural network - Single outputs to higher dimensional data - Objective Functions and optimization Task Execution",
+            "Reactive Control - Finite State Machines - Hierarchical Finite State Machine- Behaviour Trees - Mission Planning Mapping",
+            "Map representations - Iterative Closest point for sparse mapping - Octomap",
+            "dense mapping of voxels - RGB-D mapping",
+            "dense mapping of surfaces"
         ],
         "rejected_topics": null,
         "status": "verified"

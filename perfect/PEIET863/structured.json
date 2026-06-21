@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to quantum mechanics",
             "Basic concepts - dirac notations",
             "qubits",
             "bell state",
@@ -18,6 +19,7 @@
     {
         "module": "Module 2",
         "topics": [
+            "Quantum algorithms",
             "Overview of quantum computation algorithms - Cirq",
             "Qiskit",
             "Deutsch-Jozsa",
@@ -32,7 +34,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "Quantum teleportation and superdense coding, quantum key distribution (BB84 and E91 protocols), basics of quantum error correction"
+            "Quantum protocols and quantum error correction",
+            "Quantum teleportation and superdense coding",
+            "quantum key distribution (BB84 and E91 protocols",
+            "basics of quantum error correction"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -40,6 +45,7 @@
     {
         "module": "Module 4",
         "topics": [
+            "Practical quantum computing and quantum hardware",
             "Review of current quantum computers and quantum supremacy",
             "quantum hardware technologies (superconducting qubits",
             "trapped ions",

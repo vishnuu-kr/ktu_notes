@@ -2,11 +2,15 @@
     {
         "module": "Module 1",
         "topics": [
+            "Website creation roles",
+            "Gearing up for web design",
+            "Web Page Addresses-URL. HTML",
             "HTML document structure",
             "identifying text elements",
             "adding an image",
             "Changing the look with a style sheet",
-            "marking up Elements: Text",
+            "marking up Elements",
+            "Text",
             "Paragraph",
             "Heading",
             "Horizontal Rule",
@@ -16,12 +20,14 @@
             "Linking to pages on the web",
             "Linking within your site",
             "Targeting a new browser window",
-            "Mail links. Images: image formats",
+            "Mail links. Images",
+            "image formats",
             "img element",
             "adding SVG elements",
             "Responsive image markup. Table",
             "Forms",
-            "Embedded media: iframe",
+            "Embedded media",
+            "iframe",
             "object",
             "video and audio",
             "canvas"
@@ -32,8 +38,8 @@
     {
         "module": "Module 2",
         "topics": [
-            "Floating and positioning: normal flow, floating, fancy text wrap with CSS shapes, positioning basics, relative positioning, Absolute positioning, fixed positioning",
-            "CSS Layout with Flexbox and Grid. Responsive Web Design: RWD, The responsive recipe, choosing breakpoints, designing responsively, Transition, Transforms, and Animations: CSS transitions, CSS transforms, Keyframe animations"
+            "Concept of CSS, Creating Style Sheet, CSS Properties, CSS Styling , Working with block elements and objects, Working with Lists and Tables, CSS Id and Class, Box Model (Introduction, Border properties, Padding Properties, Margin properties), Navigation Bar, CSS Color, Creating page Layout and Site Designs, Positioning, Floating and positioning, normal flow, floating, fancy text wrap with CSS shapes, positioning basics, relative positioning, Absolute positioning, fixed positioning",
+            "CSS Layout with Flexbox and Grid. Responsive Web Design, RWD, The responsive recipe, choosing breakpoints, designing responsively, Transition, Transforms, and Animations, CSS transitions, CSS transforms, Keyframe animations"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -41,6 +47,7 @@
     {
         "module": "Module 3",
         "topics": [
+            "Introduction to JavaScript",
             "JavaScript",
             "Adding JavaScript to a page",
             "the anatomy of a script",
@@ -49,7 +56,8 @@
             "putting it all together",
             "Meet the DOM",
             "Polyfills",
-            "JavaScript libraries jQuery: jQuery",
+            "JavaScript libraries jQuery",
+            "jQuery",
             "A basic jQuery example",
             "jQuery use",
             "finding elements",
@@ -78,14 +86,17 @@
     {
         "module": "Module 4",
         "topics": [
-            "Introduction to XML: syntax",
+            "Introduction to XML",
+            "syntax",
             "element",
             "attribute",
-            "HttpRequest SVG: Drawing with XML",
+            "HttpRequest SVG",
+            "Drawing with XML",
             "Features of SVG as XML",
             "SVG tools",
             "SVG production tips",
-            "Responsive SVG. Web Servers: Introduction",
+            "Responsive SVG. Web Servers",
+            "Introduction",
             "HTTP Transactions",
             "Multitier Application Architecture",
             "Client-Side Scripting versus Server-Side Scripting",

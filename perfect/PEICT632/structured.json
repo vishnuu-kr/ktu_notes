@@ -2,11 +2,13 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Micro Electronic Mechanical Systems",
             "Materials for MEMS- silicon- structure and orientations",
             "properties. Other materials- shape memory alloy (SMA",
             "polymers",
             "silicon compounds etc",
-            "material properties. Commercial MEMS structures and systems: Overview of commonly used mechanical structures in MEMS - Beams",
+            "material properties. Commercial MEMS structures and systems",
+            "Overview of commonly used mechanical structures in MEMS - Beams",
             "Cantilevers",
             "Plates",
             "Diaphragms - Typical applications. Passive MEMS structures- fluid nozzles- ink jet nozzles. Sensors- piezoresistive pressure sensors- mass flow sensors- acceleration sensors",
@@ -18,7 +20,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Process of micromachining",
+            "Process of micromachining, Process of micromachining",
             "pattern transfer using additive technique. Silicon growth",
             "oxidation of silicon",
             "molecular beam epitaxy. Physical vapour deposition (PVD",
@@ -36,14 +38,10 @@
     {
         "module": "Module 3",
         "topics": [
-            "Introduction",
-            "dry etching",
-            "physical etching",
-            "ion etching or sputtering",
-            "ion beam etching, plasma etching",
-            "deep reactive ion etching (DRIE",
-            "isotropic wet etching",
-            "anisotropic wet etching"
+            "Lithography Photolithography- Introduction- masks- spinning- resist and soft backing-exposure and post exposure treatment- development- descumming and post baking- resists- wafer priming",
+            "wafer cleaning and contamination- clean room- resist striping. Next generation lithography-extreme ultra violet lithography (EUVL)- x-ray lithography- LIGA- charged particle beam lithography- electron beam lithography- ion beam lithography. Etching",
+            "Introduction- dry etching- physical etching- ion etching or sputtering- ion beam etching",
+            "plasma etching- deep reactive ion etching (DRIE)- isotropic wet etching- anisotropic wet etching"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -51,24 +49,10 @@
     {
         "module": "Module 4",
         "topics": [
-            "Key design and packaging consideration",
-            "wafer stack thickness",
-            "wafer dicing concerns, thermal management",
-            "stress isolation",
-            "protective coating and media isolation. Wafer level packaging and die level packaging. Hermetic packaging",
-            "calibration and compensation",
-            "die attach process",
-            "solder alloy",
-            "bonding process using solder alloy",
-            "organic adhesive wiring and inter connections",
-            "Wire bonding",
-            "flip chip bonding",
-            "micro fluidics interconnections. Packaging material properties",
-            "mechanical",
-            "moisture penetration",
-            "interfacial adhesion, thermal",
-            "chemical",
-            "electrical"
+            "MEMS packaging",
+            "Key design and packaging consideration- wafer stack thickness- wafer dicing concerns",
+            "thermal management- stress isolation-protective coating and media isolation. Wafer level packaging and die level packaging. Hermetic packaging- calibration and compensation- die attach process- solder alloy- bonding process using solder alloy- organic adhesive wiring and inter connections- Wire bonding- flip chip bonding- micro fluidics interconnections. Packaging material properties- mechanical- moisture penetration- interfacial adhesion",
+            "thermal- chemical- electrical"
         ],
         "rejected_topics": null,
         "status": "verified"

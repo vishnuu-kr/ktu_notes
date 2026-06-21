@@ -2,9 +2,11 @@
     {
         "module": "Module 1",
         "topics": [
-            "History of quantum computation and quantum information, Quantum bits, Quantum computation",
-            "Single qubit gates-Multiple qubit gates-Quantum Circuits-Qubit copying circuit-Example: Bell states. Quantum algorithms-Classical computations on a quantum computer-Quantum parallelism-Deutsch’s algorithm-The Deutsch",
-            "Jozsa algorithm"
+            "Fundamental Concepts",
+            "History of quantum computation and quantum information",
+            "Quantum bits",
+            "Quantum computation - Single qubit gates-Multiple qubit gates-Quantum Circuits-Qubit copying circuit-Example",
+            "Bell states. Quantum algorithms-Classical computations on a quantum computer-Quantum parallelism-Deutsch’s algorithm-The Deutsch - Jozsa algorithm"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -12,7 +14,7 @@
     {
         "module": "Module 2",
         "topics": [
-            "Linear algebra, Bases and linear independence",
+            "Introduction to quantum mechanisms, Linear algebra, Bases and linear independence",
             "Linear operators and matrices- The Pauli matrices",
             "Inner products",
             "Eigenvectors and eigenvalues",
@@ -26,7 +28,7 @@
     {
         "module": "Module 3",
         "topics": [
-            "State space",
+            "The Postulates of Quantum Mechanics, State space",
             "Evolution",
             "Quantum measurement",
             "Distinguishing quantum states",
@@ -40,10 +42,10 @@
     {
         "module": "Module 4",
         "topics": [
-            "Quantum circuits",
+            "Quantum Computation, Quantum circuits",
             "Universal quantum gates",
             "Simulation of quantum systems. The quantum Fourier transform- Phase estimation",
-            "Application: order",
+            "Application, order",
             "finding",
             "Quantum search algorithms",
             "Quantum search as a quantum simulation"

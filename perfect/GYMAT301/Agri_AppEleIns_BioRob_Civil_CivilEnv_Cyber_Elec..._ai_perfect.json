@@ -5,13 +5,12 @@
             "Fourier Integral",
             "From Fourier Series to Fourier Integral",
             "Fourier Cosine and Sine Integrals",
-            "Fourier Cosine and Sine Transform",
+            "Fourier Cosine and Sine Transforms",
             "Linearity",
             "Transforms of Derivatives",
-            "Fourier Transform and Its Inverse"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+            "Fourier Transform and Its Inverse",
+            "Transforms of Derivative"
+        ]
     },
     {
         "module": "Module 2",
@@ -26,27 +25,24 @@
             "Harmonic Functions",
             "Finding Harmonic Conjugate",
             "Conformal Mapping",
+            "Mappings of w = z̄",
             "Mappings of w = z²",
-            "w = z̄",
-            "w = √z",
-            "w = sin z"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+            "Mappings of w = 1/z",
+            "Mappings of w = sin z"
+        ]
     },
     {
         "module": "Module 3",
         "topics": [
-            "Line Integrals in the Complex Plane",
+            "Complex Integration",
+            "Line Integrals in the Complex Plane: Definition and Basic Properties",
             "First Evaluation Method",
             "Second Evaluation Method",
             "Cauchy's Integral Theorem on Simply Connected Domain",
             "Independence of Path",
             "Cauchy Integral Theorem on Multiply Connected Domain",
             "Cauchy Integral Formula"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+        ]
     },
     {
         "module": "Module 4",
@@ -60,9 +56,7 @@
             "Zeros of Analytic Functions: Poles and Zeros",
             "Formulas for Residues",
             "Residue Theorem",
-            "Residue Integration: Integral of Rational Functions of cos θ and sin θ"
-        ],
-        "rejected_topics": null,
-        "status": "verified"
+            "Residue Integration: Integral of Rational Functions of cosθ and sinθ"
+        ]
     }
 ]

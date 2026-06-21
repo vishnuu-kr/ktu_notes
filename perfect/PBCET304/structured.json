@@ -2,6 +2,7 @@
     {
         "module": "Module 1",
         "topics": [
+            "Introduction to Surveying",
             "Principles",
             "Linear",
             "angular and graphical methods",
@@ -10,7 +11,8 @@
             "Bearing of survey lines",
             "Local attraction",
             "Declination",
-            "Methods of orientation (by compass and by back sighting). Levelling : Principles of levelling- Dumpy level",
+            "Methods of orientation (by compass and by back sighting). Levelling",
+            "Principles of levelling- Dumpy level",
             "booking and reducing levels",
             "Methods- simple",
             "differential",
@@ -24,8 +26,8 @@
     {
         "module": "Module 2",
         "topics": [
-            "Characteristics, methods, uses. Areas and Volumes: computation of area by offsets to base line, by dividing area into number of triangles",
-            "volume of level section by prismoidal and trapezoidal formulae. Mass diagram : Construction, Characteristics and uses Triangulation: Triangulation figures, Triangulation stations, Inter visibility of stations, Satellite Stations and reduction to centre"
+            "Contouring , Characteristics, methods, uses. Areas and Volumes, computation of area by offsets to base line, by dividing area into number of triangles",
+            "volume of level section by prismoidal and trapezoidal formulae. Mass diagram , Construction, Characteristics and uses Triangulation, Triangulation figures, Triangulation stations, Inter visibility of stations, Satellite Stations and reduction to centre"
         ],
         "rejected_topics": null,
         "status": "verified"
@@ -33,11 +35,13 @@
     {
         "module": "Module 3",
         "topics": [
+            "Theory of Errors",
             "Types",
             "theory of least squares",
             "Weighting of observations",
             "Most probable value",
-            "Computation of indirectly observed quantities - method of normal equations. Total Station : Concept of EDM",
+            "Computation of indirectly observed quantities - method of normal equations. Total Station",
+            "Concept of EDM",
             "principles and working",
             "advantages and applications",
             "Global Positioning Systems-Components and principles",
@@ -47,7 +51,8 @@
             "GPS Surveying methods-Static",
             "Rapid static",
             "Kinematic methods - DGPS",
-            "Recent trends in Surveying : GNSS",
+            "Recent trends in Surveying",
+            "GNSS",
             "Smart Station and LIDAR"
         ],
         "rejected_topics": null,
@@ -56,11 +61,13 @@
     {
         "module": "Module 4",
         "topics": [
+            "Remote Sensing",
             "Definition- Electromagnetic spectrum-Energy interactions with atmosphere and earth surface features-spectral reflectance of vegetation",
             "soil and water- Classification of sensors-Active and Passive",
             "Resolution-spatial",
             "spectral radiometric and Temporal resolution",
-            "Multi spectral scanning-Along track and across track scanning Geographical Information System : Components of GIS",
+            "Multi spectral scanning-Along track and across track scanning Geographical Information System",
+            "Components of GIS",
             "GIS operations",
             "Map projections- methods",
             "Coordinate systems-Geographic and Projected coordinate systems",

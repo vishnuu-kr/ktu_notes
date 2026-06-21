@@ -2,6 +2,7 @@
   {
     "module": "Module 1",
     "topics": [
+      "Wave shaping circuits",
       "Sinusoidal and non sinusoidal wave shapes",
       "Principle and working of RC differentiating and integrating circuits",
       "Applications of RC integrator and differentiator. Clipping circuits - Positive",
@@ -14,10 +15,12 @@
   {
     "module": "Module 2",
     "topics": [
+      "Regulated Power Supplies",
       "Review of simple Zener Voltage regulator",
       "Shunt and series voltage regulator using transistors",
       "3 pin regulators-78XX and 79XX",
-      "IC 723 and its use as low and high voltage regulators. Optoelectronic devices: Construction - Operation - Characteristics of LED",
+      "IC 723 and its use as low and high voltage regulators. Optoelectronic devices",
+      "Construction - Operation - Characteristics of LED",
       "Photodiode",
       "Phototransistors"
     ],
@@ -27,6 +30,7 @@
   {
     "module": "Module 3",
     "topics": [
+      "Amplifiers",
       "Introduction to Transistor Biasing",
       "Operating point",
       "concept of load line",
@@ -39,6 +43,7 @@
   {
     "module": "Module 4",
     "topics": [
+      "Operational amplifier",
       "Differential Amplifier",
       "Characteristics of op-amps (gain",
       "bandwidth",
@@ -52,7 +57,8 @@
       "subtractor",
       "integrator",
       "differentiator",
-      "Wien bridge oscillator. Integrated circuits: Low pass and high pass active filters using op amp .Circuit diagram and working of Timer IC555",
+      "Wien bridge oscillator. Integrated circuits",
+      "Low pass and high pass active filters using op amp .Circuit diagram and working of Timer IC555",
       "astable and monostable multivibrators using 555"
     ],
     "rejected_topics": null,
