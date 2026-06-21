@@ -1,0 +1,74 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of OT and IT Systems",
+            "Defining Operational Technology (OT) and Information Technology (IT)",
+            "Key Differences Between OT and IT in Terms of Architecture, Functionality, and Security",
+            "Independent OT Networks: Architecture, Use Cases, and Benefits",
+            "Integration of OT with IT Networks",
+            "Drivers for OT-IT Convergence",
+            "Challenges in Integrating OT with IT Networks",
+            "Common Architectures for OT-IT Integration",
+            "Threats and Vulnerabilities in Integrated Networks: Threat Landscape for Integrated OT-IT Environments",
+            "Vulnerabilities Specific to OT and Their Integration",
+            "Case Studies of Security Incidents in Integrated Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Asset Identification and Criticality Classification",
+            "Identifying OT Assets",
+            "Techniques for Asset Discovery in OT Environments",
+            "Importance of Maintaining an Up-to-Date Asset Inventory",
+            "Tools and Technologies for OT Asset Identification",
+            "Criticality Classification",
+            "Criteria for Classifying OT Assets Based on Criticality",
+            "Impact Analysis of OT Asset Failure on Overall Operations",
+            "Prioritizing Security Efforts Based on Asset Criticality",
+            "Risk Management and Compliance",
+            "Applying Risk Management Frameworks in Integrated Networks",
+            "Compliance Considerations in OT-IT Integration",
+            "Standards and Best Practices (e.g., NIST, IEC 62443)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Securing Access and Dynamic Network Segmentation",
+            "Securing Wired and Wireless Access",
+            "Best Practices for Securing Wired Access in OT-IT Networks",
+            "Wireless Security Protocols and Their Application in OT Environments",
+            "Managing and Securing Remote Access in Integrated Networks",
+            "Dynamic Network Segmentation",
+            "Concepts of Network Segmentation and Micro-Segmentation",
+            "Implementing Dynamic Network Segmentation in OT-IT Environments",
+            "Monitoring, Analysis, and Threat Response",
+            "Monitoring and Threat Detection",
+            "Importance of Continuous Monitoring in Integrated OT-IT Networks",
+            "Tools and Techniques for Monitoring OT and IT Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Analyzing Threats and Vulnerabilities",
+            "Techniques for Analyzing Security Data from Integrated Networks",
+            "Vulnerability Management and Patching in OT-IT Systems",
+            "Incident Detection and Analysis for OT-IT Integrated Environments",
+            "Incident Response and Recovery",
+            "Developing Incident Response Plans Specific to OT-IT Integration",
+            "Threat Hunting and Proactive Security Measures",
+            "Recovery Strategies and Business Continuity Planning for Integrated Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

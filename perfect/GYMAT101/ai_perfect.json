@@ -1,0 +1,68 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Linear Systems of Equations",
+            "Gauss Elimination",
+            "Row Echelon Form",
+            "Linear Independence",
+            "Rank of a Matrix",
+            "Solutions of Linear Systems",
+            "Existence",
+            "Uniqueness",
+            "Matrix Eigenvalue Problem",
+            "Determining Eigenvalues and Eigenvectors",
+            "Diagonalization of Matrices"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Homogeneous Linear ODEs of Second Order",
+            "Superposition Principle",
+            "General Solution",
+            "Homogeneous Linear ODEs of Second Order with Constant Coefficients (Method to Find General Solution, Solution of Linear Initial Value Problem)",
+            "Non-Homogeneous ODEs (with Constant Coefficients) - General Solution",
+            "Particular Solution by the Method of Undetermined Coefficients (Particular Solutions for ke^γx, kx^n, k cosh x, k sinh x, k e^αx cosh x, k e^αx sinh x)",
+            "Initial Value Problem for Non-Homogeneous Second Order Linear ODE (with Constant Coefficients)",
+            "Solution by Variation of Parameters (Second Order)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Laplace Transform",
+            "Inverse Laplace Transform",
+            "Linearity Property",
+            "First Shifting Theorem",
+            "Transform of Derivatives",
+            "Solution of Initial Value Problems by Laplace Transform (Second Order Linear ODE with Constant Coefficients with Initial Conditions at t=0 only)",
+            "Unit Step Function",
+            "Second Shifting Theorem",
+            "Dirac Delta Function and Its Transform (Initial Value Problems Involving Unit Step Function and Dirac Delta Function are Excluded)",
+            "Convolution Theorem (without proof) and Its Application to Finding Inverse Laplace Transform of Products of Functions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Taylor Series Representation (without proof, assuming the possibility of power series expansion in appropriate domains)",
+            "Maclaurin Series Representation",
+            "Fourier Series",
+            "Euler Formulas",
+            "Convergence of Fourier Series (Dirichlet's Conditions)",
+            "Fourier Series of 2π Periodic Functions",
+            "Fourier Series of 2l Periodic Functions",
+            "Half Range Sine Series Expansion",
+            "Half Range Cosine Series Expansion"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

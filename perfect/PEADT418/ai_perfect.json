@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Embedded Systems and ARM Cortex-M Architecture",
+            "Overview of Embedded Systems Including Definition, Applications, and Characteristics",
+            "Embedded C Programming Basics and Key Concepts",
+            "Differences and Use Cases of Microcontrollers Versus Microprocessors",
+            "Classification of Processors Including RISC, CISC, and Other Architectures",
+            "Overview of ARM Cortex-M Series Features and Applications",
+            "Introduction to Cortex-M23 and Cortex-M33 Processors",
+            "Armv8-M Architecture",
+            "Core Features (Registers, Memory, Bus Architecture, Comparison with Previous Cortex-M Generations)"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "STM32 Microcontroller Overview and Development Environment Setup",
+            "Overview of the STM32 Family and Features of the STM32U575",
+            "Development Environment and HAL: Introduction, Writing, and Debugging Your First Program (LED Interfacing)",
+            "Interfacing: Seven-Segment Display, LCD Display, Matrix Keypad, Relay",
+            "Analog to Digital Conversion: Potentiometer, Temperature Sensor, LDR, Microphone",
+            "Digital to Analog Conversion: Simple DAC Output, Sine Wave Generation, Audio Signal Generation",
+            "Interrupt Handling Basics and Applications",
+            "Timers and PWM Configuration",
+            "Real-Time Clock (RTC)",
+            "LED Brightness Control",
+            "Motor Speed Control"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Communication Protocols",
+            "Overview of Serial Communication Protocols: USART, I2C, and SPI",
+            "Interfacing an I2C Temperature Sensor and Displaying Data on an LCD",
+            "Writing to and Reading from an SPI-based EEPROM",
+            "Implementing CAN Communication Between STM32 Microcontrollers",
+            "Creating a USB HID Device for Keyboard and Mouse Emulation"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "IoT and RTOS",
+            "Introduction to IoT and its Layers of Architecture",
+            "Introduction to IoT Communication Protocols Including MQTT, CoAP, and HTTP",
+            "Securing IoT Data Using Encryption Techniques",
+            "Wireless Communication Basics: GSM",
+            "Interfacing GSM: Sending SMS, Making Calls, Internet Connectivity Using AT Commands",
+            "Bluetooth: Data Transfer Between STM32U575 and Mobile Devices",
+            "RTOS Concepts",
+            "FreeRTOS Overview",
+            "Task Creation, Scheduling, and Timers",
+            "Inter-task Communication (Queues, Semaphores)",
+            "Designing an IoT-Based Home Automation System"
+        ]
+    }
+]

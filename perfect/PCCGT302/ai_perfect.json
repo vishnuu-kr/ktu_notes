@@ -1,0 +1,81 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Computer Networks",
+            "Transmission Modes - Serial and Parallel Transmission",
+            "Asynchronous, Synchronous, Simplex, Half Duplex, Full Duplex Communication",
+            "Switching - Circuit Switching and Packet Switching",
+            "Network Criteria",
+            "Physical Structures",
+            "Categories of Networks",
+            "Network Models",
+            "OSI Model",
+            "Layers in OSI Model",
+            "TCP/IP Protocol Suite",
+            "Physical Layer",
+            "Guided and Unguided Transmission Media (Co-axial Cable, Fiber Optic Cable)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Data Link Layer",
+            "Framing",
+            "Flow Control (Stop and Wait, Sliding Window)",
+            "Error Control and Error Detection (Checksum)",
+            "Bit Stuffing",
+            "HDLC",
+            "Media Access Control",
+            "Ethernet (802.3), CSMA/CD",
+            "Logical Link Control",
+            "Wireless LAN (802.11), CSMA/CA",
+            "Network Layer",
+            "IPv4 and IPv6",
+            "Address Resolution Protocols (ARP, RARP)",
+            "Subnetting",
+            "Classless Routing (CIDR)",
+            "ICMP",
+            "IGMP",
+            "DHCP"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Networking Devices",
+            "Hubs",
+            "Bridges and Switches",
+            "Routing and Forwarding",
+            "Static Routing and Dynamic Routing",
+            "Routing Algorithms - Distance Vector Routing Algorithm",
+            "Link State Routing (Dijkstra's Algorithm)",
+            "Routing Protocols - Routing Information Protocol (RIP)",
+            "Open Shortest Path First (OSPF)",
+            "Border Gateway Protocol (BGP)",
+            "MPLS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Information System Security",
+            "Common Attacks",
+            "Security at Application Layer (E-mail, PGP, and S/MIME)",
+            "Security at Transport Layer (SSL and TLS)",
+            "Security at Network Layer (IPSec)",
+            "Defence and Counter Measures",
+            "Firewalls and Their Types",
+            "Limitations of Firewalls",
+            "Intrusion Detection Systems - Host-based, Network-based, and Hybrid Intrusion Detection Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

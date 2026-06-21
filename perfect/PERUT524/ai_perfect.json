@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Elementary Signals",
+            "Classification and Representation of Continuous Time and Discrete Time Signals",
+            "Signal Operations, Continuous Time and Discrete Time Systems - Classification, Representation of Systems",
+            "Differential Equation Representation of Continuous Time Systems, Difference Equation Representation of Discrete Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sampling of Continuous Time Signals",
+            "Sampling Theorem for Low Pass Signals",
+            "Aliasing, Z Transform",
+            "Inverse Transform",
+            "Properties",
+            "Unilateral Transform, Frequency Domain Representation of Discrete Time Signals",
+            "Discrete Time Fourier Series and Its Properties, Discrete Time Fourier Transform (DTFT) and Its Properties"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "The Discrete Fourier Transform",
+            "IDFT",
+            "Properties of DFT",
+            "Circular Convolution",
+            "Linear Filtering Methods Based on the DFT",
+            "Linear Convolution Using Circular Convolution, Overlap Save and Overlap Add Methods"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Computation of DFT",
+            "Radix-2 Decimation in Time and Decimation in Frequency FFT Algorithms",
+            "IDFT Computation Using Radix-2 FFT Algorithms",
+            "FIR and IIR Filters",
+            "FIR Filter Structures",
+            "Direct Form",
+            "Cascade Form",
+            "Direct Form",
+            "Transposed Form",
+            "Cascade Form and Parallel Form"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

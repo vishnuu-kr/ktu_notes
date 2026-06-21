@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Computer Based Control System: Role of Computers in Measurement and Control, Basic Components of Computer Based Measurement and Control Systems, Architecture - Computer Based Process Control System - Centralised",
+            "Distributed and Hierarchical Architecture, Human Machine Interface (HMI), Hardware for Computer Based Process Control System",
+            "Interfacing Computer System with Process, Architecture of DDC",
+            "SCADA and DCS, Programmable Logic Controller (PLC)",
+            "Introduction",
+            "Evolution",
+            "Relay vs PLC vs Computer"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "PLC Hardware and Internal Architecture, Input-Output Devices, Basics of Ladder Programming",
+            "On/Off Instructions",
+            "Internal Relay",
+            "Jump Instructions",
+            "Data Handling Instructions",
+            "Data Manipulation Instructions",
+            "Arithmetic and Comparison",
+            "PID and Other Important Instructions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Timers and Counters in PLC, Problems, Design Development and Simulation of PLC Programmes, Programs on Temperature Control, Valve Sequencing",
+            "Conveyor Belt Control and Control of a Process, PLC Installation",
+            "Trouble Shooting and Maintenance",
+            "Design of Alarms and Interlocks",
+            "Networks of PLC, Distributed Control System (DCS) - Evolution, Various Architectures, Comparison, Local Control Unit"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "DCS - LCU Languages, Process Interfacing Issues, Communication Facilities, Operator Interface - Low Level and High Level, Displays, Engineering Interfaces",
+            "Low Level and High Level Engineering Interfaces",
+            "Factors to be Considered in Selecting DCS",
+            "Other Key Issues in DCS",
+            "Packaging and Power System Issues"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

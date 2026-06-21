@@ -1,0 +1,56 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to ML: Machine Learning vs. Traditional Programming",
+            "Machine Learning Paradigms: Supervised, Semi-Supervised, Unsupervised, and Reinforcement Learning",
+            "Basics of Parameter Estimation: Maximum Likelihood Estimation (MLE) and Maximum A Posteriori Estimation (MAP), Bayesian Formulation",
+            "Supervised Learning: Feature Representation and Problem Formulation",
+            "Role of Loss Functions and Optimization",
+            "Regression: Linear Regression with One Variable",
+            "Linear Regression with Multiple Variables: Solution Using Gradient Descent Algorithm and Matrix Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Classification: Naïve Bayes, KNN",
+            "Generalisation and Overfitting: Idea of Overfitting",
+            "LASSO and Ridge Regularization",
+            "Idea of Training, Testing, and Validation",
+            "Evaluation Measures: Classification - Precision, Recall, Accuracy, F-Measure, Receiver Operating Characteristic Curve (ROC), Area Under Curve (AUC)",
+            "Regression: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), R Squared/Coefficient of Determination"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Neural Networks (NN): Perceptron",
+            "Neural Network: Multilayer Feed-Forward Network",
+            "Activation Functions: Sigmoid, ReLU, Tanh",
+            "Backpropagation Algorithm",
+            "Decision Trees: Information Gain, Gain Ratio, ID3 Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Unsupervised Learning: Clustering - Similarity Measures",
+            "Hierarchical Clustering: Agglomerative Clustering, Partitional Clustering",
+            "K-Means Clustering",
+            "Dimensionality Reduction: Principal Component Analysis",
+            "Multidimensional Scaling",
+            "Ensemble Methods: Bagging, Boosting",
+            "Resampling Methods: Bootstrapping, Cross Validation",
+            "Practical Aspects: Bias-Variance Trade-off"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

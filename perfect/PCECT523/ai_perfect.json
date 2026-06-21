@@ -1,0 +1,83 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Sensors and Actuators",
+            "Block Diagram of a Closed Loop Control System",
+            "Sensors and Transducers",
+            "Sensor Classification",
+            "Sensor Characteristics - Transfer Function",
+            "Calibration",
+            "Span (Full Scale Input)",
+            "Full-Scale Output",
+            "Accuracy",
+            "Precision",
+            "Hysteresis",
+            "Nonlinearity",
+            "Saturation",
+            "Repeatability",
+            "Dead Band",
+            "Sensitivity",
+            "Resolution"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Position and Displacement Sensors - Potentiometric Sensors",
+            "Capacitive Sensors",
+            "LVDT",
+            "Hall Effect Sensors",
+            "Pressure Sensors - Mercury Pressure Sensor",
+            "Bellows",
+            "Membranes",
+            "Thin Plates",
+            "Piezoresistive Sensors",
+            "Force, Strain, and Tactile Sensors - Strain Gauges",
+            "Tactile Sensors - Switch Sensors",
+            "Piezoelectric Sensors",
+            "Piezoresistive Sensors",
+            "Capacitive Touch Sensors",
+            "Acoustic Touch Sensors",
+            "Optical Touch Sensors",
+            "Piezoelectric Force Sensors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Flow Sensors - Ultrasonic Flow Sensors",
+            "Electromagnetic Flow Sensors",
+            "Temperature Sensors - Resistance Temperature Detectors",
+            "Thermistors",
+            "Thermocouple",
+            "Proximity Sensors - PIR Sensors",
+            "Ultrasonic Proximity Sensors",
+            "Smart Sensors - Block Diagram",
+            "Difference Between Normal Sensor and Smart Sensor",
+            "Advantages",
+            "Disadvantages and Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Actuators - Definition and Classification (Electric, Hydraulic, Pneumatic)",
+            "Hydraulic System - Physical Components and Typical Circuit",
+            "Hydraulic Actuators - Linear and Rotary Actuators (Gear Motor, Vane Motor)",
+            "Pneumatic System - Components and Typical Circuit",
+            "Pneumatic Actuators - Bellows, Flapper-Nozzle, Diaphragm Actuators for Industrial Control Valves",
+            "Electric Actuators - Solenoids, Stepper Motors, DC Motors, DC Servo Motors",
+            "Electro-Pneumatic Actuator",
+            "Rotary Output Actuators, Linear Output Actuators"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

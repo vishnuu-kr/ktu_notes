@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Mesh and node analysis and network theorems",
+            "Mesh and node analysis of networks containing independent and dependent sources, supermesh and supernode analysis, steady-state AC analysis using mesh and node analysis, Thevenin's theorem",
+            "Norton's theorem",
+            "Superposition theorem",
+            "Reciprocity theorem",
+            "Maximum power transfer theorem applied to both DC and AC circuits having dependent sources"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Network analysis",
+            "Transients - DC and sinusoidal response of RL, RC, and RLC circuits",
+            "Initial and final conditions",
+            "Review of Laplace transforms and inverse Laplace transforms",
+            "Transformation of basic signals and circuits into s-domain, transient analysis of RL and RLC networks with impulse, step and sinusoidal inputs (with and without initial conditions)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Transformed circuits in s-domain",
+            "Transform impedance/admittance of R, L and C, transfer function representation, poles and zeros, analysis of coupled circuits",
+            "Dot polarity convention, sinusoidal steady state analysis of coupled circuits, linear transformer as a coupled circuit, analysis of coupled circuits in s-domain"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Two port networks and passive filters",
+            "Characterization of two port networks using Z, Hybrid, and Transmission parameters",
+            "T and π representations, interrelationship among parameter sets, series and parallel connections of two port networks, passive filters - filter fundamentals",
+            "Classification of filters, characteristic impedance, design of constant K - low pass, high pass, and band pass filters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Robot Force Models: Generalized Co-ordinates",
+            "Generalized Forces",
+            "Equations of Motion",
+            "Static Forces in Manipulators",
+            "Jacobian Matrix",
+            "Jacobians in the Force Domain: Cartesian Transformation of Velocities and Static Forces",
+            "Acceleration of a Rigid Body",
+            "Mass Distribution",
+            "Non-Rigid Body Effects",
+            "Newton's Equation",
+            "Euler's Equation",
+            "Lagrange's Equation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Robot Dynamics: General Expressions for Kinetic and Potential Energy",
+            "Kinetic Energy for an n-Link Robot",
+            "Potential Energy for an n-Link Robot",
+            "Equations of Motion",
+            "Lagrangian Multiplier",
+            "Lagrange's Equation",
+            "Hamilton's Equation",
+            "Hamilton Vector Field - Euler",
+            "Lagrange's Equation",
+            "State Vector and Equation Formulation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Robot Control System: The Manipulator Control Problem",
+            "Linear Second-Order Model of Manipulator, Functions of Controller and Power Amplifier, Joint Actuators - Stepper Motor",
+            "Servo Motor, Control Schemes",
+            "PID Control Scheme - Position and Force Control Schemes, Robotic Sensors and Its Classification",
+            "Internal Sensors - Position",
+            "Velocity",
+            "Acceleration and Force Information",
+            "External Sensors - Contact Sensors - Limit Switches",
+            "Piezoelectric",
+            "Pressure Pads",
+            "Non-Contact Sensors - Range Sensors",
+            "Vision Sensor - Robotic Vision System",
+            "Description of Components of Vision System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Control of Manipulators: Linear Time Varying and Linearization",
+            "Input and Output Stability - Background, The Frobenius Theorem",
+            "Single-Input Systems, Introduction to Nonlinear System",
+            "Time Varying Systems",
+            "Multi-Input, Multi-Output Control Systems",
+            "The Control Problem for Manipulators",
+            "Practical Considerations - Current Industrial Robot Control Systems",
+            "Lyapunov Stability Analysis",
+            "Cartesian",
+            "Based Control Systems",
+            "Adaptive Control",
+            "Limit Cycle - Describing Function"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Fundamentals in Computer Vision: Camera Calibration - Pinhole Camera Model",
+            "Geometric Image Features - Curves",
+            "Surfaces",
+            "Analytical Image Features - Elements of Analytical Euclidean Geometry",
+            "Geometric Camera Parameters",
+            "Stereopsis - Binocular Camera Geometry",
+            "Epipolar Constraint",
+            "Binocular Reconstruction",
+            "Local Methods for Binocular Fusion",
+            "Global Methods for Binocular Fusion"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Features and Filters: Linear Filters - Linear Filters and Convolution",
+            "Shift Invariant Linear Systems, Estimating Derivatives with Finite Differences",
+            "Noise",
+            "Edges and Gradient-Based Edge Detectors, Image Gradients - Computing the Image Gradient",
+            "Gradient Based Edge and Corner Detection, Filters as Templates - Normalized Correlation and Finding Patterns"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Machine Learning for Computer Vision: Machine Learning - Introduction",
+            "Dataset for Machine Perception - Labelled and Unlabelled Data",
+            "Basics of Classification and Clustering",
+            "Multi-Class Perspective (Recap), Machine Learning for Computer Vision - Machine Learning - Deep Learning Use Cases, Machine Learning Models for Vision - Image Vision - Pretrained Model",
+            "Transfer Learning",
+            "Fine-Tuning",
+            "Convolutional Networks",
+            "Convolutional Filters",
+            "Stacking Convolutional Layers",
+            "Pooling Layers - AlexNet",
+            "VGG19",
+            "Modular Architecture - ResNet",
+            "Neural Architecture Search Design - NASNet"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Segmentation and Object Detection: Segmentation Using Clustering Methods - Human Vision - Grouping and Gestalt",
+            "Applications - Shot Boundary Detection",
+            "Background Subtraction",
+            "Image Segmentation by Clustering Pixels - Simple Clustering Methods",
+            "Clustering and Segmentation by K-Means, Object Detection - YOLO",
+            "Segmentation - Mask R-CNN and Instance Segmentation",
+            "U-Net and Semantic Segmentation",
+            "Model Quality Metrics, A Case Study to Compare Performance of Various Models on a Suitable Dataset, Suggestion on Project Topics, Real Life Problems in the Domain of Computer Vision May be Identified, Solved and Implemented Using Different Algorithms. A Few Suggestions are Given Below: 1. Build a System Capable of Detecting and Classifying Objects (like Pedestrians, Vehicles, Traffic Signs) in Real-Time from Video Feeds in Autonomous Vehicles. You Can Explore Different Algorithms like YOLO, R-CNN etc. 2. Develop a Machine Learning Model to Automatically Detect and Classify Diseases from Medical Images, such as X-Rays, MRIs, or CT Scans. This Could Be Applied to Specific Conditions like Detecting Tumors, Pneumonia, or Diabetic Retinopathy. 3. Develop a Machine Learning Model that Utilizes Edge Detection and Linear Filtering Techniques to Enhance Object Detection and Recognition in Images"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

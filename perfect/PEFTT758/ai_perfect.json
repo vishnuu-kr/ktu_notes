@@ -1,0 +1,35 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Optimization: Definitions, Historical Development",
+            "Scope of Optimization Techniques",
+            "Classification of Optimization Problems: Linear and Non-Linear, Static and Dynamic, Deterministic and Stochastic, Single and Multi-Objective",
+            "Formulation of Optimization Problems: Objective Function, Constraints, Decision Variables"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Classical Optimization Techniques: Single Variable Optimization, Optimality Criteria, Unconstrained Optimization, Constrained Optimization using Lagrange Multipliers and Kuhn-Tucker Conditions, Multi-Variable Optimization, Direct Search Methods, Gradient-Based Methods, Newton's Method, Conjugate Gradient Method",
+            "Linear Programming: Formulation, Graphical Method, Simplex Method, Duality Theory, Sensitivity Analysis"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Numerical Optimization Techniques: Introduction to Numerical Methods, Numerical Differentiation and Integration",
+            "Gradient Descent: Steepest Descent Method, Conjugate Gradient Method, Quasi-Newton Methods",
+            "Non-Linear Programming: Penalty Function Methods, Barrier Methods, Sequential Quadratic Programming, Interior Point Methods"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Dynamic Programming: Principle of Optimality, Recursive Equations, Applications",
+            "Genetic Algorithms: Basics, Operators, Selection, Crossover, Mutation, Applications",
+            "Simulated Annealing: Principles, Algorithm, Applications",
+            "Particle Swarm Optimization: Basic Concepts, Algorithm, Applications"
+        ]
+    }
+]

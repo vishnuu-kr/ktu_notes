@@ -1,0 +1,47 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Circuit Theorems",
+            "DC and AC Circuit Analysis with Dependent and Independent Sources Applying Superposition Principle",
+            "Source Transformation",
+            "Thevenin's, Norton's and Maximum Power Transfer Theorems - Reciprocity Theorem - Two Port Networks",
+            "Driving Point and Transfer Functions - Z, h and T Parameters - Conditions for Symmetry and Reciprocity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Resonance",
+            "Introduction - Series Resonance - Parallel Resonance - Definition",
+            "Q Factor - Half Power Frequency - Resonant Frequency - Bandwidth",
+            "Transformed Circuits in S-Domain",
+            "Transform Impedance/Admittance of R, L and C - Mesh Analysis and Node Analysis of Transformed Circuits in S-Domain",
+            "Transfer Function Representation - Poles and Zeros"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Transformers - Operating Principle - Classification - Construction - EMF Equation - Phasor Diagrams - Equivalent Circuit Model - Losses and Efficiency",
+            "DC Machines - Operating Principle - Generator and Motor Action - Construction - Types of Excitations - EMF and Torque Equations - Power Stages and Efficiency - Characteristics and Application of DC Generators and DC Motors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Induction Machines - Three-Phase Induction Motors - Principle of Operation - Construction - Types - EMF Equation of an AC Machine - Torque Developed in an Induction Motor - Equivalent Circuit Model - Torque-Speed Characteristics",
+            "Single Phase Induction Motors - Types of Single-Phase Induction Motor - Starting - Application",
+            "Synchronous Machines - Construction - Types and Operating Principle of Synchronous Generator - Voltage Regulation - EMF Method - Power Angle Characteristics",
+            "Synchronous Motor - Principle - Starting - Hunting - Damper Windings"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

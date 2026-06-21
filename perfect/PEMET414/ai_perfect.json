@@ -1,0 +1,83 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Sensors and Transducers",
+            "Internal Sensors",
+            "Position - Optical Encoders",
+            "Potentiometers",
+            "LVDT",
+            "Velocity - Encoders",
+            "Tachogenerators",
+            "Acceleration - Different Types of Accelerometers",
+            "Gyroscopes",
+            "Force Transducers",
+            "External Sensors",
+            "Contact Sensors",
+            "Inductive and Capacitive Proximity Sensors",
+            "Ultrasonic Transducers and SONAR",
+            "RADAR and Doppler Effect",
+            "LIDAR",
+            "Sensor Characteristics",
+            "Sensitivity",
+            "Linearity",
+            "Measurement/Dynamic Range",
+            "Response Time",
+            "Accuracy",
+            "Repeatability and Precision",
+            "Resolution and Threshold",
+            "Bandwidth"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Actuators",
+            "Hydraulic and Pneumatic Actuators",
+            "Working of Hydraulic and Pneumatic Actuators at Block Diagram Level",
+            "Advantages and Disadvantages of Each Electric Actuator",
+            "Electric Motors - DC Motors",
+            "Stepper Motors",
+            "Servo Motors",
+            "BLDC Motors",
+            "Transmission Elements",
+            "Advantages and Disadvantages of Electric Actuators"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Microcontrollers",
+            "Microprocessors and Microcontrollers - Definitions, Basic Block Diagrams, and Differences",
+            "Arduino Uno Microcontroller",
+            "Board Study (Board-Level Block Schematic) - Chip (Features Only - Architecture Not Needed)",
+            "GPIO",
+            "Memory",
+            "Programming Interface",
+            "Arduino IDE",
+            "Sample Code for Interfacing LED and Switch",
+            "DC Motor and Stepper Motor Control",
+            "LCD Interfacing"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Embedded Systems and IoT",
+            "Embedded Systems",
+            "Applications of Embedded Systems - Consumer Electronics, Robotics, Automobiles",
+            "Embedded System Architecture",
+            "Hardware - Processor, Controller, Memory, Peripherals",
+            "Software - Application, Middleware, OS, Device Drivers",
+            "Tool Chain - Assembler, Interpreter, Compiler, Linker, Loader, Debugger",
+            "IoT",
+            "Definition and Impact of IoT in Manufacturing, Smart Homes, Transportation, and Cities",
+            "Wired Communication",
+            "Basics of Serial Communication (UART, SPI, I2C)",
+            "Wireless Communication",
+            "Basics of Wi-Fi, Bluetooth, Zigbee, LoRa, and NFC",
+            "Case Study",
+            "Design and Implementation of a Simple Embedded/IoT Project"
+        ]
+    }
+]

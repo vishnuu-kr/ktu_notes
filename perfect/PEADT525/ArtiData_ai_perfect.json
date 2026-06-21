@@ -1,0 +1,87 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "The image, its representation and properties - image representations, image digitization, sampling, quantization, digital image properties, metric and topological properties of digital images, histograms, entropy, visual perception of the image - contrast, acuity, image quality, noise in images",
+            "Color images - physics of color, color perceived by humans, color spaces, color constancy",
+            "Data structures for image analysis - levels of image data representation, traditional image data structures - matrices, chains, topological data structures - relational structures, hierarchical data structures, pyramids, quadtrees, other pyramidal structures"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Image pre-processing - pixel brightness transformations",
+            "Position-dependent brightness correction",
+            "Gray-scale transformation",
+            "Geometric transformations - pixel coordinate transformations",
+            "Brightness interpolation. Local pre-processing",
+            "Image smoothing",
+            "Edge detectors",
+            "Zero-crossings of the second derivative",
+            "Scale in image processing",
+            "Canny edge detection",
+            "Parametric edge models",
+            "Edges in multi-spectral images",
+            "Line detection by local pre-processing operators",
+            "Detection of corners (interest points)",
+            "Image restoration - degradations that are easy to restore",
+            "Inverse filtering",
+            "Wiener filtering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Image segmentation - thresholding",
+            "Threshold detection methods - optimal thresholding",
+            "Multi-spectral thresholding",
+            "Edge-based segmentation",
+            "Edge image thresholding",
+            "Edge relaxation",
+            "Border tracing",
+            "Border detection as graph searching",
+            "Border detection as dynamic programming",
+            "Hough transforms",
+            "Border detection using border location information",
+            "Region construction from borders",
+            "Region-based segmentation - region merging",
+            "Region splitting - splitting and merging",
+            "Watershed segmentation. Mean shift segmentation",
+            "Fuzzy connectivity",
+            "Introduction to 3D graph-based image segmentation matching",
+            "Template matching",
+            "Control strategies templating",
+            "Evaluation issues in segmentation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Image transforms - 2D Fourier transform",
+            "Discrete cosine transform",
+            "Wavelet transform",
+            "Eigen-analysis",
+            "Singular value decomposition",
+            "Principal component analysis. Image texture - statistical texture description",
+            "Methods based on spatial frequencies",
+            "Co-occurrence matrices",
+            "Edge frequency",
+            "Primitive length (runlength)",
+            "Texture energy measures",
+            "Local binary patterns (LBPs)",
+            "Fractal texture description",
+            "Other statistical methods of texture description. Introduction to object recognition - knowledge representation",
+            "Statistical pattern recognition",
+            "Classification principles",
+            "Minimum distance classifier learning and classification. Nearest neighbor search with K-D trees"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

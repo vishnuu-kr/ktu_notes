@@ -1,0 +1,75 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Computational Geometry: Basics and Applications",
+            "Geometric Objects and Their Representations",
+            "Basic Geometric Primitives",
+            "Points",
+            "Lines",
+            "Segments",
+            "Polygons",
+            "Convex Hulls: Definition and Properties",
+            "Graham's Scan Algorithm",
+            "Jarvis's March (Gift Wrapping) Algorithm",
+            "Divide and Conquer Algorithm for Convex Hulls",
+            "Line Segment Intersection: Problem Definition and Applications",
+            "Plane Sweep Algorithm",
+            "Bentley-Ottmann Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Polygon Triangulation and Voronoi Diagrams: Polygon Triangulation - Definition and Applications",
+            "Triangulation of Monotone Polygons",
+            "Ear Clipping Method",
+            "Chazelle's Algorithm",
+            "Voronoi Diagrams: Definition and Properties",
+            "Incremental Construction Algorithm",
+            "Fortune's Sweep Line Algorithm",
+            "Delaunay Triangulations: Definition and Properties",
+            "Relationship with Voronoi Diagrams",
+            "Bowyer-Watson Algorithm",
+            "Lawson's Flip Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Range Searching and Point Location: Range Searching - Problem Definition and Applications",
+            "1-Dimensional Range Searching",
+            "K-Dimensional Range Trees",
+            "Fractional Cascading",
+            "Point Location: Problem Definition and Applications",
+            "Trapezoidal Map and Randomized Incremental Algorithm",
+            "Kirkpatrick's Point Location Algorithm",
+            "Binary Space Partitioning: Definition and Applications",
+            "BSP Trees: Construction and Properties",
+            "Use in Computer Graphics and Collision Detection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Advanced Topics and Applications: Arrangements of Lines and Duality - Arrangements of Lines and Complexity",
+            "Zone Theorem",
+            "Duality Transform and Its Applications",
+            "Motion Planning and Geometric Optimization: Problem Definition and Applications",
+            "Visibility Graphs and Shortest Path Problems",
+            "Art Gallery Problem",
+            "Linear Programming in Geometry",
+            "Computational Geometry in Practice: Computational Geometry Libraries and Software",
+            "Applications in Robotics",
+            "Computer Graphics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of Computer Vision and Image Processing: Introduction to Computer Vision",
+            "Applications, History, and Challenges",
+            "Basics of Image Formation and Pinhole Camera Model",
+            "Image Representation (Grayscale and Color Spaces)",
+            "Digital Image Properties (Resolution and Bit Depth)",
+            "Image Filtering (Smoothing and Sharpening) and Histogram Processing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Feature Detection and Morphological Processing: Edge Detection (Canny)",
+            "Keypoint Detection (Harris Corner Detector)",
+            "Blob Detection and Feature Descriptors (SIFT, SURF)",
+            "Basic Morphological Operations (Erosion, Dilation, Opening, Closing)",
+            "Boundary Extraction and Applications in Segmentation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Image Segmentation and Object Detection: Thresholding Methods (Global and Adaptive)",
+            "Region-Based Segmentation",
+            "Clustering-Based Techniques (K-Means and Mean Shift)",
+            "Edge-Based Segmentation",
+            "Sliding Window Approach and Haar Cascades",
+            "Histogram of Oriented Gradients (HOG)",
+            "Template Matching"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Motion Analysis and 3D Vision: Background Subtraction",
+            "Frame Differencing and Temporal Differencing",
+            "Basic Optical Flow Concepts (Lucas-Kanade Method)",
+            "Tracking Algorithms (Kalman Filter and Mean Shift)",
+            "Principles of Stereo Vision",
+            "Epipolar Geometry and Disparity Maps",
+            "Depth Estimation",
+            "Structure from Motion (SfM)",
+            "Camera Calibration and 3D Reconstruction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

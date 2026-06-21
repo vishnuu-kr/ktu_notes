@@ -1,0 +1,49 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Reliability Definition",
+            "Probability Concept",
+            "Addition of Probabilities",
+            "Complementary Events",
+            "Kolmogorov Axioms",
+            "Failure Data Analysis: Mean Failure Rate, MTTF, MTBF, Graphical Plots, MTTF in Terms of Failure Density, MTTF in Integral Form"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Hazard Models: Introduction and Constant Hazard",
+            "Linearly Increasing Hazard, Weibull Model, Density Function, Distribution Function, Reliability Analysis, Important Distributions and Their Choice, Standard Deviation and Variance",
+            "Conditional Probability: Multiplication Rule, Independent Events, Venn Diagram, Hazard Rate as Conditional Probability, Bayes Theorem"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "System Reliability: Series, Parallel, and Mixed Configurations, Complex Systems, Logic Diagrams, Markov Models",
+            "Reliability Improvement and Repairable Systems: Redundancy, Element, Unit and Standby Redundancy, Optimization",
+            "Reliability-Cost Trade-Off, Introduction to Repairable Systems, Instantaneous Repair Rate, MTTR, Reliability and Availability Functions, Important Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Fault-Tree Analysis and Other Techniques",
+            "Fault-Tree Construction",
+            "Calculation of Reliability",
+            "Tie-Set and Minimal Tie-Set, Maintainability and Availability",
+            "Introduction",
+            "Maintenance Planning",
+            "Reliability and Maintainability Trade-Off"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

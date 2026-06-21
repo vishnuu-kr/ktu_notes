@@ -1,0 +1,56 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Multirate Systems and Filter Banks: Introduction to Multirate Signal Processing and Its Applications, Multirate System Fundamentals, Basic Multi-Rate Operations, Up Sampling and Down Sampling",
+            "Time Domain and Frequency Domain Analysis",
+            "Need for Anti-Aliasing and Anti-Imaging Filters, Noble Identities, Fractional Sampling Rate Alteration, Type 1 and Type 2 Polyphase Decomposition",
+            "Efficient Structures for Decimation and Interpolation Filters, Introduction to Digital Filter Banks",
+            "Efficient Implementation",
+            "Two Channel Quadrature Mirror Filter Bank (QMF)",
+            "Perfect Reconstruction"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Time-Frequency Analysis of Signals and Wavelet Transform: Time-Frequency Analysis of Signals, Spectral Analysis of Signals",
+            "Spectral Leakage by Windowing Effect",
+            "Time and Frequency Localization of Signals",
+            "Uncertainty Principle and Its Implications, Short Time Fourier Transform, Continuous Time and Discrete Time STFT",
+            "Filter Bank Implementation of STFT, Continuous Wavelet Transform, Concept of Wavelets",
+            "CWT for Signal Analysis",
+            "Condition of Admissibility and Its Implications",
+            "Inverse Continuous Wavelet Transform",
+            "Properties of CWT"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Discrete Wavelet Transform and Filter Bank Implementation: Discrete Wavelet Transform, Concept of DWT",
+            "Time-Frequency Tiling of DWT and Comparison to STFT, Haar Scaling and Wavelet Functions",
+            "Function Spaces",
+            "Refinement Relation",
+            "Wavelet Decomposition of Signals, Designing Orthogonal Wavelet Systems, Relation of DWT to Filter Banks for Signal Decomposition and Reconstruction, Multi-Resolution Analysis (MRA), Concept of MRA and Relating It to Filter Banks, Computation of DWT Using Mallat Algorithm and Lifting Scheme"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Wavelet Transform Applications: Wavelet Transform Applications in Image Processing, Wavelet Transform of Images",
+            "Wavelet Transform Based Image Compression",
+            "EZW Coding, Applications of Wavelet Transform in Image Denoising",
+            "Edge Detection and Object Detection, Wavelet Transform Applications in Audio Processing, Application of Wavelets in Audio Compression",
+            "Wavelet Based Audio Coding"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

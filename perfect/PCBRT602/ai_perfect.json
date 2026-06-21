@@ -1,0 +1,77 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "X-Ray Imaging",
+            "Basic Principles of Image Formation",
+            "Block Diagram of an X-Ray Machine",
+            "Digital Radiography - Basic Principles, X-Ray Computed Tomography",
+            "Basic Principles",
+            "Contrast Scale",
+            "Different Generations of CT Scanners",
+            "Basic Principles of Image Reconstruction",
+            "Ultrasonic Imaging",
+            "Physical Principles",
+            "Transducer Parameters",
+            "Different Modes - A-Mode",
+            "M-Mode (Echocardiograph)",
+            "B-Mode",
+            "Principles of Doppler Ultrasonic Imaging",
+            "Magnetic Resonance Imaging",
+            "Principles of MRI",
+            "T1 Weighted Images",
+            "T2 Weighted Images",
+            "Proton Density Weighted Images",
+            "Applications of MRI",
+            "Nuclear Medicine Imaging Modalities",
+            "Emission Computed Tomography - SPECT & PET"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Image Perception",
+            "MTF of the Visual System",
+            "Monochrome Vision Model",
+            "Color Vision Model - HSI Model",
+            "Image Sampling and Quantization",
+            "Image Transforms",
+            "Two-Dimensional Orthogonal and Unitary Transforms",
+            "Properties of Unitary Transforms - DCT",
+            "KL Transform"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Image Enhancement in Spatial Domain",
+            "Grey Level Transformations",
+            "Histogram Processing - Histogram Equalization and Modification",
+            "Smoothing and Sharpening Spatial Filters",
+            "Zooming and Interpolation",
+            "Image Enhancement in Frequency Domain",
+            "Filtering - Low Pass",
+            "High Pass",
+            "Band Pass and Band Stop Filters",
+            "Homomorphic Filter"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Image Restoration",
+            "Inverse Filtering",
+            "Wiener Filtering",
+            "Image Segmentation",
+            "Detection of Discontinuities - Point",
+            "Line",
+            "Edge",
+            "Canny Edge Detector",
+            "Edge Linking - Hough Transform",
+            "Segmentation Based on Thresholding - Basic Global Thresholding",
+            "Variable Thresholding",
+            "Region Based Segmentation - Region Growing",
+            "Region Splitting and Merging"
+        ]
+    }
+]

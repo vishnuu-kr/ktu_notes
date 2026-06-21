@@ -1,0 +1,21 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Data acquisition using multimeter and oscillographic recorder",
+            "Connect an LED to GPIO pin 25 and control it through the command line",
+            "Connect an LED to GPIO pin 24 and a switch to GPIO 25 and control the LED with the switch (toggle with every press)",
+            "Use DHT11 temperature sensor to print the temperature and humidity of the room at an interval of 15 seconds",
+            "Use joystick and display the direction on the screen",
+            "Use Light Dependent Resistor (LDR) and control an LED that switches on/off depending on the light",
+            "Create a traffic light signal with three colored lights (Red, Orange, Green) with a duty cycle of 5-2-10 seconds",
+            "Switch on and switch off a DC motor based on the position of a switch",
+            "Convert an analog voltage to digital value and display it on the screen",
+            "Create a door lock application using a reed switch and magnet and give a beep when the door is opened",
+            "Control a 230V device (Bulb) with Raspberry Pi using a relay",
+            "Control a 230V device using a threshold temperature with a temperature sensor",
+            "Create an application with three LEDs (Red, Green, White) that follow the cycle (All Off, Red On, Green On, White On) for each clap using a sound sensor",
+            "Create a web application for the above experiments with suitable modifications to get input and to send output"
+        ]
+    }
+]
