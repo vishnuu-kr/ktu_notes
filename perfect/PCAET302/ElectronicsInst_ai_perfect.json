@@ -1,0 +1,88 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Wave Shaping Circuits",
+            "First Order RC Low Pass and High Pass Filters",
+            "Differentiator and Integrator",
+            "Diode Clipping Circuits",
+            "Diode Clamping Circuits",
+            "Voltage Multipliers",
+            "Transistor Biasing",
+            "Concept of DC and AC Load Lines",
+            "Types - Fixed Bias Circuit",
+            "Self-Bias",
+            "Voltage Divider Bias",
+            "Bias Stabilization",
+            "Switching Circuits",
+            "Astable",
+            "Bistable and Monostable Multivibrators",
+            "Schmitt Trigger"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "BJT Amplifiers",
+            "RC Coupled Amplifier - Design",
+            "Voltage Gain and Frequency Response",
+            "Small Signal Analysis of CE Configuration",
+            "Small Signal Hybrid-pi Model for Mid and Low Frequency (Gain, Input and Output Impedance)",
+            "High Frequency Equivalent Circuits of BJT",
+            "Miller Effect",
+            "Analysis of High Frequency Response of CE Amplifier",
+            "Multistage Amplifiers - Cascade and Cascode Amplifiers",
+            "Design",
+            "Effect on Gain and Bandwidth"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "MOSFETs - MOSFET as an Amplifier",
+            "Biasing of P-Channel and N-Channel MOSFET Circuits",
+            "Small Signal Equivalent Circuit",
+            "Small Signal Voltage Gain",
+            "Current Gain",
+            "Input and Output Impedances of CS Configuration",
+            "CS Stage with Diode Connected Load",
+            "Feedback Topologies",
+            "Effect of Positive and Negative Feedback on Gain",
+            "Frequency Response and Distortion",
+            "Feedback Topologies and Its Effect on Input and Output Impedance",
+            "Feedback Amplifier Circuits Using BJT in Each Feedback Topologies (Analysis of Only Voltage Series Feedback Circuit is Required)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Oscillators",
+            "Introduction",
+            "Barkhausen Criterion",
+            "Classification of Oscillators - RC Phase Shift",
+            "Wien Bridge",
+            "Hartley",
+            "Colpitts and Crystal Oscillators (Working Principle and Design Equations of the Circuits Only)",
+            "Analysis of RC Phase Shift Oscillator",
+            "Power Amplifiers",
+            "Classification",
+            "Transformer Coupled Class A Power Amplifier",
+            "Push Pull Class B and Class AB Power Amplifiers",
+            "Complementary Symmetry Class B and Class AB Power Amplifiers",
+            "Class C Power Amplifier Efficiency and Distortion (No Analysis Required)",
+            "Regulated Power Supplies",
+            "Load and Line Regulation",
+            "Series Voltage Regulator",
+            "Shunt Voltage Regulator",
+            "Short Circuit Protection and Fold Back Protection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

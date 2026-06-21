@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Block Diagram of a Communication System, Need for Modulation, Amplitude Modulation",
+            "Equation and Spectrum of AM Signal",
+            "DSB-SC",
+            "SSB – Pilot Carrier and Vestigial Sideband Systems, Angle Modulation",
+            "Narrow and Wide Band FM and Their Spectra",
+            "Relationship Between FM and PM",
+            "Carson's Rule",
+            "Pre-emphasis and De-emphasis Filtering, Comparison of AM and FM",
+            "Block Diagram of FM Receiver, Superheterodyne Receivers – Characteristics of Receivers – Image Frequency, Noise",
+            "White Noise"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sampling and Quantization",
+            "SQNR for Uniform Quantization",
+            "Companding Pulse Code Modulation",
+            "Transmitter and Receiver, DPCM Transmitter and Receiver, Delta Modulation",
+            "Slope Overload",
+            "Line Codes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Baseband Data Transmission of Digital Data Through AWGN Channel",
+            "Mathematical Model of ISI",
+            "Nyquist Criterion for Zero ISI",
+            "Signal Modelling for ISI",
+            "Raised Cosine Spectrum",
+            "Equalization",
+            "Zero Forcing Equaliser, Geometric Representation of Signals – Gram-Schmitt Procedure",
+            "Signal Space, Vector Model of AWGN Channel, Matched Filter and Correlation Receivers",
+            "MAP Receiver",
+            "Maximum Likelihood Receiver"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Digital Band Pass Modulation Schemes",
+            "BPSK System and Signal Constellation, BPSK Transmitter and Receiver, QPSK System and Signal Constellations, BER Analysis of BPSK and QPSK in erfc, Plots of BER Vs SNR, QPSK Transmitter and Receiver, Quadrature Amplitude Modulation and Signal Constellation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

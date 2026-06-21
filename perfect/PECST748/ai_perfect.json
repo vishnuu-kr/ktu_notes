@@ -1,0 +1,88 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Real-Time Systems",
+            "Basic Concepts",
+            "Applications of Real-Time Systems",
+            "Basic Model of Real-Time Systems",
+            "Characteristics of Real-Time Systems",
+            "Types of Real-Time Systems",
+            "Hard",
+            "Firm",
+            "Soft",
+            "Timing Constraints",
+            "Modelling Timing Constraints"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Real-Time Task Scheduling",
+            "Basic Concepts",
+            "Clock Driven Scheduling",
+            "Table Driven Scheduling",
+            "Cyclic",
+            "Schedulers",
+            "Hybrid Schedulers",
+            "Event Driven Scheduling",
+            "EDF Scheduling",
+            "Resource Sharing Among RT Tasks",
+            "Priority Inversion",
+            "Priority Inheritance Protocol",
+            "Highest Locker Protocol",
+            "Priority Ceiling Protocol",
+            "Scheduling Real-Time Tasks in Multiprocessor and Distributed Systems",
+            "Fault Tolerant Scheduling of Tasks",
+            "Clocks in Distributed Real-Time Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Commercial Real-Time Operating Systems",
+            "Time Services",
+            "Features of Real-Time Operating Systems",
+            "UNIX and Windows as RTOS",
+            "POSIX",
+            "PSOS",
+            "VRTX",
+            "RT Linux",
+            "Lynx",
+            "Other RTOS",
+            "Benchmarking RT OS",
+            "Real-Time OS",
+            "OS Services",
+            "I/O Subsystem",
+            "Network OS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "RT Communications",
+            "QoS Framework",
+            "Models",
+            "Real-Time Communication in a LAN",
+            "IEEE 802.4",
+            "RETHER",
+            "Communication over Packet Switched Networks",
+            "Routing Algorithms",
+            "RSVP",
+            "Rate Control",
+            "RT Databases - Applications",
+            "Characteristics of Temporal Data",
+            "Concurrency Control",
+            "Commercial RT Databases",
+            "Special Topics in Real-Time Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

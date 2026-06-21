@@ -1,0 +1,84 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Power Electronic Devices",
+            "Power Diodes",
+            "Power Transistors",
+            "MOSFETs and IGBTs: Structure",
+            "Fabrication",
+            "Regions of Operations",
+            "Switching Characteristics: Turn ON and Turn OFF Switching Waveforms",
+            "Safe Operating Area",
+            "Paralleling of Transistors",
+            "Thyristor Family",
+            "SCRs",
+            "DIAC",
+            "TRIAC and GTOs",
+            "V-I Characteristics of SCR",
+            "Introduction to Classification of Power Electronic Circuits",
+            "AC-DC Converters",
+            "DC-DC Converters",
+            "DC-AC Converters and AC-AC Converters",
+            "Application of Power Devices in Renewable Energy Systems and Electric Vehicles"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "AC-DC Converters",
+            "Single Phase Controlled Rectifiers - Half Wave",
+            "Full-Wave",
+            "Half-Controlled and Fully Controlled",
+            "Typical Waveforms with R",
+            "RL with Diode and RL with Voltage Source - Voltage and Current Equation for Half-Wave Controlled Rectifier",
+            "Three Phase Half-Wave and Full-Wave Controlled Rectifier with R Load",
+            "Waveforms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "DC-DC Converters",
+            "Basic Chopper Operation Using Semiconductor Switches",
+            "Buck",
+            "Boost and Buck-Boost Converters",
+            "Selection of Devices",
+            "Electrical and Thermal Stress",
+            "Isolated Converters",
+            "Half Bridge and Full Bridge Converters",
+            "Understanding Governing Equations and Switching Waveforms",
+            "DC-AC Inverters",
+            "Square Wave Operations",
+            "Half Bridge and Full Bridge Inverters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Carrier Based Unipolar and Bipolar PWM Inverters",
+            "Effect of Harmonics and Its Elimination",
+            "Sinusoidal PWM Inverters",
+            "Power Electronic Systems",
+            "Solar Power Plants",
+            "ON Grid and OFF Grid Types",
+            "Traction Control in EVs",
+            "Forward Motoring and Generating Modes",
+            "PWM Control Techniques",
+            "Voltage Mode",
+            "Current Mode and Gated Oscillator Controls",
+            "Closed Loop Responses and Stabilization",
+            "Gate Driver Circuits",
+            "Isolated and Non-Isolated",
+            "Types"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

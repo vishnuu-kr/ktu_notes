@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Network Security",
+            "Overview of Network Security",
+            "Types of Threats and Attacks",
+            "Security Policies and Mechanisms",
+            "Introduction to Intrusion Detection and Prevention Systems",
+            "Intrusion Detection Systems (IDS): Definition and Purpose of IDS",
+            "Types of IDS: Network-based, Host-based, and Hybrid IDS Architectures",
+            "IDS Components and Functionality",
+            "Signature-based vs. Anomaly-based Detection"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Intrusion Prevention Systems (IPS): Definition and Purpose",
+            "Differences between IDS and IPS",
+            "IPS Techniques and Mechanisms",
+            "Deployment Strategies for IPS",
+            "Challenges in IPS Implementation",
+            "Detection Techniques",
+            "Signature Detection Techniques and Anomaly Detection Techniques",
+            "Statistical Methods for Anomaly Detection"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Security Information and Event Management (SIEM): Introduction to SIEM",
+            "Role of SIEM in Intrusion Detection and Prevention",
+            "Log Management and Analysis",
+            "Correlation of Events",
+            "Understanding the Role of SIEM in Network Security",
+            "Incident Response and Management",
+            "Incident Response Lifecycle: Identification, Containment, Eradication, and Recovery"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Emerging Trends and Technologies",
+            "Cloud Security and IDS/IPS",
+            "IoT Security Challenges",
+            "Machine Learning and AI in Intrusion Detection",
+            "Blockchain for Security",
+            "Future Trends in Network Security",
+            "Network Security Protocols",
+            "SSL/TLS",
+            "IPSec"
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to process control with the help of examples of a tank heater system - different control strategies: feedback, feed forward, inferential",
+            "General modeling principles - classification of variables in process control, importance of state variables, state equations and degrees of freedom",
+            "Tools for solving models - Laplace Transforms: definition, Laplace transforms of basic forcing functions (step, exponential, ramp, sinusoidal, cosine, pulse, impulse and translated functions), Laplace transform of derivatives and integrals, initial value theorem and final value theorem",
+            "Theoretical model development of tank heater system - input-output model and its solution"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Transfer functions and their general characteristics - transfer functions of SISO systems, general first order and second order systems",
+            "Development of transfer function models for first order systems - continuous single tank (mass storage) system and mercury in glass thermometer system (only linear systems). Dynamics of first order system for step and impulse input",
+            "Development of transfer function models for second order systems - multi-capacity systems (two tanks connected in series), inherently second order systems (damped vibrator), first order system in the presence of a controller",
+            "Dynamics of second order systems - general characteristics of under damped, over damped and critically damped systems. Numerical problems on overshoot, decay ratio, period of oscillation, ultimate value and maximum value",
+            "Numerical problems on transfer functions and dynamic response of first and second order systems"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Hardware elements of a control system - temperature control setup for a bioreactor. Instrumentation: final control elements, measuring devices for flow, temperature, pressure, level, dissolved oxygen",
+            "Transfer function of components of feedback loop - transfer functions of measuring devices, transmission lines and final control elements (pneumatic control valves and control valve characteristics). Dead time processes",
+            "Types of feedback controllers - control laws and transfer functions of P, PI and PID controllers. Dynamic behaviour of feedback-controlled processes",
+            "Difference between open loop and closed loop control system. Closed loop transfer function for feedback (positive and negative) processes. Servo and regulatory responses due to proportional control, integral control, derivative control action and composite control"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Frequency response characteristics using substitution rule and their graphical representations - general linear system, dead time process, pure capacitive process, feedback controllers (P, PD and PID controllers). General representation of frequency response of typical transfer functions using Bode plot (only expected, no problems are expected)",
+            "Stability analysis of feedback systems - notion of stability, stable and unstable systems, BIBO stability, prediction of stability of transfer function for open loop and closed loop systems based on transfer function analysis. The characteristic equation",
+            "Routh Hurwitz criterion for stability. Cross over frequency, gain and phase margin. Bode stability criterion, Nyquist stability criterion. Numerical examples on Routh analysis, cross over frequency, PM",
+            "Design of feedback controllers - semi empirical tuning techniques: CC and ZN tuning. Numerical problems based on semi empirical tuning rules",
+            "Introduction to other methods of controller tuning - Internal Model Control (IMC) tuning, Model Predictive Control (MPC), Fuzzy Logic PID tuning, Adaptive PID control (no detailed study is required, a basic overview would be sufficient)"
+        ]
+    }
+]

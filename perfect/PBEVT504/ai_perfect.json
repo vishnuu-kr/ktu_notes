@@ -1,0 +1,103 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Complex Systems and Microprocessors: Embedding Computers",
+            "Characteristics of Embedded Computing Applications",
+            "Application of Microprocessors",
+            "The Physics of Software",
+            "Challenges in Embedded Computing System",
+            "Characteristics and Quality Attributes of an Embedded System",
+            "Performance in Embedded Computing",
+            "The Embedded System Design Process: Requirements",
+            "Specification",
+            "Architecture Design",
+            "Designing Hardware and Software Components",
+            "System Integration",
+            "Formalisms for System Design: Structural Description",
+            "Behavioral Description",
+            "An Embedded System Design Example",
+            "Embedded Product Development Cycle (EDLC): Different Phases of EDLC",
+            "EDLC Models"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Communication Devices: Serial Communication Standards and Devices - UART",
+            "HDLC and SPI",
+            "Serial Bus Protocols - I2C Bus",
+            "CAN Bus and USB Bus",
+            "Parallel Communication Standards: ISA",
+            "PCI and PCI-X Bus",
+            "Memory: Memory Devices and Systems - ROM, Flash",
+            "EEPROM",
+            "RAM, SRAM",
+            "DRAM",
+            "Cache Memory",
+            "Memory Mapping and Addresses",
+            "Memory Management Unit - DMA",
+            "Interrupts/Device Driver: Interrupt Sources",
+            "Recognizing an Interrupt",
+            "ISR - Device Drivers for Handling ISR",
+            "Interrupt Latency"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "ARM Processor Architecture: The Acorn RISC Machine",
+            "Architectural Inheritance",
+            "The ARM Programmer's Model",
+            "ARM Development Tools",
+            "ARM Assembly Language Programming: Data Processing Instructions",
+            "Data Transfer Instructions",
+            "Control Flow Instructions",
+            "Writing Simple Assembly Language Programs",
+            "ARM Organization and Implementation: Three Stage Pipeline ARM Organization",
+            "Five Stage Pipeline ARM Organization",
+            "ARM Instruction Execution",
+            "ARM Implementation",
+            "The ARM Coprocessor Interface"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Architectural Support for High-Level Languages: Abstraction in Software Design",
+            "Data Types",
+            "Floating-Point Data Types",
+            "The ARM Floating-Point Architecture",
+            "Expressions",
+            "Conditional Statements",
+            "Loops",
+            "Functions and Procedures",
+            "Assembly and C Language Programming Applications of Embedded Systems",
+            "Architectural Support for System Development: The ARM Memory Interface",
+            "The Advanced Microcontroller Bus Architecture (AMBA)",
+            "Operating System Basics: Functions of OS",
+            "Kernel",
+            "Types of Operating Systems",
+            "Introduction to Real Time Operating Systems: Tasks",
+            "Process",
+            "Threads",
+            "Multiprocessing and Multitasking",
+            "Task Scheduling",
+            "Task Communication",
+            "Choosing an RTOS",
+            "Design and Implementation of ARM Cortex Based Motor Speed Control",
+            "ARM7 Processor Based Auto Ignition Control in Automobiles",
+            "ARM Processor-Based Real-Time Car Theft Detection",
+            "Automated Irrigation System Using ARM Processor",
+            "ARM Processor Based Industrial Automation Using GSM/Wi-Fi"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

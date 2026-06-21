@@ -1,0 +1,89 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Big Data",
+            "Conventional Data vs Big Data",
+            "Big Data Architecture",
+            "Big Data Platforms - Hadoop Ecosystem",
+            "Core Components",
+            "HDFS Architecture",
+            "Using HDFS Files",
+            "HDFS Design",
+            "Blocks",
+            "Namenodes and Datanodes",
+            "Basic File System Operations",
+            "Hadoop Specific File Types",
+            "Anatomy of a File Read and File Write",
+            "Data Processing with MapReduce",
+            "Execution Pipeline - MapReduce",
+            "Developing a MapReduce Application"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to Pig",
+            "Execution Modes of Pig",
+            "Comparison of Pig with Databases",
+            "Grunt",
+            "Pig Latin",
+            "User Defined Functions",
+            "Data Processing Operators",
+            "Hive Shell",
+            "Hive Services",
+            "Hive Metastore",
+            "Comparison with Traditional Databases",
+            "HiveQL",
+            "Tables",
+            "Querying Data and User Defined Functions",
+            "HBase Basics",
+            "HBase Concepts",
+            "HBase Clients",
+            "HBase Example",
+            "HBase Versus RDBMS"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to R",
+            "R Graphical User Interfaces",
+            "Features of R Language",
+            "Vectors",
+            "Filtering",
+            "Creating Matrices",
+            "Applying Functions to Matrix Rows and Columns",
+            "Lists",
+            "Creating List",
+            "General List Operations",
+            "Data Frames",
+            "Creating Data Frames",
+            "Matrix-like Operations in Frames",
+            "Applying Functions to Data Frames",
+            "Reading and Writing Files"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Overview of Spark",
+            "Hadoop vs Spark",
+            "Cluster Design",
+            "Cluster Management",
+            "Performance",
+            "Application Programming Interface (API)",
+            "Spark Context",
+            "Resilient Distributed Datasets",
+            "Creating RDD",
+            "RDD Operations",
+            "Saving RDD",
+            "Lazy Operation",
+            "Spark Jobs",
+            "Writing Spark Application",
+            "Spark Programming in Python",
+            "Spark Programming in Java",
+            "Application Execution"
+        ]
+    }
+]

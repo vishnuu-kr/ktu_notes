@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Databases: Database System Concepts, Architecture, and Data Models",
+            "Schemas and Instances",
+            "Three-Schema Architecture and Data Independence",
+            "Database Languages and Interfaces",
+            "Centralized and Client/Server Architectures for DBMSs",
+            "Conceptual Data Modelling and Database Design: Data Modelling Using the Entity-Relationship (ER) Model",
+            "Entity Types, Entity Sets, Attributes, and Keys",
+            "Relationship Types, Relationship Sets, Roles, and Structural Constraints",
+            "Weak Entity Types",
+            "Refining the ER Design for the COMPANY Database"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "The Relational Data Model, Relational Database Constraints, Relational Algebra, and Relational Calculus",
+            "Structured Query Language (SQL): Data Definition Language",
+            "Data Manipulation Language",
+            "Assertions",
+            "Triggers",
+            "Views",
+            "Relational Database Design Using ER-to-Relational Mapping"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Functional Dependencies: Basic Definition",
+            "Normalization: First, Second, and Third Normal Forms",
+            "Transaction Processing: Introduction, Problems and Failures in Transaction, Desirable Properties of Transaction, Characterizing Schedules Based on Recoverability and Serializability",
+            "Concurrency Control with Two-Phase Locking Techniques",
+            "Database Recovery Management: Deferred Update, Immediate Update, and Shadow Paging"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to NoSQL Concepts",
+            "Types of NoSQL Databases, CAP Theorem, BASE Properties, Use Cases, and Limitations of NoSQL",
+            "SQL Architectural Patterns",
+            "Key-Value Stores, Graph Stores, Column Family Stores, and Document Stores"
+        ]
+    }
+]

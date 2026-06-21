@@ -1,0 +1,94 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction",
+            "Need for Protective Systems",
+            "Zones of Protection",
+            "Current Transformers and Voltage Transformers (Electromagnetic and Capacitive Voltage Transformers)",
+            "Principle of Operation of Magneto Optic CT/PT",
+            "Effect on Relaying Philosophy",
+            "Relays",
+            "Over Current Relays - Time-Current Characteristics of Over Current Relays",
+            "Definite Time Over Current Relays",
+            "Inverse Definite Minimum Time - Directional Over Current Relays",
+            "Current Setting and Time Setting - Numerical Problems - Differential Relays",
+            "Operating and Restraining Characteristics",
+            "Types of Differential Relays",
+            "Distance Relays",
+            "Impedance Relays",
+            "Reactance Relays",
+            "Mho Relays (Basic Principles and Characteristics Only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Protection of Transmission Lines",
+            "Schemes of Distance Protection",
+            "Differential Line Protection",
+            "Phase Comparison Line Protection",
+            "Protection of Bus-bar",
+            "Transformer, Generator and Motor Protection",
+            "Types of Faults",
+            "Differential Protection",
+            "High Impedance and Low Impedance Differential Protection Schemes",
+            "Harmonic Restraint Relay",
+            "Restricted Earth Fault Protection",
+            "Frame Leakage Protection",
+            "Stator and Rotor Protection Against Various Types of Faults"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Digital (Numerical) Relays",
+            "Basic Components of Numerical Relays with Block Diagram",
+            "Processing Unit",
+            "Human Machine Interface",
+            "Principle of Operation",
+            "Comparison of Numerical Relays with Electromechanical and Static Relays",
+            "Advantages of Numerical Relays - Communication in Protective Relays (IEC 61850)",
+            "Information Handling with Substation Automation System (SAS)",
+            "Signal Conditioning Subsystems",
+            "Surge Protection Circuits",
+            "Anti-Aliasing Filter",
+            "Conversion Subsystem",
+            "The Sampling Theorem",
+            "Aliasing",
+            "Sample and Hold Circuit",
+            "Concept of Analog to Digital and Digital to Analog Conversion",
+            "Idea of Sliding Window Concept",
+            "Fourier",
+            "Discrete and Fast Fourier Transforms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Signal Processing Techniques",
+            "Sinusoidal Wave Based Algorithms",
+            "Fourier Analysis Based Algorithms (Half Cycle and Full Cycle)",
+            "Least Squares Based Algorithm",
+            "Digital Filters - Fundamentals of Infinite Impulse Response Filters",
+            "Finite Impulse Response Filters",
+            "Filters with Sine and Cosine Windows",
+            "Wide Area Protection and Measurement",
+            "Phasor Measurement Units",
+            "Concept of Synchronized Sampling",
+            "Definition of Wide-Area Protection",
+            "Architectures of Wide-Area Protection",
+            "Concept of Adaptive Relaying",
+            "Advantages of Adaptive Relaying and Its Application",
+            "Adaptive Differential Protective Scheme"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

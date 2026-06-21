@@ -1,0 +1,55 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of Machine Learning and Basics of Neural Network",
+            "Machine Learning Paradigms - Supervised, Semi-supervised, Unsupervised, Reinforcement Learning",
+            "Basics of Parameter Estimation - Maximum Likelihood Estimation (MLE) and Maximum A Posteriori Estimation (MAP)",
+            "Neural Networks - Multilayer Feed Forward Network",
+            "Activation Functions (Sigmoid, ReLU, Tanh)",
+            "Linear Methods for Classification - Logistic Regression, Perceptron, Naive Bayes"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Supervised Learning",
+            "Decision Tree Algorithm (ID3)",
+            "Regression - Linear Regression with One Variable",
+            "Linear Regression with Multiple Variables - Solution Using Gradient Descent Algorithm and Matrix Method",
+            "Basic Idea of Overfitting in Regression"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Supervised Learning (Continued)",
+            "Backpropagation Algorithm",
+            "SVM - Introduction",
+            "Maximum Margin Classification",
+            "Mathematics Behind Maximum Margin Classification",
+            "Maximum Margin Linear Separators",
+            "Soft Margin SVM Classifier",
+            "Non-linear SVM",
+            "Kernels for Learning Non-linear Functions",
+            "Polynomial Kernel"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Unsupervised Learning and Classification Assessment",
+            "Clustering - Similarity Measures",
+            "Hierarchical Agglomerative Clustering",
+            "K-means Partitional Clustering",
+            "Dimensionality Reduction - Principal Component Analysis",
+            "Classification Performance Measures - Precision, Recall, Accuracy, F-Measure",
+            "Receiver Operating Characteristic Curve (ROC), Area Under Curve (AUC)",
+            "Bootstrapping",
+            "Cross Validation",
+            "Ensemble Methods",
+            "Bias-Variance Decomposition",
+            "Case Study - Develop a Classifier for Face Detection"
+        ]
+    }
+]

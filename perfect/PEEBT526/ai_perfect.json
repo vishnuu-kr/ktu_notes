@@ -1,0 +1,74 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic IC Fabrication Technology",
+            "Basic Fabrication Steps - Wafer Preparation",
+            "Oxidation",
+            "Diffusion",
+            "Etching Process",
+            "Ion Implantation Techniques",
+            "Isolation Techniques",
+            "Comparison and Performance Evaluation of Bipolar and MOS Technology",
+            "Fabrication Process of MOS Devices",
+            "NMOS and PMOS IC Technology",
+            "CMOS n-well and p-well Process"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "MOS Transistor and Geometrical Effects",
+            "Structure of MOSFET",
+            "Operation of MOSFET",
+            "Current-Voltage Characteristics",
+            "Channel Length Modulation",
+            "Short Channel Effects",
+            "Narrow Channel Effects",
+            "Scaling Factors for Device Parameters",
+            "Analysis of MOSFET Capacitance",
+            "MOS Inverters",
+            "Basic Circuit of NMOS Inverter - Voltage Transfer Characteristics",
+            "Inverters with n-type MOSFET Load",
+            "CMOS Inverter - Voltage Transfer Characteristics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Combinational MOS Logic Circuits",
+            "Circuit Operation of NMOS NOR and NAND Gates",
+            "CMOS NOR and NAND Gates",
+            "Compound Circuits Using CMOS Logic",
+            "Basic Circuit Concepts",
+            "Sheet Resistance",
+            "Area Capacitance",
+            "Delay Unit",
+            "Inverter Delays - Driving Large Capacitive Loads",
+            "Super Buffers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "MOS Circuit Design Processes",
+            "Stick Diagram",
+            "Layout Design Rules for MOS Circuits - Lamda Based Rules",
+            "Layout Examples of Inverter",
+            "NAND and NOR",
+            "Review of Power Dissipation in CMOS Circuits",
+            "Sources of Power Dissipation - Static",
+            "Dynamic and Leakage Power Dissipation",
+            "Dynamic Power Reduction Techniques - Supply Voltage Scaling Approaches - Parallelism",
+            "Pipelining (Basic Concepts)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

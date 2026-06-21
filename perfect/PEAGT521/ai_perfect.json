@@ -1,0 +1,56 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Concepts of Remote Sensing and Satellites: Definition, Historical Background, Components of Remote Sensing, Energy Source",
+            "Electromagnetic Spectrum",
+            "Radiation Laws",
+            "Platforms and Sensors, Active and Passive Remote Sensing Satellites, Types, Sun Synchronous and Geo Synchronous Remote Sensing Satellites",
+            "Resolutions: Spectral, Spatial, Radiometric and Temporal Resolution",
+            "LANDSAT, Sentinel and IRS",
+            "Data Acquisition: Concept of Spectral Radiance, Digital Number and Reflectance",
+            "Energy Interaction with Earth Surface Features, Atmospheric Effects on Remote Sensing",
+            "Spectral Reflectance Curves, Spectral Signatures for Water, Soil and Vegetation",
+            "Vegetation Indices"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Data Products and Image Analysis: Data Products Based on Level of Processing, Output, Scale, Area/Coverage, Data Availability",
+            "Image Interpretation: Visual Interpretation Elements, Interpretation Key",
+            "Digital Image Processing: Image Enhancement",
+            "Image Classification: Supervised and Unsupervised"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Concepts of GIS: History and Development, Definition, Components of GIS",
+            "Characteristics of Maps, Elements, Map Scale",
+            "Vector and Raster Data Models, Attribute Data",
+            "Map Projections, Coordinate Systems",
+            "Sources of Spatial Data, Spatial Analysis in GIS, Spatial Interpolation Using GIS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Application of RS and GIS: Crop Acreage Estimation",
+            "Estimation of Crop Water Requirement Using Thermal Remote Sensing",
+            "Crop Condition",
+            "Soil Mapping, Classification of Soil with Digital Numbers",
+            "Soil Erosion Mapping, Reservoir Sedimentation Using Image Processing",
+            "Inventory of Water Resources, Water Quality Assessment",
+            "Application of Remote Sensing and GIS in Precision Agriculture, Monitor Crop Health, Management Decision Support Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

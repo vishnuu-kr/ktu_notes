@@ -1,0 +1,83 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Advanced Driver Assistance Systems (ADAS) Overview: Definition and Objectives of ADAS",
+            "Key ADAS Features",
+            "Lane Keeping Assist",
+            "Adaptive Cruise Control",
+            "Automated Parking",
+            "Benefits and Challenges of ADAS",
+            "Fundamentals of Autonomous Driving: Levels of Vehicle Autonomy (SAE Levels 0-5)",
+            "Key Components of Autonomous Vehicles",
+            "Overview of Autonomous Vehicle Architectures",
+            "Vehicle Communication and Networking: In-Vehicle Networking (CAN)",
+            "FlexRay",
+            "Vehicle-to-Everything (V2X) Communication",
+            "Role of Wireless Technology in Autonomous Driving"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Radar and Lidar Systems: Basics of Radar Technology",
+            "Applications and Limitations of Radar in Vehicles",
+            "Fundamentals of Lidar Technology",
+            "Lidar Applications in 3D Mapping and Obstacle Detection",
+            "Camera Systems and Image Processing: Types of Cameras Used in ADAS",
+            "Image Processing Techniques for Vehicle Safety",
+            "Night Vision Technology and Applications",
+            "Ultrasonic and Infrared Sensors: Principles of Ultrasonic Sensor Operation",
+            "Applications in Parking Assist and Obstacle Detection",
+            "Infrared Sensors and Their Role in ADAS",
+            "Sensor Data Fusion: Introduction to Sensor Data Fusion",
+            "Techniques for Combining Data from Different Sensors",
+            "Benefits of Sensor Fusion in Enhancing System Accuracy and Reliability"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Artificial Intelligence and Machine Learning: Role of AI in Autonomous Vehicles",
+            "Machine Learning Algorithms for Vehicle Perception and Decision-Making",
+            "Deep Learning Applications in Autonomous Driving",
+            "Autonomous Driving Platforms and Software: Overview of Autonomous Driving Software Architectures",
+            "Key Platforms",
+            "ROS (Robot Operating System)",
+            "Autoware",
+            "Apollo",
+            "Software Development and Simulation Tools",
+            "Path Planning and Control Systems: Fundamentals of Path Planning Algorithms",
+            "Control Systems for Vehicle Stability and Navigation",
+            "Real-Time Decision-Making and Obstacle Avoidance",
+            "Cloud Computing and Edge Processing: Role of Cloud Computing in Autonomous Vehicle Ecosystems",
+            "Edge Processing for Real-Time Data Handling",
+            "Examples of Cloud-Based Autonomous Driving Platforms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "System Integration and Calibration: Integration of ADAS Components into Vehicle Systems",
+            "Calibration Techniques for Sensors and Actuators",
+            "Challenges in System Integration",
+            "Testing and Validation: Testing Methodologies for Autonomous and ADAS Systems",
+            "Simulation Environments and Test Tracks",
+            "Validation Processes and Safety Assessments",
+            "Maintenance and Troubleshooting: Common Issues in ADAS and Autonomous Systems",
+            "Diagnostic Tools and Software",
+            "Maintenance Best Practices for Autonomous Vehicles",
+            "Case Studies and Future Trends: Case Studies of Leading Autonomous Vehicle Projects",
+            "Emerging Trends in Autonomous Driving and ADAS Technology",
+            "Future Directions and Research Opportunities"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

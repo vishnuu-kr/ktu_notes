@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "A Data Communication Model - Data Communication",
+            "Data Communications Networking",
+            "Protocol Architecture",
+            "The Need for a Protocol Architecture",
+            "A Simple Protocol Architecture",
+            "TCP/IP Protocol Architecture",
+            "Data Transmission",
+            "Concepts and Terminology",
+            "Analog and Digital Data Transmission - Transmission Impairments",
+            "Channel Capacity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Digital Data, Digital Signals, and Analog Signals - Asynchronous and Synchronous Transmission",
+            "Types of Error - Error Detection - Error Correction - Data Link Control",
+            "Flow Control - Error Control",
+            "HDLC"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Synchronous TDM",
+            "Statistical TDM",
+            "Asymmetric DSL",
+            "xDSL",
+            "Circuit Switching and Packet Switching - Switching Networks",
+            "Circuit Switching Networks",
+            "Circuit Switching Concepts",
+            "Control Signaling",
+            "Soft Switch Architecture - Packet Switching Principles - X.25 - Frame Relay",
+            "Routing in Switched Networks",
+            "Routing in Circuit Switched Networks",
+            "Routing in Packet Switched Networks",
+            "Least Cost Algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Effect of Congestion - Congestion Control - Traffic Management - Congestion Control in Packet Switching Networks - Frame Relay Congestion Control",
+            "Local Area Network",
+            "LAN Protocol Architecture - Bridges - Layer 2 and Layer 3 Switches",
+            "High Speed LANs",
+            "The Emergence of High Speed LANs - Ethernet - Token Ring - Fibre Channel",
+            "Transport Protocol",
+            "Connection-Oriented Transport Protocol Mechanisms - TCP - Congestion Control - UDP"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]
