@@ -46,10 +46,9 @@ for root, dirs, files in os.walk(PDF_FOLDER):
             ) as f:
                 f.write(text)
 
-            print(f"✅ {pdf_path}")
-
+            print(f"OK: {pdf_path}")
         except Exception as e:
-            print(f"❌ {pdf_path}")
+            print(f"ERR: {pdf_path}")
             print(e)
 
-print("🎉 Finished")
+print("Finished")
