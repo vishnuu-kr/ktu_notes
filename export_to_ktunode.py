@@ -172,28 +172,6 @@ for folder in os.listdir(PERFECT_DIR):
                 
         branches = meta.get('branches', [])
         
-        # Map modules to frontend format
-        frontend_modules = []
-        for mod in modules_data:
-            mod_num = mod.get('module', 0)
-            mod_title = mod.get('title', f'Module {mod_num}')
-            topics = mod.get('topics', [])
-            
-            frontend_topics = []
-            for i, t in enumerate(topics):
-                frontend_topics.append({
-                    "id": f"t{mod_num}_{i+1}",
-                    "title": t,
-                    "content": "",
-                    "pyqs": []
-                })
-                
-            frontend_modules.append({
-                "id": f"m{mod_num}",
-                "title": mod_title,
-                "topics": frontend_topics
-            })
-            
         # Add to mapped branches and semesters
         for branch in branches:
             mapped_ids = map_branch_to_frontend(branch)
@@ -204,6 +182,28 @@ for folder in os.listdir(PERFECT_DIR):
                         branch_sem_subjects[key] = []
                         
                     sub_id = slugify(f"{subject_code}-{mapped_id}-s{sem}")
+                    
+                    frontend_modules = []
+                    for mod in modules_data:
+                        mod_num = mod.get('module', 0)
+                        mod_title = mod.get('title', f'Module {mod_num}')
+                        topics = mod.get('topics', [])
+                        
+                        frontend_topics = []
+                        for i, t in enumerate(topics):
+                            topic_id = f"{mapped_id}-{sem}-{subject_code.lower()}-m{mod_num}-t{i+1}"
+                            frontend_topics.append({
+                                "id": topic_id,
+                                "title": t,
+                                "content": "",
+                                "pyqs": []
+                            })
+                            
+                        frontend_modules.append({
+                            "id": f"m{mod_num}",
+                            "title": mod_title,
+                            "topics": frontend_topics
+                        })
                     
                     subject_obj = {
                         "id": sub_id,
