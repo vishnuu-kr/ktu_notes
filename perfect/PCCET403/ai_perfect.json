@@ -1,0 +1,47 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Concept of displacement approach to structural analysis, introduction to displacement methods of analysis. Kinematic indeterminacy slope deflection method, introduction, sign convention, development of slope deflection equation",
+            "Analysis of continuous beams including settlement of supports",
+            "Analysis of orthogonal rigid plane frames including sway frames with kinematic indeterminacy up to 2, moment distribution method, concept and derivation of basic equation, analysis of beams and non-sway frames",
+            "Analysis of sway frames (illustration only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Approximate methods of analysis of multi-storeyed frames",
+            "Analysis for vertical loads - substitute frames - loading condition for maximum hogging and sagging moments in beams and maximum bending moment in columns. Analysis for lateral loads - portal method",
+            "Cantilever method. Plastic theory",
+            "Introduction - plastic hinge concepts - plastic modulus - shape factor - redistribution of moments - collapse mechanisms - plastic analysis of beams and portal frames by equilibrium and mechanism methods (single storey and single bay frames only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Matrix analysis of structures, flexibility method, definition of flexibility influence coefficients",
+            "Concepts of physical approach. Flexibility matrices for truss and frame elements - load transformation matrix",
+            "Development of total flexibility matrix of the structure",
+            "Analysis of simple structures (determinate and indeterminate) - plane truss and plane frame",
+            "Nodal loads and element loads"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Stiffness method",
+            "Definition of stiffness influence coefficients - concepts of physical approach. Development of stiffness matrices by physical approach - stiffness matrices for truss and frame elements - displacement transformation matrix - analysis of simple indeterminate structures - plane truss and plane frame - nodal loads and element loads. Introduction to direct stiffness method - stiffness matrix of beam elements",
+            "Assembly of load vector and stiffness matrix",
+            "Solution of two span continuous beams"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

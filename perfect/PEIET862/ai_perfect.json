@@ -1,0 +1,75 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to R",
+            "Setting Up R and RStudio",
+            "Overview of the R Ecosystem",
+            "Installing and Loading R Packages",
+            "Getting Help with R, Basic Syntax and Operations",
+            "Introduction to R Script",
+            "Basic Data Types",
+            "Reading Data into R",
+            "Vectors",
+            "Matrices and Arrays",
+            "Data Frames",
+            "Lists",
+            "Factors and Tables"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "R Programming",
+            "Functions",
+            "Control Statements and Loops",
+            "Math Functions",
+            "Simulation in R",
+            "Object-Oriented Programming - S3 Classes",
+            "S4 Classes",
+            "R6 Classes",
+            "Input and Output",
+            "Reading and Writing Files",
+            "Debugging",
+            "Performance Enhancement",
+            "Parallel R, Rcpp",
+            "Setup",
+            "Basic Syntax",
+            "Writing Functions and Interfacing",
+            "Optimize R Performance with C++ for Statistical Computations and Data Processing",
+            "Develop, Compile, and Debug Rcpp Modules",
+            "Enhancing R Code Efficiency for Real-World Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Data Manipulation, Group Manipulation - Apply Family, Aggregate, Plyr, Data Table, Faster Group Manipulation with dplyr-Pipes (tbl, select, filter, slice, mutate, summarize, group by, arrange, do)",
+            "Iterating with purr, Data Reshaping, Tidyverse, String Manipulation, Manipulating Time Series Data with xts and zoo Packages"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Statistical Analysis",
+            "Probability Distributions",
+            "Exploratory Data Analysis",
+            "Creating and Customizing Graphs",
+            "Inferential Statistics",
+            "Parametric and Nonparametric Inference",
+            "Linear Regression Models - Simple and Multiple Regression",
+            "Generalized Linear Models",
+            "Experimental Designs",
+            "Multivariate Statistical Analysis",
+            "Time Series Analysis"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Display \"Hello World\" message using Internal UART",
+            "Interface and Control a DC Motor",
+            "Interface a Stepper motor and rotate it in clockwise and anti-clockwise direction",
+            "Interface a DAC and generate Triangular and Square waveforms",
+            "Interface a 4x4 keyboard and display the key code on an LCD",
+            "Using the Internal PWM module of ARM controller generate PWM and vary its duty cycle",
+            "Demonstrate the use of an external interrupt to toggle an LED On/Off",
+            "Display the Hex digits 0 to F on a 7-segment LED interface with an appropriate delay in between",
+            "Interface a simple Switch and display its status through Relay, Buzzer and LED",
+            "Familiarization with Arduino/Raspberry Pi and perform necessary software installation",
+            "Interface LED/Buzzer with Arduino/Raspberry Pi and write a program to turn ON LED for 1 sec after every 2 seconds",
+            "Interface Push button/Digital sensor (IR/LDR) with Arduino/Raspberry Pi and write a program to turn ON LED when push button is pressed or at sensor detection",
+            "Interface DHT11 sensor with Arduino/Raspberry Pi and write a program to print temperature and humidity readings",
+            "Interface Bluetooth with Arduino/Raspberry Pi and write a program to send sensor data to smartphone using Bluetooth",
+            "Interface Bluetooth with Arduino/Raspberry Pi and write a program to turn LED ON/OFF when 1/0 is received from smartphone using Bluetooth",
+            "Write a program on Arduino/Raspberry Pi to upload temperature and humidity data to Thing speak cloud",
+            "Write a program on Arduino/Raspberry Pi to retrieve temperature and humidity data from Thing speak cloud"
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Instrumentation and Control Engineering: Definition, Scope and Importance, Application of Instrumentation in Different Fields like Petrochemical, Biomedical, Pharmaceutical and Food Processing",
+            "Functional Elements of Measurement System",
+            "Introduction to Instrument Systems - Typical Applications of Instrument Systems - Basic Description of the Functional Elements of the Measurement System with Examples",
+            "Transducers and Instrument Types",
+            "Definition of Transducers - Role of Transducers in Instrumentation - Classification of Instruments",
+            "Active and Passive Instruments - Null-type and Deflection-type Instruments - Analogue and Digital Instruments - Indicating Instruments and Instruments with a Signal Output - Manually Operated and Automatic Type",
+            "Self-generating and Power Operated Types",
+            "Contacting and Non-contacting Types - Smart and Non-smart Instruments"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Functional Elements of Control System",
+            "Need of Control Systems - Role of Error Detectors - Block Diagram for a Control System with Examples",
+            "Measurement System Performance",
+            "Static Characteristics of Instruments: Accuracy and Precision, Static Sensitivity, Linearity, Hysteresis, Threshold, Dead Time, Dead Zone, Resolution or Discrimination, Static Error, Static Correction, Scale Range and Span, Reproducibility and Drift, Repeatability",
+            "Dynamic Characteristics of Instruments: Zero Order Instrument, First Order Instrument, Second Order Instrument"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Calibration of Measuring Sensors and Instruments",
+            "Standards and Calibration - Necessity of Calibration - Careful Instrument Design",
+            "Principles of Calibration - Control of Calibration Environment - Calibration Chain and Traceability - Calibration Records - Intelligent Instruments",
+            "Types of Inputs",
+            "Input Output Configuration of Measuring Instruments and Measurement Systems - Desired Inputs - Interfering Inputs - Modifying Inputs - Methods of Correction for Interfering and Modifying Inputs - Loading Effects",
+            "Input and Output Impedances: Input Impedances, Input Admittance, Output Impedances, Output Admittance"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Measurement Noise",
+            "Noise - Signal to Noise Ratio - Sources of Noise - Johnson Noise - Power Spectrum Density",
+            "Sources of Measurement Noise: Inductive Coupling, Capacitive (Electrostatic) Coupling, Noise Due to Multiple Earths, Noise in the Form of Voltage",
+            "Errors During the Measurement Process",
+            "Errors in Measurements: True Value",
+            "Limiting Errors (Guarantee Errors) - Relative (Fractional) Limiting Error - Combination of Quantities with Limiting Errors - Known Errors",
+            "Types of Errors: Gross Errors, Systematic Errors, Instrumental Errors, Environmental Errors, Observational Errors",
+            "Random (Residual) Errors - Reduction of Systematic Errors: Careful Instrument Design, Method of Opposing Inputs, Calibration, Manual Correction of Output Reading"
+        ]
+    }
+]

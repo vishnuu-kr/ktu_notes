@@ -1,0 +1,92 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Multivariable Control",
+            "Introduction",
+            "Process and Instrumentation",
+            "Process Variables",
+            "The Process Behavior",
+            "Control Aims",
+            "Modes of Operation",
+            "The Need for Feedback",
+            "Model-Free vs. Model-Based Control",
+            "The Importance of Considering Modelling Errors",
+            "Multivariable Systems",
+            "Implementation and Structural Issues"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Linear System Representation",
+            "Models and Equivalence: Introduction",
+            "Objectives of Modelling",
+            "Types of Models",
+            "First-Principle Models",
+            "Components",
+            "Internal Representation",
+            "State Variables",
+            "Linear Models and Linearization",
+            "Input/Output Representations",
+            "Polynomial Representation",
+            "Transfer Matrix",
+            "Systems and Subsystems",
+            "Interconnection",
+            "Series",
+            "Parallel and Feedback Connection",
+            "Generalised Interconnection",
+            "Generalised Interconnection"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction",
+            "Linear System Time-Response",
+            "Stability Conditions",
+            "Relative Degree of Stability",
+            "Discretisation",
+            "Gain",
+            "Static Gain",
+            "Instantaneous Gain",
+            "Directional Gain",
+            "Frequency Response",
+            "System Internal Structure",
+            "Reachability (State Controllability)",
+            "Observability",
+            "Output Reachability",
+            "Remarks on Reachability and Observability",
+            "Canonical Forms",
+            "Block System Structure (Kalman Form)",
+            "Minimal Realisation",
+            "Balanced Realisation",
+            "Poles and Zeros",
+            "Input/Output Properties",
+            "Input/Output Controllability",
+            "Model Reduction",
+            "Time Scale Decomposition",
+            "Balanced Reduction",
+            "Key Issues in MIMO Systems Analysis",
+            "Case Study: Simple Distillation Column"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Solutions to the Control Problem",
+            "The Control Variables Structures",
+            "Feedback",
+            "Closed",
+            "Interactions",
+            "Generalised Plant",
+            "Performance Analysis",
+            "Feedforward Control",
+            "Manual Control",
+            "Open-Loop Inversion and Trajectory Tracking",
+            "Disturbances",
+            "Hierarchical",
+            "Case"
+        ]
+    }
+]
