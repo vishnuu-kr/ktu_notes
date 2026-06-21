@@ -1,0 +1,86 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Operating System",
+            "Computer Hardware Organization",
+            "BIOS and Boot Process",
+            "Multithreading Concepts",
+            "Processes",
+            "Threads",
+            "Scheduling",
+            "Structures - Simple Batch",
+            "Multi-Programmed",
+            "Time-Shared",
+            "Personal Computer",
+            "Parallel",
+            "Distributed Systems",
+            "Real-Time Systems",
+            "System Components",
+            "Operating System Services"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Basics of Real Time Concepts",
+            "Terminology",
+            "RTOS Concepts and Definitions",
+            "Real-Time Design Issues",
+            "Examples",
+            "Hardware Considerations",
+            "Logic States",
+            "Memory",
+            "Architectures",
+            "RTOS Building Blocks",
+            "Real-Time Kernel"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Process Management",
+            "Concepts",
+            "Scheduling",
+            "CPU Scheduling",
+            "Scheduling Criteria",
+            "Scheduling Algorithms and Threads",
+            "Multithreading Models",
+            "Threading Issues",
+            "Thread Libraries",
+            "Synchronization and Mutex",
+            "Creating",
+            "Deleting",
+            "Prioritizing Mutex",
+            "Mutex Internals"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Inter-Process Communication",
+            "Messages",
+            "Buffers",
+            "Mailboxes",
+            "Queues",
+            "Semaphores",
+            "Deadlock",
+            "Priority Inversion, Pipes, and Memory Management",
+            "Process Stack Management",
+            "Run-Time Buffer Size",
+            "Swapping",
+            "Overlays",
+            "Block/Page Management",
+            "Replacement Algorithms",
+            "Real-Time Garbage Collection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction: Linear vs Non-linear Systems",
+            "Common Nonlinearities in Control Systems",
+            "Non-linear System Behaviour",
+            "Examples",
+            "Autonomous and Non-autonomous Systems",
+            "Equilibrium Points and Phase Plane Analysis: Singular Points",
+            "Construction of Phase Portraits",
+            "Method of Isoclines",
+            "Phase Plane Analysis of Linear Systems",
+            "Phase Plane Analysis of Non-linear Systems",
+            "Local Behaviour of Non-linear Systems",
+            "Stability of Limit Cycles",
+            "Poincaré",
+            "Bendixson Theorems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Describing Function Fundamentals",
+            "Describing Functions of Common Nonlinearities: Hysteresis, Backlash, Relay, Dead Zone, Saturation and Combined Effects",
+            "Application of Describing Function for Stability Analysis of Autonomous System with Single Nonlinearity (Relay, Dead Zone and Saturation Only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Stability of Non-linear Systems: Lyapunov Theory (Review), Autonomous and Non-autonomous Systems, Equilibrium Points",
+            "Stability in the Sense of Lyapunov",
+            "Asymptotic Stability and Exponential Stability",
+            "Linearization and Local Stability",
+            "Lyapunov’s Direct Method",
+            "Positive Definite Functions and Lyapunov Functions",
+            "Lyapunov Theorem for Local and Global Stability: Analysis Based on Lyapunov’s Direct Method",
+            "LTI Systems: Simple Problems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Krasovskii’s Method and Variable Gradient Method for Constructing Lyapunov Functions",
+            "Simple Examples and Popov’s Stability Criterion",
+            "Non-Linear Control System Design",
+            "Desired Behaviour of Non-linear Systems and Issues in Constructing Non-linear Controllers",
+            "Available Methods of Non-linear Control Design"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

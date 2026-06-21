@@ -1,0 +1,81 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of the Internet",
+            "Protocol Layering",
+            "Application Layer",
+            "Application-Layer Paradigms",
+            "Client-Server Applications - World Wide Web and HTTP",
+            "FTP; Electronic Mail",
+            "DNS; Peer-to-Peer Paradigm - P2P Networks",
+            "Case Study",
+            "BitTorrent"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Transport Layer",
+            "Services",
+            "Protocols",
+            "TCP",
+            "Hands-on",
+            "Sockets Introduction",
+            "Elementary TCP Sockets",
+            "TCP Client/Server Example",
+            "I/O Multiplexing",
+            "The Select and Poll Functions",
+            "Elementary UDP Sockets",
+            "Advanced I/O Functions",
+            "Network Layer Introduction",
+            "Network-Layer Protocols",
+            "Unicast Routing",
+            "Multicast Routing - Multicasting Basics",
+            "Intra-Domain and Inter-Domain Routing",
+            "Next Generation IP",
+            "Quality of Service",
+            "Hands-on",
+            "Linux Kernel Implementation of Routing Table and Caches",
+            "Routing Cache Implementation Overview",
+            "Adding New Entry in the Routing Table using ip command"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Data-Link Layer",
+            "Data Link Control (DLC)",
+            "Multiple Access Protocols (MAC)",
+            "Link-Layer Addressing",
+            "Ethernet Protocol",
+            "Connecting Devices",
+            "Wireless LANs",
+            "Mobile IP",
+            "Hands-on",
+            "Datalink Provider Interface",
+            "SOCK_PACKET and PF_PACKET"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "SNMP",
+            "ASN.1",
+            "Physical Layer",
+            "Data and Signals",
+            "Digital Transmission",
+            "Analog Transmission",
+            "Bandwidth Utilization",
+            "Transmission Media"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

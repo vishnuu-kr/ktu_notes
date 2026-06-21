@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic Structure of Computers: Functional Units, Basic Operational Concepts, Bus Structures, Memory Locations and Addresses, Memory Operations",
+            "Instructions and Instruction Sequencing",
+            "Addressing Modes, Basic Processing Unit: Fundamental Concepts, Instruction Cycle, Execution of a Complete Instruction, Single Bus and Multiple Bus Organization, Register Transfer Logic",
+            "Inter Register Transfer: Arithmetic, Logic and Shift Micro Operations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Processor Logic Design",
+            "Processor Organization: Arithmetic Logic Unit, Design of Arithmetic Circuit, Design of Logic Circuit, Design of Arithmetic Logic Unit, Status Register, Design of Shifter, Processor Unit, Design of Accumulator",
+            "Arithmetic Algorithms",
+            "Algorithms for Multiplication and Division (Restoring Method) of Binary Numbers, Array Multiplier",
+            "Booth's Multiplication Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Pipelining",
+            "Basic Principles",
+            "Classification of Pipeline Processors",
+            "Instruction and Arithmetic Pipelines (Design Examples Not Required)",
+            "Hazard Detection and Resolution",
+            "I/O Organization",
+            "Accessing of I/O Devices, Interrupts",
+            "Interrupt Hardware, Direct Memory Access",
+            "Control Logic Design",
+            "Control Organization: Hardwired Control, Micro Program Control, Control of Processor Unit, Micro Program Sequencer",
+            "Micro Programmed CPU Organization: Horizontal and Vertical Micro Instructions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Memory System: Basic Concepts",
+            "Semiconductor RAMs, Memory System Considerations",
+            "ROMs, Content Addressable Memory, Cache Memories",
+            "Mapping Functions",
+            "Hardware Software Design and Embedded Product Development",
+            "Hardware Software Co-Design, Modeling of Systems, Embedded Product Development Life Cycle Management, Life Cycle Models, Product Design, Design Process, Testing",
+            "Suggestions on Project Topics: Ripple Carry Adder, Carry Look Ahead Adder, Wallace Tree Adder, Synthesis of Flipflops, Register and Counters, Combinational Multipliers, Booth's Multiplier, ALU, Memory Design, Associative Cache Design, Direct Memory Mapped Design"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of Information Retrieval Systems: History and Evolution of IR",
+            "Basic Concepts of Information Retrieval",
+            "Differences Between Data Retrieval and Information Retrieval",
+            "IR Models",
+            "Boolean",
+            "Vector Space",
+            "Probabilistic Models",
+            "Indexing and Search",
+            "Document Representation and Preprocessing",
+            "Tokenization",
+            "Stemming",
+            "Lemmatization",
+            "Inverted Index and Boolean Queries",
+            "Term Frequency and Document Frequency",
+            "Relevance Feedback and Query Expansion",
+            "Query Reformation Techniques",
+            "User Feedback in IR Systems",
+            "Pseudo Relevance Feedback"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Retrieval Models and Evaluation",
+            "Vector Space Model (VSM)",
+            "Probabilistic Retrieval Model",
+            "Language Models for IR",
+            "Latent Semantic Indexing (LSI)",
+            "Topic Models (LDA)",
+            "Evaluation of Information Retrieval Systems",
+            "Precision",
+            "Recall",
+            "F-Measure",
+            "Receiver Operating Characteristic (ROC) Curves",
+            "Mean Average Precision (MAP)",
+            "Discounted Cumulative Gain (DCG)",
+            "Test Collections and Benchmarks (TREC)",
+            "Text Similarity and Ranking",
+            "Cosine Similarity",
+            "TF-IDF Weighting",
+            "BM25 Ranking Algorithm"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Web Search and Information Retrieval",
+            "Web Search Fundamentals",
+            "Web Crawling and Indexing",
+            "Link Analysis Algorithms",
+            "PageRank and HITS",
+            "Search Engine Architecture and Components",
+            "Web Content Mining and Structure Mining",
+            "Search Engine Optimization (SEO): Concepts of SEO and Ranking Factors",
+            "On-Page and Off-Page Optimization",
+            "User Behavior Modeling and Personalized Search",
+            "Distributed and Scalable Search",
+            "Distributed Indexing and Search Architectures",
+            "MapReduce for Large Scale Search Engines",
+            "Parallel Query Processing and Web-Scale IR"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Advanced Topics in Information Retrieval",
+            "Multimedia and Cross-Language Information Retrieval",
+            "Image and Video Retrieval Techniques",
+            "Content-Based Image Retrieval (CBIR)",
+            "Cross-Language Information Retrieval (CLIR) and Challenges",
+            "Natural Language Processing (NLP) in IR",
+            "Social Media and Sentiment Analysis",
+            "Social Media Mining and Opinion Retrieval",
+            "Sentiment Analysis and Opinion Mining Techniques",
+            "Collaborative Filtering and Recommendation Systems",
+            "Ethical Issues and Emerging Trends",
+            "Privacy and Bias in Information Retrieval",
+            "Ethics of Search Engines and IR Systems",
+            "AI in Information Retrieval",
+            "Deep Learning and Neural IR Models",
+            "Future Directions in IR Research"
+        ]
+    }
+]

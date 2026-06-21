@@ -1,0 +1,73 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Control Systems",
+            "Open-Loop and Closed-Loop Systems",
+            "Feedback and Non-Feedback Systems",
+            "Servomechanism",
+            "History and Development of Automatic Control",
+            "Feedback Characteristics of Control Systems",
+            "Mathematical Modelling and Transfer Functions",
+            "Block Diagram Algebra and Signal Flow Graphs",
+            "Block Diagram of an Open-Loop System",
+            "Block Diagram of a Closed-Loop System",
+            "Block Diagram and Transfer Function of First-Order and Second-Order Systems",
+            "Block Diagram Reduction Techniques",
+            "Concept and Construction of Signal Flow Graph",
+            "Finding Transfer Function from Signal Flow Graph Using Mason's Gain Formula"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Time-Domain Analysis of First-Order Systems",
+            "Time Response: Transient and Steady-State Response",
+            "Standard Test Signals and Their Application in System Analysis",
+            "Open-Loop and Closed-Loop Transfer Functions",
+            "Type and Order of Systems",
+            "Concept of Poles and Zeros",
+            "Response of First-Order System to Unit Impulse and Unit Step Input",
+            "Time Response Specifications of First-Order Systems",
+            "Time-Domain Analysis of Second-Order Systems",
+            "Response of Under-Damped Second-Order System to Unit-Step Input",
+            "Response of Under-Damped Second-Order System to Unit Impulse and Unit Ramp Input",
+            "Response of Over-Damped, Critically Damped, and Undamped Second-Order System to Unit Step Input",
+            "Time Response Specifications of Under-Damped Second-Order System",
+            "Steady-State Errors and Error Constants",
+            "Steady-State Error and Static Error Constants"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Stability of Linear Systems",
+            "Characteristic Polynomial, Characteristic Equation, and General Stability Criterion with Reference to S-Plane",
+            "Absolute and Relative Stability",
+            "Necessary Conditions for Stability",
+            "Routh's Criterion of Stability",
+            "The Root Locus Technique",
+            "The Root Locus Concept",
+            "Evan's Criteria",
+            "Construction of Root Locus",
+            "Determination of Roots from Root Locus",
+            "Effect of Addition of Zeros and Poles on Root Locus",
+            "Root Contours"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Frequency Response Analysis",
+            "Frequency Response Representation",
+            "Sinusoidal Transfer Function",
+            "Frequency Domain Specifications",
+            "Polar Plot and Bode Plot Construction",
+            "Stability in Frequency Domain",
+            "Gain Margin and Phase Margin",
+            "Stability from Bode Plots",
+            "Nyquist Stability Criterion",
+            "Assessment of Relative Stability Using Nyquist Criterion"
+        ]
+    }
+]

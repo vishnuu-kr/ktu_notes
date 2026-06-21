@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "State Space Representation of Systems: Introduction to State Space and State Model Concepts, State Equation of Linear Continuous Time Systems, Matrix Representation",
+            "Features",
+            "Examples of Electrical Circuits and DC Servomotors, Phase Variable Forms of State Representation",
+            "Diagonal Canonical Forms",
+            "Similarity Transformations to Diagonal Canonical Form"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "State Space Analysis: State Transition Matrix",
+            "Properties of State Transition Matrix",
+            "Computation of State Transition Matrix Using Laplace Transform and Cayley Hamilton Method, Derivation of Transfer Functions from State Equations, Solution of Time Invariant Systems, Solution of Time Response of Autonomous Systems and Forced Systems, State Space Analysis of Discrete Time Control Systems, Phase Variable Form and Diagonal Canonical Form Representations",
+            "Pulse Transfer Function from State Matrix",
+            "Computation of State Transition Matrix (Problems from 2nd Order Systems Only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "State Feedback Controller Design: Controllability and Observability",
+            "Kalman’s",
+            "Gilbert’s and PBH Tests, Duality Principle, State Feedback Controller Design",
+            "State Feedback Design via Pole Placement Technique, State Observers for LTI Systems - Types - Design of Full Order Observer"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Nonlinear Systems and Stability: Types and Characteristics of Nonlinear Systems - Jump Resonance",
+            "Limit Cycles and Frequency Entrainment, Phase Plots",
+            "Concepts - Singular Points - Classification of Singular Points, Definition of Stability - Asymptotic Stability and Instability, Construction of Phase Trajectories Using Isocline Method for Linear and Nonlinear Systems, Lyapunov Stability Analysis",
+            "Lyapunov Function - Lyapunov Methods to Stability of Nonlinear Systems - Lyapunov Methods to LTI Continuous Time Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

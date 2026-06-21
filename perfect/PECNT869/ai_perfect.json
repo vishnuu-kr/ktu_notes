@@ -1,0 +1,78 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Historical Development",
+            "Features",
+            "Classification and Components of Evolutionary Computing",
+            "Advantages",
+            "Comparison with Other Optimization Techniques (Gradient Descent) and Simulated Annealing",
+            "Annealing Schedule",
+            "Parameter Selection",
+            "Hill Climbing",
+            "Mathematical Description",
+            "Types of Hill Climbing Algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Local and Global Maxima",
+            "Ridges",
+            "Plateau",
+            "Hybrid Approaches Combining Simulated Annealing and Hill Climbing",
+            "Introduction to Genetic Algorithms - Biological Background",
+            "Genetic Algorithm vs. Traditional Algorithms",
+            "Simple Genetic Algorithm",
+            "Classification of Genetic Algorithm - Messy Genetic Algorithms",
+            "Adaptive Genetic Algorithms",
+            "Hybrid Genetic Algorithms",
+            "Parallel Genetic Algorithm",
+            "Genetic Programming",
+            "Working of Genetic Programming",
+            "Characteristics of Genetic Programming",
+            "Advantages and Limitations of Genetic Algorithm",
+            "Applications of Genetic Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Ant Colony Optimization",
+            "Ant Foraging Behavior",
+            "Theoretical Considerations",
+            "Convergence Proofs",
+            "ACO Algorithm",
+            "ACO and Model Based Search",
+            "Variations of ACO",
+            "Elitist Ant System (EAS)",
+            "Minmax Ant System (MMAS)",
+            "Rank Based Ant Colony System (RANKAS)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Principles of Bird Flocking and Fish Schooling",
+            "Evolution of PSO",
+            "Operating Principles",
+            "PSO Algorithm",
+            "Neighborhood Topologies",
+            "Convergence Criteria",
+            "Variations of PSO",
+            "Artificial Bee Colony (ABC) Optimization",
+            "Behaviour of Real Bees",
+            "ABC Algorithm",
+            "Variations of ABC",
+            "ABCgbest and ABCgbestdist"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

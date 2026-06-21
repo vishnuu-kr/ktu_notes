@@ -1,0 +1,85 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Communication Systems",
+            "Definition",
+            "Block Level Representation and Analog and Digital Communication Systems",
+            "Comparison",
+            "Need for Modulation and Amplitude Modulation",
+            "Representation of AM",
+            "Modulation Index",
+            "Frequency Spectrum",
+            "Power Relations in AM Wave",
+            "AM Generation",
+            "Envelope AM Detection",
+            "Superheterodyne AM Receiver",
+            "Balanced Modulator and Frequency Modulation",
+            "Mathematical Representation",
+            "Waveforms",
+            "Frequency Deviation",
+            "Bandwidth Requirement",
+            "FM Generation – Varactor Diode Modulator and Armstrong Method",
+            "Pre-emphasis and De-emphasis",
+            "Balanced Slope Detector",
+            "FM Transmitters and FM Receivers (Block Diagram)"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Pulse Modulation",
+            "Need for Pulse Modulation",
+            "Different Types",
+            "Pulse Amplitude Modulation",
+            "Pulse Width Modulation",
+            "Pulse Position Modulation, Pulse Code Modulation – Principles of Operation and Digital Modulation Schemes",
+            "BPSK",
+            "QPSK",
+            "BFSK",
+            "Differential Phase Shift Keying (DPSK)",
+            "QAM and Modems",
+            "Classification",
+            "Modes of Operation",
+            "Modem Interfacing"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Microwave Communication System",
+            "Introduction – Transmitter, Repeater, Receiver",
+            "Frequency Bands and Satellite Communication System",
+            "Introduction – Transponder",
+            "Kepler's Laws",
+            "Satellite Sub-systems and Optical Communication System",
+            "Features",
+            "Fiber Optic Technology – Total Internal Reflection, Snell's Law, Light Transmission Through an Optical Fiber, Numerical Aperture",
+            "Optical Fiber Communication System and Cellular Communications",
+            "Principles of Cellular Networks",
+            "Frequency Reuse",
+            "Operation of Cellular System",
+            "Hand-off Strategies",
+            "Roaming",
+            "Improving Capacity in Cellular System"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Wireless Communication Systems",
+            "Introduction to Modern Wireless Communication Systems",
+            "Wireless Local Area Networks",
+            "Bluetooth, Personal Area Networks and Introduction to Multiple Access",
+            "FDMA",
+            "TDMA",
+            "Spread Spectrum Multiple Access",
+            "Space Division Multiple Access",
+            "CDMA",
+            "OFDM and GSM Services",
+            "Architecture of GSM Network and Overview of Mobile Communication Generations (1G to 4G)",
+            "Evolution and Need for 5G",
+            "5G Network Architecture and Components"
+        ]
+    }
+]

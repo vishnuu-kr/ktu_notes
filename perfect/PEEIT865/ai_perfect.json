@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Robotics and Robot Definition",
+            "Applications",
+            "Industrial Robot Anatomy",
+            "Robot Classifications",
+            "Understanding Technical Specifications",
+            "Serial Robots and Parallel Robots, Electrical Actuators and Drives",
+            "DC Motors",
+            "Stepper Motors",
+            "BLDC Motor",
+            "Synchronous AC Servo Motors",
+            "Industrial Servo Drives",
+            "Hardware Controllers and Interfaces",
+            "Selection of Motors and Understanding Manufacturer's Technical Datasheet"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Robot Sensors and Its Interfaces, Contact and Non-Contact Sensors",
+            "Position, Velocity, Acceleration, Proximity, and Force Sensors, Characteristics of Sensors, Grubler-Kutzbach Criterion",
+            "DOF of a Robot Manipulator, Kinematic Transformations, Homogeneous Transformation, Denavit-Hartenberg (DH) Parameters",
+            "Forward Kinematics, Inverse Kinematic Model, Manipulator Workspace, Solvability, Solution Techniques, Closed Form Solution"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Industrial Robot Installation and Commissioning",
+            "Mastering a Robot",
+            "Tool Center Point Calibration",
+            "4-Point Method",
+            "External Reference Method",
+            "Orientation Calibration",
+            "World Frame Method",
+            "Two-Point Method, Calibration of Industrial Robot System",
+            "External Fixed Tool",
+            "Workpiece Calibration",
+            "Direct and Indirect"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Imaging Components, Image Representation, Picture Coding, Object Recognition and Categorization, Visual Inspection",
+            "Robot Cell Design and Control Layouts",
+            "Industrial Applications - Material Handling",
+            "Process",
+            "Assembly",
+            "Inspection",
+            "Non-Industrial Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]
