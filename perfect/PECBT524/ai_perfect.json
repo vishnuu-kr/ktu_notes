@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Formal Languages and Automata",
+            "Basics of Formal Languages",
+            "Alphabets",
+            "Strings and Languages",
+            "Operations on Languages",
+            "Introduction to Automata",
+            "Concept of Automata",
+            "Deterministic and Non-deterministic Finite Automata (DFA and NFA)"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "More on Regular Languages",
+            "Regular Grammar (RG)",
+            "Regular Expression (RE)",
+            "Equivalence of REs and DFA",
+            "Closure Properties of Regular Languages",
+            "DFA State Minimization"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Context Free Grammar (CFG)",
+            "CFG Representation of Context Free Languages",
+            "Derivation Trees and Ambiguity",
+            "Normal Forms for CFGs",
+            "Nondeterministic Pushdown Automata (PDA)",
+            "Deterministic Pushdown Automata (DPDA)",
+            "Equivalence of PDAs and CFGs (Proof not required)",
+            "Pumping Lemma for Context-Free Languages",
+            "Closure Properties of Context Free Languages"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Context Sensitive Languages",
+            "Turing Machines",
+            "Context Sensitive Grammar (CSG)",
+            "Standard Turing Machine",
+            "Robustness of Turing Machines",
+            "Universal Turing Machine",
+            "Halting Problem",
+            "Recursive and Recursively Enumerable Languages"
+        ]
+    }
+]

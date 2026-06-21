@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of PLC, PLC Advantages and Disadvantages, Architecture of PLC, Scan Cycles",
+            "Types of PLC, PLC Programming Languages",
+            "Relay Logic",
+            "Ladder Logic",
+            "Connecting PLC to Computer",
+            "PLC Troubleshooting and Maintenance"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Programming of Timers",
+            "ON Delay, OFF Delay, Retentive Timers",
+            "PLC Timer Functions",
+            "Examples of Timer Function Industrial Application",
+            "Programming Counters",
+            "Up/Down Counter",
+            "Examples of Counter Function Industrial Application",
+            "PLC Arithmetic Functions",
+            "PLC Number Comparison Function"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "PLC Program Control Instructions",
+            "Master Control, Reset, Skip, Jump and Move Instructions, Sequencer Instructions, Types of PLC Analog Modules and Systems",
+            "PLC Analog Signal Processing, Case Study of Tank Level Control System",
+            "Bottle Filling System and Sequential Switching of Motors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Sampling Theorem",
+            "Sampling and Digitizing",
+            "Aliasing",
+            "Sample and Hold Circuit",
+            "Practical Implementation of Sampling and Digitizing",
+            "Definition, Design and Need for Data Acquisition Systems",
+            "Interfacing ADC and DAC with Microprocessor/Multiplexer",
+            "Multiplexed Channel Operation",
+            "Microprocessor/PC Based Acquisition Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

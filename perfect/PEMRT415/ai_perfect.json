@@ -1,0 +1,89 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basic Object-Oriented Concepts",
+            "Introduction to Java - Java Programming and Runtime Environment",
+            "Development Platforms - Java Virtual Machine (JVM)",
+            "Java Compiler",
+            "Bytecode",
+            "Java Buzzwords",
+            "Java Program Structure",
+            "Comments. Primitive Data Types - Integers",
+            "Floating Point Types",
+            "Characters",
+            "Boolean. Literals",
+            "Operators - Arithmetic Operators",
+            "Bitwise Operators",
+            "Relational Operators",
+            "Boolean Logical Operators",
+            "Assignment Operator",
+            "Conditional (Ternary) Operator. Control Statements - Selection Statements",
+            "Iteration Statements and Jump Statements"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Object Oriented Programming in Java - Class Fundamentals",
+            "Declaring Objects",
+            "Introduction to Methods",
+            "Constructors",
+            "this Keyword",
+            "Method Overloading",
+            "Using Objects as Parameters",
+            "Returning Objects. Static Members",
+            "Final Variables",
+            "Inner Classes. Inheritance - Super Class",
+            "Sub Class",
+            "The Keyword super",
+            "protected Members",
+            "Calling Order of Constructors",
+            "Method Overriding",
+            "the Object class",
+            "Abstract Classes and Methods",
+            "using final with Inheritance. Packages and Interfaces"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Exception Handling - Checked Exceptions",
+            "Unchecked Exceptions",
+            "try Block and catch Clause",
+            "Multiple catch Clauses",
+            "Nested try Statements",
+            "throw. Java Library - String Handling - String Constructors",
+            "String Length",
+            "Special String Operations. Multithreaded Programming - The Java Thread Model",
+            "The Main Thread",
+            "Creating Thread",
+            "Creating Multiple Threads",
+            "Synchronization",
+            "Suspending",
+            "Resuming and Stopping Threads"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Event Handling - Event Handling Mechanisms",
+            "Delegation Event Model",
+            "Event Classes",
+            "Sources of Events",
+            "Event Listener Interfaces. Java Database Connectivity (JDBC) - JDBC Overview",
+            "Creating and Executing Queries - Create Table",
+            "Delete",
+            "Insert",
+            "Select"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

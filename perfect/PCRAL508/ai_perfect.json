@@ -1,0 +1,15 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Image Classification: Build a CNN to classify images into predefined categories. Experiment with different architectures (LeNet, AlexNet, ResNet) and hyperparameters. Evaluate performance using standard metrics.",
+            "Object Detection: Train a CNN-based object detection model (e.g., YOLO/Faster R-CNN) on a custom dataset. Evaluate performance using standard metrics.",
+            "Image Segmentation: Implement a CNN-based image segmentation model (e.g., U-Net/DeepLabv3) for semantic or instance segmentation. Evaluate performance using standard metrics.",
+            "Text Classification: Build a Recurrent Neural Network (RNN) or Long Short-Term Memory (LSTM) network for text classification (e.g., sentiment analysis, spam detection). Experiment with different word embedding techniques (Word2Vec, GloVe).",
+            "Time Series Prediction: Use a Recurrent Neural Network (RNN) or LSTM network to predict future values of a time series (e.g., stock prices, weather data). Experiment with different window sizes and hyperparameters. Evaluate performance using standard metrics.",
+            "2D SLAM with Lidar: Implement a 2D SLAM algorithm (e.g., Gmapping, Hector SLAM) using a simulated or real lidar sensor. Evaluate performance using standard metrics.",
+            "Visual SLAM: Implement a visual SLAM algorithm (e.g., ORB-SLAM, DSO) using a simulated or real camera. Evaluate performance using standard metrics.",
+            "Robot Arm Control using PID: Simulate the control of robot arm using PID controller."
+        ]
+    }
+]

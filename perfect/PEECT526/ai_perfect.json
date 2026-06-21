@@ -1,0 +1,87 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "High Speed Digital Design",
+            "Fundamentals",
+            "Frequency and Time",
+            "Time and Distance",
+            "Lumped Versus Distributed Systems",
+            "Four Kinds of Reactance - Ordinary Capacitance and Inductance",
+            "Mutual Capacitance and Inductance",
+            "Relation of Mutual Capacitance and Mutual Inductance to Crosstalk"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "High Speed Properties of Logic Gates",
+            "Power",
+            "Quiescent vs Active Dissipation",
+            "Active Power Driving a Capacitive Load",
+            "Active Power Due to Overlapping Bias Currents",
+            "Input Power",
+            "Speed",
+            "Packaging",
+            "Measurement Techniques",
+            "Rise Time and Bandwidth of Oscilloscope Probes",
+            "Self Inductance of Probe Ground Loop",
+            "Spurious Signal Pickup from Probe Ground Loops",
+            "Special Probing Fixtures",
+            "Avoiding Pickup from Probe Shield Currents",
+            "Slowing Down of a System Clock",
+            "Observing Metastable States"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Transmission Lines",
+            "Problems of Point to Point Wiring, Signal Distortion, EMI, and Crosstalk",
+            "Infinite Uniform Transmission Line",
+            "Ideal Distortionless Lossless Transmission Line",
+            "RC Transmission Line",
+            "Skin Effect",
+            "Proximity Effect",
+            "Dielectric Loss",
+            "Effects of Source and Load Impedance",
+            "Termination",
+            "End Terminator",
+            "Source Terminators",
+            "Middle Terminators",
+            "AC Biasing for End Terminators",
+            "Resistor Selection",
+            "Crosstalk in Terminators"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Power System",
+            "Stable Voltage Reference",
+            "Uniform Voltage Distribution",
+            "Distribution Problems",
+            "Choosing a Bypass Capacitor",
+            "Clock Distribution",
+            "Timing Margin",
+            "Clock Skew",
+            "Using Low Impedance Drivers",
+            "Using Low Impedance Distribution Lines",
+            "Delay Adjustments",
+            "Differential Distribution",
+            "Clock Signal Duty Cycle",
+            "Decoupling Clock Receivers from the Clock Bus",
+            "Clock Oscillators",
+            "Canned Clock Oscillator",
+            "Clock Jitter"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

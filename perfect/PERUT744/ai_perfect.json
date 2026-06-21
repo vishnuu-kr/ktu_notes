@@ -1,0 +1,40 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Analog Communication: Block Diagram of a Communication System, Need for Analog Modulation, Amplitude Modulation, Equation and Spectrum of AM Signal, DSB-SC and SSB Systems, Block Diagram of SSB Transmitter and Receiver, Frequency and Phase Modulation, Narrow and Wide Band FM and Their Spectra, FM Transmitter and Receiver"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Stochastic Processes and Source Coding: Review of Probability, Bayes Theorem and Conditional Probability, Stochastic Processes and Stationarity, Conditions for WSS and SSS, Autocorrelation and Power Spectral Density, LTI Systems with WSS as Input, Sampling and Quantization, Pulse Code Modulation Transmitter and Receiver, Companding, Practical 15-Level A-Law and μ-Law Companders, DPCM Transmitter and Receiver, Delta Modulation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "G-S Procedure and Effects in the Channel: Definition of Signal, Basic Operations on Signals, Gram-Schmitt Procedure, Signal Space, Baseband Transmission Through AWGN Channel, Inter Symbol Interference, Nyquist Criterion for Zero ISI, Raised Cosine and Square Root Raised Cosine Spectrum, Partial Response Signalling and Duobinary Coding, Equalization, Vector Model of AWGN Channel, Matched Filter and Correlation Receivers, MAP Receiver, Maximum Likelihood Receiver and Probability of Error"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Digital Modulation Schemes",
+            "Baseband BPSK System and the Signal Constellation",
+            "BPSK Transmitter and Receiver",
+            "Baseband QPSK System and Signal Constellations",
+            "Plots of BER vs SNR with Analysis",
+            "QPSK Transmitter and Receiver",
+            "Quadrature Amplitude Modulation and Signal Constellation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

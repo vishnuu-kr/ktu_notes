@@ -1,0 +1,82 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Graph Terminology",
+            "Basic Graph Theory Terminology",
+            "Data Structures for Representation of Graphs and Search Algorithms",
+            "Breadth First Search",
+            "Depth First Search",
+            "Topological Sort",
+            "Shortest Path Algorithms",
+            "Dijkstra's Shortest-Path Algorithm for Single-Pair Shortest Path",
+            "Floyd-Warshall Algorithm for All-Pairs Shortest Path"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "VLSI Design Flow",
+            "VLSI Design Styles",
+            "Partitioning",
+            "Levels of Partitioning",
+            "Parameters for Partitioning",
+            "Classification of Partitioning Algorithms",
+            "Kernighan-Lin Algorithm",
+            "Fiduccia-Mattheyses Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Layout",
+            "Layout Layers and Design Rules",
+            "Physical Design Optimizations",
+            "Compaction",
+            "Applications of Compaction",
+            "Informal Problem Formulation",
+            "Graph Theoretical Formulation",
+            "Maximum Distance Constraints",
+            "Longest Path Algorithm for DAG",
+            "Liao-Wong Algorithm",
+            "Placement",
+            "Optimization Objectives",
+            "Wirelength Estimation",
+            "Weighted Wirelength",
+            "Maximum Cut Size",
+            "Wire Density",
+            "Placement Algorithms",
+            "Quadratic Placement"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Floorplanning",
+            "Optimization Objectives",
+            "Slicing Floorplan",
+            "Non-Slicing Floorplan",
+            "Floorplan Representations",
+            "Constraint Graph",
+            "Sequence Pair",
+            "Global Routing",
+            "Terminology and Definitions",
+            "Optimization Goals",
+            "Representation of Routing Regions",
+            "Maze Routing Algorithms",
+            "Lee's Algorithm",
+            "Detailed Routing",
+            "Horizontal and Vertical Constraint Graph",
+            "Channel Routing Algorithms",
+            "Left-Edge Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

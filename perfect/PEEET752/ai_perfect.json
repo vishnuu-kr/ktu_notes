@@ -1,0 +1,40 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Nonlinear Systems, Basic Characteristics of Nonlinear Systems, Examples, State-Space Representation of Nonlinear Systems, Classification of Nonlinearities, Phase Plane Analysis, Concept of Phase Plane, Singular Points, Definition of Stability - Asymptotic Stability, Instability",
+            "Construction Using Isocline Method, Classification of Equilibrium Points",
+            "Systems with Multiple Equilibria, Periodic Orbits - Limit Cycles"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Lyapunov Stability Theory, Lyapunov's Direct Method - Definite Functions - Stability Theorems",
+            "Variable Gradient Method - La-Salle Theorems, Stability of Linear Systems - Lyapunov Equation for Time-Invariant Systems - Lyapunov's Linearization (Indirect) Method - Region of Attraction (Concept Only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Frequency Domain Analysis of Feedback Systems, Describing Function Method, Analysis Through Harmonic Linearization - Determination of Describing Function of Nonlinearities, Application of Describing Function for Stability Analysis of Autonomous System with Single Nonlinearity (Relay, Dead Zone and Saturation Only), Feedback Stabilisation, Kalman-Yakubovitch-Popov Lemma (Concept Only)",
+            "Stability Analysis of Feedback Systems, Circle Criterion"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Nonlinear Control Design, Lie Derivatives and Lie Brackets",
+            "Feedback Linearization, Input State Linearization and Input-Output Linearization of SISO Systems, Design via Linearization - Regulation via Integral Control",
+            "Gain Scheduling, Tracking, Concepts of Other Nonlinear Controllers - Sliding Mode, Backstepping"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

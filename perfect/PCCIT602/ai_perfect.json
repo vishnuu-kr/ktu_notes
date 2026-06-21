@@ -1,0 +1,77 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to the Concepts of Security",
+            "Need for Security",
+            "Security Approaches",
+            "Principles of Security",
+            "Types of Attacks",
+            "OSI Security Architecture",
+            "Public Key Cryptosystems vs. Symmetric Key Cryptosystems",
+            "Encrypting Communication Channels",
+            "Symmetric Key Cryptosystems",
+            "Overview of Symmetric Key Cryptography",
+            "Block Cipher Principles",
+            "Data Encryption Standard (DES)",
+            "Triple DES",
+            "International Data Encryption Algorithm (IDEA)",
+            "Advanced Encryption Algorithm (AES)",
+            "Block Cipher Modes of Operation",
+            "Stream Cipher"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Public Key Cryptosystems",
+            "Principles of Public Key Cryptosystems",
+            "RSA Algorithm",
+            "RSA Illustration",
+            "Attacks",
+            "ElGamal Cryptographic System",
+            "Knapsack Algorithm",
+            "Diffie-Hellman Key Exchange Algorithm",
+            "Elliptical Curve Cryptosystems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Key Management",
+            "Symmetric Key Distribution Using Asymmetric Encryption",
+            "Distribution of Public Keys",
+            "Generating Keys",
+            "Transferring Keys",
+            "Verifying Keys",
+            "Updating Keys",
+            "Storing Keys",
+            "Backup Keys",
+            "Compromised Keys - Authentication",
+            "Message Authentication Codes (MAC)",
+            "Hash Functions",
+            "Security of Hash Functions and MAC",
+            "Message Digest 5 (MD5)",
+            "Secure Hash Algorithm (SHA)-512"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Cryptographic Solutions - Product Specific Security Based on RFID Technology",
+            "Strengthening the Security of Machine-Readable Documents",
+            "Enhancing Security of Class I Generation 2 RFID Against Traceability and Cloning",
+            "Light Weight Cryptographic Algorithms - Block Cipher",
+            "Stream Cipher - Permutation Based",
+            "Examples Comparisons"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

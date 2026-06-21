@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Mechatronics and Automotive Mechatronics",
+            "Structure of Mechatronics System and Sensors – Characteristics, Temperature, Flow, and Pressure Sensors",
+            "Displacement, Position, and Proximity Sensing by Magnetic, Optical, Ultrasonic, Inductive, and Capacitive Methods",
+            "Hall Effect and Eddy Current Methods",
+            "Encoders – Incremental, Absolute, and Gray Coded Encoder",
+            "Resolvers, Synchros, Piezoelectric Sensors, and Acoustic Emission Sensors",
+            "Actuators – Mechanical, Electrical, Hydraulic, and Pneumatic",
+            "Working of Sensors and Actuators in Automobile – MAF, Throttle Position, Crank Shaft Position, Steering Torque, Lambda, and Knock Sensors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Fundamentals of Automotive Electronics and Microprocessor Control System",
+            "Microprocessor Architecture",
+            "Open and Closed Loop Control Strategies",
+            "PID Control",
+            "Look-Up Tables",
+            "Introduction to Modern Control Strategies like Fuzzy Logic and Adaptive Control",
+            "Applications of Mechatronics in Modern Vehicles like ABS, Airbag, Active Suspension, Rain Sensing Wipers, and ADAS Driverless Cars – Working with Sensing and Actuating Components"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Programmable Logic Controllers (PLC) – Basic Structure",
+            "Input/Output Processing",
+            "Programming",
+            "Timers",
+            "Internal Relays",
+            "Counters and Shift Registers",
+            "Development of Simple Ladder Programs for Specific Purposes",
+            "Micro Electro Mechanical Systems (MEMS) – Fabrication, Deposition, Lithography, and Micromachining Methods",
+            "Deep Reactive Ion Etching (DRIE) and LIGA Processes",
+            "Principle, Fabrication, and Working of MEMS-based Pressure Sensor, Accelerometer, and Gyroscope"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Electronic Engine Management System",
+            "SI Engine Management – Parameters to be Controlled",
+            "Electronic Fuel Injection",
+            "Electronic Ignition System and its Advantages",
+            "Fuel Control Maps",
+            "CI Engine Management – Parameters to be Controlled",
+            "Fuel Injection System",
+            "Parameters Affecting Combustion, Noise, and Emissions in CI Engines",
+            "Pilot, Main, Advanced, Post Injection, and Retarded Post Injection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Complexity Theory: Basic Concepts and Motivations",
+            "Deterministic and Nondeterministic Models",
+            "Turing Machines",
+            "Computational Models",
+            "Complexity Classes P and NP: Definitions and Examples of P and NP",
+            "Polynomial-Time Algorithms",
+            "NP-Completeness and the Cook-Levin Theorem",
+            "Reductions and Completeness: Polynomial-Time Reductions",
+            "NP-Complete Problems",
+            "Their Significance",
+            "Examples of NP-Complete Problems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Space Complexity: Space Complexity Classes",
+            "PSPACE",
+            "Savitch's Theorem and NL-Completeness",
+            "PSPACE-Completeness",
+            "Polynomial Hierarchy and Alternation: Definition of the Polynomial Hierarchy (PH)",
+            "Complete Problems for Each Level of PH",
+            "Relationship Between PH and Other Classes"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Interactive Proofs: Definition and Examples of Interactive Proofs",
+            "IP = PSPACE Theorem",
+            "Zero-Knowledge Proofs",
+            "Probabilistically Checkable Proofs (PCPs): Introduction to PCPs",
+            "PCP Theorem and Implications",
+            "Applications in Hardness of Approximation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Circuit Complexity: Boolean Circuits and Circuit Complexity",
+            "Circuit Lower Bounds",
+            "Complexity of Specific Functions",
+            "Quantum Complexity: Basics of Quantum Computation",
+            "Quantum Complexity Classes",
+            "Quantum Algorithms and Their Complexity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

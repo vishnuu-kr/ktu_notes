@@ -1,0 +1,76 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction - Uses of Computer Networks",
+            "Network Hardware",
+            "Network Software - Protocol Hierarchies - Design Issues for the Layers - Connection Oriented Versus Connectionless Service. Reference Models - The OSI Reference Model",
+            "The TCP/IP Reference Model",
+            "Comparison of OSI and TCP/IP Reference Models. Physical Layer - Transmission Media Overview - Twisted Pair and Fiber Optics. Performance Indicators - Bandwidth",
+            "Throughput",
+            "Latency",
+            "Bandwidth - Delay Product"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Data Link Layer - Data Link Layer Design Issues",
+            "Error Detection and Correction",
+            "Sliding Window Protocols. Medium Access Control (MAC) Sublayer",
+            "Channel Allocation Problem",
+            "Multiple Access Protocols - CSMA",
+            "Collision Free Protocols. Ethernet - Switched Ethernet",
+            "Fast Ethernet and Gigabit Ethernet. Wireless LANs - 802.11 - Architecture and Protocol Stack",
+            "Use of Bridges",
+            "Repeaters",
+            "Hubs",
+            "Switches",
+            "Routers and Gateways"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Network Layer Design Issues. Routing Algorithms - The Optimality Principle",
+            "Shortest Path Routing",
+            "Flooding",
+            "Distance Vector Routing",
+            "Link State Routing",
+            "Routing for Mobile Hosts. Congestion Control Algorithms - Approaches to Congestion Control (Details not Required). Quality of Service (QoS) - Requirements",
+            "Techniques for Achieving Good QoS - Traffic Shaping",
+            "Packet Scheduling. IPv4 Protocol",
+            "IP Addresses",
+            "IPv6",
+            "Internet Control Protocols - Internet Control Message Protocol (ICMP)",
+            "Address Resolution Protocol (ARP)",
+            "Dynamic Host Configuration Protocol (DHCP). Open Shortest Path First (OSPF) Protocol",
+            "Border Gateway Protocol (BGP)",
+            "Internet Multicasting"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Transport Service - Services Provided to the Upper Layers",
+            "Transport Service Primitives. User Datagram Protocol (UDP) - Introduction",
+            "Remote Procedure Call. Transmission Control Protocol (TCP) - Introduction",
+            "TCP Service Model",
+            "TCP Protocol",
+            "TCP Segment Header",
+            "Connection Establishment and Release. Application Layer - Domain Name System (DNS) - Overview of DNS Name Space and Name Servers",
+            "Electronic Mail - Architecture and Services - SMTP - IMAP - POP3",
+            "World Wide Web (WWW) - Architectural Overview",
+            "HTTP",
+            "File Transfer Protocol (FTP)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

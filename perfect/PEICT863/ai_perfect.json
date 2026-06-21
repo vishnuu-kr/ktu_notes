@@ -1,0 +1,45 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Remote Sensing: Definition, History, Principle, Advantages, Challenges, Scope",
+            "Satellite Remote Sensing: Principle, Sensor Measurement, Resolutions, Basic Remote Sensing Unit Using Landsat Data, History, Different Types, Landsat Accessing Level, Selection, Landsat Calibration"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to Image Processing: Image, Relevance, Properties",
+            "Image Processing Techniques: Filtering Pixels, Applying Algorithms, Colour Palettes",
+            "Practical Software (SNAP): Downloading, Importing, Creating the Image, Manipulating, Filter, NDVI Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to QGIS and Water Cycle GIS: Installation and Packages",
+            "Importing Remote Sensing Data into QGIS",
+            "Data Handling Techniques",
+            "CRS Adjustments within QGIS",
+            "Saving Projects",
+            "Microwave Data for Water Cycle Monitoring: Applications, Coastal Water, Bathymetric Data, Microwave Signatures, Water Quality and Protection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Urban Environments and Landscape Evolution: Introduction to Optical Signatures of Urban Surfaces",
+            "Thermal Signatures of Urban Surfaces: Applications, Creep, Dynamics, Air Quality",
+            "Time Series Analysis for Landscape Evolution Monitoring: Techniques, Microwave Data, Applications",
+            "Future of Remote Sensing: Instruments, Data, Satellite, Cloud Processing, Analysis, Software, Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Distributed Systems",
+            "Definition and Characteristics",
+            "Examples and Applications",
+            "Challenges in Distributed Systems",
+            "Communication in Distributed Systems",
+            "Interprocess Communication",
+            "Remote Procedure Call (RPC)",
+            "Remote Method Invocation (RMI)",
+            "Message-Oriented Communication"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Middleware Technologies",
+            "Overview of Middleware",
+            "Types of Middleware",
+            "Message-Oriented",
+            "Object-Oriented",
+            "Service-Oriented",
+            "Middleware Platforms and Frameworks",
+            "Synchronization and Coordination",
+            "Logical Clocks",
+            "Mutual Exclusion",
+            "Election Algorithms"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Distributed Middleware",
+            "Middleware Architecture",
+            "Types of Middleware",
+            "Case Studies",
+            "CORBA",
+            "DCOM",
+            "Fault Tolerance and Reliability",
+            "Fault Models",
+            "Replication Techniques",
+            "Consensus Algorithms"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Distributed File Systems and Databases",
+            "Distributed File System Design",
+            "Distributed Databases",
+            "Consistency Models",
+            "Security in Distributed Systems",
+            "Security Threats and Vulnerabilities",
+            "Authentication and Authorization",
+            "Secure Communication Protocols"
+        ]
+    }
+]

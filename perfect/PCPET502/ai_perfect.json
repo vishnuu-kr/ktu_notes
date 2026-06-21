@@ -1,0 +1,72 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Sensors and Actuators",
+            "Performance Terminology of Sensors",
+            "Displacement",
+            "Position and Proximity Sensors",
+            "Force",
+            "Fluid Pressure",
+            "Liquid Flow Sensors",
+            "Temperature",
+            "Light Sensor",
+            "Acceleration and Vibration Measurement, MEMS",
+            "Selection of Sensor",
+            "Mechanical Actuation System",
+            "Hydraulic and Pneumatic Actuation System",
+            "Electrical Actuation System",
+            "Data Presentation System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Signal Conditioning",
+            "Basic Digital Circuits",
+            "Introduction to Signal Processing and Op-Amp",
+            "Op-Amp as Signal Conditioner",
+            "Analogue to Digital Converter",
+            "Digital to Analogue Converter",
+            "Filtering",
+            "Multiplexer",
+            "Data Acquisition",
+            "Mechatronics Systems",
+            "Elements of Mechatronic Systems",
+            "Concept of Controls",
+            "Mechanical System Model",
+            "Electrical System Model",
+            "Fluid System Model",
+            "Microprocessor",
+            "Microcontroller",
+            "Introduction to Programming of Microcontrollers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Dynamic Response of Systems, First and Second Order Systems, Transfer Function",
+            "First and Second Order Systems, Systems in Series and in Feedback Loop",
+            "Frequency Response, Sinusoidal Input, Phasors, Bode Plot Performance Specifications and Stability",
+            "Closed Loop Controllers, P, I, PID Controllers, Digital Controllers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Programmable Logic Controllers, Basic Structure, Programming, Mnemonics, Timers, Internal Relays and Counters, Shift Register, Master and Jump Control",
+            "Communication Systems, Networks and Protocols",
+            "Input/Output Systems",
+            "Interfacing, Input/Output Addressing and Interfacing Requirements",
+            "Simple Case Studies Based on Mechatronic Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

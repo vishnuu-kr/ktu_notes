@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Modern Processors",
+            "Stored-Program Computer Architecture, General-Purpose Cache-Based Microprocessor Architecture, Performance Metrics and Benchmarks, Moore's Law, Pipelining, Superscalarity, SIMD, Memory Hierarchies, and Cache",
+            "Cache Mapping",
+            "Prefetch",
+            "Multicore Processors, Multithreaded Processors, Vector Processors, Design Principles, Maximum Performance Estimates, and Programming for Vector Architectures"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Parallel Computers, Taxonomy of Parallel Computing Paradigms, Shared-Memory Computers, Cache Coherence, and UMA",
+            "ccNUMA",
+            "Distributed-Memory Computers, Hierarchical (Hybrid) Systems, Networks, and Basic Performance Characteristics of Networks",
+            "Buses",
+            "Switched and Fat-Tree Networks, Mesh Networks, and Hybrids"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Shared-Memory Parallel Programming with OpenMP: Short Introduction to OpenMP, Parallel Execution, Data Scoping, OpenMP Worksharing for Loops, and Synchronization",
+            "Reductions",
+            "Loop Scheduling",
+            "Tasking",
+            "Miscellaneous",
+            "Case Study",
+            "OpenMP-Parallel Jacobi Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Distributed-Memory Parallel Programming with MPI: Message Passing and A Short Introduction to MPI",
+            "A Simple Example",
+            "Messages and Point-to-Point Communication",
+            "Collective Communication",
+            "Nonblocking Point-to-Point Communication",
+            "Virtual Topologies, Example: MPI Parallelization of a Jacobi Solver, MPI Implementation, and Performance Properties"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

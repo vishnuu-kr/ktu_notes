@@ -1,0 +1,21 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Implement and demonstrate the FIND-S algorithm for finding the most specific hypothesis based on a given set of training data samples. Read the training data from a .CSV file.",
+            "Implement and demonstrate the Candidate-Elimination algorithm to output a description of the set of all hypotheses consistent with the training examples.",
+            "Demonstrate the working of the decision tree based ID3 algorithm. Use an appropriate data set for building the decision tree and apply this knowledge to classify a new sample.",
+            "Build an Artificial Neural Network by implementing the Backpropagation algorithm and test the same using appropriate data sets.",
+            "Implement the naïve Bayesian classifier for a sample training data set stored as a .CSV file. Calculate the accuracy, precision, and recall for your data set.",
+            "Construct a Bayesian network considering medical data. Use this model to demonstrate the diagnosis of heart patients using standard Heart Disease Data Set. You can use Java/Python ML library classes/API.",
+            "Apply EM algorithm to cluster a set of data stored in a .CSV file. Use the same data set for clustering using k-Means algorithm. Compare the results of these two algorithms and comment on the quality of clustering. You can add Java/Python ML library classes/API in the program.",
+            "Implement k-Nearest Neighbour algorithm to classify the iris data set. Print both correct and wrong predictions. Java/Python ML library classes can be used for this problem.",
+            "Implement the non-parametric Locally Weighted Regression algorithm in order to fit data points. Select appropriate data set for your experiment and draw graphs.",
+            "Perform a word count operation using Hadoop MapReduce.",
+            "Perform sentiment analysis on a dataset of tweets using Apache Spark.",
+            "Using visualization with Tableau, analyze a Superstore data to identify prospective regions for its expansion. There are three customer segments in the Superstore dataset. What percent of the total profits are associated with the corporate segment? Calculate the 'average delay to ship'. The data set considered should have information regarding order date and ship date for four different regions."
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

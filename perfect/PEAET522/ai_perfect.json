@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Computer Architecture and Classes of Computers",
+            "Defining Computer Architecture",
+            "Introduction to RISC and CISC Architectures",
+            "Classification of Instruction Set Architectures",
+            "Basics of Performance Measurements",
+            "Basic Parallel Processing Techniques - Instruction Level, Thread Level and Process Level",
+            "Classification of Parallel Architectures",
+            "Introduction to Graphical Processing Unit (GPU)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Pipelined Processors and Super Scalar Organization",
+            "Pipelining Fundamentals - Pipelined Design",
+            "Concept of Arithmetic Pipelining and Instruction Pipelining",
+            "Basic Concept of Deeply Pipelined Processors",
+            "Super Scalar Organization - Limitations of Scalar Pipelines",
+            "Basic Concepts of Parallel, Diversified and Dynamic Pipelines",
+            "Superscalar Pipeline Overview - Instruction Fetch, Decode, Dispatch, Execute, Completion and Retiring"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Memory Hierarchy and Computer System Overview",
+            "Concept of Latency and Bandwidth",
+            "Memory Hierarchy - Introduction and Levels in Modern Memory Hierarchy",
+            "Concept of Temporal and Spatial Locality",
+            "DRAM Technology",
+            "Cache Memories - Cache Hit, Miss and Hit Ratio",
+            "Types of Cache Mapping - Direct, Associative and Set Associative",
+            "Virtual Memory Systems - Demand Paging and Memory Protection",
+            "Overview of Memory Hierarchy Implementations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Thread Level Parallelism and Multiprocessor Systems",
+            "Basic Architecture of Centralised Shared Memory Multiprocessor and Distributed Memory Multiprocessor",
+            "Concept of Cache Coherence Problem",
+            "Basic Schemes for Enforcing Coherence - Snooping Coherence Protocol",
+            "Introduction to Distributed Shared Memory and Directory-Based Coherence",
+            "Directory-Based Cache Coherence Protocol"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

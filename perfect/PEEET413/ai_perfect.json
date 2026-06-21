@@ -1,0 +1,63 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Linear Algebra",
+            "Systems of Linear Equations - Matrices",
+            "Solving Systems of Linear Equations, Vector Spaces",
+            "Linear Independence",
+            "Basis and Rank, Linear Mappings, Matrix Representation of Linear Mappings",
+            "Basis Change",
+            "Image and Kernel"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Analytic Geometry",
+            "Matrix Decompositions",
+            "Norms",
+            "Inner Products",
+            "Lengths and Distances",
+            "Angles and Orthogonality",
+            "Orthonormal Basis",
+            "Orthogonal Complement",
+            "Orthogonal Projections - Projection into One Dimensional Subspaces",
+            "Projection onto General Subspaces",
+            "Gram-Schmidt Orthogonalization, Determinant and Trace",
+            "Eigenvalues and Eigenvectors",
+            "Cholesky Decomposition",
+            "Eigen Decomposition and Diagonalization",
+            "Singular Value Decomposition",
+            "Matrix Approximation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Vector Calculus",
+            "Differentiation of Univariate Functions - Partial Differentiation and Gradients",
+            "Gradients of Vector Valued Functions",
+            "Gradients of Matrices",
+            "Useful Identities for Computing Gradients, Backpropagation and Automatic Differentiation, Gradients in Deep Networks",
+            "Automatic Differentiation, Higher Order Derivatives, Linearization and Multivariate Taylor Series"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Probability and Distributions",
+            "Construction of a Probability Space - Discrete and Continuous Probabilities",
+            "Bayes' Theorem, Summary Statistics and Independence, Gaussian Distribution, Conjugacy and the Exponential Family, Change of Variables/Inverse Transform, Optimization",
+            "Optimization Using Gradient Descent, Gradient Descent with Momentum, Constrained Optimization and Lagrange Multipliers, Convex Optimization, Linear Programming, Quadratic Programming"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

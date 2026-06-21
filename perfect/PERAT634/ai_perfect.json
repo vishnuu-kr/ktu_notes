@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction and Characteristics of Non-Linear Systems",
+            "Methods of Analysis",
+            "Classification of Nonlinearities",
+            "Common Physical Nonlinearities",
+            "Saturation or Limiter",
+            "Deadzone or Threshold",
+            "Types of Relays",
+            "Types of Springs",
+            "Backlash in Gears",
+            "Inherent Nonlinearity and Linearisation of Nonlinear System",
+            "Autonomous and Non-Autonomous Systems – Modelling of Simple Pendulum and Mass-Spring System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Phase Plane Analysis – Singular Points and Phase Portraits",
+            "Analytical Method for the Construction of Phase Trajectories",
+            "Graphical Method for Construction of Phase Trajectory",
+            "Isoclines Method",
+            "Analysis and Classification of Singular Points – Local Behaviour of Nonlinear Systems",
+            "Limit Cycles on Phase Plane – Stability – Poincaré–Bendixson Theorems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Describing Function Analysis – Definition",
+            "Describing Functions of Typical Nonlinearities – Ideal Relay",
+            "Relay with Deadzone",
+            "Simple Deadzone",
+            "Saturation or Limiter – Closed Loop Stability Using Describing Function – Stability of Limit Cycles",
+            "Accuracy of Describing Function Analysis",
+            "Relative Stability from Describing Function"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Lyapunov Stability Theory – Stability of Nonlinear Systems – Concept",
+            "Equilibrium Points – Stability in Small and Stability in Large – Lyapunov's Stability Definitions",
+            "Localisation and Stability in the Small",
+            "Stability by the Method of Lyapunov",
+            "First Method of Lyapunov – Concept of Lyapunov's Stability Theorems",
+            "Sign Definiteness of Scalar Function – Lyapunov Stability Theorems",
+            "Stability of Nonlinear System by Method of Lyapunov",
+            "Krasovskii's Theorem – Variable Gradient Method of Generating Lyapunov Function"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

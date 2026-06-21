@@ -1,0 +1,52 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Deep Learning",
+            "Introduction",
+            "Deep Feed Forward Network - Activation Functions: Sign",
+            "Sigmoid",
+            "Tanh",
+            "ReLU",
+            "Leaky ReLU",
+            "Hard Tanh",
+            "Softmax, Loss Function, Training a Neural Network with Backpropagation, Practical Issues in Neural Network Training, Overfitting",
+            "Underfitting",
+            "Hyperparameters and Validation Sets",
+            "Estimators - Bias and Variance"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Network Design Parameters, Setup and Initialization (Kaiming, Xavier Weight Initialization), Vanishing and Exploding Gradient Problems, Optimization Techniques - Gradient Descent (GD), Stochastic GD, GD with Momentum, GD with Nesterov Momentum",
+            "Parameter-Specific Learning Rates: AdaGrad, RMSProp, Adam",
+            "Regularization Techniques - L1 and L2 Regularization, Early Stopping, Dataset Augmentation, Parameter Tying and Sharing, Ensemble Methods, Dropout, Batch Normalization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Convolutional Neural Network - Basic Structure of a CNN",
+            "Basic Layers and Operations in CNN - Convolution Operation, Effect of Stride and Padding, Fully Connected Layers, CNN Layers",
+            "Building a CNN Model, Training a CNN",
+            "Estimation of Tensor Size and Number of Features in CNN Layers, Transfer Learning (Size Similarity Matrix), Pre-trained Architectures - AlexNet, ResNet-50, GoogleNet"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Deep Learning Models for Text Processing - Recurrent Neural Network Architecture",
+            "Variants of RNN Architectures - Deep Recurrent Neural Network, Recursive Neural Network, Bidirectional Recurrent Neural Network, Encoder-Decoder Architecture, LSTM, GRU, Autoencoders and Generative Models, Autoencoders - Variational AutoEncoder, Undercomplete Auto-encoder, Stochastic Encoder, Denoising Encoder",
+            "Applications of Autoencoders, Generative Models - Boltzmann Machines, Deep Belief Networks, Generative Adversarial Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Bioinformatics: Scope",
+            "Elementary Tasks in Bioinformatics",
+            "Molecular Biology Basics: Human Genome Organization",
+            "Central Dogma",
+            "DNA and RNA Structure",
+            "Genetic Codes",
+            "Datatypes: Gene Expression Data",
+            "Microarrays",
+            "Pathways",
+            "Molecular Interactions",
+            "Biological Databases: Types of Databases",
+            "Sequence Databases: GenBank",
+            "DDBJ",
+            "EMBL",
+            "Entrez",
+            "Unigene",
+            "Protein Sequence Databases: SwissProt",
+            "UniProt"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sequence Alignment: Local and Global Alignment",
+            "Similarity vs Homology",
+            "Dot Matrices and Hash Coding",
+            "FASTA Files",
+            "Algorithms for Pairwise Sequence Alignment: Needleman-Wunsch",
+            "Scoring Matrices: Basic Concepts",
+            "BLAST and Its Variants",
+            "Multiple Sequence Alignment: Goals",
+            "Scoring",
+            "Substitution Matrices",
+            "PAM and BLOSUM",
+            "Gap Penalties",
+            "CLUSTAL and Its Variants"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Phylogenetic Trees",
+            "Topologies",
+            "Distance Matrix Based and Character Based Tree Construction",
+            "Algorithms for Phylogenetic Tree Construction: UPGMA",
+            "Neighbor-Joining",
+            "Maximum Parsimony",
+            "Pattern Representations: Deterministic and Probabilistic Patterns",
+            "Algorithms for Pattern Discovery: HMM",
+            "Gene Discovery Using GeneMark"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Protein Structures: Primary, Secondary, and Tertiary",
+            "Measures of Prediction Accuracy",
+            "Statistical Algorithms for Protein Secondary Structure Prediction: Chou-Fasman",
+            "Protein Folding: Lattice Models",
+            "Algorithms for Predicting RNA Secondary Structure: Nussinov Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

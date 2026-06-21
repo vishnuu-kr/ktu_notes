@@ -1,0 +1,59 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Electric Drives",
+            "Block Diagram and Advantages",
+            "Uses in Robotic Applications; Introduction to Special Electrical Machines - DC Servo Motor",
+            "AC Servo Motors",
+            "Stepper Motor - Variable Reluctance, Permanent Magnet, Hybrid",
+            "BLDC",
+            "PMSM - Construction, Working and Principle of Operation"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Structure",
+            "Working",
+            "V-I and Switching Characteristics; Turn-On Methods of SCR; Gate Triggering Circuits",
+            "R and RC Triggering Circuits",
+            "Line-Synchronised Triggering - Natural and Forced Commutation (Concept Only)",
+            "Protection of SCR",
+            "Requirements of Isolation and Synchronization in Gate Drive Circuits - Opto and Pulse Transformer-Based Isolation",
+            "Controlled Rectifiers - Single Phase Fully Controlled Bridge Rectifier with R, RL and RLE Loads (Continuous and Discontinuous Conduction) - Output Voltage Equation",
+            "Three-Phase Fully Controlled Converter with RLE Load"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "DC-DC Converters",
+            "Step-Down and Step-Up Choppers",
+            "Control Methods - Two-Quadrant and Four-Quadrant Chopper",
+            "DC Motor Drives - Solid State Speed Control of DC Motors - Armature Control and Field Control",
+            "Single Phase Fully Controlled Converter Drives (Rectifier and Inverter Mode)",
+            "Chopper-Controlled DC Drives - Regenerative Braking Control - Four-Quadrant Chopper Drives",
+            "Closed Loop Speed and Torque Control",
+            "Inverters",
+            "1-Phase Full-Bridge Voltage Source Inverters with R and RL Loads; 3-Phase Bridge Inverter with R Load",
+            "120° and 180° Conduction Mode",
+            "Voltage Control in Inverters",
+            "Pulse Width Modulation",
+            "Single Pulse Width, Multiple Pulse Width and Sine PWM - Elimination of Harmonics; Variable Voltage Variable Frequency Drive (Block Diagram Only)"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Control of Servomotors - Components of Typical Servo System with DC and Brushless DC Servo Motor",
+            "Feedback System - Sizing of Servomotors",
+            "Position Control of Stepper Motor - Drive Circuit, Modes of Excitation",
+            "Open Loop and Closed Loop Control of Stepper Motor - Applications",
+            "Permanent Magnet Motor Drives - Speed Control of BLDC Motor - Converter Circuits, Modes of Operation, Applications",
+            "Speed Control of PMSM - Self-Control, Sensorless Control",
+            "Digital Control of Electric Drives, Digital Controllers",
+            "Microcontroller and DSP-Based Control"
+        ]
+    }
+]

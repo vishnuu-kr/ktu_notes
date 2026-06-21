@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Image Perception - MTF of the Visual System - Monochrome Vision Models - Color Vision Model. Image Sampling and Quantization",
+            "Two-Dimensional Sampling Theory",
+            "Image Quantization - Uniform Quantizer. Image Transforms - Two Dimensional Orthogonal and Unitary Transforms - Properties of Unitary Transforms",
+            "2D DFT",
+            "Hadamard",
+            "KL Transforms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Image Enhancement",
+            "Contrast Enhancement",
+            "Clipping and Thresholding - Digital Negative",
+            "Intensity Level Slicing - Bit Extraction. Histogram Processing",
+            "Magnification and Interpolation. Image Enhancement in Spatial Domain",
+            "Smoothing and Sharpening Operations in Time Domain",
+            "Filtering in Frequency Domain",
+            "Smoothing and Sharpening Frequency Domain Filters",
+            "Homomorphic Filtering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Image Restoration",
+            "Image Degradation",
+            "Noise",
+            "Blurring",
+            "Modelling Image Degradation",
+            "Inverse Filtering",
+            "Wiener Filtering. Image Segmentation - Thresholding - Optimal",
+            "Adaptive",
+            "Region-Based Methods - Region Growing and Region Merging",
+            "Boundary-Based Methods - Edge Detection and Linking",
+            "Boundary Tracking"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Feature Recognition and Classification, Features",
+            "Describing the Contents and the Shape of Objects. Classification",
+            "Supervised and Unsupervised Learning. Discriminant Analysis, k-Nearest",
+            "Neighbor (kNN) Classifier. Unsupervised - k-Means Clustering. Deep Learning for Medical Image Analysis, Convolutional Neural Networks. Image Fusion for Hybrid Imaging, Super Resolution Imaging"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to FEM",
+            "Mathematical Modelling of Field Problems in Engineering",
+            "Governing Equations - Discrete and Continuous Models",
+            "Discretization - Convergence Behavior and General Procedure of Finite Element Analysis",
+            "Types of Elements",
+            "Formulation of Stiffness Matrix - One Dimensional Spring",
+            "Bar Element Assembly and Solution Procedure"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Types of Coordinate System in FEM",
+            "Coordinate Transformation, Plane Truss Stiffness Formulation and Its Assembly, Shape Functions",
+            "Derivation of Shape Functions Using Polynomial of One-Dimensional Bar",
+            "2-Dimensional CST and 1-Dimensional Beam Element, Convergence Requirement of Shape Functions",
+            "Pascal Triangle, Shape Functions Using Lagrange Polynomial"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Derivation of Strain-Displacement Relation - B Matrix - Bar",
+            "CST and Beam Element, Potential Energy and Equilibrium",
+            "Principle of Minimum Potential Energy",
+            "Variational Formulation in FEM, Element Stiffness - Bar",
+            "Beam and CST Element",
+            "Consistent Loads"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Strong and Weak Form, Galerkin's Weighted Residual FEM Formulation",
+            "One Dimensional Axially Loaded Bar, Heat Flow in a Bar, Natural Coordinate System, Isoparametric Elements, Quadrilateral Elements - Serendipity Elements, Isoparametric Formulations, Jacobian Matrix, Stiffness Matrices, Numerical Integration, Gaussian Quadrature"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

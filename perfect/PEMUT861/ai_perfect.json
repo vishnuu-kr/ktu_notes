@@ -1,0 +1,74 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Automotive Navigation Systems",
+            "Introduction",
+            "Recent Technology Developments in Navigation System and Key Components",
+            "Navigation Data Standards",
+            "GPS Based Navigation in Autonomous Vehicles - Introduction",
+            "Basic Architecture of Autonomous GPS Vehicle",
+            "Distance and Direction Calculation",
+            "Global Navigation Satellite System (GNSS) Based Positioning in Autonomous Vehicles - Introduction",
+            "Key Features and Components",
+            "GPS vs GNSS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Vision Based Navigation Systems - Introduction",
+            "Lane Positioning Techniques",
+            "Lidar Based Positioning Techniques",
+            "Camera-Based Positioning Techniques",
+            "Position, Speed, and Heading Navigation with Vision Measurements",
+            "Basic Sensors Used in Vehicle Navigation",
+            "Speed Estimation Sensors - Types, Principle, and Working",
+            "Accelerometers - Types and Working",
+            "GPS Sensors",
+            "Wheel Speed Sensors",
+            "Heading Sensors",
+            "Yaw Rate Gyroscopes",
+            "Laser Radar Principle and Working - Non-Contact Ground Velocity Sensors",
+            "Road Surface Recognition Sensor",
+            "Looking Out Sensors and Looking In Sensors"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Vehicle Dynamics Estimation Using GPS - Side Slip Effects, Calculation, and Tyre Parameters",
+            "Vehicle Control Using GNSS/GPS - Introduction and Techniques",
+            "Speed Controlling Techniques",
+            "Speed Controllers Used in Vehicles - Description",
+            "Vehicle Steering Control",
+            "Yaw Rate Controller",
+            "Lateral Movement Controller",
+            "Lateral Position Controller"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Vision in Cars - Lane Recognition",
+            "Traffic Sign Recognition",
+            "Stereo Vision",
+            "Road Recognition",
+            "Object Recognition - Traffic Lights and Signals",
+            "Pedestrian Recognition - Basic Principle, Architecture, and Working",
+            "Building Intelligent Systems in New Generation Cars",
+            "Communication Technologies in Vehicle Information System",
+            "Vision for ITS Communication - ITS Communication in Automobiles",
+            "Vehicle-to-Vehicle and Road-Vehicle Communication Systems - Basic Principle and Working",
+            "Relative Merits and Demerits"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

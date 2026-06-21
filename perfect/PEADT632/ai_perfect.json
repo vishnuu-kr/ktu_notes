@@ -1,0 +1,93 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Linguistic Essentials: Parts of Speech and Morphology",
+            "Nouns and Pronouns",
+            "Words That Accompany Nouns",
+            "Determiners and Adjectives",
+            "Verbs",
+            "Other Parts of Speech",
+            "Phrase Structure",
+            "Phrase Structure Grammars",
+            "Semantics and Pragmatics",
+            "Corpus-Based Work",
+            "The Ambiguity of Language (NLP Challenges)",
+            "Mathematical Essentials: Probability Theory",
+            "Probability Space",
+            "Conditional Probability and Independence",
+            "Bayes Theorem",
+            "Random Variables",
+            "Expectation and Variance",
+            "Notation",
+            "Joint and Conditional Distributions",
+            "Standard Distributions",
+            "Bayesian Statistics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Statistical Inference: n-gram Models over Sparse Data",
+            "Bins",
+            "Forming Equivalence Classes",
+            "Reliability vs Discrimination",
+            "n-gram Models, Markov Models, Hidden Markov Models",
+            "Use of HMMs",
+            "General Form of HMM",
+            "Probability of an Observation",
+            "Best State Sequence"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Word Sense Disambiguation: Methodological Preliminaries",
+            "Supervised and Unsupervised Learning",
+            "Pseudowords",
+            "Upper and Lower Bounds on Performance",
+            "Supervised Disambiguation",
+            "Bayesian Classification",
+            "Dictionary-Based Disambiguation",
+            "Disambiguation Based on Sense Definitions",
+            "Thesaurus-Based Disambiguation",
+            "Lexical Acquisition",
+            "Evaluation Measures",
+            "Verb Subcategorization",
+            "Attachment Ambiguity",
+            "PP Attachment",
+            "Selectional Preferences",
+            "Semantic Similarity",
+            "Word2Vec and Doc2Vec"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Grammar and Tools",
+            "Part-of-Speech Tagging",
+            "The Information Sources in Tagging",
+            "Markov Model Taggers",
+            "Hidden Markov Model Taggers",
+            "Applying HMMs to POS Tagging",
+            "Probabilistic Context Free Grammars",
+            "Some Features of PCFGs",
+            "Questions for PCFGs",
+            "The Probability of a String",
+            "Using Inside Probabilities",
+            "Using Outside Probabilities",
+            "Finding the Most Likely Parse for a Sentence",
+            "Parsing for Disambiguation",
+            "Parsing Model versus Language Model",
+            "Language Processing with Python using NLTK"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

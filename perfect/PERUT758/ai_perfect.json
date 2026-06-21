@@ -1,0 +1,87 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Uses of Computer Networks",
+            "Network Hardware",
+            "Network Software",
+            "Reference Models: The OSI Reference Model",
+            "The TCP/IP Reference Model",
+            "Comparison of OSI and TCP/IP Reference Models",
+            "Physical Layer: Modes of Communication",
+            "Physical Topologies",
+            "Signal Encoding",
+            "Performance Indicators",
+            "Bandwidth",
+            "Throughput",
+            "Latency",
+            "Queuing Time",
+            "Bandwidth-Delay Product"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Data Link Layer Design Issues",
+            "Error Detection and Correction",
+            "Sliding Window Protocols",
+            "Medium Access Control (MAC) Sublayer: Channel Allocation Problem",
+            "Multiple Access Protocols",
+            "Ethernet",
+            "Wireless LANs (802.11)",
+            "Bridges and Switches: Bridges from 802.x to 802.y",
+            "Repeaters",
+            "Hubs",
+            "Bridges",
+            "Switches",
+            "Routers and Gateways"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Network Layer Design Issues",
+            "Routing Algorithms: The Optimality Principle",
+            "Shortest Path Routing",
+            "Flooding",
+            "Distance Vector Routing",
+            "Link State Routing",
+            "Congestion Control Algorithms",
+            "IP Protocol",
+            "IP Addresses",
+            "Internet Control Message Protocol (ICMP)",
+            "Address Resolution Protocol (ARP)",
+            "Reverse Address Resolution Protocol (RARP)",
+            "BOOTP",
+            "Dynamic Host Configuration Protocol (DHCP)",
+            "IPv6",
+            "ICMPv6"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "User Datagram Protocol (UDP)",
+            "Transmission Control Protocol (TCP): Overview of TCP",
+            "TCP Segment Header",
+            "Connection Establishment and Release",
+            "Connection Management Modeling",
+            "File Transfer Protocol (FTP)",
+            "Domain Name System (DNS)",
+            "Electronic Mail",
+            "Multipurpose Internet Mail Extension (MIME)",
+            "Simple Network Management Protocol (SNMP)",
+            "World Wide Web (WWW)",
+            "SMTP",
+            "HTTP"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

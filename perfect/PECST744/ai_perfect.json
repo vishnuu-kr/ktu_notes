@@ -1,0 +1,49 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Information Security - CIA Triad, OSI Security Architecture, Security Goals, Security Services and Mechanisms, Threats, Attacks - Malicious Code, Brute Force, Timing Attack, Sniffers",
+            "Access Control Mechanisms - Access Control, Access Control Matrix, Access Control in OS - Discretionary and Mandatory Access Control, Role-based Access Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Software Vulnerabilities - Buffer and Stack Overflow, Cross-site Scripting (XSS) and Vulnerabilities, SQL Injection and Vulnerabilities, Phishing",
+            "Malwares - Viruses, Worms and Trojans, Topological Worms, Trapdoors, Salami Attack, Man-in-the-Middle Attacks, Covert Channels"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to Security of Information Storage - Processing and Transmission; Information Security Management - The ISO Standards Relating to Information Security, Other Information Security Management Frameworks, Security Policies, Security Controls, The Risk Management Process, Regulations and Legal Frameworks",
+            "Authentication - User Authentication, Token Based, Biometric Authentication, Remote User Authentication, Multifactor Authentication"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Security in Networks - Threats in Networks",
+            "Network Security Controls - Architecture",
+            "Encryption",
+            "Content Integrity",
+            "Strong Authentication",
+            "Access Controls",
+            "Wireless Security",
+            "Honeypots",
+            "Traffic Flow Security",
+            "Firewalls - Design and Types of Firewalls",
+            "Personal Firewalls",
+            "Email Security - PGP",
+            "S/MIME"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

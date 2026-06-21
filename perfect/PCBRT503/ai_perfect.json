@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Power Electronic Devices",
+            "Power Diodes",
+            "Power Transistors",
+            "MOSFETs and IGBTs - Structure",
+            "Fabrication",
+            "Regions of Operations",
+            "Switching Characteristics, Turn ON and Turn OFF Switching Waveforms",
+            "Safe Operating Area",
+            "Paralleling of Transistors, Thyristor Family",
+            "SCRs",
+            "DIAC",
+            "TRIAC and GTOs, V-I Characteristics of SCR, Application of Power Devices in Renewable Energy Systems and Electric Vehicles"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "AC-DC Converters",
+            "Single Phase Controlled Rectifiers - Half Wave",
+            "Full-Wave",
+            "Half-Controlled and Fully Controlled - Typical Waveforms with R",
+            "RL with Diode and RL with Voltage Source - Voltage and Current Equation for Half-Wave Controlled Rectifier, DC-DC Converters",
+            "Basic Chopper Operation using Semiconductor Switches",
+            "Buck",
+            "Boost and Buck-Boost Converters, Three Phase Half-Wave and Full-Wave Controlled Rectifier with R Load",
+            "Waveforms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Selection of Devices",
+            "Electrical and Thermal Stress",
+            "Isolated Converters",
+            "Half Bridge and Full Bridge Converters",
+            "Understanding Governing Equations and Switching Waveforms, DC-AC Inverters",
+            "Square Wave Operations",
+            "Half Bridge and Full Bridge Inverters",
+            "Carrier Based Unipolar and Bipolar PWM Inverters",
+            "Effect of Harmonics and its Elimination",
+            "Sinusoidal PWM Inverters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Power Electronic Systems",
+            "Solar Power Plants",
+            "ON Grid and OFF Grid Types",
+            "Traction Control in EVs",
+            "Forward Motoring and Generating Modes",
+            "PWM Control Techniques",
+            "Voltage Mode",
+            "Current Mode and Gated Oscillator Controls",
+            "Closed Loop Responses and Stabilization, Gated River Circuits",
+            "Isolated and Non-Isolated"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

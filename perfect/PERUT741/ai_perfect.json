@@ -1,0 +1,74 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Modern Instrumentation and Control Systems",
+            "OSI Model",
+            "Protocols",
+            "Standards",
+            "Common Problems and Solutions",
+            "Grounding/Shielding and Noise",
+            "EIA-232 Interface Standard",
+            "EIA-485 Interface Standard",
+            "Current Loop and EIA-485 Converters",
+            "Fibre Optics: Introduction",
+            "Fibre Optic Cable Components and Parameters",
+            "Basic Cable Types",
+            "Connection Fibres",
+            "Troubleshooting"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Modbus Overview",
+            "Protocol Structure",
+            "Function Codes",
+            "Modbus Plus Protocol",
+            "Data Highway",
+            "AS Interface (AS-i)",
+            "DeviceNet: Physical Layer",
+            "Topology",
+            "Device Taps",
+            "Profibus PA/DP/FMS Protocol Stack",
+            "System Operation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Ethernet Systems: IEEE/ISO Standards",
+            "Medium Access Control - Frames",
+            "Reducing Collisions - Auto Negotiation",
+            "LAN System Components - Structured Cabling",
+            "Industrial Ethernet - Troubleshooting Ethernet",
+            "CAN Bus",
+            "Concepts of Bus Access and Arbitration - CAN",
+            "Protocol Errors - Properties, Detection, and Processing",
+            "Introduction to CAN 2.0B"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Wireless Communications: Radio Spectrum",
+            "Frequency Allocation",
+            "Radio Modem",
+            "Intermodulation",
+            "Implementing a Radio Link",
+            "RFID: Basic Principles of Radio Frequency Identification",
+            "Transponders",
+            "Interrogators",
+            "Automotive Communication Technologies",
+            "Design of Automotive X-by-Wire Systems (Assignment Only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

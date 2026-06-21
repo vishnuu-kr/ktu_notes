@@ -1,0 +1,21 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "Familiarization of system calls (fork, exec, getpid, exit, wait, close, stat, etc.) in operating system and demonstration of creating partition and installing operating system",
+            "Implementation of process and thread (life cycle of process): process creation and termination, thread creation and termination",
+            "Implement process scheduling algorithms (FCFS, SJF, Round Robin, Priority) and compute average waiting time and average turn-around time",
+            "Inter-process communication using pipes, message queues, and shared memory",
+            "Implement Producer-Consumer problem and solve the problem using semaphores",
+            "Implementation of Dining Philosophers' problem using threads and semaphores",
+            "Implementation of banker's algorithm",
+            "Implement memory management schemes (first fit, best fit, and worst fit)",
+            "Implement page replacement algorithms: FIFO, LRU, and Optimal",
+            "Implementation of disk scheduling using FCFS, SCAN, C-SCAN, LOOK, C-LOOK, and SSTF algorithm",
+            "Implement file organization technique (single level and multi-level directory) and allocation strategies (sequential, linked, and indexed)",
+            "Familiarization of cloud platforms and virtualization tools (e.g., VMware)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

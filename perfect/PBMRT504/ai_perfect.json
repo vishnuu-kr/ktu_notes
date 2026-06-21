@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Signals & Systems",
+            "Elementary Signals",
+            "Classification of Signals",
+            "Basic Operations on Signals and Concept of System",
+            "Classification",
+            "Properties of Systems: Linearity",
+            "Time Invariance",
+            "Causality",
+            "Stability; Linear Time Invariant (LTI) Systems - Convolution Sum",
+            "Impulse Response",
+            "Difference Equation Representation of LTI Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Frequency Domain Approaches",
+            "Discrete Time Fourier Transform (DTFT)",
+            "Discrete Fourier Transform (DFT) - Properties; Review of Laplace Transform",
+            "Region of Convergence (ROC)",
+            "Properties of ROC",
+            "Transfer Function",
+            "Stability and Causality Conditions; Analysis of LTI Systems using Laplace Transforms; Sampling of Continuous Time Signals (Definition and Concept Only)",
+            "Sampling Theorem for Lowpass Signals",
+            "Aliasing; Basic Elements of a Digital Signal Processing (DSP) System",
+            "Typical DSP Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Analog Communication",
+            "Block Diagram of a Communication System",
+            "Need for Modulation; Principle of Amplitude Modulation (AM) - Frequency Spectrum - Power Relations - Generation of AM - DSB",
+            "DSB/SC",
+            "SSB; Angle Modulation - Frequency and Phase Modulation - Theory and Generation of Frequency Modulation (FM); Super Heterodyne Receivers (AM and FM)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Digital Communication",
+            "Sampling Process - Pulse Modulation Techniques - PAM",
+            "PWM and PPM",
+            "Principles of Digital Communication and Advantages - PCM Encoder and Decoder",
+            "Applications of Data Communication; Digital Modulation Schemes - ASK",
+            "PSK; Suggestion on Project Topics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

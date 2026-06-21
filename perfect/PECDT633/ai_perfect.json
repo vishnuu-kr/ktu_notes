@@ -1,0 +1,99 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Robotics",
+            "Degrees of Freedom",
+            "Robot Types",
+            "Manipulators",
+            "Anatomy of a Robotic Manipulator - Links",
+            "Joints",
+            "Actuators",
+            "Sensors",
+            "Controllers, Robot Configurations - PPP",
+            "Mobile Robots - Wheeled",
+            "Legged",
+            "Aerial Robots",
+            "Underwater Robots",
+            "Surface Water Robots",
+            "Dynamic Characteristics - Speed of Motion",
+            "Load Carrying Capacity and Speed of Response",
+            "Introduction to End Effectors - Mechanical Grippers",
+            "Special Tools",
+            "Magnetic Grippers",
+            "Vacuum Grippers",
+            "Adhesive Grippers",
+            "Active and Passive Grippers",
+            "Ethics in Robotics - Three Laws, Applications of Robots"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Sensor Classification",
+            "Internal Sensors - Position Sensors",
+            "Velocity Sensors",
+            "Acceleration Sensors",
+            "Force Sensors, External Sensors - Contact Type",
+            "Non-Contact Type",
+            "Digital Camera - CCD Camera - CMOS Camera - Omnidirectional Cameras, Sensor Characteristics",
+            "Actuators - DC Motors - H-Bridge - Pulse Width Modulation",
+            "Stepper Motors - Servos",
+            "Hydraulic and Pneumatic Actuators",
+            "Control - On-Off Control - PID Control",
+            "Velocity Control and Position Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Representation of Transformations",
+            "Representation of a Pure Translation",
+            "Pure Rotation about an Axis",
+            "Combined Transformations, Transformations Relative to the Rotating Frame",
+            "Basic Understanding of Differential-Drive Wheeled Mobile Robot",
+            "Car-Like Wheeled Mobile Robot",
+            "Kinematic Model of a Differential Drive and a Steered Mobile Robot",
+            "Degree of Freedom and Manoeuvrability",
+            "Degree of Steerability",
+            "Degree of Mobility",
+            "Different Wheel Configurations",
+            "Holonomic and Nonholonomic Robots",
+            "Omnidirectional Wheeled Mobile Robots",
+            "Position and Orientation - Representing Robot Position, Basics of Reactive Navigation",
+            "Robot Localization",
+            "Challenges in Localization",
+            "An Error Model for Odometric Position Estimation",
+            "Map Representation, Continuous Representations",
+            "Decomposition Strategies",
+            "Current Challenges in Map Representation",
+            "Probabilistic Map-Based Localization (Kalman Method Only)",
+            "Autonomous Map Building",
+            "Simultaneous Localization and Mapping (SLAM)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Path Planning",
+            "Graph Search",
+            "Deterministic Graph Search",
+            "Breadth First Search - Depth First Search - Dijkstra's Algorithm",
+            "D* Algorithms",
+            "Potential Field Based Path Planning",
+            "Obstacle Avoidance - Bug Algorithm - Vector Field Histogram - Dynamic Window Approaches",
+            "Navigation Architectures - Modularity for Code Reuse and Sharing - Control Localization",
+            "Techniques for Decomposition",
+            "Alternatives for Navigation - Neural Networks",
+            "Processing the Image - Training the Neural Network for Navigation - Convolutional Neural Network Robot Control Implementation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

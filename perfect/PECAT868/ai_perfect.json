@@ -1,0 +1,59 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Reinforcement Learning",
+            "Overview, History, and Applications of Reinforcement Learning",
+            "Differences from Supervised and Unsupervised Learning",
+            "Basic Concepts",
+            "Agents, Environments, Rewards, and Policies"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Markov Decision Processes (MDPs) and Dynamic Programming (DP)",
+            "Definition and Properties",
+            "Value Functions",
+            "Bellman Equations",
+            "Policy Evaluation and Improvement",
+            "Policy Iteration",
+            "Value Iteration",
+            "Asynchronous DP",
+            "Efficiency of DP Algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Monte Carlo Methods and Temporal Difference (TD) Learning",
+            "Monte Carlo Prediction",
+            "Monte Carlo Control",
+            "Off-policy Prediction and Control",
+            "TD Prediction",
+            "Q-Learning",
+            "SARSA",
+            "Eligibility Traces"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Function Approximation and Advanced Topics",
+            "Linear Function Approximation",
+            "Neural Networks for Function Approximation",
+            "Deep Q-Networks (DQN)",
+            "Policy Gradient Methods",
+            "Actor-Critic Methods",
+            "Applications of Reinforcement Learning in Games, Robotics, and Other Domains"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

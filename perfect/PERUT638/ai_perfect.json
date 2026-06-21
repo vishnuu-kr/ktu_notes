@@ -1,0 +1,65 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Compilers - Phases of Compiler",
+            "The Role of the Lexical Analyzer",
+            "Role of the Parser",
+            "Basic Parsing Approaches - Eliminating Left Recursion",
+            "Left Factoring. Top-Down Parsing - Recursive Descent Parsing",
+            "Nonrecursive Predictive Parsing",
+            "Bottom-Up Parsing - Shift Reduce Parsing",
+            "Simple LR Parser",
+            "More Powerful LR Parsers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Syntax Directed Definitions - Inherited and Synthesized Attributes. S-Attributed Definitions",
+            "L-Attributed Definitions. Intermediate Code Generation - Variants of Syntax Tree. Three Address Code - Quadruple",
+            "Triple. Run Time Environments",
+            "Local Optimizations",
+            "Principal Sources of Optimizations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Operating System Overview - Functions",
+            "Service - System Calls",
+            "Types - System Boot Process. Processes",
+            "Process States",
+            "Process Control Block",
+            "Threads",
+            "Scheduling",
+            "Inter-Process Communication - Shared Memory Systems",
+            "Message Passing Systems. Process Scheduling",
+            "Basic Concepts - Scheduling Criteria - Scheduling Algorithms - First Come First Served",
+            "Round Robin Scheduling"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Process Synchronization",
+            "Race Conditions - Critical Section Problem - Peterson's Solution - Semaphores - Synchronization Problems - Producer Consumer. Deadlocks",
+            "Necessary Conditions",
+            "Resource Allocation Graphs - Deadlock Avoidance - Banker's Algorithms. Memory Management",
+            "Concept of Address Spaces",
+            "Contiguous Memory Allocation",
+            "Fixed and Variable Partitions. File System",
+            "File Concept - Attributes",
+            "Operations",
+            "Types"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

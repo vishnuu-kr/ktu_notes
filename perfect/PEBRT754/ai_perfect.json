@@ -1,0 +1,43 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Definition of Reliability - Key Elements",
+            "Failure Analysis - Failure Density - Failure Rate - Probability of Failure - Bathtub Curve. Basic Reliability Equations, Reliability in Terms of Failure Rate and Failure Density, Relation Between Reliability, Failure Density and Hazard Rate - Mean Time to Failure (MTTF) - Integral Equation of MTTF in Terms of Reliability"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Hazard Models",
+            "Constant Hazard Model",
+            "Linearly Increasing Hazard Model - Weibull Model. Expressions for Reliability, Failure Density, and Probability of Failure of These Models",
+            "Problems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "System Reliability",
+            "Reliability Block Diagrams (RBD), Components Connected in Series",
+            "Components Connected in Parallel",
+            "Mixed Configuration",
+            "Fault Tree Analysis (FTA), Symbols Used in FTA, Fault Tree Construction - Estimation of System Reliability from Fault Tree Problems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Reliability Improvement Methods - Redundancy - Unit Redundancies - Element Redundancies. Simplification of Design - Parts Derating - Operating Environment",
+            "Cost of Reliability - Factors to be Considered for Optimizing the Reliability Cost. Reliability Allocation - Basic Concepts. Reliability Allocation for a Series System - Proportional to Uniform Failure Rate Method of Reliability Allocation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

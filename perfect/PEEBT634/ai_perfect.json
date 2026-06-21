@@ -1,0 +1,44 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Power Spectrum Analysis",
+            "Estimation of Power Density Spectrum",
+            "Non-Parametric Methods - Periodogram and Bartlett",
+            "Welch",
+            "Blackman and Tukey Methods - Comparison and Parametric Models",
+            "Estimation: Autoregressive (AR), Moving Average (MA), and Autoregressive Moving Average (ARMA) Models",
+            "Parametric Model Based Linear Prediction Theory - Forward and Backward Linear Prediction, Parameter Estimation, and Spectrum Estimation of ECG",
+            "Power Spectrum Estimation of Heart Rate Variability Data and Its Applications",
+            "Spectrum Estimation of EEG"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Wavelet Analysis: Introduction to Wavelet Transforms - CWT and DWT, Orthogonal Wavelet Decomposition",
+            "Orthonormal Wavelets - Filter Banks and Applications of DWT",
+            "Wavelet Denoising",
+            "ECG Feature Detection and Heart Sound Analysis"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Adaptive Filters",
+            "Optimal and Adaptive Filters",
+            "Wiener Filters",
+            "Adaptive Signal Processing - Steepest Descent Algorithm and LMS Adaptive Algorithm",
+            "Adaptive Noise Canceller - Cancellation of 50 Hz Signal in ECG and Cancellation of Maternal ECG in Foetal Electrocardiography"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Multivariate Analysis",
+            "Principal Component Analysis - Denoising of ECG and EEG Signals Using PCA",
+            "Independent Component Analysis - EEG Denoising and Computation of Diagnostic Signal Parameters of ECG",
+            "Heart Rate and QRS Detection Using Multivariate Analysis (PCA and ICA)"
+        ]
+    }
+]

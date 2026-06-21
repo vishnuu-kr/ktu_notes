@@ -1,0 +1,46 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of Probabilistic Robotics: Importance and applications of probabilistic methods in robotics. Historical context and development of probabilistic robotics.",
+            "Fundamentals of Probability and Statistics: Basic probability theory, random variables, and distributions. Statistical inference, Bayesian reasoning, and their significance in robotics.",
+            "Probabilistic Models: Types of probabilistic models used in robotics. Real-world examples and case studies demonstrating these models.",
+            "Assignments and Assessments: Problem sets on probability and statistics. Readings and essays on the significance of probabilistic robotics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Bayesian Filters: Understanding Bayes' rule and its application in filtering. Implementing Bayes filters for robotic localization.",
+            "Kalman Filters: Linear Gaussian models and the Kalman filter. Practical applications and limitations in robotics.",
+            "Particle Filters: Nonparametric filters and the particle filter algorithm. Handling nonlinearities and non-Gaussian noise.",
+            "Assignments and Assessments: Programming tasks to implement Bayesian, Kalman, and particle filters. Simulation projects for robotic localization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Sensor Fusion Techniques: Principles and methodologies for sensor fusion. Practical examples and case studies of sensor fusion in robotics.",
+            "Decision Making Under Uncertainty: Markov Decision Processes (MDPs) and Partially Observable MDPs (POMDPs). Algorithms for decision making in uncertain environments.",
+            "Practical Applications: Case studies and practical implementations. Hands-on projects with real or simulated robotic systems.",
+            "Assignments and Assessments: Projects focused on sensor fusion and decision making. Case study analyses and practical demonstrations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Learning Algorithms in Robotics: Overview of supervised, unsupervised, and reinforcement learning. Implementing learning algorithms in robotic systems.",
+            "Advanced Probabilistic Methods: Exploration of advanced filtering techniques. Multi-robot systems and cooperative localization.",
+            "Future Trends and Research Directions: Emerging trends and future directions in probabilistic robotics.",
+            "Assignments and Assessments: Final project integrating learned probabilistic algorithms. Review and presentation of contemporary research papers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

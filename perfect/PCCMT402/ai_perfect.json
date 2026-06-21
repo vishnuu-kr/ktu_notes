@@ -1,0 +1,52 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Artificial Intelligence: Introduction, Foundation and History of AI Agents and Environments",
+            "The concept of rationality",
+            "The nature of environments, structure of agents, problem solving agents, well-defined problems and solutions, formulating problems",
+            "Example problems: vacuum world, 8-puzzle, 8-queens"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Blind search strategies: depth first search, breadth first search, iterative deepening search, heuristic search strategies, heuristic functions, the effect of heuristic accuracy on performance",
+            "Generate and test, greedy best first search, A* algorithm, constraint satisfaction problems, cryptarithmetic problems, means-end analysis",
+            "Local search strategies: simple hill climbing, simulated annealing",
+            "Adversarial search: games, optimal decision in games, the minimax algorithm, alpha-beta pruning"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Knowledge-based agents: the Wumpus World",
+            "Logic",
+            "Propositional logic",
+            "Reasoning patterns in propositional logic",
+            "First order logic",
+            "Inference in first order logic",
+            "Propositional vs. first order inference",
+            "Unification and lifts, forward chaining",
+            "Backward chaining"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Planning: classical planning, algorithms for classical planning",
+            "Forward state-space search for planning",
+            "Backward search for planning",
+            "Planning as Boolean satisfiability",
+            "Heuristics for planning",
+            "Domain-independent pruning",
+            "State abstraction in planning",
+            "Hierarchical planning",
+            "High-level actions",
+            "Searching for primitive solutions",
+            "Searching for abstract solutions",
+            "Planning and acting in nondeterministic domains",
+            "Time, schedules, and resources"
+        ]
+    }
+]

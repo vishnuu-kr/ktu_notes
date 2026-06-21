@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Operating Systems - Objectives and Functions of Operating Systems",
+            "Types of OS",
+            "Concept of the Kernel within an Operating System; Process Management - Process States",
+            "Process Control Block and Operations on Process; Process Scheduling - Scheduling Algorithms - First Come First-Served (FCFS)",
+            "Shortest Job First (SJF)",
+            "Priority Scheduling",
+            "Round Robin (RR); Advanced Scheduling Techniques (Basics Only) - Multilevel Queue Scheduling",
+            "Multilevel Feedback Queue Scheduling"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Real Time Operating Systems (RTOS) - Structure and Characteristics of RTOS; Task Management - Task States and Task Synchronization; Semaphores - Types",
+            "Usage of Semaphores for Synchronization; Inter-Task Communication Mechanisms (Basics Only) - Message Queues",
+            "Pipes",
+            "Event Registers and Signals"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Real-Time Task Scheduling and Constraints",
+            "Task Constraints; Task Scheduling",
+            "Aperiodic Task Scheduling (Jackson's Algorithm and Horn's Algorithm); Scheduling with Precedence Constraints",
+            "LDF and EDF; Periodic Task Scheduling (Basics Only)",
+            "Rate Monotonic Scheduling (RMS) and Deadline Monotonic Scheduling (DMS); Real-Time Kernel",
+            "Structure, State Transition Diagram and Kernel Primitives"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Real-Time Operating Systems in Practice - Features and Applications of FreeRTOS and Linux; Overview of Commercial Real-Time Operating Systems",
+            "PSOS, VRTX and RT; Case Study",
+            "MicroC/OS-II (Features, Threads and Task Scheduling - Basics Only); Real-Life Applications",
+            "Adaptive Cruise Control",
+            "Practical Implementation Challenges and Solutions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

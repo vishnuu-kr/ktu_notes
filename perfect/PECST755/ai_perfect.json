@@ -1,0 +1,42 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to IoT: Why IoT, Trends in IT Space, Internet of Things Era, Device-to-Device/Machine-to-Machine Integration, Device-to-Cloud (D2C) Integration, IoT Platform as a Service (PaaS), Cloud-to-Cloud (C2C) Integration, IoT Key Application Domains, Emerging IoT Flavors",
+            "IoT Ecosystem: Architecture for IoT, Mobile Technologies, Mobile Application Development Platforms, LPWAN"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Infrastructure and Service Discovery Protocols: Layered Architecture for IoT, Protocol Architecture of IoT, Infrastructure Protocols, Device or Service Discovery for IoT, Protocols and Products for IoT Service Discovery",
+            "Integration Technologies and Tools: Smart Enterprises and Environments, Sensor and Actuator Networks, IoT Device Integration Concepts, Standards, and Implementations, Device Integration Protocols and Middleware, Protocol Landscape"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Platforms for IoT Applications and Analytics: IoT Building Blocks, Use Cases, M2M Application Platform, IoT Architectural Building Blocks, Data Analytics Platforms, IoT Data Virtualization Platforms and Capabilities, IoT Edge Data Analytics",
+            "Clouds for IoT Applications and Analytics: Reflecting the Cloud Journey, Key Motivations for Cloud-Enabled Environments, IoT and Cloud-Inspired Smarter Environments, Hybrid, Federated, and Special-purpose Cloud, Emergence of Edge/Fog Clouds, SDN and SDS"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Raspberry Pi",
+            "Creating Your First Project",
+            "Creating a Sensor to Measure Ambient Light",
+            "Creating an Actuator for Controlling Illumination",
+            "Publishing Information Using MQTT and HTTP",
+            "Creating Web Pages for Your Devices"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

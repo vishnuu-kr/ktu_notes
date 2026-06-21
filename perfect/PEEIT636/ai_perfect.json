@@ -1,0 +1,45 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Types of Controllers - Feed Forward, Feedback, Cascade, P",
+            "PI and PID Compensator Design",
+            "Realization of Compensators - Lag",
+            "Lead and Lag-Lead - Design of Compensator Using Bode Plot; Design of P",
+            "PI and PID Controller Using Ziegler-Nichols Tuning Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "State Feedback Controller Design, Controllability and Observability; State Feedback",
+            "Back Design via Pole Placement Technique; Sampled Data Control System, Pulse Transfer Function",
+            "Stability of Sampled Data System",
+            "Routh Hurwitz Criterion and Jury's Test; Introduction to State-Space Representation of Sampled Data Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Nonlinear Systems - Introduction",
+            "Characteristics of Nonlinear Systems; Types of Nonlinearities; Analysis through Harmonic Linearisation - Determination of Describing Function of Nonlinearities (Relay, Dead Zone, and Saturation Only)",
+            "Application of Describing Function for Stability Analysis of Autonomous System with Single Nonlinearity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Phase Plane Analysis - Concepts; Construction of Phase Trajectories for Nonlinear Systems and Linear Systems with Static Nonlinearities",
+            "Singular Points",
+            "Classification of Singular Points; Definition of Stability - Asymptotic Stability and Instability; Lyapunov Methods to Stability of Linear and Nonlinear Continuous Time Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Digital Image Fundamentals",
+            "Image Representation",
+            "Basic Relationship Between Pixels",
+            "Elements of DIP System",
+            "Elements of Visual Perception – Simple Image Formation Model, Brightness",
+            "Contrast",
+            "Saturation",
+            "Mach Band Effect",
+            "Colour Image Fundamentals – RGB, HSI Models",
+            "2D Sampling",
+            "Quantization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Review of Matrix Theory",
+            "Row and Column Ordering – Toeplitz, Circulant and Block Matrix",
+            "Image Compression",
+            "Need for Compression",
+            "Basics of Lossless Compression – Bit Plane Coding",
+            "Run Length Encoding and Predictive Coding",
+            "Basics of Lossy Compression – Uniform and Non-uniform Quantization Techniques",
+            "Concept of Transform Coding",
+            "JPEG Image Compression Standard"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Image Enhancement",
+            "Spatial Domain Methods",
+            "Point Processing – Intensity Transformations",
+            "Histogram Processing",
+            "Image Subtraction",
+            "Image Averaging, Spatial Filtering – Smoothing Filters",
+            "Sharpening Filters, Frequency Domain Methods",
+            "Low Pass Filtering",
+            "High Pass Filtering",
+            "Homomorphic Filter, Simple MATLAB Examples"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Image Restoration",
+            "Degradation Model",
+            "Unconstraint Restoration – Lagrange Multiplier and Constraint Restoration, Inverse Filtering – Removal of Blur Caused by Uniform Linear Motion",
+            "Weiner Filtering, Image Segmentation",
+            "Classification of Image Segmentation Techniques",
+            "Region Approach",
+            "Clustering Techniques, Segmentation Based on Thresholding",
+            "Edge Based Segmentation, Classification of Edges",
+            "Edge Detection",
+            "Hough Transform",
+            "Active Contour"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Game Theory: Competitive Equilibrium, Rationality",
+            "Strategic Games: Dominance, Nash Equilibrium, Maxmin Strategies, Elimination of Dominated Strategies, Preservation of Pure Nash Equilibrium (PSNE), Matrix Games, Relation between Maxmin and PSNE in Matrix Games, Mixed Strategies, Mixed Strategy Nash Equilibrium (MSNE), Finding MSNE, MSNE Characterization Theorem, Algorithm to Find MSNE"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Correlated Equilibrium (CE): Computing CE, Extensive Form Games, Subgame Perfection, Limitations of Subgame Perfect Nash Equilibrium",
+            "Imperfect Information Extensive Form Games (IIEFG): Strategies in IIEFGs, Equivalence of Strategies in IIEFGs, Perfect Recall, Equilibrium in IIEFG",
+            "Game Theory Application: P2P File Sharing",
+            "Bayesian Games: Strategy and Utility in Bayesian Games, Equilibrium in Bayesian Games"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to Mechanism Design: Revelation Principle, Introduction and Proof of Arrow’s Impossibility Result, Introduction to Social Choice Setup",
+            "Introduction and Proof of Gibbard-Satterthwaite Theorem, Domain Restriction, Median Voter Theorem",
+            "Task Sharing Domain, Uniform Rule, Mechanism Design with Transfers, Examples of Quasi-Linear Preferences, Pareto Optimality and Groves Payments"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to VCG Mechanism, VCG in Combinatorial Allocations, Applications to Internet Advertising, Slot Allocation and Payments in Position Auctions, Pros and Cons of VCG Mechanism",
+            "Affine Maximizers, Single Object Allocation, Myerson’s Lemma, Optimal Mechanism Design",
+            "Single and Multi-Agent Optimal Mechanism Design, Examples of Optimal Mechanisms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

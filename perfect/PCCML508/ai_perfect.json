@@ -1,0 +1,19 @@
+[
+    {
+        "module": "Experiment 2",
+        "topics": [
+            "1. Implement and demonstrate Single, Multi variable and Polynomial Regression for a given set of training data stored in a .CSV file and evaluate the accuracy",
+            "2. Write a Python program to implement KNN classifiers and calculate the accuracy, precision, and recall for your data set",
+            "3. Assuming a set of data that need to be classified, use a Naive Bayes classifier to perform this task and evaluate the accuracy",
+            "4. Write a Python program to demonstrate the working of the decision tree based ID3 algorithm. Use an appropriate data set for building the decision tree and apply this knowledge to classify a new sample",
+            "5. Implement hierarchical clustering algorithm on a given dataset to categorize the data",
+            "6. Implement k means clustering algorithm on a given dataset to categorize the data",
+            "7. Build an Artificial Neural Network using Backpropagation algorithm on a given dataset and test the same with appropriate dataset",
+            "8. Implement Feed forward neural network with three hidden layers for classification on CIFAR-10 dataset. Analyse the impact of optimization and weight initialization techniques such as Xavier initialization, Kaiming Initialization, dropout and regularization techniques, and visualize the change in performance",
+            "9. Digit classification using CNN architecture for MNIST dataset. Identify the performance change through pre-trained networks such as VGGNet or GoogleNet",
+            "10. Implement a simple RNN for review classification using IMDB dataset. Analyze and visualize the performance change while using LSTM and GRU instead of simple RNN",
+            "11. Implement time series forecasting prediction for NIFTY-50 dataset",
+            "12. Implement a shallow auto encoder and decoder network for machine translation (by using any dataset in Kaggle such as English to Hindi neural translation dataset)"
+        ]
+    }
+]

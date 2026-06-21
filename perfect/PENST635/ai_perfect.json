@@ -1,0 +1,69 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Computational Fluid Dynamics",
+            "CFD Applications",
+            "Numerical vs Analytical vs Experimental",
+            "Modelling vs Experimentation",
+            "Fundamental Principles of Conservation",
+            "Reynolds Transport Theorem",
+            "Conservation Equations for Mass",
+            "Momentum and Energy",
+            "Convective Forms of the Equations and General Description"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Numerical Methods for Solving CFD Problems",
+            "Classification and Overview of Numerical Methods",
+            "Classification into Various Types of Equations Such as Parabolic",
+            "Elliptic and Hyperbolic",
+            "Boundary and Initial Conditions",
+            "Overview of Numerical Methods",
+            "Finite Difference Method",
+            "Finite Element Method and Finite Volume Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "The Basic Structure of a CFD Code",
+            "Pre-Processor",
+            "Solver and Postprocessor",
+            "User-Defined Subroutines",
+            "Numerical Grid Generation",
+            "Transformation and Mapping",
+            "Solution to Some Basic Problems in Fluid Flow - Free Surface Flows and N-S Equations Around a Body in Water",
+            "Numerical Flow Simulation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Features of Turbulent Flow",
+            "Vorticity Transport Equation",
+            "General Properties of Turbulent Quantities",
+            "Reynolds Average Navier Stokes (RANS) Equation",
+            "Closure Problem in Turbulence",
+            "Types of Turbulence Models Like Eddy Viscosity Models",
+            "Mixing Length Model",
+            "Turbulent Kinetic Energy and Dissipation",
+            "κ-ε Model",
+            "RNG κ-ε Model and κ-ω Model",
+            "Reynolds Stress Model (RSM)",
+            "Large Eddy Simulation (LES)",
+            "Direct Numerical Simulation (DNS)",
+            "A Minor CFD Project in Ship Hydrodynamics Using Any Commercial or Open-Source CFD Package"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

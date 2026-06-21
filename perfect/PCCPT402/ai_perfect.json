@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Signal Processing",
+            "Characterization & Classification of Signals",
+            "Typical Signal Processing Operations",
+            "Examples of Typical Signals",
+            "Time Domain Representation of Signals & Systems",
+            "Discrete Time Signals",
+            "Operations on Sequences",
+            "The Sampling Process",
+            "Quantization",
+            "Discrete-Time Systems",
+            "Time Domain Characterization of LTI Discrete-Time Systems",
+            "Convolution and Impulse Response"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Transform-Domain Representation of Signals",
+            "Discrete Fourier Transform (DFT)",
+            "DFT Properties",
+            "Computation of the DFT of Real Sequences",
+            "Fast Fourier Transform (FFT)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Filtering and Noise Reduction",
+            "Types of Filters (Low-Pass, High-Pass, Band-Pass, Band-Stop)",
+            "Design and Implementation of Digital Filters",
+            "Noise Reduction Techniques"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Wavelet Transform",
+            "Introduction to Wavelets",
+            "Continuous Wavelet Transform (CWT)",
+            "Discrete Wavelet Transform (DWT)",
+            "Sensor Data Processing",
+            "Processing Data from Cameras",
+            "LIDAR and IMUs",
+            "Sensor Fusion Techniques",
+            "Real-Time Data Processing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

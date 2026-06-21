@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Compilers - The Translation Process",
+            "Major Data Structures",
+            "Other Issues",
+            "Bootstrapping and Porting",
+            "Scanning Process - Finite State Automata and Regular Expressions",
+            "Use of LEX to Generate Automatic Scanners",
+            "Parsing Process - Context Free Grammars",
+            "Parse Trees and Abstract Syntax Trees",
+            "Ambiguity"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Top-down Parsing - Recursive Descent",
+            "LL(1)",
+            "First and Follow",
+            "Error Recovery in Top-down Parsers",
+            "Bottom-up Parsing - Overview",
+            "Shift-Reduce Parser",
+            "LR(0) Items and LR(0) Parsing",
+            "SLR(1) Parsing",
+            "General LR(1) and LALR(1) Parsing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Semantic Analysis",
+            "Attributes and Attribute Grammars",
+            "Dependency Graphs and Evaluation Order",
+            "Synthesized and Inherited Attributes",
+            "Intermediate Code Generation - Three Address Code",
+            "P-code",
+            "Intermediate Code as a Synthesized Attribute"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Generation of Target Code from Intermediate Code - Code Generation of Data Structure References - Address Calculation",
+            "Array References",
+            "If and While Statements",
+            "Code Optimization Techniques",
+            "Principal Sources of Code Optimization",
+            "Classification of Optimizations",
+            "Data Structures and Implementation Techniques for Optimizations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

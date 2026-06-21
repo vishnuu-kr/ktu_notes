@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of Embedded System and Embedded System Architecture",
+            "Features, Categories, Requirements, Challenges and Issues",
+            "Applications of Embedded Systems in Consumer Electronics and Control Systems",
+            "Applications of Embedded Systems in Instrumentation and Biomedical Systems",
+            "Case Study of Low Power Mode of MSP430 and Its Use in Embedded Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Hardware Software Co-Design and Program Modelling: Fundamental Issues",
+            "Computational Models - Data Flow Graph",
+            "Control Data Flow Graph",
+            "State Machine and Sequential Model",
+            "Concurrent Model",
+            "Object-Oriented Model"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Integration and Testing of Embedded Hardware and Firmware - Embedded Firmware Design Approaches",
+            "Embedded System Development Environment - IDEs",
+            "Cross Compilers",
+            "Disassemblers",
+            "Decompilers",
+            "Simulators",
+            "Emulators, Debuggers, and Features of Embedded C"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "RTOS-Based Design - Basic Operating System Services: Structure and Kernel",
+            "Process, Tasks, and Threads - Process Management, Memory Management, and Device Management",
+            "Task Scheduling Algorithms - Non-Preemptive Scheduling and Preemptive Scheduling"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

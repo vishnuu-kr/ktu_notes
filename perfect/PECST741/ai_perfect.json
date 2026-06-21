@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Stages in Software Development",
+            "Software Defects and Their Causes",
+            "Techniques for Dealing with Software Defects - Testing and Verification, Formal Methods and Tools"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Ensuring Reliability in the Design Phase - Conceptual Modelling",
+            "The Tool Alloy",
+            "Conceptual Modelling in Alloy",
+            "Analysing Alloy Models",
+            "Fixing Bugs in Modelling",
+            "How Alloy Works - Showing That the Konigsberg Bridge Problem Has No Solution"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Verification by Model Checking - Verifier for Concurrent C (VCC)",
+            "A Hoare-Triple-Based Tool for Verifying Concurrent C",
+            "Intra-Procedure Verification of Programs",
+            "Ghost Statements"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Program Verification - Inter-Procedure Verification of Programs in VCC",
+            "Function Contracts",
+            "Pure Functions",
+            "Loop Invariants",
+            "Proving Total Correctness of Programs in VCC"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

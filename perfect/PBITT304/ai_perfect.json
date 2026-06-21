@@ -1,0 +1,99 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction",
+            "Overview of a Database Project and Its Scope and Objectives",
+            "Importance of Database Management System in Real-World Applications",
+            "Database Design",
+            "Conceptual Design",
+            "Create an Entity-Relationship Diagram (ERD) to Model the Entities, Relationships, and Attributes Involved in Your Project",
+            "Logical Design",
+            "Translate the ERD into a Relational Schema",
+            "Database Creation",
+            "Implement a Sample Schema in a DBMS of Your Choice (e.g., MySQL, PostgreSQL, SQLite)",
+            "Tables and Relationships",
+            "Define Tables with Appropriate Attributes (Columns)",
+            "Establish Relationships (Foreign Keys) Between Tables"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Normalization",
+            "Ensure Your Schema Is Normalized to Minimize Redundancy and Dependency Issues",
+            "SQL Queries",
+            "Develop a Set of SQL Queries to Demonstrate CRUD Operations (Create, Read, Update, Delete), Complex Joins, Aggregations, and Any Specialized Queries Required by Your Project",
+            "Timeline",
+            "Create a Timeline or Project Plan with Milestones to Ensure Timely Completion"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Constraints",
+            "Entity Integrity",
+            "Referential Integrity",
+            "Domain Constraints",
+            "Transaction Management",
+            "Definition of Transactions and Transaction Properties (ACID Properties)",
+            "Implementation of Transaction Processing Logic",
+            "Concurrency Control",
+            "Techniques to Manage Concurrent Access (e.g., Locking, Time Stamping)",
+            "Backup and Recovery",
+            "Strategies for Database Backup and Recovery in Case of Failures"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Testing and Validation",
+            "Execute Queries to Validate the Correctness of the Schema and Constraints",
+            "Integration with Applications",
+            "Develop Simple Applications (e.g., Using Python) to Interact with the Database",
+            "Documentation",
+            "Prepare Comprehensive Documentation Covering Project Objectives, Database Schema, Constraints, Transactions, and Implementation Details",
+            "Suggestions on Project Topics",
+            "E-commerce Database Platform",
+            "Registered Vehicle Database Management",
+            "Library Database Management System",
+            "Student Database Management"
+        ]
+    },
+    {
+        "module": "Module 5",
+        "topics": [
+            "Pharmacy Database Management System"
+        ]
+    },
+    {
+        "module": "Module 6",
+        "topics": [
+            "Restaurant Database Management"
+        ]
+    },
+    {
+        "module": "Module 7",
+        "topics": [
+            "Payroll Database Management System"
+        ]
+    },
+    {
+        "module": "Module 8",
+        "topics": [
+            "Insurance Products Database Management"
+        ]
+    },
+    {
+        "module": "Module 9",
+        "topics": [
+            "Hospital Management System"
+        ]
+    },
+    {
+        "module": "Module 10",
+        "topics": [
+            "Bank Transactions Management System"
+        ]
+    }
+]

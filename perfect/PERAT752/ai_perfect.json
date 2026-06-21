@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Estimation and Stochastic Process - Basics",
+            "Basic Kinds of Estimation, Linear Filter Structures with Finite and Infinite Memory, Approaches for Developing Linear Adaptive Filters, and Applications",
+            "Discrete Time Stochastic Process - Characterisation and Mean Ergodic Theorem",
+            "Correlation Matrix - Definition, Properties, and Correlation Matrix of Sine Wave Plus Noise",
+            "Stochastic Models: AR, MA, ARMA, and Wold Decomposition",
+            "Complex Gaussian Processes and Power Spectral Density - Properties and Estimation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Wiener Filters",
+            "Linear Optimum Filtering",
+            "Principle of Orthogonality",
+            "Minimum Mean Square Error",
+            "Wiener-Hopf Equation",
+            "Steepest Descent Algorithm - Basic Ideas and Stability Considerations",
+            "Application to Wiener Filtering",
+            "Advantages and Limitations"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Least Mean Square (LMS) Algorithm",
+            "Signal Flow Graph and Convergence of LMS Algorithm",
+            "Optimality Considerations, Applications, Normalized LMS Algorithm, and Affine Projection Adaptive Filters"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "RLS Algorithm and Kalman Filtering",
+            "Limitations of LMS Algorithm",
+            "Formulation of Recursive Least Squares (RLS) Based Adaptive Filters",
+            "Matrix Inversion Lemma",
+            "Exponentially Weighted RLS Algorithm",
+            "Single-Weight Adaptive Noise Canceller",
+            "Kalman Filtering - Recursive Minimum Mean Square Estimation",
+            "Statement of Kalman Filtering Problem",
+            "Innovations Process",
+            "Filtering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

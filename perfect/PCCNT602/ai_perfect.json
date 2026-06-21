@@ -1,0 +1,54 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of Computer Graphics and its Applications. Video Display Devices - Refresh Cathode Ray Tubes",
+            "Random Scan Displays and Systems",
+            "Raster Scan Displays and Systems. Line Drawing Algorithms - DDA",
+            "Bresenham's Algorithm. Circle Drawing Algorithms - Midpoint Circle Generation Algorithm",
+            "Bresenham's Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Filled Area Primitives and Transformations: Filled Area Primitives - Scan Line Polygon Filling",
+            "Boundary Filling and Flood Filling. Two Dimensional Transformations - Translation",
+            "Rotation",
+            "Scaling",
+            "Reflection and Shearing",
+            "Composite Transformations",
+            "Matrix Representations and Transformations",
+            "Homogeneous Coordinates. Basic 3D Transformations. Clipping and Projections",
+            "Window to Viewport Transformation. Cohen Sutherland Line Clipping Algorithm. Sutherland Hodgeman Polygon Clipping Algorithm. Three Dimensional Viewing Pipeline. Projections - Parallel and Perspective Projections. Visible Surface Detection Algorithms - Depth Buffer Algorithm",
+            "Scan Line Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Fundamentals of Digital Image Processing, Introduction to Image Processing and Applications. Image as 2D Data. Image Representation in Gray Scale, Binary and Colour Images. Fundamental Steps in Image Processing. Components of Image Processing System. Coordinate Conventions. Sampling and Quantization. Spatial and Gray Level Resolution. Basic Relationship between Pixels",
+            "Neighbourhood, Adjacency, Connectivity. Fundamentals of Spatial Domain",
+            "Convolution Operation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Image Enhancement in Spatial Domain and Image Segmentation, Basic Gray Level Transformation Functions",
+            "Log Transformations, Power-Law Transformations, Contrast Stretching. Histogram Equalization. Basics of Spatial Filtering",
+            "Smoothing Spatial Filter - Linear and Nonlinear Filters, and Sharpening Spatial Filters - Gradient and Laplacian. Fundamentals of Image Segmentation. Thresholding",
+            "Basics of Intensity Thresholding and Global Thresholding. Region Based Approach",
+            "Region Growing, Region Splitting and Merging. Edge Detection",
+            "Edge Operators - Sobel and Prewitt"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

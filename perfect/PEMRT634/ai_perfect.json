@@ -1,0 +1,61 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of Wireless Sensor Networks",
+            "Single-Node Architecture",
+            "Hardware Components",
+            "Network Characteristics - Unique Constraints and Challenges",
+            "Enabling Technologies for Wireless Sensor Networks",
+            "Types of Wireless Sensor Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Network Architecture",
+            "Sensor Network Scenarios",
+            "Design Principles",
+            "Physical Layer and Transceiver Design Considerations",
+            "Optimization Goals and Figures of Merit",
+            "Gateway Concepts",
+            "Operating Systems and Execution Environments",
+            "Introduction to TinyOS and nesC",
+            "Internet to WSN Communication"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "MAC Protocols for Wireless Sensor Networks",
+            "Low Duty Cycle Protocols and Wakeup Concepts - S-MAC",
+            "B-MAC Protocol",
+            "IEEE 802.15.4 Standard and ZigBee",
+            "The Mediation Device Protocol",
+            "Wakeup Radio Concepts",
+            "Address and Name Management",
+            "Assignment of MAC Addresses",
+            "Routing Protocols",
+            "Energy Efficient Routing",
+            "Geographic Routing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Topology Control",
+            "Clustering",
+            "Time Synchronization",
+            "Localization and Positioning",
+            "Sensor Tasking and Control"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

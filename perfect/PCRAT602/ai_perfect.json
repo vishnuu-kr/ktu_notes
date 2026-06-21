@@ -1,0 +1,45 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Digital Image Formation and Low-Level Processing",
+            "Image Transformations: Orthogonal, Euclidean, Affine, Projective",
+            "Fourier Transform, Convolution, and Filtering",
+            "Image Enhancement, Restoration, and Histogram Processing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Depth Estimation and Multi-Camera Views",
+            "Perspective, Binocular Stereopsis, Camera and Epipolar Geometry",
+            "Homography, Rectification, DLT, RANSAC, 3-D Reconstruction Framework",
+            "Auto-Calibration"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Feature Extraction: Edges - Canny, LOG, DOG",
+            "Line Detectors (Hough Transform) and Corner Detectors (Harris and Hessian Affine)",
+            "Orientation Histogram, SIFT, SURF, HOG, GLOH",
+            "Scale-Space Analysis: Image Pyramids, Gaussian Derivative Filters, Gabor Filters, DWT"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Image Segmentation: Region Growing and Edge-Based Approaches",
+            "Graph-Cut, Mean-Shift, MRFs, and Texture Segmentation",
+            "Object Detection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

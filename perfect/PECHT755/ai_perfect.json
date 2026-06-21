@@ -1,0 +1,83 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Process Optimization and Overview of Mathematical Functions",
+            "Scope and Hierarchy of Optimization",
+            "Typical Chemical Engineering Applications of Optimization",
+            "Statement of an Optimization Problem and Its Essential Features",
+            "Classification of Optimization Problems and Its Essential Features",
+            "Mathematical Modelling of Typical Chemical Engineering Optimization Problems",
+            "Nature and Classification of Mathematical Functions",
+            "Graphical Representation of Univariate and Bivariate Functions (Using MATLAB/Python etc. - Assignment)",
+            "Unimodal Functions",
+            "Determination of Convexity and Concavity of Single and Multivariate Functions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Analytical and Numerical Methods for Unconstrained Optimization Problems",
+            "Analytical Methods",
+            "Necessary and Sufficient Conditions for Optimum of Univariate Unconstrained Functions",
+            "Numerical Methods",
+            "One Dimensional Gradient-Free Search Methods (Fixed and Accelerated Step Size)",
+            "Dichotomous Search",
+            "Fibonacci Search",
+            "Golden-Section Method and Quadratic Interpolation",
+            "One Dimensional Gradient Search Methods (Newton's Method and Quasi-Newton Method)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Analytical Methods for Constrained Multivariate Optimization Problems",
+            "Nonlinear Programming with Equality Constraints",
+            "Method of Direct Substitution",
+            "Lagrange Multiplier Method",
+            "Nonlinear Programming with Inequality Constraints",
+            "Kuhn-Tucker Conditions for Local Optimality",
+            "Complex Method",
+            "Rosen's Gradient Projection Method",
+            "Numerical Methods for Unconstrained and Constrained Multivariate Optimization Problems",
+            "Unconstrained Multivariate Optimization Problems",
+            "Univariate Search",
+            "Powell's Method",
+            "Method of Steepest Descent",
+            "Fletcher-Reeve's Conjugate-Gradient Method",
+            "Newton's Method",
+            "Constrained Multivariate Optimization Problems",
+            "Basic Concepts and Graphical Representation of Linear Programming",
+            "Graphical Solution",
+            "Simplex Method and Two-Phase Simplex Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Optimization of Chemical Processes",
+            "Optimum Pipe Diameter for an Incompressible Fluid",
+            "Optimization of Heat Exchanger Network",
+            "Optimal Reflux Ratio for a Staged Distillation Column",
+            "Optimal Design of an Ammonia Reactor",
+            "Solving Chemical Engineering Optimization Problems in Excel/Python/MATLAB/Scilab or Any Optimization Software (Assignments/Microproject Only)",
+            "Chemical Product Design and Optimization",
+            "Introduction to the Current Product Design Process",
+            "Typical Applications of Chemical Product Design",
+            "Product Formulation and Optimization",
+            "Case Studies: Optimization of Disinfectant Formulation",
+            "Optimization of Mechanical Properties of Natural Fiber Polymer Composites",
+            "Non-Traditional Optimization Techniques",
+            "Introduction to Simulated Annealing",
+            "Genetic Algorithms and Particle Swarm Optimization (Algorithm Only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

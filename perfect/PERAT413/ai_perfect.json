@@ -1,0 +1,49 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Engineering application of optimization, statement of an optimization problem, classification, review of basic calculus concepts, and stationary points",
+            "Functions of single and two variables",
+            "Convexity and concavity of functions, definition of global and local optima, optimality criteria, linear programming methods for optimum design, and standard form of linear programming (LP) problem",
+            "Canonical form of LP problem",
+            "Simplex method, duality, and application of LPP models in engineering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Optimization algorithms for solving unconstrained nonlinear optimization problems and search-based techniques",
+            "Direct search",
+            "Fibonacci and golden section search",
+            "Hookes and Jeeves",
+            "Gradient-based method",
+            "Newton's method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Optimization algorithms for solving constrained optimization problems, direct methods, penalty function methods, barrier method, and optimization of function of multiple variables subject to equality constraints",
+            "Lagrangian function, inequality constrained techniques, KKT conditions, and steepest descent method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Modern methods of optimization",
+            "Metaheuristic techniques and genetic algorithms",
+            "Simulated annealing",
+            "Particle swarm optimization",
+            "Ant colony optimization",
+            "Engineering applications of unconstrained and constrained optimization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

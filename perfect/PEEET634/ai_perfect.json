@@ -1,0 +1,61 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to IoT Technology",
+            "Definitions of IoT",
+            "Characteristics of IoT Devices - Power and Computational Constraints",
+            "IoT Architectural View - Middleware Based Architecture",
+            "Service Oriented Architecture",
+            "M2M Communication and IoT",
+            "Typical Application Areas of IoT Technology (Case Studies of at Least Four Domains) - Energy Management and Smart Grid",
+            "IoT for Home, Cities, Environment Monitoring, Agriculture, Supply Chain and Customer Monitoring"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Components of IoT Technology",
+            "Identification/Addressing - Electronic Product Codes, RFID, Ubiquitous Code, IPv4, IPv6",
+            "Sensors and Actuators; IoT Hardware",
+            "IoT Software - Overview of Operating Systems, Firmware, Middleware, Application Software Used in IoT",
+            "Connectivity for IoT Devices - Characteristics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Communication Technologies for IoT",
+            "Zigbee - Key Features, Architecture, Limitations",
+            "Bluetooth Technology - Bluetooth Stack, Piconet, Scatternet, Limitations",
+            "Bluetooth Low Energy - Key Features, Architecture, Limitations",
+            "WiFi (IEEE 802.11) Technology - Key Features, Limitations",
+            "Cellular Technology - GSM, 4G LTE (Overview, Features, Limitations)",
+            "LoRa Technology - Features, LoRaWAN Architecture",
+            "6LoWPAN - Features, Protocol Stack",
+            "Narrow Band (NB-IoT) - Features, Applications",
+            "Sigfox - Features, Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "IoT Data Management",
+            "Storage Technologies for IoT Hardware - Volatile and Non-volatile",
+            "Embedded Storage (MTP/OTP), External Flash (NAND/NOR), DRAM, eFlash, eMMC (Overview of Technologies)",
+            "Cloud and IoT",
+            "Cloud Computing - Architecture and Advantages",
+            "Software as a Service (SaaS), Platform as a Service (PaaS), Infrastructure as a Service (IaaS)",
+            "Case Study of Commercial Cloud Computing Platforms - Microsoft Azure IoT Suite, Google Cloud's IoT Platform, IBM Watson IoT Platform",
+            "IoT Analytics"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

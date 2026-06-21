@@ -1,0 +1,69 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Basic Concepts and Recent Developments: Collaborative Recommendation - User-Based Nearest Neighbour Recommendations",
+            "Item-Based Nearest Neighbour Recommendation",
+            "Collaborative Recommendation Ratings",
+            "Model-Based and Pre-Processing-Based Approaches",
+            "Recent Practical Approaches and Systems: Content-Based Recommendation - Content Representation and Content Similarity, Similarity-Based Retrieval, and Other Text Classification Methods"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Knowledge-Based Recommendation",
+            "Knowledge Representation and Reasoning",
+            "Constraints",
+            "Cases and Similarities",
+            "Interacting with Constraint-Based Recommenders - Defaults: Dealing with Unsatisfiable Requirements and Empty Result Set",
+            "Proposing Repairs for Unsatisfiable Requirements",
+            "Ranking the Items / Utility-Based Recommendation",
+            "Interacting with Case-Based Recommenders",
+            "Critiquing - Compound Critiquing",
+            "Dynamic Critiquing"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Hybrid Recommendation Approaches",
+            "Opportunities for Hybridization: Recommendation Paradigms",
+            "Hybridization Designs",
+            "Monolithic Hybridization Design - Feature Combination Hybrids",
+            "Feature Augmentation Hybrids",
+            "Parallelized Hybridization Design - Mixed Hybrids",
+            "Switching Hybrids",
+            "Weighted Hybrids",
+            "Pipelined Hybridization Design - Cascade Hybrids",
+            "Meta-Level Hybrids: Limitations of Hybridization Strategies"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Evaluating Recommender Systems",
+            "Introduction - Evaluation Paradigms",
+            "User Studies",
+            "Online Evaluation and Offline Evaluation with Historical Data Sets",
+            "General Goals of Evaluation Design - Accuracy",
+            "Coverage",
+            "Confidence and Trust",
+            "Novelty",
+            "General Goals of Evaluation Design - Serendipity",
+            "Diversity",
+            "Robustness, Stability, and Scalability",
+            "Design Issues in Offline Recommender Evaluation - Case Study of the Netflix Prize Data Set",
+            "Segmenting the Ratings for Training and Testing - Hold-Out",
+            "Cross-Validation",
+            "Comparison with Classification",
+            "Accuracy Metrics in Offline Evaluation - Measuring the Accuracy of Ratings Prediction",
+            "RMSE versus MAE",
+            "Impact of the Long Tail",
+            "Evaluating Ranking via Correlation",
+            "Evaluating Ranking via Utility",
+            "Evaluating Ranking via Receiver Operating Characteristic",
+            "Limitations of Evaluation Measures - Avoiding Evaluation Gaming"
+        ]
+    }
+]

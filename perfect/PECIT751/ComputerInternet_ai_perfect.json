@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction - Compiler Structure, Overview of Translation, The Front End",
+            "The Optimizer",
+            "The Back End",
+            "Scanners - Recognizing Words, Regular Expressions, From Regular Expression to Scanner, FSA (Brush-up only), Implementing Scanners"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Parsing - Introduction, Expressing Syntax, Top-Down Parsing - Transforming a Grammar, Eliminating Left Recursion",
+            "Backtrack-Free Parsing",
+            "Left-Factoring to Eliminate Backtracking, Recursive Descent Parsers, Table-Driven LL(1) Parsers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Bottom-Up Parsing - Shift Reduce Parser, The LR(1) Parsing Algorithm, Building LR(1) Tables, Errors in the Table Construction, Reducing the Size of LR(1) Tables",
+            "Intermediate Representations - An IR Taxonomy, Graphical IRs - Syntax-Related Trees, Graphs",
+            "Linear IRs - Stack-Machine Code, Three-Address Code, Representing Linear Codes",
+            "Syntax-Driven Translation - Introduction, Translating Expressions, Translating Control-Flow Statements"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Code Generation",
+            "Code Shape - Arithmetic Operators",
+            "Boolean and Relational Operators",
+            "Control-Flow Constructs - Conditional Execution",
+            "Loops and Iteration",
+            "Case Statements",
+            "Procedure Calls",
+            "Code Optimization - Introduction",
+            "Opportunities for Optimization",
+            "Scope of Optimization",
+            "Local Optimization",
+            "Local Value Numbering",
+            "Tree-Height Balancing",
+            "Regional Optimization",
+            "Superlocal Value Numbering",
+            "Loop Unrolling",
+            "Global Optimization",
+            "Finding Uninitialized Variables with Live Sets",
+            "Global Code Placement"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

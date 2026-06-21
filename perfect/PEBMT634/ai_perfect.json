@@ -1,0 +1,48 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Numerical Techniques: Approximations, Accuracy and Precision",
+            "Definitions of Round-off and Truncation Errors",
+            "Error Propagation",
+            "Algebraic Equations: Formulation and Solution of Linear Algebraic Equations",
+            "Gauss Elimination Method",
+            "Introduction to Eigenvalue Analysis: Eigenvectors and Eigenvalues",
+            "Eigenvalue Problems in Biomedical Engineering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Interpolation Techniques, Newton-Raphson Method, and Regula-Falsi Method",
+            "Finite Differences, Newton's Forward and Backward Difference Method, Newton's Divided Difference Method, and Lagrange's Method",
+            "Cubic Spline and Quadratic Spline Interpolation Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Numerical Integration: Trapezoidal Rule, Simpson's 1/3rd Rule, and 3/8 Rule",
+            "Solution of ODE: Taylor's Series Method, Euler's Method, Modified Euler's Method, and R-K Method of Order Four"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Finite Element Method: Strong Form and Weak Form Equations",
+            "Test and Trial Functions",
+            "Discretization",
+            "Boundary Conditions",
+            "Numerical Assembly and Solution",
+            "Finite Element Method for Nonlinear ODEs: Linearization and Newton-Raphson Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Review of ANN",
+            "Perceptrons and Convolutional Neural Networks",
+            "Convolution Operation",
+            "CNN Architecture: Kernels",
+            "Padding, Convolutional Layers",
+            "Pooling Layers",
+            "Fully Connected Layers, Feature and Weight Visualization",
+            "t-SNE"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Loss Functions: Mean Squared Error",
+            "Cross Entropy, Activation Functions",
+            "Sigmoid, ReLU",
+            "Softmax, Training CNNs: Initialization, Back-propagation, Optimization Algorithms: SGD",
+            "Momentum",
+            "Adagrad",
+            "RMS Prop",
+            "Adam",
+            "Hyperparameter Optimization: Learning Rate, Regularization Methods",
+            "L2 Regularization, Dropout",
+            "Data Augmentation",
+            "Early Stopping, Batch Normalization, Introduction to Transfer Learning",
+            "Feature Extraction",
+            "Fine Tuning, Case Study",
+            "CNN Architectures",
+            "AlexNet",
+            "ResNet",
+            "GoogleNet (Case study only for practical assignments/microprojects)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Sequence Models",
+            "Recurrent Neural Networks (RNN)",
+            "Cell Structure and Architecture",
+            "Training RNN",
+            "Back Propagation Through Time, Vanishing and Exploding Gradients",
+            "Long Short-Term Memory (LSTM)",
+            "Architecture and Training",
+            "Gated Recurrent Units (GRU)",
+            "Architecture and Training"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Generative Models",
+            "Parameter Estimation",
+            "Maximum Likelihood Estimation, Autoencoders",
+            "Latent Space, Variational Autoencoders, GANs",
+            "Adversarial Training, Discriminator",
+            "Generator",
+            "Up Sampling",
+            "Transformer Models",
+            "Architecture, Word Embedding",
+            "Position Encoding",
+            "Attention",
+            "Training Transformer Models, Large Language Models, BERT",
+            "GPT",
+            "Note: Assignments/Micro project should be given for modules 2, 3 and 4 using standard machine learning frameworks such as TensorFlow/Keras/PyTorch. They may also be introduced to GPUs and standard data sets on Hugging Face/Kaggle"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

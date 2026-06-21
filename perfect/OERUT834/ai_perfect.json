@@ -1,0 +1,67 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Computer Vision - Definition",
+            "Difference Between Computer Vision and Machine Vision",
+            "Real World Applications, Image Formation",
+            "Geometric Primitives and Transformations",
+            "2D Transformations",
+            "3D Transformations - Translation",
+            "Rotation and Translation",
+            "3D to 2D Projections - Orthography and Para-Perspective",
+            "Perspective",
+            "Camera Intrinsics",
+            "Camera Matrix",
+            "Photometric Image Formation - Lighting",
+            "The Digital Camera - Image Sensing Pipeline",
+            "Factors Affecting the Performance of a Digital Image Sensor"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Image Processing: Point Operators - Pixel Transforms, Color Transforms, Histogram Equalization",
+            "Linear Filtering (Basic Explanation Only), Non-Linear Filtering - Median Filtering",
+            "Binary Image Processing - Morphology, Distance Transforms, Connected Components"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Machine Learning: Traditional, Machine Learning, and Deep Learning Pipelines",
+            "Supervised Learning - Nearest Neighbors, Bayesian Classification",
+            "Unsupervised Learning - Clustering, K-Means and Gaussian Mixture Models",
+            "Deep Neural Networks - Perceptron Unit, Weights and Layers, Activation Functions, Loss Functions, Backpropagation",
+            "Convolutional Neural Networks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Recognition",
+            "Instance Recognition",
+            "Image Classification - Feature-Based Methods",
+            "Deep Networks",
+            "Object Detection - Face Detection",
+            "General Object Detection - Precision vs. Recall",
+            "Semantic Segmentation - Basic Understanding Only",
+            "Feature Detection and Matching",
+            "Points and Patches",
+            "Edge Detection",
+            "Contour Detection",
+            "Lines and Vanishing Points",
+            "Segmentation - Region Splitting",
+            "Region Merging",
+            "Watershed"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

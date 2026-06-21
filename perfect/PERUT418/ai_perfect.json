@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Functional Units - Basic Operational Concepts",
+            "Bus Structures - Bus Operations - Arbitration",
+            "Instruction Cycle",
+            "Instruction Sequencing and Execution - Fundamental Concepts - Execution of a Complete Instruction - Data Path - Single Bus and Multiple Bus Organization - Hardwired Control - Microprogrammed Control"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Architecture",
+            "Assembly Language",
+            "Instructions",
+            "Operands",
+            "Registers",
+            "Memory and Constants - Machine Language",
+            "R-Type",
+            "I-Type",
+            "J-Type Instructions",
+            "Interpreting Machine Language Code - MIPS Addressing Modes - Register Only",
+            "Immediate",
+            "Base",
+            "PC-Relative",
+            "Pseudo-Direct - Steps for Executing a Program - Compilation",
+            "Assembling",
+            "Linking",
+            "Loading"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Pipelining - A Basic MIPS Implementation",
+            "Building a Datapath",
+            "Control Implementation Scheme",
+            "Pipelining",
+            "Pipelined Data Path and Control",
+            "Handling Data Hazards and Control Hazards",
+            "Exceptions"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Memory System",
+            "Basic Concepts - Semiconductor RAM - ROM - Memory Characteristics & Hierarchy - Cache Memories - Improving Cache Performance - Virtual Memory - Input Output Organization - Programmed I/O",
+            "Interrupt Driven I/O"
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Artificial Neural Networks",
+            "Biological Neural Networks",
+            "Model of an Artificial Neuron",
+            "Architecture",
+            "Activation Functions",
+            "Learning Methods",
+            "History of ANN - McCulloch & Pitts Model - Algorithm and Architecture"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Types of Networks",
+            "Hebb Network - Algorithm and Problems",
+            "Perceptron Network",
+            "ADALINE",
+            "MADALINE",
+            "Back Propagation Network - Architecture",
+            "Training Algorithm",
+            "Competitive Network",
+            "Maxent"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Associative Memory Networks",
+            "Hetero Associative Networks",
+            "Auto Associative Memory Networks",
+            "Discrete Hopfield Nets",
+            "Bidirectional Associative Memory Networks",
+            "Practical Issues in Neural Network Training - The Problem of Overfitting",
+            "Vanishing and Exploding Gradient Problems",
+            "Difficulties in Convergence",
+            "Local and Spurious Optima",
+            "Computational Challenges"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Convolutional Neural Networks (CNN) - Convolution Operation",
+            "Pooling",
+            "ReLU Layer",
+            "Structure of CNN (Basic Concepts Only)",
+            "Recurrent Neural Networks (RNN) - Basic Concept and Simple Architecture with Practical Examples",
+            "LSTM",
+            "GRU",
+            "Case Studies of Application of Neural Networks in Healthcare"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

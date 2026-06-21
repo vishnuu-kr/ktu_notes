@@ -1,0 +1,52 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Engineering Applications of Optimization - Statement of an Optimization Problem - Classification - Review of Basic Calculus Concepts - Stationary Points",
+            "Functions of Single and Two Variables",
+            "Convexity and Concavity of Functions - Definition of Global and Local Optima - Optimality Criteria",
+            "Linear Programming Methods for Optimum Design - Standard Form of Linear Programming (LP) Problem",
+            "Canonical Form of LP Problem",
+            "Simplex Method, Duality, Application of LPP Models in Engineering"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Optimization Algorithms for Solving Unconstrained Nonlinear Optimization Problems - Search Based Techniques",
+            "Direct Search",
+            "Fibonacci and Golden Section Search",
+            "Hooke and Jeeves",
+            "Gradient Based Method",
+            "Newton's Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Optimization Algorithms for Solving Constrained Optimization Problems - Direct Methods",
+            "Penalty Function Methods, Barrier Method",
+            "Optimization of Function of Multiple Variables Subject to Equality Constraints",
+            "Lagrangian Function - Inequality Constrained Techniques - KKT Conditions - Constrained Steepest Descent Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Modern Methods of Optimization",
+            "Metaheuristic Techniques, Genetic Algorithms",
+            "Simulated Annealing",
+            "Particle Swarm Optimization",
+            "Ant Colony Optimization",
+            "Use of MATLAB/Scilab to Solve Optimization Problems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]
