@@ -1,0 +1,49 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to R: The R Environment - Overview",
+            "Command Line Interface and Batch Processing",
+            "R Packages",
+            "Basic Data Types - Vectors, Lists, Data Frames, Matrices, and Arrays",
+            "Control Statements - If-Else, Switch, For Loops, While Loops",
+            "Functions - Writing and Using Functions, Scope of Variables, Function Arguments, Returning Values"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Data Import, Cleaning, and Preprocessing",
+            "Data Import and Export - Reading and Writing Data from/to Text Files, Excel, and Other Software",
+            "Database Connections - Connecting to Databases and Importing Data Using Packages",
+            "Handling Missing Data - NA, NULL Values",
+            "Data Cleaning and Preprocessing - Detecting and Removing Duplicates, Handling Outliers",
+            "Data Transformation and Normalization, Combining Data Sets",
+            "Binning Data, Subsets, Summarizing Functions"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Statistical Analysis and Data Visualization",
+            "Introduction to Data Analytics, Summary Statistics",
+            "Statistical Tests - Continuous Data and Discrete Data",
+            "Common Distributions - Type Arguments",
+            "Probability Distributions - Normal Distributions",
+            "R Graphics - Overview, Customizing Charts, Graphical Parameters, Basic Graphics Functions",
+            "Lattice Graphics - Lattice Functions, Customizing Lattice Graphics",
+            "Ggplot"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Machine Learning with R",
+            "Basic Concepts, Supervised vs. Unsupervised Learning",
+            "Simple Regression and Classification Models",
+            "Building Linear Models - Model Fitting, Predict Values Using Models, Analyzing the Fit, Refining the Model",
+            "Regression - Types, Unusual Observation and Corrective Measures, Comparison of Models",
+            "Case Studies and Applications - Real-World Applications of R in Various Fields like Finance, Healthcare, and Social Sciences"
+        ]
+    }
+]

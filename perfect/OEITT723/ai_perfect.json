@@ -1,0 +1,57 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to IoT",
+            "Internet, Intranet and Extranet: Comparison",
+            "Internet of Things Vision",
+            "IoT Strategic Research and Innovation Directions",
+            "IoT Applications",
+            "IoT Infrastructure, Networks and Communication, Processes, Data Management, Security, Privacy and Trust, Device Level Energy Issues",
+            "IoT Reference Model and Architecture: Core IoT Functions, Layers, Components, and Protocols"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "IoT Protocols",
+            "Physical and Data Link Layer: IEEE 802.15.4, LoRa, Zigbee, Bluetooth/Bluetooth Low Energy (BLE)",
+            "Network Layer: 6LoWPAN, IPv4/IPv6",
+            "Transport Layer: CoAP, DTLS",
+            "Session and Application Layer: CoAP, MQTT, HTTP/HTTPS, XMPP, AMQP"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "IoT Hardware and Software Platforms",
+            "IoT Hardware Platforms: Sensors (LED, Switch, Temperature Sensor, Fiber Optic), Actuators, Smart Objectives, Raspberry Pi Development Kit",
+            "Arduino IDE and Board Types, ESP8266",
+            "IoT Software Platforms: Node-RED, ThingSpeak, Blynk, IoTivity",
+            "IoT Operating Systems: Contiki, RIOT, TinyOS",
+            "Cloud Platforms for IoT: AWS IoT, Google Cloud IoT, Microsoft Azure",
+            "Introduction to Data Analytics in IoT: Importance, Techniques, and Tools",
+            "Data Storage and Management in IoT: Edge Computing, Fog Computing",
+            "Data Visualization and Reporting in IoT"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Building IoT Applications: Data Collection, Processing, and Actuation",
+            "IoT Security: Challenges, Threats, Vulnerabilities, and Solutions",
+            "IoT Privacy and Data Protection: Best Practices and Standards",
+            "Future Trends in IoT: AI Integration, IoT for Sustainability",
+            "Case Studies: Smart Homes, Smart Parking, Transportation, Wearables, Industrial IoT - Smart Agriculture, Smart Cities, Healthcare IoT",
+            "Smart and Connected Cities: Street Layer, City Layer, Data Center Layer"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

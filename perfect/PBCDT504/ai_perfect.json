@@ -1,0 +1,81 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Big Data and Hadoop Distributed File System: Evolution of Big Data",
+            "Big Data Characteristics",
+            "RDBMS and Big Data, History of Hadoop",
+            "Hadoop Ecosystem and Core Components",
+            "HDFS Architecture",
+            "Blocks",
+            "Name Nodes and Data Nodes",
+            "Using HDFS Files - Basic File System Operations",
+            "Hadoop Specific File Types, Anatomy of a File Read and Write"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "MapReduce Programming: Data Processing with MapReduce",
+            "Execution Pipeline",
+            "Runtime Coordination and Task Management in MapReduce",
+            "Designing MapReduce Implementations",
+            "Using MapReduce as a Framework for Parallel Processing",
+            "Face Recognition Example",
+            "Simple Data Processing with MapReduce",
+            "Inverted Indexes Example",
+            "Road Enrichment Example, Projects using R",
+            "Python",
+            "Java"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "HBase and Stream Data Model: HBase Architecture",
+            "HBase Schema Design",
+            "Introduction to Stream Concepts",
+            "Stream Data Model and Architecture",
+            "Sampling Data in a Stream",
+            "Filtering Streams",
+            "Counting Distinct Elements in a Stream"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Hive",
+            "Spark - Hive Features",
+            "Data Types and File Formats",
+            "Primitive and Collection Data Types",
+            "HiveQL - Creating Tables",
+            "Dropping Tables",
+            "Alter Table, Pig",
+            "Data Model",
+            "Pig Latin",
+            "Structure",
+            "Functions",
+            "Spark",
+            "Storage Layers for Spark",
+            "Core Spark Concepts",
+            "RDD Basics",
+            "RDD Operations, Projects using R",
+            "Python",
+            "Java, Suggestion on Project Topics: Log File Analysis",
+            "Collect Log Files from Web Servers or Applications and Analyze Them to Extract Useful Information like Error Rates, Traffic Patterns, and Popular Pages",
+            "Sentiment Analysis on Social Media Data",
+            "Collect Tweets or Social Media Posts and Perform Sentiment Analysis to Understand Public Opinion on a Particular Topic or Product, Recommendation System",
+            "Build a Recommendation System Based on User Behavior Data, such as Purchase History or Viewing Patterns",
+            "Word Count with MapReduce",
+            "Implement the Classic Word Count Problem where you Count the Frequency of Each Word in a Large Set of Text Documents"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Process Control Loops",
+            "Feedback Control",
+            "Feed Forward Control",
+            "Cascade Control",
+            "Ratio Control",
+            "Split Range Control",
+            "Computerized Control",
+            "Basic Building Blocks of Computer Controlled Systems",
+            "Programmable Logic Controller",
+            "Definition of PLC",
+            "Architecture of PLC",
+            "Input and Output Modules",
+            "Types of Inputs and Outputs",
+            "Analog and Discrete I/O Modules",
+            "Power Supply of PLCs",
+            "PLC Programming Languages",
+            "Ladder Programming",
+            "Relay Logic",
+            "Timers and Counters",
+            "Simple Programs in PLC",
+            "Math Operations",
+            "Sequencers",
+            "Program Control Instructions",
+            "Analog Instructions",
+            "Case Studies - Bottle Filling System",
+            "Gate Control System"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Direct Digital Control",
+            "Block Diagram",
+            "Multiplexers",
+            "Demultiplexers",
+            "Data Acquisition Systems",
+            "SCADA Fundamentals",
+            "Open System",
+            "Need and Advantages",
+            "Building Blocks of SCADA Systems",
+            "Remote Terminal Unit (RTU)",
+            "Human-Machine Interface (HMI) Subsystem"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "SCADA Communication Systems",
+            "Master Station",
+            "Master Station Software Components",
+            "Master Station Hardware Components",
+            "Server Systems in the Master Station",
+            "Small, Medium, and Large Master Stations",
+            "Global Positioning Systems (GPS)",
+            "Software Architecture of SCADA",
+            "Distributed Control System",
+            "DCS Architectures",
+            "Comparison",
+            "Local Control Unit",
+            "Process Interfacing Issues",
+            "Communication Facilities",
+            "Various Function Blocks"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "LCU Communication Facilities",
+            "Communication System Requirements",
+            "Architectural Issues",
+            "Operator Displays",
+            "Operator Interfaces",
+            "Engineering Interfaces",
+            "Development of Field Control Unit (FCU) Diagram for Simple Control Applications",
+            "Introduction to HART and Fieldbus Protocol",
+            "Interfacing Smart Field Devices (Wired and Wireless) with DCS Controller",
+            "Introduction to Object Linking and Embedding (OLE) for Process Control",
+            "Automation in the Cloud with Case Studies"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]
