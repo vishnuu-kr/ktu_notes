@@ -1,0 +1,58 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Compiler Structure, Overview of Translation, The Front End",
+            "The Optimizer",
+            "The Back End, Scanners - Recognizing Words, Regular Expressions, From Regular Expression to Scanner, FSA (Brush-Up Only), Implementing Scanners"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Parsing - Introduction, Expressing Syntax, Top-Down Parsing - Transforming a Grammar, Eliminating Left Recursion",
+            "Backtrack-Free Parsing",
+            "Left-Factoring to Eliminate Backtracking, Recursive Descent Parsers, Table-Driven LL(1) Parsers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Bottom-Up Parsing - Shift-Reduce Parser, The LR(1) Parsing Algorithm, Building LR(1) Tables, Errors in the Table Construction, Reducing the Size of LR(1) Tables, Intermediate Representations, An IR Taxonomy, Graphical IRs - Syntax-Related Trees, Graphs",
+            "Linear IRs - Stack-Machine Code, Three-Address Code, Representing Linear Codes, Syntax-Driven Translation - Introduction, Translating Expressions, Translating Control-Flow Statements"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Code Generation",
+            "Code Shape - Arithmetic Operators",
+            "Boolean and Relational Operators",
+            "Control-Flow Constructs - Conditional Execution",
+            "Loops and Iteration",
+            "Case Statements",
+            "Procedure Calls",
+            "Code Optimization - Introduction",
+            "Opportunities for Optimization",
+            "Scope of Optimization",
+            "Local Optimization",
+            "Local Value Numbering",
+            "Tree-Height Balancing",
+            "Regional Optimization",
+            "Super Local Value Numbering",
+            "Loop Unrolling",
+            "Global Optimization",
+            "Finding Uninitialized Variables with Live Sets",
+            "Global Code Placement",
+            "Suggestion on Project Topics - 1. Develop a Mini-Compiler that Parses and Evaluates Arithmetic Expressions Using Recursive Descent Parsing. 2. Build a Basic Calculator that Parses Mathematical Expressions Using YACC/Equivalent, Generates Intermediate Code, and Applies Optimizations to Improve Execution"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Review of ANN",
+            "Perceptrons",
+            "Convolutional Neural Networks",
+            "Convolution Operation",
+            "CNN Architecture and Kernels",
+            "Padding and Convolutional Layers",
+            "Pooling Layers",
+            "Fully Connected Layers",
+            "Feature and Weight Visualization",
+            "t-SNE"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Loss Functions - Mean Squared Error",
+            "Cross Entropy",
+            "Activation Functions",
+            "Sigmoid and ReLU",
+            "Softmax",
+            "Training CNNs - Initialization",
+            "Backpropagation",
+            "Optimization Algorithms - SGD",
+            "Momentum",
+            "Adagrad",
+            "RMSProp",
+            "Adam",
+            "Hyperparameter Optimization - Learning Rate",
+            "Regularization Methods",
+            "L2 Regularization and Dropout",
+            "Data Augmentation",
+            "Early Stopping",
+            "Batch Normalization",
+            "Introduction to Transfer Learning",
+            "Feature Extraction",
+            "Fine Tuning"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Sequence Models",
+            "Recurrent Neural Networks (RNN)",
+            "Cell Structure and Architecture",
+            "Training RNNs",
+            "Backpropagation Through Time",
+            "Vanishing and Exploding Gradients",
+            "Long Short-Term Memory (LSTM) - Architecture and Training",
+            "Gated Recurrent Units (GRU) - Architecture and Training"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Generative Models",
+            "Parameter Estimation",
+            "Maximum Likelihood Estimation",
+            "GANs",
+            "Adversarial Training",
+            "Discriminator",
+            "Generator",
+            "Upsampling",
+            "Transformer Models",
+            "Architecture",
+            "Word Embedding",
+            "Position Encoding",
+            "Attention",
+            "Training Transformer Models",
+            "Large Language Models",
+            "BERT",
+            "GPT"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

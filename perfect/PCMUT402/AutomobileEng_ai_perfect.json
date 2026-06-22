@@ -1,0 +1,40 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to analysis of deformable bodies; types of external loads – normal, shear, bending, and bearing stress; linear and shear strains; Hooke's law; stress-strain diagrams",
+            "Concepts of isotropy, orthotropy, and anisotropy; Young's modulus, bulk modulus, and rigidity modulus; Poisson's ratio; relationship between elastic constants",
+            "Deformation in axially loaded bars – uniform cross section, varying cross section, dissimilar materials; principle of superposition; thermal effects in simple and composite bars"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Torsion of shafts; torsion theory of elastic circular bars – assumptions and limitations; polar modulus; torsional rigidity; shaft design for torsional load",
+            "Beams – classification; diagrammatic conventions for supports and loading; differential equations between load, shear force, and bending moment; shear force and bending moment diagrams of cantilever and simply supported beams with point load/UDL; point of inflection"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Pure bending; flexure formula for beams – assumptions and limitations; section modulus; flexural rigidity",
+            "Shearing stress in beams – shearing stress formula; shear stress distribution in beam section; derivation and problems for rectangular section only; assumptions and limitations",
+            "Deflection of beams; moment-curvature relation – assumptions and limitations; double integration method; Macaulay's method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Stress on an inclined plane due to uniaxial stress, biaxial stress, and two normal stresses accompanied by shear stresses; principal planes and stresses; Mohr's circle of stress",
+            "Buckling and stability of long columns; Euler's buckling/crippling load for columns with different end conditions – Euler equation derivation for both ends hinged only; Rankine's formula"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

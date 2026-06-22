@@ -1,0 +1,81 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Neural Networks: Introduction to Human and Artificial Intelligence",
+            "History of AI",
+            "Forms of Learning - Supervised and Unsupervised Learning",
+            "Perceptron Learning Rule",
+            "Bio-inspired Learning",
+            "Artificial Neural Networks",
+            "Backpropagation",
+            "Multi-layer Perceptron Model",
+            "Activation Functions and Loss Functions",
+            "Optimization",
+            "Training Neural Networks - Gradient Descent",
+            "Stochastic Gradient Descent",
+            "Momentum",
+            "Weight Initialization",
+            "Batch Normalization",
+            "Hyperparameter Optimization",
+            "Parameter Updates",
+            "Model Ensembles"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Overview of Deep Learning, Deep Feedforward Networks, and Training Deep Models",
+            "Optimization Techniques: Gradient Descent, GD with Momentum, Stochastic GD, AdaGrad, RMSProp, and Adam",
+            "Regularization Methods: L1 and L2, Early Stopping, Dataset Augmentation, Parameter Sharing and Tying, Input Noise Injection, Ensemble Methods, Dropout, and Parameter Initialization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Convolutional Neural Networks",
+            "Convolution Layer",
+            "Pooling Layer",
+            "Fully Connected Layer",
+            "Conv Net",
+            "Case Study of ImageNet Challenge",
+            "LeNet",
+            "AlexNet",
+            "Google Net",
+            "ResNet",
+            "Inception Net",
+            "Efficient Net, etc., Regularization Techniques",
+            "Data Augmentation",
+            "Zooming",
+            "Rotation",
+            "Cropping",
+            "Blurring",
+            "Noise Addition",
+            "Self-supervision Techniques",
+            "Semi-supervised and Weakly Supervised Learning",
+            "Adversarial Training, Transfer Learning",
+            "Freezing the Input Layers",
+            "Fine-tuning Output Layers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Deep Unsupervised Learning and Recent Trends",
+            "Autoencoders (Standard, Sparse, Denoising, Contractive, Variational)",
+            "Generative Adversarial Networks",
+            "Autoencoder and DBM",
+            "Multi-task Deep Learning",
+            "Multi-view Deep Learning",
+            "Suggestion on Project Topics: Applications of Deep Learning to Computer Vision, Applications of Deep Learning to NLP"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

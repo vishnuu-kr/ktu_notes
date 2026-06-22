@@ -1,0 +1,42 @@
+[
+    {
+        "module": "Module-I",
+        "topics": [
+            "Role of Power Electronics",
+            "Motivation",
+            "Objectives and Challenges",
+            "Power Electronics vs Linear Electronics",
+            "Ideal and Real Switches: Static and Dynamic Performance, Power Losses, Temperature Rise, Thermal Analogy, Heat Sinks, Need for High Efficiency, Small Size, High Reliability, Low Cost, Overview of Applications",
+            "Power Diodes: Types, Characteristics (Static and Dynamic), Reverse Recovery Transient, Ratings, Schottky Diodes, Features and Applications",
+            "SCR (Thyristor): Symbol, Structure, Characteristics (Static and Dynamic), Turn-on and Turn-off Phenomena, Ratings, Gate Control, Gate Pulse Requirements, Gate Drive Circuits, Gate Synchronisation, Isolated Gate Drives",
+            "MOSFETs and IGBTs: Symbol, Structure, Characteristics (Static and Dynamic), Device Ratings, Gate Drive Requirements, Typical Gate Drive Circuits",
+            "Introduction to Wide Bandgap Devices: SiC MOSFET and GaN HEMT, Features and Advantages"
+        ]
+    },
+    {
+        "module": "Module-II",
+        "topics": [
+            "Single-Phase Controlled Rectifiers: Fully Controlled and Half-Controlled (Semi-converter) with RL and RLE Loads, Rectifier and Inverter Modes, Waveforms (Continuous and Discontinuous Conduction), Output Voltage, Input Line Current, Real Power, Power Factor and THD, Effect of Source Inductance",
+            "Three-Phase Controlled Rectifiers: Fully Controlled and Half-Controlled Bridge Converter with RLE Load (Continuous Conduction, Ripple Free Current), Waveforms, Output Voltage Equation",
+            "AC Voltage Controllers (ACVC): Single-Phase Full-Wave ACVC with R and RL Loads, Waveforms, RMS Output Voltage, Applications",
+            "DC-DC Switching Regulators: Buck, Boost, and Buck-Boost Converters, Continuous Conduction Operation and Waveforms, Effect of Non-idealities (Capacitor ESR, Inductor Resistance), Design of Filter Inductance and Capacitance, Selection of Power Devices"
+        ]
+    },
+    {
+        "module": "Module-III",
+        "topics": [
+            "Switch Mode DC-AC Voltage Source Inverters (VSI): Single-Phase Half-Bridge and Full-Bridge Configurations, Sinusoidal PWM, Control of Fundamental Output Voltage, Harmonic Spectrum, Bipolar and Unipolar PWM, Linear, Over Modulation and Square Wave Modes, Merits and Demerits, Need for Blanking Time (Dead-Time)",
+            "Three-Phase Pulse Width Modulated VSI: Fundamental Output Voltage, Linear, Over Modulation and Square Wave Modes, Third Harmonic Injection PWM",
+            "Single-Phase Current Regulated VSI: Tolerance Band Current Control, Fixed Frequency Operation, Single-Phase Current Source Inverters (IGBT-based), Comparison",
+            "Improved Utility Interface: Need, Generation of Current Harmonics, Power Factor, Harmonics and IEEE 519 Standard, Active Shaping of Input Line Current, Single-Phase Front End Boost Converter (Circuit Diagram, Operation, Control Scheme)"
+        ]
+    },
+    {
+        "module": "Module-IV",
+        "topics": [
+            "Introduction to Electric Drives: Advantages of Adjustable Speed Drives, Block Diagram, Types of Loads, Classification of Load Torque, Motor Torque-Load Combination, Characteristics and Dynamic Equation, Steady State Stability",
+            "DC Drives: Chopper Control of Separately Excited DC Drives (SEDC), One Quadrant, Two Quadrant, and Four Quadrant Chopper Fed Drives (Continuous Conduction), Motoring and Regenerative Braking, Speed-Torque Characteristics, Speed Control, Controlled Rectifier Fed SEDC Motor Drive (Single-Phase and Three-Phase), Dual Converter Drives (Circulating Current and Non-Circulating Current), Static Four-Quadrant Operation",
+            "Three-Phase VSI Fed Induction Motor Drives: Stator Voltage Control, V/F Speed Control, Speed-Torque Characteristics, Speed Control Below and Above Base Speed, Dynamic and Regenerative Braking"
+        ]
+    }
+]

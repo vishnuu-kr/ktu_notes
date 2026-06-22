@@ -1,0 +1,56 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Internet of Things: Definition",
+            "Basic IoT block diagram",
+            "Characteristics of IoT devices: power and computational constraints",
+            "IoT architecture: middleware-based architecture and service-oriented architecture",
+            "M2M communication: M2M system model",
+            "Device domain",
+            "Network domain",
+            "Application domain",
+            "M2M vs IoT",
+            "Typical application areas of IoT: smart homes, agriculture, and smart city"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "IoT hardware: commercially available sensors (operating principles only) - temperature and humidity sensor (DHT11/22), gas sensor (MQ series), ultrasonic distance sensor (HC-SR04)",
+            "Actuators (working principles only): DC motors, solenoid-based valves, electro-mechanical relay, solid state relay, stepper motors",
+            "Embedded boards: overview of typical microcontroller and single board computers used in IoT applications - Arduino Uno, ESP32, Raspberry Pi (overview only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "IoT communication: IoT device gateways",
+            "Overview of IP addressing: IPv4, IPv6",
+            "Network address translation (overview only)",
+            "IoT infrastructure protocols (only overview and key features required): RFID, Zigbee, Bluetooth, DASH7, LoRa, 6LoWPAN, SigFox, NB-IoT, WiFi",
+            "Overview of cellular communication for IoT (LTE 4G only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Application protocols and cloud computing (fundamental concepts only required)",
+            "Message Queue Telemetry Transport (MQTT): architecture, Quality of Service levels",
+            "HTTP REST API",
+            "Constrained Application Protocol (CoAP): architecture, request-response model",
+            "Typical use cases of MQTT, CoAP, and REST API in IoT networks",
+            "Cloud computing: overview of architecture",
+            "Cloud models: Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS), and Infrastructure-as-a-Service (IaaS)",
+            "Emerging trends in IoT: AI integration and beyond"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

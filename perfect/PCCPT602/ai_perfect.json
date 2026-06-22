@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Communication for CPS",
+            "Overview of CPS and Communication Requirements",
+            "Types of Communication in CPS (e.g., sensor-sensor, sensor-actuator, actuator-actuator)",
+            "Communication Protocols and Standards for CPS",
+            "Network Topologies and Architecture for CPS (TCP/IP, HTTP)",
+            "Network Performance Metrics (e.g., throughput, latency, jitter)"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Wireless Communication for CPS",
+            "Wireless Communication Technologies (Wi-Fi, Bluetooth, Zigbee)",
+            "Wireless Network Protocols and Standards (802.11, 802.15.4)",
+            "Wireless Communication Challenges (interference, fading)",
+            "Wired Communication for CPS",
+            "Wired Communication Technologies (Ethernet)",
+            "Wired Network Topologies and Standards (TCP/IP, Modbus)"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Data Compression and Encryption for CPS",
+            "Data Compression Techniques (Huffman coding, LZ77)",
+            "Encryption Techniques (AES)",
+            "Data Compression and Encryption Algorithms for CPS",
+            "Communication Protocols for CPS Applications",
+            "IoT Communication Protocols (MQTT, CoAP, LWM2M)",
+            "Industrial Automation Communication Protocols (Modbus, Profibus, Profinet)",
+            "Healthcare Communication Protocols (HL7, DICOM)"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Performance Evaluation and Optimization",
+            "Performance Metrics for CPS Communication (throughput, latency, reliability)",
+            "Performance Evaluation Tools (simulation, testing)",
+            "Optimization Techniques for CPS Communication (buffer sizing, packet scheduling)",
+            "Security and Privacy in CPS Communication",
+            "Threats and Vulnerabilities in CPS Communication",
+            "Security Measures for CPS Communication (encryption and authentication)",
+            "Privacy Concerns and Solutions in CPS Communication"
+        ]
+    }
+]

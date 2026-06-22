@@ -1,0 +1,59 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Control System - Definition",
+            "Open Loop vs Closed Loop Control Systems - Components of a Typical Control System - Necessity of a Control System in a Robot",
+            "Bird's Eye View of Typical Actuators in Robot Control Systems - Hydraulic",
+            "Pneumatic and Electric Actuators - Overview of Basic Types - DC Motors for Speed Control",
+            "DC and AC Servo Motors for Position Control",
+            "Brushless DC Motors for Speed Control of Quadcopters and Linear Actuation Mechanisms. Basic Idea of Feedbacks in Robotic Systems - Sensors (e.g., Linear and Rotary Encoders). Linear Time Invariant Systems - Transfer Function",
+            "Necessity of Knowing the Transfer Function",
+            "Modelling - Mechanical and Electromechanical Systems - Block Diagram Representation - Block Diagram Reduction",
+            "Characteristic Equation",
+            "Signal Flow Graph",
+            "Overview of Mason's Gain Formula"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Time Domain Analysis of Control Systems",
+            "Transient and Steady State Responses - Time Domain Specifications - First and Second Order Systems - Step Responses of First and Second Order Systems",
+            "Steady State Error Analysis - Static Error Coefficient of Type 0",
+            "Type 2 Systems - Dynamic Error Coefficients. Concept of Stability",
+            "Time Response for Various Pole Locations - Stability of Feedback System - Routh's Stability Criterion. Root Locus - General Rules for Constructing Root Loci - Stability from Root Loci - Effect of Addition of Poles and Zeros"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Frequency Domain Analysis",
+            "Frequency Domain Specifications - Analysis Based on Bode Plot - Log Magnitude vs. Phase Plot. Design of P",
+            "PI and PID Controller Using Ziegler-Nichols Tuning Method",
+            "Overview - Necessity of Using Lag",
+            "Lead and Lag-Lead Compensators in Control Systems. State Space Analysis of Systems",
+            "Introduction to State Concept - State Equation of Linear Continuous Time Systems",
+            "Matrix Representation of State Equations. Phase Variable and Canonical Forms of State Representation - Controllable",
+            "Observable",
+            "Diagonal and Jordan Canonical Forms - Solution of Time Invariant Autonomous Systems"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Nonlinear Systems - Introduction",
+            "Characteristics of Nonlinear Systems. Types of Nonlinearities. Determination of Describing Function of Nonlinearities (Relay, Dead Zone and Saturation Only)",
+            "Application of Describing Function for Stability Analysis of Autonomous System with Single Nonlinearity. Singular Points",
+            "Classification of Singular Points. Definition of Stability - Asymptotic Stability and Instability, Overview of Lyapunov Methods to Stability of Linear and Nonlinear, Continuous Time Systems. Case Study - Kinematic Modelling of a Differential Drive Robot and Controlling the Same to Move to a Point"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]
