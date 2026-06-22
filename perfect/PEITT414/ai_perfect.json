@@ -1,0 +1,41 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of Computer Graphics and Its Applications; Raster Scan and Random Scan Systems; Display Technologies",
+            "Overview of CRT, Plasma, OLED, AMOLED, and E-Paper Displays",
+            "Output Primitives: Line Drawing Algorithms - DDA, Bresenham's, and Midpoint Circle Generation Algorithm",
+            "Filled Area Primitives: Scan Fill, Flood Fill, and Boundary Fill; Inside-Outside Tests"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Two-Dimensional Transformations: Translation, Rotation, Scaling, Reflection, and Shearing; Composite Transformations; Matrix Representations and Homogeneous Coordinates",
+            "2-D Clipping: Window to Viewport Transformation, Point Clipping, Cohen-Sutherland Line Clipping Algorithm, Sutherland-Hodgeman and Weiler-Atherton Polygon Clipping Algorithms"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Three-Dimensional Concepts and Display Methods: Parallel Projection, Perspective Projection, Depth Cueing, Visible Line and Surface Identification, Surface Rendering, Exploded and Cutaway Views, Three-Dimensional and Stereoscopic Views",
+            "Three-Dimensional Transformations: Translation, Scaling, Rotation, Viewing Transformation, The Perspective Algorithms",
+            "Three-Dimensional Clipping; Perspective View of Cube"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Visible Surface Detection Methods: Depth Buffer, A-Buffer, Scan Line, Depth Sorting Methods; Hidden Surface Removal - Back Face Detection, Z-Buffer Method, Painter's Algorithm, Scan-Line Algorithm, BSP Trees, Area Sub-Division Method, Ray Tracing; Animation, Morphing",
+            "Introduction to Digital Image Processing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

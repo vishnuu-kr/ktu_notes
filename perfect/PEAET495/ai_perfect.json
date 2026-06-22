@@ -1,0 +1,56 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of Machine Learning",
+            "Examples of Machine Learning Applications",
+            "Machine Learning Paradigms – Supervised, Semi-Supervised, Unsupervised, Reinforcement Learning",
+            "Types of Supervised Learning – Classification and Regression",
+            "Bayes' Theorem",
+            "Classification – Bayes' Decision Theory",
+            "Discriminant Functions and Decision Surfaces",
+            "Bayesian Classification for Normal Distributions",
+            "Naive Bayes Classifiers",
+            "Logistic Regression"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Supervised Learning – Regression: Error Functions in Regression",
+            "Linear Regression with One Variable",
+            "Linear Regression with Multiple Variables",
+            "Overfitting and Underfitting",
+            "Bias-Variance Trade-off",
+            "Basics of Decision Trees and Random Forest",
+            "SVM – Maximum Margin Classification",
+            "Separable and Non-Separable Classes",
+            "Formulation of the Optimization Problem and Solutions",
+            "Multiclass Classification"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Neural Networks – Perceptron",
+            "Multilayer Feedforward Neural Network",
+            "Activation Functions – Sigmoid, ReLU, Tanh",
+            "Backpropagation Algorithm",
+            "Unsupervised Learning – Clustering: Distance Measures",
+            "K-Means Clustering",
+            "Hierarchical Clustering"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Dimensionality Reduction – Principal Component Analysis",
+            "Fisher's Discriminant Analysis",
+            "Model Selection – Cross-Validation: K-Fold, Leave-One-Out, Bootstrapping",
+            "Model Evaluation – Classification: Confusion Matrix",
+            "Model Evaluation Metrics – Precision, Recall, Accuracy, F-Measure",
+            "Receiver Operating Characteristic (ROC) Curve",
+            "Area Under the Curve (AUC)"
+        ]
+    }
+]

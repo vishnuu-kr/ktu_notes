@@ -1,0 +1,51 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Machine Learning and Data Preprocessing",
+            "Machine Learning: Definition, Scope, and Types of Learning",
+            "Data Preprocessing: Data Cleaning and Handling Missing Data",
+            "Outlier Detection and Treatment",
+            "Data Transformation: Normalization and Standardization",
+            "Feature Engineering, Feature Selection, and Extraction Techniques",
+            "Encoding Categorical Variables: One-hot Encoding and Label Encoding"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Supervised Learning Techniques: Regression Analysis",
+            "Simple and Multiple Linear Regression",
+            "Preventing Overfitting: Regularization",
+            "Classification Methods: Decision Trees",
+            "Decision Tree Construction, Impurity Measures (Gini Index, Entropy), and Pruning",
+            "Support Vector Machines (SVM): Linear SVM, Kernel Trick, and Non-linear SVM"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Neural Networks and Deep Learning: Introduction to Neural Networks",
+            "Perceptron: Model and Limitations",
+            "Multilayer Feedforward Networks: Architecture and Flow of Information",
+            "Activation Functions",
+            "Training Neural Networks: Backpropagation Algorithm, Derivation and Implementation",
+            "Gradient Descent Optimization: Batch, Mini-batch, and Stochastic",
+            "Techniques for Improving Convergence: Learning Rate Schedules and Momentum",
+            "Convolutional Neural Networks (CNN): Basic Architecture, Convolutional Layers, Pooling Layers, and Fully Connected Layers"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Unsupervised Learning: Clustering (K-means, Hierarchical, DBSCAN)",
+            "Dimensionality Reduction: t-SNE",
+            "Model Evaluation, Validation, and Optimization",
+            "Performance Metrics: Confusion Matrix, Precision, Recall, F1-score, R-squared",
+            "Validation Techniques: k-fold, Stratified, Leave-one-out",
+            "Hyperparameter Tuning: Grid Search, Random Search",
+            "Ensemble Methods: Bagging, Boosting (AdaBoost, Gradient Boosting, XGBoost)",
+            "Project Topic Suggestions: Customer Segmentation for Marketing, Anomaly Detection in Network Traffic, Speech Emotion Recognition, Traffic Sign Recognition, Breast Cancer Prediction"
+        ]
+    }
+]

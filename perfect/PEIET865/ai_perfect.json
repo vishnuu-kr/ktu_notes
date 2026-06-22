@@ -1,0 +1,54 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Data Analytics with Python",
+            "Using Pandas for Data Manipulation",
+            "Cleaning and Preparing Data",
+            "Feature Engineering with Pandas and NumPy",
+            "Techniques for Creating and Transforming Features for Analytical Models",
+            "Introduction to Data Visualization with Matplotlib and Seaborn",
+            "Exploring Data Distributions and Relationships"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Statistical Analysis and Feature Selection",
+            "Descriptive and Inferential Statistics with SciPy",
+            "Understanding Data Through Statistical Metrics",
+            "Feature Selection Techniques",
+            "Using Scikit-learn for Automated Feature Selection Methods Like RFE (Recursive Feature Elimination)",
+            "Dimensionality Reduction Techniques",
+            "PCA and T-SNE with Scikit-learn for Feature Extraction and Data Visualization"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Machine Learning Models and Handling Imbalanced Data",
+            "Overview of Machine Learning Algorithms (Classification, Regression) with Scikit-learn",
+            "Handling Imbalanced Datasets",
+            "Techniques Like SMOTE, and Balanced Random Forests with Imbalanced-learn",
+            "Model Evaluation and Hyperparameter Tuning Using Cross-Validation and GridSearchCV in Scikit-learn"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Advanced Machine Learning Techniques and Applications",
+            "Introduction to Deep Learning with TensorFlow and Keras",
+            "Basics of Neural Networks",
+            "Building and Training Deep Learning Models for Classification and Regression Problems",
+            "Advanced Topics in Machine Learning, Ensemble Methods, Boosting, and Stacking Models to Improve Performance"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

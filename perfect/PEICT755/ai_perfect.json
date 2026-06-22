@@ -1,0 +1,60 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to IoT Technology",
+            "Definitions and Characteristics of IoT",
+            "IoT Architectural View",
+            "Physical Design of IoT",
+            "Logical Design of IoT - IoT Functional Blocks",
+            "IoT Communication Models",
+            "IoT Enabling Technologies",
+            "IoT Levels and Deployment Templates"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "IoT and M2M",
+            "Difference Between IoT and M2M",
+            "SDN and NFV for IoT",
+            "Smart Objects",
+            "The Things in IoT",
+            "Sensors, Actuators, and Smart Objects",
+            "Sensor Networks - Wireless Sensor Networks (WSNs)",
+            "Communication Protocols for Wireless Sensor Networks - Connecting Smart Objects - Communication Criteria"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Unified Data Standards - Protocols - IEEE 802.15.4 - The Physical Layer",
+            "The Media-Access Control Layer",
+            "Uses of 802.15.4",
+            "The Future of 802.15.4",
+            "802.15.4e and 802.15.4g - Modbus - ZigBee Architecture - LoRaWAN - Standardization and Alliances",
+            "Physical Layer",
+            "MAC Layer",
+            "Topology",
+            "LTE-M",
+            "NB-IoT - Network Layer - The Next Generation",
+            "IP-Based Protocols"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Raspberry Pi - Raspberry Pi Interfaces (Serial, I2C) - Raspberry Pi Interfacing and Programming Examples Using Python (LED, Switch, Sensor, Serial, I2C Devices)",
+            "IoT Privacy, Security and Vulnerabilities Solutions - Vulnerabilities, Security Requirements, Threat Analysis, Security Tomography, Layered Attacker Model, Identity Management, Access Control, Secure Message Communication",
+            "Smart City IoT Architecture - Street Layer, City Layer, Data Center Layer, Services Layer"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]
