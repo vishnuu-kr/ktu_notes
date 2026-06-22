@@ -1,0 +1,95 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Familiarize and Understand Basics of Network Configuration Files, Networking Commands and the Functioning of System Calls Used for Network Programming in Linux",
+            "Implement Client-Server Communication Using Socket Programming and TCP as Transport Layer Protocol",
+            "Implement Client-Server Communication Using Socket Programming and UDP as Transport Layer Protocol",
+            "Implement the Framing Methods Employed in Data Link Layer: Bit Stuffing and Character Stuffing",
+            "Simulate Sliding Window Flow Control Protocols: Stop and Wait, Go Back N, and Selective Repeat",
+            "Implement and Simulate Algorithm for Distance Vector Routing Protocol",
+            "Implement Simple Mail Transfer Protocol",
+            "Implement File Transfer Protocol",
+            "Understanding the Wireshark Tool",
+            "Implement Congestion Control Using a Leaky Bucket Algorithm",
+            "Study of NS2 Simulator",
+            "Design and Configure a Network with Multiple Subnets with Wired and Wireless LANs Using Required Network Devices; Configure Commonly Used Services in the Network"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Measurement of Current, Voltage, Frequency and Phase Shift of Signal in a RC Network Using Oscilloscope",
+            "Rectifier Circuits With and Without C Filter",
+            "Clipping and Clamping Circuits Using Diodes",
+            "RC Coupled Amplifier Using BJT in CE Configuration - Measurement of Gain, BW and Plotting of Frequency Response",
+            "Op-Amp Circuits - Design and Set Up of Inverting and Non-Inverting Amplifier",
+            "Op-Amp Circuits - Adder, Integrator, and Differentiator",
+            "Precision Rectifier Using Op-Amps",
+            "Phase Shift Oscillator and Wien's Bridge Oscillator Using Op-Amps",
+            "Waveform Generation - Square, Triangular and Saw Tooth Waveform Generation Using Op-Amps",
+            "Basic Comparator and Schmitt Trigger Circuits Using Op-Amp",
+            "Astable and Monostable Circuits Using 555 IC",
+            "D/A Converters - R-2R Ladder Circuit"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Introduction to Signals, Systems and Digital Signal Processing; Continuous and Discrete Time Signals, Generation of Discrete Time Signals - Sampling, Elementary Discrete Time Signals",
+            "Classification of Signals - Periodic and Non-Periodic Signals, Energy and Power Signals, Even and Odd Signals",
+            "Operations on Signals - Shifting, Folding, Scaling",
+            "Discrete Time Systems - Properties of Discrete Time Systems: Linearity, Time Invariance, Causality, Stability",
+            "Linear Time Invariant (LTI) Systems - Convolution Sum, Impulse Response, Difference Equation Representation of LTI Systems",
+            "Z-Transform - Properties of Z-Transform, Inverse Z-Transform, System Transfer Function",
+            "Basic Elements of Digital Signal Processing (DSP) System, Typical DSP Applications",
+            "Frequency Domain Representation of Discrete-Time Signals, Discrete Time Fourier Transform (DTFT), Discrete Fourier Transform (DFT) - Properties",
+            "Circular Convolution and Its Relationship with Linear Convolution, Relationship Between DTFT and DFT",
+            "Efficient Computation of DFT - Fast Fourier Transform (FFT) Algorithms: Radix-2 Decimation in Time (DIT) and Decimation in Frequency (DIF) FFT Algorithms, IDFT Computation Using Radix-2 FFT Algorithms",
+            "Design of Digital Filters - Classification of Digital Filters: FIR Filter and IIR Filter; Types of Filters: LPF, HPF, BPF, BSF",
+            "Design of FIR Filters - Linear Phase FIR Filters: Symmetric and Anti-Symmetric FIR Filters, Gibbs Phenomenon, Design of Linear Phase FIR Filters Using Window Method (Rectangular, Hamming and Hanning)",
+            "Design of IIR Digital Filters - Analog Filters (Butterworth), Analog Butterworth Prototype LPF Filter Design, IIR Filter Design Using Impulse Invariance and Bilinear Transformation, Frequency Transformations in the Analog Domain (LPF and HPF Only)",
+            "Realization of Digital Filters - Structures for the Realization of Discrete Time Systems, Block Diagram and Signal Flow Graph Representations of Filters",
+            "FIR Filter Structures - Linear Phase Realization, Direct Form, Cascade Form",
+            "IIR Filter Structures - Direct Form, Cascade Form and Parallel Form",
+            "DSP Architecture - Introduction to TMS320C67xx Digital Signal Processor, Functional Block Diagram and Description",
+            "Finite Word Length Effects in DSP Systems - Introduction, Fixed-Point and Floating-Point DSP Arithmetic, ADC Quantization Noise, Round-Off Error"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Introduction to Formal Language Theory - Alphabets, Strings, Concatenation of Strings, Languages",
+            "Regular Languages - Deterministic Finite State Automata (DFA), Nondeterministic Finite State Automata (NFA), Equivalence of DFA and NFA",
+            "Regular Grammar (RG) and Equivalence of RGs and DFA",
+            "Regular Expression (RE) and Equivalence of REs and DFA",
+            "Pumping Lemma for Regular Languages",
+            "Closure Properties of Regular Languages",
+            "DFA State Minimization (Myhill-Nerode Theorem) and Applications of MNT",
+            "Context Free Grammar (CFG), Derivation Trees and Ambiguity",
+            "Nondeterministic Pushdown Automata (PDA) and Deterministic Pushdown Automata (DPDA)",
+            "Pumping Lemma for Context-Free Languages",
+            "Closure Properties of Context Free Languages",
+            "Context Sensitive Languages - Context Sensitive Grammar (CSG) and Linear Bounded Automata",
+            "Turing Machines - Standard Turing Machine, Robustness, Recursive and Recursively Enumerable Languages",
+            "Chomsky Classification of Formal Languages"
+        ]
+    },
+    {
+        "module": "Module 5",
+        "topics": [
+            "8051 Microcontroller - Introduction, Comparison of Microprocessor and Microcontroller, Evolution of Microcontrollers from 4-Bit to 32-Bit, Selection of Microcontrollers, Applications of Microcontrollers",
+            "8051 Architecture - Registers, Pin Diagram, I/O Ports Functions, Internal Memory Organization, External Memory (ROM & RAM) Interfacing",
+            "Addressing Modes and Accessing Memory Using Various Addressing Modes",
+            "Instruction Set - Arithmetic, Logical, Simple Bit, Jump, Loop and Call Instructions",
+            "Stack, Stack and Subroutine Instructions",
+            "Assembly Language Program Examples",
+            "Timers and Counters, Interrupts",
+            "Interfacing Seven Segment Displays, Displaying Information on an LCD, Control of a Stepper Motor, DAC",
+            "8051 Serial Communication - Basics of Serial Data Communication, RS-232 Standard, 9 Pin RS232 Signals, Simple Serial Port Programming to Transmit a Message and to Receive Data Serially",
+            "ARM Processor Fundamentals - Registers, Current Program Status Register, Pipeline, Exceptions, Interrupts, and the Vector Table, Core Extensions, Architecture Revisions",
+            "Introduction to ARM Family, ARM7 Register Architecture, ARM Programmer's Model",
+            "Raspberry Pi 4 Board - Introduction and Brief Description"
+        ]
+    }
+]

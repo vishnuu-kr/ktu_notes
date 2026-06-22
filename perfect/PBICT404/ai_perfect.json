@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Integrated Circuit Fabrication Process: Brief Overview of IC Fabrication Technology and Silicon Wafer Preparation",
+            "Epitaxial Growth",
+            "Oxidation",
+            "Photolithography",
+            "Diffusion",
+            "Ion Implantation",
+            "Isolation Techniques",
+            "Metallization and Packaging",
+            "Operational Amplifiers: Introduction, Block Diagram, and 741 Op-Amp",
+            "Characteristics of Operational Amplifiers: DC Characteristics (Input Bias Current, Input Offset Current, Input Offset Voltage, Thermal Drift, CMRR, PSRR)",
+            "AC Characteristics of Operational Amplifiers: Frequency Response, Stability, and Slew Rate",
+            "Basic Applications of Operational Amplifiers: Inverting Amplifier, Non-Inverting Amplifier, Differential Amplifier, Scale Changer, Summing Amplifier, Subtractor, Adder, and Voltage Follower",
+            "V-I Converter (Grounded Load and Floating Load Types)",
+            "Howland Constant Current Circuit and I-V Converter"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Instrumentation Amplifier (3 Op-Amp Design)",
+            "Op-Amp Integrator and Differentiator",
+            "Op-Amp Circuits Using Diodes: Rectifier (Half and Full Wave), Peak Detector, Sample and Hold Circuit, Log and Antilog Amplifier, Multiplier and Divider",
+            "Comparators: Inverting and Non-Inverting Types and Applications (Zero Crossing Detector, Window Detector, Time Marker Generator)",
+            "Waveform Generators Using Operational Amplifier: Schmitt Trigger, Astable Multivibrator, Monostable Multivibrator, and Triangular Waveform Generator",
+            "Oscillators Using Operational Amplifier: Introduction, RC Phase Shift Oscillator, and Wien Bridge Oscillator"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Filters: Introduction",
+            "Low Pass Filter: First Order, Second Order (Sallen-Key Butterworth), and Higher Order",
+            "High Pass Filter: First Order, Second Order (Sallen-Key Butterworth), and Higher Order",
+            "Band Pass Filter: Wide BPF and Narrow Band Pass Filter",
+            "Band Reject Filter: Wide BRF and Narrow BRF (Twin T Notch Design)",
+            "All Pass Filter"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Digital to Analog Converter (DAC): Weighted Resistor Type and R-2R Type",
+            "Analog to Digital Converter (ADC): Flash Type, Counter Type, Servo Type, Successive Approximation Type, and Integrating Type (Dual Slope)",
+            "Specifications of DAC and ADC",
+            "Voltage Regulator: Introduction, Series Op-Amp Regulator, IC Regulators (78XX and 79XX), and Characteristics",
+            "555 Timer: Introduction, Functional Diagram, Monostable Operation and Applications, and Astable Operation and Applications",
+            "Voltage Controlled Oscillator and PLL (Basic Principle Only)"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]
