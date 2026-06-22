@@ -1,0 +1,59 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Analysis of Sampled Data Systems",
+            "Review of Z Transforms",
+            "Sampling Theorem",
+            "Impulse Sampling",
+            "Sampling Rate Selection",
+            "Data Hold - ZOH, FOH",
+            "Pulse Transfer Function",
+            "Control Configurations",
+            "Mapping Between the s-Plane and the z-Plane",
+            "Stability Analysis of Closed-Loop System in the z-Plane",
+            "Jury's Test",
+            "Schur-Cohn Test",
+            "Bilinear Transformation",
+            "Routh-Hurwitz Method in w-Plane"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Design of Compensators",
+            "Direct Design Based on Root Locus",
+            "Design of Lag Compensator",
+            "Design of Lead Compensator",
+            "Design of Lead-Lag Compensator",
+            "Digital Controller Design in Frequency Domain",
+            "Direct Design Based on Frequency Response",
+            "Design of Lag-Lead Compensator",
+            "Realization of Digital Controllers"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Discrete-Time State Space System",
+            "State Variable Model of Discrete Data Systems with S/H Devices and State Transition Equations",
+            "State Diagrams",
+            "Relationship Between State Space Representation and Pulse Transfer Function",
+            "Transformation to Canonical Forms and Phase Variable Form",
+            "Solution of State Equation",
+            "Computation of State Transition Matrix Using Cayley-Hamilton Theorem and Z-Transform Method"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Design Using State Space Approach",
+            "Discretization of Continuous Time State-Space Equations",
+            "Controllability",
+            "Observability",
+            "State Feedback Controller Design via Pole Placement",
+            "State Observer Design",
+            "Full Order Observers and Reduced Order Observers"
+        ]
+    }
+]

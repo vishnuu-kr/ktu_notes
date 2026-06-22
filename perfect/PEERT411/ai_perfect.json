@@ -1,0 +1,75 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Analog Communication",
+            "Introduction",
+            "Elements of Communication Systems",
+            "Need for Modulation",
+            "Amplitude Modulation",
+            "Modulation Index",
+            "Average Power",
+            "Equation and Spectrum of AM Signal",
+            "Concept of DSB-SC and SSB",
+            "Angle Modulation - Frequency and Phase Modulation",
+            "FM Frequency Spectrum",
+            "Equation and Spectrum of FM Signal, Narrow and Wide Band FM",
+            "Comparison of AM and FM"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Digital Communication",
+            "Principles of Digital Communication - Sampling Theorem",
+            "Nyquist Criterion",
+            "Quantization",
+            "Encoding Techniques - Unipolar, Bipolar and Manchester",
+            "Pulse Modulation Techniques - Sampling Process - PAM",
+            "PWM and PPM Concepts",
+            "Block Diagram of PCM Encoder and Decoder"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Satellite Communication",
+            "Introduction to Satellite Communication",
+            "Types of Satellite Orbits",
+            "Space Segment - Introduction",
+            "Power Supply",
+            "Attitude and Orbit Control System (AOCS)",
+            "Thermal Control Subsystem",
+            "TT&C Subsystem",
+            "Transponders",
+            "Antenna Subsystem",
+            "Earth Segment - Types of Earth Station",
+            "Multiple Access (MA) Techniques - FDMA, TDMA, CDMA, SDMA"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Cellular Communication",
+            "Basic Concepts",
+            "Frequency Reuse",
+            "Interference",
+            "Cell Splitting",
+            "Sectoring",
+            "Cell System Layout",
+            "Handoff - Types and Strategies",
+            "Bluetooth",
+            "ZigBee",
+            "Wi-Fi",
+            "WiMAX Based Communication"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to NLP",
+            "Various Stages of Traditional NLP",
+            "Challenges in NLP",
+            "Basic Text Processing Techniques",
+            "Common NLP Tasks",
+            "N-gram Language Models",
+            "Naive Bayes for Text Classification and Sentiment Analysis",
+            "Evaluation Metrics: Precision, Recall, and F-measure",
+            "Test Sets and Cross Validation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Traditional NLP Techniques",
+            "Annotating Linguistic Structures and Context-Free Grammars",
+            "Constituency Parsing",
+            "Ambiguity",
+            "CYK Parsing",
+            "Dependency Parsing and Transition-Based Dependency Parsing",
+            "Graph-Based Dependency Parsing",
+            "Evaluation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Neural Networks for NLP",
+            "Word Representations and Lexical Semantics",
+            "Vector Semantics",
+            "TF-IDF",
+            "Pointwise Mutual Information (PMI)",
+            "Neural Word Embeddings and Word2Vec",
+            "GloVe",
+            "Contextual Word Embeddings",
+            "Evaluating Vector Models",
+            "Feedforward Neural Networks for Text Classification"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Advanced NLP and Applications",
+            "Sequence Modelling and Recurrent Neural Networks",
+            "RNNs as Language Models",
+            "RNNs for NLP Tasks",
+            "Stacked and Bidirectional RNN Architectures",
+            "Recursive Neural Networks",
+            "LSTM and GRU",
+            "Common RNN NLP Architectures",
+            "Encoder-Decoder Model with RNNs",
+            "Attention Models",
+            "Transformers",
+            "NLP Applications: Machine Translation, Question Answering, and Information Retrieval",
+            "Introduction to Large Language Models"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Overview of Soft Computing: Definition and Importance, Comparison with Hard Computing, Applications in Various Domains",
+            "Introduction to Neural Networks: Biological Inspiration and McCulloch-Pitts Model, Activation Functions",
+            "Neural Network Architectures: Types and Uses",
+            "Single Layer Feedforward Networks, Multilayer Feedforward Networks, and Recurrent Networks",
+            "Learning Process in Neural Networks: Supervised vs. Unsupervised Learning, Learning Rules",
+            "Perceptron",
+            "Widrow-Hoff",
+            "Delta Rule",
+            "Hebbian and Competitive Learning: Applications",
+            "Pattern Association, Recognition, and Function Approximation"
+        ]
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Single Layer Networks: Perceptron and ADALINE, Adaptive Filtering and Optimisation Techniques, Perceptron Convergence Theorem",
+            "Multilayer Networks: Architecture and Learning Algorithms, Backpropagation, Detailed Working, Issues and Solutions, XOR Problem and Decision Rules, Introduction to MADALINE",
+            "Radial Basis Neural Networks: Concept and Applications, Network Training and Regularisation Theory, Comparison with Multilayer Perceptron"
+        ]
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Basics of Fuzzy Logic: Introduction to Fuzzy Sets, Properties, Operations, and Relations, Membership Functions and Fuzzy Rules",
+            "Fuzzy Rule-Based Systems: Canonical Rule Forms, Composite Rules and Their Decomposition, Aggregation of Fuzzy Rules and Decision-Making",
+            "Introduction to Genetic Algorithms: Evolutionary Concepts and GA Features, Coding, Selection, Crossover, and Mutation, Basic GA Structure and Operators"
+        ]
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Hybrid Systems: Concept of Neuro-Fuzzy Systems, Integration of Neural Networks and Fuzzy Logic",
+            "Introduction to Neuro-Genetic Systems",
+            "Advanced Topics and Cross-Validation: Cross-Validation Methods and Model Selection",
+            "Early Stopping Methods and Their Importance",
+            "Introduction to Boltzmann Machines and Mean Field Theory"
+        ]
+    }
+]

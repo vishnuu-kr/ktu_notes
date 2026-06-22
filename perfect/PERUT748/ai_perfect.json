@@ -1,0 +1,73 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics",
+            "Overview of Database Management Systems - Characteristics of Database Approach vs File System Approach - Advantages & Applications - Three Schema Architecture - Three Tier Architecture - Entity Relationship Model",
+            "Entity Types and Sets - Attributes and Types",
+            "Keys - Relationships and Types - Cardinality",
+            "Participation - Structural Constraints - Conventional and Min-Max Notations - Drawing and Interpreting ER Diagrams - Relational Model Concepts",
+            "Structure of Relational Databases - Domains",
+            "Attributes",
+            "Tuples",
+            "Relations - Types of Keys - Integrity Constraints - Synthesizing ER Diagram to Relational Schema - Examples"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Introduction to Relational Algebra",
+            "Select",
+            "Project",
+            "Rename",
+            "Union",
+            "Intersection",
+            "Difference",
+            "Division - Cartesian Product - Join and Its Types - Relational Algebra Query Examples - Structured Query Language (SQL)",
+            "Data Types - Data Definition Language (DDL)",
+            "Create",
+            "Alter",
+            "Drop",
+            "Truncate",
+            "Rename - Data Manipulation Language (DML)",
+            "Select",
+            "Insert",
+            "Update",
+            "Delete - Nested Queries (Correlated and Non-Correlated) - Aggregation and Grouping - Views - Example SQL Queries on Single and Multiple Tables - Query Practice"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Normalization",
+            "DB Design Anomalies - Functional Dependencies - Armstrong's Axioms - Closures - Equivalence of FDs",
+            "Minimal Cover - First Normal Form (1NF) - Second Normal Form (2NF) - Third Normal Form (3NF) - Boyce Codd Normal Form (BCNF) - Lossless Join Decomposition - Dependency Preserving Decomposition - Physical Data Organization",
+            "Physical and Logical Records - Blocking Factor - Pinned and Unpinned Organization - Heap Files - Sorted Files - Indexing - Single-Level Ordered Indexes - Multilevel Indexes - Dynamic Indexing - B Trees & B+ Trees"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Transaction Processing Concepts - Transaction States and Operations",
+            "ACID Properties",
+            "Serial Schedules",
+            "Concurrent and Serializable Schedules",
+            "Conflict Equivalence and Conflict Serializability",
+            "Recoverable, Cascade-less & Strict Schedules",
+            "Locking",
+            "Two-Phase Locking and Its Variations",
+            "System Log",
+            "Log Based Recovery",
+            "Deferred Database Modification",
+            "Checkpointing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]
