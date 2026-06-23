@@ -1,0 +1,49 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Control Systems and its Time Domain Analysis: Review of Open Loop and Closed Loop Control Systems",
+            "Automatic Control Systems",
+            "Necessity and Significance, Time Domain Analysis of Control Systems, Impulse and Step Responses of First and Second Order Systems, Pole Dominance for Higher Order Systems, Time Domain Specifications, Error Analysis, Steady State Error Analysis and Static Error Constants"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Root Locus Analysis and Controllers, Root Locus Technique, Construction of Root Locus, Stability Analysis, Effect of Addition of Poles and Zeros",
+            "Effect of Positive Feedback Systems on Root Locus, Controller Design, Types of Controllers and their Control Action - Proportional (P), Integral (I), Derivative (D), PID Control, PID Tuning using Ziegler-Nichols Method"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Frequency Domain Analysis",
+            "Bode Plot",
+            "Construction",
+            "Concept of Gain Margin and Phase Margin, Stability Analysis, Frequency Domain Specifications, Correlation between Time Domain and Frequency Domain Responses (Resonant Peak and Resonant Frequency), Introduction to Compensators (Concept Only), Polar Plot",
+            "Gain Margin and Phase Margin",
+            "Stability Analysis, Nyquist Stability Criterion, Concept of Nichols Chart"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "State Space Representation of Systems",
+            "Introduction to State-Space Modelling",
+            "State Variables, State Equations, State Variable Representation of Electrical Systems, Relationship between State Space and Transfer Function Models",
+            "Derivation of Transfer Functions from State Equations, Controllable",
+            "Observable and Diagonal/Jordan Canonical Forms, Introduction to Similarity Transformations (Concept Only), Solution of Time Invariant Systems",
+            "Solution of Time Response of Autonomous Systems and Forced Systems, State Transition Matrix - Computation using Method of Laplace Transform and Cayley Hamilton Theorem, Controllability and Observability",
+            "Definition",
+            "Kalman's Test"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

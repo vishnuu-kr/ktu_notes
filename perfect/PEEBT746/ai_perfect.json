@@ -1,0 +1,102 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Convolutional Neural Networks (CNN)",
+            "Convolution Layer",
+            "Activation Functions",
+            "Pooling Layer",
+            "Dense Layer",
+            "Transfer Learning",
+            "Deep CNN Architectures",
+            "Feedforward Neural Networks",
+            "Backpropagation",
+            "Gradient Descent",
+            "Loss Functions",
+            "Optimizers",
+            "Train/Val/Test Dataset Distributions",
+            "Performance Metrics",
+            "Hyperparameter Tuning",
+            "Bias-Variance Tradeoff",
+            "Overfitting",
+            "Regularization",
+            "Batch Normalization",
+            "Dataset Augmentation and Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Deep Learning Networks",
+            "AlexNet",
+            "GoogLeNet",
+            "VGGNet",
+            "ResNet",
+            "DenseNet",
+            "Deep Learning Platforms",
+            "Keras",
+            "Theano",
+            "TensorFlow and PyTorch",
+            "Data Types",
+            "Tensors",
+            "Creating Tensors",
+            "Operations on Tensors",
+            "TensorBoard and Keras",
+            "Common Functional Modules",
+            "Model Configuration",
+            "Training and Testing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Recurrent Neural Networks: Forward and Backward Pass",
+            "Gradient Propagation and Backpropagation Through Time (BPTT)",
+            "Many-to-One RNN Model (Sentiment Analysis)",
+            "Many-to-Many RNN Model (Language Model)",
+            "Vanishing Gradients in Recurrent Networks",
+            "LSTMs",
+            "Bidirectional RNNs",
+            "Gated RNNs",
+            "Encoder-Decoder Models",
+            "Attention Networks",
+            "Issues in RNN/LSTM"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Deep Autoencoders",
+            "Unsupervised Deep Learning",
+            "Autoencoders",
+            "Undercomplete Autoencoders",
+            "Regularized Autoencoders",
+            "Generative Modelling Applications",
+            "Variational Autoencoder (VAE) and Variational Learning",
+            "Network Architecture",
+            "Generative Adversarial Networks (GANs)",
+            "Boltzmann Machines",
+            "Restricted Boltzmann Machines",
+            "Deep Reinforcement Learning",
+            "Reinforcement Learning (RL) Process",
+            "Reward Hypothesis",
+            "Observations/States Space, Action Space, Rewards",
+            "The Policy π",
+            "Agent's Brain",
+            "Policy-Based Methods",
+            "Value-Based Methods",
+            "Deep Q-Learning",
+            "Actor-Critic",
+            "Policy Gradient",
+            "Experience Replay and Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

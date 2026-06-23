@@ -1,0 +1,89 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Big Data",
+            "Definition and Characteristics",
+            "Volume",
+            "Velocity",
+            "Variety",
+            "Veracity",
+            "Value",
+            "Importance of Big Data in Modern Industries",
+            "Security Challenges in Big Data: Data Breaches, Privacy Concerns, and Compliance Issues",
+            "The CIA Triad in the Context of Big Data",
+            "Big Data Architecture",
+            "Hadoop Ecosystem",
+            "HDFS",
+            "MapReduce",
+            "YARN",
+            "Apache Spark",
+            "Resilient Distributed Datasets (RDDs) and DataFrames",
+            "NoSQL Databases",
+            "Cassandra",
+            "MongoDB",
+            "Case Studies",
+            "Real-World Examples of Big Data Security Breaches and Their Implications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Security Mechanisms",
+            "Authentication and Authorization",
+            "Kerberos",
+            "LDAP",
+            "Access Control Frameworks",
+            "Apache Ranger",
+            "Apache Sentry",
+            "Data Encryption",
+            "SSL/TLS for Data in Transit and at Rest",
+            "Data Privacy Issues: Overview of Data Privacy in Big Data, Sensitive Data, and Business Data",
+            "Anonymization Techniques",
+            "K-Anonymity",
+            "L-Diversity",
+            "T-Closeness",
+            "Differential Privacy: Concept, Mechanisms, and Applications"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Legal and Compliance Frameworks: Overview of GDPR, CCPA, HIPAA, and Their Implications for Big Data",
+            "Threat Landscape",
+            "Common Threats",
+            "Insider Threats",
+            "Advanced Persistent Threats (APTs)",
+            "Ransomware",
+            "DDoS Attacks in Big Data",
+            "Vulnerabilities",
+            "Vulnerabilities in Distributed Frameworks: Hadoop, Spark, and NoSQL Databases",
+            "Security Flaws in Data Aggregation and Integration Processes",
+            "Case Studies on Compliance Challenges and Solutions"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Risk Management: Risk Assessment Frameworks and Tools Specific to Big Data",
+            "Threat Modelling",
+            "STRIDE",
+            "DREAD Models for Big Data Systems",
+            "Security Best Practices",
+            "Data Masking",
+            "Tokenization",
+            "Maintaining Audit Trails",
+            "Secure Coding Practices for Big Data Applications",
+            "Security Monitoring and Incident Response: Security Information and Event Management (SIEM) for Big Data",
+            "Incident Response Strategies for Big Data Breaches"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]
