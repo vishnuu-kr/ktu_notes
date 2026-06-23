@@ -1,0 +1,95 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Basics of Measurement",
+            "Generalized Block Diagram of Instrumentation System",
+            "Standards",
+            "Calibration of Meters",
+            "Static and Dynamic Characteristics of Transducers",
+            "Errors in Measurements and its Analysis",
+            "Measurement of Resistance, Capacitance and Inductance",
+            "DC and AC Bridges",
+            "Sources and Detectors - Balance Equation",
+            "Wheatstone Bridge",
+            "Kelvin's Double Bridge",
+            "Maxwell's Inductance Bridge and Maxwell's Inductance-Capacitance Bridge",
+            "Schering Bridge",
+            "Wien's Bridge"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Transducers - Classification",
+            "Factors Influencing Choice of Transducer",
+            "Passive Transducers",
+            "Principle of Operation",
+            "Construction Details",
+            "Characteristics",
+            "Types",
+            "Measuring Circuits and Applications of Resistance Transducers",
+            "Potentiometer",
+            "Strain Gauge (Gauge Factor Derivation), Strain Gauge Load Cell, Resistance Thermometer (2-Wire, 3-Wire and 4-Wire), Thermistor",
+            "Inductive Transducers",
+            "LVDT",
+            "Capacitive Transducers - Variable Air Gap, Variable Area, Variable Permittivity Types"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Active Transducers",
+            "Principle of Operation",
+            "Construction Details",
+            "Characteristics",
+            "Types and Applications of Thermocouple (Cold Junction Compensation)",
+            "Piezoelectric Transducers",
+            "Hall Effect Transducers",
+            "Photovoltaic Cell",
+            "Opto-electric Transducers",
+            "Photodiode",
+            "Phototransistor",
+            "Photoconductive Cell",
+            "LDR",
+            "Accelerometers - Piezoelectric, Potentiometric, LVDT",
+            "Non-Contact Type Transducers",
+            "Infrared and Ultrasonic Proximity Sensors",
+            "Microwave Level Switches",
+            "Optical Level Sensor",
+            "Ultrasonic Level Sensor",
+            "Pyrometers - Optical and Radiation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Measuring Instruments",
+            "Display Instruments",
+            "Analysing and Recording Instruments",
+            "Working and Torque Equations of PMMC",
+            "PMMI",
+            "Electrodynamometer",
+            "Sampling Oscilloscope",
+            "Digital Storage Oscilloscopes",
+            "LCD Displays",
+            "Spectrum Analyzer",
+            "Instrument Transformers",
+            "Current Transformer and Potential Transformer",
+            "Peak Response Voltmeter",
+            "True RMS Meter",
+            "Q Meter",
+            "Strip Chart Recorder",
+            "XY Plotter",
+            "Suggestion on Project Topics - Note: 1. The project proposal submitted by each group (4 to 8 students) must include a measurement system, which can be either analog or digital. 2. The sensor calibration is mandatory. 3. Students can incorporate suitable signal conditioning circuits, communication standards or display devices in the project work. They can evaluate the outputs and run necessary analytics on the data generated. 4. Sample projects: a. Implementation of a temperature transducer for low temperature measurement, b. Wind measurement system using anemometers, c. Vibration measurement using accelerometers"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]

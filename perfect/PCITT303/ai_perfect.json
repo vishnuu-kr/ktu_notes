@@ -1,0 +1,81 @@
+[
+    {
+        "module": "Module 1",
+        "topics": [
+            "Introduction to Data Structures",
+            "Definitions and Classifications of Data Structures: ADT and CDT",
+            "Linear and Non-Linear, Static and Dynamic Data Structures",
+            "Algorithm and Program Development",
+            "Analysis of Algorithms: Space Complexity",
+            "Time Complexity: Linear, Quadratic, Cubical, Logarithmic, and Exponential Functions",
+            "Asymptotic Notations: Best Case, Worst Case, Average Case",
+            "Arrays: Definition and Properties",
+            "Representation of Single and Two-Dimensional Arrays",
+            "Sparse Matrix",
+            "Polynomial Representation and Manipulation Using Arrays (Addition Only)",
+            "Stack: Operations on Stack Using Array",
+            "Queues: Definition and Operations on Queue Using Array",
+            "Circular Queue Implementation Using Array",
+            "Other Types of Queues: Dequeue and Priority Queue (Concept Only)",
+            "Applications of Stack: Infix to Postfix Conversion and Postfix Evaluation"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 2",
+        "topics": [
+            "Searching: Linear Search and Binary Search",
+            "Sorting: Bubble Sort, Selection Sort, Insertion Sort",
+            "Quicksort and Merge Sort (Recursive Algorithms Only)",
+            "Complexity Analysis of Sorting Algorithms",
+            "Heap Sort",
+            "Hash Tables",
+            "Different Hash Functions: Division Method, Multiplication Method, Mid Square Method, Folding Method",
+            "Collision Resolution Techniques: Closed Hashing (Linear Probing) - Drawbacks",
+            "Open Hashing (Separate Chaining)",
+            "Remedies: Random Probing, Quadratic Probing, Double Hashing",
+            "Load Factor and Re-hashing"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 3",
+        "topics": [
+            "Linked List: Definition",
+            "Array vs Linked List",
+            "Dynamic Memory Management",
+            "Representation of a Linked List",
+            "Classification: Singly Linked List, Doubly Linked List, Circular Singly Linked List",
+            "Operations on Singly Linked List: Traversal, Insertion, Deletion, and Searching",
+            "Applications of Linked List: Polynomial Representation and Manipulation (Addition Only)",
+            "Operations on Doubly Linked List: Traversal, Insertion, Deletion, and Searching",
+            "Circular Linked List (Concept Only)",
+            "Linked List Representation of Stack and Queue",
+            "Stack Implementation and Operations on Stack Using Linked List",
+            "Queue Implementation and Operations on Queue Using Linked List"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    },
+    {
+        "module": "Module 4",
+        "topics": [
+            "Trees: Definition, Height, Depth, Degree, Level",
+            "Binary Trees: Properties of Binary Trees, Complete, Perfect, and Full Binary Tree",
+            "Linear and Linked List Representations of Binary Trees",
+            "Binary Tree Traversals: Preorder, Inorder, and Postorder (Recursive Algorithms Only)",
+            "Binary Tree Applications: Expression Tree Creation",
+            "Binary Search Tree: Creation, Insertion, Deletion, and Search Operations",
+            "Heap Creation",
+            "Graph: Definition and Set Representations",
+            "Directed and Undirected Graph",
+            "Adjacency Matrix and Adjacency List Representation",
+            "Graph Traversal: Breadth First Search (BFS), Depth First Search (DFS)",
+            "Graph Applications: Shortest Path Problem - Dijkstra's Algorithm"
+        ],
+        "rejected_topics": null,
+        "status": "verified"
+    }
+]
